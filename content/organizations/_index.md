@@ -1,4 +1,4 @@
 +++
 title = "Organizations"
-render=true
+insert_anchor_links = "right"
 +++
