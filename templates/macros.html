@@ -1,0 +1,30 @@
+{% macro sidebar_character(name, taxa, ddb="") %}
+<aside class="sidebar-character {% if class %}{{class}}{% endif %}">
+  <h2><a target="_blank" rel="noopen" href="{% if ddb %}{{ ddb | safe }}{% endif %}">{{ name }}</a></h2>
+  <hr />
+  <ul>
+    {% if 'families' in taxa %}
+      <h3>Families</h3>
+      {% set families = get_taxonomy(kind='families') %}
+      {% for family in families.items %}
+      <li><a href="{{ family.permalink | safe }}"> {{ family.name }}</a></li>
+      {% endfor %}
+    {% endif %}
+    {% if 'organizations' in taxa %}
+      <h3>Organizations</h3>
+      {% set orgs = get_taxonomy(kind='organizations') %}
+      {% for org in orgs.items %}
+      <li><a href="{{ org.permalink | safe }}"> {{ org.name }}</a></li>
+      {% endfor %}
+    {% endif %}
+    {% if 'religions' in taxa %}
+      <h3>Religions</h3>
+      {% set religions = get_taxonomy(kind='religions') %}
+      {% for religion in religions.items %}
+      <li><a href="{{ religion.permalink | safe }}"> {{ religion.name }}</a></li>
+      {% endfor %}
+    {% endif %}
+    {% if religions %}{% endif %}
+  </ul>
+</aside>
+{% endmacro sidebar %}
