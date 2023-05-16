@@ -1,0 +1,5 @@
+{% extends "zola_easydocs_theme/templates/index.html" %}
+{% block content%}
+<link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
+{{ super() }}
+{% endblock %}

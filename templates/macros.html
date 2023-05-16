@@ -1,3 +1,15 @@
+{% macro calendar() %}
+<script src='https://app.fantasy-calendar.com/js/embed.js'></script>
+<script>
+  FantasyCalendar({
+    hash: '089e518f9ea966373b1c71535c25b98a',
+    settings: {
+      theme: 'blue_grey',
+    },
+  });
+</script>
+{% endmacro calendar %}
+
 {% macro sidebar_character(name, taxa, ddb="") %}
 <aside class="sidebar-character {% if class %}{{class}}{% endif %}">
   <h2><a target="_blank" rel="noopen" href="{% if ddb %}{{ ddb | safe }}{% endif %}">{{ name }}</a></h2>
@@ -27,4 +39,4 @@
     {% if religions %}{% endif %}
   </ul>
 </aside>
-{% endmacro sidebar %}
+{% endmacro sidebar_character %}
