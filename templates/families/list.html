@@ -1,0 +1,6 @@
+{# {% extends "zola_easydocs_theme/templates/section.html" %} #}
+<ul>
+  {% for term in terms %}
+  <li><a href="{{ term.path }}">{{ term.name }}</a></li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,9 @@
+{% extends "zola_easydocs_theme/templates/page.html" %}
+{% set lowered = term.name | lower %}
+{% set page_path = "families/" ~ lowered ~ ".md" %}
+{% set page = get_page(path=page_path) %}
+
+{% block title %} {{ config.title }} | {{ page.title }} {% endblock title %}
+{% block content %}
+{{ page.content | safe }}
+{% endblock content %}
