@@ -3,15 +3,21 @@ article {
 }
 
 #wrap {
+  #calendar-header {
+      margin: 1rem 1rem 2rem 1rem;
+      padding: 1rem 3rem 1rem 3rem;
+      clear: right;
+      float: right;
+    }
   #calendar {
-      width: 100%;
+    width: 100%;
       display: flex;
       justify-content: center;
-  
-      #fantasy-calendar-embed {
+    #fantasy-calendar-embed {
         display: inline-block;
       }
     }
+    
   table {
     border-collapse: collapse;
     width: 100%;

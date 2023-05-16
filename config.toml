@@ -17,8 +17,12 @@ taxonomies = [
   { name = "religions", feed = true, render = false },
 ]
 
+external_links_target_blank = true
+external_links_no_follow = true
+external_links_no_referrer = true
+
 [slugify]
-taxonomies = "on"
+taxonomies = "safe"
 
 [markdown]
 # Whether to do syntax highlighting

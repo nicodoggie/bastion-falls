@@ -1,10 +1,13 @@
-{% macro calendar() %}
+{% macro calendar(embed="calendar-embed", theme="blue_grey", size="xl") %}
+<div id="{{ embed }}"></div>
 <script src='https://app.fantasy-calendar.com/js/embed.js'></script>
 <script>
   FantasyCalendar({
+    selector: "#{{ embed }}",
     hash: '089e518f9ea966373b1c71535c25b98a',
     settings: {
-      theme: 'blue_grey',
+      theme: "{{ theme }}",
+      size: "{{ size }}"
     },
   });
 </script>
