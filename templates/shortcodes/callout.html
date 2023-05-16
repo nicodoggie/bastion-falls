@@ -1,4 +1,7 @@
-<div class="note-block {{ type | lower }}">
-  <h3>{{ type | title }}</h3>
-  <p>{{ body }}</p>
+<div class="callout-block {% block typeclass %}{{ type | lower }}{% endblock %}">
+  <h3>{% block typetitle %}{{ type | title }}{% endblock %}</h3>
+
+  <p>{%- block callout -%}
+    {{ body }}
+    {%- endblock -%}</p>
 </div>

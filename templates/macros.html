@@ -1,3 +1,10 @@
+{% macro callout(type="", body) %}
+<div class="callout-block {{ type | lower }}">
+  <h3>{{ type | title }}</h3>
+  <p>{{ body }}</p>
+</div>
+{% endmacro callout%}
+
 {% macro calendar(embed="calendar-embed", theme="blue_grey", size="xl") %}
 <div id="{{ embed }}"></div>
 <script src='https://app.fantasy-calendar.com/js/embed.js'></script>
