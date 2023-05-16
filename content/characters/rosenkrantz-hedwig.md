@@ -10,7 +10,6 @@ religions = ["Orthodox Divine Masochist"]
 [extra]
 ddb = "https://www.dndbeyond.com/characters/57319903"
 +++
-
 # Introduction
 
 Hedwig is the only daughter of Bain and Karen Rosenkrantz, a noble family of landowners in Sacily, Nura, Her mother Karen (nee; Guildenstern) came from a family of dramatists, folklorists and entertainers who travel the world to experience different cultures and turn them into ballads, opera and plays. When Hedwig turns ten she is told that she is a miracle. Her parents believed they were blessed to have a child so late in their life after trying for so many years.
@@ -30,3 +29,4 @@ Hedwig is a tall young woman, with long wavy black hair that extends past her wa
 Hedwig  is a modest and hardworking woman, whose ferocious loyal nature makes her a valuable ally. Described by all her friends as a very practical woman, but a very fiery woman who seems to know precisely what she wants in life and how she means to get it. Hedwig has a true spark of joy for life. Like her Mother, She loves new experiences, and sharing them with the people she cares about. She's a playful soul at heart, though she keeps this nature to appropriate times now that she's grown.
 
 She likes bone broth and always carries a waterskin filled with it. She also enjoys spicy and sour food. She likes people who are morally grey and ambiguous. She goes to the theatre with her family on weekends. 
+

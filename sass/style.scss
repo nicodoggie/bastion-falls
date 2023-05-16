@@ -4,6 +4,7 @@ article {
 
 #wrap {
   #calendar-header {
+    width: fit-content;
       margin: 1rem 1rem 2rem 1rem;
       padding: 1rem 1rem 1rem 3rem;
       clear: right;
@@ -73,4 +74,35 @@ article {
   background-color: #efefef;
   clear: right;
   float: right;
+}
+.note-block {
+  display: flow-root;
+  padding: 0 1rem;
+}
+
+.note-block.info {
+  h3::before {
+    content: "🛈 ";
+  }
+
+  border: 1px skyblue solid;
+  background-color: lightblue;
+}
+
+.note-block.warning {
+  h3::before {
+    content: "⚠ ";
+  }
+
+  border: 1px rgb(207, 182, 100) solid;
+  background-color: beige;
+}
+
+.note-block.error {
+  h3::before {
+    content: "⚠ ";
+  }
+
+  border: 1px red solid;
+  background-color: pink;
 }

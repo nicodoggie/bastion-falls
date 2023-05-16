@@ -35,3 +35,4 @@ internal_level = "warn"
 [extra]
 # Put all your custom variables here
 easydocs_heading_threshold = 2
+repo = "https://github.com/nicodoggie/bastion-falls"
