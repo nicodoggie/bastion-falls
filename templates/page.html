@@ -2,12 +2,12 @@
 {% import "macros.html" as macros %}
 {%block content %}
 <div id="calendar-header">
-  {{ macros::calendar(size='s')}}
+  {{ macros::calendar(size='md')}}
 </div>
 <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
 {# Check if page is in the "character section" #}
-  {% if page.path is starting_with("/character") %}
-    {{ macros::sidebar_character(name=page.title, taxa=page.taxonomies, ddb=page.extra.ddb) }}
-  {% endif %}
+{% if page.path is starting_with("/character") %}
+{{ macros::sidebar_character(name=page.title, taxa=page.taxonomies, ddb=page.extra.ddb) }}
+{% endif %}
 {{ super() }}
 {% endblock %}
