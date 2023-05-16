@@ -1,5 +1,6 @@
 +++
 title="Ahore"
+insert_anchor_links = "right"
 +++
 
 {{ incomplete() }}
@@ -54,8 +55,10 @@ punishment are raised as a Konti Kirsharti of the last Pariya ancestor's master.
 ### Akkibati
 
 ### Provobati
+The Provobati are the merchant and artisanal class of the Ahurians. They were said to have been the descendants of those who had provided goods and services to the [Great Ahuriyata](@/characters/great-ahuriyata.md) during the [Ahurian Conquest](@/misc/ahurian-conquest.md).
 
 ### Ponsabati
+The Ponsabati are the farmer chas of the Ahurians. They were said to have been the descendants of those who had gathered food for the Great Ahuriyata's armies during the Conquest.
 
 
 ### Harsi
