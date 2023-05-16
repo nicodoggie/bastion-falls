@@ -1,3 +1,4 @@
 +++
 title = "Naturalist Movement"
 +++
+{{ stub() }}

@@ -75,12 +75,12 @@ article {
   clear: right;
   float: right;
 }
-.note-block {
+.callout-block {
   display: flow-root;
   padding: 0 1rem;
 }
 
-.note-block.info {
+.callout-block.info {
   h3::before {
     content: "🛈 ";
   }
@@ -89,7 +89,7 @@ article {
   background-color: lightblue;
 }
 
-.note-block.warning {
+.callout-block.warning {
   h3::before {
     content: "⚠ ";
   }
@@ -98,7 +98,7 @@ article {
   background-color: beige;
 }
 
-.note-block.error {
+.callout-block.error {
   h3::before {
     content: "⚠ ";
   }
