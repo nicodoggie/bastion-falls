@@ -1,10 +1,11 @@
 +++
 title = "Apgarian Confederacy"
+location_class = "country"
 +++
 
-# Apgar Confederacy
-
 {{ stub() }}
+
+# Apgar Confederacy
 
 The Apgar Confederacy is a group of nation-states that formed a union based on
 shared trade goals and history.

@@ -4,5 +4,6 @@
 {%- block callout -%}
 {%- set link = "[github repo]("~config.extra.repo~")" | markdown(inline=true) -%}
 This article is incomplete!
+
 You can help fill in the details with a pull request on our {{ link }}.'
 {%- endblock -%}

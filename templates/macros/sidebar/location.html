@@ -1,0 +1,31 @@
+{% macro location(name, config) %}
+<aside class="sidebar sidebar-location {% if class %}{{class}}{% endif %}">
+  <h2>{{ name }}</h2>
+  <hr />
+  <dl>
+    {% if config.extra.population %}
+    <dt>
+      <h3>Population</h3>
+    </dt>
+    <dd>{{ config.extra.population }}</dd>
+    {% endif %}
+    {% if config.extra.parent_locations %}
+    {% for location in config.extra.parent_locations %}
+    {% if location.slug %}
+    {% set slug = location.slug %}
+    {% else %}
+    {% set slug = location.name | slugify %}
+    {% endif %}
+
+    {% set page = get_page(path='locations/'~slug~'.md') %}
+    <dt>
+      <h3>{{ location.location_class | title}}</h3>
+    </dt>
+    <dd>
+      <a href={{page.permalink}}>{{ location.name | title}}</a>
+    </dd>
+    {% endfor %}
+    {% endif %}
+  </dl>
+</aside>
+{% endmacro location %}

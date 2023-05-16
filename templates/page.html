@@ -9,5 +9,8 @@
 {% if page.path is starting_with("/character") %}
 {{ macros::sidebar_character(name=page.title, taxa=page.taxonomies, ddb=page.extra.ddb) }}
 {% endif %}
+{% if page.path is starting_with("/locations") %}
+{{ macros::sidebar_location(name=page.title, config=page) }}
+{% endif %}
 {{ super() }}
 {% endblock %}

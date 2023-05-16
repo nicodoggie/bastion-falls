@@ -1,3 +1,6 @@
+{% import "macros/sidebar/character.html" as char %}
+{% import "macros/sidebar/location.html" as loc %}
+
 {% macro callout(type="", body) %}
 <div class="callout-block {{ type | lower }}">
   <h3>{{ type | title }}</h3>
@@ -20,33 +23,11 @@
 </script>
 {% endmacro calendar %}
 
+{% macro sidebar_location(name, config) %}
+{{ loc::location(name=name, config=config) }}
+{% endmacro sidebar_location %}
+
 {% macro sidebar_character(name, taxa, ddb="") %}
-<aside class="sidebar-character {% if class %}{{class}}{% endif %}">
-  <h2><a target="_blank" rel="noopen" href="{% if ddb %}{{ ddb | safe }}{% endif %}">{{ name }}</a></h2>
-  <hr />
-  <ul>
-    {% if 'families' in taxa %}
-      <h3>Families</h3>
-      {% set families = get_taxonomy(kind='families') %}
-      {% for family in families.items %}
-      <li><a href="{{ family.permalink | safe }}"> {{ family.name }}</a></li>
-      {% endfor %}
-    {% endif %}
-    {% if 'organizations' in taxa %}
-      <h3>Organizations</h3>
-      {% set orgs = get_taxonomy(kind='organizations') %}
-      {% for org in orgs.items %}
-      <li><a href="{{ org.permalink | safe }}"> {{ org.name }}</a></li>
-      {% endfor %}
-    {% endif %}
-    {% if 'religions' in taxa %}
-      <h3>Religions</h3>
-      {% set religions = get_taxonomy(kind='religions') %}
-      {% for religion in religions.items %}
-      <li><a href="{{ religion.permalink | safe }}"> {{ religion.name }}</a></li>
-      {% endfor %}
-    {% endif %}
-    {% if religions %}{% endif %}
-  </ul>
-</aside>
+  {{ char::character(name=name, taxa=taxa, ddb=ddb) }}
 {% endmacro sidebar_character %}
+  

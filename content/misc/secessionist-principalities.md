@@ -2,7 +2,7 @@
 title = "The Secessionist Principalities"
 +++
 
-{{ stub() }}
+{{ stub() }
 
 # The Secessionist Principalitites
 

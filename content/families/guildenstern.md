@@ -4,7 +4,7 @@ title = "Guildenstern"
 
 # Guildenstern
 
-The House of Guildenstern is known throughout Western [Betera](@/locations/betera.md) for their collective contribution to the arts.
+The House of Guildenstern is known throughout Western [Betera](@/locations/betera/index.md) for their collective contribution to the arts.
 Many notable members are playwrights, actors, painters, dancers and musicians, who have contributed innovations to the crafts they practiced.
 
 ## Notable Guildensterns
