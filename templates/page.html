@@ -4,6 +4,8 @@
 <div id="calendar-header">
   {{ macros::calendar(size='md')}}
 </div>
+<h1 class="title">{{ page.title | title }}</h1>
+<hr />
 <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
 {# Check if page is in the "character section" #}
 {% if page.path is starting_with("/character") %}
