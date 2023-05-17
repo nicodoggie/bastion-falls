@@ -1,7 +1,11 @@
 +++
-title = "The Kingdom of Poasah"
+location_id = "5"
+slug = "poasah"
+title = "Poasah"
 [taxonomies]
-location_class = ["country"]
+location_class = ["kingdom", "country"]
+parent_location_id = ["19"]
+
 +++
 
 {{ stub() }}

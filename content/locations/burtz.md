@@ -1,7 +1,10 @@
 +++
+location_id = "23"
+slug = "burtz"
 title = "Burtz"
 [taxonomies]
 location_class = ["country"]
+parent_location_id = ["19"]
 +++
 
 {{ stub() }}

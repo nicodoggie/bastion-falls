@@ -1,8 +1,11 @@
 +++
+location_id = "29"
+slug = "manascula"
 title = "Manascula"
 [taxonomies]
-location_class = ["principality"]
-parent_location_id = []
+location_class = ["principality", "protectorate"]
+parent_location_id = ["21"]
+
 +++
 
 {{ stub() }}

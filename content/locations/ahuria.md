@@ -1,7 +1,10 @@
 +++
 title = "The Ahurian Empire"
+location_id = "21"
+slug = "ahuria"
 [taxonomies]
 location_class = ["country"]
+parent_location_id = ["20"]
 +++
 
 # Ahuria
