@@ -1,12 +1,13 @@
 +++
 title = "Raibon Island"
 [extra]
-location_class = "island"
 population = "170,000"
 parent_locations = [
   { name = "Apgarian Confederacy", slug="apgar", location_class = "country" },
   { name = "Sanery", slug="sanery", location_class = "state" }
 ]
+[taxonomies]
+location_class = ["island"]
 +++
 
 {{ outofdate() }}

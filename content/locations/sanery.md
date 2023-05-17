@@ -1,5 +1,6 @@
 +++
 title = "Sanery"
 [extra]
-location_class = "state"
+[taxonomies]
+location_class = ["state"]
 +++

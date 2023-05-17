@@ -1,6 +1,7 @@
 +++
 title = "The Kingdom of Poasah"
-location_class = "country"
+[taxonomies]
+location_class = ["country"]
 +++
 
 {{ stub() }}

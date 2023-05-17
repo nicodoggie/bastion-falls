@@ -1,6 +1,7 @@
 +++
 title = "Burtz"
-location_class = "country"
+[taxonomies]
+location_class = ["country"]
 +++
 
 {{ stub() }}

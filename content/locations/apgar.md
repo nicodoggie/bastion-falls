@@ -1,6 +1,7 @@
 +++
 title = "Apgarian Confederacy"
-location_class = "country"
+[taxonomies]
+location_class = ["country"]
 +++
 
 {{ stub() }}

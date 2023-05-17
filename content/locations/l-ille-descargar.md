@@ -1,6 +1,7 @@
 +++
 title = "L' Ille Descargar"
-location_class = "Island"
+[taxonomies]
+location_class = ["Island"]
 +++
 
 {{ stub() }}

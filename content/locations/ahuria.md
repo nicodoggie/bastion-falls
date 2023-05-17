@@ -1,6 +1,7 @@
 +++
 title = "The Ahurian Empire"
-location_class = "country"
+[taxonomies]
+location_class = ["country"]
 +++
 
 # Ahuria

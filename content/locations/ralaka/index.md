@@ -1,6 +1,8 @@
 +++
 title="Ralaka"
-location_class="continent"
+location_id = "20"
+[taxonomies]
+location_class=["continent"]
 +++
 
 # Ralaka

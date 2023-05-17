@@ -1,6 +1,7 @@
 +++
 title = "Port Rainoso"
-location_class = "town"
+[taxonomies]
+location_class = ["town"]
 +++
 
 stub()

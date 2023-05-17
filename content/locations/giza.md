@@ -1,7 +1,8 @@
 +++
 title = "Giza"
-location_class = "principality"
-parent = "@/locations/ahuria.md"
+[taxonomies]
+location_class = ["principality"]
+parent_location_id = []
 +++
 
 {{ stub() }}
