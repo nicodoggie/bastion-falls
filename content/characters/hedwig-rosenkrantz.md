@@ -1,11 +1,12 @@
 +++
 title = "Hedwig Rosenkrantz"
-template = "page.html"
+character_id = "9"
 
 [taxonomies]
 families = ["Rosenkrantz", "Guildenstern"]
 organizations = ["La Camaraderie"]
 religions = ["Orthodox Divine Masochist"]
+family_id = ["3"]
 
 [extra]
 ddb = "https://www.dndbeyond.com/characters/57319903"
