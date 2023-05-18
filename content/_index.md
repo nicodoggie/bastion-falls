@@ -1,7 +1,7 @@
 +++
 title = "Bastion Falls"
 insert_anchor_links = "right"
-sort_by = "title"
+sort_by = "weight"
 +++
 {{ calendar() }}
 # Bastion Falls

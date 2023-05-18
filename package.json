@@ -1,0 +1,12 @@
+{
+  "name": "bastion-falls-zola",
+  "packageManager": "yarn@4.0.0-rc.43",
+  "workspaces": [
+    "content-tree-builder/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "zola build",
+    "serve": "zola serve"
+  }
+}

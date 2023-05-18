@@ -1,6 +1,7 @@
 +++
 title = "Timeline of Major Events"
 slug = "timeline"
+weight = 11
 +++
 
 # Timeline of Major Events
