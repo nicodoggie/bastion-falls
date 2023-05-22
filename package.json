@@ -1,6 +1,7 @@
 {
   "name": "bastion-falls-zola",
-  "packageManager": "yarn@4.0.0-rc.43",
+  "private": true,
+  "packageManager": "yarn@4.0.0-rc.44",
   "workspaces": [
     "content-tree-builder/*",
     "packages/*"
