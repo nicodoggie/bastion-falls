@@ -4,10 +4,21 @@ jobs:
   discord:
     runs-on: ubuntu-latest
     steps:
+    - name: Update CHANGELOG
+      id: changelog
+      uses: requarks/changelog-action@v1
+      with:
+        token: ${{ github.token }}
+        tag: ${{ github.ref_name }}
+
     - name: Discord notification
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
       uses: Ilshidur/action-discord@master
       with:
-        args: 'The project {{ EVENT_PAYLOAD.repository.full_name }} has been deployed.'
-        
+        args: |
+          The project {{ EVENT_PAYLOAD.repository.full_name }} has been deployed.
+
+          Changes:
+          ${{ steps.changelog.outputs.changes }}
+          
