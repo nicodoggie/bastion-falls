@@ -1,7 +1,7 @@
 commit-msg:
   commands:
     commitlint:
-      run: yarn commitlint --edit ${1}
+      run: yarn commitlint --edit
 # EXAMPLE USAGE:
 #
 #   Refer for explanation to following link:
