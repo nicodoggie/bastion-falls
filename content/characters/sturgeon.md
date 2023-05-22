@@ -1,5 +1,7 @@
 +++
 title = "Sturgeon"
+character_id = "2"
+aliases = ["characters/nadaja"]
 
 [taxonomies]
 religions = ["Ahore"]
