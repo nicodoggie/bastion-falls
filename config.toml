@@ -19,12 +19,14 @@ taxonomies = [
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },
 
+  { name = "character_id", feed = false, render = false },
+  { name = "character_org_id", feed = false, render = false },
+
   { name = "journal_type", feed = true, render = false },
   { name = "location_id", feed = false, render = false },
   { name = "event_type", feed = true, render = false },
   { name = "parent_event_id", feed = false, render = false },
   { name = "family_id", feed = false, render = false },
-  { name = "character_id", feed = false, render = false },
   { name = "family_location_id", feed = false, render = false },
   { name = "parent_location_id", feed = false, render = false },
 ]
