@@ -1,0 +1,10 @@
+{% extends "zola_easydocs_theme/templates/index.html" %}
+{% block content %}
+<ul>
+  {% for term in terms %}
+  {% for page in term.pages %}
+  <li><a href="{{ page.permalink }}">{{ term.name }} - {{ page.title }}</a></li>
+  {% endfor %}
+  {% endfor %}
+</ul>
+{% endblock %}

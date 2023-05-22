@@ -1,16 +1,14 @@
 +++
 age = "23"
-character_id = "83"
+aliases = ["characters/lavinia"]
 pronouns = "She/Her"
 sex = "Female"
 title = "Inez Lanessiana Cicero"
-aliases = ["characters/lavinia"]
-
-[taxonomies]
-character_org_id = ["34"]
-
 [extra]
 ddb = "https://www.dndbeyond.com/characters/70863362"
+[taxonomies]
+character_id = ["83"]
+character_org_id = ["34"]
 +++
 
 {{ outofdate() }}

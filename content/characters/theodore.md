@@ -1,11 +1,11 @@
 +++
 age = 0
-character_id = "33"
 pronouns = ""
 sex = ""
 slug = "theodore"
 title = "Theodore"
-
+[taxonomies]
+character_id = ["33"]
 +++
 
 Theodore was an agent of the Apgarian military. He worked under an intelligence-focused sub-unit under the direct command of \[character:162\].  

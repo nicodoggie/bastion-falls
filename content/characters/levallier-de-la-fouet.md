@@ -1,13 +1,12 @@
 +++
 age = "58"
-character_id = "10"
 pronouns = "He/Him"
 sex = "Male"
 slug = "levallier-de-la-fouet"
 title = "Levallier de la Fouet"
 [taxonomies]
+character_id = ["10"]
 family_id = ["4"]
-
 +++
 
 Father Levallier de la Fouet is the parish priest of the \[organisation:79|Divine Masochist\] \[location:96\] in \[location:97\], and under-served and understaffed parish. He took the assignment to this problematic little parish after years in one of the more prestigious churches in \[location:17\] ostensibly to wind down after a somewhat tumultuous career in establishing the right to worship a religion that is usually associated with many of the enemies of the \[location:10|Apgarian Confederacy\].

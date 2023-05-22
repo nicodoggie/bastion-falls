@@ -1,13 +1,11 @@
 +++
-title = "Sturgeon"
-character_id = "2"
 aliases = ["characters/nadaja"]
-
-[taxonomies]
-religions = ["Ahore"]
-
+title = "Sturgeon"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/51591895"
+[taxonomies]
+character_id = ["2"]
+religions = ["Ahore"]
 +++
 
 # Introduction

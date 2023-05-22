@@ -1,7 +1,7 @@
 +++
 title = "Katalin Helinski"
-
 [taxonomies]
+character_id = ["86"]
 character_org_id = ["34"]
 +++
 

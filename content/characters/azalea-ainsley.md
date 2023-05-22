@@ -1,7 +1,7 @@
 +++
 title = "Azalea Ainsley"
-
 [taxonomies]
+character_id = ["85"]
 character_org_id = ["34"]
 +++
 

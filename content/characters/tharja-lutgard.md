@@ -1,7 +1,7 @@
 +++
 title = "Tharja Lutgard"
-
 [taxonomies]
+character_id = ["87"]
 character_org_id = ["34"]
 +++
 

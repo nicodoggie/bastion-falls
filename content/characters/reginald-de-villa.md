@@ -1,11 +1,11 @@
 +++
 age = "63"
-character_id = "26"
 pronouns = "He/Him"
 sex = "Male"
 slug = "reginald-de-villa"
 title = "Reginald de Villa"
-
+[taxonomies]
+character_id = ["26"]
 +++
 
 Reginald de Villa is an elected Draft Councilor in \[location:97\]. He is a 5th generation resident from the prominent \[race:114\] de Villa clan of merchants.

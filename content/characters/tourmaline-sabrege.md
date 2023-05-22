@@ -1,11 +1,11 @@
 +++
 age = 0
-character_id = "60"
 pronouns = ""
 sex = "Male"
 slug = "tourmaline-sabrege"
 title = "Tourmaline Sabrege"
-
+[taxonomies]
+character_id = ["60"]
 +++
 
 Tourmaline Sabrege is one of the founding members of the \[organisation:255\], and one of its most influential.

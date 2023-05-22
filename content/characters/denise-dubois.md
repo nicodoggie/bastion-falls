@@ -1,13 +1,12 @@
 +++
 age = "28"
-character_id = "35"
 pronouns = "She/Her"
 sex = "Female"
 slug = "denise-dubois"
 title = "Denise Dubois"
 [taxonomies]
+character_id = ["35"]
 family_id = ["6"]
-
 +++
 
 Denise Dubois is the only child of Alain and Zenovia Dubois of the Raibonian Dubois. She lived a sheltered life surrounded by servants and minders, her every move and activity carefully planned out by her tutors. For even at a young age, she had always been driven to meet her father's often unrealistic expectations--a small mistake would make her father mutter audibly in her presence, "I should have had a son."

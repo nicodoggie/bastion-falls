@@ -1,13 +1,12 @@
 +++
 age = "34"
-character_id = "42"
 pronouns = "He/Him"
 sex = "Male"
 slug = "patrick-balimbano"
 title = "Patrick Balimbano"
 [taxonomies]
+character_id = ["42"]
 family_id = ["10"]
-
 +++
 
 The man is an enigma. He works with the \[family:177\] as a "procurement" manager. He recruits new talent for their shows, and some of their other. less savory activities.

@@ -1,7 +1,7 @@
 +++
 title = "Mystine Nightingale"
-
 [taxonomies]
+character_id = ["88"]
 character_org_id = ["34"]
 +++
 

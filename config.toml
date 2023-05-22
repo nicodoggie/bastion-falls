@@ -19,7 +19,7 @@ taxonomies = [
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },
 
-  { name = "character_id", feed = false, render = false },
+  { name = "character_id", feed = false, render = true },
   { name = "character_org_id", feed = false, render = false },
 
   { name = "journal_type", feed = true, render = false },

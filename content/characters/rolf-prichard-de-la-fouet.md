@@ -1,13 +1,12 @@
 +++
 age = "45"
-character_id = "14"
 pronouns = "He/Him"
 sex = "Male"
 slug = "rolf-prichard-de-la-fouet"
 title = "Rolf Prichard de la Fouet"
 [taxonomies]
+character_id = ["14"]
 family_id = ["4"]
-
 +++
 
 Rolf Prichard de la Fouet is the second of three de la Fouet children born after the \[event:103\].

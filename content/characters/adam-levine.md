@@ -1,13 +1,12 @@
 +++
 age = "63"
-character_id = "49"
 pronouns = ""
 sex = ""
 slug = "adam-levine"
 title = "Adam Levine"
 [taxonomies]
+character_id = ["49"]
 family_id = ["9"]
-
 +++
 
 

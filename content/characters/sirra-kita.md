@@ -1,13 +1,12 @@
 +++
 age = "25"
-character_id = "5"
 pronouns = "She/Her"
 sex = "Female"
 slug = "sirra-kita"
 title = "Sirra Kita"
 [taxonomies]
+character_id = ["5"]
 family_id = ["1"]
-
 +++
 
 Sirra Kita is the eldest daughter of Duke of Trade, Coro Kita of Calamutz, Ever the obedient daughter, she had performed all the requirements of her noble birth. However, her stressful upbringing had led her to find release in the secret sex dens in the Calamutian dredges.
