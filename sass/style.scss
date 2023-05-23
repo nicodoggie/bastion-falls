@@ -129,3 +129,6 @@ table#org-list {
   border: 1px red solid;
   background-color: pink;
 }
+.mortality-dead::before {
+  content: "☠ ";
+}

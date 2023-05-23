@@ -19,8 +19,6 @@
     {% set class = class ~ " sidebar-location" %}
   {% endif %}
   <aside class="sidebar {% if class %}{{ class }}{% endif %}">
-    <h2><a target="_blank" rel="noopen" href="{% if ddb %}{{ ddb | safe }}{% endif %}">{{ page.title }}</a></h2>
-    <hr />
     {% if page.path is starting_with("/character") %}
       {{ macros::sidebar_character(name=page.title, config=page) }}
       {% endif %}

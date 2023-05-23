@@ -1,10 +1,19 @@
 {% import "macros/utils.html" as utils %}
 
 {% macro character(name, config) %}
+  {% set mortality = 'Alive' %}
+  {% if config.extra and config.extra.mortality_status%}
+    {% set mortality = config.extra.mortality_status | title %}
+  {% endif %}
+  <h2 class="mortality-{{ mortality | lower }}" title="{{ mortality }}"><a target="_blank" rel="noopen" href="{% if config.ddb %}{{ config.ddb | safe }}{% endif %}">{{ name }}</a></h2>
+  <hr />
   {% set taxa = config.taxonomies %}
     {%if config.extra %}
     <dl>
       {% for key, value in config.extra %}
+        {% if key == "mortality_status" %}
+          {% continue %}
+        {% endif %}
         <dt>
           <h3>{{ key | title }}</h3>
         </dt>

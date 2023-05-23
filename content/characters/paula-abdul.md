@@ -4,7 +4,7 @@ title = "Paula Abdul"
 age = "51"
 pronouns = "She/Her"
 sex = "Female"
-mortal_status = "Dead"
+mortality_status = "Dead"
 
 [taxonomies]
 organizations = ["Free Theater"]
