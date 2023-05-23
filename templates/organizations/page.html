@@ -1,0 +1,15 @@
+{% extends "page.html" %}
+
+{% block content %}
+{{ super() }}
+{% set taxonomy = get_taxonomy_term(kind="organizations", term=page.title, required=false) %}
+<h1>Members</h1>
+  {% if taxonomy %}
+  <ul>
+  {% for page in taxonomy.pages %}
+    <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</table>
+{% endblock %}
