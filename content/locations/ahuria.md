@@ -38,7 +38,7 @@ sphere of control as the Eastern Kalassarian Empire, and their
 diplomatic situation should be considered incomplete.
 {% end %}
 
-Tarsa refers to the continent to the east of Betera, and is connected by the [Isthmus of Bastion](@/location/isthmus_of_bastion.md). On its eastern shore, the Ahurian possessions of [Giza](@/locations/giza.md) and [Manascula](@/locations/manascula.md) can be found.
+Tarsa refers to the continent to the east of Betera, and is connected by the [Isthmus of Bastion](@/locations/isthmus_of_bastion.md). On its eastern shore, the Ahurian possessions of [Giza](@/locations/giza.md) and [Manascula](@/locations/manascula.md) can be found.
 
 Once countries in their own right of Giza and Manascula were client nations of the Burtian Empire before they were taken over by the Ahurians. Giza was the first large territorial acquisition taken by Ahuria after the semi-mythical days of the Great Ahuriyata.
 
