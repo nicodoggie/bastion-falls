@@ -24,3 +24,7 @@ betterment of all.
 
 What had caused the Fall of Bastion? Where do these powers manifest from? Are
 these the End of Days, as prophesied millennia ago?
+
+
+The contents in this site are world-building materials for a fictional campaign setting. Any similarities 
+to certain individuals' names, likenesses, personalities and appearances are purely coincidental. 
