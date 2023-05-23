@@ -1,9 +1,9 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "aloysius-coutillie"
 title = "Aloysius Coutillie"
+[extra]
+pronouns = "He/Him"
+sex = "Male"
+mortality_status = "Dead"
 [taxonomies]
 organizations = ["Coutillie"]
 families = ["Coutillie"]
