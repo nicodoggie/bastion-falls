@@ -132,3 +132,6 @@ table#org-list {
 .mortality-dead::before {
   content: "☠ ";
 }
+.subtree {
+  overflow: scroll !important;
+}
