@@ -27,7 +27,7 @@
 {{ loc::location(name=name, config=config) }}
 {% endmacro sidebar_location %}
 
-{% macro sidebar_character(name, taxa, ddb="") %}
-  {{ char::character(name=name, taxa=taxa, ddb=ddb) }}
+{% macro sidebar_character(name, config) %}
+  {{ char::character(name=name, config=config) }}
 {% endmacro sidebar_character %}
   

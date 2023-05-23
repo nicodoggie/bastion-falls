@@ -16,6 +16,8 @@ taxonomies = [
   { name = "organizations", feed = true, render = true },
   { name = "religions", feed = true, render = false },
 
+  { name = "parents", feed = false, render = false },
+
   { name = "location_class", feed = true, render = false },
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },

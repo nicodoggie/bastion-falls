@@ -1,7 +1,4 @@
 {% macro location(name, config) %}
-<aside class="sidebar sidebar-location {% if class %}{{class}}{% endif %}">
-  <h2>{{ name }}</h2>
-  <hr />
   <dl>
     {% if config.extra.population %}
     <dt>
@@ -26,6 +23,4 @@
     </dd>
     {% endfor %}
     {% endif %}
-  </dl>
-</aside>
 {% endmacro location %}

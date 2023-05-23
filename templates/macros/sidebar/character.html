@@ -1,11 +1,21 @@
 {% import "macros/utils.html" as utils %}
 
-{% macro character(name, taxa, ddb="") %}
-<aside class="sidebar sidebar-character {% if class %}{{class}}{% endif %}">
-  <h2><a target="_blank" rel="noopen" href="{% if ddb %}{{ ddb | safe }}{% endif %}">{{ name }}</a></h2>
-  <hr />
+{% macro character(name, config) %}
+  {% set taxa = config.taxonomies %}
+    {%if config.extra %}
+    <dl>
+      {% for key, value in config.extra %}
+        <dt>
+          <h3>{{ key | title }}</h3>
+        </dt>
+        <dd>
+          {{ value }}
+        </dd>
+      {% endfor %}
+    </dl>
+    {% endif %}
+    {{ utils::list_taxa(taxon='parents', taxa=taxa, section='characters') }}
     {{ utils::list_taxa(taxon='families', taxa=taxa) }}
     {{ utils::list_taxa(taxon='organizations', taxa=taxa) }}
     {{ utils::list_taxa(taxon='religions', taxa=taxa) }}
-</aside>
 {% endmacro character %}

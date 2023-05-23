@@ -22,11 +22,10 @@
     {% for page in term.pages %}
     <tr>
       {% set pages = term.pages | length %}
-      <!-- {{ loop.index }} {{ pages }} {{ loop.index % pages }}-->
       {% if loop.index == 1 %}
-      <td class="col-bold" rowspan="{{ pages }}">{{ term.name }}</td>
+      <td class="col-title col-left col-bold" rowspan="{{ pages }}">{{ term.name }}</td>
       {% endif %}
-      <td>
+      <td class="col-left">
         <a href="{{ page.permalink }}">{{ page.title }}</a>
       </td>
     </tr>

@@ -88,9 +88,12 @@ table#org-list {
     text-indent: 1rem;
   }
 
+  width: 17rem;
   margin: 1rem 1rem 2rem 1rem;
   padding: 1rem 3rem 1rem 3rem;
+  font-size: 15px;
   background-color: #efefef;
+  overflow-x: auto;
   clear: right;
   float: right;
 }

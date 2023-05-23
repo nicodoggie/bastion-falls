@@ -1,10 +1,14 @@
-{% macro list_taxa(taxon, taxa) %}
+{% macro list_taxa(taxon, taxa, section='') %}
   {% if taxon in taxa %}
     <dl>
       <dt><h3>{{ taxon | title }}</h3></dt>
+      {% set path = taxon %}
+      {% if section != ''%}
+        {% set path = section %}
+      {% endif%}
       {% for item in taxa[taxon] %}
         {% set slug = item | slugify %}
-        {% set page = get_page(path=taxon~'/'~slug~'.md') %}
+        {% set page = get_page(path=path~'/'~slug~'.md') %}
         <dd><a href="{{ page.permalink }}"> {{ page.title | title }}</a></dd>
       {% endfor %}
     </dl>
