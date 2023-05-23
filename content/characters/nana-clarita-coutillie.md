@@ -5,6 +5,8 @@ sex = "Female"
 slug = "nana-clarita-coutillie"
 title = "Nana Clarita Coutillie"
 [taxonomies]
+organizations = ["Coutillie"]
+families = ["Coutillie"]
 character_id = ["23"]
 family_id = ["9"]
 +++

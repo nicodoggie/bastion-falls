@@ -1,6 +1,7 @@
 +++
 title = "Nightshift Nurses"
-[taxonimies]
+[taxonomies]
+organization_type = ["Magazine"]
 organization_id = ["34"]
 +++
 

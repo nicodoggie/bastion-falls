@@ -5,6 +5,7 @@ sex = "Male"
 slug = "don-alejandro-machado"
 title = "Don Alejandro Machado"
 [taxonomies]
+organizations = ["Machado"]
 character_id = ["37"]
 family_id = ["7"]
 +++

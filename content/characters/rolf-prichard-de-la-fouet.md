@@ -5,6 +5,7 @@ sex = "Male"
 slug = "rolf-prichard-de-la-fouet"
 title = "Rolf Prichard de la Fouet"
 [taxonomies]
+organizations = ["Orthodox Church of the Divine Masochist"]
 character_id = ["14"]
 family_id = ["4"]
 +++

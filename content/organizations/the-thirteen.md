@@ -2,7 +2,7 @@
 organization_id = ["33"]
 title = "The Thirteen"
 [taxonomies]
-organization_type = ["Utility"]
+organization_type = ["Military"]
 +++
 
 {{ stub() }}

@@ -5,6 +5,7 @@ sex = "Female"
 slug = "denise-dubois"
 title = "Denise Dubois"
 [taxonomies]
+families = ["Dubois"]
 character_id = ["35"]
 family_id = ["6"]
 +++

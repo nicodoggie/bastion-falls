@@ -1,3 +1,82 @@
+{% extends "index.html" %}
+{% block content %}
+
+{% set context = "" %}
+{% if section %}
+{% set context = section %}
+{% else %}
+{% set context = config %}
+{% endif %}
+
+{# generate groups #}
+
 <body>
-  <h1>{{ taxonomy.name }}</h1>
+  <h1>{{ context.title }}</h1>
+  <table id="org-list">
+    <tr>
+      <th>Type</th>
+      <th>Name</th>
+      <th>Members</th>
+    </tr>
+  {% set taxonomy = get_taxonomy(kind='organization_type')%}
+  {%- set total_mem_count = 0 -%}
+  {%- for type in taxonomy.items %}
+    {%- set org_count = type.pages | length -%}
+    <!-- there are {{ org_count }} orgs of type {{ type.name }} -->
+    {%- for org in type.pages %}
+      {%- set org_member_count = 1 -%}
+      {%- set orglist = get_taxonomy_term(kind="organizations", term=org.title, required=false) -%}
+      {%- if orglist -%}
+        {%- set org_member_count = orglist.pages | length -%}
+      {%- endif -%}
+      {%- set_global total_mem_count = total_mem_count + org_member_count -%}
+    {%- endfor %}
+    <!-- there are {{ total_mem_count }} total -->
+    {%- for org in type.pages %}
+      {%- set orglist = get_taxonomy_term(kind="organizations", term=org.title, required=false) -%}
+      <tr>  
+        
+        {%- set member_length = 1 -%}
+        {%- if orglist -%}
+          {%- set member_length = orglist.pages | length -%}
+        {%- endif -%}
+        <!-- before seting total_mem_count {{ total_mem_count }} -->
+        
+        <!-- there are {{ member_length }} members of org {{ org.title }}-->
+        <!-- there are {{ total_mem_count }} total members of type {{ type.name }}-->
+ 
+        {%- if loop.index == 1 -%}
+        <td class='col-bold col-title col-left' rowspan="{{ total_mem_count }}">{{ type.name }}</td>
+        {%- endif -%}
+        
+        {%- if orglist -%}
+          <!-- org {{ orglist.name }} {{ member_length }} -->
+          {%- for m_page in orglist.pages %}
+            {%- if loop.index == 1 -%}
+            <td class='col-left col-title' rowspan="{{ member_length }}">
+              <a href="{{ org.permalink }}">{{ org.title }}</a>
+            </td>
+            {%- endif -%}
+            <td class='col-left'>
+              <a href="{{ m_page.permalink }}">{{ m_page.title }}</a>
+            </td>
+            </tr>
+          {%- endfor -%}
+        {%- else -%}
+        <td class='col-title col-left' rowspan="{{ member_length }}">
+          <a href="{{ org.permalink }}">{{ org.title }}</a>
+        </td>
+        <td></td>
+        </tr>
+        {%- endif -%}
+
+        {# Reset total_mem_count now that the execution is done #}
+        {%- if loop.index == org_count -%}
+          {%- set_global total_mem_count = 0 -%}
+        {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  </table>
 </body>
+
+{% endblock %}

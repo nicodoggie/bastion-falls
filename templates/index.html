@@ -83,6 +83,9 @@
           <label class="tree-toggle-label" for="{{ subsection.title | slugify }}">{{ subsection.title }}</label>
   
           <ul class="subtree">
+            <li {% if current_path==subsection.path %}class="active" {% endif %}>
+              <a href="{{ subsection.permalink | safe }}{{ _ugly_url }}">Index</a>
+            </li>
             {% for page in subsection.pages -%}
             <li {% if current_path==page.path %}class="active" {% endif %}>
               <a href="{{ page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>

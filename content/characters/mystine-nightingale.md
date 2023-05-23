@@ -1,6 +1,10 @@
 +++
+age = "25"
+pronouns = "She/Her"
+sex = "Female"
 title = "Mystine Nightingale"
 [taxonomies]
+organizations = ["Nightshift Nurses"]
 character_id = ["88"]
 character_org_id = ["34"]
 +++

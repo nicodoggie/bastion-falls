@@ -1,6 +1,39 @@
-{# {% extends "zola_easydocs_theme/templates/section.html" %} #}
-<ul>
-  {% for term in terms %}
-  <li><a href="{{ term.path }}">{{ term.name }}</a></li>
-  {% endfor %}
-</ul>
+{% extends "index.html" %}
+{% block content %}
+
+{% set context = "" %}
+{% if section %}
+{% set context = section %}
+{% else %}
+{% set context = config %}
+{% endif %}
+
+{# generate groups #}
+
+<body>
+  <h1>{{ context.title }}</h1>
+  <table id="org-list">
+    <tr>
+      <th>Type</th>
+      <th>Name</th>
+    </tr>
+    {% set taxonomy = get_taxonomy(kind='families')%}
+    {% for term in taxonomy.items %}
+    {% for page in term.pages %}
+    <tr>
+      {% set pages = term.pages | length %}
+      <!-- {{ loop.index }} {{ pages }} {{ loop.index % pages }}-->
+      {% if loop.index == 1 %}
+      <td class="col-bold" rowspan="{{ pages }}">{{ term.name }}</td>
+      {% endif %}
+      <td>
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+      </td>
+    </tr>
+    {% endfor %}
+
+    {% endfor %}
+  </table>
+
+</body>
+{% endblock %}

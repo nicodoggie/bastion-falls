@@ -3,7 +3,7 @@ organization_id = ["21"]
 slug = "the-monadic-order-of-the-ram"
 title = "The Monadic Order of the Ram"
 [taxonomies]
-organization_type = ["Cult"]
+organization_type = ["Religious Society"]
 
 +++
 

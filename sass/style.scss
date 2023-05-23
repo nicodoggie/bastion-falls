@@ -58,6 +58,21 @@ h1.title {
   }
 }
 
+table#org-list {
+  td.col-bold {
+    font-weight: bold;
+  }
+
+  td.col-title {
+    text-align: left;
+    vertical-align: top;
+  }
+
+  td.col-left {
+    width: 25%;
+    text-align: left;
+  }
+}
 .sidebar {
   h2 {
     text-align: center;

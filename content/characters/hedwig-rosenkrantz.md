@@ -1,12 +1,13 @@
 +++
-title = "Hedwig Rosenkrantz"
+title = "Hedwig Rosa Rosenkrantz"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/57319903"
 [taxonomies]
+organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]
 character_id = ["9"]
 families = ["Rosenkrantz","Guildenstern"]
 family_id = ["3"]
-organizations = ["La Camaraderie"]
+character_org_id = ["3"]
 religions = ["Orthodox Divine Masochist"]
 +++
 # Introduction

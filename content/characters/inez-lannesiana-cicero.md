@@ -7,6 +7,7 @@ title = "Inez Lanessiana Cicero"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/70863362"
 [taxonomies]
+organizations = ["Bouillard", "The Hunting Lodge", "Nightshift Nurses"]
 character_id = ["83"]
 character_org_id = ["34"]
 +++

@@ -5,6 +5,7 @@ sex = ""
 slug = "narmaya"
 title = "Narmaya"
 [taxonomies]
+organizations = ["Rozenmaiden"]
 character_id = ["47"]
 +++
 

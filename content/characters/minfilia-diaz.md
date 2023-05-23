@@ -5,6 +5,7 @@ sex = ""
 slug = "minfilia-diaz"
 title = "Minfilia Diaz"
 [taxonomies]
+organizations = ["La Camaraderie","Rozenmaiden"]
 character_id = ["19"]
 +++
 

@@ -2,8 +2,9 @@
 organization_id = ["4"]
 slug = "la-carnalis"
 title = "La Carnalis"
+
 [taxonomies]
-organization_type = ["Galleon"]
+organization_type = ["Ship"]
 
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Katalin Helinski"
 [taxonomies]
+organizations = ["Nightshift Nurses"]
 character_id = ["86"]
 character_org_id = ["34"]
 +++

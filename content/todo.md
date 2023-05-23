@@ -10,6 +10,7 @@ weight = 10
  - Think about just forking the current base template
  - Maybe apply a dark theme instead of this bright white crap.
  - Actually align the Calendar
+ - Default taxonomy templates
 
 ## `templates/index.html`
  - Fix top-level content page listings on the side nav bar

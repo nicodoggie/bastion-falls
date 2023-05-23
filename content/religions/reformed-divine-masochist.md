@@ -1,5 +1,5 @@
 +++
-title = "The Reformed Church of the Divine Masochist"
+title = "Reformed Church of the Divine Masochist"
 +++
 
 # The Reformed Church of the Divine Masochist

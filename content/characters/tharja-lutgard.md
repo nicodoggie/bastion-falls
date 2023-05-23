@@ -1,6 +1,7 @@
 +++
 title = "Tharja Lutgard"
 [taxonomies]
+organizations = ["Nightshift Nurses"]
 character_id = ["87"]
 character_org_id = ["34"]
 +++
