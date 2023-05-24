@@ -74,6 +74,7 @@ people:
   Beatrix:
     fullname: Beatrix Farnese
   Oliver:
+    born: "1239-02-15"
     fullname: Oliver Savoy
     class: [panzoom-exclude]
     links:

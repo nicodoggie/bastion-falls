@@ -52,12 +52,11 @@ internal_level = "warn"
 
 [search]
 include_title = true
-include_description = false
+include_description = true
 include_path = false
 include_content = true
 
 # truncate_content_length = 100
-index_format = "elasticlunr_javascript"
 
 [extra]
 # Put all your custom variables here

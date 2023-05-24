@@ -132,6 +132,9 @@ table#org-list {
 .mortality-dead::before {
   content: "☠ ";
 }
+.mortality-unknown::before {
+  content: "⚠ ";
+}
 .subtree {
   overflow: scroll !important;
 }
@@ -152,7 +155,11 @@ table#org-list {
   justify-content: center;
 
   .panzoom-container {
-    width: 50%;
     height: 30rem;
+    border: 3px solid black;
+    
+      a {
+        display: inline-block;
+      }
   }
 }

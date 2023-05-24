@@ -111,5 +111,6 @@ people:
 styles:
   deceased:
     color: red
+    label: ☠
     penwidth: 0.25
  
