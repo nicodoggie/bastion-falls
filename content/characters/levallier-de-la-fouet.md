@@ -5,6 +5,7 @@ sex = "Male"
 slug = "levallier-de-la-fouet"
 title = "Levallier de la Fouet"
 [taxonomies]
+families = ["De la Fouet"]
 organizations = ["Orthodox Church of the Divine Masochist"]
 character_id = ["10"]
 family_id = ["4"]

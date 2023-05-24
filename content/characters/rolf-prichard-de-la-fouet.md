@@ -1,10 +1,12 @@
 +++
+title = "Rolf Prichard de la Fouet"
+[extra]
 age = "45"
 pronouns = "He/Him"
 sex = "Male"
-slug = "rolf-prichard-de-la-fouet"
-title = "Rolf Prichard de la Fouet"
+mortality_status = "Unknown"
 [taxonomies]
+families = ["De la Fouet"]
 organizations = ["Orthodox Church of the Divine Masochist"]
 character_id = ["14"]
 family_id = ["4"]
