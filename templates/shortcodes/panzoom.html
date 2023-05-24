@@ -1,6 +1,6 @@
 <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
 <div class="panzoom-box">
-  <div class="panzoom-container">
+  <div class="panzoom-container" title="Double-click to open in new window.">
     <img src="{{ img }}" alt="{{ alt }}" id="{{ id }}" width="50%" />
   </div>
 </div>
@@ -8,14 +8,17 @@
 <script>
   const elem = document.getElementById('{{ id }}')
   const panzoom = Panzoom(elem, {
-    maxScale: 5,
+    maxScale: 10,
     canvas: true,
-  })
-  panzoom.pan(0, 100)
-  panzoom.zoom(3, { animate: true })
+  });
+  panzoom.pan(0, 0);
+  panzoom.zoom(2, { animate: true });
 
   // Panning and pinch zooming are bound automatically (unless disablePan is true).
   // There are several available methods for zooming
   // that can be bound on button clicks or mousewheel.
-  elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel)
+  elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+  elem.addEventListener('dblclick', () => {
+    window.open("{{ img }}", '_blank')
+  })
 </script>
