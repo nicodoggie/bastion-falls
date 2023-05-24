@@ -135,3 +135,24 @@ table#org-list {
 .subtree {
   overflow: scroll !important;
 }
+#trees {
+  .root-menu {
+    padding: 0;
+
+    a:link {
+      color: black !important;
+    }
+
+  }
+}
+
+.panzoom-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .panzoom-container {
+    width: 50%;
+    height: 30rem;
+  }
+}

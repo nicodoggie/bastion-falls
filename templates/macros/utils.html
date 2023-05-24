@@ -7,9 +7,8 @@
         {% set path = section %}
       {% endif%}
       {% for item in taxa[taxon] %}
-        {% set slug = item | slugify %}
-        {% set page = get_page(path=path~'/'~slug~'.md') %}
-        <dd><a href="{{ page.permalink }}"> {{ page.title | title }}</a></dd>
+        {% set page = get_taxonomy_term(kind=taxon, term=item) %}
+        <dd><a href="{{ page.permalink }}"> {{ page.name | title }}</a></dd>
       {% endfor %}
     </dl>
   {% endif %}

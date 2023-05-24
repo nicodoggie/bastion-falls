@@ -1,0 +1,21 @@
+<script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+<div class="panzoom-box">
+  <div class="panzoom-container">
+    <img src="{{ img }}" alt="{{ alt }}" id="{{ id }}" width="50%" />
+  </div>
+</div>
+
+<script>
+  const elem = document.getElementById('{{ id }}')
+  const panzoom = Panzoom(elem, {
+    maxScale: 5,
+    canvas: true,
+  })
+  panzoom.pan(0, 100)
+  panzoom.zoom(3, { animate: true })
+
+  // Panning and pinch zooming are bound automatically (unless disablePan is true).
+  // There are several available methods for zooming
+  // that can be bound on button clicks or mousewheel.
+  elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel)
+</script>

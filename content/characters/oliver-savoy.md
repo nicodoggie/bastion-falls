@@ -1,11 +1,12 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "oliver-savoy"
 title = "Oliver Savoy"
+[extra]
+age = "36"
+sex = "Male"
+
 [taxonomies]
 organizations = ["Bouillard"]
+families = ["Savoy"]
 character_id = ["71"]
 +++
 

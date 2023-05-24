@@ -8,10 +8,14 @@
   ],
   "scripts": {
     "build": "zola build",
-    "serve": "zola serve"
+    "serve": "concurrently \"yarn family\" \"zola serve\"",
+    "family": "nodemon -w **/family.yaml --exec ./kingraph.sh"
   },
   "devDependencies": {
-    "lefthook": "^1.4.0"
+    "concurrently": "^8.0.1",
+    "kingraph": "0.2.0",
+    "lefthook": "^1.4.0",
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
     "@commitlint/cli": "^17.6.3",

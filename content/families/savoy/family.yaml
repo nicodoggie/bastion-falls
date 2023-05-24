@@ -1,0 +1,153 @@
+families:
+  - house: Savoy
+    parents: [Lemuel, Johanna]
+    children: [Madison, Monroe, Yenna]
+  - parents: [Madison, Thessaly]
+    children: [Nicanor, Naim]
+  - parents: [Nicanor, Laiya]
+  - parents: [Naim, Portencia]
+    children: [Percival, Rick, Prudence]
+  - parents: [Percival, Lyla]
+  - parents: [Rick, Gaelle]
+    children: [Taran, Todd]
+  - parents: [Prudence, Marco]
+    children: [Avila]
+  - parents: [Monroe, Nathalie]
+    children: [Othello, Agnes]
+  - parents: [Othello, Mathilda]
+    children: [Otto, Leonila]
+  - parents: [Otto, Beatrix]
+    children: [Oliver, Oscar]
+    children2: [Avis]
+  - parents: [Leonila, Charles]
+    children: [Swan]
+  - parents: [Yenna, Cabot]
+    children: [Tedora]
+  - parents: [Tedora, Rogelio]
+    children: [Degare, Dyson, Lyla]
+  - parents: [Degare, Sera]
+    children: [Michael, Lyla II]
+  - parents: [Dyson, Priscilla]
+    children: [Kimberly, Gregory, Yenna MF, Marion]
+  
+  
+people:
+  Lemuel:
+    fullname: Lemuel Savoy
+    class: [deceased]
+  Johanna:
+    fullname: Johanna Bentayga
+    class: [deceased]
+  Madison:
+    fullname: Madison Savoy
+    class: [deceased]
+  Thessaly:
+    fullname: Thessaly Jordin
+    class: [deceased]
+  Monroe:
+    fullname: Monroe Savoy
+    class: [deceased]
+  Nathalie:
+    fullname: Nathalie Bouillard
+    class: [deceased]
+  Yenna:
+    fullname: Yenna Savoy
+    class: [deceased]
+  Cabot:
+    fullname: Cabot McFarland
+    class: [deceased]
+  Nicanor:
+    fullname: Nicanor Savoy
+  Laiya:
+    fullname: Laiya Mendoza
+  Naim:
+    fullname: Naim Savoy
+    class: [deceased]
+  Portencia:
+    fullname: Portencia Bentayga
+    class: [deceased]
+  Othello:
+    fullname: Othello Savoy
+    class: [deceased]
+  Otto:
+    fullname: Otto Savoy
+  Beatrix:
+    fullname: Beatrix Farnese
+  Oliver:
+    fullname: Oliver Savoy
+    class: [panzoom-exclude]
+    links:
+      - https://bastion-falls.thekennel.info/characters/oliver-savoy
+  Oscar:
+    fullname: Oscar Savoy
+    class: [panzoom-exclude]
+    links:
+      - https://bastion-falls.thekennel.info/characters/oscar-savoy
+  Avis:
+    fullname: Avis Savoy
+  Leonila:
+    fullname: Leonila Savoy
+  Charles:
+    fullname: Charles Tudor
+  Swan:
+    fullname: Samson Savoy
+  Mathilda:
+    fullname: Mathilda Delacour
+    class: [deceased]
+  Agnes:
+    fullname: Brigadine Savoy
+  Tedora:
+    fullname: Tedora McFarland
+    class: [deceased]
+  Rogelio:
+    fullname: Rogelio Durant
+    class: [deceased]
+  Percival:
+    fullname: Percival Savoy
+    class: [deceased]
+  Lyla:
+    fullname: Lyla Savoy 
+    class: [deceased]
+  Rick:
+    fullname: Rickard Savoy
+  Gaelle:
+    fullname: Gaelle Simoun
+  Taran:
+    fullname: Taran Savoy
+  Todd:
+    fullname: Thaddeus Savoy
+  Prudence:
+    fullname: Prudence Savoy
+  Marco:
+    fullname: Marco Paolo
+  Avila:
+    fullname: Avila Paolo
+  Degare:
+    fullname: Degare Durant
+  Sera:
+    fullname: Seraphine Gognon
+  Michael:
+    fullname: Michael Durant
+  Lyla II:
+    fullname: Lyla II Durant
+  Dyson:
+    fullname: Dyson McFarland
+  Priscilla:
+    fullname: Priscilla Blanchette
+  Kimberly:
+    fullname: Kimberly McFarland
+  Gregory:
+    fullname: Gregory McFarland
+  Yenna MF:
+    name: Yenna
+    fullname: Yenna McFarland
+  Marion:
+    fullname: Marion McFarland
+
+styles:
+  deceased:
+    color: red
+    penwidth: 0.25
+  
+
+

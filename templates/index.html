@@ -1,3 +1,6 @@
+{#
+<pre>{{ __tera_context }}</pre> #}
+
 <!DOCTYPE HTML>
 <html>
 
@@ -64,10 +67,15 @@
   
         <a href="javascript:void(0);" onclick="burger()" id="mobile" class="ms-Icon--GlobalNavButton"></a>
         <div id="trees">
-          {% set section_ = get_section(path="_index.md") -%}
-          <ul>
-            <li><a href='/todo/'>To Do</a></li>
+          {% set root = get_section(path='_index.md')%}
+          {% if root.pages %}
+          <ul class="root-menu">
+            {% for p in root.pages %}
+            <li><a href="{{ p.permalink | safe }}">{{ p.title }}</a></li>
+            {% endfor %}
           </ul>
+          {% endif %}
+          {% set section_ = get_section(path="_index.md") -%}
           {% for p in section_.subsections -%}
           {% set subsection = get_section(path=p) -%}
   
