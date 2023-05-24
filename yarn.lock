@@ -289,6 +289,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@nicodoggie/kingraph@portal:/home/ensu/Projects/kingraph::locator=bastion-falls-zola%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@nicodoggie/kingraph@portal:/home/ensu/Projects/kingraph::locator=bastion-falls-zola%40workspace%3A."
+  dependencies:
+    js-yaml: "npm:3.13.1"
+    meow: "npm:3.7.0"
+    object-assign: "npm:4.1.1"
+    object-loops: "npm:0.8.0"
+    read-input: "npm:0.3.1"
+    strip-indent: "npm:3.0.0"
+    svg2png: "npm:4.1.1"
+    viz.js: "npm:^2.1.2"
+  bin:
+    kingraph: bin/kingraph
+  languageName: node
+  linkType: soft
+
 "@npmcli/fs@npm:^2.1.0":
   version: 2.1.2
   resolution: "@npmcli/fs@npm:2.1.2"
@@ -607,8 +624,8 @@ __metadata:
   dependencies:
     "@commitlint/cli": "npm:^17.6.3"
     "@commitlint/config-conventional": "npm:^17.6.3"
+    "@nicodoggie/kingraph": "npm:^0.2.0"
     concurrently: "npm:^8.0.1"
-    kingraph: "npm:0.2.0"
     lefthook: "npm:^1.4.0"
     nodemon: "npm:^2.0.22"
   languageName: unknown
@@ -2095,24 +2112,6 @@ __metadata:
   version: 6.0.3
   resolution: "kind-of@npm:6.0.3"
   checksum: 4adceee06111de8a2d02e7b542c957caad38f2d54c522da0387f4735804bf1819b2ccd918c8d1c8a73276caf9d728fc8276b53e142d23879c4728a6edcbdf722
-  languageName: node
-  linkType: hard
-
-"kingraph@npm:0.2.0":
-  version: 0.2.0
-  resolution: "kingraph@npm:0.2.0"
-  dependencies:
-    js-yaml: "npm:3.13.1"
-    meow: "npm:3.7.0"
-    object-assign: "npm:4.1.1"
-    object-loops: "npm:0.8.0"
-    read-input: "npm:0.3.1"
-    strip-indent: "npm:3.0.0"
-    svg2png: "npm:4.1.1"
-    viz.js: "npm:1.8.1"
-  bin:
-    kingraph: bin/kingraph
-  checksum: a1f097a5fc03712565aaebada38c41a2c9fa78dfbc2b1fed637d68fb35fe1f19444b3c7d61a6a923577eec54091ecef11c1dbfa2fcc4caec094ef240547472c0
   languageName: node
   linkType: hard
 
@@ -4019,10 +4018,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"viz.js@npm:1.8.1":
-  version: 1.8.1
-  resolution: "viz.js@npm:1.8.1"
-  checksum: bf8f6a0e09e7f3082cdfcf00071ab99d2bba519c1fb537098f2e353c2eb0ec096a06bebda42260d53f6bfcb26af334e1c698c0bda499370a819e9d33778287af
+"viz.js@npm:^2.1.2":
+  version: 2.1.2
+  resolution: "viz.js@npm:2.1.2"
+  checksum: 98fdd36a84c2f5904008eb6abe00d1b904c1773cfcb013def8eb73802279039644cc0ae028a9fd72135b90bc38b1323f1a7fbe6228cb7603b97566e3566713a5
   languageName: node
   linkType: hard
 

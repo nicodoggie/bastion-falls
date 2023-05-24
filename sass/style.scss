@@ -132,6 +132,9 @@ table#org-list {
 .mortality-dead::before {
   content: "☠ ";
 }
+.mortality-undead::before {
+  content: "🧟‍♂️ ";
+}
 .mortality-unknown::before {
   content: "⚠ ";
 }

@@ -9,16 +9,19 @@
   "scripts": {
     "build": "zola build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
-    "family": "nodemon -w **/family.yaml --exec ./kingraph.sh"
+    "family": "nodemon --watch **/family.yaml --exec './kingraph.sh'"
   },
   "devDependencies": {
     "concurrently": "^8.0.1",
-    "kingraph": "0.2.0",
     "lefthook": "^1.4.0",
     "nodemon": "^2.0.22"
   },
   "dependencies": {
     "@commitlint/cli": "^17.6.3",
-    "@commitlint/config-conventional": "^17.6.3"
+    "@commitlint/config-conventional": "^17.6.3",
+    "@nicodoggie/kingraph": "^0.2.0"
+  },
+  "resolutions": {
+    "@nicodoggie/kingraph": "portal:/home/ensu/Projects/kingraph"
   }
 }
