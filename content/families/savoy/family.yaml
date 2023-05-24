@@ -2,33 +2,37 @@ families:
   - house: Savoy
     parents: [Lemuel, Johanna]
     children: [Madison, Monroe, Yenna]
-  - parents: [Madison, Thessaly]
-    children: [Nicanor, Naim]
-  - parents: [Nicanor, Laiya]
-  - parents: [Naim, Portencia]
-    children: [Percival, Rick, Prudence]
-  - parents: [Percival, Lyla]
-  - parents: [Rick, Gaelle]
-    children: [Taran, Todd]
-  - parents: [Prudence, Marco]
-    children: [Avila]
-  - parents: [Monroe, Nathalie]
-    children: [Othello, Agnes]
-  - parents: [Othello, Mathilda]
-    children: [Otto, Leonila]
-  - parents: [Otto, Beatrix]
-    children: [Oliver, Oscar]
-    children2: [Avis]
-  - parents: [Leonila, Charles]
-    children: [Swan]
-  - parents: [Yenna, Cabot]
+    families:
+    - parents: [Madison, Thessaly]
+      children: [Nicanor, Naim]
+    - parents: [Nicanor, Laiya]
+    - parents: [Naim, Portencia]
+      children: [Percival, Rick, Prudence]
+    - parents: [Percival, Lyla]
+    - parents: [Rick, Gaelle]
+      children: [Taran, Todd]
+    - parents: [Prudence, Marco]
+      children: [Avila]
+    - parents: [Monroe, Nathalie]
+      children: [Othello, Agnes]
+    - parents: [Othello, Mathilda]
+      children: [Otto, Leonila]
+    - parents: [Otto, Beatrix]
+      children: [Oliver, Oscar]
+      children2: [Avis]
+    - parents: [Leonila, Charles]
+      children: [Swan]
+    
+  - house: Savoy-McFarland 
+    parents: [Yenna, Cabot]
     children: [Tedora]
-  - parents: [Tedora, Rogelio]
-    children: [Degare, Dyson, Lyla]
-  - parents: [Degare, Sera]
-    children: [Michael, Lyla II]
-  - parents: [Dyson, Priscilla]
-    children: [Kimberly, Gregory, Yenna MF, Marion]
+    families:
+    - parents: [Tedora, Rogelio]
+      children: [Degare, Dyson, Lyla]
+    - parents: [Degare, Sera]
+      children: [Michael, Lyla II]
+    - parents: [Dyson, Priscilla]
+      children: [Kimberly, Gregory, Yenna MF, Marion]
   
   
 people:
@@ -71,17 +75,18 @@ people:
     class: [deceased]
   Otto:
     fullname: Otto Savoy
+    class: [deceased]
   Beatrix:
     fullname: Beatrix Farnese
   Oliver:
     born: "1239-02-15"
     fullname: Oliver Savoy
-    class: [panzoom-exclude]
     links:
       - https://bastion-falls.thekennel.info/characters/oliver-savoy
   Oscar:
     fullname: Oscar Savoy
-    class: [panzoom-exclude]
+    born: '1241-06-13'
+    died: '1275-08-09'
     links:
       - https://bastion-falls.thekennel.info/characters/oscar-savoy
   Avis:
