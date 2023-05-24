@@ -1,0 +1,115 @@
+families:
+  - house: McFarland
+    parents: [Valerian, Luwan]
+    children: [Caleb, Castilla, Cabot]
+  - parents: [Caleb, Genevieve]
+    children: [Talsin]
+  - parents: [Talsin, Elaine]
+    children: [Brian, Llora]
+  - parents: [Brian, Selene]
+    children: [Ian]
+  - parents: [Castilla, Peregrine]
+    children: [Elara, Orion, Evander]
+  - parents: [Cabot, Yenna]
+    children: [Tedora, Thessaly]
+  - parents: [Tedora, Rogelio]
+    children: [Degare, Dyson, Lyla]
+  - parents: [Degare, Sera]
+    children: [Michael, Lyla II]
+  - parents: [Dyson, Priscilla]
+    children: [Kimberly, Gregory, Yenna MF, Marion]
+  - parents: [Thessaly, Juliette]
+    children2: [Thorid, Emilia]
+  - parents: [Thorid, Llora]
+    children: [Farrah, Malcolm, Jacob, Delilah]
+
+people:
+  Valerian:
+    fullname: Valerian McFarland
+    class: [deceased]
+  Luwan:
+    fullname: Luwan MacLeod
+    class: [deceased]
+  Caleb:
+    fullname: Caleb McFarland
+    class: [deceased]
+  Genevieve:
+    fullname: Genevieve Boucher
+    class: [deceased]
+  Castilla:
+    fullname: Castilla McFarland
+    class: [deceased]
+  Peregrine:
+    fullname: Peregrine McFarland
+    class: [deceased]
+  Elara:
+    fullname: Elara McFarland
+  Orion:
+    fullname: Orion McFarland
+  Evander:
+    fullname: Evander McFarland
+  Cabot:
+    fullname: Cabot McFarland
+  Yenna:
+    fullname: Yenna Savoy
+  Thessaly:
+    fullname: Thessaly McFarland
+  Juliette:
+    fullname: Juliette Sinclair
+  Emilia:
+    fullname: Emilia McFarland
+  Thorid:
+    fullname: Thorid McFarland
+  Talsin:
+    fullname: Talsin McFarland
+  Elaine:
+    fullname: Elaine Bentayga
+  Brian:
+    fullname: Brian McFarland
+  Llora:
+    fullname: Llora McFarland
+  Selene:
+    fullname: Selene Bentayga
+  Ian:
+    fullname: Valerian II McFarland
+  Tedora:
+    fullname: Tedora McFarland
+    class: [deceased]
+  Rogelio:
+    fullname: Rogelio Durant
+    class: [deceased]
+  Degare:
+    fullname: Degare Durant
+  Sera:
+    fullname: Seraphine Gognon
+  Michael:
+    fullname: Michael Durant
+  Lyla II:
+    fullname: Lyla II Durant
+  Dyson:
+    fullname: Dyson McFarland
+  Priscilla:
+    fullname: Priscilla Blanchette
+  Kimberly:
+    fullname: Kimberly McFarland
+  Gregory:
+    fullname: Gregory McFarland
+  Yenna MF:
+    name: Yenna
+    fullname: Yenna McFarland
+  Marion:
+    fullname: Marion McFarland
+  Farrah:
+    fullname: Farrah McFarland
+  Malcolm:
+    fullname: Malcolm McFarland
+  Jacob:
+    fullname: Jacob McFarland
+  Delilah:
+    fullname: Delilah McFarland
+
+styles:
+  deceased:
+    color: red
+    penwidth: 0.25
+ 

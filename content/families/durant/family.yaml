@@ -1,0 +1,103 @@
+families:
+  - house: Durant
+    parents: [Pietro, Susanna]
+    children: [Davide, Melchior, Lobelia]
+  - parents: [Davide, Sabine]
+    children: [Turmeric, Estelle]
+  - parents: [Turmeric, Nancy]
+  - parents: [Melchior, Odette]
+    children: [Armaund, Rogelio]
+  - parents: [Armaund, Tamara]
+  - parents: [Rogelio, Tedora]
+    children: [Degare, Dyson, Lyla]
+  - parents: [Degare, Sera]
+    children: [Michael, Lyla II]
+  - parents: [Dyson, Priscilla]
+    children: [Kimberly, Gregory, Yenna MF, Marion]
+  - families:
+    - house: "de Villa"
+      parents: [Lobelia, Elias]
+      children: [Taleisin, Regidor]
+    - parents: [Taleisin, Freja]
+      children: [Moulin, Talon]
+    - parents: [Regidor, Alicia]
+      children: [Reginald, Porticia]
+    
+
+people:
+  Pietro:
+    fullname: Pietro Durant
+  Susanna:
+    fullname: Susanna Marchand
+  Davide:
+    fullname: Davide Durant
+  Sabine:
+    fullname: Sabine Cremaire
+  Melchior:
+    fullname: Melchior Durant
+  Odette:
+    fullname: Odette Rochard
+  Lobelia:
+    fullname: Lobelia Durant
+  Elias:
+    fullname: Elias De Villa
+  Turmeric:
+    fullname: Turmeric Durant
+  Nancy:
+    fullname: Nancy Kincade
+  Estelle:
+    fullname: Estelle Durant
+  Armaund:
+    fullname: Armaund Durant
+  Tamara:
+    fullname: Tamara Coleman
+  Tedora:
+    fullname: Tedora McFarland
+    class: [deceased]
+  Rogelio:
+    fullname: Rogelio Durant
+    class: [deceased]
+  Degare:
+    fullname: Degare Durant
+  Sera:
+    fullname: Seraphine Gognon
+  Michael:
+    fullname: Michael Durant
+  Lyla II:
+    fullname: Lyla II Durant
+  Dyson:
+    fullname: Dyson McFarland
+  Priscilla:
+    fullname: Priscilla Blanchette
+  Kimberly:
+    fullname: Kimberly McFarland
+  Gregory:
+    fullname: Gregory McFarland
+  Yenna MF:
+    name: Yenna
+    fullname: Yenna McFarland
+  Marion:
+    fullname: Marion McFarland
+  Taleisin:
+    fullname: Taleisin de Villa
+  Freja:
+    fullname: Freja Fitzwilliam
+  Regidor:
+    fullname: Regidor de Villa
+  Alicia:
+    fullname: Alicia Molyneaux
+  Reginald:
+    fullname: Reginald de Villa
+  Porticia:
+    fullname: Porticia de Villa
+  Moulin:
+    fullname: Moulin de Villa
+  Talon:
+    fullname: Talon de Villa
+
+  
+styles:
+  deceased:
+    color: red
+    penwidth: 0.25
+ 
