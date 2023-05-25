@@ -144,7 +144,7 @@
 <!-- Caleb&#45;&gt;union_1 -->
 <g id="edge7" class="edge">
 <title>Caleb&#45;&gt;union_1</title>
-<path fill="none" stroke="#ccdf32" d="M479.1165,-661.3333C498.3477,-661.3333 513,-661.3333 513,-661.3333 513,-661.3333 513,-713.7237 513,-727.6398"/>
+<path fill="none" stroke="#ccdf32" d="M479.1165,-642C498.3477,-642 513,-642 513,-642 513,-642 513,-711.3629 513,-727.6198"/>
 </g>
 <!-- union_4 -->
 <g id="node21" class="node">
@@ -154,7 +154,7 @@
 <!-- Castilla&#45;&gt;union_4 -->
 <g id="edge20" class="edge">
 <title>Castilla&#45;&gt;union_4</title>
-<path fill="none" stroke="#6897bb" d="M479.4002,-525C488.2322,-525 494,-525 494,-525 494,-525 494,-180.1667 494,-180.1667 494,-180.1667 503.0405,-180.1667 508.1258,-180.1667"/>
+<path fill="none" stroke="#6897bb" d="M479.4002,-529C488.2322,-529 494,-529 494,-529 494,-529 494,-180.1667 494,-180.1667 494,-180.1667 503.0405,-180.1667 508.1258,-180.1667"/>
 </g>
 <!-- union_5 -->
 <g id="node27" class="node">
@@ -164,7 +164,7 @@
 <!-- Cabot&#45;&gt;union_5 -->
 <g id="edge26" class="edge">
 <title>Cabot&#45;&gt;union_5</title>
-<path fill="none" stroke="#bbb529" d="M479.2644,-584.5C497.3914,-584.5 511,-584.5 511,-584.5 511,-584.5 511,-498.4364 511,-479.61"/>
+<path fill="none" stroke="#bbb529" d="M479.2644,-588C497.3914,-588 511,-588 511,-588 511,-588 511,-499.1602 511,-479.7264"/>
 </g>
 <!-- siblings_1 -->
 <g id="node10" class="node">
@@ -215,7 +215,7 @@
 <!-- Talsin&#45;&gt;union_2 -->
 <g id="edge11" class="edge">
 <title>Talsin&#45;&gt;union_2</title>
-<path fill="none" stroke="#629755" d="M760.0383,-740C778.7943,-740 793,-740 793,-740 793,-740 793,-772.2322 793,-783.312"/>
+<path fill="none" stroke="#629755" d="M760.0383,-741.6667C778.7943,-741.6667 793,-741.6667 793,-741.6667 793,-741.6667 793,-772.7559 793,-783.4428"/>
 </g>
 <!-- siblings_2 -->
 <g id="node14" class="node">
@@ -289,12 +289,12 @@
 <!-- union_10 -->
 <g id="node55" class="node">
 <title>union_10</title>
-<ellipse fill="#629755" stroke="#ffffff" cx="1073.5" cy="-618" rx="3.5" ry="3.5"/>
+<ellipse fill="#629755" stroke="#ffffff" cx="1073.5" cy="-621" rx="3.5" ry="3.5"/>
 </g>
 <!-- Llora&#45;&gt;union_10 -->
 <g id="edge54" class="edge">
 <title>Llora&#45;&gt;union_10</title>
-<path fill="none" stroke="#629755" d="M1041.2644,-782C1059.3914,-782 1073,-782 1073,-782 1073,-782 1073,-646.145 1073,-621.7335"/>
+<path fill="none" stroke="#629755" d="M1041.2644,-782C1059.3914,-782 1073,-782 1073,-782 1073,-782 1073,-648.6301 1073,-624.6652"/>
 </g>
 <!-- siblings_3 -->
 <g id="node19" class="node">
@@ -479,17 +479,17 @@
 <!-- Tedora&#45;&gt;union_6 -->
 <g id="edge31" class="edge">
 <title>Tedora&#45;&gt;union_6</title>
-<path fill="none" stroke="#9876aa" d="M760.1165,-425C779.3477,-425 794,-425 794,-425 794,-425 794,-357.9752 794,-342.2663"/>
+<path fill="none" stroke="#9876aa" d="M760.1165,-407.5C779.3477,-407.5 794,-407.5 794,-407.5 794,-407.5 794,-355.987 794,-342.3039"/>
 </g>
 <!-- union_9 -->
 <g id="node50" class="node">
 <title>union_9</title>
-<ellipse fill="#ccdf32" stroke="#ffffff" cx="792.5" cy="-578" rx="3.5" ry="3.5"/>
+<ellipse fill="#ccdf32" stroke="#ffffff" cx="792.5" cy="-585" rx="3.5" ry="3.5"/>
 </g>
 <!-- Thessaly&#45;&gt;union_9 -->
 <g id="edge49" class="edge">
 <title>Thessaly&#45;&gt;union_9</title>
-<path fill="none" stroke="#ccdf32" d="M760.2644,-477.3333C778.3914,-477.3333 792,-477.3333 792,-477.3333 792,-477.3333 792,-555.7887 792,-574.1767"/>
+<path fill="none" stroke="#ccdf32" d="M760.2644,-484C778.3914,-484 792,-484 792,-484 792,-484 792,-562.7151 792,-581.164"/>
 </g>
 <!-- siblings_6 -->
 <g id="node34" class="node">
@@ -565,12 +565,12 @@
 <!-- union_7 -->
 <g id="node38" class="node">
 <title>union_7</title>
-<ellipse fill="#efc090" stroke="#ffffff" cx="1073.5" cy="-430" rx="3.5" ry="3.5"/>
+<ellipse fill="#efc090" stroke="#ffffff" cx="1073.5" cy="-432" rx="3.5" ry="3.5"/>
 </g>
 <!-- Degare&#45;&gt;union_7 -->
 <g id="edge37" class="edge">
 <title>Degare&#45;&gt;union_7</title>
-<path fill="none" stroke="#efc090" d="M1041.1165,-373C1060.3477,-373 1075,-373 1075,-373 1075,-373 1075,-414.334 1075,-426.6051"/>
+<path fill="none" stroke="#efc090" d="M1041.1165,-373C1060.3477,-373 1075,-373 1075,-373 1075,-373 1075,-416.573 1075,-428.8279"/>
 </g>
 <!-- union_8 -->
 <g id="node43" class="node">
@@ -585,12 +585,12 @@
 <!-- siblings_7 -->
 <g id="node40" class="node">
 <title>siblings_7</title>
-<polygon fill="#efc090" stroke="#cccccc" stroke-width="0" points="1113,-430.5 1106,-430.5 1106,-429.5 1113,-429.5 1113,-430.5"/>
+<polygon fill="#efc090" stroke="#cccccc" stroke-width="0" points="1113,-432.5 1106,-432.5 1106,-431.5 1113,-431.5 1113,-432.5"/>
 </g>
 <!-- union_7&#45;&gt;siblings_7 -->
 <g id="edge39" class="edge">
 <title>union_7&#45;&gt;siblings_7</title>
-<path fill="none" stroke="#efc090" d="M1077.0834,-430C1083.9128,-430 1098.7324,-430 1105.7154,-430"/>
+<path fill="none" stroke="#efc090" d="M1077.0834,-432C1083.9128,-432 1098.7324,-432 1105.7154,-432"/>
 </g>
 <!-- Sera -->
 <g id="node39" class="node">
@@ -605,41 +605,42 @@
 <!-- Sera&#45;&gt;union_7 -->
 <g id="edge38" class="edge">
 <title>Sera&#45;&gt;union_7</title>
-<path fill="none" stroke="#efc090" d="M1041.3146,-430C1053.9376,-430 1064.4166,-430 1069.7333,-430"/>
+<path fill="none" stroke="#efc090" d="M1041.3146,-432C1053.9376,-432 1064.4166,-432 1069.7333,-432"/>
 </g>
 <!-- Michael -->
 <g id="node41" class="node">
 <title>Michael</title>
-<g id="a_node41"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1322,-449 1142,-449 1142,-407 1322,-407 1322,-449"/>
-<text text-anchor="start" x="1208.3892" y="-430.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Michael</text>
-<text text-anchor="start" x="1198.8865" y="-416" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Michael Durant</text>
+<g id="a_node41"><a xlink:href="https://bastion-falls.thekennel.info/characters/michael-durant" xlink:title="Born 12/02/1259 &#10;&#10;">
+<polygon fill="#36393f" stroke="#cccccc" points="1322,-459 1142,-459 1142,-403 1322,-403 1322,-459"/>
+<text text-anchor="start" x="1208.3892" y="-440.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Michael</text>
+<text text-anchor="start" x="1198.8865" y="-426" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Michael Durant</text>
+<text text-anchor="start" x="1219.4375" y="-412" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1259</text>
 </a>
 </g>
 </g>
 <!-- siblings_7&#45;&gt;Michael -->
 <g id="edge40" class="edge">
 <title>siblings_7&#45;&gt;Michael</title>
-<path fill="none" stroke="#efc090" d="M1113.0341,-430C1113.0341,-430 1131.8106,-430 1131.8106,-430"/>
-<polygon fill="#efc090" stroke="#efc090" points="1139.8105,-420 1139.8107,-440 1135.8107,-440.0001 1135.8105,-420.0001 1139.8105,-420"/>
-<polyline fill="none" stroke="#efc090" points="1141.8106,-430 1131.8106,-430.0001 "/>
+<path fill="none" stroke="#efc090" d="M1113.0341,-432C1113.0341,-432 1131.8106,-432 1131.8106,-432"/>
+<polygon fill="#efc090" stroke="#efc090" points="1139.8105,-422 1139.8107,-442 1135.8107,-442.0001 1135.8105,-422.0001 1139.8105,-422"/>
+<polyline fill="none" stroke="#efc090" points="1141.8106,-432 1131.8106,-432.0001 "/>
 </g>
 <!-- Lyla II -->
 <g id="node42" class="node">
 <title>Lyla II</title>
 <g id="a_node42"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1322,-509 1142,-509 1142,-467 1322,-467 1322,-509"/>
-<text text-anchor="start" x="1213.8282" y="-490.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Lyla II</text>
-<text text-anchor="start" x="1202.7715" y="-476" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Lyla II Durant</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1322,-519 1142,-519 1142,-477 1322,-477 1322,-519"/>
+<text text-anchor="start" x="1213.8282" y="-500.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Lyla II</text>
+<text text-anchor="start" x="1202.7715" y="-486" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Lyla II Durant</text>
 </a>
 </g>
 </g>
 <!-- siblings_7&#45;&gt;Lyla II -->
 <g id="edge41" class="edge">
 <title>siblings_7&#45;&gt;Lyla II</title>
-<path fill="none" stroke="#efc090" d="M1111,-430.6476C1111,-436.9831 1111,-487.6667 1111,-487.6667 1111,-487.6667 1131.8465,-487.6667 1131.8465,-487.6667"/>
-<polygon fill="#efc090" stroke="#efc090" points="1139.8464,-477.6667 1139.8466,-497.6667 1135.8466,-497.6667 1135.8464,-477.6667 1139.8464,-477.6667"/>
-<polyline fill="none" stroke="#efc090" points="1141.8465,-487.6667 1131.8465,-487.6668 "/>
+<path fill="none" stroke="#efc090" d="M1109,-432.6626C1109,-439.1445 1109,-491 1109,-491 1109,-491 1131.9617,-491 1131.9617,-491"/>
+<polygon fill="#efc090" stroke="#efc090" points="1139.9616,-481 1139.9618,-501 1135.9618,-501.0001 1135.9616,-481.0001 1139.9616,-481"/>
+<polyline fill="none" stroke="#efc090" points="1141.9617,-491 1131.9617,-491.0001 "/>
 </g>
 <!-- siblings_8 -->
 <g id="node45" class="node">
@@ -737,144 +738,144 @@
 <!-- siblings_9 -->
 <g id="node52" class="node">
 <title>siblings_9</title>
-<polygon fill="#ccdf32" stroke="#cccccc" stroke-width="0" points="832,-578.5 825,-578.5 825,-577.5 832,-577.5 832,-578.5"/>
+<polygon fill="#ccdf32" stroke="#cccccc" stroke-width="0" points="832,-585.5 825,-585.5 825,-584.5 832,-584.5 832,-585.5"/>
 </g>
 <!-- union_9&#45;&gt;siblings_9 -->
 <g id="edge51" class="edge">
 <title>union_9&#45;&gt;siblings_9</title>
-<path fill="none" stroke="#ccdf32" d="M796.0834,-578C802.9128,-578 817.7324,-578 824.7154,-578"/>
+<path fill="none" stroke="#ccdf32" d="M796.0834,-585C802.9128,-585 817.7324,-585 824.7154,-585"/>
 </g>
 <!-- Juliette -->
 <g id="node51" class="node">
 <title>Juliette</title>
 <g id="a_node51"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="760,-599 580,-599 580,-557 760,-557 760,-599"/>
-<text text-anchor="start" x="648.3289" y="-580.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Juliette</text>
-<text text-anchor="start" x="636.8875" y="-566" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Juliette Sinclair</text>
+<polygon fill="#36393f" stroke="#cccccc" points="760,-606 580,-606 580,-564 760,-564 760,-606"/>
+<text text-anchor="start" x="648.3289" y="-587.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Juliette</text>
+<text text-anchor="start" x="636.8875" y="-573" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Juliette Sinclair</text>
 </a>
 </g>
 </g>
 <!-- Juliette&#45;&gt;union_9 -->
 <g id="edge50" class="edge">
 <title>Juliette&#45;&gt;union_9</title>
-<path fill="none" stroke="#ccdf32" d="M760.3146,-578C772.9376,-578 783.4166,-578 788.7333,-578"/>
+<path fill="none" stroke="#ccdf32" d="M760.3146,-585C772.9376,-585 783.4166,-585 788.7333,-585"/>
 </g>
 <!-- Thorid -->
 <g id="node53" class="node">
 <title>Thorid</title>
 <g id="a_node53"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1041,-599 861,-599 861,-557 1041,-557 1041,-599"/>
-<text text-anchor="start" x="931.1662" y="-580.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Thorid</text>
-<text text-anchor="start" x="911.8325" y="-566" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Thorid McFarland</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1041,-606 861,-606 861,-564 1041,-564 1041,-606"/>
+<text text-anchor="start" x="931.1662" y="-587.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Thorid</text>
+<text text-anchor="start" x="911.8325" y="-573" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Thorid McFarland</text>
 </a>
 </g>
 </g>
 <!-- siblings_9&#45;&gt;Thorid -->
 <g id="edge52" class="edge">
 <title>siblings_9&#45;&gt;Thorid</title>
-<path fill="none" stroke="#ccdf32" stroke-dasharray="5,2" d="M832.0341,-578C832.0341,-578 850.8106,-578 850.8106,-578"/>
-<polygon fill="#ccdf32" stroke="#ccdf32" points="858.8105,-568 858.8107,-588 854.8107,-588.0001 854.8105,-568.0001 858.8105,-568"/>
-<polyline fill="none" stroke="#ccdf32" points="860.8106,-578 850.8106,-578.0001 "/>
+<path fill="none" stroke="#ccdf32" stroke-dasharray="5,2" d="M832.0341,-585C832.0341,-585 850.8106,-585 850.8106,-585"/>
+<polygon fill="#ccdf32" stroke="#ccdf32" points="858.8105,-575 858.8107,-595 854.8107,-595.0001 854.8105,-575.0001 858.8105,-575"/>
+<polyline fill="none" stroke="#ccdf32" points="860.8106,-585 850.8106,-585.0001 "/>
 </g>
 <!-- Emilia -->
 <g id="node54" class="node">
 <title>Emilia</title>
 <g id="a_node54"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1041,-659 861,-659 861,-617 1041,-617 1041,-659"/>
-<text text-anchor="start" x="932.4502" y="-640.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Emilia</text>
-<text text-anchor="start" x="912.8925" y="-626" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Emilia McFarland</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1041,-666 861,-666 861,-624 1041,-624 1041,-666"/>
+<text text-anchor="start" x="932.4502" y="-647.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Emilia</text>
+<text text-anchor="start" x="912.8925" y="-633" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Emilia McFarland</text>
 </a>
 </g>
 </g>
 <!-- siblings_9&#45;&gt;Emilia -->
 <g id="edge53" class="edge">
 <title>siblings_9&#45;&gt;Emilia</title>
-<path fill="none" stroke="#ccdf32" stroke-dasharray="5,2" d="M829,-578.511C829,-583.5098 829,-623.5 829,-623.5 829,-623.5 850.7356,-623.5 850.7356,-623.5"/>
-<polygon fill="#ccdf32" stroke="#ccdf32" points="858.7355,-613.5 858.7357,-633.5 854.7357,-633.5001 854.7355,-613.5001 858.7355,-613.5"/>
-<polyline fill="none" stroke="#ccdf32" points="860.7356,-623.5 850.7356,-623.5001 "/>
+<path fill="none" stroke="#ccdf32" stroke-dasharray="5,2" d="M829,-585.7749C829,-593.3555 829,-654 829,-654 829,-654 850.7356,-654 850.7356,-654"/>
+<polygon fill="#ccdf32" stroke="#ccdf32" points="858.7355,-644 858.7357,-664 854.7357,-664.0001 854.7355,-644.0001 858.7355,-644"/>
+<polyline fill="none" stroke="#ccdf32" points="860.7356,-654 850.7356,-654.0001 "/>
 </g>
 <!-- Thorid&#45;&gt;union_10 -->
 <g id="edge55" class="edge">
 <title>Thorid&#45;&gt;union_10</title>
-<path fill="none" stroke="#629755" d="M1041.0383,-585C1059.7943,-585 1074,-585 1074,-585 1074,-585 1074,-605.9553 1074,-614.4684"/>
+<path fill="none" stroke="#629755" d="M1041.0383,-602.5C1059.7943,-602.5 1074,-602.5 1074,-602.5 1074,-602.5 1074,-612.0571 1074,-617.433"/>
 </g>
 <!-- siblings_10 -->
 <g id="node56" class="node">
 <title>siblings_10</title>
-<polygon fill="#629755" stroke="#cccccc" stroke-width="0" points="1113,-618.5 1106,-618.5 1106,-617.5 1113,-617.5 1113,-618.5"/>
+<polygon fill="#629755" stroke="#cccccc" stroke-width="0" points="1113,-621.5 1106,-621.5 1106,-620.5 1113,-620.5 1113,-621.5"/>
 </g>
 <!-- union_10&#45;&gt;siblings_10 -->
 <g id="edge56" class="edge">
 <title>union_10&#45;&gt;siblings_10</title>
-<path fill="none" stroke="#629755" d="M1077.0834,-618C1083.9128,-618 1098.7324,-618 1105.7154,-618"/>
+<path fill="none" stroke="#629755" d="M1077.0834,-621C1083.9128,-621 1098.7324,-621 1105.7154,-621"/>
 </g>
 <!-- Farrah -->
 <g id="node57" class="node">
 <title>Farrah</title>
 <g id="a_node57"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1322,-696 1142,-696 1142,-654 1322,-654 1322,-696"/>
-<text text-anchor="start" x="1211.8892" y="-677.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Farrah</text>
-<text text-anchor="start" x="1192.7775" y="-663" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Farrah McFarland</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1322,-701 1142,-701 1142,-659 1322,-659 1322,-701"/>
+<text text-anchor="start" x="1211.8892" y="-682.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Farrah</text>
+<text text-anchor="start" x="1192.7775" y="-668" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Farrah McFarland</text>
 </a>
 </g>
 </g>
 <!-- siblings_10&#45;&gt;Farrah -->
 <g id="edge57" class="edge">
 <title>siblings_10&#45;&gt;Farrah</title>
-<path fill="none" stroke="#629755" d="M1111,-618.5129C1111,-623.5299 1111,-663.6667 1111,-663.6667 1111,-663.6667 1131.8465,-663.6667 1131.8465,-663.6667"/>
-<polygon fill="#629755" stroke="#629755" points="1139.8464,-653.6667 1139.8466,-673.6667 1135.8466,-673.6667 1135.8464,-653.6667 1139.8464,-653.6667"/>
-<polyline fill="none" stroke="#629755" points="1141.8465,-663.6667 1131.8465,-663.6668 "/>
+<path fill="none" stroke="#629755" d="M1111,-621.7203C1111,-627.2311 1111,-662.5 1111,-662.5 1111,-662.5 1131.8465,-662.5 1131.8465,-662.5"/>
+<polygon fill="#629755" stroke="#629755" points="1139.8464,-652.5 1139.8466,-672.5 1135.8466,-672.5001 1135.8464,-652.5001 1139.8464,-652.5"/>
+<polyline fill="none" stroke="#629755" points="1141.8465,-662.5 1131.8465,-662.5001 "/>
 </g>
 <!-- Malcolm -->
 <g id="node58" class="node">
 <title>Malcolm</title>
 <g id="a_node58"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1322,-756 1142,-756 1142,-714 1322,-714 1322,-756"/>
-<text text-anchor="start" x="1206.4502" y="-737.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Malcolm</text>
-<text text-anchor="start" x="1188.8925" y="-723" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Malcolm McFarland</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1322,-761 1142,-761 1142,-719 1322,-719 1322,-761"/>
+<text text-anchor="start" x="1206.4502" y="-742.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Malcolm</text>
+<text text-anchor="start" x="1188.8925" y="-728" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Malcolm McFarland</text>
 </a>
 </g>
 </g>
 <!-- siblings_10&#45;&gt;Malcolm -->
 <g id="edge58" class="edge">
 <title>siblings_10&#45;&gt;Malcolm</title>
-<path fill="none" stroke="#629755" d="M1109,-618.6961C1109,-627.9792 1109,-727 1109,-727 1109,-727 1131.9617,-727 1131.9617,-727"/>
-<polygon fill="#629755" stroke="#629755" points="1139.9616,-717 1139.9618,-737 1135.9618,-737.0001 1135.9616,-717.0001 1139.9616,-717"/>
-<polyline fill="none" stroke="#629755" points="1141.9617,-727 1131.9617,-727.0001 "/>
+<path fill="none" stroke="#629755" d="M1109,-621.6982C1109,-631.0098 1109,-730.3333 1109,-730.3333 1109,-730.3333 1131.9617,-730.3333 1131.9617,-730.3333"/>
+<polygon fill="#629755" stroke="#629755" points="1139.9616,-720.3334 1139.9618,-740.3334 1135.9618,-740.3334 1135.9616,-720.3334 1139.9616,-720.3334"/>
+<polyline fill="none" stroke="#629755" points="1141.9617,-730.3333 1131.9617,-730.3334 "/>
 </g>
 <!-- Jacob -->
 <g id="node59" class="node">
 <title>Jacob</title>
 <g id="a_node59"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1322,-576 1142,-576 1142,-534 1322,-534 1322,-576"/>
-<text text-anchor="start" x="1213.3261" y="-557.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Jacob</text>
-<text text-anchor="start" x="1193.661" y="-543" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Jacob McFarland</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1322,-581 1142,-581 1142,-539 1322,-539 1322,-581"/>
+<text text-anchor="start" x="1213.3261" y="-562.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Jacob</text>
+<text text-anchor="start" x="1193.661" y="-548" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Jacob McFarland</text>
 </a>
 </g>
 </g>
 <!-- siblings_10&#45;&gt;Jacob -->
 <g id="edge59" class="edge">
 <title>siblings_10&#45;&gt;Jacob</title>
-<path fill="none" stroke="#629755" d="M1109,-617.4216C1109,-611.7637 1109,-566.5 1109,-566.5 1109,-566.5 1131.9617,-566.5 1131.9617,-566.5"/>
-<polygon fill="#629755" stroke="#629755" points="1139.9616,-556.5 1139.9618,-576.5 1135.9618,-576.5001 1135.9616,-556.5001 1139.9616,-556.5"/>
-<polyline fill="none" stroke="#629755" points="1141.9617,-566.5 1131.9617,-566.5001 "/>
+<path fill="none" stroke="#629755" d="M1111,-620.4553C1111,-615.127 1111,-572.5 1111,-572.5 1111,-572.5 1131.8465,-572.5 1131.8465,-572.5"/>
+<polygon fill="#629755" stroke="#629755" points="1139.8464,-562.5 1139.8466,-582.5 1135.8466,-582.5001 1135.8464,-562.5001 1139.8464,-562.5"/>
+<polyline fill="none" stroke="#629755" points="1141.8465,-572.5 1131.8465,-572.5001 "/>
 </g>
 <!-- Delilah -->
 <g id="node60" class="node">
 <title>Delilah</title>
 <g id="a_node60"><a xlink:title="&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1322,-636 1142,-636 1142,-594 1322,-594 1322,-636"/>
-<text text-anchor="start" x="1210.6129" y="-617.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Delilah</text>
-<text text-anchor="start" x="1191.723" y="-603" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Delilah McFarland</text>
+<polygon fill="#36393f" stroke="#cccccc" points="1322,-641 1142,-641 1142,-599 1322,-599 1322,-641"/>
+<text text-anchor="start" x="1210.6129" y="-622.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Delilah</text>
+<text text-anchor="start" x="1191.723" y="-608" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Delilah McFarland</text>
 </a>
 </g>
 </g>
 <!-- siblings_10&#45;&gt;Delilah -->
 <g id="edge60" class="edge">
 <title>siblings_10&#45;&gt;Delilah</title>
-<path fill="none" stroke="#629755" d="M1113.0341,-618C1113.0341,-618 1131.8106,-618 1131.8106,-618"/>
-<polygon fill="#629755" stroke="#629755" points="1139.8105,-608 1139.8107,-628 1135.8107,-628.0001 1135.8105,-608.0001 1139.8105,-608"/>
-<polyline fill="none" stroke="#629755" points="1141.8106,-618 1131.8106,-618.0001 "/>
+<path fill="none" stroke="#629755" d="M1113.0341,-621C1113.0341,-621 1131.8106,-621 1131.8106,-621"/>
+<polygon fill="#629755" stroke="#629755" points="1139.8105,-611 1139.8107,-631 1135.8107,-631.0001 1135.8105,-611.0001 1139.8105,-611"/>
+<polyline fill="none" stroke="#629755" points="1141.8106,-621 1131.8106,-621.0001 "/>
 </g>
 </g>
 </svg>

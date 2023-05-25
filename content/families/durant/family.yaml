@@ -10,8 +10,9 @@ families:
   - parents: [Armaund, Tamara]
   - parents: [Rogelio, Tedora]
     children: [Degare, Dyson, Lyla]
-  - parents: [Degare, Sera]
+  - parents: [Degare, Elodie]
     children: [Michael, Lyla II]
+  - parents2: [Degare, Sera]
   - parents: [Dyson, Priscilla]
     children: [Kimberly, Gregory, Yenna MF, Marion]
   - families:
@@ -59,6 +60,11 @@ people:
     class: [deceased]
   Degare:
     fullname: Degare Durant
+  Elodie:
+    fullname: Elodië Bentayga
+    born: "1239-05-07"
+    died: "1274-04-03"
+    class: [deceased]
   Sera:
     fullname: Seraphine Gognon
   Michael:
