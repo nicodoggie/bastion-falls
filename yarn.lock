@@ -289,9 +289,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nicodoggie/kingraph@portal:/home/ensu/Projects/kingraph::locator=bastion-falls-zola%40workspace%3A.":
-  version: 0.0.0-use.local
-  resolution: "@nicodoggie/kingraph@portal:/home/ensu/Projects/kingraph::locator=bastion-falls-zola%40workspace%3A."
+"@nicodoggie/kingraph@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "@nicodoggie/kingraph@npm:0.2.0"
   dependencies:
     js-yaml: "npm:3.13.1"
     meow: "npm:3.7.0"
@@ -303,8 +303,9 @@ __metadata:
     viz.js: "npm:^2.1.2"
   bin:
     kingraph: bin/kingraph
+  checksum: bd2720d5977c2258998c4e381254b06983158edd8444748c945643a19c6022b91d1863d9c1609a69f01a414e4de0a6de6ca88fa817ffa8d3f9e56534d4749cbb
   languageName: node
-  linkType: soft
+  linkType: hard
 
 "@npmcli/fs@npm:^2.1.0":
   version: 2.1.2
