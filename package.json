@@ -20,8 +20,5 @@
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
     "@nicodoggie/kingraph": "^0.2.0"
-  },
-  "resolutions": {
-    "@nicodoggie/kingraph": "portal:/home/ensu/Projects/kingraph"
   }
 }
