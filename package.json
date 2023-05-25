@@ -14,11 +14,11 @@
   "devDependencies": {
     "concurrently": "^8.0.1",
     "lefthook": "^1.4.0",
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "@nicodoggie/kingraph": "^0.2.0"
   },
   "dependencies": {
     "@commitlint/cli": "^17.6.3",
-    "@commitlint/config-conventional": "^17.6.3",
-    "@nicodoggie/kingraph": "^0.2.0"
+    "@commitlint/config-conventional": "^17.6.3"
   }
 }
