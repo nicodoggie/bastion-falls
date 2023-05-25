@@ -62,3 +62,4 @@ include_content = true
 # Put all your custom variables here
 easydocs_heading_threshold = 3
 repo = "https://github.com/nicodoggie/bastion-falls"
+fantasy_calendar_id = "089e518f9ea966373b1c71535c25b98a"

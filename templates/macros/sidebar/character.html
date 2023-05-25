@@ -14,12 +14,36 @@
         {% if key == "mortality_status" %}
           {% continue %}
         {% endif %}
+        {% if key == "married" %}
+          <dt>
+            <h3>Married to</h3>
+          </dt>
+          <dd>
+            {%- set page = get_page(path=value.to) -%}
+            {%-if page -%}
+              <a href="{{ page.permalink | safe}}">{{ page.title }}</a> 
+            {%- else -%}
+            {{ value.to }}
+            {%- endif -%}
+            {%- if value.on %}
+            on {{ utils::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=value.on) }}
+            {%- endif -%} 
+          </dd>
+        {% elif (key is starting_with("date_")) %}
+        <dt>
+          <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
+        </dt>
+        <dd>
+          {{ utils::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=value) }}
+        </dd>
+        {% else %}
         <dt>
           <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
         </dt>
         <dd>
           {{ value }}
         </dd>
+        {% endif %}
       {% endfor %}
     </dl>
     {% endif %}
