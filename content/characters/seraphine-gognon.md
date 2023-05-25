@@ -4,7 +4,7 @@ slug = "seraphine-gognon"
 [extra]
 age = "24"
 sex = "Female"
-married.to = "Degare Durant"
+married.to = "characters/degare-durant.md"
 married.on = "1273-05-12"
 [taxonomies]
 families = ["Durant", "Gognon"]
