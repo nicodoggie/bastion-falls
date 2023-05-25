@@ -1,6 +1,6 @@
 +++
 location_id = "88"
-slug = "piedmont-(raibon)"
+slug = "piedmont-raibon"
 title = "Piedmont (Raibon)"
 [taxonomies]
 location_class = ["settlement"]

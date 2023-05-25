@@ -17,7 +17,7 @@ character_id = ["82"]
 Born Paulina Guildenstern, was one of the most famous Apgarian theater performers of all time. She was one of the proponents of the 
 [Naturalist Movement](@/misc/naturalist-movement.md) of Theatre in Apgar, and a member fo the famous 
 [Guildenstern Travelling Troupe](@/organizations/guildenstern-travelling-troupe.md). However, due to a number of controversies, most notably 
-the [Garatonian Aubergine Landgrab](@/event/garatonian-aubergine-landgrab.md), her membership was revoked.
+the [Garatonian Aubergine Landgrab](@/events/garatonian-aubergine-landgrab.md), her membership was revoked.
 
 She continued to remain popular despite the issues, as the popularity of the realistic depictions of the world that the naturalist movement portrayed in their productions.
 She moved to [Sanery](@/locations/sanery.md) in part to avoid the Guildensterns, and in part to be closer to friend and collaborator [Helene Nise](@/charaters/helene-nise.md).

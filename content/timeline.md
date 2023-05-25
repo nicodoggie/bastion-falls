@@ -22,6 +22,7 @@ weight = 11
 | 276 AI  | Founding of Ahuria                                                  |
 | 433 AI  | Beginning of the Ahurian Conquest of South Central Kalassar         |
 | 440 AI  | The Baraonian Rebellion                                             |
+| 466 AI  | Razing of the City of Kalassus                                      |
 | 466 AI  | Fall of the Western Kalassar Empire                                 |
 | 547 AI  | Founding of the Kingdom of Poasah                                   |
 | 657 AI  | Failed Ahurian Conquest of Giza                                     |

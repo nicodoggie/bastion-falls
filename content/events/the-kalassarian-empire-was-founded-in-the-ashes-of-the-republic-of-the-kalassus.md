@@ -1,6 +1,5 @@
 +++
 event_id = "5"
-ingame_date = ""
 slug = "the-kalassarian-empire-was-founded-in-the-ashes-of-the-republic-of-the-kalassus"
 title = "The Kalassarian Empire was founded in the ashes of the Republic of the Kalassus"
 [taxonomies]

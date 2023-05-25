@@ -1,6 +1,6 @@
 +++
 event_id = "4"
-ingame_date = ""
+ingame_date = "-466-07-01"
 slug = "kalassus-was-founded-in-the-mirian-peninsula"
 title = "Kalassus was founded in the Mirian Peninsula"
 [taxonomies]

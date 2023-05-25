@@ -6,4 +6,4 @@ title = "Instantaneous Magical Travel in the Kalassar"
 
 +++
 
-
+{{ stub() }}
