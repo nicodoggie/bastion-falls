@@ -1,6 +1,6 @@
 +++
-title = "Seraphine Durant née Gognon"
-slug = "seraphine-durant"
+title = "Seraphine Gognon"
+slug = "seraphine-gognon"
 [extra]
 age = "24"
 sex = "Female"
