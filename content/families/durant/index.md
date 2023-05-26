@@ -15,5 +15,4 @@ Most present-day Durants are still of the [Apgarian Paganist](@/religions/apgari
 had married into the [McFarland](@/families/mcfarland/index.md) family, as they follow 
 [Northern Paganist](@/religions/northern-paganism.md) traditions.
 
-
 {{ panzoom(id="tree", img="family.svg", alt="Durant Family Tree") }}

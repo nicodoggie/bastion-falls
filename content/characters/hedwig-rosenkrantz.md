@@ -1,16 +1,15 @@
 +++
 title = "Hedwig Rosa Rosenkrantz"
-ddb = "https://www.dndbeyond.com/characters/57319903"
+
 [extra]
+ddb = "https://www.dndbeyond.com/characters/57319903"
 age = 20
 sex = "Female"
+
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]
-character_id = ["9"]
 families = ["Rosenkrantz", "Guildenstern"]
-parents = ["Bain Rosenkrantz", "Karen RosenKrantz"]
-family_id = ["3"]
-character_org_id = ["3"]
+parents = ["Bain Rosenkrantz", "Karen Rosenkrantz"]
 religions = ["Orthodox Divine Masochist"]
 +++
 # Introduction

@@ -1,0 +1,227 @@
+families:
+  - house: Bentayga
+    parents: [Esteve, Berta]
+    children: [Emma, Guillem, Jordi, Aina, Matteo]
+  - parents: [Emma, Paulus]
+  - parents: [Guillem, Julia]
+    children: [Johanna, Alais, Eduard, Alba]
+    families: 
+    - house: Savoy
+      parents: [Johanna, Lemuel]
+      children: [Madison, Monroe, Yenna]
+      families:
+        - parents: [Madison, ThessalyJ]
+          children: [Nicanor, Naim]
+        - parents: [Nicanor, Laiya]
+        - house: Savoy-McFarland
+          parents: [Cabot, Yenna]
+          children: [Tedora, ThessalyM]
+          families:
+           - parents: [Tedora, Rogelio]
+             children: [Degare, Dyson, Lyla]
+  - parents: [Alais, Mariona]
+    children: [Marc, Adria]
+  - parents: [Adria, Clarence]
+  - parents: [Marc, Catherine]
+    children: [Corrine, Portencia, Hannah]
+    families:
+    - parents: [Portencia, Naim]
+      children: [Percival, Rick, Prudence]
+    - parents: [Percival, Lyla]
+  - parents: [Eduard, Neus]
+    children: [Magnus, Sophitia, Domino]
+  - parents: [Magnus, Colette]
+    children: [Aurica, Nausica, Abelline, Pauline, Selene]
+  - parents: [Selene, Brian]
+    children: [Ian]
+  - parents: [Alba, Parker]
+    children: [Harry, Lauren, Eunice]
+  - parents: [Harry, Elizabeth]
+    children: [Thomas, Elaine, Aaron, Maria]
+    families: 
+    - house: McFarland
+      parents: [Elaine, Talsin]
+      children: [Llora, Brian]
+  - parents: [Jordi, Ona]
+    children: [Naomi, Luda, Corid, Theo]
+  - parents: [Corid, Talia]
+    children: [Morgan, Arthur]
+  - parents: [Arthur, Hannah]
+    children: [Eponine, Gwendolin, Rhodia, Elodie]
+  - parents: [Matteo, Nuria]
+  - parents: [Elodie, Degare]
+    children: [Michael, LylaII]
+
+people:
+  Esteve:
+    fullname: Esteve Bentayga
+  Berta:
+    fullname: Berta Costa
+  Emma:
+    fullname: Emma Bentayga
+  Paulus:
+    fullname: Paulus Llorin
+  Guillem:
+    fullname: Guillem Bentayga
+  Julia:
+    fullname: Julia Llach
+  Johanna:
+    fullname: Johanna Bentayga
+  Lemuel:
+    fullname: Lemuel Savoy
+  Madison:
+    fullname: Madison Savoy
+  ThessalyJ:
+    name: Thessaly J.
+    fullname: Thessaly Jordin
+    class: [deceased]
+  ThessalyM:
+    name: Thessaly M.
+    fullname: Thessaly McFarland
+    class: [deceased]
+  Monroe:
+    fullname: Monroe Savoy
+  Yenna:
+    fullname: Yenna Savoy
+  Cabot:
+    fullname: Cabot McFarland
+    class: [deceased]
+  Alais:
+    fullname: Alais Bentayga
+  Mariona:
+    fullname: Mariona Pons
+  Marc:
+    fullname: Marc Bentayga
+  Catherine:
+    fullname: Catherine Grey
+  Corrine:
+    fullname: Corrine Bentayga
+  Portencia:
+    fullname: Portencia Bentayga
+  Naim:
+    fullname: Naim Savoy
+  Prudence:
+    fullname: Prudence Savoy
+  Percival:
+    fullname: Percival Savoy
+    class: [deceased]
+  Lyla:
+    fullname: Lyla Durant
+    class: [deceased]
+  Michael:
+    fullname: Michael Durant
+  LylaII:
+    fullname: Lyla II Durant
+    class: [deceased]
+  Tedora:
+    fullname: Tedora McFarland
+    class: [deceased]
+  Rogelio:
+    fullname: Rogelio Durant
+    class: [deceased]
+  Degare:
+    fullname: Degare Durant
+  Dyson:
+    fullname: Dyson McFarland
+  Rick:
+    fullname: Rickard Savoy
+  Hannah:
+    fullname: Hannah Bentayga
+  Adria:
+    fullname: Adria Bentayga
+  Clarence:
+    fullname: Clarence Bouillard
+  Eduard:
+    fullname: Eduard Bentayga
+  Neus:
+    fullname: Neus Sinclair
+  Magnus:
+    fullname: Magnus Bentayga
+  Colette:
+    fullname: Collete Zuñiga
+  Aurica:
+    fullname: Aurica Bentayga
+  Nausica:
+    fullname: Nausica Bentayga
+  Abelline:
+    fullname: Abelline Bentayga
+  Pauline:
+    fullname: Pauline Bentayga
+  Selene:
+    fullname: Selene Bentayga
+  Domino:
+    fullname: Domino Bentayga
+  Sophitia:
+    fullname: Sophitia Bentayga
+  Alba:
+    fullname: Alba Bentayga 
+  Parker:
+    fullname: Parker Peterson
+  Harry:
+    fullname: Harry Bentayga
+  Elizabeth:
+    fullname: Elizabeth Windsor
+  Thomas:
+    fullname: Thomas Bentayga
+  Maria:
+    fullname: Maria Bentayga
+  Aaron:
+    fullname: Aaron Bentayga
+  Elaine:
+    fullname: Elaine Bentayga
+  Talsin:
+    fullname: Talsin McFarland
+  Brian:
+    fullname: Brian McFarland
+  Llora:
+    fullname: Llora McFarland
+  Ian:
+    fullname: Valerian II McFarland
+  Eunice:
+    fullname: Eunice Bentayga
+  Lauren:
+    fullname: Lauren Bentayga
+  Nicanor:
+    fullname: Nicanor Savoy
+  Laiya:
+    fullname: Laiya Mendoza
+  Jordi:
+    fullname: Jordi Bentayga
+  Ona:
+    fullname: Ona Horace
+  Theo:
+    fullname: Theo Bentayga
+  Corid:
+    fullname: Corid Bentayga
+  Luda:
+    fullname: Luda Bentayga
+  Naomi:
+    fullname: Naomi Bentayga
+  Talia:
+    fullname: Talia Winslow
+  Arthur:
+    fullname: Arthur Bentayga
+  Morgan:
+    fullname: Morgan Bentayga
+  Eponine:
+    fullname: Eponine Bentayga
+  Rhodia:
+    fullname: Rhodia Bentayga
+  Gwendolin:
+    fullname: Gwendolin Bentayga
+  Elodie:
+    fullname: Elodie Bentayga
+  Matteo:
+    fullname: Matteo Bentayga
+  Nuria:
+    fullname: Nurila Guilia
+  Aina:
+    fullname: Aina Bentayga
+  
+  
+  
+styles:
+  deceased:
+    color: red
+    penwidth: 0.25
+

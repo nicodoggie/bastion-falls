@@ -9,7 +9,7 @@
   "scripts": {
     "build": "zola build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
-    "family": "nodemon --watch **/family.yaml --exec './kingraph.sh'"
+    "family": "nodemon --ignore public --ext yaml content/**/family.yaml --exec './kingraph.sh'"
   },
   "devDependencies": {
     "@nicodoggie/kingraph": "^0.2.0",
