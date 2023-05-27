@@ -6,7 +6,11 @@
   </div>
 </div>
 
+{% if not target %}
+  {% set target=img %}
+{% endif %}
 <script>
+  const enableDblclick = {% if enableDblclick %}{{ enableDblclick }}{% else %}true{% endif %};
   const elem = document.getElementById('{{ id }}')
   const panzoom = Panzoom(elem, {
     maxScale: 10,
@@ -19,7 +23,9 @@
   // There are several available methods for zooming
   // that can be bound on button clicks or mousewheel.
   elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
-  elem.addEventListener('dblclick', () => {
-    window.open("{{ img }}", '_blank')
-  })
+  if(enableDblclick === undefined || enableDblclick === true) {
+    elem.addEventListener('dblclick', () => {
+      window.open("{{ target }}", '_blank');
+    })
+  }
 </script>

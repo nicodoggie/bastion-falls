@@ -151,6 +151,16 @@ table#org-list {
   }
 }
 
+.panzoom-root {
+  height: max-content;
+  width: max-content;
+
+  .panzoom-container {
+    height: max-content;
+      width: max-content;
+  }
+}
+
 .panzoom-box {
   display: flex;
   align-items: center;

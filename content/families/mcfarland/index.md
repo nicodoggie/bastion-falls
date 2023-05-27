@@ -13,4 +13,4 @@ Some of them have intermarried with the [Savoy](@/families/savoy.md) of
 well-known for being competent lawyers or accountants.
 
 
-{{ panzoom(id="tree", img="family.svg", alt="McFarland Family Tree") }}
+{{ panzoom(id="tree", img="family.svg", target="family-tree", alt="McFarland Family Tree") }}

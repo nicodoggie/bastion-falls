@@ -8,7 +8,7 @@ mostly serve at the pleasure of the [Bouillard](@/families/bouillard.md) Family.
 family itself were rooted from original settlers from [Estrega](@/locations/estrega.md)
 when they first moved into [Raibon Island](@/locations/raibon-island.md).
 
-{{ panzoom(id="tree", img="family.svg", alt="Savoy Family Tree") }}
+{{ panzoom(id="tree", img="family.svg", target="family-tree", alt="Savoy Family Tree") }}
 
 # Pater Familius
 The entire Savoy clan, including its branches answer to a _Pater Familius_, the father

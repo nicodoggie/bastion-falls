@@ -9,4 +9,4 @@ the known world.
 A disproportionate number of them have moved into Raibon Island and intermarried with 
 some of the prominent families on the island.
 
-{{ panzoom(id="tree", img="family.svg", alt="Bentayga Family Tree") }}
+{{ panzoom(id="tree", img="family.svg", target="family-tree", alt="Bentayga Family Tree") }}
