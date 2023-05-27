@@ -1,10 +1,13 @@
 +++
+title = "Reginald de Villa"
+[extra]
 age = "63"
 pronouns = "He/Him"
 sex = "Male"
-slug = "reginald-de-villa"
-title = "Reginald de Villa"
+position = "Ministry Councilperson"
+
 [taxonomies]
+organizations = ["Port Rainoso Local Government"]
 character_id = ["26"]
 +++
 

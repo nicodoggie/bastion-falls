@@ -1,10 +1,13 @@
 +++
+title = "Émile Bellerose"
+[extra]
 age = "64"
 pronouns = "He/Him"
 sex = "Male"
-slug = "emile-bellerose"
-title = "Émile Bellerose"
+position = "Justitian Councilperson"
+
 [taxonomies]
+organizations = ["Port Rainoso Local Government"]
 character_id = ["28"]
 +++
 

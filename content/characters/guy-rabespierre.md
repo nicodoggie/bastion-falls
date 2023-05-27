@@ -1,10 +1,12 @@
 +++
+title = "Guy Rabespierre"
+[extra]
 age = "51"
 pronouns = "He/Him"
 sex = "Male"
-slug = "guy-rabespierre"
-title = "Guy Rabespierre"
+position = "Mayor"
 [taxonomies]
+organizations = ["Port Rainoso Local Government"]
 character_id = ["24"]
 +++
 

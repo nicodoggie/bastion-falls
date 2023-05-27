@@ -1,10 +1,14 @@
 +++
+title = "Régis Langlois"
+[extra]
 age = "61"
 pronouns = "He/Him"
 sex = "Male"
-slug = "regis-langlois"
-title = "Régis Langlois"
+position = "Ministry Councilperson"
+mortality_status = "Dead"
+
 [taxonomies]
+organizations = ["Port Rainoso Local Government"]
 character_id = ["30"]
 +++
 
