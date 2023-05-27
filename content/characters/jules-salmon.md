@@ -1,11 +1,16 @@
 +++
+
+title = "Jules Salmon"
+[extra]
 age = "66"
 pronouns = "He/Him"
 sex = "Male"
-slug = "jules-salmon"
-title = "Jules Salmon"
+position = "Ministry Councilperson"
+
 [taxonomies]
 character_id = ["29"]
+organizations = ["Port Rainoso Local Government"]
+orga
 +++
 
 
