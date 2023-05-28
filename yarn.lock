@@ -376,6 +376,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/nodemon@npm:^1.19.2":
+  version: 1.19.2
+  resolution: "@types/nodemon@npm:1.19.2"
+  dependencies:
+    "@types/node": "npm:*"
+  checksum: 322b58c3a0cc51fc6bdde22537474e21aba047c77819ebae17c263627f666993f61d54e27fc25c15d9ecc28131ad4d0f8215d64ef5f38c26f5f8b9686a994e15
+  languageName: node
+  linkType: hard
+
 "@types/normalize-package-data@npm:^2.4.0":
   version: 2.4.1
   resolution: "@types/normalize-package-data@npm:2.4.1"
@@ -626,9 +635,11 @@ __metadata:
     "@commitlint/cli": "npm:^17.6.3"
     "@commitlint/config-conventional": "npm:^17.6.3"
     "@nicodoggie/kingraph": "npm:^0.2.0"
+    "@types/nodemon": "npm:^1.19.2"
     concurrently: "npm:^8.0.1"
     lefthook: "npm:^1.4.0"
     nodemon: "npm:^2.0.22"
+    ts-node: "npm:^10.9.1"
   languageName: unknown
   linkType: soft
 
@@ -3818,7 +3829,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.8.1":
+"ts-node@npm:^10.8.1, ts-node@npm:^10.9.1":
   version: 10.9.1
   resolution: "ts-node@npm:10.9.1"
   dependencies:

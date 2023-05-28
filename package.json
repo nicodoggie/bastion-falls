@@ -9,13 +9,15 @@
   "scripts": {
     "build": "zola build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
-    "family": "nodemon --ignore public --ext yaml content/**/family.yaml --exec './kingraph.sh'"
+    "family": "./kingraph.cjs"
   },
   "devDependencies": {
     "@nicodoggie/kingraph": "^0.2.0",
+    "@types/nodemon": "^1.19.2",
     "concurrently": "^8.0.1",
     "lefthook": "^1.4.0",
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
   },
   "dependencies": {
     "@commitlint/cli": "^17.6.3",
