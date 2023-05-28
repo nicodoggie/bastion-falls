@@ -3,7 +3,7 @@ location_id = "77"
 slug = "brown-carrot"
 title = "Brown Carrot"
 [taxonomies]
-location_class = ["village"]
+location_type = ["village"]
 parent_location_id = ["78"]
 
 +++

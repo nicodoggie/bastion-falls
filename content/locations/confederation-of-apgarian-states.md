@@ -6,7 +6,7 @@ template = "redirect.html"
 [extra]
 redirect = "/locations/apgar"
 [taxonomies]
-location_class = ["confederacy"]
+location_type = ["confederacy"]
 parent_location_id = ["19"]
 
 +++

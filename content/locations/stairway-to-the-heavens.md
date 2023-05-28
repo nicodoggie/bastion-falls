@@ -1,7 +1,7 @@
 +++
 title = "Stairway to the Heavens"
 [taxonomies]
-location_class = ["town"]
+location_type = ["town"]
 +++
 
 stub()

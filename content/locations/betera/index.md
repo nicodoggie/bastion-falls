@@ -1,7 +1,7 @@
 +++
 title="Betera"
 [taxonomies]
-location_class=["continent"]
+location_type = ["continent"]
 +++
 
 

@@ -3,7 +3,7 @@ location_id = "46"
 slug = "raibon"
 title = "Raibon"
 [taxonomies]
-location_class = ["island"]
+location_type = ["island"]
 parent_location_id = ["18"]
 
 +++

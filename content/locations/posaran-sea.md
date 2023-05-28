@@ -3,7 +3,7 @@ location_id = "84"
 slug = "posaran-sea"
 title = "Posaran Sea"
 [taxonomies]
-location_class = ["sea"]
+location_type = ["sea"]
 
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Palace in the Isle of Gods"
 [taxonomies]
-location_class = ["residence"]
+location_type = ["residence"]
 +++
 
 {{ stub() }}

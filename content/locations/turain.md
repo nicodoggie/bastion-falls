@@ -3,7 +3,7 @@ location_id = "3"
 slug = "turain"
 title = "Turain"
 [taxonomies]
-location_class = ["freehold"]
+location_type = ["freehold"]
 parent_location_id = ["19"]
 
 +++

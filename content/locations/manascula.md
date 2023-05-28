@@ -3,7 +3,7 @@ location_id = "29"
 slug = "manascula"
 title = "Manascula"
 [taxonomies]
-location_class = ["principality", "protectorate"]
+location_type = ["principality", "protectorate"]
 parent_location_id = ["21"]
 
 +++

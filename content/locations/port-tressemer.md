@@ -3,7 +3,7 @@ location_id = "52"
 slug = "port-tressemer"
 title = "Port Tressemer"
 [taxonomies]
-location_class = ["port town"]
+location_type = ["port town"]
 parent_location_id = ["46"]
 
 +++

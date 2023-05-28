@@ -3,7 +3,7 @@ location_id = "85"
 slug = "dustain-river"
 title = "Dustain River"
 [taxonomies]
-location_class = ["river"]
+location_type = ["river"]
 parent_location_id = ["46"]
 
 +++

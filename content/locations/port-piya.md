@@ -1,7 +1,7 @@
 +++
 title = "Port Piya"
 [taxonomies]
-location_class = ["town"]
+location_type = ["town"]
 +++
 
 stub()

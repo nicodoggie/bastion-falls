@@ -3,11 +3,11 @@ title = "Raibon Island"
 [extra]
 population = "170,000"
 parent_locations = [
-  { name = "Apgarian Confederacy", slug="apgar", location_class = "country" },
-  { name = "Sanery", slug="sanery", location_class = "state" }
+  { name = "Apgarian Confederacy", slug="apgar", location_type = "country" },
+  { name = "Sanery", slug="sanery", location_type = "state" }
 ]
 [taxonomies]
-location_class = ["island"]
+location_type = ["island"]
 +++
 
 {{ outofdate() }}

@@ -2,7 +2,7 @@
 title="Ralaka"
 location_id = "20"
 [taxonomies]
-location_class=["continent"]
+location_type = ["continent"]
 +++
 
 # Ralaka

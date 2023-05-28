@@ -3,7 +3,7 @@ location_id = "58"
 slug = "samain-river"
 title = "Samain River"
 [taxonomies]
-location_class = ["river"]
+location_type = ["river"]
 parent_location_id = ["46"]
 
 +++

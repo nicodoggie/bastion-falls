@@ -12,26 +12,36 @@ theme = "zola_easydocs_theme"
 build_search_index = true
 
 taxonomies = [
+  # Character
   { name = "families", feed = true, render = true },
   { name = "organizations", feed = true, render = true },
   { name = "religions", feed = true, render = false },
-
   { name = "parents", feed = false, render = false },
+  { name = "siblings", feed = false, render = false },
 
-  { name = "location_class", feed = true, render = false },
+  # Location
+  { name = "location_type", feed = true, render = false },
+
+  # Organization
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },
+  
+  # Event
+  { name = "event_type", feed = true, render = false },
+  { name = "primary_characters", feed = true, render = false },
+  { name = "primary_families", feed = true, render = false },
+
+  # Misc
+  { name = "journal_type", feed = true, render = false },
 
   { name = "character_id", feed = false, render = true },
-  { name = "character_org_id", feed = false, render = false },
-
-  { name = "journal_type", feed = true, render = false },
+  { name = "character_org_id", feed = false, render = false },  
   { name = "location_id", feed = false, render = false },
-  { name = "event_type", feed = true, render = false },
   { name = "parent_event_id", feed = false, render = false },
   { name = "family_id", feed = false, render = false },
   { name = "family_location_id", feed = false, render = false },
   { name = "parent_location_id", feed = false, render = false },
+  { name = "primary_organizations", feed = true, render = false },
 ]
 
 external_links_target_blank = true
@@ -53,7 +63,7 @@ internal_level = "warn"
 [search]
 include_title = true
 include_description = true
-include_path = false
+include_path = true
 include_content = true
 
 # truncate_content_length = 100
