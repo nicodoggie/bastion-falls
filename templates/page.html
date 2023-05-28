@@ -25,12 +25,18 @@
   {% if page.path is starting_with("/locations") %}
     {% set class = class ~ " sidebar-location" %}
   {% endif %}
-  <aside class="sidebar {% if class %}{{ class }}{% endif %}">
+  {% if page.path is starting_with("/events") %}
+  {% set class = class ~ " sidebar-events" %}
+  {% endif %}
+  <aside class="sidebar {{ class }}">
     {% if page.path is starting_with("/character") %}
       {{ macros::sidebar_character(name=page.title, config=page) }}
-      {% endif %}
-      {% if page.path is starting_with("/locations") %}
+    {% endif %}
+    {% if page.path is starting_with("/locations") %}
       {{ macros::sidebar_location(name=page.title, config=page) }}
+    {% endif %}
+    {% if page.path is starting_with("/events") %}
+    {{ macros::sidebar_event(name=page.title, config=page) }}
     {% endif %}
   </aside>
   {% endblock %}

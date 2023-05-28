@@ -23,7 +23,8 @@
             <h3>Married to</h3>
           </dt>
           <dd>
-            {%- set page = get_page(path=value.to) -%}
+            {%- set spouse = value.to | slugify -%}
+            {%- set page = get_page(path="characters/" ~ spouse ~ ".md") -%}
             {%-if page -%}
               <a href="{{ page.permalink | safe}}">{{ page.title }}</a> 
             {%- else -%}
@@ -52,6 +53,7 @@
     </dl>
     {% endif %}
     {{ utils::list_taxa(taxon='parents', taxa=taxa, section='characters') }}
+    {{ utils::list_taxa(taxon='siblings', taxa=taxa, section='characters') }}
     {{ utils::list_taxa(taxon='families', taxa=taxa) }}
     {{ utils::list_taxa(taxon='organizations', taxa=taxa) }}
     {{ utils::list_taxa(taxon='religions', taxa=taxa) }}

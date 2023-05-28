@@ -1,14 +1,17 @@
 {% macro list_taxa(taxon, taxa, section='') %}
   {% if taxon in taxa %}
     <dl>
-      <dt><h3>{{ taxon | title }}</h3></dt>
-      {% set path = taxon %}
-      {% if section != ''%}
-        {% set path = section %}
-      {% endif%}
+      <dt>
+        <h3>{{ taxon | replace(from="_", to=" ") | title }}</h3>
+      </dt>
       {% for item in taxa[taxon] %}
         {% set page = get_taxonomy_term(kind=taxon, term=item) %}
-        <dd><a href="{{ page.permalink | lower | safe }}"> {{ page.name | title }}</a></dd>
+        {% set path = page.permalink | lower | safe %}
+        {% if section != ''%}
+        {% set slug = page.name | slugify %}
+        {% set path = '/' ~ section ~ '/' ~ slug %}
+        {% endif %}
+        <dd><a href="{{ path }}"> {{ page.name | replace(from="_", to=" ") | title }}</a></dd>
       {% endfor %}
     </dl>
   {% endif %}

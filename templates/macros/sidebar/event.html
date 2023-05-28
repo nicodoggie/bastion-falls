@@ -1,0 +1,27 @@
+{% import "macros/utils.html" as utils %}
+
+{% macro event(name, config) %}
+<dl>
+  {% if config.extra %}
+  {% for key, value in config.extra%}
+
+  {% if (key is starting_with("date")) %}
+  <dt>
+    <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
+  </dt>
+  <dd>
+    {{ utils::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=value) }}
+  </dd>
+  {% else %}
+  <dt>
+    <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
+  </dt>
+  <dd>{{ value }}</dd>
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+  {% set taxa = config.taxonomies %}
+  {{ utils::list_taxa(taxon='primary_characters', taxa=taxa, section='characters') }}
+  {{ utils::list_taxa(taxon='primary_families', taxa=taxa, section='families') }}
+  {{ utils::list_taxa(taxon='primary_organizations', taxa=taxa, section='organizations') }}
+  {% endmacro event %}

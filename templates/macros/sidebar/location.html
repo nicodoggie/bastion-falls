@@ -16,7 +16,7 @@
 
     {% set page = get_page(path='locations/'~slug~'.md') %}
     <dt>
-      <h3>{{ location.location_class | title}}</h3>
+      <h3>{{ location.location_type | title}}</h3>
     </dt>
     <dd>
       <a href={{page.permalink}}>{{ location.name | title}}</a>
