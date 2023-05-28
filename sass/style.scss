@@ -151,19 +151,6 @@ table#org-list {
   }
 }
 
-.panzoom-root {
-  margin-top: -24px;
-  margin-bottom: -24px;
-  .panzoom-box {
-    .panzoom-container {
-      height: 100%;
-      width: 100%;
-    }
-    height: 100%;
-    width: 100%;
-  }
-}
-
 .panzoom-box {
   display: flex;
   align-items: center;
@@ -181,5 +168,59 @@ table#org-list {
 .footnote-definition {
   p {
     display: inline;
+  }
+}
+.spoiler {
+  label {
+    display: block;
+    font-weight: bolder;
+    font: 1px;
+  }
+
+  .spoiler-toggle-checkbox {
+    display: none;
+  }
+
+  .spoiler-toggle-label {
+    user-select: none;
+    cursor: pointer;
+  }
+
+  .spoiler-toggle-label::before {
+    display: inline-block;
+    content: "\E970";
+    font-family: 'FabricMDL2Icons';
+    font-size: .75rem;
+    transform: rotate(0deg);
+    transform-origin: 50% 50% 0px;
+    transition: transform 0.1s linear 0s;
+    margin-right: 5px;
+  }
+
+  .spoiler-toggle-checkbox:checked+.spoiler-toggle-label::before {
+    content: "\E970";
+    font-family: 'FabricMDL2Icons';
+    transform: rotate(90deg);
+    transform-origin: 50% 50% 0px;
+    transition: transform 0.1s linear 0s;
+  }
+
+  .spoiler-content {
+    overflow: hidden;
+    transition: overflow 0.2s ease-in-out;
+    background-color: #efefef;
+    padding: 2rem;
+  }
+
+  .spoiler-toggle-checkbox+.spoiler-toggle-label+.spoiler-content {
+    animation-name: slideOut;
+    animation-duration: 0.25s;
+    animation-fill-mode: both;
+  }
+
+  .spoiler-toggle-checkbox:checked+.spoiler-toggle-label+.spoiler-content {
+    animation-name: slideIn;
+    animation-duration: 0.25s;
+    animation-fill-mode: both;
   }
 }

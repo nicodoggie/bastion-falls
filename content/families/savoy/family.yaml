@@ -63,8 +63,10 @@ people:
     class: [deceased]
   Nicanor:
     fullname: Nicanor Savoy
+    class: [deceased]
   Laiya:
     fullname: Laiya Mendoza
+    class: [deceased]
   Naim:
     fullname: Naim Savoy
     class: [deceased]
@@ -79,6 +81,7 @@ people:
     class: [deceased]
   Beatrix:
     fullname: Beatrix Farnese
+    class: [deceased]
   Oliver:
     born: "1239-02-15"
     fullname: Oliver Savoy
@@ -138,6 +141,7 @@ people:
     class: [deceased]
   Sera:
     fullname: Seraphine Gognon
+    born: "1250-08-14"
   Michael:
     fullname: Michael Durant
   Lyla II:
