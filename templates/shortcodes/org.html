@@ -1,6 +1,7 @@
+{% if slug %}
+{% set slugged = slug %}
+{% else %}
 {% set slugged = name | slugify %}
-{%- set path = get_url(path="@/organization/"~slugged~".md") -%}
-{%- if path -%}
-{% set path = get_url(path="@/organization/"~slugged~"/index.md")%}
-{%- endif -%}
+{% endif %}
+{%- set path = get_url(path="/organizations/"~slugged) -%}
 {{ "["~name~"]("~path~")" | markdown(inline=true) | safe }}

@@ -1,13 +1,13 @@
 <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
-
+{% set src = page.colocated_path ~ img %}
 <div class="panzoom-box">
   <div class="panzoom-container" title="Double-click to open in new window.">
-    <img src="{{ img }}" alt="{{ alt }}" id="{{ id }}" width="50%" />
+    <img src="/{{ src }}" alt="{{ alt }}" id="{{ id }}" width="50%" />
   </div>
 </div>
 
 {% if not target %}
-  {% set target=img %}
+  {% set target=src %}
 {% endif %}
 <script>
   const enableDblclick = {% if enableDblclick %}{{ enableDblclick }}{% else %}true{% endif %};
@@ -25,7 +25,7 @@
   elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
   if(enableDblclick === undefined || enableDblclick === true) {
     elem.addEventListener('dblclick', () => {
-      window.open("{{ target }}", '_blank');
+      window.open("{{ target | safe }}", '_blank');
     })
   }
 </script>

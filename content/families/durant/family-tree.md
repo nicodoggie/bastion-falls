@@ -4,4 +4,4 @@ slug = "family-tree"
 template = "family-tree.html"
 +++
 
-{{ panzoomfull(path="@/families/durant/family.svg") }}
+{{ panzoomfull(path="families/durant/family.svg") }}

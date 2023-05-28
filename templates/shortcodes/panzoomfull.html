@@ -1,8 +1,7 @@
 <div class="panzoom-root">
-  {% set full_path = path%}
-  {{ page.colocated_path }}
-  {# {{ load_data(path=full_path) | safe }} #}
-  {# {{ page.content | safe }} #}
+  {% set full_path = path %}
+  {{ load_data(path=full_path) | safe }}
+  {{ page.content | safe }}
 </div>
 <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
 <script>
