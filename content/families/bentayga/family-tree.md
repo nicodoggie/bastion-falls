@@ -4,5 +4,4 @@ slug = "family-tree"
 template = "family-tree.html"
 +++
 
-
-{{ panzoom(id="panzoom", img="../family.svg", alt="Bentayga Family Tree", enableDblclick=false) }}
+{{ panzoomfull(path="@/families/bentayga/family.svg") }}

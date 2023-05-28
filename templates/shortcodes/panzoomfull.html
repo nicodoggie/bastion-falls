@@ -1,0 +1,11 @@
+<div class="panzoom-root">
+  {{ load_data(path=path) | safe }}
+  {# {{ page.content | safe }} #}
+</div>
+<script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+<script>
+  const elem = document.querySelector("svg")
+  const panzoom = Panzoom(elem);
+  panzoom.pan(0, 0);
+  elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+</script>

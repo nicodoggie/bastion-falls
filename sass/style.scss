@@ -152,12 +152,15 @@ table#org-list {
 }
 
 .panzoom-root {
-  height: max-content;
-  width: max-content;
-
-  .panzoom-container {
-    height: max-content;
-      width: max-content;
+  margin-top: -24px;
+  margin-bottom: -24px;
+  .panzoom-box {
+    .panzoom-container {
+      height: 100%;
+      width: 100%;
+    }
+    height: 100%;
+    width: 100%;
   }
 }
 
