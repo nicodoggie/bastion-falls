@@ -1,6 +1,7 @@
 +++
 title = "Anda Antorra"
 [extra]
+image = "/characters/anda-antorra.png"
 organization_position = "Captain"
 [taxonomies]
 organizations = ["Peacekeepers of Tressemer"]

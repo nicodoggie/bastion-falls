@@ -5,6 +5,11 @@
   {% if config.extra and config.extra.mortality_status%}
     {% set mortality = config.extra.mortality_status | title %}
   {% endif %}
+  {% if config.extra and config.extra.image %}
+  <div class="sidebar-character-portrait">
+    <img src="{{ config.extra.image }}" />
+  </div>
+  {% endif %}
   <h2 class="mortality-{{ mortality | lower }}" title="{{ mortality }}">
     <a target="_blank" rel="noopener,noreferrer" href="{% if config.extra.ddb %}{{ config.extra.ddb | safe }}{% endif %}">
       {{ name }}
