@@ -14,7 +14,7 @@ the limited resources that can be allocated to an armed force, such as a *gendar
 # History
 
 In the years following the end of the {{ evt(name="Poasan-Apgarian Conflict") }}, the
-{[ evt(name="Treaty of Turain") ]} limited the amount of armed forces on 
+{{ evt(name="Treaty of Turain") }} limited the amount of armed forces on 
 {{ loc(name="Raibon Island")}} as a whole. While the 
 [Gendarmerie](@/organizations/gendarmerie-nationale.md) had an exception in its existence
 as a defense force and a law-enforcement group, its resources were greatly limited to

@@ -4,5 +4,5 @@
 {% set slugged = slug %}
 {% endif %}
 
-{% set path = "/characters/"~slugged~".md" %}
+{% set path = "/characters/"~slugged %}
 {{ "["~name~"]("~path~")" | markdown(inline=true) | safe }}
