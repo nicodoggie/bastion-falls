@@ -8,4 +8,4 @@ organizations = ["Peacekeepers of Tressemer"]
 
 {{ stub() }}
 
-Anda Antorra is Captain of the {{ org(name="Peacekeepers of Tressemer") }}.
+Anda Antorra is the captain and founder of the {{ org(name="Peacekeepers of Tressemer") }}.
