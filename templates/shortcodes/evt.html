@@ -4,5 +4,5 @@
 {% set slugged = slug %}
 {% endif %}
 
-{% set path = "/characters/"~slugged~".md" %}
+{% set path = get_url(path="@/events/"~slugged~".md")%}
 {{ "["~name~"]("~path~")" | markdown(inline=true) | safe }}

@@ -21,7 +21,7 @@
   {% endfor %}
   {% endif %}
   {% set taxa = config.taxonomies %}
-  {{ utils::list_taxa(taxon='primary_characters', taxa=taxa, section='characters') }}
-  {{ utils::list_taxa(taxon='primary_families', taxa=taxa, section='families') }}
-  {{ utils::list_taxa(taxon='primary_organizations', taxa=taxa, section='organizations') }}
+  {{ utils::list_taxa(taxon='primary_characters', taxa=taxa, config=config, section='characters') }}
+  {{ utils::list_taxa(taxon='primary_families', taxa=taxa, config=config, section='families') }}
+  {{ utils::list_taxa(taxon='primary_organizations', taxa=taxa, config=config, section='organizations') }}
   {% endmacro event %}
