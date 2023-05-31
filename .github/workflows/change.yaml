@@ -4,6 +4,25 @@ jobs:
   discord:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v3
+
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: "yarn"
+    - name: Yarn Install
+      run: yarn install --immutable
+    - name: Build Kingraph SVGs
+      run: ./kingraph.sh
+    - name: Build Zola
+      uses: shalzz/zola-deploy-action@v0.17.2
+      env: 
+        BUILD_ONLY: true
+    - name: Publish to Cloudflare Pages
+      uses: cloudflare/wrangler-action@2.0.0
+      with:
+        apiToken: ${{ secrets.CF_API_KEY }}
+        command: pages publish out --project-name bastion-falls --commit-hash ${{ github.sha }}
     - name: Discord notification
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
@@ -11,6 +30,7 @@ jobs:
       with:
         args: |
           The project {{ EVENT_PAYLOAD.repository.full_name }} has been deployed.
+          See the changes on https://bastion-falls.thekennel.info/
 
           Changes:
           ${{ github.event.commits[0].message }}

@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 
 const nodemon = require("nodemon");
-const { spawnSync } = require("child_process");
+const { execSync } = require("child_process");
+const { writeFileSync } = require("fs");
 
+// Empty Script so we don't actually run anything.
 nodemon({
-  script: "kingraph.sh",
+  script: "empty.sh",
   ext: "yaml",
   watch: ["content/**/family.yaml"],
 })
@@ -14,6 +16,10 @@ nodemon({
   .on("restart", (files) => {
     for (const file of files) {
       console.log(`Processing ${file}.`);
-      spawnSync(`yarn kingraph ${file} -F svg > $\{i %% yaml\}svg`);
+      const output = execSync(`yarn kingraph ${file} -F svg`);
+      writeFileSync(file.replace(/\.ya?ml/, ".svg"), output.toString("utf-8"), {
+        encoding: "utf-8",
+      });
+      console.log(`Done.`);
     }
   });
