@@ -3,7 +3,7 @@ title = "Peacekeepers of Tressemer"
 [extra]
 date_established = "1260-02-11"
 [taxonomies]
-organization_type = ["Law Enforcement"]
+organization_type = ["Paramilitary", "Law Enforcement"]
 +++
 
 The Peacekeepers of Tressemer are an independent, non-governmental agency tasked with the
