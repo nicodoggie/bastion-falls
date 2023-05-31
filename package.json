@@ -1,9 +1,9 @@
 {
-  "name": "bastion-falls-zola",
+  "name": "@nicodoggie/bastion-falls",
   "private": true,
   "packageManager": "yarn@4.0.0-rc.44",
   "workspaces": [
-    "content-tree-builder/*",
+    "tools",
     "packages/*"
   ],
   "scripts": {
@@ -12,6 +12,7 @@
     "family": "./kingraph.cjs"
   },
   "devDependencies": {
+    "@nicodoggie/bf-repo-tools": "workspace:*",
     "@nicodoggie/kingraph": "^0.2.0",
     "@types/nodemon": "^1.19.2",
     "concurrently": "^8.0.1",
