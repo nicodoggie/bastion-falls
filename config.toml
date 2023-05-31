@@ -21,6 +21,7 @@ taxonomies = [
 
   # Location
   { name = "location_type", feed = true, render = false },
+  { name = "parent_location", feed = false, render = false},
 
   # Organization
   { name = "organization_id", feed = false, render = false },
@@ -58,7 +59,6 @@ highlight_code = true
 
 [link_checker]
 internal_level = "warn"
-
 
 [search]
 include_title = true
