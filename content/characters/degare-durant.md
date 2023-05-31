@@ -1,8 +1,8 @@
 +++
 title = "Degare Durant"
 [extra]
-age = "38"
-date_of_birth = "1237-10-15"
+age = "42"
+date_of_birth = "1233-10-15"
 pronouns = "He/Him"
 sex = "Male"
 position = "Ministry Councilperson"

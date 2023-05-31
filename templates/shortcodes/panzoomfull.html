@@ -9,4 +9,5 @@
   const panzoom = Panzoom(elem);
   panzoom.pan(0, 0);
   elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+  elem.parentElement.addEventListener('dblClick', () => { panzoom.zoom(2) });
 </script>

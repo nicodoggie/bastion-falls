@@ -39,101 +39,140 @@ families:
 people:
   Lemuel:
     fullname: Lemuel Savoy
+    born: "1123-06-26"
     class: [deceased]
   Johanna:
     fullname: Johanna Bentayga
+    born: "1129-03-06"
     class: [deceased]
   Madison:
     fullname: Madison Savoy
+    born: "1147-10-19"
     class: [deceased]
   Thessaly:
     fullname: Thessaly Jordin
     class: [deceased]
   Monroe:
     fullname: Monroe Savoy
+    born: "1149-05-30"
     class: [deceased]
   Nathalie:
     fullname: Nathalie Bouillard
+    born: "1151-01-12"
     class: [deceased]
   Yenna:
     fullname: Yenna Savoy
+    born: "1168-08-29"
     class: [deceased]
   Cabot:
     fullname: Cabot McFarland
     class: [deceased]
   Nicanor:
     fullname: Nicanor Savoy
-    class: [deceased]
+    born: "1178-10-04"
+    class: [unknown]
   Laiya:
     fullname: Laiya Mendoza
-    class: [deceased]
+    born: "1190-10-04"
+    class: [unknown]
   Naim:
     fullname: Naim Savoy
+    born: "1187-04-24"
     class: [deceased]
   Portencia:
     fullname: Portencia Bentayga
+    born: "1189-01-03"
     class: [deceased]
   Othello:
     fullname: Othello Savoy
+    born: "1181-01-22"
+    died: "1250-05-12"
     class: [deceased]
   Otto:
     fullname: Otto Savoy
+    born: "1212-04-28"
+    died: "1273-04-11"
     class: [deceased]
   Beatrix:
     fullname: Beatrix Farnese
+    born: "1219-09-01"
+    died: "1274-02-18"
     class: [deceased]
   Oliver:
     born: "1239-02-15"
     fullname: Oliver Savoy
     links:
-      - https://bastion-falls.thekennel.info/characters/oliver-savoy
+      - /characters/oliver-savoy
   Oscar:
     fullname: Oscar Savoy
     born: '1241-06-13'
     died: '1275-08-09'
     links:
-      - https://bastion-falls.thekennel.info/characters/oscar-savoy
+      - /characters/oscar-savoy
   Avis:
     fullname: Avis Savoy
+    born: "1256-11-11"
+    links:
+      - /characters/avis-savoy
   Leonila:
     fullname: Leonila Savoy
+    born: "1225-09-12"
   Charles:
     fullname: Charles Tudor
+    born: "1205-06-19"
   Swan:
     fullname: Samson Savoy
+    born: "1254-11-23"
   Mathilda:
     fullname: Mathilda Delacour
+    born: "1191-04-05"
     class: [deceased]
   Agnes:
     fullname: Brigadine Savoy
+    born: "1185-12-15"
   Tedora:
     fullname: Tedora McFarland
+    born: "1201-09-01"
     class: [deceased]
   Rogelio:
     fullname: Rogelio Durant
+    born: "1195-08-05"
     class: [deceased]
   Percival:
     fullname: Percival Savoy
+    born: "1212-01-20"
+    died: "1270-04-18"
     class: [deceased]
   Lyla:
-    fullname: Lyla Savoy 
+    fullname: Lyla Durant
+    born: "1236-11-03"
+    died: "1270-04-18"
     class: [deceased]
   Rick:
     fullname: Rickard Savoy
+    born: "1216-03-21"
   Gaelle:
     fullname: Gaelle Simoun
+    born: "1224-06-06"
   Taran:
     fullname: Taran Savoy
+    born: "1256-10-17"
   Todd:
     fullname: Thaddeus Savoy
+    born: "1259-02-11"
   Prudence:
     fullname: Prudence Savoy
+    born: "1221-03-21"
   Marco:
     fullname: Marco Paolo
+    born: "1220-07-27"
   Avila:
     fullname: Avila Paolo
+    born: "1251-08-26"
   Degare:
     fullname: Degare Durant
+    born: "1233-10-15"
+
   Elodie:
     fullname: Elodië Bentayga
     born: "1239-05-07"
@@ -141,28 +180,40 @@ people:
     class: [deceased]
   Sera:
     fullname: Seraphine Gognon
-    born: "1250-08-14"
+    born: "1250-03-14"
   Michael:
     fullname: Michael Durant
+    born: '1259-06-02'
   Lyla II:
     fullname: Lyla II Durant
+    born: "1271-08-01"
+    died: "1273-08-14"
+    class: [deceased]
   Dyson:
     fullname: Dyson McFarland
+    born: "1235-06-13"
   Priscilla:
     fullname: Priscilla Blanchette
   Kimberly:
     fullname: Kimberly McFarland
+    born: "1258-12-30"
   Gregory:
     fullname: Gregory McFarland
+    born: "1257-09-22"
   Yenna MF:
     name: Yenna
     fullname: Yenna McFarland
+    born: "1266-02-30"
   Marion:
     fullname: Marion McFarland
+    born: "1267-01-29"
 
 styles:
   deceased:
     color: red
+    penwidth: 0.25
+  unknown:
+    color: gray
     penwidth: 0.25
   
 
