@@ -1,7 +1,10 @@
 on: [push]
 
 jobs:
-  discord:
+  build-deploy:
+    env:
+      CLOUDFLARE_ACCOUNT_ID: 42310a8cfd53b541a4579a8af2b1821d
+    name: Build and Deploy
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -22,7 +25,7 @@ jobs:
       uses: cloudflare/wrangler-action@2.0.0
       with:
         apiToken: ${{ secrets.CF_API_KEY }}
-        command: pages publish out --project-name bastion-falls --commit-hash ${{ github.sha }}
+        command: pages deploy out --project-name bastion-falls --commit-hash ${{ github.sha }}
     - name: Discord notification
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
