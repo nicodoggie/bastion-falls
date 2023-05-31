@@ -32,6 +32,9 @@ taxonomies = [
   { name = "primary_characters", feed = true, render = false },
   { name = "primary_families", feed = true, render = false },
 
+  # Species
+  { name = "creature_type", feed = true, render = false },
+
   # Misc
   { name = "journal_type", feed = true, render = false },
 
