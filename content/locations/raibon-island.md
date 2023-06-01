@@ -1,7 +1,7 @@
 +++
 title = "Raibon Island"
 [extra]
-population = "170,000"
+population = 170000
 parent_locations = [
   { name = "Apgarian Confederacy", slug="apgar", location_type = "country" },
   { name = "Sanery", slug="sanery", location_type = "state" }
@@ -25,7 +25,7 @@ The island was once named Mauricia by the Kalassarian Empire when it was settled
 
 ### Hama
 
-The town of Hama was founded on the site the native Hausi called the Tichom. The existence of the town was considered mythological by scholars for years, as remnants of the settlement were never found, but recently discovered Kalassarian records indicate that the Kalassar were granted those lands for a settlement by the native ruling class. The settlement was used as a trade outpost between Kalassarian Hapgaria and Seneria.
+The [Town of Hama](@/locations/hama.md) was founded on the site the native Hausi called the Tichom. The existence of the town was considered mythological by scholars for years, as remnants of the settlement were never found, but recently discovered Kalassarian records indicate that the Kalassar were granted those lands for a settlement by the native ruling class. The settlement was used as a trade outpost between Kalassarian Hapgaria and Seneria.
 
 During the Fall of the Western Kalassarian Empire, Mauricia, and therefore Hama was forgotten as shipping lanes were disrupted. The town fell into disrepair, but remained settled, increasingly, by local Hausi elites. By the end of the 5th century, the town had become the cultural and religious center of a cult focused on the worship of a version of the goddess Pomona.
 
@@ -39,19 +39,19 @@ The Hausi were once the native people of the island. When the island was discove
 
 They seem to have originally believed in a kind of Animism, wherein each living being was either endowed by a goddess of nature, or are themselves avatars of the goddess. By the time the Kalassarians have settled in the island, those beliefs seem to have evolved to incorporate the Kalassarian pantheon. Each creature was said to be an amalgamation of pieces of the souls of gods. The proportion that an individual contains dictates their nature. A tree. for example is mostly made of the soul of Pomona, and a monkey has equal propotions of Pomona and Volupta, and smaller amounts of Minerva and Justitia. In the 5th century, during the primacy of Hama as a political entity on the island, and the appearance of the group called the Hags of Hama, their beliefs have shifted to the worship of these hags as an embodiment of the will of the gods. After the Sinking of the Town of Hama, the Hausi have lamented its loss, and had become a part of their local lexicon as swear words and curses.
 
-In the ensuing years, the Hausi and their descendants have come to ascribe religious and cultural importance to theTurbiere de Hubar. The Hags of Hama themselves were said to have begun to reside in the Bog. Offerings and prayers are directed toward it, in addition to the Hags themselves. Their deceased is laid to rest in the waters in and around it. They also place a general reverence upon the site, promulgating a set of legends and stories about the Bog and the Hags of Hama, including the lore surrounding the Frogmen and the Deep Lore.
+In the ensuing years, the Hausi and their descendants have come to ascribe religious and cultural importance to theTurbiere de Hubar. The Hags of Hama themselves were said to have begun to reside in the Bog. Offerings and prayers are directed toward it, in addition to the Hags themselves. Their dead is laid to rest in the waters in and around it. They also place a general reverence upon the site, promulgating a set of legends and stories about the Bog and the Hags of Hama, including the lore surrounding the Frogmen and the Deep Lore.
 
 ## Locations
 
 ### Heimann Sound
 
 ### Port Rainoso
-
-### Port Tresemmer
-
+See main article for [Port Rainoso](@/locations/port-rainoso.md)
+### Port Tressemer
+See main article for [Port Tressemer](@/locations/port-tressemer.md)
 ### La Tourbiere de Hobar
 
-### Mont Trabar
+### Montrabar
 
 ### Papa Simbal's Hut
 

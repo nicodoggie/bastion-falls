@@ -1,7 +1,6 @@
 +++
-location_id = "69"
 slug = "hama"
-title = "Hama"
+title = "Town of Hama"
 
 +++
 
