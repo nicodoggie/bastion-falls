@@ -1,6 +1,3 @@
-{#
-<pre>{{ __tera_context }}</pre> #}
-
 <!DOCTYPE HTML>
 <html>
 
@@ -77,27 +74,31 @@
           {% endif %}
           {% set section_ = get_section(path="_index.md") -%}
           {% for p in section_.subsections -%}
-          {% set subsection = get_section(path=p) -%}
+            {% set subsection = get_section(path=p) -%}
   
-          {% set subsection_title = subsection.title %}
+            {% set subsection_title = subsection.title %}
   
-          {% if subsection.render %}
-          {% set subsection_title = "["~subsection.title~"]("~subsection.permalink~")" %}
-          {% endif %}
+            {% if subsection.render %}
+            {% set subsection_title = "["~subsection.title~"]("~subsection.permalink~")" %}
+            {% endif %}
   
-  
-          <input class="tree-toggle" type="checkbox" id="{{ subsection.title | slugify }}" {% if current_path is
-            starting_with(subsection.path) %}checked{% endif %} />
-          <label class="tree-toggle-label" for="{{ subsection.title | slugify }}">{{ subsection.title }}</label>
-  
-          <ul class="subtree">
-            <li {% if current_path==subsection.path %}class="active" {% endif %}>
-              <a href="{{ subsection.permalink | safe }}{{ _ugly_url }}">Index</a>
+            <input class="tree-toggle" type="checkbox" name="nav-section" id="{{ subsection.title | slugify }}" {% if current_path
+              is starting_with(subsection.path) %}checked{% endif %} />
+            <label class="tree-toggle-label" for="{{ subsection.title | slugify }}">
+              {{ subsection.title }}
+              <a href="{{ subsection.permalink | safe }}{{ _ugly_url }}">&#x1F5CB;</a>
+            </label>
+            <ul class="subtree">
+            {% for s in subsection.subsections %}
+            {% set subsub = get_section(path=s) %}
+            <li {% if current_path==subsub.path %}class="active" {% endif %}>
+              <a href="{{ subsub.permalink | safe }}{{ _ugly_url }}">{{ subsub.title }}</a>
             </li>
-            {% for page in subsection.pages -%}
-            <li {% if current_path==page.path %}class="active" {% endif %}>
-              <a href="{{ page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
-            </li>
+              {% endfor %}
+              {% for page in subsection.pages -%}
+              <li {% if current_path==page.path %}class="active" {% endif %}>
+                <a href="{{ page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
+              </li>
   
             {% if page.toc -%}
   
@@ -188,7 +189,7 @@
     {% endif -%}
   
     <script type="text/javascript" src="{{ get_url(path='js.js') | safe }}" defer></script>
-  
+    <script type="text/javascript" src="{{ get_url(path='main.js') | safe }}" defer></script>
   </body>
   
   </html>

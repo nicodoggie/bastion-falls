@@ -1,26 +1,23 @@
+{% import "macros/utils.html" as utils %}
 {% macro location(name, config) %}
+  {% if config.extra %}
   <dl>
-    {% if config.extra.population %}
-    <dt>
-      <h3>Population</h3>
-    </dt>
-    <dd>{{ config.extra.population }}</dd>
+    {% for key, item in config.extra %}
+    {% if (key is starting_with("loc_")) == false %}
+      {% continue %}
     {% endif %}
-    {% if config.extra.parent_locations %}
-    {% for location in config.extra.parent_locations %}
-    {% if location.slug %}
-    {% set slug = location.slug %}
+    <dt>
+      <h3>{{ key | replace(from="loc_", to="") | replace(from="_", to=" ")| title}}</h3>
+    </dt>
+    {% if (item is iterable)%}
+      {% for i in item %}
+        <dd>{{ utils::format_config_item(key=key, item=i) }}</dd>
+      {% endfor %}
     {% else %}
-    {% set slug = location.name | slugify %}
+    <dd>{{ utils::format_config_item(key=key, item=item) }}</dd>
     {% endif %}
-
-    {% set page = get_page(path='locations/'~slug~'.md') %}
-    <dt>
-      <h3>{{ location.location_type | title}}</h3>
-    </dt>
-    <dd>
-      <a href={{page.permalink}}>{{ location.name | title}}</a>
-    </dd>
     {% endfor %}
-    {% endif %}
+  </dl>
+  {% endif %}
+  {{ utils::list_taxa(taxon="location_type", taxa=config.taxonomies, config=config) }}
 {% endmacro location %}

@@ -1,3 +1,29 @@
+{% macro format_config_item(key, item)%}
+  {% if (item is string) %}
+    {% if (item is starting_with("@/")) %}
+      {% set item = item | replace(from="@/", to="")%}
+      {% set page = get_page(path=item, required=false) %}
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    {% elif (item is starting_with("date#")) %}
+      {% set item = item | replace(from="date#", to="") %}
+      {{ self::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=item) }}
+    {% else %}
+      {{ item }}
+    {% endif %}
+  {% elif (item is number) %}
+    {{ item | num_format() }}
+  {% elif (item is object) %}
+    <dl>
+    {% for k,v in item %}
+      <dt>{{ k | title }}</dt>
+      <dd>{{ self::format_config_item(key=k, item=v) }}</dd>
+    {% endfor %}
+    </dl>
+  {% else %}
+    {{ item }}
+  {% endif %}
+{% endmacro format_config_item %}
+
 {% macro list_taxa(taxon, taxa, config, section='') %}
   {% if taxon in taxa %}
     <dl>

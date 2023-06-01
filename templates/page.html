@@ -1,6 +1,6 @@
 {% extends "index.html" %}
+{% import "macros/utils.html" as utils %}
 {% import "macros.html" as macros %}
-{% import "macros/links.html" as l %}
 {% block title %} {{ config.title }} | {{ page.title }} {% endblock title %}
 
 {% block content %}
@@ -17,8 +17,7 @@
 </h1>
 <hr />
 {# Check if page is in the "character section" #}
-  {% block sidebar %}
-  {% set ddb = page.ddb | default(value="")%}
+{% block sidebar %}
   {% set class = "" %}
   {% if page.path is starting_with("/character") %}
     {% set class = class ~ " sidebar-character"%}
@@ -27,7 +26,10 @@
     {% set class = class ~ " sidebar-location" %}
   {% endif %}
   {% if page.path is starting_with("/events") %}
-  {% set class = class ~ " sidebar-events" %}
+    {% set class = class ~ " sidebar-events" %}
+  {% endif %}
+  {% if page.ancestors | length > 3 %}
+  {% set class = class ~ " sidebar-section" %}
   {% endif %}
   <aside class="sidebar {{ class }}">
     {% if page.path is starting_with("/character") %}
@@ -39,7 +41,37 @@
     {% if page.path is starting_with("/events") %}
     {{ macros::sidebar_event(name=page.title, config=page) }}
     {% endif %}
+        {% if page.ancestors | length > 3 %}
+        {% set ancestors = page.ancestors | reverse %}
+        {% set path = ancestors[1] %}
+        {% set section = get_section(path=path) %}
+        {% if section.subsections -%}
+        <hr />
+        {% for subsec in section.subsections -%}
+        {% set sec_ = get_section(path=subsec) -%}
+        <input class="tree-toggle" type="checkbox" id="{{ sec_.title | slugify }}" {% if current_path is
+          starting_with(sec_.path) %}checked{% endif %} />
+        <label class="tree-toggle-label" for="{{ sec_.title | slugify }}">
+          {{ sec_.title }}
+          <a href="{{ sec_.permalink | safe }}{{ _ugly_url }}">&#x1F5CB;</a>
+        </label>
+        <ul class="subtree">
+          {% for page in sec_.pages %}
+          <li {% if current_path==page.path %}class="active" {% endif %}>
+            <a href="{{page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+        {% endif -%}
+        {% endif%}
   </aside>
   {% endblock %}
+  {% if page.word_count == 0 %}
+  {% set link = "[github repo]("~config.extra.repo~")" | markdown(inline=true) %}
+  {% set type = "warning" %}
+  {% set body = "This article is a stub!<br /><br />New content can be contributed as a pull request on our "~link~"." %}
+  {% include "shortcodes/callout.html" %}
+  {% endif %}
   {{ page.content | safe }}
 {% endblock %}

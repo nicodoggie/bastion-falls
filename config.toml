@@ -15,18 +15,24 @@ taxonomies = [
   # Character
   { name = "families", feed = true, render = true },
   { name = "organizations", feed = true, render = true },
+  { name = "ethnicities", feed = true, render = true },
   { name = "religions", feed = true, render = false },
+  { name = "species", feed = true, render = false },
   { name = "parents", feed = false, render = false },
   { name = "siblings", feed = false, render = false },
 
   # Location
-  { name = "location_type", feed = true, render = false },
+  { name = "location_type", feed = true, render = true },
   { name = "parent_location", feed = false, render = false},
 
   # Organization
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },
+  { name = "leaders", feed = false, render = false },
   
+  # Ethnicities
+  { name = "locations", feed = false, render = false },
+
   # Event
   { name = "event_type", feed = true, render = false },
   { name = "primary_characters", feed = true, render = false },

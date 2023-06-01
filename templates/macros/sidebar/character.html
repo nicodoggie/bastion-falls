@@ -1,14 +1,17 @@
 {% import "macros/utils.html" as utils %}
 
 {% macro character(name, config) %}
-  {% set mortality = 'Alive' %}
-  {% if config.extra and config.extra.mortality_status%}
-    {% set mortality = config.extra.mortality_status | title %}
-  {% endif %}
+  {# Character portraits#}
   {% if config.extra and config.extra.image %}
   <div class="sidebar-character-portrait">
     <img src="{{ config.extra.image }}" />
   </div>
+  {% endif %}
+
+  {# Set mortality icon #}
+  {% set mortality = 'Alive' %}
+  {% if config.extra and config.extra.mortality_status%}
+  {% set mortality = config.extra.mortality_status | title %}
   {% endif %}
   <h2 class="mortality-{{ mortality | lower }}" title="{{ mortality }}">
     <a target="_blank" rel="noopener,noreferrer" href="{% if config.extra.ddb %}{{ config.extra.ddb | safe }}{% endif %}">
@@ -16,50 +19,27 @@
     </a>
   </h2>
   <hr />
+
   {% set taxa = config.taxonomies %}
-    {%if config.extra %}
-    <dl>
-      {% for key, value in config.extra %}
-        {% if key == "mortality_status" or key == "ddb" %}
-          {% continue %}
-        {% endif %}
-        {% if key == "married" %}
-          <dt>
-            <h3>Married to</h3>
-          </dt>
-          <dd>
-            {%- set spouse = value.to | slugify -%}
-            {%- set page = get_page(path="characters/" ~ spouse ~ ".md") -%}
-            {%-if page -%}
-              <a href="{{ page.permalink | safe}}">{{ page.title }}</a> 
-            {%- else -%}
-            {{ value.to }}
-            {%- endif -%}
-            {%- if value.on %}
-            on {{ utils::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=value.on) }}
-            {%- endif -%} 
-          </dd>
-        {% elif (key is starting_with("date_")) %}
-        <dt>
-          <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
-        </dt>
-        <dd>
-          {{ utils::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=value) }}
-        </dd>
-        {% else %}
-        <dt>
-          <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
-        </dt>
-        <dd>
-          {{ value }}
-        </dd>
-        {% endif %}
-      {% endfor %}
-    </dl>
-    {% endif %}
-    {{ utils::list_taxa(taxon='parents', taxa=taxa, config=config, section='characters') }}
-    {{ utils::list_taxa(taxon='siblings', taxa=taxa, config=config, section='characters') }}
-    {{ utils::list_taxa(taxon='families', taxa=taxa, config=config) }}
-    {{ utils::list_taxa(taxon='organizations', taxa=taxa, config=config) }}
-    {{ utils::list_taxa(taxon='religions', taxa=taxa, config=config) }}
+  {%if config.extra and config.extra.cha %}
+  <dl>
+    {% for key, item in config.extra.cha %}
+      <dt>
+        <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
+      </dt>
+      {% if (item is iterable)%}
+        {% for i in item %}
+          <dd>{{ utils::format_config_item(key=key, item=i) }}</dd>
+        {% endfor %}
+      {% else %}
+        <dd>{{ utils::format_config_item(key=key, item=item) }}</dd>
+      {% endif %}
+    {% endfor %}
+  </dl>
+  {% endif %}
+  {{ utils::list_taxa(taxon='parents', taxa=taxa, config=config, section='characters') }}
+  {{ utils::list_taxa(taxon='siblings', taxa=taxa, config=config, section='characters') }}
+  {{ utils::list_taxa(taxon='families', taxa=taxa, config=config) }}
+  {{ utils::list_taxa(taxon='organizations', taxa=taxa, config=config) }}
+  {{ utils::list_taxa(taxon='religions', taxa=taxa, config=config) }}
 {% endmacro character %}
