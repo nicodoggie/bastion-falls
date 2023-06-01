@@ -1,12 +1,11 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "pecorine"
 title = "Pecorine"
+[extra]
+cha.age = 16
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
 organizations=["Ministry of the Occult"]
-character_id = ["72"]
 +++
 
 

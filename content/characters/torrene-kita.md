@@ -1,10 +1,12 @@
 +++
-age = "47"
-pronouns = "She/Her"
-sex = "Female"
-slug = "torrene-kita"
 title = "Torrene Kita"
+[extra]
+cha.age = "47"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
+
 [taxonomies]
+families = ["Kita"]
 character_id = ["6"]
 family_id = ["1"]
 +++

@@ -1,11 +1,10 @@
 +++
-
 title = "Jules Salmon"
 [extra]
-age = "66"
-pronouns = "He/Him"
-sex = "Male"
-position = "Ministry Councilperson"
+cha.age = "66"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+cha.position = "Ministry Councilperson"
 
 [taxonomies]
 character_id = ["29"]

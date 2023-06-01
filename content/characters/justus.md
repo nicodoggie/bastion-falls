@@ -1,11 +1,11 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "justus"
 title = "Justus"
+[extra]
+cha.pronouns = "Male"
+cha.sex = "He/Him"
+
 [taxonomies]
-character_id = ["75"]
+organizations = ["Mirian Trading Company"]
 +++
 
 

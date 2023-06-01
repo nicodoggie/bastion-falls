@@ -1,11 +1,10 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "lord-preston-caxton"
 title = "Lord Preston Caxton"
+[extra]
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["62"]
+families = ["Caxton"]
 +++
 
 

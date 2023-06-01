@@ -1,11 +1,8 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "trajan"
 title = "Trajan"
+[extra]
 [taxonomies]
-character_id = ["70"]
+organizations = ["La Camaraderie", "Rozenmaiden"]
 +++
 
 

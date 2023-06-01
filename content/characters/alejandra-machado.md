@@ -1,13 +1,11 @@
 +++
-age = "31"
-pronouns = "She/Her"
-sex = "Female"
-slug = "alejandra-machado"
 title = "Alejandra Machado"
+[extra]
+cha.age = "31"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
-organizations = ["Machado"]
-character_id = ["63"]
-family_id = ["7"]
+families = ["Machado"]
 +++
 
 

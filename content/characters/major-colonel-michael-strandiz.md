@@ -1,11 +1,11 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "major-colonel-michael-strandiz"
 title = "Major Colonel Michael Strandiz"
+[extra]
+cha.age = 51
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["32"]
+families = ["Strandiz"]
 +++
 
 

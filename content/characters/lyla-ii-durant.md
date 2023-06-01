@@ -2,9 +2,9 @@
 title = "Lyla Durant"
 [extra]
 reformat_title = false
-age = "2"
-date_of_birth = "1271-08-01"
-date_of_death = "1273-08-14"
+cha.age = "2"
+cha.date_of_birth = "1271-08-01"
+cha.date_of_death = "1273-08-14"
 mortality_status = "Dead"
 [taxonomies]
 parents = ["Degare Durant", "Elodië Bentayga"]

@@ -1,12 +1,11 @@
 +++
-age = "17"
-pronouns = "She/Her"
-sex = "Female"
-slug = "paretta-tavner"
 title = "Paretta Tavner"
+[extra]
+cha.age = "17"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
-character_id = ["53"]
-family_id = ["14"]
+families = ["Tavner"]
 +++
-
-Daughter of \[character:237\]
+{{ stub() }}
+Daughter of [Ollivander Tavner](@/characters/ollivander-tavner.md)

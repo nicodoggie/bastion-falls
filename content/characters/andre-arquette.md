@@ -1,9 +1,9 @@
 +++
 title = "Andre Arquette"
 [extra]
-age = "39"
-pronouns = "He/Him"
-sex = "Male"
+cha.age = "39"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 mortality_status = "Dead"
 [taxonomies]
 organizations = ["Free Theater"]

@@ -1,13 +1,12 @@
 +++
-age = 0
-pronouns = ""
-sex = "Male"
-slug = "rino-galanodel"
 title = "Rino Galanodel"
+[extra]
+cha.age = 21
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+
 [taxonomies]
 organizations = ["Orthodox Church of the Divine Masochist"]
-character_id = ["57"]
-family_id = ["15"]
 +++
 
 

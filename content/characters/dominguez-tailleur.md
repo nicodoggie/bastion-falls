@@ -1,12 +1,11 @@
 +++
-age = 0
-pronouns = "She/Her"
-sex = "21"
-slug = "dominguez-tailleur"
 title = "Dominguez Tailleur"
+[extra]
+cha.age = 21
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["16"]
-organizations = ["La Camaraderie","Rozenmaiden"]
+organizations = ["La Camaraderie", "Rozenmaiden"]
 +++
 
 

@@ -1,12 +1,12 @@
 +++
-age = "31"
-pronouns = "He/Him"
-sex = "Male"
-slug = "renault-ii-bouillard"
 title = "Renault II Bouillard"
+cha.age = "31"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["67"]
-family_id = ["8"]
+organizations = ["Bouillard"]
+families = ["Bouillard"]
+
 +++
 
 

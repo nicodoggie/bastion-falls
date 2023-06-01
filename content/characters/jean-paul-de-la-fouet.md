@@ -1,14 +1,13 @@
 +++
-age = "38"
-pronouns = "He/Him"
-sex = "Male"
-slug = "jean-paul-de-la-fouet"
 title = "Jean-Paul de la Fouet"
+[extra]
+cha.age = "38"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+
 [taxonomies]
 families = ["De la Fouet"]
 organizations = ["La Camaraderie","La Carnalis"]
-character_id = ["11"]
-family_id = ["4"]
 +++
 
 

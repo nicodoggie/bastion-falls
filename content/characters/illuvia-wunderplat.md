@@ -1,9 +1,10 @@
 +++
-age = "Unknown"
-pronouns = "She/Her"
-sex = "Female"
-slug = "illuvia-wunderplat"
 title = "Illuvia Wunderplat"
+[extra]
+cha.age = "Unknown"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
+
 [taxonomies]
 character_id = ["21"]
 family_id = ["5"]

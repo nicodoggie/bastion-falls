@@ -1,11 +1,10 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "king-raibon-i-of-estrega"
 title = "King Raibon I of Estrega"
+[extra]
+mortality_status = "Dead"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["43"]
 +++
 
 

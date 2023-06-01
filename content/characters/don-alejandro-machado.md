@@ -1,13 +1,12 @@
 +++
-age = "51"
-pronouns = "He/Him"
-sex = "Male"
-slug = "don-alejandro-machado"
 title = "Don Alejandro Machado"
+[extra]
+mortality_status = "Dead"
+cha.age = "51"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
 organizations = ["Machado"]
-character_id = ["37"]
-family_id = ["7"]
 +++
 
-Alejandro Machado is the 4th generation head of the \[family:174\] family, and had introduced the distribution of \[item:271\]. It was also under his administration of their family that they have gained into the prominence they currently hold as one of the \[organisation:171\]. The construction of their estate, La Casa Grande was also the fruit of his efforts
+Alejandro Machado is the 4th generation head of the [Machado](@/families/machado.md) family, and had introduced the distribution of White Powder. It was also under. The construction of their estate, La Casa Grande was one of the fruits of his efforts.

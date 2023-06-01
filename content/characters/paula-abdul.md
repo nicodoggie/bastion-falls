@@ -1,15 +1,14 @@
 +++
 title = "Paula Abdul"
 [extra]
-age = "51"
-pronouns = "She/Her"
-sex = "Female"
+cha.age = "51"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 mortality_status = "Dead"
 
 [taxonomies]
 organizations = ["Free Theater"]
 families = ["Guildenstern"]
-character_id = ["82"]
 +++
 
 {{ incomplete ()}}

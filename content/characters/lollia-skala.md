@@ -1,9 +1,9 @@
 +++
 title = "Lollia Skala"
+[extra]
+cha.aliases = ["Beloved Nurse Lollia"]
 [taxonomies]
 organizations = ["Nightshift Nurses"]
-character_id = ["87"]
-character_org_id = ["34"]
 +++
 
 {{ stub() }}

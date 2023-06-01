@@ -1,12 +1,12 @@
 +++
-age = "31"
-pronouns = "She/Her"
-sex = "Female"
-slug = "max-murray"
 title = "Max Murray"
+[extra]
+mortality_status = "Dead"
+cha.age = "17"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
 organizations = ["Free Theater"]
-character_id = ["79"]
 +++
 
 

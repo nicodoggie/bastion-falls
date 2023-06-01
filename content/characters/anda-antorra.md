@@ -2,7 +2,9 @@
 title = "Anda Antorra"
 [extra]
 image = "/characters/anda-antorra.png"
-organization_position = "Captain"
+cha.organizations = [
+  { organization = "@/organizations/peacekeepers-of-tressemer.md", rank = "Captain" },
+]
 [taxonomies]
 organizations = ["Peacekeepers of Tressemer"]
 +++

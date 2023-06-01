@@ -1,12 +1,11 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "anton-lightning"
 title = "Anton Lightning"
+[extra]
+cha.age = 21
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
 organizations = ["La Camaraderie", "Rozenmaiden"]
-character_id = ["73"]
 +++
 
 

@@ -1,11 +1,9 @@
 +++
-age = 0
-pronouns = ""
-sex = "Male"
-slug = "tourmaline-sabrege"
 title = "Tourmaline Sabrege"
+[extra]
+cha.sex = "Male"
 [taxonomies]
-character_id = ["60"]
+organizations = ["Revivalist Divine Masochist"]
 +++
 
 Tourmaline Sabrege is one of the founding members of the \[organisation:255\], and one of its most influential.

@@ -1,9 +1,8 @@
 +++
 title = "Azalea Ainsley"
+[extra]
 [taxonomies]
 organizations = ["Nightshift Nurses"]
-character_id = ["85"]
-character_org_id = ["34"]
 +++
 
 {{ stub() }}

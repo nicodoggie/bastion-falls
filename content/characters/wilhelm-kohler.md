@@ -1,0 +1,6 @@
++++
+title = "Wilhelm Köhler"
+[taxonomies]
++++
+
+

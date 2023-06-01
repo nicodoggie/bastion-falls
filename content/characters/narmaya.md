@@ -1,12 +1,11 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "narmaya"
 title = "Narmaya"
+[extra]
+cha.age = 401
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
 organizations = ["Rozenmaiden"]
-character_id = ["47"]
 +++
 
 

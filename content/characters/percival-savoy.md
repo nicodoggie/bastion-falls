@@ -1,9 +1,9 @@
 +++
 title = "Percival Savoy"
 [extra]
-age = 63
-date_of_birth = "1212-01-20"
-date_of_death = "1270-04-18"
+cha.age = 63
+cha.date_of_birth = "date#1212-01-20"
+cha.date_of_death = "date#1270-04-18"
 [taxonomies]
 organizations = ["Bouillard", "Savoy Patrol Group"]
 parents = ["Naim Savoy", "Portencia Bentayga"]

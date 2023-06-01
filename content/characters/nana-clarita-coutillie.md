@@ -1,14 +1,12 @@
 +++
-age = "83"
-pronouns = "She/Her"
-sex = "Female"
-slug = "nana-clarita-coutillie"
 title = "Nana Clarita Coutillie"
+[extra]
+cha.age = "83"
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
 organizations = ["Coutillie"]
 families = ["Coutillie"]
-character_id = ["23"]
-family_id = ["9"]
 +++
 
 Clarita Coutillie, more commonly known as Nana Clarita, is one of the \[organisation:171\] of \[location:97\]. Often considered the kindest of the four, many of those who have some troubled history with the other three flee to her and her protection. Local Divine Masochists who dislike the Machados also choose to live in her territory because of her more tolerant attitude to them, despite her adherence to the local form of paganism she espouses.  

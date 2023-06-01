@@ -1,11 +1,11 @@
 +++
-age = "69"
-pronouns = "He/Him"
-sex = "Male"
-slug = "tristan-strava"
 title = "Tristan Strava"
+[extra]
+cha.age = "69"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["56"]
+organizations = ["La Camaraderie"]
 +++
 
 

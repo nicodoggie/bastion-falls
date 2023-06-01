@@ -1,7 +1,9 @@
 +++
 title = "Kolha I"
+[extra]
+mortality_status = "Dead"
 [taxonomies]
-character_id = ["7"]
+organizations = ["Ansa Ahuriyata"]
 +++
 
 

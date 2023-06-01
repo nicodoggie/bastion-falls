@@ -1,10 +1,9 @@
 +++
-aliases = ["characters/nadaja"]
 title = "Sturgeon"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/51591895"
+cha.aliases = ["Nadaja"]
 [taxonomies]
-character_id = ["2"]
 religions = ["Ahore"]
 +++
 

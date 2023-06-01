@@ -1,14 +1,11 @@
 +++
-age = "63"
-pronouns = "He/Him"
-sex = "Male"
-slug = "adam-paulus"
 title = "Adam Paulus"
-
+[extra]
+cha.age = "63"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
 organizations = ["La Camaraderie"]
-character_id = ["22"]
-family_id = ["9"]
 +++
 
 

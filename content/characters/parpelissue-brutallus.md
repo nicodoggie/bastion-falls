@@ -1,9 +1,7 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "parpelissue-brutallus"
 title = "Parpelissue Brutallus"
+[extra]
+mortality_status = "Dead"
 [taxonomies]
 character_id = ["40"]
 +++

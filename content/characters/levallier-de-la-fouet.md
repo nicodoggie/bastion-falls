@@ -1,15 +1,13 @@
 +++
 title = "Levallier de la Fouet"
 [extra]
-age = "58"
-pronouns = "He/Him"
-sex = "Male"
-date_of_birth = '1217-11-17'
+cha.age = "58"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+cha.date_of_birth = 'date#1217-11-17'
 [taxonomies]
 families = ["De la Fouet"]
 organizations = ["Orthodox Church of the Divine Masochist"]
-character_id = ["10"]
-family_id = ["4"]
 +++
 
 {{ incomplete() }}

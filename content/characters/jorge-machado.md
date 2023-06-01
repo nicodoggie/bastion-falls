@@ -1,13 +1,12 @@
 +++
-age = "26"
-pronouns = "He/Him"
-sex = "Male"
-slug = "jorge-machado"
 title = "Jorge Machado"
+[extra]
+cha.age = "26"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden"]
-character_id = ["65"]
-family_id = ["7"]
 +++
 
 

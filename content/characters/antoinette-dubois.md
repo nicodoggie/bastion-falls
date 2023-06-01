@@ -1,11 +1,11 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "antoinette-dubois"
 title = "Antoinette Dubois"
+[extra]
+cha.age = 0
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
-families = ["Dubois"]
+families = ["Dubois", "McRee"]
 character_id = ["34"]
 +++
 

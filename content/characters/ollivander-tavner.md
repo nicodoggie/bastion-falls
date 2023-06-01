@@ -1,12 +1,11 @@
 +++
-age = "45"
-pronouns = "He/Him"
-sex = "Male"
-slug = "ollivander-tavner"
 title = "Ollivander Tavner"
+[extra]
+cha.age = "45"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["52"]
-family_id = ["14"]
+families = ["Tavner"]
 +++
-
-Owner and Proprietor of the \[location:235\]
+{{ stub() }}
+Owner and Proprietor of the [Iron Road Inn](@/locations/iron-road-inn.md)

@@ -1,9 +1,9 @@
 +++
 title = "Shara Nasari"
+[extra]
+cha.aliases = ["Horny Healer Shara"]
 [taxonomies]
 organizations = ["Nightshift Nurses"]
-character_id = ["87"]
-character_org_id = ["34"]
 +++
 
 {{ stub() }}

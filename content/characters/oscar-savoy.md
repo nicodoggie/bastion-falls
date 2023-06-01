@@ -1,11 +1,11 @@
 +++
 title = "Oscar Savoy"
 [extra]
-age = "33"
-date_of_birth = "1241-06-13"
-date_of_death = '1275-08-04'
+cha.age = "33"
+cha.date_of_birth = "date#1241-06-13"
+cha.date_of_death = 'date#1275-08-04'
+cha.sex = "Male"
 mortality_status = 'Undead'
-sex = "Male"
 [taxonomies]
 families = ["Savoy"]
 organizations = ["La Camaraderie", "Rozenmaiden"]

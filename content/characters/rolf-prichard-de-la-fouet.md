@@ -1,15 +1,13 @@
 +++
 title = "Rolf Prichard de la Fouet"
 [extra]
-age = "45"
-pronouns = "He/Him"
-sex = "Male"
+cha.age = "45"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 mortality_status = "Unknown"
 [taxonomies]
 families = ["De la Fouet"]
 organizations = ["Orthodox Church of the Divine Masochist"]
-character_id = ["14"]
-family_id = ["4"]
 +++
 
 Rolf Prichard de la Fouet is the second of three de la Fouet children born after the \[event:103\].

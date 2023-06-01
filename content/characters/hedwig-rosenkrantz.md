@@ -3,8 +3,9 @@ title = "Hedwig Rosa Rosenkrantz"
 
 [extra]
 ddb = "https://www.dndbeyond.com/characters/57319903"
-age = 20
-sex = "Female"
+cha.age = 21
+cha.date_of_birth = "date#1254-08-05"
+cha.sex = "Female"
 
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]

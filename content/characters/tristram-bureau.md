@@ -1,11 +1,10 @@
 +++
-age = "27"
-pronouns = "He/Him"
-sex = "Male"
-slug = "tristram-bureau"
 title = "Tristram Bureau"
+[extra]
+cha.age = "27"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
-character_id = ["27"]
 +++
 
 

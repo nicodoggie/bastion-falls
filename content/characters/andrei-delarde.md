@@ -1,9 +1,9 @@
 +++
 title = "Andrei Delarde"
 [extra]
-age = "35"
-pronouns = "He/Him"
-sex = "Male"
+cha.age = "35"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 mortality_status = "Dead"
 [taxonomies]
 organizations = ["Free Theater"]

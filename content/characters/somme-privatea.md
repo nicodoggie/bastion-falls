@@ -1,13 +1,13 @@
 +++
-age = "27"
-pronouns = "He/Him"
-sex = "Male"
-slug = "somme-privatea"
 title = "Somme Privatea"
+[extra]
+cha.age = "27"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+
 [taxonomies]
 organizations = ["La Camaraderie", "Rozenmaiden"]
-character_id = ["15"]
-family_id = ["12"]
+families = ["Privatea"]
 +++
 
 

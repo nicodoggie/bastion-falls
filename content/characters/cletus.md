@@ -1,9 +1,10 @@
 +++
-age = "25"
-pronouns = ""
-sex = "Male"
-slug = "cletus"
 title = "Cletus"
+[extra]
+cha.age = "25"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+
 [taxonomies]
 character_id = ["48"]
 +++

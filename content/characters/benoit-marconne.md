@@ -1,10 +1,13 @@
 +++
-age = "16"
-pronouns = ""
-sex = ""
-slug = "benoit-marconne"
 title = "Benoit Marconne"
+[extra]
+cha.aliases = ["Camden Dubruil"]
+cha.age = "16"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+
 [taxonomies]
+families = ["Dubruil"]
 character_id = ["51"]
 +++
 

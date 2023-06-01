@@ -1,13 +1,10 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "yves-renault-bouillard"
 title = "Yves Renault Bouillard"
+[extra]
+cha.aliases = ["Paper Prince"]
+mortality_status = "Dead"
 [taxonomies]
 organizations = ["Bouillard"]
-character_id = ["36"]
-family_id = ["8"]
 +++
 
 

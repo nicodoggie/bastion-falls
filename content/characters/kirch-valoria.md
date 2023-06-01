@@ -1,12 +1,11 @@
 +++
 title = "Kirch Valoria"
 [extra]
-pronouns = "He/Him"
-sex = "Male"
-position = "Ministry Councilperson"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
+cha.position = "Ministry Councilperson"
 
 [taxonomies]
-character_id = ["61"]
 organizations = ["Port Rainoso Local Government"]
 +++
 

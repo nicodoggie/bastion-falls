@@ -1,11 +1,9 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "zafira-lor-pise"
 title = "Zafira Lor Pise"
+[extra]
 [taxonomies]
-character_id = ["8"]
+organizations = ["University of Calamutz"]
+families = ["Pise"]
 +++
 
 

@@ -1,12 +1,12 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "maitea-errasti"
 title = "Maitea Errasti"
+[extra]
+cha.age = 14
+cha.pronouns = "She/Her"
+cha.sex = "Female"
 [taxonomies]
+families = ["Errasti"]
 organizations = ["Rozenmaiden"]
-character_id = ["58"]
 +++
 
 

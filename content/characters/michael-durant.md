@@ -1,8 +1,8 @@
 +++
 title = "Michael Durant"
 [extra]
-age = 15
-date_of_birth = '1259-12-02'
+cha.age = 15
+cha.date_of_birth = 'date#1259-12-02'
 [taxonomies]
 families = ["Durant", "McFarland", "Gagnon"]
 +++

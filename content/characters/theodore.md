@@ -1,10 +1,7 @@
 +++
-age = 0
-pronouns = ""
-sex = ""
-slug = "theodore"
 title = "Theodore"
 [taxonomies]
+organizations = ["Apgarian Military"]
 character_id = ["33"]
 +++
 

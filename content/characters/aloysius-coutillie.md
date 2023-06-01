@@ -1,9 +1,9 @@
 +++
 title = "Aloysius Coutillie"
 [extra]
-pronouns = "He/Him"
-sex = "Male"
 mortality_status = "Dead"
+cha.pronouns = "He/Him"
+cha.sex = "Male"
 [taxonomies]
 organizations = ["Coutillie"]
 families = ["Coutillie"]

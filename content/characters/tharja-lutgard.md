@@ -1,9 +1,9 @@
 +++
 title = "Tharja Lutgard"
+[extra]
+cha.aliases = ["Raunchy Nurse Judy"]
 [taxonomies]
 organizations = ["Nightshift Nurses"]
-character_id = ["87"]
-character_org_id = ["34"]
 +++
 
 {{ stub() }}

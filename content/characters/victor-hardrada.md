@@ -1,11 +1,11 @@
 +++
-age = "28"
-pronouns = "He/Him, They/Them"
-sex = "Gay"
-slug = "victor-hardrada"
 title = "Victor Hardrada"
+[extra]
+cha.age = "28"
+cha.pronouns = "He/Him, They/Them"
+cha.sex = "Gay"
 [taxonomies]
-character_id = ["84"]
+organizations = ["Hardrada Shipping"]
 +++
 
 Husband to \[character:166\] and proprietor of \[organisation:312\] that did business in \[location:313\].
