@@ -54,17 +54,17 @@ people:
     fullname: Tamara Coleman
   Tedora:
     fullname: Tedora McFarland
-    class: [deceased]
+    class: [dead]
   Rogelio:
     fullname: Rogelio Durant
-    class: [deceased]
+    class: [dead]
   Degare:
     fullname: Degare Durant
   Elodie:
     fullname: Elodië Bentayga
     born: "1239-05-07"
     died: "1274-04-03"
-    class: [deceased]
+    class: [dead]
   Sera:
     fullname: Seraphine Gognon
   Michael:
@@ -103,7 +103,7 @@ people:
 
   
 styles:
-  deceased:
+  dead:
     color: red
     penwidth: 0.25
  

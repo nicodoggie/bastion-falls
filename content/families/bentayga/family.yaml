@@ -74,18 +74,18 @@ people:
   ThessalyJ:
     name: Thessaly J.
     fullname: Thessaly Jordin
-    class: [deceased]
+    class: [dead]
   ThessalyM:
     name: Thessaly M.
     fullname: Thessaly McFarland
-    class: [deceased]
+    class: [dead]
   Monroe:
     fullname: Monroe Savoy
   Yenna:
     fullname: Yenna Savoy
   Cabot:
     fullname: Cabot McFarland
-    class: [deceased]
+    class: [dead]
   Alais:
     fullname: Alais Bentayga
   Mariona:
@@ -104,22 +104,22 @@ people:
     fullname: Prudence Savoy
   Percival:
     fullname: Percival Savoy
-    class: [deceased]
+    class: [dead]
   Lyla:
     fullname: Lyla Durant
-    class: [deceased]
+    class: [dead]
   Michael:
     fullname: Michael Durant
   LylaII:
     name: Lyla
     fullname: Lyla II Durant
-    class: [deceased]
+    class: [dead]
   Tedora:
     fullname: Tedora McFarland
-    class: [deceased]
+    class: [dead]
   Rogelio:
     fullname: Rogelio Durant
-    class: [deceased]
+    class: [dead]
   Degare:
     fullname: Degare Durant
   Dyson:
@@ -222,7 +222,7 @@ people:
   
   
 styles:
-  deceased:
+  dead:
     color: red
     penwidth: 0.25
 
