@@ -22,8 +22,8 @@
     "turndown": "^7.1.2"
   },
   "scripts": {
-    "build": "tsc && chmod +x dist/index.js",
-    "prepare": "yarn build ",
+    "build": "tsc",
+    "prepare": "yarn build && chmod +x dist/index.js",
     "start": "ts-node --esm src/index.ts"
   },
   "devDependencies": {

@@ -1,10 +1,9 @@
 import knex from "../lib/knex.js";
 import slugify from "../lib/slugify.js";
 
-type FamilyFrontmatter = {
+export interface FamilyFrontmatter {
   title: string;
   slug?: string;
-
   taxonomies: {
     family_id?: string[];
     family_location_id?: string[];

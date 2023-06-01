@@ -1,20 +1,21 @@
 import knex from "../lib/knex.js";
 import slugify from "../lib/slugify.js";
 
-export type CharacterFrontmatter = {
+export interface CharacterFrontmatter {
   title: string;
   slug?: string;
   extra: {
-    age?: number;
-    sex?: string;
-    pronouns?: string;
-    date_of_birth?: string;
-    date_of_death?: string;
     mortality_status?: ['Alive', 'Dead', 'Unknown', 'Undead'];
     ddb?: string;
-    married?: {
-      to?: string;
-      on?: string;
+    cha: {
+      [key: string]: any;
+      age?: number | undefined;
+      sex?: string;
+      pronouns?: string;
+      date_of_birth?: string;
+      date_of_death?: string;
+      married_to?: string;
+      married_on?: string;
     }
   };
   taxonomies: {
@@ -30,17 +31,15 @@ export function create(title: string) {
     data: {
       title,
       extra: {
-        age: 0,
+        age: undefined,
         sex: '',
         pronouns: '',
-        date_of_birth: '',
-        date_of_death: '',
+        date_of_birth: 'date#',
+        date_of_death: 'date#',
         mortality_status: "Dead|Alive|Unknown|Undead",
         ddb: '',
-        married: {
-          to: '',
-          on: '',
-        }
+        married_to: '',
+        married_on: 'date#',
       }
     }
   }
@@ -56,9 +55,11 @@ export default async () => {
       title: char.name,
       slug: slugify(char.name),
       extra: {
-        age: char.age || 0,
-        sex: char.sex || '',
-        pronouns: char.pronouns || '',
+        cha: {
+          age: char.age || '',
+          sex: char.sex || '',
+          pronouns: char.pronouns || '',
+        }
       },
       taxonomies: {
         character_id: [char.id.toString()],

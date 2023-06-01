@@ -1,13 +1,15 @@
 import knex from "../lib/knex.js";
 import slugify from "../lib/slugify.js";
 
-export type EventFrontmatter = {
+export interface EventFrontmatter {
   title: string;
   slug?: string;
   extra: {
-    date_started?: string;
-    date_ended?: string;
-
+    evt: {
+      [key: string]: any;
+      date_started?: string;
+      date_ended?: string;
+    }
   }
   taxonomies: {
     event_id?: string[];
@@ -22,8 +24,10 @@ export function create(title: string) {
     data: <EventFrontmatter>{
       title,
       extra: {
-        date_started: "",
-        date_ended: "",
+        evt: {
+          date_started: "",
+          date_ended: "",
+        }
       },
       taxonomies: {
         event_type: [],
@@ -41,7 +45,9 @@ export default async () => {
       title: event.name,
       slug: slugify(event.name),
       extra: {
-        date_started: event.date ?? '',
+        evt: {
+          date_started: event.date ?? '',
+        }
       },
       taxonomies: {
         event_id: [event.id.toString()]

@@ -5,8 +5,10 @@ export type JournalFrontmatter = {
   title: string;
   slug?: string;
   extra: {
-    date?: string;
-    ingame_date?: string;
+    journal: {
+      date?: string;
+      ingame_date?: string;
+    }
   },
   taxonomies: {
     type: ["journal"];
@@ -25,8 +27,10 @@ export function create(title: string) {
     data: <JournalFrontmatter>{
       title,
       extra: {
-        date: '',
-        ingame_date: '',
+        journal: {
+          date: '',
+          ingame_date: '',
+        }
       },
       taxonomies: {
         type: ["journal"],
@@ -43,16 +47,18 @@ export default async () => {
     const frontmatter = <JournalFrontmatter>{
       title: journal.name,
       slug: slugify(journal.name),
-      extra: {},
+      extra: {
+        journal: {}
+      },
       taxonomies: {
         journal_id: [journal.id.toString()],
       }
     };
 
     if (journal.calendar_year && journal.calendar_month && journal.calendar_day) {
-      frontmatter.extra.ingame_date = `${journal.calendar_year}-${journal.calendar_month}-${journal.calendar_day}`;
+      frontmatter.extra.journal.ingame_date = `${journal.calendar_year}-${journal.calendar_month}-${journal.calendar_day}`;
     } else {
-      frontmatter.extra.ingame_date = '';
+      frontmatter.extra.journal.ingame_date = '';
     }
 
     if (journal.type) {

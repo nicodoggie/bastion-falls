@@ -5,8 +5,10 @@ export type NoteFrontmatter = {
   title: string;
   slug?: string;
   extra: {
-    date?: string;
-    ingame_date?: string;
+    note: {
+      date?: string;
+      ingame_date?: string;
+    }
   };
   taxonomies: {
     type?: ["note"]
@@ -23,8 +25,10 @@ export function create(title: string) {
     data: <NoteFrontmatter>{
       title,
       extra: {
-        date: '',
-        ingame_date: '',
+        note: {
+          date: '',
+          ingame_date: '',
+        }
       },
       taxonomies: {
         type: ["note"],

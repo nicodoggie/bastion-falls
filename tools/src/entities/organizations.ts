@@ -5,8 +5,10 @@ export type OrganizationFrontmatter = {
   title: string;
   slug?: string;
   extra: {
-    date_established?: string;
-    date_dissolved?: string;
+    org: {
+      date_established?: string;
+      date_dissolved?: string;
+    }
   };
   taxonomies: {
     organization_id?: string[];
@@ -22,7 +24,9 @@ export function create(title: string) {
     dir: 'organizations',
     data: <OrganizationFrontmatter>{
       title,
-      extra: {},
+      extra: {
+        org: {}
+      },
       taxonomies: {
         leaders: [],
         organization_type: [],

@@ -1,7 +1,6 @@
 import { Command } from "commander";
 import * as frontmatter from "../lib/frontmatter.js";
 import matter from "gray-matter";
-import { OrganizationFrontmatter } from "../entities/organizations.js";
 import slugify from "../lib/slugify.js";
 import { writeFileSync } from "fs";
 import path from "path";

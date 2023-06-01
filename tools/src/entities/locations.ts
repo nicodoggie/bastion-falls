@@ -1,17 +1,22 @@
 import knex from "../lib/knex.js";
 import slugify from "../lib/slugify.js";
 
-export type LocationFrontmatter = {
+type ParentLocation = {
+  name: string;
+  slug?: string;
+  location_type?: string;
+}
+
+export interface LocationFrontmatter {
   title: string;
   slug?: string;
   extra: {
-    population?: string;
-    parent_locations?: {
-      name: string;
-      slug?: string;
-      location_type?: string;
-    }[]
-  },
+    loc: {
+      [key: string]: any;
+      population?: number | '';
+      location_type?: ParentLocation[];
+    };
+  };
   taxonomies: {
     location_id?: string[];
     location_type?: string[];
@@ -25,7 +30,9 @@ export function create(title: string) {
     data: <LocationFrontmatter>{
       title,
       extra: {
-        population: ''
+        loc: {
+          population: '',
+        },
       },
       taxonomies: {
         location_type: []
