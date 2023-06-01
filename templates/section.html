@@ -1,0 +1,64 @@
+{% extends "index.html" %}
+{% import "macros.html" as macros %}
+
+{% block title %} {{ config.title }} | {{ section.title }} {% endblock title %}
+
+{% block content %}
+    <div id="calendar-header">
+        {{ macros::calendar(size='md')}}
+    </div>
+    <h1 class="title">
+        {% if section.extra.reformat_title | default(value=true) %}
+        {{ section.title | title}}
+        {% else %}
+        {{ section.title }}
+        {% endif %}
+    </h1>
+    {% if section.word_count > 0 -%}
+        <aside class="sidebar sidebar-section">
+            {% if section.subsections -%}
+            {% for subsec in section.subsections -%}
+            {% set sec_ = get_section(path=subsec) -%}
+            <input class="tree-toggle" type="checkbox" id="{{ sec_.title | slugify }}" {% if current_path is
+                starting_with(sec_.path) %}checked{% endif %} />
+            <label class="tree-toggle-label" for="{{ sec_.title | slugify }}">
+                {{ sec_.title }}
+                <a href="{{ sec_.permalink | safe }}{{ _ugly_url }}">&#x1F5CB;</a>
+            </label>
+            <ul class="subtree">
+                {% for page in sec_.pages %}
+                <li {% if current_path==page.path %}class="active" {% endif %}>
+                    <a href="{{page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+            {% endif -%}
+        </aside>
+    {{ section.content | safe }}
+    {% else -%}
+        {% if section.subsections -%}
+            <h3>Subsections:</h3>
+            <ul>
+                {% for subsec in section.subsections -%}
+                    {% set sec_ = get_section(path=subsec) -%}
+                    <li><a href="{{ sec_.permalink | safe }}{{ _ugly_url }}">{{ sec_.title }}</a></li>
+                {% endfor %}
+            </ul>
+        {% endif -%}
+
+        <h3>Pages:</h3>
+        <ul>
+            {% if section.pages -%}
+                {% for page in section.pages -%}
+                    <li><a href="{{ page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a></li>
+                {% endfor -%}
+            {% else -%}
+                <li>No pages</li>
+            {% endif %}
+        </ul>
+    {% endif -%}
+{% endblock content %}
+
+
+
