@@ -17,7 +17,7 @@ weight = 11
 | 70 AI   | Kureran Genocide at the hands of the Kalassar                       |
 | 102 AI  | Kalassar completes its conquest of Hapgaria                         |
 | 110 AI  | Kalassarian conquest of Senera                                      |
-| 111 AI  | Mauricia was discovered; The settlement of Tochoma (Hama) founded   |
+| 111 AI  | Mauricia was discovered; The settlement of Tochoma wasfounded       |
 | 269 AI  | Founding of Bastion                                                 |
 | 276 AI  | Founding of Ahuria                                                  |
 | 433 AI  | Beginning of the Ahurian Conquest of South Central Kalassar         |

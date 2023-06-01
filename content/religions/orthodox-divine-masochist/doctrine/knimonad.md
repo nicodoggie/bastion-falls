@@ -1,17 +1,7 @@
 +++
-title = "Angels"
-[extra]
-[taxonomies]
-creature_type = ["humanoid", "celestial", "sentient"]
+title = "Scripture | Knimonad"
+weight = 1
 +++
-
-Angels are powerful winged humanoids from the Celestial Planes, often considered beings of condensed goodly virtue. Legends from even the pagan religions often tell tales of angels who serve as messengers, attendants or adjudicators of gods. They do not traverse the planes for trivial pursuits. Often when they leave the Celestial Planes, they do so on a divine mission from their master.
-
-Not a lot is known about angels, and the records that do exist are very hyperbolic in their description that authenticity or accuracy is questionable. What most descriptions have in common, aside from their white-feathered wings, is that they radiate a brilliant, blinding light on command. That their visage is enough to demand only truth be spoken in their presence.
-
-# The Prime Angels and the Fallen
-
-The [Divine Masochists](@/organizations/orthodox-divine-masochist.md) believe that the [Divine Masochist](@/characters/divine-masochist.md) himself created the first angel. In the Scripture of the Way, the Book of Knimonad describes their supposed creation: 
 
 In the beginning the Divine was One, and all was One with Him. And all was Good and Peaceful, so the Lord slumbered. As He slept, his unknowable mind dreamt. As as he dreamed, he made the World. But the world was yet barren and lifeless. So it came to be the He made the *Angel of Nature*, to help Him fill the entirety of Creation. With them, He made the planes, the stars, the planets, the plants and animals, then the people.
 

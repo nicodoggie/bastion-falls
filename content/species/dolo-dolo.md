@@ -1,5 +1,6 @@
 +++
 title = "Dolo-Dolo"
+[taxonomies]
 +++
 
 # Dolo-Dolo

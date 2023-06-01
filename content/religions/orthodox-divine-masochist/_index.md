@@ -1,27 +1,23 @@
 +++
 title = "The Orthodox Church of the Divine Masochist"
-slug = "divine-masochist-orthodox"
+slug = "orthodox-divine-masochist"
+render = true
 +++
 
 {{ incomplete() }}
 
-# The Orthodox Church of the Divine Masochist
+*The Orthodox Church of the Divine Masochist* is a religion with a large number of devotees across the world, and is the official religion of many states that have arisen from the collapse of the [Kalassarian Empire](@/organizations/kalassarian-empire.md). It is qualified with the *orthodox* moniker to differentiate from other Masochistic faiths that have splintered off from it.
 
-One of the major religions of the countries spawned by the former Kalasarian
-Empire, the Church of the Divine Masochist's ultimate origin is from the
-[Arzhadad religion](@/religions/arzhadad.md) worshiped in a small settlement in
-an island off the coast of Giza called Arzhadi-et-Betet.
+# Connections to the Arzhadadi religion
+Divine Masochism is rooted from the Arzhadadi religion [Mangul-am-Arzhadad](@/religions/arzhadad.md) worshiped in an island off the coast of Giza called [Arzhadi-et-Betet](@/locations/arzhadi-et-betet.md). The followers of the Divine Masochist believed that he was the one foretold by a number of Arzhadadi prophets who would lead their people to freedom against the oppression of the Kalasarian and bring the world empires to heel.
 
-Prophets of the Arzhadad religion had foretold the arrival of a great
-theo-political leader who would lead their people in rebellion, wand would
-overthrow the oppressive Kalasarian regime that had conquered and settled upon
-their lands for nearly a century. 
+Most followers of the *Mangul* believe that at best, the man called the Divine Masochist is, at best, the latest of many prophets that prepare the stage for the *Arzhadam*, or the raising of the people of Arzhadad.
 
 ## History
 
 ### The One Appointed by God
 
-In the 7th century, a group of hermetic monks believed that they have finally
+In the 2nd century BF, a group of hermetic monks believed that they have finally
 found the "one appointed by God", and had raised him as a vicious critic of the
 Arzhadad theocracy, and the Kalasarian empire's governance. By the time the man 
 was his 20s, Hesse son of Hoseppe (Arsi-tam-Osepi in their language) became a

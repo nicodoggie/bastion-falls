@@ -30,9 +30,9 @@ The Mayor and Vice Mayor may serve 4 years in a single term. A Mayor may be elec
 
 Different municipalities and territories have different ministries and ministerial positions, but as a general rule of thumb, there cannot be more than 10. Rainoso itself has 3 ministers.  These ministers are appointed by the Mayor as they take office, and remain until they are either removed from office, or the tenure of the Mayor ends.
 
-### The Justitian Council
+### The Justician Council
 
-The Justitian Council acts as the legislature and judiciary of the local government. They draft, enact and prosecute laws within their jurisdiction. There are two kinds of members within the the Justitian Council:  the Drafters and the Justices.
+The Justician Council acts as the legislature and judiciary of the local government. They draft, enact and prosecute laws within their jurisdiction. There are two kinds of members within the the Justician Council:  the Drafters and the Justices.
 
 Drafters are an elected position from amongst the citizens of a municipality or a district within that municipality. These Drafters are tasked with proposing new legislature based on the needs of their constituents and specific mandates. They act as representatives of the people within the government unit.
 

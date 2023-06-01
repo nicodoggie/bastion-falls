@@ -18,6 +18,7 @@ weight = 10
  - [ ] See if we can actually configure section headers to be sortable somehow
 
 # Content Housekeeping
+ - [x] ~~Mark empty articles as "stub"~~ All 0 word-count articles will contain those immediately
  - [ ] Mark content as either "stub", "incomplete" or "outofdate"
 
 # Content
