@@ -12,7 +12,7 @@ organizations = ["Orthodox Church of the Divine Masochist"]
 
 {{ incomplete() }}
 
-_Father Levallier de la Fouet_ was a priest of the [Orthodox Church of the Divine Masochist](@/organizations/orthodox-divine-masochist.md), and a member of the venerable [House de la Fouet](@/families/de-la-fouet.md). He was said to have been next in line to become the _Archbishop of Sanery_, the largest
+_Father Levallier de la Fouet_ was a priest of the [Orthodox Church of the Divine Masochist](@/religions/orthodox-divine-masochist.md), and a member of the venerable [House de la Fouet](@/families/de-la-fouet.md). He was said to have been next in line to become the _Archbishop of Sanery_, the largest
 Bishopric in the [Apgarian Confederacy](@/locations/apgar.md), but had instead chosen to be granted a position as the parish priest of the [Church of the Angel of Justice](@/locations/church-of-the-angel-of-justice.md), an under-served and understaffed parish in [Port Rainoso](@/locations/port-rainoso.md), [Raibon Island](@/locations/raibon-island.md).
 
 He is a tall, usually gaunt, man, and is often described as older than he appears, 

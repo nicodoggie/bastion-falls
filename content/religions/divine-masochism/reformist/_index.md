@@ -1,8 +1,5 @@
 +++
 title = "Reformed Church of the Divine Masochist"
-template = "redirect.html"
-[extra]
-redirect = "/divine-masochism/reformist/"
 +++
 
 # The Reformed Church of the Divine Masochist

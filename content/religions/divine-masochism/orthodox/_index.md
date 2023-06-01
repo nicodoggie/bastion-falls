@@ -1,7 +1,6 @@
 +++
 title = "The Orthodox Church of the Divine Masochist"
-slug = "orthodox-divine-masochist"
-render = true
+weight = 1
 +++
 
 {{ incomplete() }}
