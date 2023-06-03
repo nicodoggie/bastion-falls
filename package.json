@@ -7,7 +7,7 @@
     "packages/*"
   ],
   "scripts": {
-    "bf": "yarn workspace @nicodoggie/bf-repo-tools",
+    "tools": "yarn workspace @nicodoggie/bf-repo-tools",
     "build": "zola build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
     "family": "./kingraph.cjs"

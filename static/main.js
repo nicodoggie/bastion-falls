@@ -10,5 +10,4 @@ function onLoad(event) {
     });
   });
 }
-
 document.addEventListener("DOMContentLoaded", onLoad);

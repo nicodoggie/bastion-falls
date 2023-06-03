@@ -9,7 +9,7 @@ export interface CharacterFrontmatter {
     ddb?: string;
     cha: {
       [key: string]: any;
-      age?: number | undefined;
+      age?: number | '';
       sex?: string;
       pronouns?: string;
       date_of_birth?: string;
@@ -31,7 +31,7 @@ export function create(title: string) {
     data: {
       title,
       extra: {
-        age: undefined,
+        age: '',
         sex: '',
         pronouns: '',
         date_of_birth: 'date#',

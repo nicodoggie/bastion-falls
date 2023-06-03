@@ -24,4 +24,12 @@ Scholars of Comparative Theology in the [University of Sanery](@/organizations/u
 
 # Paganist Traditions
 
-The descendants of the Kalassarian Paganist traditions similarly assert that angels are servants to the gods. They employ legions of Angels recruited from the 
+The descendants of the Kalassarian Paganist traditions, such as the [Apgarian Paganist Rite](@/religions/pagan/apgarian/_index.md) similarly assert that angels are servants to the gods. They employ legions of angels recruited from the [Celestial Planes](@/locations/celestial-planes.md) to do their bidding, for so as long as they are right. They do not have, in their lore, any reference to transformations of angels to devils. They only mention fallen angels, and enlightened devils in scenarios where the creatures have escaped their natures.
+
+# Types of Angels
+
+## Planetar
+## Solar
+## Constellar
+## Cherubim
+## Seraphim

@@ -8,6 +8,7 @@ families:
   - parents: [Melchior, Odette]
     children: [Armaund, Rogelio]
   - parents: [Armaund, Tamara]
+    children: [Laurent, Adele]
   - parents: [Rogelio, Tedora]
     children: [Degare, Dyson, Lyla]
   - parents: [Degare, Elodie]
@@ -50,6 +51,10 @@ people:
     fullname: Estelle Durant
   Armaund:
     fullname: Armaund Durant
+  Laurent:
+    fullname: Laurent Durant
+  Adele:
+    fullname: Adele Durant
   Tamara:
     fullname: Tamara Coleman
   Tedora:
