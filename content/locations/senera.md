@@ -7,5 +7,13 @@ location_type = ["kingdom"]
 parent_location_id = ["19"]
 
 +++
+{{ stub() }}
 
+# History
+## Kalassarian Invasion
 
+## Fall of the Kalassarian Empire
+
+## Independence and Rise of the Maidenfeld Dynasty
+
+## War of Thyme and Fire

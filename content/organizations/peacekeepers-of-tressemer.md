@@ -9,7 +9,7 @@ organization_type = ["Paramilitary", "Law Enforcement"]
 The Peacekeepers of Tressemer are an independent, non-governmental agency tasked with the
 protection and management of {{ loc(name="Port Tressemer") }}. They were established due to
 the limited resources that can be allocated to an armed force, such as a *gendarmerie* in 
-{{ loc="Raibon Island" }} due to the [Treaty of Turain](@/misc/treaty-of-turain.md).
+{{ loc="Raibon Island" }} due to the [Treaty of Turain](@/events/treaty-of-turain.md).
 
 # History
 
@@ -77,7 +77,7 @@ were in line with those of the *gendarmerie* itself, and in some cases even exce
 requirements. Through the intercession of then vice mayor {{ cha(name="Gustavia Krana") }},
 Anda Antorra was able to petition the Governor to officially dissolve the Mercenary Guild, and 
 merge its functions into the Peacekeepers' own. A motion was passed in the 
-{{ loc(name="Sanery Provincial Hall") }} that rubberstamped the deputization.
+{{ loc(name="Sanery Capitol Building") }} that rubberstamped the deputization.
 
 # Present-Day Functions
 

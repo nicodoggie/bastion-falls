@@ -18,7 +18,7 @@ The Guiding Lights are a set of observances that the clergy of the Society are t
 
 This is the only strictly adhered-to guiding light. Those who enter into the seminary or novitiate are immediately asked to perform a provisional version of the Vow. Simply put, it states that they must renounce any ownership of land, titles and of anything that may generate any form of material wealth.   
 
-To many, it seems contradictory that an order devoted to the seeking, enjoying and dispensing pleasures and delights. Access to the excess, however is said to have been what had led the Angel of Delight to become the Demon of Debauchery before The Fall. However, this poverty must be tempered with a measure of indulgence when confronted with freely-given pleasures.
+To many, it seems contradictory that an order devoted to the seeking, enjoying and dispensing pleasures and delights. Access to the excess, however is said to have been what had led the Angel of Delight to become the Devil of Debauchery before The Fall. However, this poverty must be tempered with a measure of indulgence when confronted with freely-given pleasures.
 
 ### Light of Novelty
 
