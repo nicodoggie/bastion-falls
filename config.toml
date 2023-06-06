@@ -29,7 +29,8 @@ taxonomies = [
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },
   { name = "leaders", feed = false, render = false },
-  
+
+
   # Ethnicities
   { name = "locations", feed = false, render = false },
 
@@ -37,6 +38,7 @@ taxonomies = [
   { name = "event_type", feed = true, render = false },
   { name = "primary_characters", feed = true, render = false },
   { name = "primary_families", feed = true, render = false },
+  { name = "primary_organizations", feed = true, render = false },
 
   # Species
   { name = "creature_type", feed = true, render = false },
@@ -51,7 +53,7 @@ taxonomies = [
   { name = "family_id", feed = false, render = false },
   { name = "family_location_id", feed = false, render = false },
   { name = "parent_location_id", feed = false, render = false },
-  { name = "primary_organizations", feed = true, render = false },
+  
 ]
 
 external_links_target_blank = true
