@@ -2,7 +2,7 @@
 title = "Taurus Balimbano"
 [extra]
 age = "55"
-date_of_birth = "date#"
+date_of_birth = ""
 mortality_status = "Alive"
 pronouns = "He/Him"
 sex = "Male"
