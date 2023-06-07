@@ -1,10 +1,8 @@
 +++
-location_id = "34"
 slug = "summa"
 title = "Summa"
 [taxonomies]
 location_type = ["kingdom"]
-parent_location_id = ["25"]
 
 +++
 

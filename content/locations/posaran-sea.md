@@ -1,5 +1,4 @@
 +++
-location_id = "84"
 slug = "posaran-sea"
 title = "Posaran Sea"
 [taxonomies]

@@ -1,10 +1,8 @@
 +++
-location_id = "26"
 slug = "corrida"
 title = "Corrida"
 [taxonomies]
 location_type = ["country", "kingdom"]
-parent_location_id = ["25"]
 
 +++
 

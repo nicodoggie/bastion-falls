@@ -1,10 +1,8 @@
 +++
-location_id = "56"
 slug = "jacobis-homestead"
 title = "Jacobi's Homestead"
 [taxonomies]
 location_type = ["farm"]
-parent_location_id = ["45"]
 
 +++
 

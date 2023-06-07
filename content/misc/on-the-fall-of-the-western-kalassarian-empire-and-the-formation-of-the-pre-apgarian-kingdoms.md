@@ -5,7 +5,6 @@ slug = "on-the-fall-of-the-western-kalassarian-empire-and-the-formation-of-the-p
 title = "On the Fall of the Western Kalassarian Empire and the Formation of the Pre-Apgarian Kingdoms"
 [taxonomies]
 journal_type = ["excerpt"]
-location_id = ["36"]
 
 +++
 

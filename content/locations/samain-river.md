@@ -1,7 +1,7 @@
 +++
 title = "Samain River"
 [taxonomies]
-location_type = ["River"]
+location_type = ["river"]
 parent_location = ["Raibon Island", "L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
 
 +++

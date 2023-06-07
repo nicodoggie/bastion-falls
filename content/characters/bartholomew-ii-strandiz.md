@@ -7,7 +7,6 @@ cha.sex = "Male"
 
 [taxonomies]
 organizations = ["La Camaraderie"]
-character_id = ["77"]
 +++
 
 

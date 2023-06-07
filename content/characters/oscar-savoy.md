@@ -9,8 +9,6 @@ mortality_status = 'Undead'
 [taxonomies]
 families = ["Savoy"]
 organizations = ["La Camaraderie", "Rozenmaiden"]
-character_id = ["39"]
-family_id = ["11"]
 +++
 
 

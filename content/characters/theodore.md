@@ -2,7 +2,6 @@
 title = "Theodore"
 [taxonomies]
 organizations = ["Apgarian Military"]
-character_id = ["33"]
 +++
 
 Theodore was an agent of the Apgarian military. He worked under an intelligence-focused sub-unit under the direct command of \[character:162\].  

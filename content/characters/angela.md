@@ -1,12 +1,13 @@
 +++
 title = "Angela"
 [extra]
-cha.pronouns = "She/Her"
-cha.sex = "Female"
+mortality_status = "dead"
+[extra.cha]
+pronouns = "She/Her"
+sex = "Female"
 
 [taxonomies]
 organizations = ["Reformed Church of the Divine Masochist"]
-character_id = ["44"]
 +++
 
 

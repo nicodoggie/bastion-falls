@@ -1,5 +1,4 @@
 +++
-location_id = "4"
 slug = "confederation-of-apgarian-states"
 title = "Confederation of Apgarian States"
 template = "redirect.html"
@@ -7,7 +6,6 @@ template = "redirect.html"
 redirect = "/locations/apgar"
 [taxonomies]
 location_type = ["confederacy"]
-parent_location_id = ["19"]
 
 +++
 

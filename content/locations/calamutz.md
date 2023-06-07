@@ -1,10 +1,8 @@
 +++
-location_id = "24"
 slug = "calamutz"
 title = "Calamutz"
 [taxonomies]
-location_type = ["island", "city"]
-parent_location_id = ["19"]
+location_type = ["kingdom", "island", "city"]
 +++
 
 {{ stub() }}

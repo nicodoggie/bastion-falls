@@ -1,9 +1,10 @@
 {% extends "index.html" %}
 {% block content %}
-
 {% set context = "" %}
-{% if section %}
-{% set context = section %}
+{% if section_ %}
+{% set context = section_ %}
+{% elif config.page %}
+{% set context = config.page %}
 {% else %}
 {% set context = config %}
 {% endif %}
@@ -11,8 +12,8 @@
 {# generate groups #}
 
 <body>
-  <h1>{{ context.title }}</h1>
-  <table id="org-list">
+  <h1>Organizations</h1>
+  <table id="org-list" class="taxonomy-list">
     <tr>
       <th>Type</th>
       <th>Name</th>

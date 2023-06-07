@@ -1,10 +1,8 @@
 +++
-location_id = "7"
 slug = "mehicania"
 title = "Mehicania"
 [taxonomies]
 location_type = ["country","kingdom"]
-parent_location_id = ["19"]
 
 +++
 # Mehicania

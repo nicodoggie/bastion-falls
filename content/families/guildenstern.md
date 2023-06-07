@@ -1,6 +1,5 @@
 +++
 title = "Guildenstern"
-family_id = "18"
 
 +++
 

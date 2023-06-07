@@ -1,5 +1,4 @@
 +++
-family_id = "12"
 slug = "privatea"
 title = "Privatea"
 

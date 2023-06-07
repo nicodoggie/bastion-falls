@@ -7,7 +7,6 @@ cha.sex = "Male"
 mortality_status = "Dead"
 [taxonomies]
 organizations = ["Free Theater"]
-character_id = ["80"]
 +++
 
 Andrei Delarde was a founding member of the infamous mercenary group 

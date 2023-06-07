@@ -3,7 +3,7 @@ title = "Dustain River"
 [extra]
 
 [taxonomies]
-location_type = ["River", "Tributary"]
+location_type = ["river", "tributary"]
 parent_location = ["Raibon Island", "L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
 
 +++

@@ -1,10 +1,8 @@
 +++
-location_id = "88"
 slug = "piedmont-raibon"
 title = "Piedmont (Raibon)"
 [taxonomies]
 location_type = ["settlement"]
-parent_location_id = ["46"]
 
 +++
 

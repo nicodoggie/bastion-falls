@@ -8,7 +8,6 @@ cha.sex = "Male"
 
 [taxonomies]
 families = ["Dubruil"]
-character_id = ["51"]
 +++
 
 Benoit was a young foundling supposedly rescued and taken in by [Rosemunda Parvese](@/characters/rosemunda-parvese.md) from the streets of the infamous East-side of [Port Rainoso](@/locations/port-rainoso.md). Since then, he had been groomed to take on managerial rolss of increasing importance in the [House of Pleasures](@/organizations/parvese-houses-of-pleasures.md). At the young age of 16, he had become a floor manager in the Miller Street House, on track to becoming an Assistant House Manager there. 

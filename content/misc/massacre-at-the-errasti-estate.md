@@ -5,7 +5,6 @@ slug = "massacre-at-the-errasti-estate"
 title = "Massacre at the Errasti Estate"
 [taxonomies]
 journal_type = ["news"]
-location_id = ["45"]
 
 +++
 

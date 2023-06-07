@@ -1,15 +1,13 @@
 +++
 title = "The Ahurian Empire"
-location_id = "21"
 slug = "ahuria"
 [taxonomies]
 location_type = ["country"]
-parent_location_id = ["20"]
 +++
 
 # Ahuria
 
-The Ahurian Empire is a massive theocratic autocracy ruled by a lineage of god-princes, who are both the secular and temporal centers of their government. The country claims possession the entirety of the continent of [Ralaka](@/locations/ralaka.md). and the Gizan Peninsula, as well as a huge portion of the eastern half ot the Ranoan Peninsula.
+The Ahurian Empire is a massive theocratic autocracy ruled by a lineage of god-princes, who are both the secular and temporal centers of their government. The country claims possession the entirety of the continent of [Ralaka](@/locations/ralaka/index.md). and the Gizan Peninsula, as well as a huge portion of the eastern half ot the Ranoan Peninsula.
 
 
 ## Geography

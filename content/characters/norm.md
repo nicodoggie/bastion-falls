@@ -1,7 +1,6 @@
 +++
 title = "Norm"
 [taxonomies]
-character_id = ["59"]
 +++
 {{ stub() }}
 

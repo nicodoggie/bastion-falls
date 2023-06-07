@@ -6,7 +6,6 @@ cha.pronouns = "She/Her"
 cha.sex = "Female"
 [taxonomies]
 families = ["Dubois", "McRee"]
-character_id = ["34"]
 +++
 
 

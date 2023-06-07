@@ -1,5 +1,4 @@
 +++
-location_id = "76"
 slug = "urayn"
 title = "Urayn"
 [taxonomies]

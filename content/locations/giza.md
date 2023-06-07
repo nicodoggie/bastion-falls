@@ -1,10 +1,8 @@
 +++
-location_id = "27"
 slug = "giza"
 title = "Giza"
 [taxonomies]
 location_type = ["principality", "protectorate"]
-parent_location_id = ["21"]
 
 +++
 

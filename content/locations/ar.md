@@ -1,11 +1,8 @@
 +++
-location_id = "22"
 slug = "ar"
 title = "Ar"
 [taxonomies]
 location_type = ["principality"]
-parent_location_id = ["19"]
-
 +++
 
 {{ stub() }}

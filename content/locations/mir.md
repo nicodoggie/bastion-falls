@@ -1,10 +1,8 @@
 +++
-location_id = "30"
 slug = "mir"
 title = "Mir"
 [taxonomies]
 location_type = ["country","principality"]
-parent_location_id = ["19"]
 
 +++
 {{ stub() }}

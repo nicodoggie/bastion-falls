@@ -1,5 +1,4 @@
 +++
-location_id = "75"
 slug = "kruska"
 title = "Kruska"
 [taxonomies]

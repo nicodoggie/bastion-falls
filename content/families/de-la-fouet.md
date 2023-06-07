@@ -1,8 +1,6 @@
 +++
-family_id = "4"
 title = "De la Fouet"
 [taxonomies]
-family_location_id = ["4"]
 
 +++
 

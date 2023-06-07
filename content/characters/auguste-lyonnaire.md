@@ -8,7 +8,6 @@ cha.pronouns = "He/Him"
 
 [taxonomies]
 organizations = ["La Camaraderie", "Souris Marine"]
-character_id = ["55"]
 +++
 
 

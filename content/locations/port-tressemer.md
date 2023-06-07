@@ -1,7 +1,7 @@
 +++
 title = "Port Tressemer"
 [taxonomies]
-location_type = ["Town", "Port Town"]
+location_type = ["town", "port town"]
 parent_location = ["Raibon Island", "L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
 +++
 

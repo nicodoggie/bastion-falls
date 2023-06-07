@@ -8,7 +8,6 @@ cha.position = "Justitian Councilperson"
 
 [taxonomies]
 organizations = ["Port Rainoso Local Government"]
-character_id = ["31"]
 +++
 
 

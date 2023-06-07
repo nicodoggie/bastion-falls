@@ -7,7 +7,6 @@ cha.sex = "Male"
 mortality_status = "Dead"
 [taxonomies]
 organizations = ["Free Theater"]
-character_id = ["78"]
 +++
 
 Andre Arquette was an anthropologist from the [University of Mayonne](@/organizations/university-of-mayonne.md). 

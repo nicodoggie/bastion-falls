@@ -1,9 +1,7 @@
 +++
-family_id = "14"
 slug = "tavner"
 title = "Tavner"
 [taxonomies]
-family_location_id = ["45"]
 
 +++
 
