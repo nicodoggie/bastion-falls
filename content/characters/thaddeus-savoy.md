@@ -1,0 +1,18 @@
++++
+title = "Thaddeus Savoy"
+[extra]
+ddb = ""
+mortality_status = "Alive"
+[extra.cha]
+age = ""
+date_of_birth = "date#1259-02-11"
+date_of_death = "date#"
+married_on = "date#"
+married_to = ""
+pronouns = ""
+sex = ""
+[taxonomies]
+parents = ["Rickard Savoy","Gaelle Simoun"]
+siblings = ["Taran Savoy"]
++++
+

@@ -1,0 +1,17 @@
++++
+title = "Marco Paolo"
+[extra]
+ddb = ""
+mortality_status = "Alive"
+[extra.cha]
+age = ""
+date_of_birth = "date#1220-07-27"
+date_of_death = "date#"
+married_on = "date#"
+married_to = "Prudence Savoy"
+pronouns = ""
+sex = ""
+[taxonomies]
+children = ["Avila Paolo"]
++++
+
