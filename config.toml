@@ -20,6 +20,7 @@ taxonomies = [
   { name = "species", feed = true, render = false },
   { name = "parents", feed = false, render = false },
   { name = "siblings", feed = false, render = false },
+  { name = "children", feed = false, render = false },
 
   # Location
   { name = "location_type", feed = true, render = true },
