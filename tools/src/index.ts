@@ -3,6 +3,7 @@ import { Command } from "commander";
 import migrate from "./commands/migrate.js";
 import transformFrontmatter from "./commands/transform-frontmatter.js";
 import newFile from "./commands/new.js";
+import generateFamily from "./commands/gen-family.js";
 
 const app = new Command('repo-tools');
 
@@ -11,6 +12,7 @@ export async function main() {
   app.addCommand(migrate);
   app.addCommand(transformFrontmatter);
   app.addCommand(newFile);
+  app.addCommand(generateFamily);
 
   await app.parseAsync();
 }

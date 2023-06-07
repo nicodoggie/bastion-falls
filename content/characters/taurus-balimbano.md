@@ -27,10 +27,7 @@ His experience in the Sanerian Finance Ministry was ultimately disillusioning fo
 
 # Bank of Sanery
 
-Though he was offered a more permanent staffing position in the Finance Ministry, Balimbano no longer had the same drive to work in, and the confidence to enact change in, government. Instead, he would take on a job offer in the Bank of Sanery in 1248. 
-
-
-
+Though he was offered a more permanent staffing position in the Finance Ministry, Balimbano no longer had the same drive to work in, and the confidence to enact change in, government. Instead, he would take on a job offer in the Bank of Sanery in 1248. He was assigned in the Loans Department where he would remain until the [Seneran Invasion of Sanery](@/events/poasan-apgarian-conflict/invasion-of-sanery.md).
 
 ## Notable Clients
 [Illuvia Wunderplat](@/characters/illuvia-wunderplat.md)

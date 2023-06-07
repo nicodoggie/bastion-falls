@@ -5,7 +5,7 @@ export interface CharacterFrontmatter {
   title: string;
   slug?: string;
   extra: {
-    mortality_status?: ['Alive', 'Dead', 'Unknown', 'Undead'];
+    mortality_status?: 'Alive' | 'Dead' | 'Unknown' | 'Undead';
     ddb?: string;
     cha: {
       [key: string]: any;
@@ -19,28 +19,32 @@ export interface CharacterFrontmatter {
     }
   };
   taxonomies: {
-    character_id: string[];
-    family_id: string[];
+    parents?: string[];
+    children?: string[];
+    siblings?: string[];
     organization_type?: string[];
   };
 }
 
-export function create(title: string) {
+export function create(title: string): { dir: string, data: CharacterFrontmatter } {
   return {
     dir: 'characters',
     data: {
       title,
       extra: {
-        age: '',
-        sex: '',
-        pronouns: '',
-        date_of_birth: 'date#',
-        date_of_death: 'date#',
-        mortality_status: "Dead|Alive|Unknown|Undead",
+        cha: {
+          age: '',
+          sex: '',
+          pronouns: '',
+          date_of_birth: 'date#',
+          date_of_death: 'date#',
+          married_to: '',
+          married_on: 'date#',
+        },
+        mortality_status: undefined,
         ddb: '',
-        married_to: '',
-        married_on: 'date#',
-      }
+      },
+      taxonomies: {}
     }
   }
 }
@@ -65,10 +69,6 @@ export default async () => {
         character_id: [char.id.toString()],
       }
     };
-
-    if (char.family_id) {
-      frontmatter.taxonomies['family_id'] = [char.family_id.toString()];
-    }
 
     return {
       frontmatter,

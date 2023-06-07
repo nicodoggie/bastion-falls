@@ -318,6 +318,7 @@ __metadata:
   dependencies:
     "@ltd/j-toml": "npm:^1.38.0"
     "@types/bluebird": "npm:^3"
+    "@types/js-yaml": "npm:^4.0.5"
     "@types/lodash": "npm:^4"
     "@types/lodash-es": "npm:^4"
     "@types/node": "npm:^18"
@@ -326,6 +327,7 @@ __metadata:
     commander: "npm:^10.0.1"
     dotenv: "npm:^16.0.3"
     gray-matter: "npm:^4.0.3"
+    js-yaml: "npm:^4.1.0"
     json2toml: "npm:^4.0.1"
     knex: "npm:^2.4.2"
     lodash: "npm:^4.17.21"
@@ -418,6 +420,13 @@ __metadata:
   version: 3.5.38
   resolution: "@types/bluebird@npm:3.5.38"
   checksum: e1348775debf878309f3540dd8a01457b8e4c43a48cf277831b34db45d8f86583e91bd1ff0b90c4dd9b097ff84a289d8d24be9df744f028dab9a915fe405cfe5
+  languageName: node
+  linkType: hard
+
+"@types/js-yaml@npm:^4.0.5":
+  version: 4.0.5
+  resolution: "@types/js-yaml@npm:4.0.5"
+  checksum: 586a99838928dc20d7e8826b3d8cab16ae131e36c00e7be4c519c51d30e90d0cbdfa92b4b5564bb1f3168c830e9750816c5e004577da0d207496da16bb0d0487
   languageName: node
   linkType: hard
 
