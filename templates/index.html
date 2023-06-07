@@ -53,7 +53,8 @@
           {% if config.extra.logo -%}
           {% set _logo = config.extra.logo -%}
           {% if (_logo is starting_with("http")) == false -%}
-          {% set _logo = get_url(path=config.extra.logo) -%}
+          {% set resized_image = resize_image(path=config.extra.logo, width=64, op="fit_width", format="webp") %}
+          {% set _logo = resized_image.url -%}
           {% endif -%}
           {% if current_path == "/" and not config.extra.easydocs_logo_always_clickable -%}
           <img src="{{ _logo | safe }}" alt="logo" />

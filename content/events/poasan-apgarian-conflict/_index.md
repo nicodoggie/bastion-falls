@@ -8,4 +8,4 @@ date_ended = "date#1255/07/25"
 event_type = ["War"]
 +++
 
-The *Poasan-Apgarian Conflict* is a mutli-front war between the [Apgarian Confederacy](@/organizations/apgarian-confederacy.md) and the [Divine Alliance](@/organizations/divine-alliance.md), a coalition led by the [Kingdom of Poasah](@/)
+The *Poasan-Apgarian Conflict* is a mutli-front war between the [Apgarian Confederacy](@/organizations/apgarian-confederacy.md) and the [Divine Alliance](@/organizations/divine-alliance.md), a coalition led by the [Kingdom of Poasah](@/organizations/kingdom-of-poasah.md)
