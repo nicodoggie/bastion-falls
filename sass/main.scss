@@ -116,23 +116,38 @@ pre:hover .copy-code-button {
   display: block;
 }
 
-nav {
+#navbox {
   position: sticky;
+
+  #site-title {
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+
+    h1 {
+      text-align: center;
+      margin: 0 0 0 1rem ;
+      a {
+        text-decoration: none;
+        color: $color;
+      }
+
+    }
+    img {
+      height: fit-content;
+      width: 64px;
+    }
+  }
+}
+
+nav {
   height: 92vh;
   top: $baseline;
   left: $baseline;
   bottom: $baseline;
   padding-right: $baseline;
   width: 20rem;
-
-  img {
-    width: 128px;
-  }
-
-  h1 {
-    margin: 0;
-    line-height: 1;
-  }
 }
 
 #toc {
@@ -312,13 +327,13 @@ article {
     width: 100%;
   }
 
-  nav {
+  #navbox {
     position: inherit;
     height: auto;
-    
-    #navbar {
-      margin: $baseline $baseline 0 $baseline;
-    }
+  }
+
+  nav {
+    margin: $baseline $baseline 0 $baseline;
   }
 
   article {

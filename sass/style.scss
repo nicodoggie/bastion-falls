@@ -9,28 +9,6 @@ blockquote {
 h1.title {
   font-size: 4ex;
 }
-#site-title {
-  margin: 1rem;
-  display: flex;
-  justify-content: center;
-  flex-direction: row-reverse;
-
-  h1 {
-    text-align: center;
-    margin: 1rem;
-
-    a {
-      text-decoration: none;
-      color: $color;
-    }
-
-  }
-
-  img {
-    width: 64px;
-  }
-}
-
 
 #calendar-header {
   display: flex;
