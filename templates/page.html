@@ -26,8 +26,9 @@
     {% set class = class ~ " sidebar-events" %}
   {% endif %}
   {% if page.ancestors | length > 3 %}
-  {% set class = class ~ " sidebar-section" %}
+    {% set class = class ~ " sidebar-section" %}
   {% endif %}
+  {% if class != "" %}
   <aside class="sidebar {{ class }}">
     {% if page.path is starting_with("/character") %}
       {{ macros::sidebar_character(name=page.title, config=page) }}
@@ -63,6 +64,7 @@
       {% endif -%}
       {% endif%}
   </aside>
+  {% endif %}
   {% endblock %}
   {% if page.word_count == 0 %}
   {% set link = "[github repo]("~config.extra.repo~")" | markdown(inline=true) %}

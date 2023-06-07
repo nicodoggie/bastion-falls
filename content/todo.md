@@ -8,7 +8,7 @@ weight = 10
 
 # Templates
  - [ ] Think about just forking the current base template
- - [ ] Maybe apply a dark theme instead of this bright white crap.
+ - [x] Maybe apply a dark theme instead of this bright white crap.
  - [ ] Actually align the Calendar
  - [ ] Default taxonomy templates
 

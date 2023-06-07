@@ -32,7 +32,8 @@ taxonomies = [
 
 
   # Ethnicities
-  { name = "locations", feed = false, render = false },
+  { name = "ethnic_locations", feed = false, render = false },
+  { name = "parent_ethnicities", feed = false, render = false },
 
   # Event
   { name = "event_type", feed = true, render = false },

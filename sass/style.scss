@@ -1,4 +1,4 @@
-@import "../themes/zola_easydocs_theme/sass/variables";
+@import "variables";
 article {
   margin-right: 10rem;
 }
@@ -21,21 +21,20 @@ h1.title {
 
     a {
       text-decoration: none;
-      color: #000;
+      color: $color;
     }
 
   }
 
   img {
-    width: 4rem;
+    width: 64px;
   }
 }
 
+
 #calendar-header {
   display: flex;
-  margin: 2rem 0;
-
-  #fantasy-calendar-embed {}
+  margin: 2rem 0 1rem 0;
 }
 
 #socials {
@@ -44,7 +43,7 @@ h1.title {
 
   a {
     text-decoration: none;
-    color: #000;
+    color: $color;
   }
 
   i {
@@ -54,15 +53,29 @@ h1.title {
 .callout-block {
   display: flow-root;
   padding: 0 1rem;
+  border: $callout-border;
+  background-color: $callout-bg;
+  color: $callout-color;
+
+  a {
+    &:link {
+      color: $callout-links;
+    }
+
+    &:visited {
+      color: $callout-visited-links;
+    }
+
+    &:hover {
+      color: $callout-hover-links;
+    }
+  }
 }
 
 .callout-block.info {
   h3::before {
     content: "🛈 ";
   }
-
-  border: 1px skyblue solid;
-  background-color: lightblue;
 }
 
 .callout-block.warning {
@@ -70,8 +83,9 @@ h1.title {
     content: "⚠ ";
   }
 
-  border: 1px rgb(207, 182, 100) solid;
-  background-color: beige;
+  border: 1px rgb(227, 214, 173) solid;
+  color: rgb(249, 237, 198);
+  background-color: $bgLevel2;
 }
 
 .callout-block.error {
@@ -80,8 +94,10 @@ h1.title {
   }
 
   border: 1px red solid;
-  background-color: pink;
+  color: pink;
+  background-color: $bgLevel2;
 }
+
 #wrap {
   table {
     border-collapse: collapse;
@@ -136,6 +152,9 @@ table#org-list {
 .sidebar {
   h2 {
     text-align: center;
+    a {
+      color: $color;
+    }
   }
 
   h3 {
@@ -152,7 +171,7 @@ table#org-list {
   margin: 1rem 1rem 2rem 1rem;
   padding: 1rem 3rem 1rem 3rem;
   font-size: 15px;
-  background-color: #efefef;
+                                                                background-color: $bgSidebar;
   overflow-x: auto;
   clear: right;
   float: right;
@@ -174,7 +193,7 @@ table#org-list {
     padding: 0;
 
     a:link {
-      color: black !important;
+      color: $color !important;
     }
 
   }
@@ -187,7 +206,7 @@ table#org-list {
 
   .panzoom-container {
     height: 30rem;
-    background-color: #efefef;
+    background-color: $bgLevel2;
     
       a {
         display: inline-block;
@@ -197,6 +216,32 @@ table#org-list {
 .footnote-definition {
   p {
     display: inline;
+  }
+}
+.tree-toggle-label {
+  a {
+    color: $color;
+    font-size: .75rem;
+
+    &:link {
+      color: $color;
+    }
+
+    &:visited {
+      color: $color;
+    }
+  }
+}
+
+.subtree li {
+  list-style-type: none;
+  margin-left: $baseline;
+  font-size: 1.0rem;
+
+  &::before {
+    font: var(--fa-font-solid) !important;
+    font-size: 0.75rem !important;
+    content: "\f0c1  " !important;
   }
 }
 .sidebar-section {
@@ -263,9 +308,9 @@ table#org-list {
     font-size: 1.2rem;
 
     &::before {
-      content: "\E7C3";
-      font-family: 'FabricMDL2Icons';
-
+      font: var(--fa-font-solid) !important;
+        font-size: 0.75rem !important;
+        content: "\f0c1 ";
     }
   }
 }
@@ -307,7 +352,7 @@ table#org-list {
   .spoiler-content {
     overflow: hidden;
     transition: overflow 0.2s ease-in-out;
-    background-color: #efefef;
+    background-color: $bgLevel2;
     padding: 2rem;
   }
 
