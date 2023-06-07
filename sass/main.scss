@@ -129,15 +129,19 @@ pre:hover .copy-code-button {
   #site-title {
     margin: 1rem;
     display: flex;
+    align-content: center;
     justify-content: center;
+    gap: 0 1rem;
     flex-direction: row-reverse;
 
     h1 {
-      text-align: center;
-      margin: 0 0 0 1rem ;
+      font-size: 3ex;
+      line-height: 1;
+
       a {
         text-decoration: none;
         color: $color;
+        vertical-align: bottom;
       }
 
     }
