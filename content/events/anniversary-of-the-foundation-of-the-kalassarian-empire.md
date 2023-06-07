@@ -1,7 +1,7 @@
 +++
 title = "Anniversary of the Foundation of the Kalassarian Empire"
-[extra]
-date = "date#0001-07-02"
+[extra.evt]
+date_started = "date#0001-07-02"
 +++
 
 

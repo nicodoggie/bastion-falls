@@ -1,8 +1,11 @@
 +++
 title = "Treaty of Turain"
-template = "redirect.html"
-[extra]
-redirect = "/poasan-apgarian-conflict/treaty-of-turain"
+weight = 99
+[extra.evt]
+date_started = "date#1255/07/17"
+date_ended = "date#1255/07/25"
+[taxonomies]
+event_type = ["Conference"]
 
 +++
 

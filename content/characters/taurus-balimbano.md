@@ -19,12 +19,18 @@ He was never formally schooled until he came to impress a professor who worked a
 
 # Assistant to the Sanerian Finance Minister
 
-In 1239, within a year of his internship, Balimbano was chosen to run errands for the Assistant to the Sanerian Finance Minister at the time, Minister _Louis Vega_. Balimbano made note of the various appointments, special events and obligations the Minister had, separately from the Assistant meticulously, but also secretly, while he performed his own tasks. Being a self-professed auto-didact, though his direct superior seemed to hamper all his efforts to progress, he learned by observation and trial and error on how to do the job more efficiently and accurately. Before the year was over Balimbano saw his opportunity. His superior lost minutes to an important meeting with the Grand Merchant of the Bank of Sanery. He presented a well-organized and annotated set of minutes, marked for what he thought would be of particular note. His superior was promptly fired, and he was hired permanently for the position.
+In 1239, within a year of his internship, Balimbano was chosen to run errands for the Assistant to the [Sanerian Finance](@/organizations/sanerian-finance-ministry.md) Minister at the time, Minister _Louis Vega_. Balimbano made note of the various appointments, special events and obligations the Minister had, separately from the Assistant meticulously, but also secretly, while he performed his own tasks. Being a self-professed auto-didact, though his direct superior seemed to hamper all his efforts to progress, he learned by observation and trial and error on how to do the job more efficiently and accurately. Before the year was over Balimbano saw his opportunity. His superior lost minutes to an important meeting with the Grand Merchant of the Bank of Sanery. He presented a well-organized and annotated set of minutes, marked for what he thought would be of particular note. His superior was promptly fired, and he was hired permanently for the position.
 
-During the tenure of Louis Vega which lasted until 1243 when he retired, Taurus Balimbano served has his assistant. He had been instrumental in the research for a number of banking reforms that Louis Vega had proposed to the [Sanerian Assembly](@/organizations/sanerian-assembly.md), most notably the easing of some anti-usury statutes that were seen as a detriment to the growth of the fledgeling banking sector.
+During the tenure of Louis Vega which lasted until 1247 when he retired, Taurus Balimbano served has his assistant. He had been instrumental in the research for a number of banking reforms that Louis Vega had proposed to the [Sanerian Assembly](@/organizations/sanerian-assembly.md), most notably the easing of some anti-usury statutes that were seen as a detriment to the growth of the fledgeling banking sector.
 
-# Move to the Bank of Sanery
-{{ incomplete() }}
+His experience in the Sanerian Finance Ministry was ultimately disillusioning for Taurus. Though well-meaning, many of Vega's policy decisions were mostly directed towards the merchant community, rather than addressing any of his proposals on low interest loans for lower brackets of society. He was often taught that the only real way to help the lower classes is to bolster the merchant class, so they might employ more people. He was often told that the poor did not know how to handle money responsibly, and so banks would have to take in the additional risk, with little reward. Low interest rates for small-value loans would translate to minimum returns, event if they were not delinquent. The projected income would not cover the costs for non-paying clients, and "recovery" operations.
+
+# Bank of Sanery
+
+Though he was offered a more permanent staffing position in the Finance Ministry, Balimbano no longer had the same drive to work in, and the confidence to enact change in, government. Instead, he would take on a job offer in the Bank of Sanery in 1248. 
+
+
+
 
 ## Notable Clients
 [Illuvia Wunderplat](@/characters/illuvia-wunderplat.md)
