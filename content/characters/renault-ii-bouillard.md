@@ -6,7 +6,7 @@ cha.sex = "Male"
 [taxonomies]
 organizations = ["Bouillard"]
 families = ["Bouillard"]
-
+parents = ["Yves Renault Bouillard", "Nicolette Bouillard"]
 +++
 
 

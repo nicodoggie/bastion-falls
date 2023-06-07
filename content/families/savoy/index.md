@@ -55,4 +55,4 @@ relinquishing the position. It was reported that Naim wanted the position to
 steer the family away from the role of servitude from the Bouillards that everyone
 else seemed to have accepted so easily. The resentment was also shared by his
 wife [Portencia](@/characters/portencia-bentayga.md), as she was shared Bouillard
-blood being a [Bentayga](@/families/bentayga.md), and thought that they'd deserved more.
+blood being a [Bentayga](@/families/bentayga/index.md), and thought that they'd deserved more.

@@ -22,7 +22,7 @@ She continued to remain popular despite the issues, as the popularity of the rea
 She moved to [Sanery](@/locations/sanery.md) in part to avoid the Guildensterns, and in part to be closer to friend and collaborator [Helene Nise](@/charaters/helene-nise.md).
 
 # Leader of the Free Theater
-During a tour of [Mayonne](@/location/mayonne.md), she met [Andre Delarde](@/characters/andre-delarde.md). who was drawn to her natural charisma. He was entranced by
+During a tour of [Mayonne](@/locations/mayonne.md), she met [Andrei Delarde](@/characters/andrei-delarde.md). who was drawn to her natural charisma. He was entranced by
 her capability of "changing faces" with every new performance, despite lacking the ability to cast magic. They eventually collaborated on a number of productions, including some
 that they had used to extract a large amount of capital from a number of investors.
 

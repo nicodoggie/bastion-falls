@@ -3,7 +3,7 @@ title = "Scripture | Knimonad"
 weight = 1
 +++
 
-The *Knimonad* is the first in a collection of scrolls, collectively called the [Bibliotheod](@/religions/orthodox-divine-masochist).  
+The *Knimonad* is the first in a collection of scrolls, collectively called the [Bibliotheod](@/religions/divine-masochism/orthodox/doctrine/bibliotheod.md).  
 # Content
 
 In the beginning the Divine was One, and all was One with Him. And all was Good and Peaceful, so the Lord slumbered. As He slept, his unknowable mind dreamt. As as he dreamed, he made the World. But the world was yet barren and lifeless. So it came to be the He made the *Angel of Nature*, to help Him fill the entirety of Creation. With them, He made the planes, the stars, the planets, the plants and animals, then the people.

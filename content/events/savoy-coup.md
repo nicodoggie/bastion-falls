@@ -27,8 +27,8 @@ is typically selected by
 _[agnatic primogeniture](https://en.wikipedia.org/wiki/Primogeniture#Agnatic_primogeniture)_ where the 
 first-born male of the family would gain the title. 
 
-In breaking with tradition, Lemuel's children, [Madison](@/characters/madison.md), 
-[Monroe](@/characters/monroe.md) and [Yenna](@/characters/yenna.md) agreed that Monroe, the second child,
+In breaking with tradition, Lemuel's children, [Madison](@/characters/madison-savoy.md), 
+[Monroe](@/characters/monroe-savoy.md) and [Yenna](@/characters/yenna-savoy.md) agreed that Monroe, the second child,
 would become *Pater Familius* instead of the first-born Madison. This was for two reasons:
   1. Madison did not want the burden of becoming *Pater Familius*.
   2. Monroe married [Nathalie Bouillard](@/characters/nathalie-bouillard.md), 

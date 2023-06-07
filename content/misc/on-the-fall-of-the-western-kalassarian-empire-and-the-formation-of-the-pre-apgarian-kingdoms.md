@@ -13,7 +13,7 @@ _Apgar_ is well-known to be the first collection of states that have independent
 [Confrederation of Apgarian States](@/locations/apgar.md) was not even possible in the imaginations of its constituents' ancestors. 
 
 Each of Apgar's component states were once kingdoms, formed in the twilight of the Great Kalassarian Empire. In the intravening years between the [Fall of the Western Kalassarian Empire](@/events/fall-of-the-western-kalassarian-empire.md) in 466 and the \[First](@/events/first-apgarian-revolution.md) of the three Apgarian Revolutions in 976, these kingdoms formed, clashed, dissolved and subsumed each other, and shaped world events in their own right. Most well-known of these world-shaking events beloved
-by historians are the [First](@/events/first-anasainan-estregan-war.md) and [Second](@/events/second-anasaian-estregan-war.md) Anasaian-Estregan Wars, which saw the [Kingdom of Poasah](@/locations/poasah.md) become a nation of great influence in the Beteran political zeitgeist.
+by historians are the [First](@/events/first-anasaian-estregan-war.md) and [Second](@/events/second-anasaian-estregan-war.md) Anasaian-Estregan Wars, which saw the [Kingdom of Poasah](@/locations/poasah.md) become a nation of great influence in the Beteran political zeitgeist.
 
 It is of great interest then, to see how these kingdoms have formed, as the once-indomitable Kalassar crumbled from internal and external pressures. This article does not aim to be an exhaustive treatise into the minutia of of every dynamic that led to the present-day situation of these entities, however. 
 The aim is to provide an introduction for the layman and the freshman into the wonderful, perplexing and intriguing intricacies of this portion of history.

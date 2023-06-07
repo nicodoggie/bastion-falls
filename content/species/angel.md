@@ -10,7 +10,7 @@ Angels are powerful winged humanoids from the Celestial Planes, often considered
 Not a lot is known about angels, and the records that do exist are very hyperbolic in their description that authenticity or accuracy is questionable. What most descriptions have in common, aside from their white-feathered wings, is that they radiate a brilliant, blinding light on command. That their visage is enough to demand only truth be spoken in their presence.
 
 # Divine Masochists: The Prime Angels and the Fallen
-The [Divine Masochists](@/organizations/orthodox-divine-masochist.md) believe that the [Divine](@/characters/divine-masochist.md) himself created the first angel. In the Scripture of the Way, the [Book of Knimonad](@/religions/orthodox-divine-masochist/doctrine/knimonad.md) describes the order manner of their creation. It also describes a possible transformation of an angel into a devil, assuming the document is taken at face value. These angels were eventually called the Prime Angels religious scholars. Their Devil forms are also called the Prime Devils
+The [Divine Masochists](@/organizations/orthodox-divine-masochist.md) believe that the [Divine](@/characters/divine-masochist.md) himself created the first angel. In the Scripture of the Way, the [Book of Knimonad](@/religions/divine-masochism/orthodox/doctrine/knimonad.md) describes the order manner of their creation. It also describes a possible transformation of an angel into a devil, assuming the document is taken at face value. These angels were eventually called the Prime Angels religious scholars. Their Devil forms are also called the Prime Devils
 
 | Angelic Form | Devilish Form |
 | ------------ | ------------- |
@@ -24,7 +24,7 @@ Scholars of Comparative Theology in the [University of Sanery](@/organizations/u
 
 # Paganist Traditions
 
-The descendants of the Kalassarian Paganist traditions, such as the [Apgarian Paganist Rite](@/religions/pagan/apgarian/_index.md) similarly assert that angels are servants to the gods. They employ legions of angels recruited from the [Celestial Planes](@/locations/celestial-planes.md) to do their bidding, for so as long as they are right. They do not have, in their lore, any reference to transformations of angels to devils. They only mention fallen angels, and enlightened devils in scenarios where the creatures have escaped their natures.
+The descendants of the Kalassarian Paganist traditions, such as the [Apgarian Paganist Rite](@/religions/paganism/apgarian/_index.md) similarly assert that angels are servants to the gods. They employ legions of angels recruited from the [Celestial Planes](@/locations/celestial-planes.md) to do their bidding, for so as long as they are right. They do not have, in their lore, any reference to transformations of angels to devils. They only mention fallen angels, and enlightened devils in scenarios where the creatures have escaped their natures.
 
 # Types of Angels
 

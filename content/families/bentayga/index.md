@@ -2,7 +2,7 @@
 title = "Bentayga"
 +++
 
-The _Bentayga_ clan is a close-knit family of ethnically [Parpelissian](@/ethnicities/parpelisse.md) sailors who have come to spread across the islands on the [Harmatian Sea](@/locations/harmatian-sea.md). They are renowned to be natural seafarers and navigators that they 
+The _Bentayga_ clan is a close-knit family of ethnically [Parpelissian](@/ethnicities/parpelissian.md) sailors who have come to spread across the islands on the [Sarmatian Sea](@/locations/sarmatian-sea.md). They are renowned to be natural seafarers and navigators that they 
 are highly sought after by shipping companies, smugglers, privateers and navies around
 the known world.
 

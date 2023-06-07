@@ -11,8 +11,8 @@ they would eventually mount a counter-offensive to suppress the Masochistas in
 the mainland. They ultimately failed to mount any sort of resistance, as fielding
 soldiers proved difficult.
 
-Most present-day Durants are still of the [Apgarian Paganist](@/religions/apgarian-paganism.md) persuasion, with notable exceptions being a branch who
+Most present-day Durants are still of the [Apgarian Paganist](@/religions/paganism/apgarian/_index.md) persuasion, with notable exceptions being a branch who
 had married into the [McFarland](@/families/mcfarland/index.md) family, as they follow 
-[Northern Paganist](@/religions/northern-paganism.md) traditions.
+[Northern Paganist](@/religions/paganism/northern/_index.md) traditions.
 
 {{ panzoom(id="tree", img="family.svg", target="family-tree", alt="Durant Family Tree") }}

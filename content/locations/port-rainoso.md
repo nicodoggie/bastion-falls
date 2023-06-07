@@ -28,7 +28,7 @@ Port Rainoso is the largest settlement and capital township of Raibon Island. Th
 
 Rainoso's importance is tied to the Heimann Sound, the southern mouth of Samain River, which can accommodate a large volume of shipping to the north. The port town, because of this, houses a number of satellite offices of prominent trading companies from the Posaran region, notably the Mirian Trading Company, which holds a near-monopoly of the Posaran sea trade.
 
-The lack of influence by Seneran Naval forces on the island, due to a concession  given by the [Divine Alliance](@/organizations/divine-alliance.md) in the [Treaty of Turain](@/events/treaty-of-turain.md) that officially ended the [Poasan-Apgarian Conflict](@/misc/poasan-apgarian-conflict.md) stating that Senera may not occupy any of the islands in the L'illes Apgarie island chain.
+The lack of influence by Seneran Naval forces on the island, due to a concession  given by the [Divine Alliance](@/organizations/divine-alliance.md) in the [Treaty of Turain](@/events/treaty-of-turain.md) that officially ended the [Poasan-Apgarian Conflict](@/events/poasan-apgarian-conflict/_index.md) stating that Senera may not occupy any of the islands in the L'illes Apgarie island chain.
 
 ## Locations
 

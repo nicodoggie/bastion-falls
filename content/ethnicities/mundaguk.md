@@ -1,7 +1,7 @@
 +++
 title = "Mundaguk"
 [taxonomies]
-locations = ["Moreaux Island"]
+ethnic_locations = ["Moreaux Island"]
 +++
 The Mundaguk people are natives of the mysterious [Moreaux Island](@/locations/moreaux-island.md). Colloquially, they are called
 the [_Monsters of Moreaux Island_](@/misc/monsters-of-moreaux-island.md), as popularized by the title of [Andre Arquette's](@/characters/andre-arquette.md) seminal work

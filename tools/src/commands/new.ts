@@ -11,6 +11,7 @@ const entityMap = {
   fam: 'families',
   cha: 'characters',
   evt: 'events',
+  eth: 'ethnicities',
 } as { [key: string]: string }
 
 const newFile = new Command('new');

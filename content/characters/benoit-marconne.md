@@ -11,7 +11,7 @@ families = ["Dubruil"]
 character_id = ["51"]
 +++
 
-Benoit was a young foundling supposedly rescued and taken in by [Rosemunda Parvese](@/characters/rosemunda-parvese.md) from the streets of the infamous East-side of [Port Rainoso](@/locations/port-rainoso.md). Since then, he had been groomed to take on managerial rolss of increasing importance in the [House of Pleasures](@/organizations/parvese-house-of-pleasures.md). At the young age of 16, he had become a floor manager in the Miller Street House, on track to becoming an Assistant House Manager there. 
+Benoit was a young foundling supposedly rescued and taken in by [Rosemunda Parvese](@/characters/rosemunda-parvese.md) from the streets of the infamous East-side of [Port Rainoso](@/locations/port-rainoso.md). Since then, he had been groomed to take on managerial rolss of increasing importance in the [House of Pleasures](@/organizations/parvese-houses-of-pleasures.md). At the young age of 16, he had become a floor manager in the Miller Street House, on track to becoming an Assistant House Manager there. 
 
 Rosemunda. however, had other plans for the boy. Unbeknownst to most, Benoit is the only living male heir of the Dubreuil family--maker of one of the most well-known brands of Cognac in the Apgar Confederacy. A huge bounty was promised to any person who gives any information that leads to his recovery. People were told about one of two identifying marks on his body.
 
