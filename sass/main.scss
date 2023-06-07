@@ -315,7 +315,10 @@ article {
   nav {
     position: inherit;
     height: auto;
-    margin: $baseline $baseline 0 $baseline;
+    
+    #navbar {
+      margin: $baseline $baseline 0 $baseline;
+    }
   }
 
   article {

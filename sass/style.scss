@@ -49,6 +49,10 @@ h1.title {
   i {
     margin: 0.5rem;
   }
+img {
+  display: inline;
+  vertical-align: middle;
+}
 }
 .callout-block {
   display: flow-root;
@@ -110,16 +114,16 @@ h1.title {
     }
 
     th {
-      background-color: black;
-      color: white;
+      background-color: $table-bg-head;
+        color: $color;
     }
 
     tr:nth-child(even) {
-      background-color: #efefef;
+      background-color: $table-bg-even;
     }
 
     tr:nth-child(odd) {
-      background-color: white;
+      background-color: $table-bg-odd;
     }
 
     td:nth-child(1) {
@@ -168,13 +172,21 @@ table#org-list {
   }
 
   width: 17rem;
-  margin: 1rem 1rem 2rem 1rem;
+  margin: $baseline $baseline 0 $baseline;
   padding: 1rem 3rem 1rem 3rem;
   font-size: 15px;
-                                                                background-color: $bgSidebar;
+  background-color: $bgSidebar;
   overflow-x: auto;
   clear: right;
   float: right;
+}
+@media screen and (max-width: 1023px) {
+  .sidebar {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 1rem 0 1rem 0;
+    padding: 0.5rem 1rem;
+  }
 }
 .mortality-dead::before {
   content: "☠ ";

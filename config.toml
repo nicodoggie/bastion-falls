@@ -61,7 +61,7 @@ external_links_no_follow = true
 external_links_no_referrer = true
 
 [slugify]
-taxonomies = "safe"
+taxonomies = "on"
 
 [markdown]
 # Whether to do syntax highlighting
