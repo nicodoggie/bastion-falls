@@ -1,5 +1,5 @@
 name: "BF Site"
-on: [push]
+on: [push,workflow_dispatch]
 jobs:
   build-deploy:
     env:
