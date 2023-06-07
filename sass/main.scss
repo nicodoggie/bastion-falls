@@ -118,6 +118,13 @@ pre:hover .copy-code-button {
 
 #navbox {
   position: sticky;
+  nav {
+    top: $baseline;
+    left: $baseline;
+    bottom: $baseline;
+    
+    width: 20rem;
+  }
 
   #site-title {
     margin: 1rem;
@@ -141,14 +148,6 @@ pre:hover .copy-code-button {
   }
 }
 
-nav {
-  height: 92vh;
-  top: $baseline;
-  left: $baseline;
-  bottom: $baseline;
-  padding-right: $baseline;
-  width: 20rem;
-}
 
 #toc {
   margin-left:calc(#{$baseline} + #{$font-size});
