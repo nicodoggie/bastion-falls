@@ -1,5 +1,5 @@
+name: "BF Site"
 on: [push]
-
 jobs:
   build-deploy:
     env:
