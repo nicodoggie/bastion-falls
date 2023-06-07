@@ -2,7 +2,7 @@
 title = "Reformed Church of the Divine Masochist"
 template = "redirect.html"
 [extra]
-redirect = "/divine-masochism/reformist/"
+redirect = "/religions/divine-masochism/reformist/"
 +++
 
 # The Reformed Church of the Divine Masochist

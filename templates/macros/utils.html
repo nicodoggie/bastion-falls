@@ -32,7 +32,7 @@
       </dt>
       {% for item in taxa[taxon] %}
         {% set page = get_taxonomy_term(kind=taxon, term=item) %}
-        {% set path = page.permalink | safe %}
+        {% set path = page.permalink | replace(from=" ", to="-") | lower %}
         {% if section != ''%}
         {% set slug = page.name | slugify %}
         {% set path = '/' ~ section ~ '/' ~ slug %}
