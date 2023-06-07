@@ -4,9 +4,6 @@
 {% block title %} {{ config.title }} | {{ section.title }} {% endblock title %}
 
 {% block content %}
-    <div id="calendar-header">
-        {{ macros::calendar(size='md')}}
-    </div>
     <h1 class="title">
         {% if section.extra.reformat_title | default(value=true) %}
         {{ section.title | title}}
@@ -14,6 +11,7 @@
         {{ section.title }}
         {% endif %}
     </h1>
+    
     {% if section.word_count > 0 -%}
         <aside class="sidebar sidebar-section">
             {% if section.subsections -%}
@@ -34,6 +32,20 @@
             </ul>
             {% endfor %}
             {% endif -%}
+            {% if section.pages %}
+            {% for page in section.pages %}
+            <input class="tree-toggle" type="checkbox" id="{{ section.title | slugify }}" {% if current_path is
+                starting_with(section.path) %}checked{% endif %} />
+            <label class="tree-toggle-label" for="{{ section.title | slugify }}">
+                Pages
+            </label>
+            <ul class="subtree">
+                <li {% if current_path==page.path %}class="active" {% endif %}>
+                    <a href="{{page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
+                </li>
+            </ul>
+            {% endfor %}
+            {% endif %}
         </aside>
     {{ section.content | safe }}
     {% else -%}

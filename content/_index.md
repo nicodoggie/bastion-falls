@@ -3,7 +3,6 @@ title = "Bastion Falls"
 insert_anchor_links = "right"
 sort_by = "weight"
 +++
-{{ calendar() }}
 # Bastion Falls
 
 The year: 1275 and the world is in the brink of a disaster of a scale that was

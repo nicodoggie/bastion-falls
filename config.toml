@@ -53,7 +53,6 @@ taxonomies = [
   { name = "family_id", feed = false, render = false },
   { name = "family_location_id", feed = false, render = false },
   { name = "parent_location_id", feed = false, render = false },
-  
 ]
 
 external_links_target_blank = true
@@ -82,5 +81,10 @@ include_content = true
 [extra]
 # Put all your custom variables here
 easydocs_heading_threshold = 3
+logo = "/orb-of-bastion.png"
 repo = "https://github.com/nicodoggie/bastion-falls"
 fantasy_calendar_id = "089e518f9ea966373b1c71535c25b98a"
+socials = [
+  {type = "github", url = "https://github.com/nicodoggie/bastion-falls"},
+  {type = "instagram", url = "https://instagram.com/nico.doggie"}
+]

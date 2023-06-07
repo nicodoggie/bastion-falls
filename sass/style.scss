@@ -3,8 +3,54 @@ article {
   margin-right: 10rem;
 }
 
+blockquote {
+  display: flow-root;
+}
 h1.title {
   font-size: 4ex;
+}
+#site-title {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+
+  h1 {
+    text-align: center;
+    margin: 1rem;
+
+    a {
+      text-decoration: none;
+      color: #000;
+    }
+
+  }
+
+  img {
+    height: fit-content;
+    width: 20%;
+  }
+}
+
+#calendar-header {
+  display: flex;
+  margin: 2rem 0;
+
+  #fantasy-calendar-embed {}
+}
+
+#socials {
+  display: flex;
+  justify-content: center;
+
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+
+  i {
+    margin: 0.5rem;
+  }
 }
 .callout-block {
   display: flow-root;
@@ -38,22 +84,6 @@ h1.title {
   background-color: pink;
 }
 #wrap {
-  #calendar-header {
-    width: fit-content;
-      margin: 1rem 1rem 2rem 1rem;
-      padding: 1rem 1rem 1rem 3rem;
-      clear: right;
-      float: right;
-    }
-  #calendar {
-    width: 100%;
-      display: flex;
-      justify-content: center;
-    #fantasy-calendar-embed {
-        display: inline-block;
-      }
-    }
-    
   table {
     border-collapse: collapse;
     width: 100%;

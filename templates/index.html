@@ -1,3 +1,5 @@
+{%- import "macros/utils.html" as utils -%}
+{%- import "macros.html" as macros -%}
 <!DOCTYPE HTML>
 <html>
 
@@ -5,6 +7,7 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
   <link rel="stylesheet" href="{{ get_url(path='main.css') | safe }}">
+  <script src="https://kit.fontawesome.com/b161e13895.js" crossorigin="anonymous"></script>
   {% if config.extra.favicon -%}
   {% set _favicon = config.extra.favicon -%}
   {% if (_favicon is starting_with("http")) == false -%}
@@ -41,32 +44,55 @@
   
       {%- block nav -%}
       <nav>
-        {% if config.extra.logo -%}
-        {% set _logo = config.extra.logo -%}
-        {% if (_logo is starting_with("http")) == false -%}
-        {% set _logo = get_url(path=config.extra.logo) -%}
-        {% endif -%}
-        {% if current_path == "/" and not config.extra.easydocs_logo_always_clickable -%}
-        <img src="{{ _logo | safe }}" alt="logo" />
-        {% else -%}
-        <a href="{{ config.base_url }}{{ _ugly_url }}">
+        <div id="site-title">
+          <h1>
+            <a href="{{ config.base_url }}{{ _ugly_url }}">
+              {{ config.title }}
+            </a>
+          </h1>
+          {% if config.extra.logo -%}
+          {% set _logo = config.extra.logo -%}
+          {% if (_logo is starting_with("http")) == false -%}
+          {% set _logo = get_url(path=config.extra.logo) -%}
+          {% endif -%}
+          {% if current_path == "/" and not config.extra.easydocs_logo_always_clickable -%}
           <img src="{{ _logo | safe }}" alt="logo" />
-        </a>
+          {% else -%}
+          <a href="{{ config.base_url }}{{ _ugly_url }}">
+            <img src="{{ _logo | safe }}" alt="logo" />
+          </a>
+          {% endif -%}
         {% endif -%}
-  
-        {% else -%}
-        <h1><a href="{{ config.base_url }}{{ _ugly_url }}">{{ config.title }}</a></h1>
-        {% endif -%}
+        </div>
+        
+        <div id="calendar-header">
+          {{ macros::calendar(size='xs')}}
+        </div>
   
         {% if config.extra.release -%}
         <div id="release"></div>
         {% endif -%}
-  
+
+        {% if config.extra.socials -%}
+        <div id="socials">
+          {% for item in config.extra.socials %}
+          <a href="{{ item.url | safe }}" rel="noopen noreferrer" target="_blank" title="{{ item.type }}">
+            <i class="fa-brands fa-{{ item.type }}" aria-hidden="true"></i>
+          </a>
+          {% endfor %}
+        </div>
+        {% endif -%}
         <a href="javascript:void(0);" onclick="burger()" id="mobile" class="ms-Icon--GlobalNavButton"></a>
         <div id="trees">
           {% set root = get_section(path='_index.md')%}
           {% if root.pages %}
-          <ul class="root-menu">
+          <input class="tree-toggle" type="checkbox" name="nav-section" id="{{ root.title | slugify }}" {%- if
+            current_path==root.path -%}checked{%- endif -%} />
+          <label class="tree-toggle-label" for="{{ root.title | slugify }}">
+            {{ root.title }}
+            <a href="{{ root.permalink | safe }}{{ _ugly_url }}">&#x1F5CB;</a>
+          </label>
+          <ul class="root-menu subtree">
             {% for p in root.pages %}
             <li><a href="{{ p.permalink | safe }}">{{ p.title }}</a></li>
             {% endfor %}

@@ -1,24 +1,21 @@
 {% import "macros/utils.html" as utils %}
 
 {% macro event(name, config) %}
-<dl>
-  {% if config.extra %}
-  {% for key, value in config.extra%}
-
-  {% if (key is starting_with("date")) %}
-  <dt>
-    <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
-  </dt>
-  <dd>
-    {{ utils::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=value) }}
-  </dd>
-  {% else %}
-  <dt>
-    <h3>{{ key | replace(from="_", to=" ")| title }}</h3>
-  </dt>
-  <dd>{{ value }}</dd>
-  {% endif %}
-  {% endfor %}
+  {% if config.extra and config.extra.evt %}
+  <dl>
+    {% for key, item in config.extra.evt %}
+    <dt>
+      <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
+    </dt>
+    {% if (item is iterable)%}
+      {% for i in item %}
+        <dd>{{ utils::format_config_item(key=key, item=i) }}</dd>
+      {% endfor %}
+    {% else %}
+      <dd>{{ utils::format_config_item(key=key, item=item) }}</dd>
+    {% endif %}
+    {% endfor %}
+  </dl>
   {% endif %}
   {% set taxa = config.taxonomies %}
   {{ utils::list_taxa(taxon='primary_characters', taxa=taxa, config=config, section='characters') }}
