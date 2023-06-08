@@ -122,7 +122,7 @@ people:
     born: "1250-03-14"
   Michael:
     fullname: Michael Durant
-    born: '1259-12-02'
+    born: "1259-12-02"
   Lyla II:
     name: Lyla
     fullname: Lyla II Durant
@@ -138,7 +138,7 @@ people:
   Kimberly:
     fullname: Kimberly McFarland
     age: 15
-    born: "1260-12-30"
+    born: "1259-12-30"
   Gregory:
     fullname: Gregory McFarland
     age: 14

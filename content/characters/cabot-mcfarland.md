@@ -13,6 +13,8 @@ married_to = "Yenna Savoy"
 pronouns = ""
 sex = ""
 [taxonomies]
-children = ["Tedora McFarland"]
+children = ["Tedora McFarland","Thessaly McFarland"]
+parents = ["Valerian McFarland","Luwan MacLeod"]
+siblings = ["Caleb McFarland","Castilla McFarland"]
 +++
 

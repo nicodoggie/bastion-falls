@@ -2,82 +2,132 @@ families:
   - house: McFarland
     parents: [Valerian, Luwan]
     children: [Caleb, Castilla, Cabot]
-  - parents: [Caleb, Genevieve]
-    children: [Talsin]
-  - parents: [Talsin, Elaine]
-    children: [Brian, Llora]
-  - parents: [Brian, Selene]
-    children: [Ian]
-  - parents: [Castilla, Peregrine]
-    children: [Elara, Orion, Evander]
-  - parents: [Cabot, Yenna]
-    children: [Tedora, Thessaly]
-  - parents: [Tedora, Rogelio]
+    families:
+    - parents: [Caleb, Genevieve]
+      children: [Talsin]
+    - parents: [Talsin, Elaine]
+      children: [Brian, Llora]
+    - parents: [Brian, Selene]
+      children: [Ian]
+    - parents: [Castilla, Peregrine]
+      children: [Elara, Orion, Evander]
+    - parents: [Cabot, Yenna]
+      children: [Tedora, Thessaly MF]
+  - house: Durant
+    parents: [Tedora, Rogelio]
     children: [Degare, Dyson, Lyla]
-  - parents: [Degare, Elodie]
-    children: [Michael, Lyla II]
-  - parents2: [Degare, Sera]
-  - parents: [Dyson, Priscilla]
-    children: [Kimberly, Gregory, Yenna MF, Marion]
-  - parents: [Thessaly, Juliette]
+    families:
+    - parents: [Degare, Elodie]
+      children: [Michael, Lyla II]
+    - parents2: [Degare, Sera]
+    - parents: [Dyson, Priscilla]
+      children: [Kimberly, Gregory, Yenna MF, Marion]
+  - house: Savoy
+    parents: [Lyla, Percival]
+  - parents: [Thessaly MF, Juliette]
     children2: [Thorid, Emilia]
   - parents: [Thorid, Llora]
-    children: [Farrah, Malcolm, Jacob, Delilah]
+    children: [Jacob, Delilah, Malcolm, Farrah]
 
 people:
   Valerian:
     fullname: Valerian McFarland
+    born: "1096-06-29"
+    died: "1189-11-04"
     class: [dead]
   Luwan:
     fullname: Luwan MacLeod
+    born: "1138-09-30"
     class: [dead]
   Caleb:
     fullname: Caleb McFarland
+    born: "1150-03-22"
+    died: "1229-01-01"
     class: [dead]
   Genevieve:
     fullname: Genevieve Boucher
+    born: "1179-01-19"
+    died: "1260-02-01"
     class: [dead]
   Castilla:
     fullname: Castilla McFarland
+    born: "1152-01-17"
+    died: "1231-02-03"
     class: [dead]
   Peregrine:
     fullname: Peregrine McFarland
+    born: "1151-01-17"
+    died: "1231-02-03"
     class: [dead]
   Elara:
     fullname: Elara McFarland
+    born: "1169-12-21"
+    died: "1244-04-04"
+    class: [dead]
   Orion:
     fullname: Orion McFarland
+    born: "1173-11-10"
+    died: "1204-08-01"
+    class: [dead]
   Evander:
     fullname: Evander McFarland
-  Cabot:
-    fullname: Cabot McFarland
+    born: "1176-10-08"
+    died: "1190-10-16"
+    class: [dead]
   Yenna:
     fullname: Yenna Savoy
-  Thessaly:
+    born: "1168-08-29"
+    died: "1250-02-04"
+    class: [dead]
+  Cabot:
+    fullname: Cabot McFarland
+    born: "1166-03-29"
+    died: "1250-02-04"
+    class: [dead]
+  Thessaly MF:
     fullname: Thessaly McFarland
+    born: "1205-03-11"
   Juliette:
     fullname: Juliette Sinclair
+    born: "1206-03-17"
   Emilia:
     fullname: Emilia McFarland
+    born: "1225-07-13"
+    adopted: "1230-03-30"
   Thorid:
     fullname: Thorid McFarland
+    born: "1222-03-30"
+    adopted: "1232-03-30"
   Talsin:
     fullname: Talsin McFarland
+    born: "1195-03-21"
+    died: "1261-04-29"
   Elaine:
     fullname: Elaine Bentayga
+    born: "1203-05-07"
   Brian:
     fullname: Brian McFarland
+    born: "1223-10-17"
+    died: "1273-02-17"
+    class: [dead]
   Llora:
     fullname: Llora McFarland
+    born: "1227-01-12"
   Selene:
     fullname: Selene Bentayga
+    born: "1225-04-02"
   Ian:
     fullname: Valerian II McFarland
+    born: "1249-10-17"
   Tedora:
     fullname: Tedora McFarland
+    born: "1201-09-01"
+    died: "1275-01-30"
     class: [dead]
   Rogelio:
     fullname: Rogelio Durant
+    born: "1195-08-05"
+    died: "1266-03-03"
     class: [dead]
   Degare:
     fullname: Degare Durant
@@ -92,7 +142,7 @@ people:
     born: "1250-03-14"
   Michael:
     fullname: Michael Durant
-    born: '1259-12-02'
+    born: "1259-12-02"
   Lyla II:
     name: Lyla
     fullname: Lyla II Durant
@@ -107,29 +157,40 @@ people:
     born: "1238-04-04"
   Kimberly:
     fullname: Kimberly McFarland
-    age: 15
-    born: "1259-10-05"
+    born: "1259-12-30"
   Gregory:
     fullname: Gregory McFarland
-    age: 14
-    born: "1261-05-24"
+    born: "1261-09-22"
   Yenna MF:
     name: Yenna
-    age: 9
     fullname: Yenna McFarland
-    born: '1265-12-19'
+    born: "1265-12-19"
   Marion:
     fullname: Marion McFarland
-    age: 8
-    born: '1267-06-16'
-  Farrah:
-    fullname: Farrah McFarland
-  Malcolm:
-    fullname: Malcolm McFarland
+    born: "1267-06-16"
+  Lyla:
+    fullname: Lyla Durant
+    born: "1236-11-03"
+    died: "1270-04-18"
+    class: [dead]
+  Percival:
+    fullname: Percival Savoy
+    born: "1212-01-20"
+    died: "1270-04-18"
+    class: [dead]
   Jacob:
     fullname: Jacob McFarland
+    born: "1243-03-11"
   Delilah:
     fullname: Delilah McFarland
+    born: "1246-10-16"
+  Malcolm:
+    fullname: Malcolm McFarland
+    born: "1250-06-05"
+  Farrah:
+    fullname: Farrah McFarland
+    born: "1260-04-18"
+  
 
 styles:
   dead:

@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Degare Durant","Dyson McFarland","Lyla Durant"]
-parents = ["Yenna Savoy","Cabot McFarland"]
+parents = ["Cabot McFarland","Yenna Savoy"]
+siblings = ["Thessaly McFarland"]
 +++
 

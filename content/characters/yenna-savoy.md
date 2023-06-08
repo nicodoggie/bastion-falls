@@ -13,7 +13,7 @@ married_to = "Cabot McFarland"
 pronouns = ""
 sex = ""
 [taxonomies]
-children = ["Tedora McFarland"]
+children = ["Tedora McFarland","Thessaly McFarland"]
 parents = ["Lemuel Savoy","Johanna Bentayga"]
 siblings = ["Madison Savoy","Monroe Savoy"]
 +++
