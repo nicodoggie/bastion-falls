@@ -1,9 +1,9 @@
 import { Command } from "commander";
-import { writeFile, readFile, rm } from "fs/promises";
+import { writeFile, readFile, rm, stat } from "fs/promises";
 import * as frontmatter from "../lib/frontmatter.js";
 import Bluebird from "bluebird";
 import matter from "gray-matter";
-import { existsSync, readFileSync, writeFileSync } from "fs";
+import { existsSync, readFileSync, statSync, writeFileSync } from "fs";
 import { resolve } from "path";
 import * as YAML from "js-yaml";
 import { FamilyTree, searchChildren, searchParents, searchSiblings, searchSpouse } from "../types/family-tree.js";
@@ -17,9 +17,11 @@ const generateFamily = new Command('gen-family');
 
 generateFamily
   .argument('<family>')
-  .option('-o, --content-dir <contentDir>', 'family content dir', 'content')
+  .option('-o, --content-dir <contentDir>', 'Directory containing family yaml', 'content')
+  .option('-d, --diff-tool <diffTool>', 'Use specified diff-tool', undefined)
+  .option('--dry-run [dryRun]', 'Do not actually execute')
   .action(async (family: string, options: Record<string, string>) => {
-    const { contentDir } = options;
+    const { contentDir, diffTool, dryRun } = options;
     const filename = resolve(contentDir, 'families', family, 'family.yaml');
     if (existsSync(filename)) {
       const readContents = await readFile(filename);
@@ -85,7 +87,9 @@ generateFamily
               data,
               frontmatter.options
             );
-            await writeFile(memberFilename, newContent);
+            if (!dryRun) {
+              await writeFile(memberFilename, newContent);
+            }
           } else {
             const currentFileContents = readFileSync(memberFilename);
             const { content } = await frontmatter.read(memberFilename);
@@ -101,7 +105,19 @@ generateFamily
 
                 writeFileSync(tempFile, newContent);
 
-                const spawned = spawnSync(`/usr/bin/meld`, ['--diff', tempFile, memberFilename]);
+                let differ = diffTool;
+                if (!differ) {
+                  if (existsSync('/usr/bin/meld')) {
+                    differ = '/usr/bin/meld';
+                  } else {
+                    differ = '/usr/bin/diff';
+                  }
+                }
+
+                if (!dryRun) {
+                  const spawned = spawnSync(differ, ["-u", tempFile, memberFilename]);
+                  console.log(spawned.stdout.toString());
+                }
               }, { extension: 'md' });
             } else {
               console.log(`${memberFilename} matches new content. Skipping ${fullname}...`);
