@@ -2,6 +2,7 @@
 title = "Bastion Falls"
 insert_anchor_links = "right"
 sort_by = "weight"
+weight = 5
 +++
 # Bastion Falls
 
