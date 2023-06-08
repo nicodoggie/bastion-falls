@@ -1,14 +1,19 @@
 +++
 title = "Seraphine Gognon"
-slug = "seraphine-gognon"
 [extra]
-cha.age = "24"
-cha.sex = "Female"
-cha.date_of_birth = "date#1250-03-14"
-cha.married_to = "Degare Durant"
-cha.married_on = "date#1273-05-12"
+ddb = ""
+mortality_status = "Alive"
+[extra.cha]
+age = 24
+date_of_birth = "date#1250-03-14"
+date_of_death = ""
+married_on = "date#1273-05-12"
+married_to = "Degare Durant"
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 families = ["Durant", "Gognon"]
+children = ["Michael Durant","Lyla II Durant"]
 +++
 
 _Seraphine Durant née Gognon_ was the daughter of [Estregan](@/locations/estrega.md) politician, [Emile Gognon](@/characters/emile-gognon.md), and

@@ -1,13 +1,19 @@
 +++
 title = "Lyla Savoy née Durant"
 [extra]
-cha.age = "33"
-cha.date_of_birth = "date#1236-11-03"
-cha.date_of_death = "date#1270-04-18"
-cha.married_to = "Percival Savoy"
+ddb = ""
 mortality_status = "Dead"
+[extra.cha]
+age = 33
+date_of_birth = "date#1236-11-03"
+date_of_death = "date#1270-04-18"
+married_on = ""
+married_to = "Percival Savoy"
+pronouns = ""
+sex = ""
 [taxonomies]
-parents = ["Rogelio Durant", "Tedora Bentayga"]
-siblings = ["Degare Durant", "Dyson McFarland"]
+children = []
+parents = ["Tedora McFarland","Rogelio Durant"]
+siblings = ["Degare Durant","Dyson McFarland"]
 families = ["Durant", "Savoy"]
 +++

@@ -16,11 +16,11 @@ Lannesiana Cicero or Inez is an attractive young model currently working for the
 
 Inez sports a long black hair that she braids and tanned skin. Inez has angular silver eyes that seem to swirl like smoke under glass. She is disrespectful towards most people, especially Men. She doesn’t like wearing heavy make-ups and revealing clothes outside of work. She’s also a heavy smoker and a heavy drinker. 
 
-= Nightshift Nurses
+# Nightshift Nurses
 She is also known as **Private Nurse Inez** in the popular adult magazine [Nightshift Nurses](@/organizations/nightshift-nurses.md)
 
 
-= Trivia
+# Trivia
 {{ outofdate() }}
 
 Likes:

@@ -1,13 +1,19 @@
 +++
-title = "Lyla Durant"
+title = "Lyla II Durant"
 [extra]
 reformat_title = false
-cha.age = "2"
-cha.date_of_birth = "1271-08-01"
-cha.date_of_death = "1273-08-14"
+ddb = ""
 mortality_status = "Dead"
+[extra.cha]
+age = 2
+date_of_birth = "date#1271-08-01"
+date_of_death = "date#1273-08-14"
+married_on = ""
+married_to = ""
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
-parents = ["Degare Durant", "Elodië Bentayga"]
+parents = ["Degare Durant","Elodië Bentayga"]
 siblings = ["Michael Durant"]
 families = ["Durant", "Bentayga"]
 +++

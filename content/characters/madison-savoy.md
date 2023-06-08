@@ -6,7 +6,7 @@ mortality_status = "Dead"
 [extra.cha]
 age = ""
 date_of_birth = "date#1147-10-19"
-date_of_death = ""
+date_of_death = "date#1228-10-19"
 married_on = ""
 married_to = "Thessaly Jordin"
 pronouns = ""

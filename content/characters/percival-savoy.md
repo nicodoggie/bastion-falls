@@ -1,14 +1,21 @@
 +++
 title = "Percival Savoy"
 [extra]
-cha.age = 63
-cha.date_of_birth = "date#1212-01-20"
-cha.date_of_death = "date#1270-04-18"
+ddb = ""
+mortality_status = "Dead"
+[extra.cha]
+age = 63
+date_of_birth = "date#1212-01-20"
+date_of_death = "date#1270-04-18"
+married_on = ""
+married_to = "Lyla Durant"
+pronouns = ""
+sex = ""
 [taxonomies]
+families = ["Savoy", "Bentayga"]
 organizations = ["Bouillard", "Savoy Patrol Group"]
 parents = ["Naim Savoy", "Portencia Bentayga"]
-siblings = ["Rick Savoy", "Prudence Savoy"]
-families = ["Savoy", "Bentayga"]
+siblings = ["Rickard Savoy", "Prudence Savoy"]
 +++ 
 {{ stub() }}
 Percival Savoy was once the leader of the {{ fam(name="Savoy" )}} family's {{ org(name="Patrol Group", slug="savoy-patrol-group") }}. 

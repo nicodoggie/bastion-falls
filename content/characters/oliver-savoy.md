@@ -1,9 +1,16 @@
 +++
 title = "Oliver Savoy"
 [extra]
-cha.age = "36"
-cha.sex = "Male"
-cha.date-of-birth = "date#1239-02-15"
+ddb = ""
+mortality_status = "Alive"
+[extra.cha]
+age = 36
+date_of_birth = "date#1239-02-15"
+date_of_death = ""
+married_on = ""
+married_to = ""
+pronouns = "He/Him"
+sex = "Male"
 [taxonomies]
 organizations = ["Bouillard"]
 families = ["Savoy"]

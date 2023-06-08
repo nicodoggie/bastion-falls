@@ -8,5 +8,5 @@ organizations = ["Nightshift Nurses"]
 
 {{ stub() }}
 
-= Nightshift Nurses
+# Nightshift Nurses
 She is also known as **Beloved Nurse Lollia** in the popular adult magazine [Nightshift Nurses](@/organizations/nightshift-nurses.md)

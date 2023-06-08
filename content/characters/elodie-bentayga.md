@@ -1,14 +1,18 @@
 +++
 title = "Elodië Bentayga"
-slug = "elodie-bentayga"
 [extra]
+ddb = ""
 mortality_status = "Dead"
-cha.age = "36"
-cha.date_of_birth = "date#1239-05-07"
-cha.date_of_death = "date#1274-04-03"
-cha.married_to = "@/characters/degare-durant.md"
-cha.married_on = "1264-08-16"
+[extra.cha]
+age = 36
+date_of_birth = "date#1239-05-07"
+date_of_death = "date#1274-04-03"
+married_on = ""
+married_to = "Degare Durant"
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 families = ["Bentayga", "Durant"]
+children = ["Michael Durant","Lyla II Durant"]
 +++
 
