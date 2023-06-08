@@ -1,56 +1,78 @@
 families:
   - house: Savoy
-    parents: [Lemuel, Johanna]
-    children: [Madison, Monroe, Yenna]
+    children: [Lemuel, Gloria, Diana, Portia]
     families:
-    - parents: [Madison, Thessaly]
-      children: [Nicanor, Naim]
-    - parents: [Nicanor, Laiya]
-    - parents: [Naim, Portencia]
-      children: [Percival, Rick, Prudence]
-    - parents: [Percival, Lyla]
-    - parents: [Rick, Gaelle]
-      children: [Taran, Todd]
-    - parents: [Prudence, Marco]
-      children: [Avila]
-    - parents: [Monroe, Nathalie]
-      children: [Othello, Agnes]
-    - parents: [Othello, Mathilda]
-      children: [Otto, Leonila]
-    - parents: [Otto, Beatrix]
-      children: [Oliver, Oscar]
-      children2: [Avis]
-    - parents: [Leonila, Charles]
-      children: [Swan]
-    
-  - house: Savoy-McFarland 
-    parents: [Yenna, Cabot]
-    children: [Tedora]
-    families:
-    - parents: [Tedora, Rogelio]
-      children: [Degare, Dyson, Lyla]
-    - parents: [Degare, Elodie]
-      parents2: [Sera]
-      children: [Michael, Lyla II]
-    - parents: [Dyson, Priscilla]
-      children: [Kimberly, Gregory, Yenna MF, Marion]
+    - parents: [Lemuel, Johanna]
+      children: [Madison, Monroe, Yenna]
+      families:
+      - parents: [Madison, Thessaly]
+        children: [Nicanor, Naim]
+      - parents: [Nicanor, Laiya]
+      - parents: [Naim, Portencia]
+        children: [Percival, Rick, Prudence]
+      - parents: [Percival, Lyla]
+      - parents: [Rick, Gaelle]
+        children: [Taran, Todd]
+      - parents: [Prudence, Marco]
+        children: [Avila]
+      - parents: [Monroe, Nathalie]
+        children: [Othello, Agnes]
+      - parents: [Othello, Mathilda]
+        children: [Otto, Leonila]
+      - parents: [Otto, Beatrix]
+        children: [Oliver, Oscar]
+        children2: [Avis]
+      - parents: [Leonila, Charles]
+        children: [Swan]
+      
+    - house: Savoy-McFarland 
+      parents: [Yenna, Cabot]
+      children: [Tedora]
+      families:
+      - parents: [Tedora, Rogelio]
+        children: [Degare, Dyson, Lyla]
+      - parents: [Degare, Elodie]
+        parents2: [Sera]
+        children: [Michael, Lyla II]
+      - parents: [Dyson, Priscilla]
+        children: [Kimberly, Gregory, Yenna MF, Marion]
   
   
 people:
+  Gloria:
+    fullname: Gloria Savoy
+    born: "1125-02-22"
+    died: "1204-01-18"
+    class: [dead]
+  Diana:
+    fullname: Diana Savoy
+    born: "1126-11-02"
+    died: "1209-11-07"
+    class: [dead]
+  Portia:
+    fullname: Portia Savoy
+    born: "1129-07-02"
+    died: "1208-04-08"
+    class: [dead]
   Lemuel:
     fullname: Lemuel Savoy
     born: "1123-06-26"
+    died: "1195-05-01"
     class: [dead]
   Johanna:
     fullname: Johanna Bentayga
     born: "1129-03-06"
+    died: "1200-01-01"
     class: [dead]
   Madison:
     fullname: Madison Savoy
     born: "1147-10-19"
+    died: "1228-10-19"
     class: [dead]
   Thessaly:
     fullname: Thessaly Jordin
+    born: "1157-01-01"
+    died: "1233-07-08"
     class: [dead]
   Monroe:
     fullname: Monroe Savoy
@@ -63,9 +85,12 @@ people:
   Yenna:
     fullname: Yenna Savoy
     born: "1168-08-29"
+    died: "1250-02-04"
     class: [dead]
   Cabot:
     fullname: Cabot McFarland
+    born: "1166-03-29"
+    died: "1250-02-04"
     class: [dead]
   Nicanor:
     fullname: Nicanor Savoy
@@ -78,10 +103,12 @@ people:
   Naim:
     fullname: Naim Savoy
     born: "1187-04-24"
+    died: "1267-08-01"
     class: [dead]
   Portencia:
     fullname: Portencia Bentayga
     born: "1189-01-03"
+    died: "1269-01-30"
     class: [dead]
   Othello:
     fullname: Othello Savoy
@@ -126,6 +153,7 @@ people:
   Mathilda:
     fullname: Mathilda Delacour
     born: "1191-04-05"
+    died: "1266-04-12"
     class: [dead]
   Agnes:
     fullname: Brigadine Savoy
@@ -133,10 +161,12 @@ people:
   Tedora:
     fullname: Tedora McFarland
     born: "1201-09-01"
+    died: "1275-01-30"
     class: [dead]
   Rogelio:
     fullname: Rogelio Durant
     born: "1195-08-05"
+    died: "1266-03-03"
     class: [dead]
   Percival:
     fullname: Percival Savoy
@@ -183,7 +213,7 @@ people:
     born: "1250-03-14"
   Michael:
     fullname: Michael Durant
-    born: '1259-06-02'
+    born: '1259-12-02'
   Lyla II:
     fullname: Lyla II Durant
     born: "1271-08-01"

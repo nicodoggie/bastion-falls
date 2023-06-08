@@ -306,6 +306,7 @@ __metadata:
     "@nicodoggie/kingraph": "npm:^0.2.0"
     "@types/nodemon": "npm:^1.19.2"
     concurrently: "npm:^8.0.1"
+    js-sha256: "npm:^0.9.0"
     lefthook: "npm:^1.4.0"
     nodemon: "npm:^2.0.22"
     ts-node: "npm:^10.9.1"
@@ -335,6 +336,7 @@ __metadata:
     mysql2: "npm:^3.3.1"
     slugify: "npm:^1.6.6"
     smol-toml: "npm:^1.0.1"
+    tempy: "npm:^3.0.0"
     ts-node: "npm:^10.9.1"
     turndown: "npm:^7.1.2"
     typescript: "npm:^5.0.4"
@@ -1180,6 +1182,15 @@ __metadata:
     shebang-command: "npm:^2.0.0"
     which: "npm:^2.0.1"
   checksum: 37ec685f91f04d4719892f305fa6f632aae256df7f2f3f98d5c36f2197651ad7b77851aaa2d397d19a9555f0fb89fa18f9bb3ff4b440535cc0fb4fe0a72004b9
+  languageName: node
+  linkType: hard
+
+"crypto-random-string@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "crypto-random-string@npm:4.0.0"
+  dependencies:
+    type-fest: "npm:^1.0.1"
+  checksum: 09e72f97ce1ca5fd3128b30265e7b86c9eb5d119fb5617e3eca439fde8804631d0f6989555fb4181136db64aac03076a675aeb0f893aa18a10a27557e33db145
   languageName: node
   linkType: hard
 
@@ -2148,6 +2159,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"is-stream@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "is-stream@npm:3.0.0"
+  checksum: 9cb18df7e094ff4907395e27527c6615cd7f48343d71c17af79079df642710a72c5f8d2090512d738c5b05989f124be0a6e031f8c459bb8d2f512e503d54695b
+  languageName: node
+  linkType: hard
+
 "is-text-path@npm:^1.0.1":
   version: 1.0.1
   resolution: "is-text-path@npm:1.0.1"
@@ -2189,6 +2207,13 @@ __metadata:
   version: 0.1.2
   resolution: "isstream@npm:0.1.2"
   checksum: 0458850e4cc11c29dece587a48a73b44e423738fc8824bfa946f11cc5371ccf94e9e9fcbc4025ced0116c420e08ed3a61cfb14393d2b4c989587888acdd6b0ab
+  languageName: node
+  linkType: hard
+
+"js-sha256@npm:^0.9.0":
+  version: 0.9.0
+  resolution: "js-sha256@npm:0.9.0"
+  checksum: 456a23fdfe8938ab7359e3ccf68776ed1d2224c1e09f3231cb0b69a8b0e939cb6b95bdebd27e9838aea3715ea0addcb1f94174f8fe863d307731aff1f836c5d1
   languageName: node
   linkType: hard
 
@@ -4148,6 +4173,25 @@ __metadata:
   languageName: node
   linkType: hard
 
+"temp-dir@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "temp-dir@npm:2.0.0"
+  checksum: 0b97706876e9982bb5f2bf8c1e040d087ec48051f7d91fe9f460bd8e5a1c833de89c6039e2e402b7388f4096c896392193082f5d78b8d4c89976edead9a88ce0
+  languageName: node
+  linkType: hard
+
+"tempy@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "tempy@npm:3.0.0"
+  dependencies:
+    is-stream: "npm:^3.0.0"
+    temp-dir: "npm:^2.0.0"
+    type-fest: "npm:^2.12.2"
+    unique-string: "npm:^3.0.0"
+  checksum: 427b16960ca0541707a31255e3a41513530f400645bdfebfb2746dc43d37a2231b042d2bf6b7aa05e56fd129cc3d249763d5bdd471e5bd06b999232f616e1d6a
+  languageName: node
+  linkType: hard
+
 "text-extensions@npm:^1.0.0":
   version: 1.9.0
   resolution: "text-extensions@npm:1.9.0"
@@ -4336,6 +4380,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"type-fest@npm:^1.0.1":
+  version: 1.4.0
+  resolution: "type-fest@npm:1.4.0"
+  checksum: 214ce322fc969854349a65a66b891003636ad844de5fd1738e4015e8b71151b8a774121443b1e6dd7792e1bdd9fad1771826244559111c78feb7519f31fa7692
+  languageName: node
+  linkType: hard
+
+"type-fest@npm:^2.12.2":
+  version: 2.19.0
+  resolution: "type-fest@npm:2.19.0"
+  checksum: d63c7c5fd7583cc6d35ccd23e96686eeb1e6f387c83a858625734ea2cf974c6be38bcbc43663da5e10469a1b4119089def1e8def03bf2aee540f0ad4fcd25902
+  languageName: node
+  linkType: hard
+
 "typedarray@npm:^0.0.6":
   version: 0.0.6
   resolution: "typedarray@npm:0.0.6"
@@ -4385,6 +4443,15 @@ __metadata:
   dependencies:
     imurmurhash: "npm:^0.1.4"
   checksum: ae31bb1d8126400e512385ec239b3ca40f6a8790af9d6dedb0842b340b3ecc0a7de413ff270f3ea3dae1565c6f745ab6e28363387cd32ecddbe0fc72ee247303
+  languageName: node
+  linkType: hard
+
+"unique-string@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "unique-string@npm:3.0.0"
+  dependencies:
+    crypto-random-string: "npm:^4.0.0"
+  checksum: 673e9f8d5b119d035e91962e72791e7532b73c789295272cced09d05243099693647170190e62e605524def3cb54cd9eb35d2403108b656f5a088a1f9513c84c
   languageName: node
   linkType: hard
 
