@@ -1,3 +1,24 @@
+{% macro dfn_list(dict) %}
+<dl>
+  {% for key, item in dict %}
+  {% set show = (item is iterable) and item | length > 0%}
+  {% set show = show or item is string and item | replace(from="date#", to='') | trim() != '' %}
+  {% if show %}
+  <dt>
+    <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
+  </dt>
+  {% if (item is iterable) %}
+  {% for i in item %}
+  <dd>{{ self::format_config_item(key=key, item=i) }}</dd>
+  {% endfor %}
+  {% else %}
+  <dd>{{ self::format_config_item(key=key, item=item) }}</dd>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</dl>
+{% endmacro dfn_list %}
+
 {% macro format_config_item(key, item)%}
   {% if (item is string) %}
     {% if (item is starting_with("@/")) %}
@@ -50,6 +71,10 @@
 {% macro get_calendar_link(cal_id, date)%}
 {% set split_date = date | replace(from="-", to="/") | split(pat="/")%}
 {% set cal_url = "https://app.fantasy-calendar.com/calendars/"~cal_id %}
-{% set date_url = cal_url~"?year="~split_date[0]~"&month="~split_date[1]~"&day="~split_date[2]%}
-<a href="{{ date_url }}" target="_blank" rel="noopener, noreferrer">{{ date }}</a>
+{% if split_date | length == 3 %}
+  {% set date_url = cal_url~"?year="~split_date[0]~"&month="~split_date[1]~"&day="~split_date[2]%}
+  <a href="{{ date_url }}" target="_blank" rel="noopener, noreferrer">{{ date }}</a>
+{% else %}
+{{ date }}
+{% endif %}
 {% endmacro %}

@@ -22,24 +22,12 @@
 
   {% set taxa = config.taxonomies %}
   {%if config.extra and config.extra.cha %}
-  <dl>
-    {% for key, item in config.extra.cha %}
-      <dt>
-        <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
-      </dt>
-      {% if (item is iterable)%}
-        {% for i in item %}
-          <dd>{{ utils::format_config_item(key=key, item=i) }}</dd>
-        {% endfor %}
-      {% else %}
-        <dd>{{ utils::format_config_item(key=key, item=item) }}</dd>
-      {% endif %}
-    {% endfor %}
-  </dl>
+    {{ utils::dfn_list(dict=config.extra.cha)}}
   {% endif %}
-  {{ utils::list_taxa(taxon='parents', taxa=taxa, config=config, section='characters') }}
-  {{ utils::list_taxa(taxon='siblings', taxa=taxa, config=config, section='characters') }}
-  {{ utils::list_taxa(taxon='families', taxa=taxa, config=config) }}
   {{ utils::list_taxa(taxon='organizations', taxa=taxa, config=config) }}
   {{ utils::list_taxa(taxon='religions', taxa=taxa, config=config) }}
+  {{ utils::list_taxa(taxon='families', taxa=taxa, config=config) }}
+  {{ utils::list_taxa(taxon='parents', taxa=taxa, config=config, section='characters') }}
+  {{ utils::list_taxa(taxon='siblings', taxa=taxa, config=config, section='characters') }}
+  {{ utils::list_taxa(taxon='children', taxa=taxa, config=config, section='characters') }}
 {% endmacro character %}

@@ -1,20 +1,8 @@
 {% import "macros/utils.html" as utils %}
 {% macro location(name, config) %}
+  <h2>{{ name }}</h2>
   {% if config.extra and config.extra.loc %}
-  <dl>
-    {% for key, item in config.extra.loc %}
-    <dt>
-      <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
-    </dt>
-    {% if (item is iterable)%}
-      {% for i in item %}
-        <dd>{{ utils::format_config_item(key=key, item=i) }}</dd>
-      {% endfor %}
-    {% else %}
-    <dd>{{ utils::format_config_item(key=key, item=item) }}</dd>
-    {% endif %}
-    {% endfor %}
-  </dl>
+    {{ utils::dfn_list(dict=config.extra.loc) }}
   {% endif %}
   {{ utils::list_taxa(taxon="location_type", taxa=config.taxonomies, config=config) }}
 {% endmacro location %}

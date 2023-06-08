@@ -1,24 +1,12 @@
 {% import "macros/utils.html" as utils %}
 
 {% macro event(name, config) %}
+  <h2>{{ name }}</h2>
   {% if config.extra and config.extra.evt %}
-  <dl>
-    {% for key, item in config.extra.evt %}
-    <dt>
-      <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
-    </dt>
-    {% if (item is iterable)%}
-      {% for i in item %}
-        <dd>{{ utils::format_config_item(key=key, item=i) }}</dd>
-      {% endfor %}
-    {% else %}
-      <dd>{{ utils::format_config_item(key=key, item=item) }}</dd>
-    {% endif %}
-    {% endfor %}
-  </dl>
+    {{ utils::dfn_list(dict=config.extra.evt) }}
   {% endif %}
   {% set taxa = config.taxonomies %}
   {{ utils::list_taxa(taxon='primary_characters', taxa=taxa, config=config, section='characters') }}
   {{ utils::list_taxa(taxon='primary_families', taxa=taxa, config=config, section='families') }}
   {{ utils::list_taxa(taxon='primary_organizations', taxa=taxa, config=config, section='organizations') }}
-  {% endmacro event %}
+{% endmacro event %}
