@@ -15,5 +15,7 @@ sex = "Female"
 [taxonomies]
 families = ["Bentayga", "Durant"]
 children = ["Michael Durant","Lyla II Durant"]
+parents = ["Arthur Bentayga","Hannah Bentayga"]
+siblings = ["Eponine Bentayga","Gwendolin Bentayga","Rhodia Bentayga"]
 +++
 

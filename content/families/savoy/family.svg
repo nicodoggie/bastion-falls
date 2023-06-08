@@ -672,11 +672,11 @@
 <!-- Monroe -->
 <g id="node42" class="node">
 <title>Monroe</title>
-<g id="a_node42"><a xlink:title="undefined &#10;&#10;Born 05/29/1149 &#10;&#10;">
+<g id="a_node42"><a xlink:title="undefined &#10;&#10;Born 05/29/1149 &#160;&#45;&#45; died 05/29/1149&#10;&#10;">
 <polygon fill="#36393f" stroke="#ff0000" stroke-width=".25" points="515,-259 335,-259 335,-203 515,-203 515,-259"/>
 <text text-anchor="start" x="401.2742" y="-240.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Monroe</text>
 <text text-anchor="start" x="392.77" y="-226" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Monroe Savoy</text>
-<text text-anchor="start" x="411.9375" y="-212" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1149</text>
+<text text-anchor="start" x="389.7035" y="-212" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1149 — †1232</text>
 </a>
 </g>
 </g>
@@ -688,11 +688,11 @@
 <!-- Nathalie -->
 <g id="node43" class="node">
 <title>Nathalie</title>
-<g id="a_node43"><a xlink:title="undefined &#10;&#10;Born 01/11/1151 &#10;&#10;">
+<g id="a_node43"><a xlink:title="undefined &#10;&#10;Born 01/11/1151 &#160;&#45;&#45; died 01/11/1151&#10;&#10;">
 <polygon fill="#36393f" stroke="#ff0000" stroke-width=".25" points="515,-185 335,-185 335,-129 515,-129 515,-185"/>
 <text text-anchor="start" x="399.3296" y="-166.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Nathalie</text>
 <text text-anchor="start" x="385.829" y="-152" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Nathalie Bouillard</text>
-<text text-anchor="start" x="411.9375" y="-138" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1151</text>
+<text text-anchor="start" x="389.7035" y="-138" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1151 — †1232</text>
 </a>
 </g>
 </g>

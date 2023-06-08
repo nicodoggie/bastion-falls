@@ -2,69 +2,92 @@ families:
   - house: Bentayga
     parents: [Esteve, Berta]
     children: [Emma, Guillem, Jordi, Aina, Matteo]
-  - parents: [Emma, Paulus]
-  - parents: [Guillem, Julia]
-    children: [Johanna, Alais, Eduard, Alba]
-    families: 
-    - house: Savoy
-      parents: [Johanna, Lemuel]
-      children: [Madison, Monroe, Yenna]
-      families:
-        - parents: [Madison, ThessalyJ]
-          children: [Nicanor, Naim]
-        - parents: [Nicanor, Laiya]
-        - house: Savoy-McFarland
-          parents: [Cabot, Yenna]
-          children: [Tedora, ThessalyM]
-          families:
-           - parents: [Tedora, Rogelio]
-             children: [Degare, Dyson, Lyla]
-  - parents: [Alais, Mariona]
-    children: [Marc, Adria]
-  - parents: [Adria, Clarence]
-  - parents: [Marc, Catherine]
-    children: [Corrine, Portencia, Hannah]
     families:
-    - parents: [Portencia, Naim]
-      children: [Percival, Rick, Prudence]
-    - parents: [Percival, Lyla]
-  - parents: [Eduard, Neus]
-    children: [Magnus, Sophitia, Domino]
-  - parents: [Magnus, Colette]
-    children: [Aurica, Nausica, Abelline, Pauline, Selene]
-  - parents: [Selene, Brian]
-    children: [Ian]
-  - parents: [Alba, Parker]
-    children: [Harry, Lauren, Eunice]
-  - parents: [Harry, Elizabeth]
-    children: [Thomas, Elaine, Aaron, Maria]
-    families: 
-    - house: McFarland
-      parents: [Elaine, Talsin]
-      children: [Llora, Brian]
-  - parents: [Jordi, Ona]
-    children: [Naomi, Luda, Corid, Theo]
-  - parents: [Corid, Talia]
-    children: [Morgan, Arthur]
-  - parents: [Arthur, Hannah]
-    children: [Eponine, Gwendolin, Rhodia, Elodie]
-  - parents: [Matteo, Nuria]
-  - parents: [Elodie, Degare]
-    children: [Michael, LylaII]
+      - parents: [Emma, Paulus]
+      - parents: [Guillem, Julia]
+        children: [Johanna, Alais, Eduard, Alba]
+        families:
+        - parents: [Alais, Mariona]
+          children: [Marc, Adria]
+          families:
+          - parents: [Marc, Catherine]
+            children: [Portencia, Corrine, Hannah]
+          - parents: [Adria, Clarence]
+        - parents: [Eduard, Neus]
+          children: [Magnus, Sophitia, Domino]
+          families:
+          - parents: [Magnus, Colette]
+            children: [Aurica, Nausica, Abelline, Pauline, Selene] 
+        - parents: [Alba, Parker]
+          children: [Harry, Lauren, Eunice]
+          families:
+          - parents: [Harry, Elizabeth]
+            children: [Thomas, Elaine, Aaron, Maria]
+      - parents: [Jordi, Ona]
+        children: [Naomi, Luda, Corid, Theo]
+        families:
+        - parents: [Corid, Talia]
+          children: [Morgan, Arthur]
+          families:
+          - parents: [Arthur, Hannah]
+            children: [Eponine, Gwendolin, Rhodia, Elodie]
+      - parents: [Matteo, Nuria]
+  - house: Savoy
+    parents: [Johanna, Lemuel]
+    children: [Madison, Monroe, Yenna]
+    families:
+      - parents: [Madison, Thessaly]
+        children: [Nicanor, Naim]
+      - parents: [Portencia, Naim]
+        children: [Percival, Rick, Prudence]
+      - parents: [Percival, Lyla]
+      - house: Savoy-McFarland
+        parents: [Cabot, Yenna]
+        children: [Tedora, Thessaly MF]
+        families:
+          - parents: [Tedora, Rogelio]
+            children: [Degare, Dyson, Lyla]
+          - parents: [Elodie, Degare]
+            children: [Michael, Lyla II]
+  - house: McFarland
+    parents: [Elaine, Talsin]
+    children: [Llora, Brian]
+    families:
+    - parents: [Selene, Brian]
+      children: [Ian]
+  
 
 people:
   Esteve:
     fullname: Esteve Bentayga
+    born: "1088-11-04"
+    died: "1181-02-14"
+    class: [dead]
   Berta:
     fullname: Berta Costa
+    born: "1082-05-04"
+    died: "1174-05-11"
+    class: [dead]
   Emma:
     fullname: Emma Bentayga
+    born: "1102-01-05"
+    died: "1189-10-07"
+    class: [dead]
   Paulus:
     fullname: Paulus Llorin
+    born: "1122-05-01"
+    died: "1179-04-02"
+    class: [dead]
   Guillem:
     fullname: Guillem Bentayga
+    born: "1106-02-03"
+    died: "1180-12-08"
+    class: [dead]
   Julia:
     fullname: Julia Llach
+    born: "1108-02-30"
+    died: "1183-04-18"
+    class: [dead]
   Johanna:
     fullname: Johanna Bentayga
     born: "1129-03-06"
@@ -80,19 +103,20 @@ people:
     born: "1147-10-19"
     died: "1228-10-19"
     class: [dead]
-  ThessalyJ:
+  Thessaly:
     name: Thessaly J.
     fullname: Thessaly Jordin
     born: "1157-01-01"
     died: "1233-07-08"
     class: [dead]
-  ThessalyM:
+  Thessaly MF:
     name: Thessaly M.
     fullname: Thessaly McFarland
-    class: [dead]
+    born: "1205-03-11"
   Monroe:
     fullname: Monroe Savoy
     born: "1149-05-30"
+    died: "1232-01-12"
     class: [dead]
   Yenna:
     fullname: Yenna Savoy
@@ -106,19 +130,38 @@ people:
     class: [dead]
   Alais:
     fullname: Alais Bentayga
+    born: "1134-08-18"
+    died: "1220-03-01"
+    class: [dead]
   Mariona:
-    fullname: Mariona Pons
+    fullname: Mariona Bouillard
+    born: "1133-01-18"
+    died: "1222-04-12"
+    class: [dead]
   Marc:
     fullname: Marc Bentayga
+    born: "1170-07-01"
+    died: "1230-01-17"
+    class: [dead]
   Catherine:
     fullname: Catherine Grey
+    born: "1172-10-04"
+    died: "1237-04-16"
+    class: [dead]
   Corrine:
     fullname: Corrine Bentayga
+    born: "1195-04-03"
+    died: "1273-02-10"
+    class: [dead]
   Portencia:
     fullname: Portencia Bentayga
     born: "1189-01-03"
     died: "1269-01-30"
     class: [dead]
+  Nicanor:
+    fullname: Nicanor Savoy
+    born: "1178-10-04"
+    class: [unknown]
   Naim:
     fullname: Naim Savoy
     born: "1187-04-24"
@@ -139,8 +182,8 @@ people:
     class: [dead]
   Michael:
     fullname: Michael Durant
-    born: '1259-12-02'
-  LylaII:
+    born: "1259-12-02"
+  Lyla II:
     name: Lyla
     fullname: Lyla II Durant
     born: "1271-08-01"
@@ -167,92 +210,185 @@ people:
     born: "1216-03-21"
   Hannah:
     fullname: Hannah Bentayga
+    born: "1204-03-16"
+    died: "1270-03-01"
+    class: [dead]
   Adria:
     fullname: Adria Bentayga
+    born: "1175-11-22"
+    died: "1262-09-11"
+    class: [dead]
   Clarence:
-    fullname: Clarence Bouillard
+    fullname: Clarence Pons
+    born: "1170-03-12"
+    died: "1252-03-16"
+    class: [dead]
   Eduard:
     fullname: Eduard Bentayga
+    born: "1139-03-20"
+    died: "1228-05-05"
+    class: [dead]
   Neus:
     fullname: Neus Sinclair
+    born: "1177-04-19"
+    died: "1198-06-06"
+    class: [dead]
   Magnus:
     fullname: Magnus Bentayga
+    born: "1190-01-08"
+    died: "1259-10-10"
+    class: [dead]
   Colette:
     fullname: Collete Zuñiga
+    born: "1192-05-30"
+    died: "1258-10-10"
+    class: [dead]
   Aurica:
     fullname: Aurica Bentayga
+    born: "1213-01-02"
+    died: "1213-01-02"
+    class: [dead]
   Nausica:
     fullname: Nausica Bentayga
+    born: "1216-07-12"
   Abelline:
     fullname: Abelline Bentayga
+    born: "1221-04-18"
   Pauline:
     fullname: Pauline Bentayga
+    born: "1223-01-22"
   Selene:
     fullname: Selene Bentayga
+    born: "1225-04-02"
   Domino:
     fullname: Domino Bentayga
+    born: "1198-09-13"
+    died: "1266-06-06"
+    class: [dead]
   Sophitia:
     fullname: Sophitia Bentayga
+    born: "1194-10-03"
+    died: "1270-02-01"
+    class: [dead]
   Alba:
     fullname: Alba Bentayga 
+    born: "1151-09-27"
+    died: "1243-03-25"
+    class: [dead]
   Parker:
     fullname: Parker Peterson
+    born: "1162-02-22"
+    died: "1247-04-16"
+    class: [dead]
   Harry:
     fullname: Harry Bentayga
+    born: "1177-11-12"
+    died: "1242-01-30"
+    class: [dead]
   Elizabeth:
     fullname: Elizabeth Windsor
+    born: "1179-04-16"
+    died: "1255-07-30"
+    class: [dead]
   Thomas:
     fullname: Thomas Bentayga
+    born: "1200-04-14"
+    died: "1251-04-01"
+    class: [dead]
   Maria:
     fullname: Maria Bentayga
+    born: "1204-06-25"
+    died: "1251-04-01"
+    class: [dead]
   Aaron:
     fullname: Aaron Bentayga
-  Elaine:
-    fullname: Elaine Bentayga
+    born: "1202-05-15"
+    died: "1253-05-10"
+    class: [dead]
   Talsin:
     fullname: Talsin McFarland
+    born: "1195-03-21"
+    died: "1261-04-29"
+  Elaine:
+    fullname: Elaine Bentayga
+    born: "1203-05-07"
   Brian:
     fullname: Brian McFarland
+    born: "1223-10-17"
+    died: "1273-02-17"
+    class: [dead]
   Llora:
     fullname: Llora McFarland
+    born: "1227-01-12"
   Ian:
     fullname: Valerian II McFarland
+    born: "1249-10-17"
   Eunice:
     fullname: Eunice Bentayga
+    born: "1190-10-11"
+    died: "1271-01-11"
+    class: [dead]
   Lauren:
     fullname: Lauren Bentayga
-  Nicanor:
-    fullname: Nicanor Savoy
-    born: "1178-10-04"
-    class: [unknown]
-  Laiya:
-    fullname: Laiya Mendoza
-    born: "1190-10-04"
-    class: [unknown]
+    born: "1184-11-18"
+    died: "1271-02-12"
+    class: [dead]
   Jordi:
     fullname: Jordi Bentayga
+    born: "1117-03-04"
+    died: "1196-11-19"
+    class: [dead]
   Ona:
     fullname: Ona Horace
+    born: "1131-10-02"
+    died: "1199-04-17"
+    class: [dead]
   Theo:
     fullname: Theo Bentayga
+    born: "1158-02-12"
+    died: "1232-08-06"
+    class: [dead]
   Corid:
     fullname: Corid Bentayga
+    born: "1156-04-26"
+    died: "1232-02-10"
+    class: [dead]
   Luda:
     fullname: Luda Bentayga
+    born: "1154-07-15"
+    died: "1231-09-24"
+    class: [dead]
   Naomi:
     fullname: Naomi Bentayga
+    born: "1153-02-11"
+    died: "1221-01-24"
+    class: [dead]
   Talia:
     fullname: Talia Winslow
+    born: "1157-05-16"
+    died: "1193-02-11"
+    class: [dead]
   Arthur:
     fullname: Arthur Bentayga
+    born: "1198-08-12"
+    died: "1270-05-13"
+    class: [dead]
   Morgan:
     fullname: Morgan Bentayga
+    born: "1193-02-12"
+    died: "1212-01-03"
+    class: [dead]
   Eponine:
     fullname: Eponine Bentayga
-  Rhodia:
-    fullname: Rhodia Bentayga
+    born: "1220-03-24"
   Gwendolin:
     fullname: Gwendolin Bentayga
+    born: "1223-01-21"
+    died: "1252-03-16"
+    class: [dead]
+  Rhodia:
+    fullname: Rhodia Bentayga
+    born: "1227-02-16"
   Elodie:
     fullname: Elodie Bentayga
     born: "1239-05-07"
@@ -260,15 +396,30 @@ people:
     class: [dead]
   Matteo:
     fullname: Matteo Bentayga
+    born: "1121-03-11"
+    died: "1204-12-12"
+    class: [dead]
   Nuria:
-    fullname: Nurila Guilia
+    fullname: Nuria Guilia
+    born: "1121-01-15"
+    died: "1207-01-1"
+    class: [dead]
   Aina:
     fullname: Aina Bentayga
-  
-  
+    born: "1119-12-22"
+    died: "1191-05-22"
   
 styles:
+  Luda:
+    fullname: Luda Bentayga
+  undead:
+    color: black
+    penwidth: 1
   dead:
     color: red
     penwidth: 0.25
+  unknown:
+    color: gray
+    penwidth: 0.25
+  
 

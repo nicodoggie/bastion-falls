@@ -14,5 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Percival Savoy","Rickard Savoy","Prudence Savoy"]
+parents = ["Marc Bentayga","Catherine Grey"]
+siblings = ["Corrine Bentayga","Hannah Bentayga"]
 +++
 

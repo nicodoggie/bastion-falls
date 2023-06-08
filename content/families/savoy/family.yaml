@@ -77,10 +77,12 @@ people:
   Monroe:
     fullname: Monroe Savoy
     born: "1149-05-30"
+    died: "1232-01-12"
     class: [dead]
   Nathalie:
     fullname: Nathalie Bouillard
     born: "1151-01-12"
+    died: "1232-05-12"
     class: [dead]
   Yenna:
     fullname: Yenna Savoy
@@ -213,7 +215,7 @@ people:
     born: "1250-03-14"
   Michael:
     fullname: Michael Durant
-    born: '1259-12-02'
+    born: "1259-12-02"
   Lyla II:
     name: Lyla
     fullname: Lyla II Durant
