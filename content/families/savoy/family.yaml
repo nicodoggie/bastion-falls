@@ -202,7 +202,6 @@ people:
   Degare:
     fullname: Degare Durant
     born: "1233-10-15"
-
   Elodie:
     fullname: Elodië Bentayga
     born: "1239-05-07"
@@ -215,6 +214,7 @@ people:
     fullname: Michael Durant
     born: '1259-12-02'
   Lyla II:
+    name: Lyla
     fullname: Lyla II Durant
     born: "1271-08-01"
     died: "1273-08-14"
@@ -224,6 +224,7 @@ people:
     born: "1235-06-13"
   Priscilla:
     fullname: Priscilla Blanchette
+    born: "1238-04-04"
   Kimberly:
     fullname: Kimberly McFarland
     born: "1258-12-30"

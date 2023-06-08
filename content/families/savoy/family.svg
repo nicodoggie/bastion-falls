@@ -95,17 +95,18 @@
 <!-- Priscilla -->
 <g id="node3" class="node">
 <title>Priscilla</title>
-<g id="a_node3"><a xlink:title="undefined &#10;&#10;&#10;&#10;">
-<polygon fill="#36393f" stroke="#cccccc" points="1077,-920 897,-920 897,-878 1077,-878 1077,-920"/>
+<g id="a_node3"><a xlink:title="undefined &#10;&#10;Born 04/03/1238 &#10;&#10;">
+<polygon fill="#36393f" stroke="#cccccc" points="1077,-920 897,-920 897,-864 1077,-864 1077,-920"/>
 <text text-anchor="start" x="962.8969" y="-901.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Priscilla</text>
 <text text-anchor="start" x="944.7735" y="-887" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Priscilla Blanchette</text>
+<text text-anchor="start" x="973.9375" y="-873" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1238</text>
 </a>
 </g>
 </g>
 <!-- Priscilla&#45;&gt;union_0_0_0 -->
 <g id="edge2" class="edge">
 <title>Priscilla&#45;&gt;union_0_0_0</title>
-<path fill="none" stroke="#629755" d="M1077.1165,-906C1096.3477,-906 1111,-906 1111,-906 1111,-906 1111,-950.3115 1111,-962.7741"/>
+<path fill="none" stroke="#629755" d="M1077.1165,-882.6667C1096.3477,-882.6667 1111,-882.6667 1111,-882.6667 1111,-882.6667 1111,-947.6132 1111,-962.835"/>
 </g>
 <!-- Kimberly -->
 <g id="node5" class="node">
@@ -121,9 +122,9 @@
 <!-- siblings_0_0_0&#45;&gt;Kimberly -->
 <g id="edge4" class="edge">
 <title>siblings_0_0_0&#45;&gt;Kimberly</title>
-<path fill="none" stroke="#629755" d="M1145,-965.1689C1145,-957.0391 1145,-892 1145,-892 1145,-892 1167.9617,-892 1167.9617,-892"/>
-<polygon fill="#629755" stroke="#629755" points="1175.9616,-882 1175.9618,-902 1171.9618,-902.0001 1171.9616,-882.0001 1175.9616,-882"/>
-<polyline fill="none" stroke="#629755" points="1177.9617,-892 1167.9617,-892.0001 "/>
+<path fill="none" stroke="#629755" d="M1145,-965.2738C1145,-958.1693 1145,-901.3333 1145,-901.3333 1145,-901.3333 1167.9617,-901.3333 1167.9617,-901.3333"/>
+<polygon fill="#629755" stroke="#629755" points="1175.9616,-891.3334 1175.9618,-911.3334 1171.9618,-911.3334 1171.9616,-891.3334 1175.9616,-891.3334"/>
+<polyline fill="none" stroke="#629755" points="1177.9617,-901.3333 1167.9617,-901.3334 "/>
 </g>
 <!-- Gregory -->
 <g id="node6" class="node">
@@ -265,7 +266,7 @@
 <title>Lyla II</title>
 <g id="a_node15"><a xlink:title="undefined &#10;&#10;Born 07/31/1271 &#160;&#45;&#45; died 07/31/1271&#10;&#10;">
 <polygon fill="#36393f" stroke="#ff0000" stroke-width=".25" points="1358,-1323 1178,-1323 1178,-1267 1358,-1267 1358,-1323"/>
-<text text-anchor="start" x="1249.3282" y="-1304.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Lyla II</text>
+<text text-anchor="start" x="1255.1641" y="-1304.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Lyla</text>
 <text text-anchor="start" x="1238.2715" y="-1290" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Lyla II Durant</text>
 <text text-anchor="start" x="1232.7035" y="-1276" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1271 — †1273</text>
 </a>
@@ -323,7 +324,7 @@
 <!-- Rogelio&#45;&gt;union_0_0_2 -->
 <g id="edge15" class="edge">
 <title>Rogelio&#45;&gt;union_0_0_2</title>
-<path fill="none" stroke="#6897bb" d="M796.2644,-770.5C814.3914,-770.5 828,-770.5 828,-770.5 828,-770.5 828,-810.0112 828,-822.3585"/>
+<path fill="none" stroke="#6897bb" d="M796.2644,-768.5C814.3914,-768.5 828,-768.5 828,-768.5 828,-768.5 828,-809.4351 828,-822.2273"/>
 </g>
 <!-- siblings_0_0_2&#45;&gt;Dyson -->
 <g id="edge17" class="edge">
@@ -343,19 +344,19 @@
 <g id="node20" class="node">
 <title>Lyla</title>
 <g id="a_node20"><a xlink:title="undefined &#10;&#10;Born 11/02/1236 &#160;&#45;&#45; died 11/02/1236&#10;&#10;">
-<polygon fill="#36393f" stroke="#ff0000" stroke-width=".25" points="1077,-817 897,-817 897,-761 1077,-761 1077,-817"/>
-<text text-anchor="start" x="974.1641" y="-798.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Lyla</text>
-<text text-anchor="start" x="961.44" y="-784" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Lyla Durant</text>
-<text text-anchor="start" x="951.7035" y="-770" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1236 — †1270</text>
+<polygon fill="#36393f" stroke="#ff0000" stroke-width=".25" points="1077,-813 897,-813 897,-757 1077,-757 1077,-813"/>
+<text text-anchor="start" x="974.1641" y="-794.4" font-family="Helvetica, Arial, sans-serif" font-size="14.00" fill="#ffffff">Lyla</text>
+<text text-anchor="start" x="961.44" y="-780" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">Lyla Durant</text>
+<text text-anchor="start" x="951.7035" y="-766" font-family="Helvetica, Arial, sans-serif" font-size="10.00" fill="#aaaaaa">*1236 — †1270</text>
 </a>
 </g>
 </g>
 <!-- siblings_0_0_2&#45;&gt;Lyla -->
 <g id="edge19" class="edge">
 <title>siblings_0_0_2&#45;&gt;Lyla</title>
-<path fill="none" stroke="#6897bb" d="M867,-825.2051C867,-821.6641 867,-807.5 867,-807.5 867,-807.5 886.9715,-807.5 886.9715,-807.5"/>
-<polygon fill="#6897bb" stroke="#6897bb" points="894.9714,-797.5 894.9716,-817.5 890.9716,-817.5001 890.9714,-797.5001 894.9714,-797.5"/>
-<polyline fill="none" stroke="#6897bb" points="896.9715,-807.5 886.9715,-807.5001 "/>
+<path fill="none" stroke="#6897bb" d="M867,-825.4933C867,-822.3364 867,-805.5 867,-805.5 867,-805.5 886.9715,-805.5 886.9715,-805.5"/>
+<polygon fill="#6897bb" stroke="#6897bb" points="894.9714,-795.5 894.9716,-815.5 890.9716,-815.5001 890.9714,-795.5001 894.9714,-795.5"/>
+<polyline fill="none" stroke="#6897bb" points="896.9715,-805.5 886.9715,-805.5001 "/>
 </g>
 <!-- union_0_1_6 -->
 <g id="node57" class="node">
@@ -365,7 +366,7 @@
 <!-- Lyla&#45;&gt;union_0_1_6 -->
 <g id="edge53" class="edge">
 <title>Lyla&#45;&gt;union_0_1_6</title>
-<path fill="none" stroke="#6897bb" d="M1077.2644,-789C1095.3914,-789 1109,-789 1109,-789 1109,-789 1109,-710.2849 1109,-691.836"/>
+<path fill="none" stroke="#6897bb" d="M1077.2644,-785C1095.3914,-785 1109,-785 1109,-785 1109,-785 1109,-709.4023 1109,-691.6841"/>
 </g>
 <!-- union_0_0 -->
 <g id="node21" class="node">
@@ -814,7 +815,7 @@
 <!-- Rick&#45;&gt;union_0_1_5 -->
 <g id="edge48" class="edge">
 <title>Rick&#45;&gt;union_0_1_5</title>
-<path fill="none" stroke="#cc7832" d="M1077.0383,-611.3333C1095.7943,-611.3333 1110,-611.3333 1110,-611.3333 1110,-611.3333 1110,-579.5583 1110,-568.6357"/>
+<path fill="none" stroke="#cc7832" d="M1077.0383,-592.6667C1095.7943,-592.6667 1110,-592.6667 1110,-592.6667 1110,-592.6667 1110,-576.449 1110,-568.8469"/>
 </g>
 <!-- Gaelle -->
 <g id="node53" class="node">
@@ -864,9 +865,9 @@
 <!-- siblings_0_1_5&#45;&gt;Todd -->
 <g id="edge52" class="edge">
 <title>siblings_0_1_5&#45;&gt;Todd</title>
-<path fill="none" stroke="#cc7832" d="M1147,-565.6839C1147,-569.9443 1147,-592.6667 1147,-592.6667 1147,-592.6667 1167.8465,-592.6667 1167.8465,-592.6667"/>
-<polygon fill="#cc7832" stroke="#cc7832" points="1175.8464,-582.6667 1175.8466,-602.6667 1171.8466,-602.6667 1171.8464,-582.6667 1175.8464,-582.6667"/>
-<polyline fill="none" stroke="#cc7832" points="1177.8465,-592.6667 1167.8465,-592.6668 "/>
+<path fill="none" stroke="#cc7832" d="M1147,-565.5203C1147,-570.6107 1147,-611.3333 1147,-611.3333 1147,-611.3333 1167.8465,-611.3333 1167.8465,-611.3333"/>
+<polygon fill="#cc7832" stroke="#cc7832" points="1175.8464,-601.3334 1175.8466,-621.3334 1171.8466,-621.3334 1171.8464,-601.3334 1175.8464,-601.3334"/>
+<polyline fill="none" stroke="#cc7832" points="1177.8465,-611.3333 1167.8465,-611.3334 "/>
 </g>
 <!-- Percival -->
 <g id="node58" class="node">
