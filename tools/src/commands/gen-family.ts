@@ -32,6 +32,7 @@ generateFamily
           const memberFilename = resolve(contentDir, 'characters', slugify(fullname) + '.md');
 
           let { dir, data } = char.create(fullname);
+          data.extra.kingraph_key = key;
           if (born) {
             data.extra.cha.date_of_birth = `date#${born}`;
           }

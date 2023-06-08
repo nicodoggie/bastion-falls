@@ -7,6 +7,7 @@ export interface CharacterFrontmatter {
   extra: {
     mortality_status?: 'Alive' | 'Dead' | 'Unknown' | 'Undead';
     ddb?: string;
+    kingraph_key?: string;
     cha: {
       [key: string]: any;
       age?: number | '';
