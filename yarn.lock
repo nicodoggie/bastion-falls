@@ -303,7 +303,7 @@ __metadata:
     "@commitlint/cli": "npm:^17.6.3"
     "@commitlint/config-conventional": "npm:^17.6.3"
     "@nicodoggie/bf-repo-tools": "workspace:*"
-    "@nicodoggie/kingraph": "npm:^0.2.0"
+    "@nicodoggie/kingraph": "npm:^0.2.1"
     "@types/nodemon": "npm:^1.19.2"
     concurrently: "npm:^8.0.1"
     js-sha256: "npm:^0.9.0"
@@ -345,9 +345,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@nicodoggie/kingraph@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "@nicodoggie/kingraph@npm:0.2.0"
+"@nicodoggie/kingraph@npm:^0.2.1":
+  version: 0.2.1
+  resolution: "@nicodoggie/kingraph@npm:0.2.1"
   dependencies:
     js-yaml: "npm:3.13.1"
     meow: "npm:3.7.0"
@@ -359,7 +359,7 @@ __metadata:
     viz.js: "npm:^2.1.2"
   bin:
     kingraph: bin/kingraph
-  checksum: bd2720d5977c2258998c4e381254b06983158edd8444748c945643a19c6022b91d1863d9c1609a69f01a414e4de0a6de6ca88fa817ffa8d3f9e56534d4749cbb
+  checksum: 327a1c47485e7a94d6bd35aa78b725f1106cc99df3477a3c2d8506ef2810f06e643d7baf3cc2e16d8c46cb386320ebefc76b6d0a570b0c564a43d8103d90acba
   languageName: node
   linkType: hard
 

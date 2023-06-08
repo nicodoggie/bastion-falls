@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@nicodoggie/bf-repo-tools": "workspace:*",
-    "@nicodoggie/kingraph": "^0.2.0",
+    "@nicodoggie/kingraph": "^0.2.1",
     "@types/nodemon": "^1.19.2",
     "concurrently": "^8.0.1",
     "lefthook": "^1.4.0",
