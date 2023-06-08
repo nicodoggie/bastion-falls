@@ -2,6 +2,7 @@
 title = "Priscilla Blanchette"
 [extra]
 ddb = ""
+kingraph_key = "Priscilla"
 mortality_status = "Alive"
 [extra.cha]
 age = ""

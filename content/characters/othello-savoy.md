@@ -2,6 +2,7 @@
 title = "Othello Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Othello"
 mortality_status = "Dead"
 [extra.cha]
 age = ""

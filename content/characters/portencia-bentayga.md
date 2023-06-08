@@ -2,6 +2,7 @@
 title = "Portencia Bentayga"
 [extra]
 ddb = ""
+kingraph_key = "Portencia"
 mortality_status = "Dead"
 [extra.cha]
 age = ""

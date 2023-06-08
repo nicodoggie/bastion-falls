@@ -2,6 +2,7 @@
 title = "Seraphine Gognon"
 [extra]
 ddb = ""
+kingraph_key = "Sera"
 mortality_status = "Alive"
 [extra.cha]
 age = 24

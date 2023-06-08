@@ -2,6 +2,7 @@
 title = "Tedora McFarland"
 [extra]
 ddb = ""
+kingraph_key = "Tedora"
 mortality_status = "Dead"
 [extra.cha]
 age = ""

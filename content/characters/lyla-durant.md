@@ -2,6 +2,7 @@
 title = "Lyla Savoy née Durant"
 [extra]
 ddb = ""
+kingraph_key = "Lyla"
 mortality_status = "Dead"
 [extra.cha]
 age = 33

@@ -2,6 +2,7 @@
 title = "Michael Durant"
 [extra]
 ddb = ""
+kingraph_key = "Michael"
 mortality_status = "Alive"
 [extra.cha]
 age = 15

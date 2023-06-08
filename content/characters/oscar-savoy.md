@@ -2,9 +2,10 @@
 title = "Oscar Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Oscar"
 mortality_status = "Undead"
 [extra.cha]
-age = "33"
+age = 33
 date_of_birth = "date#1241-06-13"
 date_of_death = "date#1275-08-09"
 married_on = ""

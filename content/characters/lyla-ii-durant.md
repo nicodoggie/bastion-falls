@@ -3,6 +3,7 @@ title = "Lyla II Durant"
 [extra]
 reformat_title = false
 ddb = ""
+kingraph_key = "Lyla II"
 mortality_status = "Dead"
 [extra.cha]
 age = 2

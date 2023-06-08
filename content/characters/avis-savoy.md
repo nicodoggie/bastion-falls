@@ -2,6 +2,7 @@
 title = "Avis Savoy"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/92591440"
+kingraph_key = "Avis"
 mortality_status = "Alive"
 [extra.cha]
 age = 19

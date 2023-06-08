@@ -2,6 +2,7 @@
 title = "Beatrix Farnese"
 [extra]
 ddb = ""
+kingraph_key = "Beatrix"
 mortality_status = "Dead"
 [extra.cha]
 age = ""

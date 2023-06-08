@@ -67,13 +67,24 @@ people:
     fullname: Julia Llach
   Johanna:
     fullname: Johanna Bentayga
+    born: "1129-03-06"
+    died: "1200-01-01"
+    class: [dead]
   Lemuel:
     fullname: Lemuel Savoy
+    born: "1123-06-26"
+    died: "1195-05-01"
+    class: [dead]
   Madison:
     fullname: Madison Savoy
+    born: "1147-10-19"
+    died: "1228-10-19"
+    class: [dead]
   ThessalyJ:
     name: Thessaly J.
     fullname: Thessaly Jordin
+    born: "1157-01-01"
+    died: "1233-07-08"
     class: [dead]
   ThessalyM:
     name: Thessaly M.
@@ -81,10 +92,17 @@ people:
     class: [dead]
   Monroe:
     fullname: Monroe Savoy
+    born: "1149-05-30"
+    class: [dead]
   Yenna:
     fullname: Yenna Savoy
+    born: "1168-08-29"
+    died: "1250-02-04"
+    class: [dead]
   Cabot:
     fullname: Cabot McFarland
+    born: "1166-03-29"
+    died: "1250-02-04"
     class: [dead]
   Alais:
     fullname: Alais Bentayga
@@ -98,34 +116,55 @@ people:
     fullname: Corrine Bentayga
   Portencia:
     fullname: Portencia Bentayga
+    born: "1189-01-03"
+    died: "1269-01-30"
+    class: [dead]
   Naim:
     fullname: Naim Savoy
+    born: "1187-04-24"
+    died: "1267-08-01"
+    class: [dead]
   Prudence:
     fullname: Prudence Savoy
+    born: "1221-03-21"
   Percival:
     fullname: Percival Savoy
+    born: "1212-01-20"
+    died: "1270-04-18"
     class: [dead]
   Lyla:
     fullname: Lyla Durant
+    born: "1236-11-03"
+    died: "1270-04-18"
     class: [dead]
   Michael:
     fullname: Michael Durant
+    born: '1259-12-02'
   LylaII:
     name: Lyla
     fullname: Lyla II Durant
+    born: "1271-08-01"
+    died: "1273-08-14"
     class: [dead]
   Tedora:
     fullname: Tedora McFarland
+    born: "1201-09-01"
+    died: "1275-01-30"
     class: [dead]
   Rogelio:
     fullname: Rogelio Durant
+    born: "1195-08-05"
+    died: "1266-03-03"
     class: [dead]
   Degare:
     fullname: Degare Durant
+    born: "1233-10-15"
   Dyson:
     fullname: Dyson McFarland
+    born: "1235-06-13"
   Rick:
     fullname: Rickard Savoy
+    born: "1216-03-21"
   Hannah:
     fullname: Hannah Bentayga
   Adria:
@@ -184,8 +223,12 @@ people:
     fullname: Lauren Bentayga
   Nicanor:
     fullname: Nicanor Savoy
+    born: "1178-10-04"
+    class: [unknown]
   Laiya:
     fullname: Laiya Mendoza
+    born: "1190-10-04"
+    class: [unknown]
   Jordi:
     fullname: Jordi Bentayga
   Ona:
@@ -212,6 +255,9 @@ people:
     fullname: Gwendolin Bentayga
   Elodie:
     fullname: Elodie Bentayga
+    born: "1239-05-07"
+    died: "1274-04-03"
+    class: [dead]
   Matteo:
     fullname: Matteo Bentayga
   Nuria:

@@ -2,6 +2,7 @@
 title = "Charles Tudor"
 [extra]
 ddb = ""
+kingraph_key = "Charles"
 mortality_status = "Alive"
 [extra.cha]
 age = ""

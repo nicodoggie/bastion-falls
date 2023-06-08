@@ -1,13 +1,22 @@
 +++
 title = "Reginald de Villa"
 [extra]
-cha.age = "63"
-cha.pronouns = "He/Him"
-cha.sex = "Male"
-cha.position = "Ministry Councilperson"
-
+ddb = ""
+kingraph_key = "Reginald"
+mortality_status = "Alive"
+[extra.cha]
+age = ""
+date_of_birth = "date#1212-05-12"
+date_of_death = ""
+married_on = ""
+married_to = ""
+pronouns = "He/Him"
+sex = "Male"
+position = "Ministry Councilperson"
 [taxonomies]
 organizations = ["Port Rainoso Local Government"]
+parents = ["Regidor de Villa","Alicia Molyneaux"]
+siblings = ["Porticia de Villa"]
 +++
 
 Reginald de Villa is an elected Draft Councilor in \[location:97\]. He is a 5th generation resident from the prominent \[race:114\] de Villa clan of merchants.

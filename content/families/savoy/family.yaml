@@ -32,7 +32,7 @@ families:
       - parents: [Tedora, Rogelio]
         children: [Degare, Dyson, Lyla]
       - parents: [Degare, Elodie]
-        parents2: [Sera]
+        parents2: [Degare, Sera]
         children: [Michael, Lyla II]
       - parents: [Dyson, Priscilla]
         children: [Kimberly, Gregory, Yenna MF, Marion]
@@ -134,6 +134,7 @@ people:
     fullname: Oscar Savoy
     born: '1241-06-13'
     died: '1275-08-09'
+    class: [undead]
     links:
       - /characters/oscar-savoy
   Avis:
@@ -227,19 +228,22 @@ people:
     born: "1238-04-04"
   Kimberly:
     fullname: Kimberly McFarland
-    born: "1258-12-30"
+    born: "1260-12-30"
   Gregory:
     fullname: Gregory McFarland
-    born: "1257-09-22"
+    born: "1261-09-22"
   Yenna MF:
     name: Yenna
     fullname: Yenna McFarland
-    born: "1266-02-30"
+    born: "1265-12-19"
   Marion:
     fullname: Marion McFarland
-    born: "1267-01-29"
+    born: "1267-06-16"
 
 styles:
+  undead:
+    color: black
+    penwidth: 1
   dead:
     color: red
     penwidth: 0.25

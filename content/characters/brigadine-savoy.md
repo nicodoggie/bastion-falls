@@ -2,6 +2,7 @@
 title = "Brigadine Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Agnes"
 mortality_status = "Alive"
 [extra.cha]
 age = ""

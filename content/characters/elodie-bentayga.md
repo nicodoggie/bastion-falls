@@ -2,6 +2,7 @@
 title = "Elodië Bentayga"
 [extra]
 ddb = ""
+kingraph_key = "Elodie"
 mortality_status = "Dead"
 [extra.cha]
 age = 36

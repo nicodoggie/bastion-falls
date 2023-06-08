@@ -2,24 +2,26 @@ families:
   - house: Durant
     parents: [Pietro, Susanna]
     children: [Davide, Melchior, Lobelia]
-  - parents: [Davide, Sabine]
-    children: [Turmeric, Estelle]
-  - parents: [Turmeric, Nancy]
-  - parents: [Melchior, Odette]
-    children: [Armaund, Rogelio]
-  - parents: [Armaund, Tamara]
-    children: [Laurent, Adele]
-  - parents: [Rogelio, Tedora]
-    children: [Degare, Dyson, Lyla]
-  - parents: [Degare, Elodie]
-    children: [Michael, Lyla II]
-  - parents2: [Degare, Sera]
-  - parents: [Dyson, Priscilla]
-    children: [Kimberly, Gregory, Yenna MF, Marion]
-  - families:
-    - house: "de Villa"
-      parents: [Lobelia, Elias]
-      children: [Taleisin, Regidor]
+    families:
+    - parents: [Davide, Sabine]
+      children: [Turmeric, Estelle]
+    - parents: [Turmeric, Nancy]
+    - parents: [Melchior, Odette]
+      children: [Armaund, Rogelio]
+    - parents: [Armaund, Tamara]
+      children: [Laurent, Adele]
+    - parents: [Rogelio, Tedora]
+      children: [Degare, Dyson, Lyla]
+    - parents: [Lyla, Percival]
+    - parents: [Degare, Elodie]
+      parents2: [Degare, Sera]
+      children: [Michael, Lyla II]
+    - parents: [Dyson, Priscilla]
+      children: [Kimberly, Gregory, Yenna MF, Marion]
+  - house: "De Villa"
+    parents: [Lobelia, Elias]
+    children: [Taleisin, Regidor]
+    families:
     - parents: [Taleisin, Freja]
       children: [Moulin, Talon]
     - parents: [Regidor, Alicia]
@@ -29,42 +31,87 @@ families:
 people:
   Pietro:
     fullname: Pietro Durant
+    born: "1112-12-11"
+    died: "1202-12-06"
+    class: [dead]
   Susanna:
     fullname: Susanna Marchand
+    born: "1131-01-11"
+    died: "1229-12-18"
+    class: [dead]
   Davide:
     fullname: Davide Durant
+    born: "1157-05-23"
+    died: "1240-11-21"
+    class: [dead]
   Sabine:
     fullname: Sabine Cremaire
-  Melchior:
-    fullname: Melchior Durant
-  Odette:
-    fullname: Odette Rochard
-  Lobelia:
-    fullname: Lobelia Durant
-  Elias:
-    fullname: Elias De Villa
+    born: "1166-01-23"
+    died: "1251-10-01"
+    class: [dead]
   Turmeric:
     fullname: Turmeric Durant
+    born: "1187-05-30"
+    died: "1266-01-23"
+    class: [dead]
   Nancy:
     fullname: Nancy Kincade
+    born: "1187-12-30"
+    died: "1266-01-23"
+    class: [dead]
   Estelle:
     fullname: Estelle Durant
+    born: "1190-05-30"
+    died: "1266-01-23"
+    class: [dead]
+  Melchior:
+    fullname: Melchior Durant
+    born: "1161-10-05"
+    died: "1234-02-14"
+    class: [dead]
+  Odette:
+    fullname: Odette Rochard
+    born: "1167-07-25"
+    died: "1233-11-21"
+    class: [dead]
+  Lobelia:
+    fullname: Lobelia Durant
+    born: "1164-05-05"
+    died: "1254-12-11"
+    class: [dead]
+  Elias:
+    fullname: Elias De Villa
+    born: "1176-11-05"
+    died: "1253-04-04"
+    class: [dead]
+
   Armaund:
     fullname: Armaund Durant
-  Laurent:
-    fullname: Laurent Durant
-  Adele:
-    fullname: Adele Durant
+    born: "1192-01-15"
+    died: "1268-09-02"
+    class: [dead]
   Tamara:
     fullname: Tamara Coleman
+    born: "1203-08-12"
+  Laurent:
+    fullname: Laurent Durant
+    born: "1225-07-11"
+  Adele:
+    fullname: Adele Durant
+    born: "1227-02-12"
   Tedora:
     fullname: Tedora McFarland
+    born: "1201-09-01"
+    died: "1275-01-30"
     class: [dead]
   Rogelio:
     fullname: Rogelio Durant
+    born: "1195-08-05"
+    died: "1266-03-03"
     class: [dead]
   Degare:
     fullname: Degare Durant
+    born: "1233-10-15"
   Elodie:
     fullname: Elodië Bentayga
     born: "1239-05-07"
@@ -72,40 +119,77 @@ people:
     class: [dead]
   Sera:
     fullname: Seraphine Gognon
+    born: "1250-03-14"
   Michael:
     fullname: Michael Durant
+    born: '1259-12-02'
   Lyla II:
+    name: Lyla
     fullname: Lyla II Durant
+    born: "1271-08-01"
+    died: "1273-08-14"
+    class: [dead]
   Dyson:
     fullname: Dyson McFarland
+    born: "1235-06-13"
   Priscilla:
     fullname: Priscilla Blanchette
+    born: "1238-04-04"
   Kimberly:
     fullname: Kimberly McFarland
+    age: 15
+    born: "1260-12-30"
   Gregory:
     fullname: Gregory McFarland
+    age: 14
+    born: "1261-09-22"
   Yenna MF:
     name: Yenna
+    age: 9
     fullname: Yenna McFarland
+    born: '1265-12-19'
   Marion:
     fullname: Marion McFarland
+    age: 8
+    born: '1267-06-16'
+  Lyla:
+    fullname: Lyla Durant
+    born: "1236-11-03"
+    died: "1270-04-18"
+    class: [dead]
+  Percival:
+    fullname: Percival Savoy
+    born: "1212-01-20"
+    died: "1270-04-18"
+    class: [dead]
   Taleisin:
     fullname: Taleisin de Villa
+    born: "1180-01-24"
+    died: "1255-11-10"
+    class: [dead]
   Freja:
     fullname: Freja Fitzwilliam
+    born: "1200-12-30"
   Regidor:
     fullname: Regidor de Villa
+    born: "1188-04-27"
+    died: "1244-01-11"
+    class: [dead]
   Alicia:
     fullname: Alicia Molyneaux
+    born: "1190-05-10"
   Reginald:
     fullname: Reginald de Villa
+    born: "1212-05-12"
   Porticia:
     fullname: Porticia de Villa
+    born: "1219-10-10"
   Moulin:
     fullname: Moulin de Villa
+    born: "1218-08-07"
   Talon:
     fullname: Talon de Villa
-
+    born: "1222-09-16"
   
 styles:
   dead:

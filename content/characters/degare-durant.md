@@ -2,6 +2,7 @@
 title = "Degare Durant"
 [extra]
 ddb = ""
+kingraph_key = "Degare"
 mortality_status = "Alive"
 [extra.cha]
 age = ""

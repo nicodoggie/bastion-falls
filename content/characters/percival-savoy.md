@@ -2,6 +2,7 @@
 title = "Percival Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Percival"
 mortality_status = "Dead"
 [extra.cha]
 age = 63

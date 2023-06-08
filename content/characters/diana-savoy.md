@@ -2,6 +2,7 @@
 title = "Diana Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Diana"
 mortality_status = "Dead"
 [extra.cha]
 age = ""

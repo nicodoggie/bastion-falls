@@ -2,6 +2,7 @@
 title = "Prudence Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Prudence"
 mortality_status = "Alive"
 [extra.cha]
 age = ""

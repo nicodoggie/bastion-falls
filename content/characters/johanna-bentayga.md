@@ -2,6 +2,7 @@
 title = "Johanna Bentayga"
 [extra]
 ddb = ""
+kingraph_key = "Johanna"
 mortality_status = "Dead"
 [extra.cha]
 age = ""

@@ -2,6 +2,7 @@
 title = "Oliver Savoy"
 [extra]
 ddb = ""
+kingraph_key = "Oliver"
 mortality_status = "Alive"
 [extra.cha]
 age = 36

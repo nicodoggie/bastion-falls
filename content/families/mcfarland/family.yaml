@@ -81,6 +81,7 @@ people:
     class: [dead]
   Degare:
     fullname: Degare Durant
+    born: "1233-10-15"
   Elodie:
     fullname: Elodië Bentayga
     born: "1239-05-07"
@@ -88,26 +89,39 @@ people:
     class: [dead]
   Sera:
     fullname: Seraphine Gognon
+    born: "1250-03-14"
   Michael:
     fullname: Michael Durant
-    born: 1259-12-02
-    links:
-      - https://bastion-falls.thekennel.info/characters/michael-durant
+    born: '1259-12-02'
   Lyla II:
+    name: Lyla
     fullname: Lyla II Durant
+    born: "1271-08-01"
+    died: "1273-08-14"
+    class: [dead]
   Dyson:
     fullname: Dyson McFarland
+    born: "1235-06-13"
   Priscilla:
     fullname: Priscilla Blanchette
+    born: "1238-04-04"
   Kimberly:
     fullname: Kimberly McFarland
+    age: 15
+    born: "1259-10-05"
   Gregory:
     fullname: Gregory McFarland
+    age: 14
+    born: "1261-05-24"
   Yenna MF:
     name: Yenna
+    age: 9
     fullname: Yenna McFarland
+    born: '1265-12-19'
   Marion:
     fullname: Marion McFarland
+    age: 8
+    born: '1267-06-16'
   Farrah:
     fullname: Farrah McFarland
   Malcolm:

@@ -2,6 +2,7 @@
 title = "Cabot McFarland"
 [extra]
 ddb = ""
+kingraph_key = "Cabot"
 mortality_status = "Dead"
 [extra.cha]
 age = ""
