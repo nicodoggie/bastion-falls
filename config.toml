@@ -6,8 +6,6 @@ generate_feed = true
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
-theme = "zola_easydocs_theme"
-
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
@@ -61,6 +59,7 @@ taxonomies = "safe"
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+highlight_theme = "base16-ocean-light"
 
 [link_checker]
 internal_level = "warn"
@@ -75,6 +74,8 @@ include_content = true
 
 [extra]
 # Put all your custom variables here
+favicon = "https://www.getzola.org/favicon.ico"
+easydocs_logo_always_clickable = false
 easydocs_heading_threshold = 3
 logo = "/orb-of-bastion.png"
 repo = "https://github.com/nicodoggie/bastion-falls"
