@@ -14,6 +14,8 @@ sex = "Male"
 [taxonomies]
 organizations = ["Bouillard"]
 families = ["Savoy"]
+parents = ["Otto Savoy","Beatrix Farnese"]
+siblings = ["Oscar Savoy","Avis Savoy"]
 +++
 
 

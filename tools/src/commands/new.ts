@@ -18,7 +18,7 @@ const newFile = new Command('new');
 newFile
   .argument('<type>')
   .argument('<title>')
-  .option('-o, --outDir <outDir>', "target output directory", "content")
+  .option('-o, --out-dir <outDir>', "target output directory", "content")
   .action(async (type: string, title: string, options: any) => {
     let slug = slugify(title);
     let entity = `../entities/${type}.js`;

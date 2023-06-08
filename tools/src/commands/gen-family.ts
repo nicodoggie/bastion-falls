@@ -77,19 +77,27 @@ generateFamily
             data.taxonomies.children = childrenNames ?? [];
           }
 
-          const newContent = matter.stringify(
-            "",
-            data,
-            frontmatter.options
-          );
-
           if (!(await existsSync(memberFilename))) {
             console.log(`Generating ${fullname} into ${memberFilename}...`);
+            const newContent = matter.stringify(
+              "",
+              data,
+              frontmatter.options
+            );
             await writeFile(memberFilename, newContent);
           } else {
-            if (sha256(newContent) != sha256(readFileSync(memberFilename))) {
+            const currentFileContents = readFileSync(memberFilename);
+            const { content } = await frontmatter.read(memberFilename);
+            const newContent = matter.stringify(
+              content,
+              data,
+              frontmatter.options
+            );
+
+            if (sha256(newContent) != sha256(currentFileContents)) {
               temporaryFileTask(tempFile => {
                 console.log(`${memberFilename} exists. Generating ${fullname} into ${tempFile} and melding...`);
+
                 writeFileSync(tempFile, newContent);
 
                 const spawned = spawnSync(`/usr/bin/meld`, ['--diff', tempFile, memberFilename]);
