@@ -67,7 +67,7 @@
       </div>
       
       <div id="calendar-header">
-        {{ macros::calendar(size='xs')}}
+        {{ macros::calendar(size='s')}}
       </div>
       
       {% if config.extra.release -%}
@@ -193,7 +193,7 @@
   
         {% if config.build_search_index -%}
         <div id="on_right">
-          <span id="search-ico" class="ms-Icon--Search"></span>
+          <span id="search-ico" class="ms-Icon--Search" role="button"></span>
         </div>
         <div class="search-container">
           <input id="search" type="search" placeholder="Search as you type...">

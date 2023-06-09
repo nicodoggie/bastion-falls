@@ -54,8 +54,17 @@
 }
 
 #search-ico {
+  background: none;
+  border: none;
+  color: $color;
+  
   font-family: 'FabricMDL2Icons';
   cursor: pointer;
   font-size: $baseline;
   line-height: 1;
+  
+  &:active {
+    border: none;
+    text-decoration: none;
+  }
 }
