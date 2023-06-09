@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import slugify from "../lib/slugify.js";
 import { writeFileSync } from "fs";
 import path from "path";
+import GenericEntity, { Entity, Frontmatter } from "../entities/generic-entity.js";
 
 const entityMap = {
   org: "organizations",
@@ -11,7 +12,6 @@ const entityMap = {
   fam: 'families',
   cha: 'characters',
   evt: 'events',
-  eth: 'ethnicities',
 } as { [key: string]: string }
 
 const newFile = new Command('new');
@@ -21,16 +21,24 @@ newFile
   .option('-o, --out-dir <outDir>', "target output directory", "content")
   .action(async (type: string, title: string, options: any) => {
     let slug = slugify(title);
-    let entity = `../entities/${type}.js`;
+    let module = `../entities/${type}.js`;
+
     if (type in entityMap) {
-      entity = `../entities/${entityMap[type]}.js`;
+      module = `../entities/${entityMap[type]}.js`;
     }
-    const mod = await import(entity);
-    const { dir, data } = mod.create(title);
 
-    const content = matter.stringify("", data, frontmatter.options);
+    let entity;
+    try {
+      const importedEntity = (await import(module)).default;
+      entity = new importedEntity(title);
+    } catch (e) {
+      entity = new GenericEntity<Frontmatter>(title, type);
+    }
 
-    writeFileSync(path.resolve(process.cwd(), options.outDir, dir, slug + ".md"), content);
+    const content = matter.stringify("", entity, frontmatter.options);
+    const target = path.resolve(process.cwd(), options.outDir, entity.dir, slug + ".md")
+
+    writeFileSync(target, content);
   });
 
 export default newFile;

@@ -1,14 +1,14 @@
 import { Command } from "commander";
-import { writeFile, readFile, rm, stat } from "fs/promises";
+import { writeFile, readFile, } from "fs/promises";
 import * as frontmatter from "../lib/frontmatter.js";
 import Bluebird from "bluebird";
 import matter from "gray-matter";
-import { existsSync, readFileSync, statSync, writeFileSync } from "fs";
+import { existsSync, readFileSync, writeFileSync } from "fs";
 import { resolve } from "path";
 import * as YAML from "js-yaml";
 import { FamilyTree, searchChildren, searchParents, searchSiblings, searchSpouse } from "../types/family-tree.js";
 import slugify from "../lib/slugify.js";
-import * as char from "../entities/characters.js";
+import char from "../entities/characters.js";
 import { spawnSync } from "child_process";
 import { temporaryFileTask } from "tempy";
 import { sha256 } from "js-sha256";
@@ -33,7 +33,8 @@ generateFamily
         if (fullname) {
           const memberFilename = resolve(contentDir, 'characters', slugify(fullname) + '.md');
 
-          let { dir, data } = char.create(fullname);
+          const data = char.create(fullname);
+
           data.extra.kingraph_key = key;
           if (born) {
             data.extra.cha.date_of_birth = `date#${born}`;

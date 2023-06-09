@@ -1,61 +1,57 @@
-import knex from "../lib/knex.js";
+import { Knex } from "knex";
 import slugify from "../lib/slugify.js";
+import GenericEntity, { Entity, Frontmatter, ReturnMigratedEntity } from "./generic-entity.js";
 
-export type OrganizationFrontmatter = {
+type OrgExtra = {
+  [key: string]: any;
+  org: {
+    date_established?: string;
+    date_dissolved?: string;
+  }
+};
+
+type OrgTaxonomies = {
+  organization_id?: string[];
+  leaders?: string[];
+  organization_type?: string[];
+};
+
+export interface OrganizationFrontmatter extends Frontmatter {
   title: string;
   slug?: string;
-  extra: {
-    org: {
-      date_established?: string;
-      date_dissolved?: string;
-    }
-  };
-  taxonomies: {
-    organization_id?: string[];
-    leaders?: string[];
-    organization_type?: string[];
-  };
+  extra: OrgExtra;
+  taxonomies: OrgTaxonomies;
 }
+export default class Organization extends GenericEntity<OrganizationFrontmatter> implements OrganizationFrontmatter {
+  extra: OrgExtra;
+  taxonomies: OrgTaxonomies;
 
-export function create(title: string) {
-  const slug = slugify(title);
-
-  return {
-    dir: 'organizations',
-    data: <OrganizationFrontmatter>{
-      title,
-      extra: {
-        org: {}
-      },
-      taxonomies: {
-        leaders: [],
-        organization_type: [],
-      },
-    }
+  constructor(title: string) {
+    super(title, "organizations");
+    this.extra = { org: {} };
+    this.taxonomies = {};
   }
-}
 
-export default async (targetDir: string) => {
+  async migrate(knex: Knex<any, any[]>): Promise<ReturnMigratedEntity<OrganizationFrontmatter>[]> {
+    const orgs = await knex('organisations')
+      .select('*');
 
-  const orgs = await knex('organisations')
-    .select('*');
+    return orgs.map((org): ReturnMigratedEntity<OrganizationFrontmatter> => {
+      const frontmatter = <OrganizationFrontmatter>{
+        title: org.name,
+        slug: slugify(org.name),
+        extra: {},
+        taxonomies: {
+          organization_id: [org.id.toString()],
+        }
+      };
 
-  return orgs.map((org) => {
-    const frontmatter = <OrganizationFrontmatter>{
-      title: org.name,
-      slug: slugify(org.name),
-      taxonomies: {
-        organization_id: [org.id.toString()],
+      if (org.type) {
+        frontmatter.taxonomies['organization_type'] = [org.type];
       }
-    };
 
-    if (org.type) {
-      frontmatter.taxonomies['organization_type'] = [org.type];
-    }
-
-    return {
-      frontmatter,
-      html: org.entry ?? ''
-    };
-  })
+      const html: string = org.entry ?? '';
+      return { frontmatter, html }
+    })
+  }
 }

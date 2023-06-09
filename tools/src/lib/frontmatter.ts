@@ -12,6 +12,11 @@ export const options = {
         return TOML.parse(data)
       },
       stringify: (data: any) => {
+        delete data._directory;
+
+        if (data.slug === undefined) {
+          delete data.slug;
+        }
         return json2toml(data);
       }
     }

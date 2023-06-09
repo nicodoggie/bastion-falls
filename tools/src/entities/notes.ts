@@ -1,55 +1,52 @@
+import { Knex } from "knex";
 import knex from "../lib/knex.js";
 import slugify from "../lib/slugify.js";
+import GenericEntity, { Frontmatter, ReturnMigratedEntity } from "./generic-entity.js";
 
-export type NoteFrontmatter = {
+type NoteExtra = {
+  note: {
+    date?: string;
+    ingame_date?: string;
+  }
+};
+
+export interface NoteFrontmatter extends Frontmatter {
   title: string;
   slug?: string;
-  extra: {
-    note: {
-      date?: string;
-      ingame_date?: string;
-    }
-  };
+  extra: NoteExtra;
   taxonomies: {
-    type?: ["note"]
+    note_type?: string[]
     note_id?: string[];
   }
 
 }
 
-export function create(title: string) {
-  const slug = slugify(title);
+export default class Note extends GenericEntity<NoteFrontmatter> implements NoteFrontmatter {
+  extra: NoteExtra;
 
-  return {
-    dir: 'misc',
-    data: <NoteFrontmatter>{
-      title,
-      extra: {
-        note: {
-          date: '',
-          ingame_date: '',
-        }
-      },
-      taxonomies: {
-        type: ["note"],
-      },
+  constructor(title: string) {
+    super(title, 'notes');
+    this.extra = {
+      note: {
+        date: '',
+        ingame_date: ''
+      }
     }
   }
-}
+  async migrate(knex: Knex<any, any[]>): Promise<ReturnMigratedEntity<NoteFrontmatter>[]> {
+    const notes = await knex('notes')
+      .select('*');
 
-export default async () => {
-  const notes = await knex('notes')
-    .select('*');
+    return notes.map((note) => {
+      const frontmatter = <NoteFrontmatter>{
+        title: note.name,
+        slug: slugify(note.name),
+      };
 
-  return notes.map((note) => {
-    const frontmatter = <NoteFrontmatter>{
-      title: note.name,
-      slug: slugify(note.name),
-    };
-
-    return {
-      frontmatter,
-      html: note.entry ?? ''
-    };
-  })
+      return {
+        frontmatter,
+        html: note.entry ?? ''
+      };
+    })
+  }
 }
