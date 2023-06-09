@@ -13,7 +13,7 @@ married_to = "Lyla Durant"
 pronouns = ""
 sex = ""
 [taxonomies]
-families = ["Savoy", "Bentayga"]
+families = ["Savoy"]
 organizations = ["Bouillard", "Savoy Patrol Group"]
 parents = ["Naim Savoy", "Portencia Bentayga"]
 siblings = ["Rickard Savoy", "Prudence Savoy"]

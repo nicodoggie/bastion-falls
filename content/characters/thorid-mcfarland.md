@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Jacob McFarland","Delilah McFarland","Malcolm McFarland","Farrah McFarland"]
+families = ["McFarland"]
 parents = ["Thessaly McFarland","Juliette Sinclair"]
 siblings = ["Emilia McFarland"]
 +++

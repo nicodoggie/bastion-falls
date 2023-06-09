@@ -16,5 +16,6 @@ sex = ""
 children = ["Degare Durant","Dyson McFarland","Lyla Durant"]
 parents = ["Cabot McFarland","Yenna Savoy"]
 siblings = ["Thessaly McFarland"]
+families = ["Savoy", "McFarland"]
 +++
 

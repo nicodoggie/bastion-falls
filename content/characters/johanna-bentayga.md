@@ -16,5 +16,6 @@ sex = ""
 children = ["Madison Savoy","Monroe Savoy","Yenna Savoy"]
 parents = ["Guillem Bentayga","Julia Llach"]
 siblings = ["Alais Bentayga","Eduard Bentayga","Alba Bentayga"]
+families = ["Savoy", "Bentayga"]
 +++
 

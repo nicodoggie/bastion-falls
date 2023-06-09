@@ -9,7 +9,7 @@ date_of_birth = ""
 date_of_death = ""
 married_on = ""
 married_to = ""
-pronouns = ""
-sex = ""
+pronouns = "She/Her, They/Them"
+sex = "Non-Binary"
 +++
 

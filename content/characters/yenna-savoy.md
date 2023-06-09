@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Tedora McFarland","Thessaly McFarland"]
+families = ["Savoy", "Bentayga"]
 parents = ["Lemuel Savoy","Johanna Bentayga"]
 siblings = ["Madison Savoy","Monroe Savoy"]
 +++

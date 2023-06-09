@@ -13,6 +13,7 @@ married_to = ""
 pronouns = ""
 sex = ""
 [taxonomies]
+families = ["Durant"]
 parents = ["Armaund Durant","Tamara Coleman"]
 siblings = ["Laurent Durant"]
 +++

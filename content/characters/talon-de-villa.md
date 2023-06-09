@@ -13,6 +13,7 @@ married_to = ""
 pronouns = ""
 sex = ""
 [taxonomies]
+families = ["De Villa"]
 parents = ["Taleisin de Villa","Freja Fitzwilliam"]
 siblings = ["Moulin de Villa"]
 +++

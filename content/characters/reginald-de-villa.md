@@ -14,6 +14,7 @@ pronouns = "He/Him"
 sex = "Male"
 position = "Ministry Councilperson"
 [taxonomies]
+families = ["De Villa"]
 organizations = ["Port Rainoso Local Government"]
 parents = ["Regidor de Villa","Alicia Molyneaux"]
 siblings = ["Porticia de Villa"]

@@ -13,6 +13,7 @@ married_to = ""
 pronouns = "She/Her"
 sex = "Female"
 [taxonomies]
+families = ["Savoy"]
 parents = ["Otto Savoy","Beatrix Farnese"]
 siblings = ["Oliver Savoy","Oscar Savoy"]
 +++

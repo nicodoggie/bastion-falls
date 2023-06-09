@@ -13,6 +13,7 @@ married_to = ""
 pronouns = ""
 sex = ""
 [taxonomies]
+families = ["Durant"]
 parents = ["Regidor de Villa","Alicia Molyneaux"]
 siblings = ["Reginald de Villa"]
 +++

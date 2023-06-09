@@ -13,6 +13,7 @@ married_to = ""
 pronouns = ""
 sex = ""
 [taxonomies]
+families = ["Bentayga"]
 parents = ["Magnus Bentayga","Collete Zuñiga"]
 siblings = ["Aurica Bentayga","Nausica Bentayga","Pauline Bentayga","Selene Bentayga"]
 +++

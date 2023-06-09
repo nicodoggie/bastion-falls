@@ -20,10 +20,11 @@ export interface CharacterFrontmatter {
     }
   };
   taxonomies: {
+    families?: string[];
     parents?: string[];
     children?: string[];
     siblings?: string[];
-    organization_type?: string[];
+    organizations?: string[];
   };
 }
 

@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Valerian II McFarland"]
+families = ["Bentayga", "McFarland"]
 parents = ["Magnus Bentayga","Collete Zuñiga"]
 siblings = ["Aurica Bentayga","Nausica Bentayga","Abelline Bentayga","Pauline Bentayga"]
 +++

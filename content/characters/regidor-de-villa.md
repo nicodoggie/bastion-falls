@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Reginald de Villa","Porticia de Villa"]
+families = ["Durant"]
 parents = ["Lobelia Durant","Elias De Villa"]
 siblings = ["Taleisin de Villa"]
 +++

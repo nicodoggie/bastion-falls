@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Valerian II McFarland"]
+families = ["McFarland"]
 parents = ["Talsin McFarland","Elaine Bentayga"]
 siblings = ["Llora McFarland"]
 +++

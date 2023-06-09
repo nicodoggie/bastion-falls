@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Portencia Bentayga","Corrine Bentayga","Hannah Bentayga"]
+families = ["Bentayga"]
 parents = ["Alais Bentayga","Mariona Bouillard"]
 siblings = ["Adria Bentayga"]
 +++

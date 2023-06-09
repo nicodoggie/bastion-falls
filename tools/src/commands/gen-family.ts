@@ -46,6 +46,12 @@ generateFamily
           } else {
             data.extra.mortality_status = 'Alive';
           }
+          data.taxonomies.families = [family.split(' ').map(i => {
+            let word = i.toLowerCase();
+            word = word.charAt(0).toUpperCase() + word.substring(1);
+            console.log(word);
+            return word
+          }).join(' ')];
 
           const spouse = searchSpouse(tree, key);
           if (spouse) {

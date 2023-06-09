@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Oliver Savoy","Oscar Savoy","Avis Savoy"]
+families = ["Savoy"]
 parents = ["Othello Savoy","Mathilda Delacour"]
 siblings = ["Leonila Savoy"]
 +++

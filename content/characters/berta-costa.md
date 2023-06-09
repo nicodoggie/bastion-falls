@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Emma Bentayga","Guillem Bentayga","Jordi Bentayga","Aina Bentayga","Matteo Bentayga"]
+families = ["Bentayga"]
 +++
 

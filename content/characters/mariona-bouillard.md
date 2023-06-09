@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Marc Bentayga","Adria Bentayga"]
+families = ["Bouillard", "Bentayga"]
 +++
 

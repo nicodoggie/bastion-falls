@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Thomas Bentayga","Elaine Bentayga","Aaron Bentayga","Maria Bentayga"]
+families = ["Bentayga"]
 parents = ["Alba Bentayga","Parker Peterson"]
 siblings = ["Lauren Bentayga","Eunice Bentayga"]
 +++

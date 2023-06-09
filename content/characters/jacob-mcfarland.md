@@ -13,6 +13,7 @@ married_to = ""
 pronouns = ""
 sex = ""
 [taxonomies]
+families = ["McFarland"]
 parents = ["Thorid McFarland","Llora McFarland"]
 siblings = ["Delilah McFarland","Malcolm McFarland","Farrah McFarland"]
 +++

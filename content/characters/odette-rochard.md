@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Armaund Durant","Rogelio Durant"]
+families = ["Durant"]
 +++
 

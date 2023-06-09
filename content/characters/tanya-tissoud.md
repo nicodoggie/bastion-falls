@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Marcus Savoy","Liam Savoy"]
+families = ["Savoy"]
 +++
 

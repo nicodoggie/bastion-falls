@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Avila Paolo"]
+families = ["Savoy"]
 +++
 

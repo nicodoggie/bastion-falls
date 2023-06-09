@@ -14,5 +14,6 @@ pronouns = "She/Her"
 sex = "Female"
 [taxonomies]
 children = ["Oliver Savoy","Oscar Savoy","Avis Savoy"]
+families = ["Savoy"]
 +++
 

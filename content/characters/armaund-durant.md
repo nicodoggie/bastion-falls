@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Laurent Durant","Adele Durant"]
+families = ["Durant"]
 parents = ["Melchior Durant","Odette Rochard"]
 siblings = ["Rogelio Durant"]
 +++

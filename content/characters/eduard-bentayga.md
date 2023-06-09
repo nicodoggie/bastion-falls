@@ -14,6 +14,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Magnus Bentayga","Sophitia Bentayga","Domino Bentayga"]
+families = ["Bentayga"]
 parents = ["Guillem Bentayga","Julia Llach"]
 siblings = ["Johanna Bentayga","Alais Bentayga","Alba Bentayga"]
 +++

@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Aurica Bentayga","Nausica Bentayga","Abelline Bentayga","Pauline Bentayga","Selene Bentayga"]
+families = ["Bentayga"]
 +++
 

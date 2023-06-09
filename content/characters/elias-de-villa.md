@@ -14,5 +14,6 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = ["Taleisin de Villa","Regidor de Villa"]
+families = ["Durant"]
 +++
 
