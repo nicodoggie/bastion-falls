@@ -3,9 +3,14 @@ title = "Hedwig Rosa Rosenkrantz"
 
 [extra]
 ddb = "https://www.dndbeyond.com/characters/57319903"
-cha.age = 21
-cha.date_of_birth = "date#1254-08-05"
-cha.sex = "Female"
+[extra.image]
+url = "/characters/hedwig-rosenkrantz.jpg"
+attribution = "Poker Girl by Chen Wang (望周知) on ArtStation"
+attribution_url = "https://www.artstation.com/chen-w"
+[extra.cha]
+age = 21
+date_of_birth = "date#1254-08-05"
+sex = "Female"
 
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]

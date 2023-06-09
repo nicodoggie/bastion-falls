@@ -118,6 +118,7 @@ pre:hover .copy-code-button {
 
 #navbox {
   position: sticky;
+  margin: 0 0 0 calc(#{$baseline} * 2);
   nav {
     top: $baseline;
     left: $baseline;
@@ -311,7 +312,8 @@ nav label {
 article {
   width: calc(100% - (#{$baseline} * 4 + 20rem));
   margin-left:calc(#{$baseline} * 2);
-
+  margin-right:calc(#{$baseline} * 2);
+  text-align: justify;
   img {
     max-width: 100%;
   }

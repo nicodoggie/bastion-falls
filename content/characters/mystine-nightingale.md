@@ -2,6 +2,10 @@
 title = "Mystine Nightingale"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/62556022"
+[extra.image]
+url = "/characters/mystine-nightingale.jpg"
+attribution = "kanmay (柑梅茶) on Pixiv"
+attribution_url = "https://www.pixiv.net/en/users/1693176"
 [extra.cha]
 aliases = ["Sex-Starved Dr. Marina Visconti"]
 age = "25"

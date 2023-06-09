@@ -2,6 +2,10 @@
 title = "Narmaya"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/60442617"
+[extra.image]
+url = "/characters/narmaya.jpg"
+attribution = "FKEY on Pixiv"
+attribution_url = "https://www.pixiv.net/en/users/1197484"
 [extra.cha]
 age = 412
 pronouns = "She/Her"

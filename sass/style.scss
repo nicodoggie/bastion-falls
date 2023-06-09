@@ -1,7 +1,4 @@
 @import "variables";
-article {
-  margin-right: 10rem;
-}
 
 blockquote {
   display: flow-root;
@@ -151,7 +148,7 @@ table.taxonomy-list {
   }
 
   width: 17rem;
-  margin: $baseline $baseline 0 $baseline;
+  margin: $baseline 0 $baseline calc(#{$baseline} * 2);
   padding: 1rem 3rem 1rem 3rem;
   font-size: 15px;
   background-color: $bgSidebar;
