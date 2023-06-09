@@ -1,7 +1,8 @@
 +++
 title = "Anda Antorra"
-[extra]
-image = "/characters/anda-antorra.png"
+[extra.image]
+url = "/characters/anda-antorra.png"
+attribution = "Created with VRRoid"
 [extra.cha]
 positions = [
   { "Peacekeepers of Tressemer" = "Captain" },

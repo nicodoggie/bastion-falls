@@ -11,3 +11,5 @@ It is theorized that Vampirism is actually a variation of a *Warlock Pact*, sinc
 # Forms
 
 A vampire would have the ability to change their form to suit their needs. Usually, a non-threatening form that would allow them to walk among regular folk without causing concern, and one *Dreaded Form*, in which they grow wings, their fangs grow much larger than usual, and their body's muscles exaggerate.
+
+Certain vampires have more than one *non-threatening form*. [Narmaya](@/characters/narmaya.md), is known to be able to transform from her original 12 year-old body, to a more young adult *idealized form*, aside from her *dreaded form*.

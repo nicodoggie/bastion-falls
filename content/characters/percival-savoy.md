@@ -25,6 +25,6 @@ Percival Savoy was once the leader of the {{ fam(name="Savoy" )}} family's {{ or
 Percival was the mastermind of the [Savoy Coup d'etat](@/events/savoy-coup.md) against
 the leadership of the Savoy family and the [Bouillard](@/families/bouillard.md) 
 organization. He ordered a shipment of illicit drugs from [Mehicania](@/locations/mehicania.md)
-to be sent to [Senera](@/locations/senera.md), then tipped off the [Port Tressemer](@/locations/port-tressemer.md) law-enforcement authority, the [Peacekeepers](@/organizations/peacekeepers.md), that Bouillard ships were bringing in drugs. The Peacekeepers found the drugs, then
+to be sent to [Senera](@/locations/senera.md), then tipped off the [Port Tressemer](@/locations/port-tressemer.md) law-enforcement authority, the [Peacekeepers](@/organizations/peacekeepers-of-tressemer.md), that Bouillard ships were bringing in drugs. The Peacekeepers found the drugs, then
 filed a case against the Bouillard Organization, and [Nicollete Bouillard](@/characters/nicolette-bouillard.md) herself.
 {% end %}
