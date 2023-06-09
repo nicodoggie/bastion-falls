@@ -1,10 +1,10 @@
 +++
-title = "Sensodyne"
+title = "Proserfina Prunus Subhirtella"
 [extra]
-ddb = "https://www.dndbeyond.com/characters/69991613"
+ddb = "https://www.dndbeyond.com/characters/89313259"
 mortality_status = "Alive"
 [extra.cha]
-aliases = ["Marshall of the Pits"]
+aliases = ["Fina"]
 age = ""
 date_of_birth = ""
 date_of_death = ""

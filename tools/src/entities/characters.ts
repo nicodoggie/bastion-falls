@@ -42,7 +42,7 @@ export function create(title: string): { dir: string, data: CharacterFrontmatter
           married_to: '',
           married_on: '',
         },
-        mortality_status: undefined,
+        mortality_status: 'Alive',
         ddb: '',
       },
       taxonomies: {}

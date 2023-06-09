@@ -1,10 +1,12 @@
 +++
 title = "Minfilia Diaz"
 [extra]
-cha.aliases = ["Minstrel"]
-cha.age = "16"
-cha.pronouns = "She/Her"
-cha.sex = "Female"
+ddb = "https://www.dndbeyond.com/characters/64414312"
+[extra.cha]
+aliases = ["Minstrel"]
+age = "16"
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden"]
 +++

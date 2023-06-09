@@ -1,11 +1,12 @@
 +++
-title = "Inez Lanessiana Cicero"
+title = "Ines Lanessiana Cicero"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/70863362"
-cha.age = "23"
-cha.aliases = ["characters/lavinia"]
-cha.pronouns = "She/Her"
-cha.sex = "Female"
+[extra.cha]
+aliases = ["Lavinia"]
+age = "23"
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 organizations = ["Bouillard", "The Hunting Lodge", "Nightshift Nurses"]
 +++

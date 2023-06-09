@@ -1,11 +1,10 @@
 +++
 title = "Anton Lightning"
-[extra]
-cha.age = 21
-cha.pronouns = "He/Him"
-cha.sex = "Male"
+ddb = "https://www.dndbeyond.com/characters/63707992"
+[extra.cha]
+age = 21
+pronouns = "He/Him"
+sex = "Male"
 [taxonomies]
 organizations = ["La Camaraderie", "Rozenmaiden"]
 +++
-
-

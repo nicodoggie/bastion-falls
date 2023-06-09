@@ -22,6 +22,8 @@ families:
       - parents: [Otto, Beatrix]
         children: [Oliver, Oscar]
         children2: [Avis]
+      - parents: [Oliver, Tanya]
+        children: [Marcus, Liam]
       - parents: [Leonila, Charles]
         children: [Swan]
       
@@ -132,6 +134,15 @@ people:
     fullname: Oliver Savoy
     links:
       - /characters/oliver-savoy
+  Tanya:
+    fullname: "Tanya Tissoud"
+    born: "1242-09-04"
+  Marcus:
+    fullname: "Marcus Savoy"
+    born: "1257-07-01"
+  Liam:
+    fullname: "Liam Savoy"
+    born: "1260-03-03"
   Oscar:
     fullname: Oscar Savoy
     born: '1241-06-13'

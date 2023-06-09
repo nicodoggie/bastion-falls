@@ -1,10 +1,9 @@
 +++
-title = "Sensodyne"
+title = "Poplar of Vigorous-Spring"
 [extra]
-ddb = "https://www.dndbeyond.com/characters/69991613"
+ddb = "https://www.dndbeyond.com/characters/94819426"
 mortality_status = "Alive"
 [extra.cha]
-aliases = ["Marshall of the Pits"]
 age = ""
 date_of_birth = ""
 date_of_death = ""

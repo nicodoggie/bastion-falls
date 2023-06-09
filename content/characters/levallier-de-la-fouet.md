@@ -1,10 +1,12 @@
 +++
 title = "Levallier de la Fouet"
 [extra]
-cha.age = "58"
-cha.pronouns = "He/Him"
-cha.sex = "Male"
-cha.date_of_birth = 'date#1217-11-17'
+ddb = "https://www.dndbeyond.com/characters/65189054"
+[extra.cha]
+age = "58"
+pronouns = "He/Him"
+sex = "Male"
+date_of_birth = 'date#1217-11-17'
 [taxonomies]
 families = ["De la Fouet"]
 organizations = ["Orthodox Church of the Divine Masochist"]

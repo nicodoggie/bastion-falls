@@ -1,7 +1,7 @@
 +++
 title = "Oliver Savoy"
 [extra]
-ddb = ""
+ddb = "https://www.dndbeyond.com/characters/88205557"
 kingraph_key = "Oliver"
 mortality_status = "Alive"
 [extra.cha]

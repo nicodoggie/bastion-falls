@@ -1,9 +1,11 @@
 +++
 title = "Narmaya"
 [extra]
-cha.age = 401
-cha.pronouns = "She/Her"
-cha.sex = "Female"
+ddb = "https://www.dndbeyond.com/characters/60442617"
+[extra.cha]
+age = 401
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 organizations = ["Rozenmaiden"]
 +++

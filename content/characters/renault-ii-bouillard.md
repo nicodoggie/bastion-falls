@@ -1,8 +1,11 @@
 +++
 title = "Renault II Bouillard"
-cha.age = "31"
-cha.pronouns = "He/Him"
-cha.sex = "Male"
+[extra]
+ddb = "https://www.dndbeyond.com/characters/89313259"
+[extra.cha]
+age = "31"
+pronouns = "He/Him"
+sex = "Male"
 [taxonomies]
 organizations = ["Bouillard"]
 families = ["Bouillard"]

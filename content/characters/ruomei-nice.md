@@ -1,11 +1,10 @@
 +++
-title = "Sensodyne"
+title = "Ruomei Nice"
 [extra]
-ddb = "https://www.dndbeyond.com/characters/69991613"
+ddb = "https://www.dndbeyond.com/characters/87999772"
 mortality_status = "Alive"
 [extra.cha]
-aliases = ["Marshall of the Pits"]
-age = ""
+age = "18"
 date_of_birth = ""
 date_of_death = ""
 married_on = ""

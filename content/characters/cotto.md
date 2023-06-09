@@ -1,9 +1,11 @@
 +++
 title = "Cotto"
 [extra]
-cha.age = "24"
-cha.pronouns = "He/Him"
-cha.sex = "Male"
+ddb = "https://www.dndbeyond.com/characters/61017558"
+[extra.cha]
+age = "24"
+pronouns = "He/Him"
+sex = "Male"
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden","Ministry of the Occult"]
 +++

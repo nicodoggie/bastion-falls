@@ -1,9 +1,11 @@
 +++
 title = "Jean-Paul de la Fouet"
 [extra]
-cha.age = "38"
-cha.pronouns = "He/Him"
-cha.sex = "Male"
+ddb = "https://www.dndbeyond.com/characters/65184316"
+[extra.cha]
+age = "38"
+pronouns = "He/Him"
+sex = "Male"
 
 [taxonomies]
 families = ["De la Fouet"]

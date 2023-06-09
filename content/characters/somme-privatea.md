@@ -1,9 +1,11 @@
 +++
 title = "Somme Privatea"
 [extra]
-cha.age = "27"
-cha.pronouns = "He/Him"
-cha.sex = "Male"
+ddb = "https://www.dndbeyond.com/characters/60488216"
+[extra.cha]
+age = "27"
+pronouns = "He/Him"
+sex = "Male"
 
 [taxonomies]
 organizations = ["La Camaraderie", "Rozenmaiden"]

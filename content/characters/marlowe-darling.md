@@ -1,10 +1,9 @@
 +++
-title = "Sensodyne"
+title = "Marlowe Darling"
 [extra]
-ddb = "https://www.dndbeyond.com/characters/69991613"
+ddb = "https://www.dndbeyond.com/characters/84515697"
 mortality_status = "Alive"
 [extra.cha]
-aliases = ["Marshall of the Pits"]
 age = ""
 date_of_birth = ""
 date_of_death = ""

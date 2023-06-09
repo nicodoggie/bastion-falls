@@ -1,10 +1,12 @@
 +++
 title = "Mystine Nightingale"
 [extra]
-cha.aliases = ["Sex-Starved Dr. Marina Visconti"]
-cha.age = "25"
-cha.pronouns = "She/Her"
-cha.sex = "Female"
+ddb = "https://www.dndbeyond.com/characters/62556022"
+[extra.cha]
+aliases = ["Sex-Starved Dr. Marina Visconti"]
+age = "25"
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 organizations = ["Nightshift Nurses"]
 +++

@@ -1,11 +1,11 @@
 +++
-title = "Sensodyne"
+title = "Hans Köhler"
 [extra]
-ddb = "https://www.dndbeyond.com/characters/69991613"
+ddb = "https://www.dndbeyond.com/characters/88409693"
 mortality_status = "Alive"
 [extra.cha]
-aliases = ["Marshall of the Pits"]
-age = ""
+aliases = ["Zurich"]
+age = "36"
 date_of_birth = ""
 date_of_death = ""
 married_on = ""

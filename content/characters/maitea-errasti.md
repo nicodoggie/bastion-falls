@@ -1,9 +1,11 @@
 +++
 title = "Maitea Errasti"
 [extra]
-cha.age = 14
-cha.pronouns = "She/Her"
-cha.sex = "Female"
+ddb = "https://www.dndbeyond.com/characters/87947297"
+[extra.cha]
+age = 14
+pronouns = "She/Her"
+sex = "Female"
 [taxonomies]
 families = ["Errasti"]
 organizations = ["Rozenmaiden"]
