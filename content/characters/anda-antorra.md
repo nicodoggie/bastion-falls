@@ -2,8 +2,9 @@
 title = "Anda Antorra"
 [extra]
 image = "/characters/anda-antorra.png"
-cha.organizations = [
-  { organization = "@/organizations/peacekeepers-of-tressemer.md", rank = "Captain" },
+[extra.cha]
+positions = [
+  { "Peacekeepers of Tressemer" = "Captain" },
 ]
 [taxonomies]
 organizations = ["Peacekeepers of Tressemer"]

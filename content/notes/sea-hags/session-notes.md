@@ -39,4 +39,4 @@ Wanted the Memento Box because it contained a Phylactery.
 
 The Resurrectionist the Lost Book of Dr Spencer Black  
 
-  Brltta Brielle
+  Britta Brielle
