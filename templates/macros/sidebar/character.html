@@ -2,11 +2,6 @@
 
 {% macro character(name, config) %}
   {# Character portraits#}
-  {% if config.extra and config.extra.image %}
-  <div class="sidebar-character-portrait">
-    <img src="{{ config.extra.image }}" />
-  </div>
-  {% endif %}
 
   {# Set mortality icon #}
   {% set mortality = 'Alive' %}
@@ -14,7 +9,7 @@
   {% set mortality = config.extra.mortality_status | title %}
   {% endif %}
   <h2 class="mortality-{{ mortality | lower }}" title="{{ mortality }}">
-    <a target="_blank" rel="noopener,noreferrer" href="{% if config.extra.ddb %}{{ config.extra.ddb | safe }}{% endif %}">
+    <a target="_blank" rel="noopener" href="{% if config.extra.ddb %}{{ config.extra.ddb | safe }}{% endif %}">
       {{ name }}
     </a>
   </h2>

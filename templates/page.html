@@ -30,6 +30,7 @@
   {% endif %}
   {% if class != "" %}
   <aside class="sidebar {{ class }}">
+    {{ utils::sidebar_portrait(config=page) }}
     {% if page.path is starting_with("/character") %}
       {{ macros::sidebar_character(name=page.title, config=page) }}
     {% endif %}

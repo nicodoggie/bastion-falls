@@ -78,3 +78,26 @@
 {{ date }}
 {% endif %}
 {% endmacro %}
+
+{% macro sidebar_portrait(config) %}
+  {% if config.extra and config.extra.image %}
+  {% set image = config.extra.image %}
+  <div class="sidebar-portrait">
+    {% set processed = image %}
+    {% if image.attribution_url %}
+    <div class="attribution-link">
+      {% if not (image.url is starting_with("http")) %}
+      {% set processed = resize_image(path=image.url, width=350, op="fit_width", format="webp") %}
+      {% endif %}
+      <a rel="external noopener" target="_blank" href="{{ image.attribution_url }}"><i
+          class="fa-solid fa-arrow-up-right-from-square"></i></a>
+    </div>
+    {% endif %}
+    {% set attribution = "Unknown, please raise an issue in the github for attibution or removal." %}
+    {% if image.attribution %}
+    {% set attribution = image.attribution %}
+    {% endif %}
+    <img src="{{ processed.url }}" title="Attribution: {{ attribution }}" />
+  </div>
+  {% endif %}
+{% endmacro  %}

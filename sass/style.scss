@@ -359,3 +359,22 @@ table.taxonomy-list {
     animation-fill-mode: both;
   }
 }
+.sidebar-portrait {
+  position: relative;
+
+  .attribution-link {
+    z-index: 2;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    line-height: 1;
+    padding: 5px;
+    background: $bgLevel2;
+    opacity: 50%;
+    border-radius: 5px;
+
+    &:hover {
+      opacity: 100%;
+    }
+  }
+}
