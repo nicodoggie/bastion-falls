@@ -1,8 +1,10 @@
 +++
 title = "Yayoi Nice"
 [extra]
-ddb = ""  
+ddb = "https://www.dndbeyond.com/characters/87999428"
 mortality_status = "Alive"
+[extra.image]
+url = "/characters/yayoi-nice.jpg"
 [extra.cha]
 age = ""
 date_of_birth = ""

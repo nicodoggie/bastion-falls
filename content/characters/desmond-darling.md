@@ -3,6 +3,8 @@ title = "Desmond Darling"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/84515274"
 mortality_status = "Alive"
+[extra.image]
+url = "/characters/desmond-darling.png"
 [extra.cha]
 age = ""
 date_of_birth = ""

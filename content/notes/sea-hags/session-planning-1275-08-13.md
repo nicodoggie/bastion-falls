@@ -9,9 +9,14 @@ ingame_date = "1275-08-13"
 
 # Who is the Savoy "Rat"
 
+Leaning towards Rick Savoy right now. The accounts were to throw off the scent from himself.
+He was working with Alejandro Machado, until right before he died. These are for the same reasons as Percival. He was able to keep himself clean tho, as he worked in the background. However he could have been the one to redirect some of the guards from the Bouillard Residence before the actual siege.
+
+
+
 # What was Otto Savoy protecting? What did the Deathengel want?
 
-Avis?
+Avis. At the time especially, the Reformists were making their presence known. He was to keep away from them, but Avis' presence needed some inspection
 
 # If Avis was the reason why Otto died, why then did the Deathengel not try to take Avis?
 

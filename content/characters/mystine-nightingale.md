@@ -4,7 +4,7 @@ title = "Mystine Nightingale"
 ddb = "https://www.dndbeyond.com/characters/62556022"
 [extra.image]
 url = "/characters/mystine-nightingale.jpg"
-attribution = "kanmay (柑梅茶) on Pixiv"
+attribution = "Gaia (FFXIV), by kanmay (柑梅茶) on Pixiv"
 attribution_url = "https://www.pixiv.net/en/users/1693176"
 [extra.cha]
 aliases = ["Sex-Starved Dr. Marina Visconti"]
