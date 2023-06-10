@@ -1,7 +1,7 @@
 +++
 title = "Game Notes"
 draft = true
-sort_by = "weight"
+sort_by = "title"
 weight = 1000
 +++
 

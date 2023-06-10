@@ -15,18 +15,18 @@ sex = "Female"
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]
 families = ["Rosenkrantz", "Guildenstern"]
-parents = ["Bain Rosenkrantz", "Karen Rosenkrantz"]
+parents = ["Bain Rosenkrantz", "Karen Guildenstern"]
 religions = ["Orthodox Divine Masochist"]
 +++
 # Introduction
 
-Hedwig is the only daughter of Bain and Karen Rosenkrantz, a noble family of landowners in Sacily, Nura, Her mother Karen (nee; Guildenstern) came from a family of dramatists, folklorists and entertainers who travel the world to experience different cultures and turn them into ballads, opera and plays. When Hedwig turns ten she is told that she is a miracle. Her parents believed they were blessed to have a child so late in their life after trying for so many years.
+*Hedwig* is the only daughter of [Bain](@/characters/bain-rosenkrantz.md) and [Karen](@/characters/karen-guildenstern.md) Rosenkrantz, a noble family of landowners in [Sacily, Nura](@/locations/salicy.md), Her mother Karen (née [Guildenstern](@/families/guildenstern.md)) came from a family of dramatists, folklorists and entertainers who travel the world to experience different cultures and turn them into ballads, opera and plays. When Hedwig turns ten she is told that she is a miracle. Her parents believed they were blessed to have a child so late in their life after trying for so many years.
 
 Hedwig experienced the best the world had to offer from an early age, introduction and exposure to high society was a part of her life. She was raised as a lady to expect a certain sort of respect from others.
 
 ## Stolen Child
 
-Even with all the love and affection she received from her family, Hedwig still feels incomplete. Yearning for something she doesn’t understand, she starts searching for her true origins. She believed she was bought when she was an infant, but no records of such deed have been found. Hedwig paid a person who introduced himself as the “Blue Fluffy Unicorn” to investigate the “Miracle” her parents always talked about. B.F.U. told her that her parents made a deal with a Hag and Hedwig is the result of such arrangement. 
+Even with all the love and affection she received from her family, Hedwig still feels incomplete. Yearning for something she doesn’t understand, she starts searching for her true origins. She believed she was bought when she was an infant, but no records of such deed have been found. Hedwig paid a person who introduced himself as the *[Blue Fluffy Unicorn](@/characters/blue-fluffy-unicorn.md)* to investigate the “Miracle” her parents always talked about. B.F.U. told her that her parents made a deal with a Hag and Hedwig is the result of such arrangement. 
 
 Hedwig spent years studying about occultism to learn more about Hags. She once again asked for the help of B.F.U. to search the location where her parents made the deal. B.F.U. gave her a lead, an island where smugglers and pirates frequent, a haven for illegal activities. Hedwig packed her things, told her parents she is going to a small expedition, disguises herself as a commoner and applied for a job on a ship, B.F.U. told her that is leaving for the island.
 

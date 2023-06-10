@@ -3,6 +3,10 @@ title = "Emily Hazeline"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/84515274"
 mortality_status = "Alive"
+[extra.image]
+url = "/characters/emily-hazeldine.jpg"
+attribution = "Linca from Atelier Ayesha, by Artist Hidari, Gust Co Ltd ©コーエーテクモゲームス"
+attribution_url = "https://twitter.com/lleftt"
 [extra.cha]
 aliases = ["Leodmila"]
 age = ""

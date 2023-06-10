@@ -19,7 +19,7 @@ Born Paulina Guildenstern, was one of the most famous Apgarian theater performer
 the [Garatonian Aubergine Landgrab](@/events/garatonian-aubergine-landgrab.md), her membership was revoked.
 
 She continued to remain popular despite the issues, as the popularity of the realistic depictions of the world that the naturalist movement portrayed in their productions.
-She moved to [Sanery](@/locations/sanery.md) in part to avoid the Guildensterns, and in part to be closer to friend and collaborator [Helene Nise](@/charaters/helene-nise.md).
+She moved to [Sanery](@/locations/sanery.md) in part to avoid the Guildensterns, and in part to be closer to friend and collaborator [Helene Nice](@/charaters/helene-nice.md).
 
 # Leader of the Free Theater
 During a tour of [Mayonne](@/locations/mayonne.md), she met [Andrei Delarde](@/characters/andrei-delarde.md). who was drawn to her natural charisma. He was entranced by
