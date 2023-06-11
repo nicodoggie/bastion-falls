@@ -29,6 +29,4 @@ Pratt was always fascinated with magic, and was always on the lookout for means 
 Occasionally, one of the members of their so-called [Society of Mundane Magic](@/organizations/society-of-mundane-magic.md), or the *SMM* for short, would present some folk tale, or snake oil that would bestow magical abilities. As long as there would be no ill effects to any of their members health, they would partake in various rituals, or consume or otherwise manipulate various sundries that would supposedly give them magic powers. They did not have any illusions that any of these would work, but they did it anyway for both fun, and as a means to fulfill the requirements for such an officially-sanctioned on-campus society.
 
 One day though, one of the members have introduced a small subset of the group to a spellcaster named [Carmen Saint-Pierre](@/characters/carmen-saint-pierre.md). Though she was a caster, she was not a member of the [Apgarian Military](@/organizations/apgarian-military.md), which does mandate a forced conscription of magic users in the country. 
-
-Carmen would introduce Quinn and a handful of others from the SMM to the [Reformed Church of the Divine Masochist](@/religions/divine-masochism/reformist/_index.md). 
 {% end %}

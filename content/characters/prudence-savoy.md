@@ -5,7 +5,7 @@ ddb = ""
 kingraph_key = "Prudence"
 mortality_status = "Alive"
 [extra.cha]
-age = ""
+age = "54"
 date_of_birth = "date#1221-03-21"
 date_of_death = ""
 married_on = ""

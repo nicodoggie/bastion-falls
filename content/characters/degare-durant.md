@@ -5,7 +5,7 @@ ddb = ""
 kingraph_key = "Degare"
 mortality_status = "Alive"
 [extra.cha]
-age = ""
+age = d442
 date_of_birth = "date#1233-10-15"
 date_of_death = ""
 married_on = ""
