@@ -12,7 +12,7 @@ commitContent
     const url = new URL("https://bastion-falls.thekennel.info");
     const { stdout } = spawnSync('git', ['diff', '--name-status', '-r', 'HEAD']);
     const changes = stdout.toString().split("\n").map(change => {
-      const match = change.match(/^(\w)\s+(content\/.+)/);
+      const match = change.match(/^(\w)\s+(content\/.+\.md)$/);
       if (match?.length === 3) {
         const [, typeItem, path] = match;
 
@@ -41,7 +41,9 @@ commitContent
       for (const value of values) {
         const { path } = value ?? {};
         if (path) {
-          url.pathname = path.replace('content', '');
+          const pathname = path.replace('content', '').replace(/((_?index)?\.md$)/, '');
+          console.log(pathname)
+          url.pathname = pathname;
           const { data } = await frontmatter.read(path);
 
           fileContent += ` - [${data.title}](${url.toString()})\n`
