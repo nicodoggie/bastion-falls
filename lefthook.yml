@@ -1,3 +1,7 @@
+prepare-commit-msg:
+  commands:
+    content-diff:
+      run: bf commit-content
 commit-msg:
   commands:
     commitlint:
