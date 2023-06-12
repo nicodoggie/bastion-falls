@@ -76,7 +76,7 @@ index_format = "elasticlunr_javascript"
 
 [extra]
 # Put all your custom variables here
-favicon = "https://www.getzola.org/favicon.ico"
+favicon = "/favicon.png"
 easydocs_logo_always_clickable = false
 easydocs_heading_threshold = 3
 logo = "/orb-of-bastion.png"
