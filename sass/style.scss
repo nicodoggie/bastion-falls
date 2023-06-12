@@ -375,3 +375,14 @@ table.taxonomy-list {
     }
   }
 }
+#search-box {
+  display: none;
+}
+
+#search-box+label.search-box-label+.gcse-search-container {
+  display: none;
+}
+
+#search-box:checked+label.search-box-label+.gcse-search-container {
+  display: block;
+}

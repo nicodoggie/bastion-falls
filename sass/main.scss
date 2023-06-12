@@ -335,10 +335,11 @@ article {
   #navbox {
     position: inherit;
     height: auto;
+    margin: 0;
   }
 
   nav {
-    margin: $baseline $baseline 0 $baseline;
+    margin: $baseline 0 $baseline $baseline;
   }
 
   article {
