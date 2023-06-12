@@ -225,13 +225,8 @@ table.taxonomy-list {
   list-style-type: none;
   margin-left: $baseline;
   font-size: 1.0rem;
-
-  &::before {
-    font: var(--fa-font-solid) !important;
-    font-size: 0.75rem !important;
-    content: "\f0c1  " !important;
-  }
 }
+
 .sidebar-section {
   .subtree {
     overflow: hidden;

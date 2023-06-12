@@ -291,17 +291,17 @@ nav label {
   list-style-type: none;
   margin-left: $baseline;
 
-
   a {
     color: $color;
   }
+}
 
+.subtree li a:hover {
   &::before {
-    content: "\E7C3";
-    font-family: 'FabricMDL2Icons';
-    font-size: 0.75rem;
+    font: var(--fa-font-solid) !important;
+    font-size: 0.75rem !important;
+    content: "\f0c1  " !important;
   }
-
 }
 
 .active a {
@@ -333,13 +333,13 @@ article {
   }
 
   #navbox {
+    margin: 0;
     position: inherit;
     height: auto;
-    margin: 0;
   }
 
   nav {
-    margin: $baseline 0 $baseline $baseline;
+    margin: $baseline $baseline 0 $baseline;
   }
 
   article {
