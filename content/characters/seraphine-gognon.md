@@ -26,9 +26,10 @@ there being servants around to do the same.
 
 Her marriage to Durant caused quite a stir. Aside from the fact that Durant's ex-wife [Elodië Durant née Bentayga](@/characters/elodie-bentayga.md) died a less than a month prior, but also due to the fact the the [Durant family](@/families/durant/index.md) was once staunchly anti-Masochist, and the [Gognons](@/families/gognon/index.md) were one of the most devout in Estrega. However, Degare's branch who inter-married with the [Iutlandish](@/locations/iutland.md) [McFarlands](@/families/mcfarland/index.md) were not as aggressive in their stance as those of the main one from [Sanery](@/locations/sanery.md).
 
+# Early Age
+
+She always had a voice inside her head from a young age, telling her what to do and what might be good or bad. This had caused her to be such a reserved individual. The voice always mentioned that she was no prophet, but instead a guardian. She would be destined to protect a person from not just death, but also from pain and hurt, and she would know when that would happen.
+
 # Charity
 She and the wives and husbands of prominent Rainoso politicians run a monthly charitable event on the second friday of each month. The specific charity differs from month-to-month, rotating from a list of pre-approved charities. She favors those charities, whose aims are to bring some semblance of joy to others, aside from simply helping with the immediate needs.
 
-{% spoilers() %}
-She always had a voice inside her head from a young age, telling her what to do and what might be good or bad. This had caused her to be such a reserved individual. The voice always mentioned that she was no prophet, but instead a guardian. She would be destined to protect a person from not just death, but also from pain and hurt, and she would know when that would happen.
-{% end %}

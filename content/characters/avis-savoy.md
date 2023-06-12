@@ -20,6 +20,11 @@ siblings = ["Oliver Savoy","Oscar Savoy"]
 
 *Avis Savoy* is the adopted daughter of [Otto Savoy](@/characters/otto-savoy.md) and [Beatrix Farnese](@/characters/beatrix-farnese.md), and youngest sister to [Oliver Savoy](@/characters/oliver-savoy.md) and [Oscar Savoy](@/characters/oscar-savoy.md). She was left at the doorstep of the [Savoy Patriarchal Residence](@/locations/savoy-patriarchal-residence.md) by an unknown individual. The Savoys took her in and raised her as their own.
 
+# Early Age
+
+# Transformation into a Celestial
+
+# Move to Tressemer
 
 {% spoilers() %}
 Notes:
