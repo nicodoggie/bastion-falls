@@ -296,11 +296,11 @@ nav label {
   }
 }
 
-.subtree li a:hover {
-  &::before {
+.subtree li:hover a {
+  &::after {
     font: var(--fa-font-solid) !important;
     font-size: 0.75rem !important;
-    content: "\f0c1  " !important;
+    content: "  \f0c1" !important;
   }
 }
 

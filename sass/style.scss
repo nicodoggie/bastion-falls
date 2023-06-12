@@ -252,7 +252,6 @@ table.taxonomy-list {
     margin-right: 8px;
   }
 
-
   .tree-toggle {
     position: absolute;
     opacity: 0;
@@ -289,12 +288,6 @@ table.taxonomy-list {
     list-style-type: none;
     margin-left: $baseline;
     font-size: 1.2rem;
-
-    &::before {
-      font: var(--fa-font-solid) !important;
-        font-size: 0.75rem !important;
-        content: "\f0c1 ";
-    }
   }
 }
 .spoiler {
