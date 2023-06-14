@@ -79,6 +79,34 @@ img {
 }
 
 #wrap {
+  #taxonomy-nav {
+      thead tr {
+        background: $table-bg-head;
+      }
+  
+      tbody {
+        td {
+          width: 75%;
+          text-align: left;
+  
+          li {
+            display: inline-block;
+  
+            &::before {
+              content: "● ";
+            }
+          }
+  
+          &:nth-child(1) {
+            background: $bgLevel2;
+            text-align: center;
+            width: 10%;
+          }
+        }
+  
+      }
+  
+    }
   table {
     border-collapse: collapse;
     width: 100%;
@@ -91,7 +119,8 @@ img {
 
     th {
       background-color: $table-bg-head;
-        color: $color;
+      color: $color;
+      text-align: center;
     }
 
     tr:nth-child(even) {

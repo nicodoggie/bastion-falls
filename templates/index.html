@@ -5,9 +5,11 @@
 
 <head>
   <meta charset="UTF-8">
+  <link rel="preconnect" href="https://kit.fontawesome.com" />
+  <link rel="dns-prefetch" href="https://kit.fontawesome.com" />
   <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
   <link rel="stylesheet" href="{{ get_url(path='main.css') | safe }}">
-  <script src="https://kit.fontawesome.com/b161e13895.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/b161e13895.js" crossorigin="anonymous" defer></script>
   {% if config.extra.favicon -%}
   {% set _favicon = config.extra.favicon -%}
   {% if (_favicon is starting_with("http")) == false -%}

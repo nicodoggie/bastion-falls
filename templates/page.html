@@ -74,4 +74,39 @@
   {% include "shortcodes/callout.html" %}
   {% endif %}
   {{ page.content | safe }}
+  {% block taxonomies %}
+  {% if page.taxonomies %}
+  
+  <table id="taxonomy-nav" role="nav">
+    {% for kind, terms in page.taxonomies %}
+    {% set taxonomy = get_taxonomy(kind=kind) %}
+      {% if taxonomy.kind.render == false %}
+        {% continue %}
+      {% endif %}
+      <thead>
+        <tr>
+          <td colspan="2">{{ kind | title }}</td>
+        </tr>
+      </thead>
+      {% for term in terms %}
+      <tbody>
+        <tr>
+          <td>{{ term }}</td>
+          <td>
+            {% set entity = get_taxonomy_term(kind=kind, term=term) %}
+            <ul>
+              {% for ent_page in entity.pages %}
+              <li>
+                <a href="{{ ent_page.permalink | safe }}">{{ ent_page.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    {% endfor %}
+    {% endfor %}
+  </table>
+  
+  {% endif %}
+  {% endblock taxonomies %}
 {% endblock %}
