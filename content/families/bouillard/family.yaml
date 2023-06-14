@@ -1,8 +1,16 @@
 families:
   - house: Bouillard
-    parents: Romulus
+    parents: [Bertrand]
+    children: []
+    families:
+      - parents: [Romulus]
+        children: []
 people:
+  Bertrand:
+    fullname: Bertrand Maximilian Théodore Bouillard
   Romulus:
-  Aloysius:
+    fullname: Romulus Bouillard
   Yves Renault:
   Renault II:
+  Nathalie:
+  Mariona:

@@ -12,7 +12,7 @@ the departure of the shipwrecked survivors that include Arquette.
 In 1269 AI, an expedition to document the various ethnic sub-groups in and around the islands of [L'Illes Apgarie](@/locations/l-illes-apgarie.md) was launched, in a 
 collaboration between researchers from the [University of Mayonne](@/organizations/university-of-mayonne.md) and the [Estregan Institute](@/organizations/estregan-institute.md).
 This was due to reports of a subset of ethnically [Estregan](@/ethnicities/estregan.md) people who have thrived in even the smallest atolls in the island chain, 
-and have endured by providing services to pirates, smugglers and privateers hunted by [Seneran Navy](@/organizations/seneran-navy.md) patrols.
+and have endured by providing services to pirates, smugglers and privateers hunted by [Seneran Military](@/organizations/seneran-military.md#navy) patrols.
 
 A confrontation between a Seneran Frigate and a vessel bearing the [Bouillard](@/organizations/bouillard.md) family crest, had damaged the hull of their ship forcing them to find a
 nearby island. The uncharted island was surrounded by a mangrove forest and, to their surprise, was populated by a number of people who spoke a language similar to the 

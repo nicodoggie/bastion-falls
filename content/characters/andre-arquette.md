@@ -51,7 +51,7 @@ instigated the fight. Pillorante was quite popular though, and many of his frien
 # Discovery and Mission to Moreaux Island
 In 1269 AI, Arquette joined an expedition to document the various ethnic sub-groups in and around the islands of [L'Illes Apgarie](@/locations/l-illes-apgarie.md).
 Reports of a subset of ethnically [Estregan](@/ethnicities/estregan.md) people have thrived, even on some of the smallest islets and platorms in the area, and have
-survived by providing services to pirates and privateers who used the waters around the islands to dodge [Seneran Navy](@/organizations/seneran-navy.md) patrols.
+survived by providing services to pirates and privateers who used the waters around the islands to dodge [Seneran Navy](@/organizations/seneran-military.md#navy) patrols.
 
 Their expedition was cut short, however, when they were caught in between a confrontation between the Senerans and a vessel bearing the 
 [Bouillard](@/organizations/bouillard.md) family crest. Their ship survived the damage they had received, but they were forced to land on an uncharted
