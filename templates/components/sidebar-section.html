@@ -1,0 +1,51 @@
+{% import "macros/utils.html" as utils %}
+{% import "macros.html" as macros %}
+<aside id="article-sidebar" class="nav-sidebar">
+  {% block sidebar_contents %}
+  {{ utils::sidebar_portrait(config=section) }}
+  <h1>{{ section.title }}</h1>
+  <hr />
+  <ul class="tree-root">
+    {% for page in section.pages %}
+    <li {% if current_path==page.path -%}class="page-selected" {%- endif -%}>
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    </li>
+    {% endfor %}
+    {% for _sub in section.subsections %}
+    {% set sub = get_section(path=_sub) %}
+    {% set nav_id = "sidebar-nav-toggle-"~ sub.title | slugify %}
+    {% set nav_label_id = "label-sidebar-nav-toggle-"~ sub.title | slugify %}
+    <li>
+      <input type="checkbox" class="nav-toggle" name="sidebar-nav-toggle" aria-hidden="true" id="{{ nav_id }}" />
+      <label id="{{ nav_label_id }}" class="nav-toggle-label" for="{{ nav_id }}">
+        <div>{{ sub.title }}</div>
+      </label>
+    </li>
+    <ul class="sub-tree" data-for="{{ nav_id }}" data-display="hidden">
+      {% for _subsub in sub.subsections %}
+      {% set subsub = get_section(path=_subsub) %}
+      <li title="{{ subsub.title }}" {% if current_path==subsub.path -%}class="page-selected" {%- endif -%}>
+        <a href="{{ subsub.permalink | safe }}">
+          <div>{{ subsub.title }}</div>
+        </a>
+      </li>
+      {% endfor %}
+      {% for page in sub.pages %}
+      <li title="{{ page.title }}">
+        <a href="{{ page.permalink | safe }}">
+          <div>{{ page.title }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </ul>
+  {% endblock sidebar_contents %}
+</aside>
+<script src="{{ get_url(path='nav.js') }}" defer></script>
+<script>
+  const subNavToggles = document.getElementsByName('sidebar-nav-toggle', 'sidebarToggled');
+  document.addEventListener("DOMContentLoaded", () => {
+    loadNavToggle(subNavToggles);
+  });
+</script>

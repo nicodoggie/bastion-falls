@@ -1,0 +1,16 @@
+{% if config.extra.logo -%}
+<header id="site-logo">
+  {% set _logo = config.extra.logo -%}
+  {% if (_logo is starting_with("http")) == false -%}
+  {% set resized_image = resize_image(path=config.extra.logo, width=64, op="fit_width", format="webp") %}
+  {% set _logo = resized_image.url -%}
+  {% endif -%}
+  <a href="{{ config.base_url }}">
+    <img src="{{ _logo | safe }}" alt="logo" />
+    <span class="title">
+      {{ config.title }}
+    </span>
+  </a>
+  <div class="search-container"><input id="search" type="search" placeholder="Search as you type..."></div>
+</header>
+{% endif -%}

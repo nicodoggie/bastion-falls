@@ -1,0 +1,35 @@
+{% import "macros/utils.html" as utils %}
+{% import "macros.html" as macros %}
+{% set class = "" %}
+{% if page.path is starting_with("/characters") %}
+{% set class = class ~ " sidebar-character"%}
+{% endif %}
+{% if page.path is starting_with("/locations") %}
+{% set class = class ~ " sidebar-location" %}
+{% endif %}
+{% if page.path is starting_with("/events") %}
+{% set class = class ~ " sidebar-events" %}
+{% endif %}
+{% if page.ancestors | length > 3 %}
+{% set class = class ~ " sidebar-section" %}
+{% endif %}
+{% if class != "" %}
+<aside id="article-sidebar">
+  {% block sidebar_contents %}
+  {% if page %}
+  {{ utils::sidebar_portrait(config=page) }}
+  {% if page.path is starting_with("/character") %}
+  {{ macros::sidebar_character(name=page.title, config=page) }}
+  {% endif %}
+  {% if page.path is starting_with("/locations") %}
+  {{ macros::sidebar_location(name=page.title, config=page) }}
+  {% endif %}
+  {% if (page.path is starting_with("/events")) %}
+  {{ macros::sidebar_event(name=page.title, config=page) }}
+  {% endif %}
+
+
+  {% endif %}
+  {% endblock sidebar_contents %}
+</aside>
+{% endif %}

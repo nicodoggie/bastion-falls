@@ -1,232 +1,51 @@
 {%- import "macros/utils.html" as utils -%}
 {%- import "macros.html" as macros -%}
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-
 <head>
-  <meta charset="UTF-8">
-  <link rel="preconnect" href="https://kit.fontawesome.com" />
-  <link rel="dns-prefetch" href="https://kit.fontawesome.com" />
-  <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
-  <link rel="stylesheet" href="{{ get_url(path='main.css') | safe }}">
+  <title>
+    {% block title %}
+    {{ config.title }}
+    {% endblock title %}
+  </title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="height=device-height,width=device-width" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin">
+  <link rel="stylesheet" href="{{ get_url(path='index.css') | safe }}" />
   <script src="https://kit.fontawesome.com/b161e13895.js" crossorigin="anonymous" defer></script>
-  {% if config.extra.favicon -%}
-  {% set _favicon = config.extra.favicon -%}
-  {% if (_favicon is starting_with("http")) == false -%}
-  {% set _favicon = get_url(path=config.extra.favicon) -%}
-  {% endif -%}
-  <link rel="icon" href="{{ _favicon | safe }}">
-  {% endif -%}
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  {% include "components/favicon.html" %}
   </head>
   
   <body>
-  
-    {% if config.extra.release -%}
-    <script>
-      fetch('{{ config.extra.release | safe }}')
-        .then((response) => {
-          return response.json();
-        })
-        .then((data) => {
-          let release_name = data.name;
-          let html_url = data.html_url;
-          release.innerHTML = `<a href='${html_url}'>${release_name}</a>`;
-        });
-    </script>
+    {% block header %}
+    {% include "components/header.html" %}
+    {% if config.build_search_index -%}
+    
     {% endif -%}
+    {% endblock header %}
     <main>
-      {# Create variable to allow appending index.html at end of links if set in config #}
-      {% if not config.extra.easydocs_uglyurls or config.mode == "serve" or config.mode == "Serve" -%}
-      {% set _ugly_url = "" -%}
-      {% else %}
-      {% set _ugly_url = "index.html" -%}
-      {% endif -%}
-  
-      {%- block nav -%}
-      <div id="navbox">
-      <div id="site-title">
-        <h1>
-          <a href="{{ config.base_url }}{{ _ugly_url }}">
-            {{ config.title }}
-          </a>
-        </h1>
-        {% if config.extra.logo -%}
-        {% set _logo = config.extra.logo -%}
-        {% if (_logo is starting_with("http")) == false -%}
-        {% set resized_image = resize_image(path=config.extra.logo, width=64, op="fit_width", format="webp") %}
-        {% set _logo = resized_image.url -%}
-        {% endif -%}
-        {% if current_path == "/" and not config.extra.easydocs_logo_always_clickable -%}
-        <img src="{{ _logo | safe }}" alt="logo" />
-        {% else -%}
-        <a href="{{ config.base_url }}{{ _ugly_url }}">
-          <img src="{{ _logo | safe }}" alt="logo" />
-        </a>
-        {% endif -%}
-        {% endif -%}
-      </div>
-      
-      <div id="calendar-header">
-        {{ macros::calendar(size='s')}}
-      </div>
-      
-      {% if config.extra.release -%}
-      <div id="release"></div>
-      {% endif -%}
-      
-      {% if config.extra.socials -%}
-      <div id="socials">
-        {% for item in config.extra.socials %}
-        <a href="{{ item.url | safe }}" rel="noopen noreferrer" target="_blank" title="{{ item.type }}">
-          <i class="fa-brands fa-{{ item.type }}" aria-hidden="true"></i>
-        </a>
-        {% endfor %}
-        <a href="https://github.com/nicodoggie/bastion-falls/actions/workflows/change.yaml" rel="noopen noreferrer"
-          target="_blank">
-          <img src="https://github.com/nicodoggie/bastion-falls/actions/workflows/change.yaml/badge.svg" />
-        </a>
-      </div>
-      {% endif -%}
-      <nav>
-        <a href="javascript:void(0);" onclick="burger()" id="mobile" class="ms-Icon--GlobalNavButton"></a>
-        <div id="trees">
-          {% set root = get_section(path='_index.md')%}
-          {% if root.pages %}
-          <input class="tree-toggle" type="checkbox" aria-hidden="true" name="nav-section" id="{{ root.title | slugify }}" {%- if
-            current_path==root.path -%}checked{%- endif -%} />
-          <label class="tree-toggle-label" for="{{ root.title | slugify }}">
-            {{ root.title }}
-            <a href="{{ root.permalink | safe }}{{ _ugly_url }}">
-              <i class="fa-solid fa-link" aria-hidden="true"></i>
-            </a>
-          </label>
-          <ul class="root-menu subtree">
-            {% for p in root.pages %}
-            <li><a href="{{ p.permalink | safe }}">{{ p.title }}</a></li>
-            {% endfor %}
-          </ul>
-          {% endif %}
-          {% set section_ = get_section(path="_index.md") -%}
-          {% for p in section_.subsections -%}
-            {% set subsection = get_section(path=p) -%}
-  
-            {% set subsection_title = subsection.title %}
-  
-            {% if subsection.render %}
-            {% set subsection_title = "["~subsection.title~"]("~subsection.permalink~")" %}
-            {% endif %}
-  
-            <input class="tree-toggle" type="checkbox" name="nav-section" id="{{ subsection.title | slugify }}" {% if current_path
-              is starting_with(subsection.path) %}checked{% endif %} />
-            <label class="tree-toggle-label" for="{{ subsection.title | slugify }}">
-              {{ subsection.title }}
-              <a href="{{ subsection.permalink | safe }}{{ _ugly_url }}">
-                <i class="fa-solid fa-link"></i>
-              </a>
-            </label>
-            <ul class="subtree">
-            {% for s in subsection.subsections %}
-            {% set subsub = get_section(path=s) %}
-            <li {% if current_path==subsub.path %}class="active" {% endif %}>
-              <a href="{{ subsub.permalink | safe }}{{ _ugly_url }}">{{ subsub.title }}</a>
-            </li>
-              {% endfor %}
-              {% for page in subsection.pages -%}
-              <li {% if current_path==page.path %}class="active" {% endif %}>
-                <a href="{{ page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
-              </li>
-  
-            {% if page.toc -%}
-  
-            {% if current_path == page.path -%}
-  
-            {# Count number of headers on page #}
-            {% set_global header_count = 0 -%}
-            {% for h2 in page.toc -%}
-            {% set_global header_count = header_count + 1 -%}
-            {% for h3 in h2.children -%}
-            {% set_global header_count = header_count + 1 -%}
-            {% for h4 in h3.children -%}
-            {% set_global header_count = header_count + 1 -%}
-            {% endfor -%}
-            {% endfor -%}
-            {% endfor -%}
-  
-            {# Output headers if above threshold #}
-            {% if not config.extra.easydocs_heading_threshold -%}
-            {# Undefined or 0 unable to find a way to differnciate between 0 and undefined.
-            1 is already including any headings so is not 0 not needed #}
-            {% set _threshold = 5 -%}
-            {% else %}
-            {% set _threshold = config.extra.easydocs_heading_threshold -%}
-            {% endif -%}
-  
-            {% if header_count >= _threshold -%}
-            <ul id="toc">
-              {% for h2 in page.toc -%}
-              <li><a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
-                {% if h2.children -%}
-                <ul>
-                  {% for h3 in h2.children -%}
-                  <li>
-                    <a href="{{ h3.permalink | safe }}">{{ h3.title }}</a>
-                  </li>
-                  {% endfor -%}
-                </ul>
-                {% endif -%}
-              </li>
-              {% endfor -%}
-            </ul>
-            {% endif -%}
-  
-            {% endif -%}
-            {% endif -%}
-            {% endfor -%}
-          </ul>
-          {% endfor -%}
-        </div>
-      </nav>
-      </div>
-      {% endblock nav -%}
-  
+      {% block nav %}
+      {% include "components/nav.html" %}
+      {% endblock nav %}
       <article>
-  
-        {% if config.build_search_index -%}
-        <div id="on_right">
-          <span id="search-ico" class="ms-Icon--Search" role="button"></span>
-        </div>
-        <div class="search-container">
-          <input id="search" type="search" placeholder="Search as you type...">
           <div class="search-results">
             <div class="search-results__header"></div>
             <ul class="search-results__items"></ul>
           </div>
-        </div>
-        {% endif -%}
-  
-        <div id="wrap">
-          {% block content -%}
-          {%- if section.word_count -%}
-          {%- if section.word_count > 0 -%}
-          {{ section.content | safe }}
-          {%- else -%}
-          {%- include "sec_toc_2_level.html" -%}
-          {% endif -%}
-          {% endif %}
-          {% endblock content %}
-        </div>
-  
+        {% block content %}
+        {% set section = get_section(path="_index.md") %}
+        {{ section.content | safe }}
+      {% endblock content %}
       </article>
     </main>
-  
-    {% if config.build_search_index %}
-    <script type="text/javascript" src="{{ get_url(path='elasticlunr.min.js') | safe }}" defer></script>
-    <script type="text/javascript" src="{{ get_url(path='search_index.en.js') | safe }}" defer></script>
-    {% endif -%}
-    <script type="text/javascript" src="{{ get_url(path='js.js') | safe }}" defer></script>
-    <script type="text/javascript" src="{{ get_url(path='main.js') | safe }}" defer></script>
+  <footer></footer>
+  {% if config.build_search_index %}
+  <script type="text/javascript" src="{{ get_url(path='elasticlunr.min.js') | safe }}" defer></script>
+  <script type="text/javascript" src="{{ get_url(path='search_index.en.js') | safe }}" defer></script>
+  {% endif -%}
+  <script type="text/javascript" src="{{ get_url(path='js.js') | safe }}" defer></script>
   </body>
   
   </html>

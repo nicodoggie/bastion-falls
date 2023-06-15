@@ -1,0 +1,7 @@
+{% if config.extra.favicon -%}
+  {% set _favicon = config.extra.favicon -%}
+  {% if (_favicon is starting_with("http")) == false -%}
+    {% set _favicon = get_url(path=config.extra.favicon) -%}
+  {% endif -%}
+  <link rel="icon" href="{{ _favicon | safe }}">
+{% endif -%}

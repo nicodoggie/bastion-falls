@@ -22,7 +22,7 @@ taxonomies = [
   { name = "children", feed = false, render = false },
 
   # Location
-  { name = "location_type", feed = true, render = true },
+  { name = "location_type", feed = false, render = false },
   { name = "parent_location", feed = false, render = false},
 
   # Organization

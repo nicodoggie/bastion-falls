@@ -1,17 +1,7 @@
 {% extends "index.html" %}
+
 {% block content %}
-
-{% set context = "" %}
-{% if section %}
-{% set context = section %}
-{% else %}
-{% set context = config %}
-{% endif %}
-
-{# generate groups #}
-
 <body>
-  <h1>{{ context.title }}</h1>
   <table id="org-list">
     <tr>
       <th>Type</th>
@@ -19,14 +9,14 @@
     </tr>
     {% set taxonomy = get_taxonomy(kind='families')%}
     {% for term in taxonomy.items %}
-    {% for page in term.pages %}
+    {% for fam in term.pages %}
     <tr>
       {% set pages = term.pages | length %}
       {% if loop.index == 1 %}
       <td class="col-title col-left col-bold" rowspan="{{ pages }}">{{ term.name }}</td>
       {% endif %}
       <td class="col-left">
-        <a href="{{ page.permalink }}">{{ page.title }}</a>
+        <a href="{{ fam.permalink }}">{{ fam.title }}</a>
       </td>
     </tr>
     {% endfor %}

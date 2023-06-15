@@ -1,0 +1,29 @@
+:root {
+  --bg: #383742;
+  --bg-secondary: #3e3e3e;
+  --bg-sidebar: var(--bg-secondary);
+  --bg-menu-selected: var(--bg-secondary);
+  --bg-menu-hover: var(--bg-secondary);
+  --bg-table-head: #363636;
+  --bg-table-row-odd: #575757;
+  --bg-table-row-even: #3e3e3e;
+
+
+  --lines: #9e9e9e;
+
+  --color: #dfdfdf;
+  --color-link: #fff;
+  --color-link-hover: #c00;
+
+  --callout-border: 1px skyblue solid;
+  --callout-bg: none;
+  --callout-color: #222;
+  --callout-links: rgb(200, 223, 247);
+  --callout-hover-links: var(--color-link-hover);
+  --callout-visited-links: rgb(246, 189, 246);
+
+
+  &[data-theme="dark"] {
+    --bg: #383742;
+  }
+}

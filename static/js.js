@@ -135,29 +135,11 @@ function formatSearchResultItem(item, terms) {
 }
 
 // Go from the book view to the search view
-function toggleSearchMode() {
-  var $wrapContent = document.querySelector("#wrap");
-  var $searchIcon = document.querySelector("#search-ico");
-  var $searchContainer = document.querySelector(".search-container");
-  if ($searchContainer.classList.contains("search-container--is-visible")) {
-    $searchContainer.classList.remove("search-container--is-visible");
-    $wrapContent.style.display = "";
-    $searchIcon.className = "ms-Icon--Search";
-  } else {
-    $searchContainer.classList.add("search-container--is-visible");
-    $wrapContent.style.display = "none";
-    $searchIcon.className = "ms-Icon--ChromeClose";
-    document.getElementById("search").focus();
-  }
-}
-
 function initSearch() {
   var $searchInput = document.getElementById("search");
   if (!$searchInput) {
     return;
   }
-  var $searchIcon = document.querySelector("#search-ico");
-  $searchIcon.addEventListener("click", toggleSearchMode);
 
   var $searchResults = document.querySelector(".search-results");
   var $searchResultsHeader = document.querySelector(".search-results__header");

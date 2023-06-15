@@ -1,32 +1,28 @@
 .search-container {
-  display: none;
+  text-align: center;
 
-  &--is-visible {
-    display: block;
-    width: 100%;
-  }
-
-  #search {
-    width: 100%;
-    display: block;
-    border:none;
-    border-left: 1px solid $color;
-    padding:1px 0;
+}
+#search {
+    display: inline;
+      border: none;
+      padding: 1px 0;
     text-align: left;
-    line-height: $baseline;
-    font-size: $font-size;
-    font-family:$font-family;
-    color:$color;
-    background:transparent;
+  line-height: 1rem;
+    color: var(--color);
+    background: transparent;
   }
-
+  
   #search:focus {
-    outline:none;
-    border:none;
+    outline: none;
+      border: none;
   }
 
-  .search-results {
-    &__header {
+.search-results {
+  display: none;
+    background: var(--bg-secondary);
+    box-shadow: 5px 5px 5px #000;
+    padding: 0 1rem;
+  &__header {
       font-weight: bold;
       padding: 1rem 0rem;
     }
@@ -41,30 +37,6 @@
       margin-bottom: 1rem;
     }
 
-    &__teaser {
-     
-    }
-  }
-}
-
-#on_right {
-  display: block;
-  text-align: right;
-  margin-bottom: $baseline;
-}
-
-#search-ico {
-  background: none;
-  border: none;
-  color: $color;
-  
-  font-family: 'FabricMDL2Icons';
-  cursor: pointer;
-  font-size: $baseline;
-  line-height: 1;
-  
-  &:active {
-    border: none;
-    text-decoration: none;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &__teaser {
   }
 }

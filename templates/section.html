@@ -1,76 +1,42 @@
-{% extends "index.html" %}
+{% extends "page.html" %}
 {% import "macros.html" as macros %}
 
 {% block title %} {{ config.title }} | {{ section.title }} {% endblock title %}
 
 {% block content %}
+<div id="content">
+  {% block content_title %}
+  <section>
     <h1 class="title">
-        {% if section.extra.reformat_title | default(value=true) %}
-        {{ section.title | title}}
-        {% else %}
-        {{ section.title }}
-        {% endif %}
+      {% if section.extra.reformat_title | default(value=true) %}
+      {{ section.title | title}}
+      {% else %}
+      {{ section.title }}
+      {% endif %}
     </h1>
-    
-    {% if section.word_count > 0 -%}
-        <aside class="sidebar sidebar-section">
-            {% if section.subsections -%}
-            {% for subsec in section.subsections -%}
-            {% set sec_ = get_section(path=subsec) -%}
-            <input class="tree-toggle" type="checkbox" id="{{ sec_.title | slugify }}" {% if current_path is
-                starting_with(sec_.path) %}checked{% endif %} />
-            <label class="tree-toggle-label" for="{{ sec_.title | slugify }}">
-                {{ sec_.title }}
-                <a href="{{ sec_.permalink | safe }}{{ _ugly_url }}">&#x1F5CB;</a>
-            </label>
-            <ul class="subtree">
-                {% for page in sec_.pages %}
-                <li {% if current_path==page.path %}class="active" {% endif %}>
-                    <a href="{{page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-            {% endfor %}
-            {% endif -%}
-            {% if section.pages %}
-            {% for page in section.pages %}
-            <input class="tree-toggle" type="checkbox" id="{{ section.title | slugify }}" {% if current_path is
-                starting_with(section.path) %}checked{% endif %} />
-            <label class="tree-toggle-label" for="{{ section.title | slugify }}">
-                Pages
-            </label>
-            <ul class="subtree">
-                <li {% if current_path==page.path %}class="active" {% endif %}>
-                    <a href="{{page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a>
-                </li>
-            </ul>
-            {% endfor %}
-            {% endif %}
-        </aside>
+    <nav>
+      {% if section.ancestors | length > 2%}
+      <ul class="parents">
+        {% for anc_path in section.ancestors %}
+        {% if loop.index < 2 %} {% continue %} {% endif %} {% if (anc_path is ending_with("_index.md")) %} {% set
+          content=get_section(path=anc_path) %} {% else %} {% set content=get_page(path=anc_path) %} {% endif %} <li>
+          <a href="{{ content.permalink | safe }}">{{ content.title }}</a>
+          </li>
+          {% endfor %}
+      </ul>
+      {% endif %}
+    </nav>
+    <hr />
+    </section>
+    {% endblock content_title %}
+    {% if section.word_count == 0 %}
+    {% set link = "[github repo]("~config.extra.repo~")" | markdown(inline=true) %}
+    {% set type = "warning" %}
+    {% set body = "This article is a stub!<br /><br />New content can be contributed as a pull request on our "~link~"." %}
+    {% include "shortcodes/callout.html" %}
+    {% endif %}
+    {% include "components/sidebar-section.html" %}
     {{ section.content | safe }}
-    {% else -%}
-        {% if section.subsections -%}
-            <h3>Subsections:</h3>
-            <ul>
-                {% for subsec in section.subsections -%}
-                    {% set sec_ = get_section(path=subsec) -%}
-                    <li><a href="{{ sec_.permalink | safe }}{{ _ugly_url }}">{{ sec_.title }}</a></li>
-                {% endfor %}
-            </ul>
-        {% endif -%}
-
-        <h3>Pages:</h3>
-        <ul>
-            {% if section.pages -%}
-                {% for page in section.pages -%}
-                    <li><a href="{{ page.permalink | safe }}{{ _ugly_url }}">{{ page.title }}</a></li>
-                {% endfor -%}
-            {% else -%}
-                <li>No pages</li>
-            {% endif %}
-        </ul>
-    {% endif -%}
+  </div>
+  {% include "components/taxonomy-nav.html" %}
 {% endblock content %}
-
-
-

@@ -1,7 +1,9 @@
-<div class="callout-block {% block typeclass %}{{ type | lower }}{% endblock %}">
+{% import "macros/utils.html" as utils %}
+{% import "macros.html" as macros %}
+<section class="callout-block {% block typeclass %}{{ type | lower }}{% endblock %}">
   <h3>{% block typetitle %}{{ type | title }}{% endblock %}</h3>
 
   <p>{%- block callout -%}
     {{ body | safe }}
     {%- endblock -%}</p>
-</div>
+</section>
