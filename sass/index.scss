@@ -276,6 +276,12 @@ callout;
     }
   }
 
+  #socials {
+    display: flex;
+    justify-content: center;
+    gap: 0.2rem;
+  }
+
   .footnote-definition {
     p {
       display: inline;

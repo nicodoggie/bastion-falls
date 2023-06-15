@@ -11,6 +11,19 @@
       {{ config.title }}
     </span>
   </a>
+  {% if config.extra.socials -%}
+  <div id="socials">
+    {% for item in config.extra.socials %}
+    <a href="{{ item.url | safe }}" rel="noopen noreferrer" target="_blank" title="{{ item.type }}">
+      <i class="fa-brands fa-{{ item.type }}" aria-hidden="true"></i>
+    </a>
+    {% endfor %}
+    <a href="https://github.com/nicodoggie/bastion-falls/actions/workflows/change.yaml" rel="noopen noreferrer"
+      target="_blank">
+      <img src="https://github.com/nicodoggie/bastion-falls/actions/workflows/change.yaml/badge.svg" />
+    </a>
+  </div>
+  {% endif -%}
   <div class="search-container"><input id="search" type="search" placeholder="Search as you type..."></div>
 </header>
 {% endif -%}
