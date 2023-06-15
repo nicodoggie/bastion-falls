@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://bastion-falls.thekennel.info"
+base_url = "/"
 title = "Bastion Falls"
 generate_feed = false
 
