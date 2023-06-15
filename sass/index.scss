@@ -20,31 +20,31 @@ callout;
 @keyframes slideIn {
   0% {
     max-height: 0;
-    opacity: 0
+    opacity: 0;
   }
 
   100% {
     max-height: max-content;
-    opacity: 1
+    opacity: 1;
   }
 }
 
 @keyframes slideOut {
   0% {
     height: auto;
-    opacity: 1
+    opacity: 1;
   }
 
   100% {
     height: 0;
-    opacity: 0
+    opacity: 0;
   }
 }
 
 :root {
   color-scheme: dark;
   scroll-behavior: smooth;
-  font-family: 'Cabin', Calibri, Helvetica, Arial, sans-serif;
+  font-family: "Cabin", Calibri, Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: var(--color);
 }
@@ -126,7 +126,6 @@ callout;
     padding: 0 1.5rem;
     line-height: 1.5rem;
     text-align: justify;
-
   }
 
   h1,
@@ -202,7 +201,7 @@ callout;
           }
         }
 
-        &>* {
+        & > * {
           display: block;
           padding: 1rem;
         }
@@ -215,11 +214,9 @@ callout;
           display: block;
         }
 
-
-        .nav-toggle:checked+.nav-toggle-label {
+        .nav-toggle:checked + .nav-toggle-label {
           background: var(--bg-menu-selected);
         }
-
       }
 
       .sub-tree {
@@ -236,13 +233,14 @@ callout;
               padding: 0 0 0 1rem;
             }
 
-            &:link {}
+            &:link {
+            }
 
-            &:hover {}
+            &:hover {
+            }
           }
         }
       }
-
 
       .sub-tree,
       .sub-tree[data-display="hidden"] {
@@ -259,83 +257,85 @@ callout;
         display: block;
       }
     }
+  }
 
+  .panzoom-box {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-    .panzoom-box {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+    .panzoom-container {
+      width: 80%;
+      height: 30rem;
+      background-color: var(--bg-secondary);
 
-      .panzoom-container {
-        height: 30rem;
-        background-color: var(--bg-secondary);
-
-        a {
-          display: inline-block;
-        }
-      }
-    }
-
-    .footnote-definition {
-      p {
-        display: inline;
-      }
-    }
-    @media screen and (max-width: 1023px) {
-      main {
-        flex-direction: column;
+      a {
+        display: inline-block;
       }
     }
   }
 
-  @layer callout {
-    .callout-block {
-      display: flow-root;
-      padding: 0 1rem;
-      border: var(--callout-border);
-      background-color: var(--callout-bg);
-      color: var(--callout-color);
-
-      a {
-        &:link {
-          color: var(--callout-links);
-        }
-
-        &:visited {
-          color: var(--callout-visited-links);
-        }
-
-        &:hover {
-          color: var(--callout-hover-links);
-        }
-      }
+  .footnote-definition {
+    p {
+      display: inline;
     }
+  }
 
-    .callout-block.info {
-      h3::before {
-        content: "🛈 ";
-      }
+  @media screen and (max-width: 1023px) {
+    main {
+      flex-direction: column;
     }
+  }
+}
 
-    .callout-block.warning {
-      h3::before {
-        content: "⚠ ";
+@layer callout {
+  .callout-block {
+    display: flow-root;
+    padding: 0 1rem;
+    border: var(--callout-border);
+    background-color: var(--callout-bg);
+    color: var(--callout-color);
+
+    a {
+      &:link {
+        color: var(--callout-links);
       }
 
-      border: 1px rgb(227, 214, 173) solid;
-      color: rgb(249, 237, 198);
-      background-color: var(--bg-secondary);
-    }
-
-    .callout-block.error {
-      h3::before {
-        content: "⚠ ";
+      &:visited {
+        color: var(--callout-visited-links);
       }
 
-      border: 1px red solid;
-      color: pink;
-      background-color: var(--bg-secondary);
+      &:hover {
+        color: var(--callout-hover-links);
+      }
     }
+  }
+
+  .callout-block.info {
+    h3::before {
+      content: "🛈 ";
+    }
+  }
+
+  .callout-block.warning {
+    h3::before {
+      content: "⚠ ";
+    }
+
+    border: 1px rgb(227, 214, 173) solid;
+    color: rgb(249, 237, 198);
+    background-color: var(--bg-secondary);
+  }
+
+  .callout-block.error {
+    h3::before {
+      content: "⚠ ";
+    }
+
+    border: 1px red solid;
+    color: pink;
+    background-color: var(--bg-secondary);
   }
 }
 
