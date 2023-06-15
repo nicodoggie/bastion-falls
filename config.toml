@@ -42,6 +42,8 @@ taxonomies = [
   { name = "primary_organizations", feed = true, render = false },
 
   # Species
+  { name = "genus", feed = true, render = false},
+  { name = "subspecies", feed = true, render = false},
   { name = "creature_type", feed = true, render = false },
 
   # Misc
