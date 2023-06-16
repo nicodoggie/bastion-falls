@@ -1,5 +1,6 @@
 +++
 title = "Reformed Church of the Divine Masochist"
+render = true
 +++
 
 # The Reformed Church of the Divine Masochist

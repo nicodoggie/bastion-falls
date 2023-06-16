@@ -1,6 +1,7 @@
 +++
 title = "The Orthodox Church of the Divine Masochist"
 weight = 1
+render = true
 +++
 
 {{ incomplete() }}

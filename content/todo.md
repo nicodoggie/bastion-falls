@@ -6,23 +6,15 @@ weight = 10
 # General
  - [ ] Either find an interactive map generator, or make one
  - [ ] Featured articles
-
-# Templates
- - [x] ~~Think about just forking the current base template~~ Actually just copied the remaining template files that haven't been modified extensively
- - [x] Maybe apply a dark theme instead of this bright white crap.
- - [x] Actually align the Calendar
- - [x] Default taxonomy templates
-
-## `templates/index.html`
- - [x] ~~Fix top-level content page listings on the side nav bar~~
- - [x] ~~Add top-level section pages to be clickable if section _index.md~~
- - [x] ~~See if we can actually configure section headers to be sortable somehow~~
-
+ - [ ] Either find a fantasy Date library, or make one with
+   - [ ] Arbitrary date divisions
+   - [ ] Arbitrary time divisions
+ - [ ] Create Ahurian Calendar and set it to track our current calendar
+ 
 # Content Housekeeping
  - [x] ~~Mark empty articles as "stub"~~ All 0 word-count articles will contain those immediately
  - [ ] Mark content as either "stub", "incomplete" or "outofdate"
  - [ ] Make generated listing of marked articles
-
 # Content
  - [ ] Update actual content to contain recent game content
  - [ ] Add content from Feywild

@@ -4,8 +4,6 @@ slug = "timeline"
 weight = 11
 +++
 
-# Timeline of Major Events
-
 |  Year   | Event                                                               |
 | ------- | --------------------------------------------------------------------|
 | 3000 PF | Founding of the Kureran Capital at Korad                            |

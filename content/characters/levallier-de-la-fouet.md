@@ -20,8 +20,10 @@ Bishopric in the [Apgarian Confederacy](@/locations/apgar.md), but had instead c
 He is a tall, usually gaunt, man, and is often described as older than he appears, 
 but his appearance immediately turns imposing once roused to anger.
 # Early Career
-He took the assignment to this problematic little parish after years in one of the more prestigious churches in \[location:17\] ostensibly to wind down after a somewhat tumultuous career in establishing the right to worship a religion that is usually associated with many of the enemies of the \[location:10|Apgarian Confederacy\].
+He took the assignment to this problematic little parish after years in one of the more prestigious churches in [Sanery](@/locations/sanery.md) ostensibly to wind down after a somewhat tumultuous career in establishing the right to worship a religion that is usually associated with many of the enemies of the [Apgarian Confederacy](@/locations/apgar.md).
 
-He had, during his short tenure as parish priest in Rainoso, grown its membership to 50 families. a little over 3 times its previous size in a community that was once very hostile to the Church. He had done so by engaging with villages and homesteads outside of the port town, in the rest of \[location:98\].
+He had, during his short tenure as parish priest in Rainoso, grown its membership to 150 families, excluding the tightly-knit [Mehicanian](@/ethnicities/mehicanian.md), who often find priests from their native country to serve them locally, a little over 3 times its previous size in a community that was once very hostile to the Church. 
 
-He is the elder brother of \[character:82\], captain of the privateer vessel \[organisation:84\].
+He had done so by engaging with villages and homesteads outside of the primary port town.
+
+He is the elder brother of [Jean Paul de la Fouet](@/characters/jean-paul-de-la-fouet.md), captain of the privateer vessel [La Carnalis](@/organizations/la-carnalis.md), a noted *atheist*.

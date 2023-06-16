@@ -7,7 +7,7 @@ title = "Four Pillars of the East Side"
 organization_type = ["Other"]
 +++
 
-The Four Pillars are a local name for 4 prominent people that operate a variety of businesses across a broad  spectrum of legal questionability. All four groups have great influence in \[location:97\], but base their operations on the East Side--the area of Rainoso in the eastern bank of the \[location:167\].
+The Four Pillars are a local name for 4 prominent people that operate a variety of businesses across a broad  spectrum of legal questionability. All four groups have great influence in [Port Rainoso](@/locations/port-rainoso.md), but base their operations on the East Side--the area of Rainoso in the eastern bank of the \[location:167\].
 
 The Four Pillars are:
 
