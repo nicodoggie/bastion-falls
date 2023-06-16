@@ -24,6 +24,7 @@ type CharacterTaxonomies = {
   children?: string[];
   siblings?: string[];
   organizations?: string[];
+  religions?: string[];
   ethnicities?: string[];
   species?: string[];
 };
@@ -57,6 +58,7 @@ export default class Character extends GenericEntity<CharacterFrontmatter> imple
       parents: [],
       children: [],
       siblings: [],
+      religions: [],
       organizations: [],
       ethnicities: [],
       species: [],
