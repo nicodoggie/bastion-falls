@@ -1,7 +1,7 @@
 +++
-slug = "mauh"
 title = "Mauh"
-
+[taxonomies]
+location_type = ["mountain range"]
 +++
 
 

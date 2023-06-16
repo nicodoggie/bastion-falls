@@ -53,6 +53,6 @@ She also speaks about Frogmen such as Godfrey who were turned before death. They
 
 Hexbloods were also in many of her tales. She speaks of how the Hags had the capacity to give or take away ones ability to create life. They were able to grant the barren the ability to conceive, but they can also take it away if you offend them in any way.
 
-Nana Clarita and the other natives believe that they are the descendants of the [Goddess of Nature](@/religions/paganism/apgarian/_index.md) Herself. This, to them explains their access to the Deep Lore, and the other mysteries that are associated with them. In fact, in the East Side of Rainoso, there is a mystery cult that is dedicated to the true Hags of Hama. These people are offended by the existence of the Reformist Hags, and would actively work against anyone associated with them, such as, perhaps, Denise Dubois.
+Nana Clarita and the other natives believe that they are the descendants of the [Goddess of Nature](@/religions/paganism/apgarian/_index.md) Herself. This, to them, explains their access to the Deep Lore, and the other mysteries that are associated with them. In fact, in the East Side of Rainoso, there is a mystery cult that is dedicated to the true Hags of Hama. These people are offended by the existence of the Reformist Hags, and would actively work against anyone associated with them, such as, perhaps, Denise Dubois.
 
 They tolerate the Orthodox due to their belief in the Angels. They find them foolish, however, for their denial of magic.

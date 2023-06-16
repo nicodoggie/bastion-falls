@@ -9,4 +9,4 @@ cha.sex = "Female"
 families = ["Kita"]
 +++
 
-Torrene is a lecturer in the \[location:56\] and the Head of the \[organisation:57\] there.
+Torrene is a lecturer in the [University of Calamutz](@/organizations/university-of-calamutz.md) and the Head of the [Department of History and Culture](@/organizations/department-of-history-and-culture.md) there.
