@@ -25,17 +25,17 @@ jobs:
           let changelog = '';
           for (const commit of commits) {
             const { id, author, url, message } = commit;
-            changelog += `+++\ntitle = "Changelog"\n+++\n\n`
+            changelog += `+++\ntitle = "Changelog"\nweight = 99\n+++\n\n`
             changelog += `Commit ${id} by ${author}: ${url}\n`;
             changelog += `---\n\n`;
             changelog += `${message}\n\n`;
           }
-          fs.writeFileSync('content/CHANGELOG.md', changelog);
-    - name: Upload changelog as artfact
+          fs.writeFileSync('content/changelog.md', changelog);
+    - name: Upload changelog as artifact
       uses: actions/upload-artifact@v3
       with:
         name: CHANGELOG.md
-        path: content/CHANGELOG.md
+        path: content/changelog.md
     - name: Build Zola
       uses: shalzz/zola-deploy-action@v0.17.2
       env: 
@@ -54,8 +54,6 @@ jobs:
       with:
         args: |
           The project {{ EVENT_PAYLOAD.repository.full_name }} has been deployed.
-          See the changes on https://bastion-falls.thekennel.info/
+          See the changes on https://bastion-falls.thekennel.info/CHANGELOG
 
-          Changes:
-          ${{ github.event.commits[0].message }}
           
