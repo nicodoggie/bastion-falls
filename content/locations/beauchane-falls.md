@@ -1,8 +1,7 @@
 +++
 title = "Beauchane Falls"
-[extra.loc]
-population = ""
 [taxonomies]
-location_type = []
+location_type = ["waterfall"]
+parent_location = ["Montrabar Mountain Range", "Raibon Island", "L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
 +++
 

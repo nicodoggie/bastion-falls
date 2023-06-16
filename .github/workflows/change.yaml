@@ -28,7 +28,7 @@ jobs:
             changelog += `+++\ntitle = "Changelog"\nweight = 99\n+++\n\n`
             changelog += `Commit ${id} by ${author.username}: ${url}\n\n`;
             changelog += `---\n\n`;
-            changelog += `${message.replace(/\]\s+\(/, "](")}\n\n`;
+            changelog += `${message.replaceAll(/\]\s+\(/, "](")}\n\n`;
           }
           fs.writeFileSync('content/changelog.md', changelog);
     - name: Upload changelog as artifact

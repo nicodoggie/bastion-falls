@@ -1,11 +1,11 @@
 +++
 title = "Victor Hardrada"
-[extra]
-cha.age = "28"
-cha.pronouns = "He/Him, They/Them"
-cha.sex = "Gay"
+[extra.cha]
+age = "28"
+pronouns = "He/Him, They/Them"
+sex = "Gay"
 [taxonomies]
 organizations = ["Hardrada Shipping"]
 +++
 
-Husband to \[character:166\] and proprietor of \[organisation:312\] that did business in \[location:313\].
+Husband to [Denise Dubois](@/characters/denise-dubois.md) and proprietor of [Hadrada Shipping](@/organizations/hardrada-shipping.md) that did business in [Port Rainoso](@/locations/port-rainoso.md).

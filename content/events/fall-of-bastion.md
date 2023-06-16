@@ -12,7 +12,7 @@ In 1225,  a large explosion collapsed the exalted Grand Cathedral of the Masoch
 
 The progression of the growth of the Orb became quite predictable after a couple of years, and so some people have decided that they did not need to uproot their family for something that would take years before it directly affected them, especially after the initial panic died down. The opportunists have then amalgamated into syndicates centered around a strong personality. These warlords then began raiding those that chose to remain, asking them to give a sizeable portion of their crops or bullying them to provide services in exchange for protection. The warlords then vied for territory which continually shifted because of the orb.
 
-Eventually, these warlords were dominated by the \[organisation:102\] and their Dark Archons.
+Eventually, these warlords were dominated by the [Reformed Church of the Divine Masochist](@/religions/divine-masochism/reformist/_index.md) and their Dark Archons.
 
   
 

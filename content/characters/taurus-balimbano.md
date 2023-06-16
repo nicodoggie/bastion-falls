@@ -10,7 +10,7 @@ sex = "Male"
 organizations = ["Bank of Sanery"]
 +++
 
-_Taurus Balimbano_ is a career banker, and works at the [Bank of Sanery](@/organizations/bank-of-sanery.md) Financial Advisory Department. He brought a number of high profile clients into the institution, and is considered one of the top-performing members of the organization. He is also an observer in Tressemer's [Masters of the Coin](@/organization/masters-of-the-coin.md), a trade collective formed in order to rival the resources of the [Mirian Trading Company](@/organizations/mirian-trading-company.md).
+_Taurus Balimbano_ is a career banker, and works at the [Bank of Sanery](@/organizations/bank-of-sanery.md) Financial Advisory Department. He brought a number of high profile clients into the institution, and is considered one of the top-performing members of the organization. He is also an observer in Tressemer's [Council of the Coin](@/organization/council-of-the-coin.md), a trade collective formed in order to rival the resources of the [Mirian Trading Company](@/organizations/mirian-trading-company.md).
 
 # Early Life
 Taurus was born in a shanty in the east side of [Port Tressemer](@/locations/port-tressemer.md) in [Raibon Island](@/locations/raibon-island.md) as one of many children of _Martha Balimbano_. They were destitute, with their mother working a number of jobs in order to keep them fed and clothed. Taurus often went with his mother to her various jobs, including at the [Pussy Foot](@/locations/pussy-foot.md), a low-end brothel a few blocks away from their home. While waiting for his mother there, he taught himself how to read and write from the magazines that are lent to the patrons, and questions from some of the other workers at the establishment.
