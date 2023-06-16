@@ -22,7 +22,7 @@ The Deep Lore was inspired by the idea of the Akashic Records--a nebulous store 
 
 ### How do we reintroduce the Deep Lore?
 
-There should be a meaningful way of introducing the Deep Lore again after it seemed to no longer be relevant. It was never talked about again when the characters arrived at Rainoso. It makes sense, since there are no actual Hags on the island anymore--at least not in the same vain as the \[location:136\] from \[location:137\]. The only ones who even have any chance at knowing stores about the Deep Lore are the old natives of Raibon. A sizeable population of them are in the East Side of \[location:97\].
+There should be a meaningful way of introducing the Deep Lore again after it seemed to no longer be relevant. It was never talked about again when the characters arrived at Rainoso. It makes sense, since there are no actual Hags on the island anymore--at least not in the same vain as the \[location:136\] from \[location:137\]. The only ones who even have any chance at knowing stores about the Deep Lore are the old natives of Raibon. A sizeable population of them are in the East Side of [Port Rainoso](@/locations/port-rainoso.md).
 
 ### Nana Clarita  
 
@@ -46,7 +46,7 @@ They basically know what Nana Clarita knows, but have more magical context that 
 
 First, they suspect that there might be something about the native women of the island that make them especially able to commune, or join the ranks of, the Hags. They have heard about the \[race:141|Hexbloods\], and suspect that they represent something special.
 
-They suspect that access to the Deep Lore is what made it possible for these Hags to have had the ability to perform magical abilities before the \[event:103\]. Deep Lore may just be another supermassive Orb of Enhancement, but if it were, they wonder how a) the Orb did not infuse more people with magic in the area, b) how did the techniques that the Hags seem to have developed unlock it, and c) if there is a supermassive Orb in the Tubiere, where was it exactly.
+They suspect that access to the Deep Lore is what made it possible for these Hags to have had the ability to perform magical abilities before the [Fall of Bastion](@/events/fall-of-bastion.md) Deep Lore may just be another supermassive Orb of Enhancement, but if it were, they wonder how a) the Orb did not infuse more people with magic in the area, b) how did the techniques that the Hags seem to have developed unlock it, and c) if there is a supermassive Orb in the Tubiere, where was it exactly.
 
 #### The Nature of the Bog
 

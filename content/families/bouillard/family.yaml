@@ -5,12 +5,16 @@ families:
     families:
       - parents: [Romulus]
         children: []
+      - parents: [Yves Renault, Nicolette]
+        children: [Basillios, Renault II]
 people:
   Bertrand:
     fullname: Bertrand Maximilian Théodore Bouillard
   Romulus:
     fullname: Romulus Bouillard
   Yves Renault:
+  Nicolette:
+  Basillios:
   Renault II:
   Nathalie:
   Mariona:

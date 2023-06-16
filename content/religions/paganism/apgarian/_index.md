@@ -14,3 +14,13 @@ render = true
 | Goddess of Nature       | Pomona       |
 | Goddess of Delight      | Volupta      |
 | Goddess of Humility     | Amarina      |
+
+# Goddess of Civilization
+
+# Goddess of Justice
+
+# Goddess of Nature
+
+# Goddess of Delight
+
+# Goddess of Humility

@@ -11,7 +11,7 @@ Originally, their base of operations was on an atoll that eventually became [L'i
 
 # Formation
 
-Bertrand Bouillard was the captain of the *Water Stalker*, a ship in the Kincade Enterprises pirate fleet. His ship was well-known to be one of the best at escaping detection and capture by various navies of the [Sarmatian Sea](@/locations/sarmatian-sea.md) and was sometimes called the *Slippery Sarmatian Eel* to reference its ability to evade capture.
+Bertrand Bouillard was the captain of the *Water Stalker*, a ship in the Kincade Enterprises pirate fleet. His ship was well-known to be one of the best at escaping detection and capture by various navies of the [Sarmatian Sea](@/locations/sarmatian-sea.md) and was sometimes called the *Slippery Sarmatian Eel* to reference its ability to evade capture. Bouillard, his crew, and his ship was hailed as one of the best in the Kincade fleet. In fact, young Bertrand was considered a favorite 
 
 # Partnership with the Savoys
 

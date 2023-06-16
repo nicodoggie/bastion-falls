@@ -2,6 +2,7 @@
 title = "Angels"
 [extra]
 [taxonomies]
+genus = ["Celestial"]
 creature_type = ["humanoid", "celestial", "sentient"]
 +++
 
