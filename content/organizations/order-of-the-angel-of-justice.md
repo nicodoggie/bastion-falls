@@ -7,7 +7,7 @@ organization_type = ["Religious Society"]
 
 +++
 
-The Order of the Angel of Justice is a Religious Society within the fold of \[organisation:79\].While their belief is in alignment with the dogma of the Church, they emphasize the values that the Angel of Justice represents.
+The Order of the Angel of Justice is a Religious Society within the fold of the [Orthodox Church of the Divine Masochist](@/religions/divine-masochism/orthodox/_index.md). While their belief is in alignment with the dogma of the Church, they emphasize the values that the Angel of Justice represents.
 
 Vow of Faith
 
