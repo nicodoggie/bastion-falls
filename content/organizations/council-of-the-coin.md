@@ -1,5 +1,5 @@
 +++
-title = "Masters of the Coin"
+title = "Council of the Coin"
 [taxonomies]
 leaders = []
 organization_type = []
