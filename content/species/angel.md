@@ -49,5 +49,5 @@ Not many is known about the existence of *Solars*, aside from what is referenced
 
 # Angel Moral Alignment
 
-It is unknown how angels come at their moral alignment, and become so deeply intwined with them that they follow every letter of them to a fault. They are considered to embody everything that is "good", but how "good" is interpreted can vary wildly across belief systems. For the most part, what the angel does consider good, aligns absolutety with a god's. For example, an angel of the [Reformed Church of the Divine Masochist](@/religions/divine-masochism/reformist/_index.md) may find it completely acceptable that they inflict flagellation on their members.
+It is unknown how angels come at their moral alignment, and become so deeply intwined with them that they follow every letter of them to a fault. They are considered to embody everything that is "good", but how "good" is interpreted can vary wildly across belief systems. For the most part, what the angel does consider good, aligns absolutety with a god's. For example, a hypothetical angel of the [Reformed Church of the Divine Masochist](@/religions/divine-masochism/reformist/_index.md) may find it completely acceptable that they inflict flagellation on their members.
 
