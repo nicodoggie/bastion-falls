@@ -15,7 +15,7 @@ commitContent
       const match = change.match(/^(\w)\s+(content\/.+\.md)$/);
 
       if (match?.length === 3) {
-        const [, typeItem, path] = match;
+        let [, typeItem, path] = match;
 
         let type;
         switch (typeItem.toLowerCase()) {
@@ -27,6 +27,13 @@ commitContent
             break;
           case 'd':
             type = 'deleted';
+            break;
+          case 'r':
+            type = 'renamed';
+            const matchPath = path.match(/->\s+(.+)*/);
+            if (matchPath && matchPath.length > 1) {
+              path = matchPath[1];
+            }
             break;
         }
         return {
@@ -47,7 +54,6 @@ commitContent
     let fileContent = ''
     for (const [key, values] of Object.entries(filtered).sort()) {
       if (key === 'deleted') {
-        console.log('deleted', key, values);
         continue;
       }
       fileContent += `# ${key}\n`;
@@ -56,7 +62,6 @@ commitContent
         if (path) {
           const pathname = path.replace('content', '')
             .replace(/((_?index)?\.md$)/, '');
-          console.log(pathname)
           url.pathname = pathname;
           const { data } = await frontmatter.read(path);
 
