@@ -17,6 +17,25 @@ jobs:
       run: yarn install --immutable
     - name: Build Kingraph SVGs
       run: ./kingraph.sh
+    - uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require("fs");
+          const commits = ${{ toJSON(github.event.commits) }}
+          let changelog = '';
+          for (const commit of commits) {
+            const { id, author, url, message } = commit;
+            changelog += `+++\ntitle = "Changelog"\n+++\n\n`
+            changelog += `Commit ${id} by ${author}: ${url}\n`;
+            changelog += `---\n\n`;
+            changelog += `${message}\n\n`;
+          }
+          fs.writeFileSync('content/CHANGELOG.md', changelog);
+    - name: Upload changelog as artfact
+      uses: actions/upload-artifact@v3
+      with:
+        name: CHANGELOG.md
+        path: content/CHANGELOG.md
     - name: Build Zola
       uses: shalzz/zola-deploy-action@v0.17.2
       env: 
@@ -26,6 +45,8 @@ jobs:
       with:
         apiToken: ${{ secrets.CF_API_KEY }}
         command: pages deploy public --project-name bastion-falls --commit-hash ${{ github.sha }}
+    - name: Save CHANGELOG.md as an artifact and link it on Discord
+      run: echo -ne "${{ github.event.commits[0].message }}" > content/changelog.md
     - name: Discord notification
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
