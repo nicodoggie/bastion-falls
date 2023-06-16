@@ -26,9 +26,9 @@ jobs:
           for (const commit of commits) {
             const { id, author, url, message } = commit;
             changelog += `+++\ntitle = "Changelog"\nweight = 99\n+++\n\n`
-            changelog += `Commit ${id} by ${author}: ${url}\n`;
+            changelog += `Commit ${id} by ${author.username}: ${url}\n\n`;
             changelog += `---\n\n`;
-            changelog += `${message}\n\n`;
+            changelog += `${message.replace(/\]\s+\(/, "]()")}\n\n`;
           }
           fs.writeFileSync('content/changelog.md', changelog);
     - name: Upload changelog as artifact
@@ -54,6 +54,6 @@ jobs:
       with:
         args: |
           The project {{ EVENT_PAYLOAD.repository.full_name }} has been deployed.
-          See the changes on https://bastion-falls.thekennel.info/CHANGELOG
+          See the changes on https://bastion-falls.thekennel.info/changelog/
 
           
