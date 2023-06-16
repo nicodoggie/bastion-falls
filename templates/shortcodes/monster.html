@@ -4,5 +4,5 @@
 {% set slugged = name | slugify %}
 {% endif %}
 
-{%- set path = "https://dndbeyond.com/spells/"~slugged -%}
+{%- set path = "https://dndbeyond.com/monsters?filter-search="~name -%}
 <a href="{{ path }}" rel="external,noopener,noreferrer">{{ name }}</a>
