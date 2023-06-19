@@ -166,8 +166,29 @@ callout;
   .nav-sidebar {
     position: sticky;
     max-height: 89vh;
-    width: 20rem;
+    // width: 20rem;
     overflow: scroll;
+    display: flex;
+    flex-direction: row;
+
+    #sidebar-container[data-display="hidden"] {
+      display: none;
+    }
+
+    #sidebar-container[data-display="show"] {
+      display: block;
+    }
+
+    #sidebar-container {
+      width: 18rem;
+    }
+
+
+    #burger {
+      // height: fit-content;
+      text-align: center;
+      width: 2rem;
+    }
 
     .page-selected {
       background: var(--bg-menu-selected);
@@ -291,6 +312,10 @@ callout;
   @media screen and (max-width: 1023px) {
     main {
       flex-direction: column;
+    }
+
+    .nav-sidebar {
+      height: 100vh;
     }
   }
 }

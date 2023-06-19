@@ -1,56 +1,60 @@
 {%- import "macros/utils.html" as utils -%}
 {%- import "macros.html" as macros -%}
 {% set section = get_section(path="_index.md") %}
-<div id="burger">
-</div>
 <nav class="nav-sidebar">
-  <div id="calendar-header">
-    {{ macros::calendar(size='s')}}
+  <div id="sidebar-container" data-display="show">
+    <div id="calendar-header">
+      {{ macros::calendar(size='s')}}
+    </div>
+    <ul class="tree-root">
+      {% for page in section.pages %}
+      <li {% if current_path==page.path -%}class="page-selected" {%- endif -%}>
+        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+      </li>
+      {% endfor %}
+      {% for _sub in section.subsections %}
+      {% set sub = get_section(path=_sub) %}
+      {% set nav_id = "nav-toggle-"~ sub.title | slugify %}
+      {% set nav_label_id = "label-nav-toggle-"~ sub.title | slugify %}
+      <li>
+        <input type="checkbox" class="nav-toggle" name="nav-toggle" aria-hidden="true" id="{{ nav_id }}" />
+        <label id="{{ nav_label_id }}" class="nav-toggle-label" for="{{ nav_id }}">
+          {{ sub.title }}
+          <a href="{{ sub.permalink | safe }}">
+            <i class="fa-solid fa-link"></i>
+          </a>
+        </label>
+      </li>
+      {% if sub.pages | length > 0 %}
+      <ul class="sub-tree" data-for="{{ nav_id }}" data-display="hidden">
+        {% for _subsub in sub.subsections %}
+        {% set subsub = get_section(path=_subsub) %}
+        <li title="{{ subsub.title }}" {% if current_path==subsub.path -%}class="page-selected" {%- endif -%}>
+          <a href="{{ subsub.permalink | safe }}">
+            <div>{{ subsub.title }}</div>
+          </a>
+        </li>
+        {% endfor %}
+        {% for page in sub.pages %}
+
+        <li title="{{ page.title }}">
+          <a href="{{ page.permalink | safe }}">
+            <div>{{ page.title }}</div>
+          </a>
+        </li>
+        {% endfor %}
+        </ul>
+
+      {% endif %}
+
+      {% endfor %}
+      </ul>
   </div>
-  <ul class="tree-root">
-    {% for page in section.pages %}
-    <li {% if current_path==page.path -%}class="page-selected" {%- endif -%}>
-      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-    </li>
-    {% endfor %}
-    {% for _sub in section.subsections %}
-    {% set sub = get_section(path=_sub) %}
-    {% set nav_id = "nav-toggle-"~ sub.title | slugify %}
-    {% set nav_label_id = "label-nav-toggle-"~ sub.title | slugify %}
-    <li>
-      <input type="checkbox" class="nav-toggle" name="nav-toggle" aria-hidden="true" id="{{ nav_id }}" />
-      <label id="{{ nav_label_id }}" class="nav-toggle-label" for="{{ nav_id }}">
-        {{ sub.title }}
-        <a href="{{ sub.permalink | safe }}">
-          <i class="fa-solid fa-link"></i>
-        </a>
-      </label>
-    </li>
-    {% if sub.pages | length > 0 %}
-    <ul class="sub-tree" data-for="{{ nav_id }}" data-display="hidden">
-      {% for _subsub in sub.subsections %}
-      {% set subsub = get_section(path=_subsub) %}
-      <li title="{{ subsub.title }}" {% if current_path==subsub.path -%}class="page-selected" {%- endif -%}>
-        <a href="{{ subsub.permalink | safe }}">
-          <div>{{ subsub.title }}</div>
-        </a>
-      </li>
-      {% endfor %}
-      {% for page in sub.pages %}
-
-      <li title="{{ page.title }}">
-        <a href="{{ page.permalink | safe }}">
-          <div>{{ page.title }}</div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-
-    {% endif %}
-
-    {% endfor %}
-  </ul>
+  <div id="burger">
+    <i class="fa-solid fa-bars"></i>
+  </div>
 </nav>
+    
 <script src="{{ get_url(path='nav.js') }}" defer></script>
 <script>
   const navToggles = document.getElementsByName('nav-toggle');
