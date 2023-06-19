@@ -122,6 +122,7 @@ callout;
     width: -webkit-fill-available;
     width: -moz-available;
     width: fill-available;
+    flex: 1 1 auto;
 
     padding: 0 1.5rem;
     line-height: 1.5rem;
@@ -166,7 +167,7 @@ callout;
   .nav-sidebar {
     position: sticky;
     max-height: 89vh;
-    // width: 20rem;
+    width: 20rem;
     overflow: scroll;
     display: flex;
     flex-direction: row;
@@ -181,12 +182,15 @@ callout;
 
     #sidebar-container {
       width: 18rem;
+      height: 89rem;
+      flex: 1 1 auto;
     }
 
 
     #burger {
       // height: fit-content;
       text-align: center;
+      height: 2rem;
       width: 2rem;
     }
 
@@ -313,9 +317,8 @@ callout;
     main {
       flex-direction: column;
     }
-
     .nav-sidebar {
-      height: 100vh;
+      flex-direction: column-reverse;
     }
   }
 }
