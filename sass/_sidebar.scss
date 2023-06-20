@@ -2,6 +2,25 @@
   height: max-content;
   text-align: left;
 
+  ul li {
+    .nav-toggle-label {
+      padding: 0.5rem;
+    }
+
+    a {
+      padding: 0;
+
+      div {
+        padding: 0 0.5rem;
+      }
+    }
+  }
+
+  li {
+    list-style-type: none;
+    text-indent: 0rem;
+  }
+
   .sidebar-portrait {
     width: max-content;
     position: relative;
@@ -49,25 +68,4 @@
   overflow-x: auto;
   clear: right;
   float: right;
-}
-
-#article-sidebar {
-  ul li {
-    .nav-toggle-label {
-      padding: 0.5rem;
-    }
-
-    a {
-      padding: 0;
-
-      div {
-        padding: 0 0.5rem;
-      }
-    }
-  }
-
-  li {
-    list-style-type: none;
-    text-indent: 0rem;
-  }
 }

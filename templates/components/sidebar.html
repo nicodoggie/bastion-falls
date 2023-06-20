@@ -18,6 +18,7 @@
   {% block sidebar_contents %}
   {% if page %}
   {{ utils::sidebar_portrait(config=page) }}
+  
   {% if page.path is starting_with("/character") %}
   {{ macros::sidebar_character(name=page.title, config=page) }}
   {% endif %}
@@ -27,8 +28,24 @@
   {% if (page.path is starting_with("/events")) %}
   {{ macros::sidebar_event(name=page.title, config=page) }}
   {% endif %}
-
-
+  {% if page.toc %}
+  <ul>
+    {% for h1 in page.toc %}
+    <li>
+      <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+      {% if h1.children %}
+      <ul>
+        {% for h2 in h1.children %}
+        <li>
+          <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
   {% endif %}
   {% endblock sidebar_contents %}
 </aside>

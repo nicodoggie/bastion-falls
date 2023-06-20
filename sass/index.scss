@@ -1,7 +1,6 @@
 @import "vars";
 
-@layer base,
-callout;
+@layer base, callout, sidebar;
 
 @keyframes fade-in {
   0% {
@@ -164,7 +163,7 @@ callout;
     }
   }
 
-  .nav-sidebar {
+  nav.nav-sidebar {
     position: sticky;
     max-height: 89vh;
     width: 20rem;
@@ -317,7 +316,7 @@ callout;
     main {
       flex-direction: column;
     }
-    .nav-sidebar {
+    nav.nav-sidebar {
       flex-direction: column-reverse;
     }
   }
@@ -377,7 +376,10 @@ callout;
   font-size: 0.7rem;
 }
 
-@import "sidebar";
+@layer sidebar {
+  @import "sidebar";
+}
+
 @import "taxonomy-nav";
 @import "search";
 @import "spoilers";

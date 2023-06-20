@@ -5,6 +5,24 @@
   {{ utils::sidebar_portrait(config=section) }}
   <h1>{{ section.title }}</h1>
   <hr />
+  {% if section.toc %}
+  <ul>
+    {% for h1 in section.toc %}
+    <li>
+      <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+      {% if h1.children %}
+      <ul>
+        {% for h2 in h1.children %}
+        <li>
+          <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
   <ul class="tree-root">
     {% for page in section.pages %}
     <li {% if current_path==page.path -%}class="page-selected" {%- endif -%}>
