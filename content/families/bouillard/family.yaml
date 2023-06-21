@@ -1,9 +1,14 @@
 families:
   - house: Bouillard
-    parents: [Bertrand]
-    children: []
+    parents: [Bertrand, Geraldine]
+    children: [Rolaund, Renee, Calamut]
     families:
-      - parents: [Romulus]
+      - parents: [Rolaund, Evangeline]
+        children: []
+      - parents: [Calamut, Palmira]
+      - parents: [Renee, Henrique]
+      - parents: [Timothee, Mattea]
+      - parents: [Romulus, Anya]
         children: []
       - parents: [Yves Renault, Nicolette]
         children: [Basillios, Renault II]
@@ -12,9 +17,34 @@ people:
     fullname: Bertrand Maximilian Théodore Bouillard
   Romulus:
     fullname: Romulus Bouillard
+    born: "1109-12-02"
+    died: "1190-05-15"
+    class: [dead]
   Yves Renault:
+    fullname: Yves Renault Bouillard
+    born: "1198-02-14"
+    died: "1255-06-15"
+    class: [dead]
   Nicolette:
   Basillios:
   Renault II:
   Nathalie:
+    fullname: Nathalie Bouillard
+    born: "1151-01-12"
+    died: "1232-05-12"
+    class: [dead]
   Mariona:
+
+  styles:
+  undead:
+    color: black
+    penwidth: 1
+  dead:
+    color: red
+    penwidth: 0.25
+  unknown:
+    color: gray
+    penwidth: 0.25
+  
+
+

@@ -1,7 +1,0 @@
-+++
-slug = "poharah"
-title = "Poharah"
-
-+++
-
-
