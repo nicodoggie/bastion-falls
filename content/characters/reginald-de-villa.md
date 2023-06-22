@@ -20,7 +20,7 @@ parents = ["Regidor de Villa","Alicia Molyneaux"]
 siblings = ["Porticia de Villa"]
 +++
 
-Reginald de Villa is an elected Draft Councilor in [Port Rainoso](@/locations/port-rainoso.md). He is a 5th generation resident from the prominent \[race:114\] de Villa clan of merchants.
+Reginald de Villa is an elected Draft Councilor in [Port Rainoso](@/locations/port-rainoso.md). He is a 5th generation resident from the prominent [Estregan](@/ethnicities/estregan.md) de Villa clan of merchants.
 
 As of 1275, he is serving his 2nd term as Draft Councilor, and is up for re-election in the next calendar year.  
 

@@ -1,7 +1,7 @@
 +++
 ingame_date = "1275-2-9"
 journal_id = "1"
-slug = "on-the-fall-of-the-western-kalassarian-empire-and-the-formation-of-the-pre-apgarian-kingdoms"
+slug = "on-the-fall-of-the-western-kalassarian-empire"
 title = "On the Fall of the Western Kalassarian Empire and the Formation of the Pre-Apgarian Kingdoms"
 [taxonomies]
 journal_type = ["excerpt"]
@@ -11,7 +11,7 @@ journal_type = ["excerpt"]
 _Apgar_ is well-known to be the first collection of states that have independently, by universal suffrage, selected individuals to enact their will in a representative government. There was a time when the eminent 
 [Confrederation of Apgarian States](@/locations/apgar.md) was not even possible in the imaginations of its constituents' ancestors. 
 
-Each of Apgar's component states were once kingdoms, formed in the twilight of the Great Kalassarian Empire. In the intravening years between the [Fall of the Western Kalassarian Empire](@/events/fall-of-the-western-kalassarian-empire.md) in 466 and the \[First](@/events/first-apgarian-revolution.md) of the three Apgarian Revolutions in 976, these kingdoms formed, clashed, dissolved and subsumed each other, and shaped world events in their own right. Most well-known of these world-shaking events beloved
+Each of Apgar's component states were once kingdoms, formed in the twilight of the Great Kalassarian Empire. In the intravening years between the [Fall of the Western Kalassarian Empire](@/events/fall-of-the-western-kalassarian-empire.md) in 466 and the [First](@/events/first-apgarian-revolution.md) of the three Apgarian Revolutions in 976, these kingdoms formed, clashed, dissolved and subsumed each other, and shaped world events in their own right. Most well-known of these world-shaking events beloved
 by historians are the [First](@/events/first-anasaian-estregan-war.md) and [Second](@/events/second-anasaian-estregan-war.md) Anasaian-Estregan Wars, which saw the [Kingdom of Poasah](@/locations/poasah.md) become a nation of great influence in the Beteran political zeitgeist.
 
 It is of great interest then, to see how these kingdoms have formed, as the once-indomitable Kalassar crumbled from internal and external pressures. This article does not aim to be an exhaustive treatise into the minutia of of every dynamic that led to the present-day situation of these entities, however. 
@@ -56,7 +56,7 @@ Meanwhile in Hapgaria, [Baraon](@/locations/baraon.md) was in [open rebellion](@
 
 ### The Baraonian Rebellion
 
-Known as the Bread-basket of the West, Baraon was critically-important to the food supply of the western half of the empire. Grain and other staple foods, such as potatoes, beets and lentils. The wide plains and mostly consistent weather, and easy access to aquifers from the Repa and Tarpa mountains make it usually give rise to the region's very favorable farming conditions. But in the early 400s, the Baraon region, which not only included most of the present-day state of Baraon, but extended northward to most of today's southern \[location:185\], southward to most of \[location:186\] and eastward to the entirety of \[location:183\], was hit by a series of droughts and crop failures. At the same time, the \[event:75\] cut-off the region from supplies from the eastern parts of the empire. Famine and disease soon followed. People were miserable, disheartened, and most importantly, angry. Angry at the rich administrators of Baraon, who have been callously flouting personal supplies and goods from overseas trade partners by holding lavish parties among themselves while the rest of the populace starved.
+Known as the Bread-basket of the West, Baraon was critically-important to the food supply of the western half of the empire. Grain and other staple foods, such as potatoes, beets and lentils. The wide plains and mostly consistent weather, and easy access to aquifers from the Repa and Tarpa mountains make it usually give rise to the region's very favorable farming conditions. But in the early 400s, the Baraon region, which not only included most of the present-day state of Baraon, but extended northward to most of today's [southern Poasah](@/locations/poasah.md), southward to most of \[location:186\] and eastward to the entirety of \[location:183\], was hit by a series of droughts and crop failures. At the same time, the \[event:75\] cut-off the region from supplies from the eastern parts of the empire. Famine and disease soon followed. People were miserable, disheartened, and most importantly, angry. Angry at the rich administrators of Baraon, who have been callously flouting personal supplies and goods from overseas trade partners by holding lavish parties among themselves while the rest of the populace starved.
 
 Sporadic uprisings among the peasantry began springing up near the fringes of the region. Most of them, however, was put down quite handily, since the legions were still in the pay of the administration. As the famine and the war extended beyond a decade, additional taxes were being levied against the merchants and the larger landowners. It doesn't take much imagination that they did not take this lying still. A consortium of these merchants and landowners began pooling their resources together in order to hire mercenaries to lead the rebellion.
 

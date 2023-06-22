@@ -19,7 +19,7 @@ nearby island. The uncharted island was surrounded by a mangrove forest and, to 
 [Estregan Language](@/languages/estregan.md).
 
 By general consensus by the survivors, they dedicated the island to the voyage's deceased captain, [Marvin Moreaux](@/characters/marvin-moreaux.md) when
-they publish their reports on it. The natives called themselves the _Mundaguk_, meaning "Men at the edge \[of the world\]". The Mundaguk practiced a
+they publish their reports on it. The natives called themselves the _Mundaguk_, meaning "Men at the edge of the world". The Mundaguk practiced a
 form of gerontophagic ritual cannibalism.
 
 # Ritual Cannibalism
