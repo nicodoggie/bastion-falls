@@ -13,9 +13,9 @@ by law, and any development must be in coordination with their council of elders
 The Garatonian Elders voted unanimously to forbid any mining operations by Voracious, and due to his contempt, barred DeVos from entering Aubergine Garatonie.
 
 # Paula Abdul
-DeVos met [Paula Abdul](@/characters/paula-abdul.md) at curtain call at a production of [Cowl of Moonlight](@/misc/cowl-of-the-moonlight.md). Since then,
+DeVos met [Paula Abdul](@/characters/paula-abdul.md) at curtain call at a production of [Cowl of the Moonlight](@/misc/cowl-of-the-moonlight.md). Since then,
 they have become frequent companions. During one of their nights out, he had told her about the frustrating encounter with the Garatonian Elders, and that
-the veins of electrum would "at least double \[his\] company's value at least four-fold". Abdul knew of certain superstitions that might make the Garatonians
+the veins of electrum would "at least double his company's value at least four-fold". Abdul knew of certain superstitions that might make the Garatonians
 more "amenable" to exploitation.
 
 # Performance

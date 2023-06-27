@@ -1,7 +1,7 @@
 +++
 title = "L' Ille Descargar"
 [taxonomies]
-location_type = ["island"]
+location_type = ["islet"]
 +++
 
 {{ stub() }}

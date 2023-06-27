@@ -32,7 +32,8 @@ The Apharian declaration of the armistice read as follows:
 >     
 >   The Citizens of these States offer the following concessions in exchange:
 >   * Cession of the territories collectively called the 
->     [Garatonian Lands](@/locations/garatonian-lands.md) to the Kingdom of Poasah.
+>     [Garatonian Lands](@/locations/garatonian-lands.md) to the Kingdom of Poasah,
+>     with the exception of the north-western territory, to be called the [Apgarian Garatoniè](@/locations/garatonie.md)
 >   * Cession of the territories occupied by the _Grand Confederate Army of Apgar_ in the [Texopictlan region](@/locations/texopictlan.md) to the Kingdom of Mehicania.
 >   * The immediate demilitarization of all islands within the chain of 
 >     [L' Illes Apgarie](@/locations/l-illes-apgarie.md)

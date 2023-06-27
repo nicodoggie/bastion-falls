@@ -6,4 +6,4 @@ title = "Kolhan Conquest"
 
 +++
 
-The Kolhan Conquest is a collective name for a series of campaigns that began when the Ahurians landed on the southern shores of Poasah in 433 AI and ended a year after the \[event:64\] in 466 AI. At the end of the Kolhan Conquest, the Principality of Kolha Ahuria is officially founded.
+The Kolhan Conquest is a collective name for a series of campaigns that began when the Ahurians landed on the southern shores of Poasah in 433 AI and ended a year after the [Razing of the City of Kalassus](@/events/razing-of-the-city-of-kalassus.md) in 466 AI. At the end of the Kolhan Conquest, the Principality of Kolha Ahuria is officially founded.

@@ -59,7 +59,7 @@ island surrounded by mangroves. The island, to their surprise, was populated by 
 [Estregan Language](@/languages/estregan.md).
 
 By general consensus by the survivors, they dedicated the island to the voyage's deceased captain, [Marvin Moreaux](@/characters/marvin-moreaux.md) when
-they publish their reports on it. The natives called themselves the _Mundaguk_, meaning "Men at the edge \[of the world\]". The Mundaguk practiced a
+they publish their reports on it. The natives called themselves the _Mundaguk_, meaning "Men at the edge of the world". The Mundaguk practiced a
 form of gerontophagic ritual cannibalism.
 
 The ritual is undergone when an individual member of the community reaches a certain age, and is without obvious signs of disease. First the island shamans prepare a
@@ -80,6 +80,6 @@ Attempts were made to hide the incident, but eventually the University of Mayonn
 of mushrooms in his possession though. The fact that his first victim was a man that persecuted him for most of his public life had emboldened him to
 try it more, believing that he could direct his Moreaux Monster to be a force for good.
 
-A play called [Cowl of Moonlight](@/misc/cowl-of-the-moonlight.md) was in the works based on the Moreaux Monster and his exploits. This had brought the
+A play called [Cowl of the Moonlight](@/misc/cowl-of-the-moonlight.md) was in the works based on the Moreaux Monster and his exploits. This had brought the
 attention of [Paula Abdul](@/characters/paula-abdul.md) to him, right as he was running out of the mushroom, and suffering withdrawal as he rationed them.
 She offered to find him more mushrooms in return of doing errands for her. These errands often involved, eating specific individuals for her.
