@@ -14,6 +14,7 @@ location_type = ["island"]
 
 # Raibon Island
 
+{{ map(asset="locations/raibon-island.png", width=500) }}
 
 Raibon Island is the largest and most populous island in the L' Illes Apgarie chain. Its government is fairly autonomous its supposed administrative region of Sanery due to the special status enshrined in the Treaty of Turain. The Treaty also specifies that the islands and the surrounding waters of L'Ille Apgarie as a demilitarized zone. A consequence of this, along with Raibon's geographical features made its capital, Port Rainoso, an attractive home to a number of official maritime offices, as well as a number of somewhat "ad hoc" ones.
 
