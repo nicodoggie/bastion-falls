@@ -1,6 +1,7 @@
 {% import "macros/sidebar/character.html" as char %}
 {% import "macros/sidebar/location.html" as loc %}
 {% import "macros/sidebar/event.html" as event %}
+{% import "macros/sidebar/stats.html" as stats %}
 
 {% macro callout(type="", body) %}
 <div class="callout-block {{ type | lower }}">
@@ -33,5 +34,9 @@
 {% endmacro sidebar_character %}
   
 {% macro sidebar_event(name, config) %}
-{{ event::event(name=name, config=config) }}
+  {{ event::event(name=name, config=config) }}
+{% endmacro sidebar_event %}
+
+{% macro sidebar_stats(name, config) %}
+  {{ stats::stats(name=name, config=config) }}
 {% endmacro sidebar_event %}

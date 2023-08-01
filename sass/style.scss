@@ -218,6 +218,23 @@ img {
       text-align: center;
     }
   }
+  .sidebar-stats {
+    table.stats-ability-table {
+      tr {
+        th, td {
+          padding: 0;
+          width: 1rem;
+          text-align: center;
+        } 
+      }
+    }
+  dt {
+    font-weight: bold;
+  }
+  dd {
+    text-align: left;
+  }
+}
 }
 
 table.taxonomy-list {

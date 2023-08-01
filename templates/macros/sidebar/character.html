@@ -1,4 +1,5 @@
 {% import "macros/utils.html" as utils %}
+{% import "macros/sidebar/stats.html" as stats %}
 
 {% macro character(name, config) %}
   {# Character portraits#}
@@ -14,11 +15,13 @@
     </a>
   </h2>
   <hr />
-
+  {{ stats::stats(name=page.title, config=page) }}
+  <hr />
   {% set taxa = config.taxonomies %}
   {%if config.extra and config.extra.cha %}
     {{ utils::dfn_list(dict=config.extra.cha)}}
   {% endif %}
+  {{ utils::list_taxa(taxon='languages', taxa=taxa, config=config) }}
   {{ utils::list_taxa(taxon='organizations', taxa=taxa, config=config) }}
   {{ utils::list_taxa(taxon='religions', taxa=taxa, config=config) }}
   {{ utils::list_taxa(taxon='families', taxa=taxa, config=config) }}

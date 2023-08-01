@@ -17,6 +17,7 @@ taxonomies = [
   { name = "ethnicities", feed = true, render = true },
   { name = "religions", feed = true, render = false },
   { name = "species", feed = true, render = false },
+  { name = "languages", feed = true, render = false },
   { name = "parents", feed = false, render = false },
   { name = "siblings", feed = false, render = false },
   { name = "children", feed = false, render = false },

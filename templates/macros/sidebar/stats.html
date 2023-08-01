@@ -1,0 +1,74 @@
+{% import "macros/utils.html" as utils %}
+
+{% macro stats(name, config) %}
+{% if config.extra.stats %}
+<div class="sidebar-stats">
+  {% set stats = config.extra.stats %}
+  <table class="stats-ability-table">
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>WIS</th>
+      <th>INT</th>
+      <th>CHA</th>
+    </tr>
+    <tr>
+      <td>{{ stats.str }}</td>
+      <td>{{ stats.dex }}</td>
+      <td>{{ stats.con }}</td>
+      <td>{{ stats.wis }}</td>
+      <td>{{ stats.int }}</td>
+      <td>{{ stats.cha }}</td>
+    </tr>
+  </table>
+  <hr />
+  <dl>
+    {% if stats.ac %}
+    <dt>Armor Class</dt>
+    <dd>{{ stats.ac }}</dd>
+    {% endif %}
+    {% if stats.hp %}
+    <dt>Hit Points</dt>
+    <dd>{{ stats.hp }}</dd>
+    {% endif %}
+    {% if stats.speed %}
+    <dt>Speed</dt>
+    {% set_global speeds = [] %}
+    {% for type, value in stats.speed %}
+    {% if type == 'walk' %}
+    {% set_global speeds = speeds | concat(with=value ~ "ft.") %}
+    {% else %}
+    {% set dfnType = "<dfn>" ~ type ~ "</dfn>" %}
+    {% set_global speeds = speeds | concat(with=dfnType ~ " " ~ value ~ "ft." ) %}
+    {% endif %}
+    {% endfor %}
+    <dd>
+      {{ speeds | join(sep=", ") | safe }}
+    </dd>
+    {% endif %}
+    {% if stats.skills %}
+    <dt>Skills</dt>
+    {% set_global skills = [] %}
+    {% for type, value in stats.skills %}
+    {% set titleType = type | title %}
+    {% set dfnType = "<dfn>" ~ titleType ~ "</dfn>" %}
+    {% set strValue = "" ~ value %}
+    {% if value >= 0 %}
+    {% set strValue = "+"~strValue %}
+    {% endif %}
+    {% set_global skills = skills | concat(with=dfnType ~ " " ~ strValue ) %}
+    {% endfor %}
+    <dd>
+      {{ skills | join(sep=", ") | safe }}
+    </dd>
+    {% endif %}
+    {% if stats.proficiency %}
+    <dt>Proficiency Bonus</dt>
+    <dd>+{{ stats.proficiency }}</dd>
+    {% endif %}
+  </dl>
+</div>
+{% endif %}
+
+{% endmacro stats %}
