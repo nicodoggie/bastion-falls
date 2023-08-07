@@ -19,6 +19,9 @@
   {% if page.path is starting_with("/characters") %}
     {% set class = class ~ " sidebar-character"%}
   {% endif %}
+  {% if page.path is starting_with("/vehicles") %}
+    {% set class = class ~ " sidebar-character"%}
+  {% endif %}
   {% if page.path is starting_with("/locations") %}
     {% set class = class ~ " sidebar-location" %}
   {% endif %}
@@ -31,7 +34,7 @@
   {% if class != "" %}
   <aside class="sidebar {{ class }}">
     {{ utils::sidebar_portrait(config=page) }}
-    {% if page.path is starting_with("/character") %}
+    {% if page.path is starting_with("/character") or page.path is starting_with("/vehicles") %}
       {{ macros::sidebar_character(name=page.title, config=page) }}
     {% endif %}
     {% if page.path is starting_with("/locations") %}

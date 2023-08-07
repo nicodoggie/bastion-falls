@@ -5,9 +5,10 @@ ddb = ""
 kingraph_key = "Agnes"
 mortality_status = "Alive"
 [extra.stats]
+size = "medium"
+type = "human"
 ac = 16
 hp = "103 (14d8+40)"
-speed = {walk = 30, swim = 10}
 str = 18
 dex = 14
 con = 8
@@ -15,6 +16,9 @@ wis = 20
 int = 16
 cha = 12
 proficiency = 4
+[extra.stats.speeds]
+walk = 30
+swim = 10
 [extra.stats.skills]
 perception = 9
 deception = 9
@@ -22,6 +26,7 @@ intimidation = 6
 "sleight of hand" = 6
 [extra.stats.senses]
 "passive perception" = 15
+
 [extra.cha]
 age = "89"
 aliases = ["Mama Agnes"]

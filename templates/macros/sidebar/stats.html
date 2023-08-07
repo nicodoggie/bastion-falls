@@ -32,40 +32,15 @@
     <dt>Hit Points</dt>
     <dd>{{ stats.hp }}</dd>
     {% endif %}
-    {% if stats.speed %}
-    <dt>Speed</dt>
-    {% set_global speeds = [] %}
-    {% for type, value in stats.speed %}
-    {% if type == 'walk' %}
-    {% set_global speeds = speeds | concat(with=value ~ "ft.") %}
-    {% else %}
-    {% set dfnType = "<dfn>" ~ type ~ "</dfn>" %}
-    {% set_global speeds = speeds | concat(with=dfnType ~ " " ~ value ~ "ft." ) %}
-    {% endif %}
-    {% endfor %}
-    <dd>
-      {{ speeds | join(sep=", ") | safe }}
-    </dd>
+    {% if stats.speeds %}
+      {{ utils::speeds(speeds=stats.speeds) }}
     {% endif %}
     {% if stats.skills %}
-    <dt>Skills</dt>
-    {% set_global skills = [] %}
-    {% for type, value in stats.skills %}
-    {% set titleType = type | title %}
-    {% set dfnType = "<dfn>" ~ titleType ~ "</dfn>" %}
-    {% set strValue = "" ~ value %}
-    {% if value >= 0 %}
-    {% set strValue = "+"~strValue %}
-    {% endif %}
-    {% set_global skills = skills | concat(with=dfnType ~ " " ~ strValue ) %}
-    {% endfor %}
-    <dd>
-      {{ skills | join(sep=", ") | safe }}
-    </dd>
+      {{ utils::skills(skills=stats.skills) }}
     {% endif %}
     {% if stats.proficiency %}
     <dt>Proficiency Bonus</dt>
-    <dd>+{{ stats.proficiency }}</dd>
+    <dd>{{ utils::signed_int_str(value=stats.proficiency) }}</dd>
     {% endif %}
   </dl>
 </div>

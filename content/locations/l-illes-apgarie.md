@@ -6,4 +6,4 @@ location_type = ["island chain"]
 
 +++
 
-
+{{ map(asset="locations/l-illes-apgarie.jpg", width=500) }}

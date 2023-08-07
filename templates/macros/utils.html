@@ -1,3 +1,37 @@
+[{% macro speeds(speeds) %}
+  <dt>Speed</dt>
+  {% set_global set_speeds = [] %}
+  {% for type, value in speeds %}
+  {% if type == 'walk' %}
+  {% set_global set_speeds = set_speeds | concat(with=value ~ "ft.") %}
+  {% else %}
+  {% set dfnType = "<dfn>" ~ type ~ "</dfn>" %}
+  {% set_global set_speeds = set_speeds | concat(with=dfnType ~ " " ~ value ~ "ft." ) %}
+  {% endif %}
+  {% endfor %}
+  <dd>
+    {{ set_speeds | join(sep=", ") | safe }}
+  </dd>
+{% endmacro  %}
+
+{% macro signed_int_str(value) %}
+  {%- if value >= 0 -%}+{%- endif -%}{{ value }}
+{% endmacro  %}
+
+{% macro skills(skills) %}
+<dt>Skills</dt>
+  {% set_global set_skills = [] %}
+  {% for type, value in skills %}
+  {% set titleType = type | title %}
+  {% set dfnType = "<dfn>" ~ titleType ~ "</dfn>" %}
+  {% set strValue = self::signed_int_str(value=value) %}
+  {% set_global set_skills = set_skills | concat(with=dfnType ~ " " ~ strValue ) %}
+  {% endfor %}
+<dd>
+  {{ set_skills | join(sep=", ") | safe }}
+</dd>
+{% endmacro skills %}
+
 {% macro dfn_list(dict) %}
 <dl>
   {% for key, item in dict %}

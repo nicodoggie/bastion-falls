@@ -6,7 +6,7 @@
 
   {# Set mortality icon #}
   {% set mortality = 'Alive' %}
-  {% if config.extra and config.extra.mortality_status%}
+  {% if config.extra and config.extra.mortality_status %}
   {% set mortality = config.extra.mortality_status | title %}
   {% endif %}
   <h2 class="mortality-{{ mortality | lower }}" title="{{ mortality }}">
@@ -14,6 +14,9 @@
       {{ name }}
     </a>
   </h2>
+  {% if config.extra.stats.size and config.extra.stats.type %}
+  <em>{{config.extra.stats.size}} {{config.extra.stats.type}}</em>
+  {% endif %}
   <hr />
   {{ stats::stats(name=page.title, config=page) }}
   <hr />
