@@ -13,4 +13,7 @@ cha = 0
 [extras.stats.resistances]
 +++
 
-
+{{ map(asset="vehicles/rozenmaiden/01-deck.png", width=500) }}
+{{ map(asset="vehicles/rozenmaiden/02-castles.png", width=500) }}
+{{ map(asset="vehicles/rozenmaiden/03-lower-deck.png", width=500) }}
+{{ map(asset="vehicles/rozenmaiden/04-hold.png", width=500) }}
