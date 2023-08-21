@@ -26,7 +26,7 @@ The island was once named Mauricia by the Kalassarian Empire when it was settled
 
 ### Hama
 
-The [Town of Hama](@/locations/hama.md) was founded on the site the native Hausi called the Tichom. The existence of the town was considered mythological by scholars for years, as remnants of the settlement were never found, but recently discovered Kalassarian records indicate that the Kalassar were granted those lands for a settlement by the native ruling class. The settlement was used as a trade outpost between Kalassarian Hapgaria and Seneria.
+The [Town of Hama](@/locations/hama.md) was founded on the site the native Hausi called the *Tichom*. The existence of the town was considered mythological by scholars for years, as remnants of the settlement were never found, but recently discovered Kalassarian records indicate that the Kalassar were granted those lands for a settlement by the native ruling class. The settlement was used as a trade outpost between Kalassarian Hapgaria and Seneria.
 
 During the Fall of the Western Kalassarian Empire, Mauricia, and therefore Hama was forgotten as shipping lanes were disrupted. The town fell into disrepair, but remained settled, increasingly, by local Hausi elites. By the end of the 5th century, the town had become the cultural and religious center of a cult focused on the worship of a version of the goddess Pomona.
 
