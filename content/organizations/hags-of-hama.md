@@ -7,7 +7,7 @@ organization_type = ["Coven"]
 
 _The Hags of Hama_ are a coven of magically-gifted women who resided in the historical [Town of Hama](@/locations/town-of-hama.md). Founded by the legendary [Hama](@/characters/Hama.md), the group became the defenders of [Raibon Island](@/locations/raibon-island.md) from foreign interlopers, and the rest of the world of [Thera](@/locations/thera.md) from interplanar ones.
 
-The existence of the Hags of Hama stretches back to [Kalassarian](@/organizations/kalassarian-empire.md) times, about two decades before the [Fall of the Western Empire](@/events/fall-of-the-western-kalassarian-empire.md), but some of their rituals and traditions extend to even before the Kalassarians dubbed what is presently Raibon Island *Mauricia*. Those traditions rooted from the Estregan [Hausi](@/ethnicities/hausi.md) sea peoples who had populated the islands, who venerated the *White Witches of Tichom*. Tichom was their name for Raibon, which meant "Largest Piece Beyond the Edge" in the old Estregan dialect they spoke. The name "White Witches" is how the Hags referred to themselves within the group, and the term is also used to refer to them among the locals of [L'Illes Apgarie](@/locations/l-illes-apgarie.md).
+The existence of the Hags of Hama stretches back to pre-[Kalassarian](@/organizations/kalassarian-empire.md) times, but rose to prominence in the terrtories that would become the [Apgarian Confederacy](@/locations/apgar.md) two decades before the [Fall of the Western Empire](@/events/fall-of-the-western-kalassarian-empire.md). Many of their rituals and traditions extend to even before the Kalassarians dubbed what is presently Raibon Island as *Mauricia*. Those traditions rooted from the Estregan [Hausi](@/ethnicities/hausi.md) sea peoples who had populated the islands. These aboriginal tribes venerated the *White Witches of Tichom*. Tichom was their name for Raibon, which meant "Largest Piece Beyond the Edge" in the old Estregan dialect they spoke. The name "White Witches" is how the Hags referred to themselves within the group, and the term is also used to refer to them among the locals of [L'Illes Apgarie](@/locations/l-illes-apgarie.md).
 
 # History
 
@@ -24,9 +24,10 @@ Provided here is a timeline of known events about the Hags of Hama:
 | 2nd of 111 AI | Kalassarian settlers reach the shores of "Tochoma", a corruption of "Tichom". They claim the land under the banner of the empire as "Mauricia" |
 | 5th of 111 AI | Kalasarians name the first settlement on Mauricia as "Tochoma" to pay homage to the White Witches as avatars of the angels of Minerva |
 | 10th of 111 AI | Attempts by the Kalassarian Governor of Seneria to exercise more control over Mauricia led to his death, and a curse on his family until restitutions were made |
-| 1st of 112 AI | A new accord between the Kalassarians and the White Witches to form a joint council to govern the island. |
+| 1st of 112 AI | A new accord between the Kalassarians and the White Witches to form a joint council to govern the island; [Halorin of Fochoma](@/characters/hama.md) becomes leader of the White Witches |
 | 440 AI | Kalassarian representatives of Mauricia fled to Senera, giving control to the island to the newly reformed White Witches under Hama |
-| 910 AI | Shattering of the Town of Hama
+| 910 AI | Shattering of the Town of Hama |
+| 8th of 1275 AI | Refoundation of the Hags of Hama
 
 
 # Turbiere du Hubar
