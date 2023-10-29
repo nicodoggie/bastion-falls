@@ -11,7 +11,7 @@ pronouns = ""
 sex = ""
 [taxonomies]
 children = []
-ethnicities = [Hausi, Estregan]
+ethnicities = ["Hausi", "Estregan"]
 families = []
 organizations = []
 parents = []

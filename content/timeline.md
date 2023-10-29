@@ -40,6 +40,8 @@ weight = 11
 | 1158 AI | Ahurian Conquest of Giza                                            |
 | 1200 AI | The Third Apgarian Revolution                                       |
 | 1201 AI | Ahurian Conquest of Manascula                                       |
+| 1207 AI | The Mehicanian Revolt: Hermanos de la Libertad                      |
+| 1210 AI | The Realista Counterrevolution                                      |
 | 1225 AI | The Fall of Bastion                                                 |
 | 1230 AI | The Founding of the Reformed Church of the Divine Masochist         |
 | 1230 AI | Summan Prohibition on Demihuman Races and Abilities begins          |

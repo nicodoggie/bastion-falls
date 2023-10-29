@@ -1,8 +1,9 @@
 +++
 title = "Apgarian Confederacy"
-template = "redirect.html"
+# template = "redirect.html"
+aliases = ["@/locations/apgar.md"]
 [taxonomies]
 organization_type = ["Government"]
 [extra]
-redirect = "/locations/apgar"
+# redirect = "/locations/apgar"
 +++
