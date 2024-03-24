@@ -1,11 +1,11 @@
 prepare-commit-msg:
   commands:
     content-diff:
-      run: bf commit-content
+      run: pnpm bf commit-content
 commit-msg:
   commands:
     commitlint:
-      run: yarn commitlint --edit
+      run: pnpm commitlint --edit
 # EXAMPLE USAGE:
 #
 #   Refer for explanation to following link:

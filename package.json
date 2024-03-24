@@ -1,14 +1,9 @@
 {
   "name": "@nicodoggie/bastion-falls",
   "private": true,
-  "packageManager": "yarn@4.0.0-rc.44",
-  "workspaces": [
-    "tools",
-    "packages/*"
-  ],
   "scripts": {
-    "tools": "yarn workspace @nicodoggie/bf-repo-tools",
-    "build": "zola build",
+    "dev": "zola-bin serve --open",
+    "build": "zola-bin build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
     "family": "./kingraph.cjs"
   },
@@ -19,11 +14,16 @@
     "concurrently": "^8.0.1",
     "lefthook": "^1.4.0",
     "nodemon": "^2.0.22",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "yarpm": "^1.2.0"
   },
   "dependencies": {
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
-    "js-sha256": "^0.9.0"
+    "js-sha256": "^0.9.0",
+    "zola-bin": "^0.3.7"
+  },
+  "volta": {
+    "node": "20.11.1"
   }
 }

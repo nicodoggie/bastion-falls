@@ -1,7 +1,6 @@
 {
   "name": "@nicodoggie/bf-repo-tools",
   "version": "1.0.0",
-  "packageManager": "yarn@4.0.0-rc.43",
   "type": "module",
   "bin": {
     "bf": "./dist/index.js"
@@ -25,7 +24,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "prepare": "yarn build && chmod +x dist/index.js",
+    "install": "pnpm run build && chmod +x dist/index.js",
     "start": "ts-node --esm src/index.ts"
   },
   "devDependencies": {
