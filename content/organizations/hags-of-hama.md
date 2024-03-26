@@ -34,10 +34,22 @@ Provided here is a timeline of known events about the Hags of Hama:
 The [Turbiere de Hubar](@/locations/turbiere-de-hubar.md) is a peat bog in the eastern side of the island
 
 
-# Town of Ham
-
-
+# Town of Hama
 
 # The Fake Hags of Hama
+
 # Modern Revival
+
+# Hierarchy
+
+## Lady Protector
+
+## Priestess of the Moon
+
+## The Spirits
+
+### Spider
+### Snake
+### Sea
+### Rain
 
