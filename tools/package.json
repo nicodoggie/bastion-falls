@@ -10,6 +10,7 @@
     "bluebird": "^3.7.2",
     "commander": "^10.0.1",
     "dotenv": "^16.0.3",
+    "gm": "^1.25.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "json2toml": "^4.0.1",
