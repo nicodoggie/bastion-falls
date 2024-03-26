@@ -1,6 +1,6 @@
 +++
 title = "Arzhadi-et-Betet"
-[extra.loc]
+[extra.location.details]
 population = ""
 [taxonomies]
 location_type = ["country", "island"]

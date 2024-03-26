@@ -1,6 +1,6 @@
 +++
 title = "Flouimarie"
-[extra.loc]
+[extra.location.details]
 population = "700000"
 [taxonomies]
 location_type = ["city", "state capital"]

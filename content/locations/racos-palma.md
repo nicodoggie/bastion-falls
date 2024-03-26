@@ -1,6 +1,6 @@
 +++
 title = "Racos Palma"
-[extra.loc]
+[extra.location.details]
 population = ""
 [taxonomies]
 location_type = ["island"]

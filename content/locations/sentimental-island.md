@@ -1,6 +1,6 @@
 +++
 title = "Sentimental Island"
-[extra.loc]
+[extra.location.details]
 population = ""
 [taxonomies]
 location_type = []

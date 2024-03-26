@@ -1,6 +1,6 @@
 +++
 title = "Sarmatian Sea"
-[extra.loc]
+[extra.location.details]
 [taxonomies]
 location_type = ["sea"]
 +++

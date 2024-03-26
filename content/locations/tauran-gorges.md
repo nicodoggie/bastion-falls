@@ -1,6 +1,6 @@
 +++
 title = "Tauran Gorges"
-[extra.loc]
+[extra.location.details]
 [taxonomies]
 location_type = ["Gorge"]
 +++

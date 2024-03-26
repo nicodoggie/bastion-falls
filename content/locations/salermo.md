@@ -1,6 +1,6 @@
 +++
 title = "Salermo"
-[extra.loc]
+[extra.location.details]
 population = ""
 [taxonomies]
 location_type = ["village"]
