@@ -1,8 +1,17 @@
 {% import "macros/utils.html" as utils %}
 {% macro location(name, config) %}
   <h2>{{ name }}</h2>
-  {% if config.extra and config.extra.loc %}
-    {{ utils::dfn_list(dict=config.extra.loc) }}
+  {# Render a map of the location if it exists #}
+  {% if config.extra.location.map %}
+    {{ utils::map(map=config.extra.location.map, width=200) }}
+  {% endif %}
+  {#  #}
+  {% if config.extra and config.extra.location.details %}
+    {{ utils::dfn_list(dict=config.extra.location.details) }}
+  {% endif %}
+  {% if config.extra.location.division %}
+    {% set division = config.extra.location.division %}
+    {{ utils::list_entities(term=division.term, entities=division.entities, section=division.section) }}
   {% endif %}
   {{ utils::list_taxa(taxon="location_type", taxa=config.taxonomies, config=config) }}
 {% endmacro location %}

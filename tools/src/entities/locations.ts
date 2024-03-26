@@ -5,7 +5,7 @@ import slugify from "../lib/slugify.js";
 import GenericEntity, { Frontmatter, ReturnMigratedEntity } from "./generic-entity.js";
 
 type LocationExtra = {
-  loc: {
+  location: {
     [key: string]: any;
     population?: number | '';
   };
@@ -29,8 +29,10 @@ export default class Location extends GenericEntity<LocationFrontmatter> impleme
   constructor(title: string) {
     super(title, 'locations');
     this.extra = {
-      loc: {
-        population: '',
+      location: {
+        details: {
+          population: '',
+        }
       }
     }
     this.taxonomies = {

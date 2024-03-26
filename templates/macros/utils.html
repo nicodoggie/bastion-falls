@@ -57,7 +57,11 @@
   {% if (item is string) %}
     {% if (item is starting_with("@/")) %}
       {% set item = item | replace(from="@/", to="")%}
-      {% set page = get_page(path=item, required=false) %}
+      {% if (item is ending_with("_index.md")) %}
+        {% set page = get_section(path=item, required=false) %}
+      {% else %}
+        {% set page = get_page(path=item, required=false) %}
+      {% endif %}
       <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
     {% elif (item is starting_with("date#")) %}
       {% set item = item | replace(from="date#", to="") %}
@@ -78,6 +82,29 @@
     {{ item }}
   {% endif %}
 {% endmacro format_config_item %}
+
+{% macro list_entities(term, entities, section) %}
+<dl>
+  <dt>
+    <h3>{{ term.plural | title }}</h3>
+  </dt>
+  {% for item in entities %}
+    {% set lower_item = item | lower%}
+    {% set path = section ~ '/' ~  lower_item ~ '.md' %}
+    {% set page = get_page(path= path) %}
+    {% if page %}
+      {% set link = page.permalink | replace(from=" ", to="-") | lower %}
+      <dd>
+      <a href="{{ link }}">
+        {{ page.title }}
+      </a>
+    {% else %}
+      {{ item | title }}
+    {% endif %}
+  </dd>
+  {% endfor %}
+</dl>
+{% endmacro list_entities %}
 
 {% macro list_taxa(taxon, taxa, config, section='') %}
   {% if taxon in taxa %}
@@ -121,17 +148,29 @@
     {% if image.attribution_url %}
     <div class="attribution-link">
       {% if not (image.url is starting_with("http")) %}
-      {% set processed = resize_image(path=image.url, width=350, op="fit_width", format="webp") %}
+        {% set processed = resize_image(path=image.url, width=350, op="fit_width", format="webp") %}
       {% endif %}
-      <a rel="external noopener" target="_blank" href="{{ image.attribution_url }}"><i
-          class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <a rel="external noopener" target="_blank" href="{{ image.attribution_url }}">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
     </div>
     {% endif %}
     {% set attribution = "Unknown, please raise an issue in the github for attibution or removal." %}
     {% if image.attribution %}
-    {% set attribution = image.attribution %}
+      {% set attribution = image.attribution %}
     {% endif %}
     <img src="{{ processed.url }}" title="Attribution: {{ attribution }}" />
   </div>
   {% endif %}
 {% endmacro  %}
+{% macro map(map, width, op="fit_width", format="webp") %}
+<div class="sidebar-portrait">
+  {% set processed = map %}
+  {% if not (map.url is starting_with("http")) %}
+  {% set processed = resize_image(path=map.url, width=350, op="fit_width", format="webp") %}
+  {% endif %}
+  <a target="_blank" href="{{ get_url(path=map.url) }}">
+    <img src="{{ processed.url }}">
+  </a>
+</div>
+
+{% endmacro %}

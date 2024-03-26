@@ -88,7 +88,7 @@
       {% endif %}
       <thead>
         <tr>
-          <td colspan="2">{{ kind | title }}</td>
+          <td colspan="2">{{ kind | replace(from="_", to=" ") | title }}</td>
         </tr>
       </thead>
       {% for term in terms %}
