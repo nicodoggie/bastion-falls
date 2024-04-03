@@ -11,9 +11,12 @@ jobs:
     - uses: actions/setup-node@v4
       with:
         node-version: 20
-        cache: "yarn"
-    - name: Yarn Install
-      run: yarn install --immutable
+    - name: PNPM Install
+      uses: pnpm/action-setup@v3
+      with:
+        version: 8
+        run_install: |
+          - args: [--frozen-lockfile]
     - name: Build Kingraph SVGs
       run: ./kingraph.sh
     - uses: actions/github-script@v7
