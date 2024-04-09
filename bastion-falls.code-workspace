@@ -4,5 +4,11 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"gitCommitMessageEditor.intelliSense.completion.scopes": [
+			{
+				"scope": "locations"
+			}
+		]
+	}
 }
