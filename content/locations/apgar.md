@@ -52,8 +52,6 @@ url = "locations/senera-and-apgar.jpg"
 location_type = ["country"]
 +++
 
-{{ stub() }}
-
 The Confederation of Apgarian States, or Apgar colloquially, is an association of states bound together by the [Apgarian Articles of Confederation](@/notes/apgarian-articles-of-confederation.md). The contiguous Apgarian mainland occupies
 the western-most portion of the [Beteran continent](@/locations/betera/index.md).
 Historically, the various states that comprise Apgar were once part of the [Hapgarian Region](@/locations/hapgaria.md) of the [Kalassarian Empire](@/organizations/kalassarian-empire.md). Due to the sheer size of the territories, and 
@@ -65,7 +63,28 @@ By the time of the [Second Anasaian-Estregan War](@/events/second-anasaian-estre
 
 # History
 
+## Prehistory
+
+Before the expansion of the Kalassarian Empire into the region, there are no known written records have been confirmed by current scholarship. Until very recently, remnants of pre-historic human settlements have been ransacked by adventurers, or destroyed to make way for new townships, instead of being preserved for further scholarly investigation. 
+
+Based on what little has been preserved yielded some indications that there were a number of primitive human communities from as far back as 25,000 PF. Agrarian settlements have been discovered in present-day Mayonne that are currently thought to be from 10,000 PF. 
+
+Recent discoveries of ruins thought to be from the mysterious [Kurerans](@/species/kureran.md) found in
+the [Alsatian Mountains](@/locations/alsatian-mountains.md) may soon uncover new information regarding pre-Kalassarian Apgar, but no firm scholarly conclusions have been made. It is hoped that these ruins may yield documentary evidence, as Kurerans, even as far back as 3000 PF recorded much about their surrounding cultures, as proven by some preliminary discoveries from some Mehicanian sites.
+
+## Pre-Kalassarian Polities
+
+{{ stub() }}
+
+There are a number of well-known pre-Kalassarian cultures, most of them formed the basis for some of the
+divisions of the Apgarian Kingdoms that rose following the Fall of the Western Empire. Ethnic groups such as the [Estregans](@/ethnicities/estregan.md),the [Anasaians](@/ethnicities/estregan.md), and the [Garatonians](@/ethnicities/garatonian.md) were documented by the Kalassarain scribes during the early excursions into the region.
+
+The Estregans and Anasaians in particular, had city-states that have extended past the present-day provincial borders in which they are associated with today.
+
+## Kalassarian Region of Hapgaria
+
 ## Fall of the Western Kalassarian Empire
+{% see() %}[Fall of the Western Kalassarian Empire](@/events/fall-of-the-western-kalassarian-empire.md){% end %}
 
 ### Baraonian Rebellion
 
