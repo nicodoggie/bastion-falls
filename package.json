@@ -21,10 +21,11 @@
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
     "js-sha256": "^0.9.0",
+    "wrangler": "^3.48.0",
     "zola-bin": "^0.3.7"
   },
   "volta": {
     "node": "20.11.1",
-    "pnpm": "8.15.5"
+    "pnpm": "8.15.6"
   }
 }
