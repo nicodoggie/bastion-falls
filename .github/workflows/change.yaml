@@ -13,6 +13,8 @@ jobs:
         node-version: 20
     - name: PNPM Install
       uses: pnpm/action-setup@v3
+      env:
+        ENV: ci
       with:
         version: 8
         run_install: |
@@ -43,10 +45,9 @@ jobs:
       env: 
         BUILD_ONLY: true
     - name: Publish to Cloudflare Pages
-      uses: cloudflare/wrangler-action@v3.4.1
-      with:
-        apiToken: ${{ secrets.CF_API_KEY }}
-        command: pages deploy public --project-name bastion-falls --commit-hash ${{ github.sha }}
+      env:
+        CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_KEY }}
+      run: pnpm run deploy --commit-hash ${{ github.sha }}
     - name: Save CHANGELOG.md as an artifact and link it on Discord
       run: echo -ne "${{ github.event.commits[0].message }}" > content/changelog.md
     - name: Discord notification

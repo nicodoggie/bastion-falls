@@ -5,6 +5,7 @@
     "dev": "zola-bin serve --open",
     "build": "zola-bin build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
+    "deploy": "wrangler pages deploy public --project-name bastion-falls",
     "family": "./kingraph.cjs"
   },
   "devDependencies": {
@@ -15,14 +16,14 @@
     "lefthook": "^1.4.0",
     "nodemon": "^2.0.22",
     "ts-node": "^10.9.1",
+    "wrangler": "^3.48.0",
+    "zola-bin": "^0.3.7",
     "yarpm": "^1.2.0"
   },
   "dependencies": {
     "@commitlint/cli": "^17.6.3",
     "@commitlint/config-conventional": "^17.6.3",
-    "js-sha256": "^0.9.0",
-    "wrangler": "^3.48.0",
-    "zola-bin": "^0.3.7"
+    "js-sha256": "^0.9.0"
   },
   "volta": {
     "node": "20.11.1",
