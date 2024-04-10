@@ -4,7 +4,7 @@ title = "Apgarian Confederacy"
 [extra.location.details]
 motto = ""
 anthem = ""
-capital = "Mayonne"
+capital = "@/locations/mayonne.md"
 religions = [
   "@/religions/paganism/apgarian/_index.md",
   "@/religions/divine-masochism/orthodox/_index.md"
@@ -79,7 +79,7 @@ the [Alsatian Mountains](@/locations/alsatian-mountains.md) may soon uncover new
 There are a number of well-known pre-Kalassarian cultures, most of them formed the basis for some of the
 divisions of the Apgarian Kingdoms that rose following the Fall of the Western Empire. Ethnic groups such as the [Estregans](@/ethnicities/estregan.md),the [Anasaians](@/ethnicities/estregan.md), and the [Garatonians](@/ethnicities/garatonian.md) were documented by the Kalassarain scribes during the early excursions into the region.
 
-The Estregans and Anasaians in particular, had city-states that have extended past the present-day provincial borders in which they are associated with today.
+The Estregans and Anasaians in particular, had city-states were established in regions outside the present-day provincial borders in which they are associated with today.
 
 ## Kalassarian Region of Hapgaria
 
