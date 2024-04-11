@@ -2,7 +2,7 @@
   "name": "@nicodoggie/bastion-falls",
   "private": true,
   "scripts": {
-    "dev": "zola-bin serve --open",
+    "dev": "zola-bin serve",
     "build": "zola-bin build",
     "serve": "concurrently \"yarn family\" \"zola serve\"",
     "deploy": "wrangler pages deploy public --project-name bastion-falls",

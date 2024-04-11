@@ -32,10 +32,9 @@ idx.previews = {
         "pnpm"
         "run"
         "dev"
-        "--"
         "--port"
         "$PORT"
-        "-u"
+        "--interface"
         "0.0.0.0"
       ];
       id = "web";
