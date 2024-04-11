@@ -26,9 +26,20 @@ Port Rainoso is the largest settlement and capital township of [Raibon Island](@
 
 Rainoso's importance is tied to the [Heimann Sound](@/locations/heimann-sound.md), the southern mouth of [Samain River](@/locations/samain-river.md), which can accommodate a large volume of shipping to the north. The port town, because of this, houses a number of satellite offices of prominent trading companies from the [Posaran Sea](@/locations/posaran-sea.md) region, notably the [Mirian Trading Company](@/organizations/mirian-trading-company.md), which holds a near-monopoly of the Posaran sea trade.
 
-## Locations
+# History
 
-## East Side
+## Old Estregan Pocham
+
+## Kalassarian Tosaire
+
+## Resettlement by the Kingdom of Estrega
+
+## Renaming as Raibon Island
+
+# Locations
+
+## West Side
+
 ### Le Cafe Camaraderie
 
 ### Rainoso Town Hall
@@ -40,6 +51,8 @@ Rainoso's importance is tied to the [Heimann Sound](@/locations/heimann-sound.md
 ### La Maison de L'écume
 
 ### Mirian Trading Company Liaison Office
+
+## East Side
 
 ## Organizations
 ### Mirian Trading Company
