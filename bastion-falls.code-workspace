@@ -7,7 +7,12 @@
 	"settings": {
 		"gitCommitMessageEditor.intelliSense.completion.scopes": [
 			{
-				"scope": "locations"
+				"scope": "locations",
+				"description": "in-world locations"
+			},
+			{
+				"scope": "world-novelty",
+				"description": "written entries by in-world authors"
 			}
 		]
 	}
