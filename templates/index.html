@@ -9,6 +9,20 @@
   <link rel="dns-prefetch" href="https://kit.fontawesome.com" />
   <link rel="stylesheet" href="{{ get_url(path='style.css') | safe }}">
   <link rel="stylesheet" href="{{ get_url(path='main.css') | safe }}">
+  <script>
+    // If the host is a github codespace, override live reload config.
+    // remember to set the portforward URL for 1024 public first, then load it manually on the codespace's first run
+    // for this workaround to work
+    const {host} = new URL(window.location.href);
+
+    if(host.endsWith('app.github.dev')){
+      window.LiveReloadOptions = {
+        https: true,
+        host: (new URL(window.location.href).host.replace(8000, 1024)),
+        port: 443,
+      };
+    }
+  </script>
   <script src="https://kit.fontawesome.com/b161e13895.js" crossorigin="anonymous" defer></script>
   {% if config.extra.favicon -%}
   {% set _favicon = config.extra.favicon -%}
