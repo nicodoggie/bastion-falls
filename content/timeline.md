@@ -10,7 +10,7 @@ weight = 11
 | 500 PF  | Founding of the Kalassus at the Mirian Peninsula                    |
 | 460 PF  | Kala                                                                |
 | 1 AI    | Flowering of the Kalassarian Empire                                 |
-| 15 AI   | FIrst Kalassarian-Kureran War                                       |
+| 15 AI   | First Kalassarian-Kureran War                                       |
 | 29 AI   | Death of the Divine Masochist                                       |
 | 70 AI   | Kureran Genocide at the hands of the Kalassar                       |
 | 102 AI  | Kalassar completes its conquest of Hapgaria                         |

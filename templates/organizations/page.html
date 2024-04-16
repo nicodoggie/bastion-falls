@@ -1,10 +1,10 @@
 {% extends "page.html" %}
-
+{% block title%}{{ super() }}{% endblock title %}
 {% block content %}
 {{ super() }}
 {% set taxonomy = get_taxonomy_term(kind="organizations", term=page.title, required=false) %}
+{% if taxonomy %}
 <h1>Members</h1>
-  {% if taxonomy %}
   <ul>
   {% for page in taxonomy.pages %}
     <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
@@ -13,3 +13,4 @@
   {% endif %}
 </table>
 {% endblock %}
+{% block backlinks %}{{ super() }}{% endblock backlinks %}

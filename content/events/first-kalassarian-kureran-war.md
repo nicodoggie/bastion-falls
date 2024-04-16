@@ -1,8 +1,8 @@
 +++
 event_id = "6"
 ingame_date = ""
-slug = "first-kalassarian-kureran-war-began"
-title = "First Kalassarian-Kureran War began"
+slug = "first-kalassarian-kureran-war"
+title = "First Kalassarian-Kureran War"
 [taxonomies]
 event_type = ["War"]
 

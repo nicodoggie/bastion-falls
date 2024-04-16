@@ -79,7 +79,6 @@
   {{ page.content | safe }}
   {% block taxonomies %}
   {% if page.taxonomies %}
-  
   <table id="taxonomy-nav" role="nav">
     {% for kind, terms in page.taxonomies %}
     {% set taxonomy = get_taxonomy(kind=kind) %}
@@ -112,4 +111,14 @@
   
   {% endif %}
   {% endblock taxonomies %}
+  {% block backlinks %}
+  <aside class="backlinks">
+    <h1>Backlinks</h1>
+    <ul>
+      {% for link in page.backlinks %}
+      <li><a href="{{ link.permalink }}">{{ link.title }}</a></li>
+      {% endfor%}
+    </ul>
+  </aside>
+  {% endblock backlinks %}
 {% endblock %}
