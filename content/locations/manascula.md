@@ -11,4 +11,5 @@ location_type = ["principality", "protectorate"]
 # Manascula
 
 Manascula is a protectorate of the [Ahurian Empire](@/locations/ahuria.md). It
-was annexed in 1235 by a joint effort between the Purha and the Chetsi.
+was annexed in 1235 by a joint effort between the Purha and the Chetsi. It sits at the 
+westermost edge of the Tokhani continent.
