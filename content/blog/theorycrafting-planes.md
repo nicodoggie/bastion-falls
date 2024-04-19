@@ -34,6 +34,9 @@ So how do these planes come together to form what we see in the present-day camp
 
 The thought currently, is that these planes' influence on the world wax and wane with a somewhat regular periodicity. Travel between the plane and Thera would be much easier, the closer it is to an "influence maximum". Conversely, more difficult during an "influence minimum". If that plane is a *source*, then more magic flows into Thera during an increasing period, then the magic wanes during a decreasing period. If a plane is a *sink*, then the opposite is true.
 
+![Planar Influence Graph](/static/blog/planar-influence-graph.png)
+
+
 Now, since many of these planes are connected to Thera, depending on their varying periodicity, there would be times of **magical maximums** or **magical minimums**. So, I am thinking, that these current events indicate that the world is coming into a maximum. This means that the cause of the return of magic into the world not only coincides with the ease in which planar travel may happen, but is also the cause of it.
 
 The problem that remains now, are the motivations of some of the planar travellers in attempting to take Thera. In-game, I've already established that for some reason, aberrations from the Far Realms were for some reason trying to get into Thera. Now, I do have something of a framework to explain their motivations. In my head it makes some sense that the Far Realm is a Material Plane as well, but one that is closer to being a Chaotic plane in the spectrum. This means that the plane is at the risk of unravelling all the time. So it's an existential one. 
