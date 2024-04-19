@@ -40,4 +40,17 @@ The problem that remains now, are the motivations of some of the planar travelle
 
 In my conception, the Far Realms are a magical sink, where many other Material Planes leech their magical energy into. So they depend upon other planes and their connection to them to ensure that they remain stable enough to exist. 
 
-Since the creature from the Far Realms are alnost universally considered evil though, if the culture is knowledgeable enough, they collapse the connection with them. This would explain the Deathengel's actions in a previous adventure. The Angels of the Celestial Plane of Justice, have put it upon themselves to enter nearby planes in order to stop the advance of these creatures.
+Since the creatures from the Far Realms are almost universally considered evil, if the culture is knowledgeable enough, they will attempt to sever the connection with it. This would explain the Deathengel's actions in a previous adventure. I think that the Angels of the Celestial Plane of Justice, woul have put it upon themselves to enter nearby planes in order to stop the advance of the aberrations.
+
+Currently, I think these magical maxima have about 5 cycles, with different planes interacting during each of them (I'd like to eventually math this out), but the one approaching only happens once every 30,000 years or so. It's one that connects the Far Realms to Thera during a time when many other mostly-Ideal Planes intersect.
+
+It begins with a connection with the Feywild, which only synchronizes strongly with Thera in 30,000-year cycles. Which is why, even if there are long-lived races there, what they call *Fey Crossings* are basically unknown by all but a few specialized scholars. The Kurerans, as they were called by the Kalassarians, were gnomes that have entered Thera through an unusually large-scale crossing.
+Their knowledge of alchemy allowed them to thrive, even in the relatively low level of magical energy when they arrived in about 10,000 PF. Small pockets of elves, dwarves, etcetera came along during that time as well.
+
+About 8000-7000 PF, a connection with the Far Realms was discovered. I haven't decided which side yet. But this is what bootstraps all the present events. I also haven't decided on the cycle length for these are.
+
+About the same time, the Celestial and Infernal Planes began synchronizing. I think these cycles are spaced somewhat closer than the Fey Cycle. Probably 9000 year cycles? I am kind of leaning towards a lack of direct connection with the Abyss. They only connect via both Infernus and the Far Realms, and maybe through the Feywild (but only if the connection is re-established).
+
+Elemental planes *must* be connected as well. I think most Material planes are connected to those. But in particular, we have already established warlocks of the Djinn ([Ruomei](@/characters/ruomei-nice.md) and [Yayoi](@/characters/yayoi-nice.md)).
+
+30,000 years seems kind of short though? If it's like this, this might have affected Theran development during sometime after an analogue to the Neolithic Revolution.
