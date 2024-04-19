@@ -10,8 +10,13 @@
   {% else %}
     {{ page.title }}
   {% endif %}
-  
 </h1>
+{% if page.date %}
+<sub>
+  Posted {{ page.date }}.
+  {% if page.undated %}Updated {{ page.updated }}{% endif %}
+</sub>
+{% endif %}
 <hr />
 {# Check if page is in the "character section" #}
 {% block sidebar %}
@@ -111,6 +116,7 @@
   
   {% endif %}
   {% endblock taxonomies %}
+{% endblock %}
   {% block backlinks %}
   <aside class="backlinks">
     <h1>Backlinks</h1>
@@ -121,4 +127,3 @@
     </ul>
   </aside>
   {% endblock backlinks %}
-{% endblock %}
