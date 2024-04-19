@@ -12,7 +12,7 @@ Just trying my best to wing it
 But it all comes crashing\
 The interface keeps hanging\
 As the screen blares blue\
-Hexes dropping in the monotone hue\\
+Hexes dropping in the monotone hue\
 
 Staying frozen past reboot\
 Can't even fix it as root
