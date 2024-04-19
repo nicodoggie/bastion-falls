@@ -5,7 +5,7 @@ title = "Puddle"
 
 I dreamt that I was a puddle\
 Amorphous on a city street\
-Born from pipe, no cuddle\
+Born from pipe, not from cuddle\
 I laid there, stabbed by feet
 
 Up above shone the sun\
