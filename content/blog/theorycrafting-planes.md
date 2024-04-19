@@ -34,7 +34,7 @@ So how do these planes come together to form what we see in the present-day camp
 
 The thought currently, is that these planes' influence on the world wax and wane with a somewhat regular periodicity. Travel between the plane and Thera would be much easier, the closer it is to an "influence maximum". Conversely, more difficult during an "influence minimum". If that plane is a *source*, then more magic flows into Thera during an increasing period, then the magic wanes during a decreasing period. If a plane is a *sink*, then the opposite is true.
 
-![Planar Influence Graph](/static/blog/planar-influence-graph.png)
+![Planar Influence Graph](media/planar-influence-graph.png)
 
 
 Now, since many of these planes are connected to Thera, depending on their varying periodicity, there would be times of **magical maximums** or **magical minimums**. So, I am thinking, that these current events indicate that the world is coming into a maximum. This means that the cause of the return of magic into the world not only coincides with the ease in which planar travel may happen, but is also the cause of it.
