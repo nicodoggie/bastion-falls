@@ -25,6 +25,7 @@
   },
   "scripts": {
     "build": "tsc",
+    "dev": "tsc --watch",
     "install": "pnpm run build && chmod +x dist/index.js",
     "start": "ts-node --esm src/index.ts"
   },
@@ -39,6 +40,6 @@
     "typescript": "^5.0.4"
   },
   "volta": {
-    "node": "18.16.0"
+    "extends": "../package.json"
   }
 }

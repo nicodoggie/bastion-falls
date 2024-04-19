@@ -7,6 +7,7 @@ import path, { resolve } from "path";
 import GenericEntity, { Entity, Frontmatter } from "../entities/generic-entity.js";
 
 const entityMap = {
+  blog: "blogs",
   org: "organizations",
   loc: "locations",
   fam: 'families',
