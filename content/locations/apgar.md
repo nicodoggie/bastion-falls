@@ -140,3 +140,5 @@ The Estregans and Anasaians in particular, had city-states were established in r
 
 
 The first to collapse was the *Kingdom of Geron*, which subdugated the [Garatonian people](@/ethnicities/garatonian.md), however, the [Poasan military](@/locations/poasah.md#armed-forces) quickly captured the region causing the subsequent [Garatonian Diaspora](@/events/garatonian-diaspora.md).
+
+# Government
