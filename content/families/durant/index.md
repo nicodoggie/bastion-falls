@@ -4,8 +4,7 @@ slug = "durant"
 +++
 
 The Durant family originally hail from mainland [Sanery](@/locations/sanery.md)
-and were staunch anti-Masochist. During the [Battles for the Masochist](@/events/battles-for-the-masochist.md) in the 1000s that made the [de la Fouet](@/families/de-la-fouet.md) 
-family famous, the Durants, amongst others moved to 
+and were staunch anti-Masochist. During the [Battles for the Masochist](@/events/battles-for-the-masochist.md) in the 1000s that made the [de la Fouet](@/families/de-la-fouet.md) family famous, the Durants, amongst others moved to 
 [Raibon Island](@/locations/raibon-island.md) in protest. The thought was, that
 they would eventually mount a counter-offensive to suppress the Masochistas in 
 the mainland. They ultimately failed to mount any sort of resistance, as fielding

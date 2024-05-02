@@ -4,6 +4,7 @@ title = "Jean-Paul de la Fouet"
 ddb = "https://www.dndbeyond.com/characters/65184316"
 [extra.cha]
 age = "38"
+date_of_birth = "1236-09-17"
 pronouns = "He/Him"
 sex = "Male"
 
