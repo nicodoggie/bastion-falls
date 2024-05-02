@@ -2,6 +2,7 @@
 {% import "macros/sidebar/location.html" as loc %}
 {% import "macros/sidebar/event.html" as event %}
 {% import "macros/sidebar/stats.html" as stats %}
+{% import "macros/section.html" as section_macros %}
 
 {% macro callout(type="", body) %}
 <div class="callout-block {{ type | lower }}">
@@ -40,3 +41,7 @@
 {% macro sidebar_stats(name, config) %}
   {{ stats::stats(name=name, config=config) }}
 {% endmacro sidebar_event %}
+
+{% macro sort_pages(section, current_path, ugly_url) %}
+  {{ section_macros::sort_pages(section=section, current_path=current_path, ugly_url=ugly_url) }}
+{% endmacro list_pages %}

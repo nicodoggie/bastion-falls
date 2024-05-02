@@ -130,14 +130,19 @@
 {% endmacro list_taxa %}
 
 {% macro get_calendar_link(cal_id, date)%}
-{% set split_date = date | replace(from="-", to="/") | split(pat="/")%}
-{% set cal_url = "https://app.fantasy-calendar.com/calendars/"~cal_id %}
-{% if split_date | length == 3 %}
-  {% set date_url = cal_url~"?year="~split_date[0]~"&month="~split_date[1]~"&day="~split_date[2]%}
-  <a href="{{ date_url }}" target="_blank" rel="noopener, noreferrer">{{ date }}</a>
-{% else %}
-{{ date }}
-{% endif %}
+  {% set sign = "" %}
+  {% if date is starting_with("-") %}
+    {% set sign = "-" %}
+    {% set date = date | trim_start_matches(pat="-") %}
+  {% endif %}
+  {% set split_date = date | replace(from="-", to="/") | split(pat="/") %}
+  {% set cal_url = "https://app.fantasy-calendar.com/calendars/"~cal_id %}
+  {% if split_date | length == 3 %}
+    {% set date_url = cal_url~"?year="~sign~split_date[0]~"&month="~split_date[1]~"&day="~split_date[2]%}
+    <a href="{{ date_url }}" target="_blank" rel="noopener, noreferrer">{{sign}}{{ date }}</a>
+  {% else %}
+    {{ sign }}{{ date }}
+  {% endif %}
 {% endmacro %}
 
 {% macro sidebar_portrait(config) %}

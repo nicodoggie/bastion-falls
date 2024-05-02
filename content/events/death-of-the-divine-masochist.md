@@ -1,8 +1,7 @@
 +++
-event_id = "7"
-ingame_date = "29-06-07"
-slug = "death-of-the-divine-masochist"
 title = "Death of the Divine Masochist"
+[extra.evt]
+date_started = "0029-06-07"
 [taxonomies]
 event_type = ["Death"]
 
