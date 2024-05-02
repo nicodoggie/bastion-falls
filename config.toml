@@ -29,8 +29,8 @@ taxonomies = [
   # Organization
   { name = "organization_id", feed = false, render = false },
   { name = "organization_type", feed = true, render = false },
+  { name = "parent_organizations", feed = false, render = false },
   { name = "leaders", feed = false, render = false },
-
 
   # Ethnicities
   { name = "ethnic_locations", feed = false, render = false },
