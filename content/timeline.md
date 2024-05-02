@@ -38,7 +38,7 @@ weight = 11
 | 976 AI  | The First Apgarian Revolution                                       |
 | 1031 AI | The Second Apgarian Revolution                                      |
 | 1158 AI | Ahurian Conquest of Giza                                            |
-| 1179 AI | The Third Apgarian Revolution                                       |
+| 1167 AI | The Third Apgarian Revolution                                       |
 | 1201 AI | Ahurian Conquest of Manascula                                       |
 | 1207 AI | The Mehicanian Revolt: Hermanos de la Libertad                      |
 | 1210 AI | The Realista Counterrevolution                                      |
