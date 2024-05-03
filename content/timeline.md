@@ -44,16 +44,10 @@ weight = 11
 | 1210 AI | The Realista Counterrevolution                                      |
 | 1225 AI | The Fall of Bastion                                                 |
 | 1230 AI | The Founding of the Reformed Church of the Divine Masochist         |
-| 1230 AI | Summan Prohibition on Demihuman Races and Abilities begins          |
+| 1230 AI | Summan Prohibition on Demihuman Races and Abilities begins          |lll
+| 1254 AI | Revolt of the Kolhan Ansa ends, Kolha Ahuria is partitioned         |
+| 1255 AI | The Poasan-Apgarian Conflict ends with the Treaty of Turain         |
 | 1244 AI | Founding of the Thirteen                                            |
 | 1245 AI | The Verdine Segregation of Calamutz                                 |
 | 1250 AI | Prince Kolha XVIII dies; Revolt of the Kolhan Ansa begins           |
 | 1250 AI | The Poasan-Apgarian Conflict begins                                 |
-| 1254 AI | Revolt of the Kolhan Ansa ends, Kolha Ahuria is partitioned         |
-| 1255 AI | The Poasan-Apgarian Conflict ends with the Treaty of Turain         |
-| 1263 AI | Re-emergence of the Dolo-Dolo                                       |
-| 1266 AI | The Poasan Annexation of Astow County from Tanduaria                |
-| 1270 AI | Founding of the Wizards of the Coast                                |
-| 1273 AI | King Sorha XVII gets a mysterious illness                           |
-| 1274 AI | Death of King Cala VI; Onahori Regency                              |
-| 1275 AI | Present Day                                                         |
