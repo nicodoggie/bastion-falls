@@ -21,4 +21,4 @@ Shaped by grief as scaffold\
 A monumental masterpiece\
 Created to perfection\
 Yet underneath, behind the grease\
-A painful connotation\
+A painful connotation
