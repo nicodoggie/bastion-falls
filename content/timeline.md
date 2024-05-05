@@ -44,7 +44,7 @@ weight = 11
 | 1210 AI | The Realista Counterrevolution                                      |
 | 1225 AI | The Fall of Bastion                                                 |
 | 1230 AI | The Founding of the Reformed Church of the Divine Masochist         |
-| 1230 AI | Summan Prohibition on Demihuman Races and Abilities begins          |lll
+| 1230 AI | Summan Prohibition on Demihuman Races and Abilities begins          |
 | 1254 AI | Revolt of the Kolhan Ansa ends, Kolha Ahuria is partitioned         |
 | 1255 AI | The Poasan-Apgarian Conflict ends with the Treaty of Turain         |
 | 1244 AI | Founding of the Thirteen                                            |

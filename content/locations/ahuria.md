@@ -5,16 +5,30 @@ slug = "ahuria"
 location_type = ["country"]
 +++
 
-# Ahuria
+The Ahurian Empire is a theocratic autocracy ruled by a lineage of god-princes, who are both the secular and temporal centers of their government. The country claims possession the entirety of the continent of [Ralaka](@/locations/ralaka/index.md). and the Gizan Peninsula, as well as a huge portion of the eastern half ot the Mirian Peninsula.
 
-The Ahurian Empire is a massive theocratic autocracy ruled by a lineage of god-princes, who are both the secular and temporal centers of their government. The country claims possession the entirety of the continent of [Ralaka](@/locations/ralaka/index.md). and the Gizan Peninsula, as well as a huge portion of the eastern half ot the Ranoan Peninsula.
+# Geography
 
+Ahuria is one of the largest political entities in [Thera](@/locations/thera.md). It is the only known entity with land holdings in all three continents, with eleven of its fourteen administrative regions, called *Principalities*, in Ralaka. The twelfth, [Kolha](@/locations/kolha.md), is in Southern [Betera](@/locations/betera/index.md). The thirteenth and fourteenth are in the westernmost edge of [Tarsa](@/locations/tarsa.md)
 
-## Geography
+## The Ahurian Mainland
 
-### The Ahurian Mainland
+The Ahurian mainland politically stretches across almost the entirety of the Ralakan continent. The population is distributed across almost every region within the continent, with the exception of its south eastern reaches, which are barred by an impassable desert. Eleven of the fourteen administrative regions of Ahuria are within the Ahurian mainland. It is bordered to the north by the [Posaran Sea](@/locations/posaran-sea.md), to the west by the [Sarham Sea](@/location/sarham-sea.md), and to the east by the [Sea of Giza](@/locations/sea_of_giza.md).
 
-The Ahurian Mainland politically stretches across almost the entirety of the Ralakan continent. The population is distributed across almost every region within the continent, with the exception of its south eastern reaches, which are barred by an impassable desert. 11 of the 14 administrative regions of Ahuria are within the Ahurian Mainland. It is bordered to the north by the [Posaran Sea](@/locations/posaran-sea.md), to the west by the [Sarham Sea](@/location/sarham_sea.md), and to the east by the [Sea of Giza](@/locations/sea_of_giza.md).
+The eleven Ahurian Principalities in the mainland are the following:
+  - Sorha
+  - Tunhi
+  - Purhi
+  - Katsi
+  - Lansa
+  - Lukso
+  - Chosa
+  - Tsikha
+  - Chetsi
+  - Yatsa
+  - Piso
+
+Sorha is the Ahurian capital region and seat of the King of Ahuria.
 
 ### Kolha
 
@@ -24,7 +38,7 @@ Portions of this document referencing the Poasan Dioceses aside from
 the Astow region of Northern Poasah are to be treated as incomplete.
 {% end %}
 
-[Kolha](@locations/kolha.md), Ahuria's twelfth administrative principality, is isolated from the rest of Ahuria, in the center of the Beteran Landmass. It is bounded to the north and west by the [Central](@location/central_poasan_diocese.md) and [Southern Poasan Dioceses](@location/southern_poasan_diocese.md), respectively. To the north east, it meets the [Gulf of Eternal Dispute](@/locations/gulf_of_eternal_dispute.md). To the south and east, Kolha shares borders with three of its former provinces. [Sur](@/locations/sur.md) and [Kalamba](@/locations/kalamba.md) to the east, and [Ar](@/locations/ar.md) to the south. These states are 3 of the 5 so-called [Secessionist Principalities](@/misc/secessionist-principalities.md) tnat have formed after the death of Kolha XVIII.
+[Kolha](@/locations/kolha.md), Ahuria's twelfth administrative principality, is isolated from the rest of Ahuria, in the center of the Beteran Landmass. It is bounded to the north and west by the [Central](@location/central_poasan_diocese.md) and [Southern Poasan Dioceses](@location/southern_poasan_diocese.md), respectively. To the north east, it meets the [Gulf of Eternal Dispute](@/locations/gulf_of_eternal_dispute.md). To the south and east, Kolha shares borders with three of its former provinces. [Sur](@/locations/sur.md) and [Kalamba](@/locations/kalamba.md) to the east, and [Ar](@/locations/ar.md) to the south. These states are 3 of the 5 so-called [Secessionist Principalities](@/misc/secessionist-principalities.md) tnat have formed after the death of Kolha XVIII.
 
 ### Tarsan Possessions
 
