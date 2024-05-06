@@ -13,7 +13,7 @@ Ahuria is one of the largest political entities in [Thera](@/locations/thera.md)
 
 ## The Ahurian Mainland
 
-The Ahurian mainland politically stretches across almost the entirety of the Ralakan continent. The population is distributed across almost every region within the continent, with the exception of its south eastern reaches, which are barred by an impassable desert. Eleven of the fourteen administrative regions of Ahuria are within the Ahurian mainland. It is bordered to the north by the [Posaran Sea](@/locations/posaran-sea.md), to the west by the [Sarham Sea](@/location/sarham-sea.md), and to the east by the [Sea of Giza](@/locations/sea_of_giza.md).
+The Ahurian mainland stretches across almost the entirety of the Ralakan continent. The population is distributed across almost every region within the continent, with the exception of its south eastern reaches, which are barred by an impassable desert. Eleven of the fourteen administrative regions of Ahuria are within the Ahurian mainland. It is bordered to the north by the [Posaran Sea](@/locations/posaran-sea.md), to the west by the [Sarham Sea](@/location/sarham-sea.md), and to the east by the [Sea of Giza](@/locations/sea_of_giza.md).
 
 The eleven Ahurian Principalities in the mainland are the following:
   - Sorha
@@ -28,7 +28,7 @@ The eleven Ahurian Principalities in the mainland are the following:
   - Yatsa
   - Piso
 
-Sorha is the Ahurian capital region and seat of the King of Ahuria.
+The Principality of Sorha is the Ahurian capital region and seat of the King of Ahuria.
 
 ### Kolha
 
@@ -50,11 +50,11 @@ sphere of control as the Eastern Kalassarian Empire, and their
 diplomatic situation should be considered incomplete.
 {% end %}
 
-Tarsa refers to the continent to the east of Betera, and is connected by the [Isthmus of Bastion](@/locations/isthmus-of-bastion.md). On its eastern shore, the Ahurian possessions of [Giza](@/locations/giza.md) and [Manascula](@/locations/manascula.md) can be found.
+[Tarsa]{@/locations/tarsa.md} refers to the continent to the east of Betera, and is connected by the [Isthmus of Bastion](@/locations/isthmus-of-bastion.md). On its eastern shore, the Ahurian possessions of [Giza](@/locations/giza.md) and [Manascula](@/locations/manascula.md) can be found.
 
 Once countries in their own right of Giza and Manascula were client nations of the Burtian Empire before they were taken over by the Ahurians. Giza was the first large territorial acquisition taken by Ahuria after the semi-mythical days of the Great Ahuriyata.
 
-Giza, taken first, is bounded to the north by Manascula, to the west by the Posarang Sea, to the south by the Sea of Giza, and to the east by the Ya'naa Desert.
+Giza, taken first, is bounded to the north by Manascula, to the west by the Posaran Sea, to the south by the Sea of Giza, and to the east by the Ya'naa Desert.
 
 Manascula, taken nearly half a century later, is bounded to the west by Burtz and the Calamutian Strait, the north and east by the Ogadian mountain range, and to the south by Giza.
 
