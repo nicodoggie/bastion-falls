@@ -16,7 +16,7 @@ nodemon({
   .on("restart", (files) => {
     for (const file of files) {
       console.log(`Processing ${file}.`);
-      const output = execSync(`yarn kingraph ${file} -F svg`);
+      const output = execSync(`pnpm kingraph ${file} -F svg`);
       writeFileSync(file.replace(/\.ya?ml/, ".svg"), output.toString("utf-8"), {
         encoding: "utf-8",
       });

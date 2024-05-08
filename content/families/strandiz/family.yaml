@@ -1,0 +1,97 @@
+families:
+  - house: Strandiz
+    parents: [Bart I, Agnes]
+    children: [Telia, Matt I, Astrid]
+    families:
+      - parents: [Matt I, Marta]
+        children: [Bart II, Mark, Maria, Melissa]
+        families:
+          - parents: [Bart II, Collette]
+            children: [Johanne, Matt II]
+            families:
+            - parents: [Matt II, Dorotea]
+              children: [Bart III]
+              families:
+                - parents: [Bart III, Petra]
+                  children: [Corrine, Matt III, Linnea]
+                  families:
+                  - parents: [Matt III, Chance]
+                    children: [Bart IV]
+                    families:
+                      - parents: [Bart IV, Emma]
+                        children: [Matt IV]
+
+
+
+people:
+  Bart I:
+    fullname: Bartholomew Strandiz I
+    born: 865-11-04
+    died: 949-08-11
+    class: [dead]
+  Agnes:
+    fullname: Agnes Anatto
+    born: 910-11-04
+    died: 999-08-11
+    class: [dead]
+  Matt I:
+    fullname: Matthew Strandiz I
+    born: 927-05-11
+    died: 1012-12-16
+    class: [dead]
+  Marta:
+    fullname: Martha von Grier
+    born: 978-08-11
+    died: 1050-04-25
+    class: [dead]
+  Bart II:
+    fullname: Bartholomew Strandiz II
+    born: 1001-01-01
+    died: 1100-12-30
+    class: [dead]
+  Collette:
+    fullname: Collette Beauchard
+    born: 1031-07-04
+    died: 1105-12-30
+    class: [dead]
+  Matt II:
+    fullname: Matthew Strandiz II
+    born: 1060-09-02
+    died: 1142-11-10
+    class: [dead]
+  Dorotea:
+    fullname: Dorotea Chemise
+    born: 1078-01-22
+    died: 1166-10-29
+    class: [dead]
+  Bart III:
+    fullname: Bartholomew Strandiz III
+    born: 1101-03-11
+    died: 1201-04-04
+    class: [dead]
+  Petra:
+    fullname: Petronilla Faustine
+    born: 1101-01-10
+    died: 1201-04-01
+    class: [dead]
+  Matt III:
+    fullname: Matthew Strandiz III
+    born: 1134-05-17
+    died: 1225-02-01
+    class: [dead]
+  Chance:
+    fullname: Felicie Lyonnaire
+    born: 1134-05-17
+    died: 1230-12-01
+    class: [dead]
+  Bart IV:
+    fullname: Bartholomew Strandiz IV
+    born: 1192-04-27
+  Emma:
+    fullname: Emmeline Chardonne
+    born: 1190-11-01
+    died: 1255-04-27
+    class: [dead]
+  Matt IV:
+    fullname: Matthew Strandiz IV
+    born: 1230-11-26
