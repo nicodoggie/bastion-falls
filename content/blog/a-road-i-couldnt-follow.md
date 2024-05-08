@@ -21,7 +21,4 @@ That this was a lousy cause\
 So I walked off the road I couldn't follow\
 Off that bridge of woe\
 Into that house of madness\
-And made peace with my sorrow\
-
-And maybe I was a coward\
-But maybe I turned brave
+And made peace with my sorrow
