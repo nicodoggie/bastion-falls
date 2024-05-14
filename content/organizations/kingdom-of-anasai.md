@@ -10,12 +10,17 @@ The Kingdom of Anasai was one of the Apgarian Kingdoms of the Silent Ages. Many 
 
 # History
 ## After the Fall of the Western Kalassarian Empire
-## The First Dynasty 479-666
-## The Second Dynasty 666-802
-## The Third Dynasty 802-855
-## The Restoration 855-888
-## The Fourth Dynasty 888-1179
+## The Corinnine Dynasty 479-666
+## The Mersenne Dynasty 666-802
+## The Mandelbrot Dynasty 802-855
+## The Corrinnine Restoration 855-888
+## The Hudorian Dynasty 888-1179
+
 ### The First Anasaian-Estregan War
+
+### Anasaian-Estregan Unification
+Almost exactly one year after the Chartreusean Armistice, it was decided that the [Crown Prince Hubar of Estrega](@/characters/hubar-of-estrega.md) was wed [Princess Karni of Anasai](@/characters/karni-of-anasai.md). Codified in the [Treaty of Colmar](@/events/treaty-of-colmar.md), the two kingdoms would be unified five years after their wedding day. The current monarchs would adbicate, and the two would become co-equal rulers of the *Kingdom of Anasai-Estrega*.
+
 ### The Second Anasaian-Estregan War
 ### The Second Apgarian Revolution
 ### The Third Apgarian Revolution
