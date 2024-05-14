@@ -9,6 +9,7 @@ sex = "Male"
 
 [taxonomies]
 organizations = ["La Camaraderie", "Apgarian Military"]
+families = ["Strandiz"]
 +++
 
 

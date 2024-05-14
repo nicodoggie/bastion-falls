@@ -30,7 +30,7 @@ weight = 11
 | 701 AI  | Reconquest of South Central Kalasar                                 |
 | 876 AI  | Narmaya was born                                                    |
 | 889 AI  | Narmaya was turned                                                  |
-| 905 AI  | Apgarian History: The First Anasaian-Estregan War                   |
+| 955 AI  | Apgarian History: The First Anasaian-Estregan War                   |
 | 910 AI  | The Sinking of the City of Hama                                     |
 | 968 AI  | Apgarian History: The Second Anasaian-Estregan War                  |
 | 970 AI  | Mauricia was renamed Raibon; Rainoso was founded                    |

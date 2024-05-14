@@ -1,41 +1,52 @@
 families:
   - house: Strandiz
-    parents: [Bart I, Agnes]
-    children: [Telia, Matt I, Astrid]
+    parents: [Matt I, Peony]
+    children: [Bart I, Rose]
     families:
-      - parents: [Matt I, Marta]
+    - parents: [Bart I, Agnes]
+      children: [Telia, Matt II, Astrid]
+      families:
+      - parents: [Matt II, Marta]
         children: [Bart II, Mark, Maria, Melissa]
         families:
-          - parents: [Bart II, Collette]
-            children: [Johanne, Matt II]
+        - parents: [Bart II, Collette]
+          children: [Johanne, Matt III]
+          families:
+          - parents: [Matt III, Dorotea]
+            children: [Bart III]
             families:
-            - parents: [Matt II, Dorotea]
-              children: [Bart III]
+            - parents: [Bart III, Petra]
+              children: [Corrine, Matt IV, Linnea]
               families:
-                - parents: [Bart III, Petra]
-                  children: [Corrine, Matt III, Linnea]
-                  families:
-                  - parents: [Matt III, Chance]
-                    children: [Bart IV]
-                    families:
-                      - parents: [Bart IV, Emma]
-                        children: [Matt IV]
-
-
+              - parents: [Matt IV, Chance]
+                children: [Bart IV]
+                families:
+                - parents: [Bart IV, Emma]
+                  children: [Matt V]
 
 people:
+  Matt I:
+    fullname: Matthew Strandiz I
+    born: 834-02-01
+    died: 912-09-19
+    class: [dead]
+  Peony:
+    fullname: Peony
+    born: 855-09-30
+    died: 911-04-10
+    class: [dead] 
   Bart I:
     fullname: Bartholomew Strandiz I
-    born: 865-11-04
-    died: 949-08-11
+    born: 885-11-04
+    died: 968-08-11
     class: [dead]
   Agnes:
     fullname: Agnes Anatto
     born: 910-11-04
     died: 999-08-11
     class: [dead]
-  Matt I:
-    fullname: Matthew Strandiz I
+  Matt II:
+    fullname: Matthew Strandiz II
     born: 927-05-11
     died: 1012-12-16
     class: [dead]
@@ -54,8 +65,8 @@ people:
     born: 1031-07-04
     died: 1105-12-30
     class: [dead]
-  Matt II:
-    fullname: Matthew Strandiz II
+  Matt III:
+    fullname: Matthew Strandiz III
     born: 1060-09-02
     died: 1142-11-10
     class: [dead]
@@ -74,8 +85,8 @@ people:
     born: 1101-01-10
     died: 1201-04-01
     class: [dead]
-  Matt III:
-    fullname: Matthew Strandiz III
+  Matt IV:
+    fullname: Matthew Strandiz IV
     born: 1134-05-17
     died: 1225-02-01
     class: [dead]
@@ -92,6 +103,6 @@ people:
     born: 1190-11-01
     died: 1255-04-27
     class: [dead]
-  Matt IV:
-    fullname: Matthew Strandiz IV
+  Matt V:
+    fullname: Matthew Strandiz V
     born: 1230-11-26

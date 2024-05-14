@@ -1,5 +1,5 @@
 +++
-title = "Bartholomew III Strandiz"
+title = "Matthew I Strandiz"
 [extra.cha]
 age = ""
 sex = ""
