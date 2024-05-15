@@ -1,7 +1,8 @@
 +++
-event_id = "16"
-slug = "fall-of-bastion"
 title = "Fall of Bastion"
+[extra.evt]
+date_started = "date#1225-06-12"
+
 [taxonomies]
 event_type = ["Cataclysm"]
 

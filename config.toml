@@ -50,6 +50,8 @@ taxonomies = [
   # Misc
   { name = "journal_type", feed = true, render = false },
 
+  # Blogs
+  { name = "blog_type", feed = true, render = true },
 ]
 
 external_links_target_blank = true
