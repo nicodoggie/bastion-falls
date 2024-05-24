@@ -7,7 +7,7 @@ organization_type = ["Religious Society"]
 
 +++
 
-The Society of the Angel of Delight is one of the major religious orders authorized and consecrated by the [The Orthodox Church of the Divine Masochist](#). It is one of the oldest institutions formed whose aim is to give glory to the Divine Masochist through the intercession of the Angel of Delight in her primary aspect.
+The Society of the Angel of Delight is one of the major religious orders authorized and consecrated by the [The Orthodox Church of the Divine Masochist](@/religions/divine-masochism/orthodox/_index.md). It is one of the oldest institutions formed whose aim is to give glory to the Divine Masochist through the intercession of the Angel of Delight in her primary aspect.
 
 The Guiding Lights of the Society
 ---------------------------------

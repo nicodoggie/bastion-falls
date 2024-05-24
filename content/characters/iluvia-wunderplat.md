@@ -39,7 +39,7 @@ As she reached the age of 17, her father had enrolled her at the [University of 
 
 As soon as she graduated and received her Apgarian Medical and Surgical licenses in 1207, Iluvia took a sea voyage to Mehicania's Tordesillas region in order to begin her apprenticeship to Señor Gonzales. There, she was able to develop new techniques in facial reconstruction. She and Paz perfected a practical technique for nasal reconstruction, which was the subject of her doctorate thesis. They went on to jawline modification and earlobe reconstruction.  One particular matter of some obsession for her during her residency, was her failed research into *iris pigmentation* and attempts at permanently altering them.
 
-Much of their work, however, was marred with controversy, following accusations of grave robbery and illegal coercion to gather test subjects. The institution was shielded, however by the Mehicanian Military, which had sought out their surgical techniques to disguise their spies, which were deployed against neighboring countries, including Apgar.
+Much of their work, however, was marred with controversy, following accusations of grave robbery and illegal coercion to gather test subjects. The institution was shielded, however by the Mehicanian [Ejercito del Tierro], which had sought out their surgical techniques to disguise their spies, which were deployed against insurgents of the [Hermanos de la Libertad](@/organizations/hermanos-de-la-libertad.md) and their rumored agitators backed by the Apgarian Army.
 
 ## Return to Wunderplat Hospital
 
@@ -63,13 +63,23 @@ By 1224, Iluvia herself had translated complex medical treatises that seemed to 
 
 She would travel back to Racos Palma to attend to her mother's funeral who died of natural causes. During her absence in Karst Fortress, one of the members of Phantasmagoria, [Souveran Rothschild](@/characters/souveran-rothchild.md) returned from an expedition to [Ahuria](@/locations/ahuria.md) carrying a purple-black orb, claiming not to know of its significance, but he had taken it from a strange creature who tried to rob his caravan.
 
-Upon her return to Karst Fortress, the Marquis mentioned the object in passing, saying that the blood of the person who brought it to him seemed especially appetizing. As she touched the strange object, she immediately burst forth with energy that blew out all the candles within a 30 foot radius. Afterwards the orb's purple hue faded to a deep black, losing its previous luster. This seemed to be the catalyst that they needed to use Ritma. 
+Upon her return to Karst Fortress, the Marquis mentioned the object in passing, saying that the blood of the person who brought it to him seemed especially appetizing. As she touched the strange object, she immediately burst forth with energy that blew out all the candles within a 30 foot radius. Afterwards the orb's purple hue faded to a deep black, losing its previous luster. This seemed to be the catalyst that they needed to use Ritma. Of particular note to Iluvia due to her previous research, her eye color changed from a pale blue to a golden yellow.
 
 The Marquis called for a Conclave, calling for the upper echelon of the Phantasmagoria to Karst. They were shown the strange orb, and were tasked to find information about them.
 
-Within the few months, news of the [Fall of Bastion](@/events/fall-of-bastion.md) reached Karst Fortress and she understood that this would usher in a new age of magic.
+## Return to Racos Palma
 
-## Slow Pace of Research
+Information on sources of these orbs, thus any kind of research into them were slow, but since the Fall of Bastion, rumors of people from the east performing feats only recorded in fairy tales and discredited history books. Eventually, Iluvia was able to replicate a spell called *thunderwave* from an ancient spellbook. She theorized, incorrectly, that since she had come in contact with the orb, she became able to draw upon the elements. It was much later that news of the [Fall of Bastion](@/events/fall-of-bastion.md) reached Karst Fortress, including the orb that gradually consumed the Burtian capital, and the connection to the reappearance of magic was made.
+
+By then, Illuvia decided that her time would be better served back in Racos Palma, where she would be able to do research on her own, with the resources at her disposal there. The loose association that Phantasmagoria provided, she deemed unreliable as a source of consistent information, especially as the Marquis himself frequently travelled away from Karst Fortress. She took many spellbooks and grimoires when she left in the spring of 1228.
+
+During her absence, Wunderplat Hospital continued to provide medical and surgical services to smugglers and pirates using the same operating procedures her parents have extolled. Corruption by some of the managerial staff she left behind, however, had dwindled the hospital's coffers and left many of the facilities in disrepair.
+
+When she saw the state of the hospital upon her return, she was furious. Managerial staff rumored to be behind Wunderplat Hospital's rapid decline disappeared, their bodies found flayed and disemboweled in the [Mermaid Forest](@/locations/racos-palma.md#mermaid-forest) a month later. Apgarian naval officers were tasked to investigate this matter, along with Iluvia's potential connection to the Mehicanian military, but no evidence was found implicating her to the matter. A mute deckhand from a Mehicanian schooner was soon found to be the culprit and was beheaded for the crime.
+
+She had made connections with [Sanerian](@/locations/sanery.md) finacier *Louis Vega* in an effort to refinance the hospital, mortgaging family holdings in the Freeholds of [Tamar](@/locations/tamar.md) and [Rigatona](@/locations/rigatona.md). Within a year, Wunderplat Hospital saw an expansion of its facilities, including her purchase and rehabilitation of the Racos Palma Lighthouse.
+
+For the next twenty years, she had grown in her ability to cast magic, and her understanding of some of its fundamentals. She incorporated the practice of magic with her medical practice as well, offering more radical changes in a person's body and facial structure, making them undiscernible to even trained observers. She had contracted with the [Parvese](@/organizations/parvese-houses-of-pleasures.md) in order to find individuals with yellow eyes and hair, to train them to be part of her magically-literate medical staff. She had also begun to reconnect with her acquaintances in the intelligence divisions of the Mehicanian Ejercito del Tierro to establish a deal with them regarding 
 
 ## Poasan-Apgarian Conflict
 

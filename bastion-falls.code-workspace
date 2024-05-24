@@ -5,15 +5,17 @@
 		}
 	],
 	"settings": {
-		"gitCommitMessageEditor.intelliSense.completion.scopes": [
-			{
-				"scope": "locations",
-				"description": "in-world locations"
-			},
-			{
-				"scope": "world-novelty",
-				"description": "written entries by in-world authors"
-			}
-		]
-	}
+    "gitCommitMessageEditor.intelliSense.completion.scopes": [
+      {
+        "scope": "locations",
+        "description": "in-world locations"
+      },
+      {
+        "scope": "world-novelty",
+        "description": "written entries by in-world authors"
+      }
+    ],
+    "cSpell.enabled": true,
+    "cSpell.words": ["EV's", "Thera"]
+  }
 }

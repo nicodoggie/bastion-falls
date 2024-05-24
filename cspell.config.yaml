@@ -1,0 +1,17 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions:
+  - name: InWorldPlaceNames
+    path: .cspell/in-world-place-names.dict
+  - name: InWorldProperNames
+    path: .cspell/in-world-proper-names.dict
+  - name: InWorldTerms
+    path: .cspell/in-world-terms.dict
+dictionaries:
+  - InWorldPlaceNames
+  - InWorldProperNames
+  - InWorldTerms
+words: []
+ignoreWords: []
+import: []
+enabled: true

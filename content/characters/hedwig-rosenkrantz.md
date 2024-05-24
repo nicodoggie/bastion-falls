@@ -11,6 +11,9 @@ attribution_url = "https://www.artstation.com/chen-w"
 age = 21
 date_of_birth = "date#1254-08-05"
 sex = "Female"
+aliases = [
+  "Helda Stark",
+]
 
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]

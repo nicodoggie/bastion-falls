@@ -7,5 +7,7 @@ location_type = ["country","kingdom"]
 +++
 # Mehicania
 
-Mehicania is a country south of the [Apgarian Confederacy](@/locations/apgar.md) and was a group of states within it. They were once part of the Confederacy, but seceded from it. The Confederacy attempted to reverse the secession via military action, which then prompted the Kingdom of Poasah to defend the fledgling nation. This prompted the [Apgarian-Poasan Conflict](@/events/poasan-apgarian-conflict/_index.md), which lasted from 1253 to 1255.
+The Kingdom of Mehicania is an independent country in the Posaran Basin with a tumultuous history of war and conquest. Most recently in 1207, the country faced a cultural and political revolution helmed by the [Hermanos de la Libertad](@/organizations/hermanos-de-la-libertad.md), literally *The Brotherhood of Liberty*, which sought to overthrow the Mehicanian Royal Family and to join the [Apgarian Confederacy](@/locations/apgar.md). 
+
+
 

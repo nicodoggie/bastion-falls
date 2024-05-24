@@ -1,0 +1,10 @@
+{
+  "cSpell.customDictionaries": {
+    "custom-dictionary-folder-bastion-falls": {
+      "name": "custom-dictionary-folder-bastion-falls",
+      "path": "${workspaceFolder:bastion-falls}/.cspell/custom-dictionary-folder-bastion-falls.txt",
+      "addWords": true,
+      "scope": "folder"
+    }
+  }
+}

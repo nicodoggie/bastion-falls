@@ -6,7 +6,7 @@
 {% block content %}
 <h1 class="title">
   {% if page.extra.reformat_title | default(value=true) %} 
-    {{ page.title | title}}
+    {{ page.title | title }}
   {% else %}
     {{ page.title }}
   {% endif %}

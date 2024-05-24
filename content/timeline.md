@@ -22,7 +22,7 @@ weight = 11
 | 440 AI  | The Baraonian Rebellion                                             |
 | 466 AI  | Razing of the City of Kalassus                                      |
 | 466 AI  | Fall of the Western Kalassar Empire                                 |
-| 547 AI  | Founding of the Kingdom of Poasah                                   |
+| 547 AI  | Founding of the Kinmegdom of Poasah                                 |
 | 657 AI  | Failed Ahurian Conquest of Giza                                     |
 | 670 AI  | Fracturing of the Eastern Kalassar Empire                           |
 | 627 AI  | Founding of Calamutz; The Reign of King Cala I of Calamutz begins   |
@@ -45,6 +45,8 @@ weight = 11
 | 1225 AI | The Fall of Bastion                                                 |
 | 1230 AI | The Founding of the Reformed Church of the Divine Masochist         |
 | 1230 AI | Summan Prohibition on Demihuman Races and Abilities begins          |
+| 1248 AI | A resurgent Hermanos de la Libertad assassinated the Mehicanian King|
+| 1250 AI | The Poasan-Apgarian Conflict starts                                 |
 | 1254 AI | Revolt of the Kolhan Ansa ends, Kolha Ahuria is partitioned         |
 | 1255 AI | The Poasan-Apgarian Conflict ends with the Treaty of Turain         |
 | 1244 AI | Founding of the Thirteen                                            |

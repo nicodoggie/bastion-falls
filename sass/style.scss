@@ -60,6 +60,9 @@ img {
   h3::before {
     content: "🛈 ";
   }
+border: 1px rgb(138, 217, 241) solid;
+color: rgb(138, 217, 241);
+background-color: $bgLevel2;
 }
 
 .callout-block.warning {
