@@ -25,10 +25,17 @@ h1.title {
   i {
     margin: 0.5rem;
   }
-img {
-  display: inline;
-  vertical-align: middle;
+  img {
+    display: inline;
+    vertical-align: middle;
+  }
 }
+a.spell {
+  font-style: italic;
+  color: rgb(255, 126, 126);
+  &:hover, &:visited, &:link {
+    color: rgb(255, 126, 126);
+  }
 }
 .see-block {
   line-height: 0.1rem;
@@ -278,6 +285,13 @@ table.taxonomy-list {
   li {
     list-style-type: none;
     text-indent: 1rem;
+  }
+
+  dt {
+    text-align: left;
+  }
+  dd {
+    text-align: right;
   }
 
   width: 17rem;

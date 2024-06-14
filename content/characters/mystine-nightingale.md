@@ -3,15 +3,16 @@ title = "Mystine Nightingale"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/62556022"
 [extra.image]
-aliases = ["Alina Polovna"]
 url = "/characters/mystine-nightingale.jpg"
 attribution = "Gaia (FFXIV), by kanmay (柑梅茶) on Pixiv"
 attribution_url = "https://www.pixiv.net/en/users/1693176"
 [extra.cha]
-aliases = ["Sex-Starved Dr. Marina Visconti"]
+aliases = ["Alina Rochette", "Alina Polovna", "Sex-Starved Dr. Marina Visconti"]
 age = "23"
-pronouns = "She/Her"
 sex = "Female"
+pronouns = "She/Her"
+ethnicity = "Tanduarian"
+species = "Human"
 [taxonomies]
 organizations = ["Nightshift Nurses"]
 religions = ["Apgarian Paganism"]

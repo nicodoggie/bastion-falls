@@ -16,6 +16,6 @@
       }
     ],
     "cSpell.enabled": true,
-    "cSpell.words": ["EV's", "Thera"]
+    "cloudcode.duetAI.languages": ["markdown"]
   }
 }

@@ -96,6 +96,16 @@ code {
   font: $code_font;
 }
 
+dl {
+  dt {
+    font-weight: bold;
+    line-height: $line-height * 2;
+  }
+  dd {
+    font-size: $font-size;
+  }
+}
+
 .copy-code-button {
   font-family: 'FabricMDL2Icons';
   display: none;
