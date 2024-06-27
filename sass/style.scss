@@ -3,9 +3,17 @@
 blockquote {
   display: flow-root;
 }
-h1.title {
-  font-size: 4ex;
+header {
+  h1.title {
+    font-size: 4ex;
+    line-height: 0;
+  }
+  .subtitle {
+    font-size: 2ex;
+    font-style: italic;
+  }
 }
+
 
 #calendar-header {
   display: flex;

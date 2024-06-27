@@ -182,6 +182,8 @@
         {% endif -%}
   
         <div id="wrap">
+          {% block content_title%}
+          {% endblock content_title %}
           {% block content -%}
           {%- if section.word_count -%}
           {%- if section.word_count > 0 -%}

@@ -1,0 +1,30 @@
+{% extends "page.html" %}
+
+{% block content_title %}
+<header>
+  <h1 class="title">
+    {% if page.extra.reformat_title | default(value=true) %}
+    {{ page.title | title }}
+    {% else %}
+    {{ page.title }}
+    {% endif %}
+  </h1>
+  {% if page.extra.item %}
+    {% set subtitle = [] %}
+    {% if page.extra.item.requires_attunement %}
+      {% set subtitle = subtitle | concat(with="requires attunement") %}
+    {% endif %}
+    {% if page.extra.item.type %}
+      {% set subtitle = subtitle | concat(with=page.extra.item.type) %}
+    {% endif %}
+    {% if page.extra.item.rarity %}
+      {% set subtitle = subtitle | concat(with=page.extra.item.rarity) %}
+    {% endif %}
+  <p class="subtitle">{{ subtitle | join(sep=", ") }}</p>
+  {% endif %}
+</header>
+{% endblock content_title %}
+{% block content %}
+
+{{ super() }}
+{% endblock %}
