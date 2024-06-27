@@ -34,6 +34,10 @@ But in the run-up to Phantasmagoria, with more people have been entering the are
 
 The fact that Somme Privatea was given an invitation to the auction at Wunderplat Hospital at all was due to rumors that La Camaraderie might have been attempting to bolster their numbers with spellcasters outside of Apgar's official sphere of influence. Iluvia Wunderplat herself knew that Raibon Island might actually be fertile ground for spellcasters to develop, and so wished to see how far along they've gotten, if they have gotten anything at all. being one of Phantasmagoria's largest sponsors, she used a ticket to the secret magical event to probe what they knew at the time.
 
+## Sanery
+
+## Senera
+
 # Motivations
 
 To actually prep for this game, let's dig in to the various motivations that led to the current state the entities involved are in.
@@ -74,3 +78,5 @@ To actually prep for this game, let's dig in to the various motivations that led
     Prevailing non-secular thought would define a soul as an imprint of a person's identity, or ego, which resides within their mind. 
   </dd>
 </dl>
+
+# Vampire Lore
