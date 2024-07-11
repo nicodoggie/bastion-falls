@@ -16,6 +16,21 @@
       }
     ],
     "cSpell.enabled": true,
-    "cloudcode.duetAI.languages": ["markdown"]
+    "cloudcode.duetAI.languages": [
+      "markdown"
+    ],
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[markdown]": {
+      "editor.defaultFormatter": "davidanson.vscode-markdownlint",
+      "rewrap.reformat": true,
+      "rewrap.autoWrap.enabled": true
+    },
+    "path-autocomplete.extensionOnImport": true,
+    "path-autocomplete.triggerOutsideStrings": true,
+    "path-autocomplete.pathMappings": {
+      "@": "${workspace}/content"
+    }
   }
 }

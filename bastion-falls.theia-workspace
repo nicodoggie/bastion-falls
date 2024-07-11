@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+    "gitCommitMessageEditor.intelliSense.completion.scopes": [
+      {
+        "scope": "locations",
+        "description": "in-world locations"
+      },
+      {
+        "scope": "world-novelty",
+        "description": "written entries by in-world authors"
+      }
+    ],
+    "cSpell.enabled": true,
+    "path-autocomplete.transformations": [],
+    "path-autocomplete.pathMappings": {
+        "@": "${workspace}/content/"
+    },
+    "editor.fontLigatures": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "davidanson.vscode-markdownlint",
+        "editor.wordWrap": "80",
+        "rewrap.autoWrap.enabled": true
+    },
+    "path-autocomplete.extensionOnImport": true,
+    "path-autocomplete.triggerOutsideStrings": true,
+    "diffEditor.codeLens": true,
+    "editor.experimental.asyncTokenization": true,
+    "editor.tabSize": 2,
+    "editor.indentSize": "tabSize",
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+}
