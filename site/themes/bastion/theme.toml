@@ -1,0 +1,11 @@
+name = "bastion"
+description = "A theme for Bastion Falls"
+license = "MIT"
+homepage = "https://github.com/nicodoggie/bastion-falls"
+min_version = "0.10.0"
+
+[extra]
+
+[author]
+name = "Nico Suarez"
+homepage = "https://github.com/nicodoggie"

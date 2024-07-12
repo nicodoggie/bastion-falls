@@ -1,0 +1,64 @@
+vehicle: 
+  name: Rozenmaiden
+  vehicleType: SHIP
+  size: G
+  dimensions:
+  - 90 ft.
+  - 30 ft.
+  terrain:
+  - sea
+  capCrew: 30
+  capPassenger: 20
+  capCargo: 100
+  pace: 5
+  str: 20
+  dex: 8
+  con: 17
+  int: 0
+  wis: 0
+  cha: 0
+  immune:
+  - poison
+  - psychic
+  conditionImmune:
+  - blinded
+  - charmed
+  - deafened
+  - exhaustion
+  - frightened
+  - incapacitated
+  - paralyzed
+  - petrified
+  - prone
+  - stunned
+  - unconscious
+  hull:
+    ac: 15
+    hp: 300
+    dt: 15
+  control:
+  - name: Helm
+    ap: 18
+    hp: 50
+    entries:
+    - 
+  movement:
+  - name: Sails
+    ac: 12
+    hp: 100
+    hpNote:
+    speed:
+    - mode: water
+      entries:
+      -
+  weapon:
+  - name: Ass-Fucker
+    count: 1
+    ac: 15
+    hp: 100
+    entries:
+    -
+  - name: Ballista
+    count: 2
+    entries:
+    k- test

@@ -1,0 +1,23 @@
+{% extends "index.html" %}
+{% block content %}
+<h1>
+  {{ taxonomy.name | replace(from="_", to=" ") | title }}
+</h1>
+<table class="taxonomy-list">
+  <tr>
+    <th>Type</th>
+    <th>Article</th>
+  </tr>
+  {% for term in terms %}
+  {% set page_count = term.page_count %}
+  {% for page in term.pages %}
+  <tr>
+    {% if loop.index == 1 %}
+    <td class='col-bold col-title col-left' rowspan="{{ page_count }}">{{ term.name | title }}</td>
+    {% endif %}
+    <td><a href="{{ page.permalink }}">{{ page.title }}</a></td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
+</ul>
+{% endblock %}
