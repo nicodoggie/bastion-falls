@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.site-content {
+  table {
+    @apply w-full text-center;
+
+    td {
+      @apply text-center;
+    }
+  }
+}

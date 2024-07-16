@@ -1,13 +1,19 @@
-import { useState } from 'react'
-import './App.css'
+import { Flowbite } from "flowbite-react";
+import SanitizedHTML from "react-sanitized-html";
+import BastionNavbar from './components/Navbar/Navbar'
+import { Zola } from './types/zola-context'
+import BastionDrawer from "./components/Drawer/Drawer";
+import { useState } from "react";
 
-function App({context}: {context: Object}) {
-  const [count, setCount] = useState(0)
+function App({context}: {context: Zola.Context}) {
+  const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   return (
-    <>
-      <pre>{JSON.stringify(context, null, 2)}</pre>
-    </>
+    <Flowbite>
+      <BastionNavbar config={context.config} onDrawerToggle={() => setIsDrawerOpen(!isDrawerOpen)} />
+      <BastionDrawer config={context.config} isOpen={isDrawerOpen} onClose={() => setIsDrawerOpen(false)} />
+      <SanitizedHTML className="format site-content" html={context.page?.content} />
+    </Flowbite>
   )
 }
 
