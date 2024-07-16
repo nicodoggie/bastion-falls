@@ -40,17 +40,19 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: CHANGELOG.md
-        path: content/changelog.md
+        path: site/content/changelog.md
     - name: Build Zola
       uses: shalzz/zola-deploy-action@v0.18.0
       env: 
+        BUILD_DIR: site
         BUILD_ONLY: true
     - name: Publish to Cloudflare Pages
       env:
         CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_KEY }}
       run: pnpm run deploy --commit-hash ${{ github.sha }}
+      working-directory: site
     - name: Save CHANGELOG.md as an artifact and link it on Discord
-      run: echo -ne "${{ github.event.commits[0].message }}" > content/changelog.md
+      run: echo -ne "${{ github.event.commits[0].message }}" > site/content/changelog.md
     - name: Discord notification
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
