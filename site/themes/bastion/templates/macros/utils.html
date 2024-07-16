@@ -1,0 +1,181 @@
+[{% macro speeds(speeds) %}
+  <dt>Speed</dt>
+  {% set_global set_speeds = [] %}
+  {% for type, value in speeds %}
+  {% if type == 'walk' %}
+  {% set_global set_speeds = set_speeds | concat(with=value ~ "ft.") %}
+  {% else %}
+  {% set dfnType = "<dfn>" ~ type ~ "</dfn>" %}
+  {% set_global set_speeds = set_speeds | concat(with=dfnType ~ " " ~ value ~ "ft." ) %}
+  {% endif %}
+  {% endfor %}
+  <dd>
+    {{ set_speeds | join(sep=", ") | safe }}
+  </dd>
+{% endmacro  %}
+
+{% macro signed_int_str(value) %}
+  {%- if value >= 0 -%}+{%- endif -%}{{ value }}
+{% endmacro  %}
+
+{% macro skills(skills) %}
+<dt>Skills</dt>
+  {% set_global set_skills = [] %}
+  {% for type, value in skills %}
+  {% set titleType = type | title %}
+  {% set dfnType = "<dfn>" ~ titleType ~ "</dfn>" %}
+  {% set strValue = self::signed_int_str(value=value) %}
+  {% set_global set_skills = set_skills | concat(with=dfnType ~ " " ~ strValue ) %}
+  {% endfor %}
+<dd>
+  {{ set_skills | join(sep=", ") | safe }}
+</dd>
+{% endmacro skills %}
+
+{% macro dfn_list(dict) %}
+<dl>
+  {% for key, item in dict %}
+  {% set show = (item is iterable) and item | length > 0%}
+  {% set show = show or item is string and item | replace(from="date#", to='') | trim() != '' %}
+  {% if show %}
+  <dt>
+    <h3>{{ key | replace(from="_", to=" ")| title}}</h3>
+  </dt>
+  {% if (item is iterable) %}
+  {% for i in item %}
+  <dd>{{ self::format_config_item(key=key, item=i) }}</dd>
+  {% endfor %}
+  {% else %}
+  <dd>{{ self::format_config_item(key=key, item=item) }}</dd>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</dl>
+{% endmacro dfn_list %}
+
+{% macro format_config_item(key, item)%}
+  {% if (item is string) %}
+    {% if (item is starting_with("@/")) %}
+      {% set item = item | replace(from="@/", to="")%}
+      {% if (item is ending_with("_index.md")) %}
+        {% set page = get_section(path=item, required=false) %}
+      {% else %}
+        {% set page = get_page(path=item, required=false) %}
+      {% endif %}
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    {% elif (item is starting_with("date#")) %}
+      {% set item = item | replace(from="date#", to="") %}
+      {{ self::get_calendar_link(cal_id=config.extra.fantasy_calendar_id, date=item) }}
+    {% else %}
+      {{ item }}
+    {% endif %}
+  {% elif (item is number) %}
+    {{ item | num_format() }}
+  {% elif (item is object) %}
+    <dl>
+    {% for k,v in item %}
+      <dt>{{ k | title }}</dt>
+      <dd>{{ self::format_config_item(key=k, item=v) }}</dd>
+    {% endfor %}
+    </dl>
+  {% else %}
+    {{ item }}
+  {% endif %}
+{% endmacro format_config_item %}
+
+{% macro list_entities(term, entities, section) %}
+<dl>
+  <dt>
+    <h3>{{ term.plural | title }}</h3>
+  </dt>
+  {% for item in entities %}
+    {% set lower_item = item | lower%}
+    {% set path = section ~ '/' ~  lower_item ~ '.md' %}
+    {% set page = get_page(path= path) %}
+    {% if page %}
+      {% set link = page.permalink | replace(from=" ", to="-") | lower %}
+      <dd>
+      <a href="{{ link }}">
+        {{ page.title }}
+      </a>
+    {% else %}
+      {{ item | title }}
+    {% endif %}
+  </dd>
+  {% endfor %}
+</dl>
+{% endmacro list_entities %}
+
+{% macro list_taxa(taxon, taxa, config, section='') %}
+  {% if taxon in taxa %}
+    <dl>
+      <dt>
+        <h3>{{ taxon | replace(from="_", to=" ") | title }}</h3>
+      </dt>
+      {% for item in taxa[taxon] %}
+        {% set page = get_taxonomy_term(kind=taxon, term=item) %}
+        {% set path = page.permalink | replace(from=" ", to="-") | lower %}
+        {% if section != ''%}
+        {% set slug = page.name | slugify %}
+        {% set path = '/' ~ section ~ '/' ~ slug %}
+        {% endif %}
+        <dd>
+          <a href="{{ path }}">
+            {{ page.name | replace(from="_", to=" ") | title }}
+          </a>
+        </dd>
+      {% endfor %}
+    </dl>
+  {% endif %}
+{% endmacro list_taxa %}
+
+{% macro get_calendar_link(cal_id, date)%}
+  {% set sign = "" %}
+  {% if date is starting_with("-") %}
+    {% set sign = "-" %}
+    {% set date = date | trim_start_matches(pat="-") %}
+  {% endif %}
+  {% set split_date = date | replace(from="-", to="/") | split(pat="/") %}
+  {% set cal_url = "https://app.fantasy-calendar.com/calendars/"~cal_id %}
+  {% if split_date | length == 3 %}
+    {% set date_url = cal_url~"?year="~sign~split_date[0]~"&month="~split_date[1]~"&day="~split_date[2]%}
+    <a href="{{ date_url }}" target="_blank" rel="noopener, noreferrer">{{sign}}{{ date }}</a>
+  {% else %}
+    {{ sign }}{{ date }}
+  {% endif %}
+{% endmacro %}
+
+{% macro sidebar_portrait(config) %}
+  {% if config.extra and config.extra.image %}
+  {% set image = config.extra.image %}
+  <div class="sidebar-portrait">
+    {% set processed = image %}
+    {% if image.attribution_url %}
+    <div class="attribution-link">
+      {% if not (image.url is starting_with("http")) %}
+        {% set processed = resize_image(path=image.url, width=350, op="fit_width", format="webp") %}
+      {% endif %}
+        <a rel="external noopener" target="_blank" href="{{ image.attribution_url }}">
+          <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+    </div>
+    {% endif %}
+    {% set attribution = "Unknown, please raise an issue in the github for attibution or removal." %}
+    {% if image.attribution %}
+      {% set attribution = image.attribution %}
+    {% endif %}
+    <img src="{{ processed.url }}" title="Attribution: {{ attribution }}" />
+  </div>
+  {% endif %}
+{% endmacro  %}
+{% macro map(map, width, op="fit_width", format="webp") %}
+<div class="sidebar-portrait">
+  {% set processed = map %}
+  {% if not (map.url is starting_with("http")) %}
+  {% set processed = resize_image(path=map.url, width=350, op="fit_width", format="webp") %}
+  {% endif %}
+  <a target="_blank" href="{{ get_url(path=map.url) }}">
+    <img src="{{ processed.url }}">
+  </a>
+</div>
+
+{% endmacro %}

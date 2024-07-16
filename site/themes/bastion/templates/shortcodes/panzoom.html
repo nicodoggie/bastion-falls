@@ -1,0 +1,31 @@
+<script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+{% set src = page.colocated_path ~ img %}
+<div class="panzoom-box">
+  <div class="panzoom-container" title="Double-click to open in new window.">
+    <img src="/{{ src }}" alt="{{ alt }}" id="{{ id }}" width="50%" />
+  </div>
+</div>
+
+{% if not target %}
+  {% set target=src %}
+{% endif %}
+<script>
+  const enableDblclick = {% if enableDblclick %}{{ enableDblclick }}{% else %}true{% endif %};
+  const elem = document.getElementById('{{ id }}')
+  const panzoom = Panzoom(elem, {
+    maxScale: 10,
+    canvas: true,
+  });
+  panzoom.pan(0, 0);
+  panzoom.zoom(2, { animate: true });
+
+  // Panning and pinch zooming are bound automatically (unless disablePan is true).
+  // There are several available methods for zooming
+  // that can be bound on button clicks or mousewheel.
+  elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
+  if(enableDblclick === undefined || enableDblclick === true) {
+    elem.addEventListener('dblclick', () => {
+      window.open("{{ target | safe }}", '_blank');
+    })
+  }
+</script>

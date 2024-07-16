@@ -1,0 +1,5 @@
+{% macro fam(name) %}
+{% set slugged = name | slugify %}
+{%- set path = get_url(path="families/" ~ slugged) -%}
+{{ "["~name~"]("~path~")" | markdown(inline=true) | safe }}
+{% endmacro %}

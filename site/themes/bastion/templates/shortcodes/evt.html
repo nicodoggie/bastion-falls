@@ -1,0 +1,8 @@
+{% if not slug %}
+{% set slugged = name | slugify %}
+{% else %}
+{% set slugged = slug %}
+{% endif %}
+
+{% set path = get_url(path="@/events/"~slugged~".md")%}
+{{ "["~name~"]("~path~")" | markdown(inline=true) | safe }}

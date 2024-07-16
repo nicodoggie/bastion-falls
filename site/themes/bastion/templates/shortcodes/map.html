@@ -1,0 +1,4 @@
+{% set image = resize_image(path=asset, width=width, op="fit_width", format="webp") %}
+<a href="{{ get_url(path=asset) }}" target="_blank">
+  <img src="{{ image.url }}" />
+</a>

@@ -1,0 +1,8 @@
+{% if not slug %}
+{% set slugged = name | slugify %}
+{% else %}
+{% set slugged = slug %}
+{% endif %}
+
+{% set path = "/locations/"~slugged %}
+{{ "["~name~"]("~path~")" | markdown(inline=true) | safe }}

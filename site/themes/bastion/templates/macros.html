@@ -1,0 +1,47 @@
+{% import "macros/sidebar/character.html" as char %}
+{% import "macros/sidebar/location.html" as loc %}
+{% import "macros/sidebar/event.html" as event %}
+{% import "macros/sidebar/stats.html" as stats %}
+{% import "macros/section.html" as section_macros %}
+
+{% macro callout(type="", body) %}
+<div class="callout-block {{ type | lower }}">
+  <h3>{{ type | title }}</h3>
+  <p>{{ body }}</p>
+</div>
+{% endmacro callout%}
+
+{% macro calendar(embed="calendar-embed", theme="blue_grey", size="xl") %}
+<div id="{{ embed }}"></div>
+<script src='https://app.fantasy-calendar.com/js/embed.js'></script>
+<script>
+  FantasyCalendar({
+    selector: "#{{ embed }}",
+    hash: '089e518f9ea966373b1c71535c25b98a',
+    settings: {
+      theme: "{{ theme }}",
+      size: "{{ size }}"
+    },
+  });
+</script>
+{% endmacro calendar %}
+
+{% macro sidebar_location(name, config) %}
+{{ loc::location(name=name, config=config) }}
+{% endmacro sidebar_location %}
+
+{% macro sidebar_character(name, config) %}
+  {{ char::character(name=name, config=config) }}
+{% endmacro sidebar_character %}
+  
+{% macro sidebar_event(name, config) %}
+  {{ event::event(name=name, config=config) }}
+{% endmacro sidebar_event %}
+
+{% macro sidebar_stats(name, config) %}
+  {{ stats::stats(name=name, config=config) }}
+{% endmacro sidebar_event %}
+
+{% macro sort_pages(section, current_path, ugly_url) %}
+  {{ section_macros::sort_pages(section=section, current_path=current_path, ugly_url=ugly_url) }}
+{% endmacro list_pages %}

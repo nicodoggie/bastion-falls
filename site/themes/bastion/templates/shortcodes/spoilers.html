@@ -1,0 +1,11 @@
+{% if not label %}
+{% set label="Warning: Spoilers!"%}
+{% endif %}
+<div class="spoiler">
+  <input class="spoiler-toggle-checkbox" type="checkbox" id="spoiler-box-{{ nth }}" />
+  <label class="spoiler-toggle-label" for="spoiler-box-{{ nth }}">{{ label }}</label>
+
+  <div class="spoiler-content">
+    {{ body | markdown(inline=false) | safe }}
+  </div>
+</div>

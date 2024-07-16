@@ -1,0 +1,208 @@
+{% macro display_toc(page) %}
+  {# Count number of headers on page #}
+  {% set_global header_count = 0 -%}
+  {% for h2 in page.toc -%}
+    {% set_global header_count = header_count + 1 -%}
+    {% for h3 in h2.children -%}
+      {% set_global header_count = header_count + 1 -%}
+      {% for h4 in h3.children -%}
+        {% set_global header_count = header_count + 1 -%}
+      {% endfor -%}
+    {% endfor -%}
+  {% endfor -%}  
+  {# Output headers if above threshold #}
+  {% if not config.extra.easydocs_heading_threshold -%}
+    {# Undefined or 0 unable to find a way to differnciate between 0 and undefined.
+    1 is already including any headings so is not 0 not needed #}
+    {% set _threshold = 5 -%}
+  {% else %}
+    {% set _threshold = config.extra.easydocs_heading_threshold -%}
+  {% endif -%}
+  {% if header_count >= _threshold -%}
+    <ul id="toc">
+    {% for h2 in page.toc -%}
+      <li>
+        <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+      {% if h2.children -%}
+        <ul>
+          {% for h3 in h2.children -%}
+            <li>
+              <a href="{{ h3.permalink | safe }}">{{ h3.title }}</a>
+            </li>
+          {% endfor -%}
+        </ul>
+      {% endif -%}
+      </li>
+    {% endfor -%}
+    </ul>
+  {% endif -%}
+{% endmacro display_toc %}
+
+{% macro list_pages(pages, current_path, ugly_url) %}
+  {% for page in pages -%}
+    <li {% if current_path==page.path %}class="active" {% endif %}>
+      <a href="{{ page.permalink | safe }}{{ ugly_url }}">{{ page.title }}</a>
+    </li>
+    {% if page.toc -%}
+      {% if current_path == page.path -%}
+        {{ section_macros::display_toc(page=page) }}
+      {% endif -%}
+    {% endif -%}
+  {% endfor -%}
+{% endmacro list_pages %}
+
+{% macro sort_pages(section, current_path, ugly_url) %}
+  {% set pages = section.pages %}
+  {% if section.extra and section.extra.custom_sort %}
+    {% set key = section.extra.custom_sort.key %}
+    {% set type = section.extra.custom_sort.type %}
+    {{ section_macros::custom(pages=pages, key=key, current_path=current_path, ugly_url=ugly_url, type=type) }}
+  {% else %}
+    {# default sorting #}
+    {{ section_macros::list_pages(pages=pages, current_path=current_path, ugly_url=ugly_url ) }}
+  {% endif %}
+{% endmacro sort_pages %}
+
+{% macro custom(pages, key, current_path, ugly_url, type="natural" )%}
+    {% if type=="date" %}
+      {{ section_macros::pages_by_date(pages=pages, key=key, current_path=current_path, ugly_url=ugly_url)}}
+    {% endif %}
+{% endmacro custom %}
+
+{% macro pages_by_date(pages, key, current_path, ugly_url) %}
+  {% set_global _pages = [] %}
+  {% for page in pages %}
+    {# parse date #}
+    {% set date = section_macros::get_by_key(item=page, key=key) | replace(from="date#", to="") | trim() %}
+    {% set is_negative = date is starting_with("-")%}
+    {% set split_date = date | split(pat="-") %}
+    {# parse dates into integers, year and monthday #}
+    {% if is_negative and split_date | length == 4 %}
+      {% set year = "-" ~ split_date.1 | int %}
+      {% set monthday = split_date.2 ~ split_date.3 | int %}
+    {% elif split_date | length == 3  %}
+      {% set year = split_date.0 | int %}
+      {% set monthday = split_date.1 ~ split_date.2 | int %}
+    {% else %}
+      {# entries without a date are flung into the future #}
+      {% set year = 9999 %}
+      {% set monthday = 9999 %}
+    {% endif %}
+
+    {% set sorted_length = _pages | length %}
+
+    {# <p>Comparing {{ page.title }} {{ year }}</p> #}
+    {% if sorted_length == 0 %}
+      {# insert first page if _pages is empty #}
+      {% set_global _pages = _pages | concat(with=page) %}
+    {% else %}
+      {# sorting proper #}
+      {% for iter in _pages %}
+        {# parse iter_date #}
+        {% set iter_date = section_macros::get_by_key(item=iter, key=key) | replace(from="date#", to="") | trim() %}
+        {% set is_negative = iter_date is starting_with("-")%}
+        {% set split_iter = iter_date | split(pat="-") %}
+        {# parse dates into integers, year and monthday #}
+        {% if is_negative and split_iter | length == 4 %}
+          {% set iter_year = "-" ~ split_iter.1 | int %}
+          {% set iter_monthday = split_iter.2 ~ split_iter.3 | int %}
+        {% elif split_iter | length == 3  %}
+          {% set iter_year = split_iter.0 | int %}
+          {% set iter_monthday = split_iter.1 ~ split_iter.2 | int %}
+        {% else %}
+          {# entries without a date are flung into the future #}
+          {% set iter_year = 9999 %}
+          {% set iter_monthday = 9999 %}
+        {% endif %}
+
+        {# <p>&nbsp;&nbsp;&nbsp;with {{ iter.title }} {{ iter_year}}</p> #}
+
+        {# compare year #}
+        {% if iter_year > year %}
+          {% set slice_1 = _pages | slice(start=0, end=loop.index0) %}
+          {% set slice_2 = _pages | slice(start=loop.index0, end=sorted_length) %}
+          {% set_global _pages = slice_1 | concat(with=page) | concat(with=slice_2) %}
+          {# <p>&nbsp;&nbsp;&nbsp; sorted by year {{ page.title }} {{loop.index}} {{sorted_length}}</p> #}
+          {# {% for page in _pages %}
+          <li>{{ page.title }}</li>
+          {% endfor %} #}
+          {% break %}
+        {% elif iter_year == year %}
+          {# if year == iter_year, compare monthday #}
+          {% if iter_monthday > monthday %}
+            {% set slice_1 = _pages | slice(start=0, end=loop.index0 ) %}
+            {% set slice_2 = _pages | slice(start=loop.index0, end=sorted_length) %}
+            {% set_global _pages = slice_1 | concat(with=page) | concat(with=slice_2) %}
+            {# <p>&nbsp;&nbsp;&nbsp; sorted by monthday {{ page.title }} {{loop.index}} {{sorted_length}}</p> #}
+            {# {% for page in _pages %}
+              <li>{{ page.title }}</li>
+            {% endfor %} #}
+            {% break %}
+          {% else %}
+            {% if loop.last %}
+              {# &nbsp;insert from monthday #}
+              {% set_global _pages = _pages | concat(with=page) %}
+              {# <p>&nbsp;&nbsp;&nbsp; inserted at the end {{ page.title }} {{loop.index}} {{sorted_length}}</p> #}
+              {# {% for page in _pages %}
+                <li>{{ page.title }}</li>
+              {% endfor %} #}
+            {% break %}
+            {% else %}
+              {# &nbsp;continue from monthday #}
+              {% continue %}
+            {% endif %}
+          {% endif %}
+        {% else %}
+          {% if loop.last %}
+            {# &nbsp;insert #}
+            {% set_global _pages = _pages | concat(with=page) %}
+            {# <p>&nbsp;&nbsp;&nbsp; inserted at the end {{ page.title }} {{loop.index}} {{sorted_length}}</p> #}
+            {# {% for page in _pages %}
+              <li>{{ page.title }}</li>
+            {% endfor %} #}
+          {% break %}
+          {% else %}
+            {# &nbsp;continue  #}
+            {% continue %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+  {{ section_macros::list_pages(pages=_pages, current_path=current_path, ugly_url=ugly_url)}}
+  {# {% for page in _pages %}
+  <li>{{ page.title }}</li>
+  {% endfor %} #}
+  {# {{ pages | length}} == {{ _pages | length }} #}
+{% endmacro pages_by_date %}
+
+{% macro get_by_key(item, key) %}
+  {% set_global _item_kval = "" %}
+  {% set_global _intermediate = "" %}
+  {% for pkey in key | split(pat=".") %}
+    {% if loop.index0 == 0 %}
+      {# if key doesn't exist in object, break #}
+      {% if item[pkey] %}
+        {# in the first iteration, retrieve page child prop #}
+        {% set_global _intermediate = item[pkey] %}
+      {% else %}
+        {% break %}
+      {% endif %}
+    {% elif loop.last %}
+      {% if _intermediate[pkey] %}
+      {# in the last iteration, save child prop to _page_kval #}
+        {% set_global _item_kval = _intermediate[pkey] %}
+      {% else %}
+        {% break %}
+      {% endif %}
+    {% else %}
+      {% if _intermediate[pkey] %}
+      {# during the intermediate iterations, overwrite intermediate to intermediate's child prop #}
+        {% set_global _intermediate = _intermediate[pkey] %}
+      {% else %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  {{ _item_kval }}
+{% endmacro get_by_key %}

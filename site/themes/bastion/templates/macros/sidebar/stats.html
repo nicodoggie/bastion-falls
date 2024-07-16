@@ -1,0 +1,49 @@
+{% import "macros/utils.html" as utils %}
+
+{% macro stats(name, config) %}
+{% if config.extra.stats %}
+<div class="sidebar-stats">
+  {% set stats = config.extra.stats %}
+  <table class="stats-ability-table">
+    <tr>
+      <th>STR</th>
+      <th>DEX</th>
+      <th>CON</th>
+      <th>WIS</th>
+      <th>INT</th>
+      <th>CHA</th>
+    </tr>
+    <tr>
+      <td>{{ stats.str }}</td>
+      <td>{{ stats.dex }}</td>
+      <td>{{ stats.con }}</td>
+      <td>{{ stats.wis }}</td>
+      <td>{{ stats.int }}</td>
+      <td>{{ stats.cha }}</td>
+    </tr>
+  </table>
+  <hr />
+  <dl>
+    {% if stats.ac %}
+    <dt>Armor Class</dt>
+    <dd>{{ stats.ac }}</dd>
+    {% endif %}
+    {% if stats.hp %}
+    <dt>Hit Points</dt>
+    <dd>{{ stats.hp }}</dd>
+    {% endif %}
+    {% if stats.speeds %}
+      {{ utils::speeds(speeds=stats.speeds) }}
+    {% endif %}
+    {% if stats.skills %}
+      {{ utils::skills(skills=stats.skills) }}
+    {% endif %}
+    {% if stats.proficiency %}
+    <dt>Proficiency Bonus</dt>
+    <dd>{{ utils::signed_int_str(value=stats.proficiency) }}</dd>
+    {% endif %}
+  </dl>
+</div>
+{% endif %}
+
+{% endmacro stats %}

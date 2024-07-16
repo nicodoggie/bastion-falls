@@ -1,0 +1,8 @@
+{% if slug %}
+{% set slugged = slug %}
+{% else %}
+{% set slugged = name | slugify %}
+{% endif %}
+
+{%- set path = "https://dndbeyond.com/spells/"~slugged -%}
+<a class="spell" href="{{ path }}" target="_blank" rel="external,noopener,noreferrer">{{ name }}</a>
