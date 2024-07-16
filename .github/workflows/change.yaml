@@ -35,7 +35,7 @@ jobs:
             changelog += `---\n\n`;
             changelog += `${message.replaceAll(/\]\s+\(/gi, "](")}\n\n`;
           }
-          fs.writeFileSync('content/changelog.md', changelog);
+          fs.writeFileSync('site/content/changelog.md', changelog);
     - name: Upload changelog as artifact
       uses: actions/upload-artifact@v4
       with:
