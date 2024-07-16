@@ -1,7 +1,6 @@
 
-import { Button, Drawer, Sidebar } from "flowbite-react";
+import { Drawer } from "flowbite-react";
 import { Zola } from "../../types/zola-context";
-import { Key, useState } from "react";
 
 type DrawerProps = {
   config: Zola.Config
