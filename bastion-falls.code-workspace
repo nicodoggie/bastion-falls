@@ -23,7 +23,7 @@
       "editor.defaultFormatter": "vscode.json-language-features"
     },
     "[markdown]": {
-      "editor.defaultFormatter": "davidanson.vscode-markdownlint",
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
       "rewrap.reformat": true,
       "rewrap.autoWrap.enabled": true
     },

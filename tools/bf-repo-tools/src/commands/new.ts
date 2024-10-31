@@ -5,6 +5,7 @@ import slugify from "../lib/slugify.js";
 import { existsSync, writeFileSync } from "fs";
 import path, { resolve } from "path";
 import GenericEntity, { Entity, Frontmatter } from "../entities/generic-entity.js";
+import { contentDir } from '../config.js';
 
 const entityMap = {
   blog: "blogs",
@@ -43,7 +44,7 @@ newFile
     }
 
     if (!outDir) {
-      outDir = `content/${entity.dir}`;
+      outDir = resolve(contentDir, entity.dir);
     }
 
     const content = matter.stringify("", entity, frontmatter.options);

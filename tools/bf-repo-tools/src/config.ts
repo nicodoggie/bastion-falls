@@ -10,3 +10,5 @@ export const mysql: Knex.StaticConnectionConfig = {
   password: process.env.MYSQL_PASS,
   database: process.env.MYSQL_DB,
 }
+
+export const contentDir = "site/content";

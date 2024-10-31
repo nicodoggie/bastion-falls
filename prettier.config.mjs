@@ -7,6 +7,16 @@ const config = {
   bracketSpacing: true,
   arrowParens: 'avoid',
   endOfLine: 'lf',
+  printWidth: 80,
+  proseWrap: 'always',
+  overrides: [
+    {
+      files: '*.md',
+      options: {
+        tabWidth: 1,
+      },
+    },
+  ],
 };
 
 export default config;
