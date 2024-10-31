@@ -1,10 +1,7 @@
 +++
-organization_id = ["11"]
-slug = "port-rainoso-local-government"
 title = "Port Rainoso Local Government"
 [taxonomies]
 organization_type = ["Government"]
-
 +++
 
 Being the capital of Raibon Island, but only one of two major ports, Rainoso's Local government has influence on the smaller townships on the island, even if they are technically about the same political level.
@@ -17,8 +14,7 @@ The Minervan Office
 The Minervan Office constitutes 2 elected positions and 4 appointed ministers. The former are the offices of the Mayor and Vice Mayor.
 
 Mayoral Office  
-
------------------
+--------------
 
 The Vice Mayor is selected by the Mayor as a running-mate, and acts as a fallback if the Mayor is deemed unfit to run office. They also officiate the meetings of the Justitian Council as its speaker. Typically, the Vice Mayor has no vote in the Council, except to break ties in simple majority votes.
 

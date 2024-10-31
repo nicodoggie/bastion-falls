@@ -4,6 +4,6 @@ title = "The Princely Channel"
 population = ""
 [taxonomies]
 location_type = []
-parent_location = []
+parent_location = ["Sarmatian Sea", "Betera"]
 +++
 
