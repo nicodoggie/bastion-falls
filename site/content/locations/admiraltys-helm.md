@@ -1,24 +1,66 @@
 +++
-title = "Admiralty's Helm"
-[extra.location.details]
-population = "12,000 permanent residents"
+title = "The Admiralty's Helm"
 [taxonomies]
-location_type = ["district", "military_installation", "fortress"]
-parent_location = ["Surrey-on-the-Brams", "Senera"]
+location_type = ["district", "military"]
+parent_location = ["Port Surrey-on-the-Brams", "Surrey-on-the-Brams", "Senera"]
+
+[extra.location.details]
+area = "~20 square miles"
+population = "~5,000"
+elevation = "Several hundred feet above sea level"
+keelswood_area = "~8 square miles (40% of total)"
+prison_complex_area = "5-6 square miles"
+naval_command_area = "4 square miles"
+residential_area = "1-2 square miles"
+infrastructure_area = "1 square mile"
+population_type = "Military/Administrative"
 +++
 
-The **Admiralty's Helm** is the military and administrative heart of
-[Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md), occupying
-the commanding heights of the Crow's Nest plateau at the western end of
-[Surrey-on-the-Brams](@/locations/surrey-on-the-brams.md). The district is
-dominated by the ancient fortress complex that houses the [Seneran Navy's] (@/organizations/seneran-military.md#navy)
-command facilities and the notorious Admiralty Prison.
+**The Admiralty's Helm** occupies the commanding heights of the Crow's Nest 
+plateau in [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-
+brams.md)...
+
+## Overview
+
+Area: ~20 square miles Population: ~5,000 (mostly military/administrative)
+Elevation: Several hundred feet above sea level
+
+The Admiralty's Helm occupies the commanding heights of the Crow's Nest plateau,
+rising several hundred feet above the surrounding waters. Its territory
+comprises:
+
+- The Keelswood (~8 square miles, 40% of total area)
+- Prison Complex (~5-6 square miles)
+- Naval Command Complex (~4 square miles)
+- Residential/Support Areas (~1-2 square miles)
+- Infrastructure/Roads (~1 square mile)
+
+### Population Distribution
+
+The district's ~5,000 residents include:
+
+- Naval command staff and support personnel
+- Prison staff and guards
+- Keelswood forestry workers
+- Essential service providers
+- Military families in upper residences
+- Prisoner population (not counted in official figures)
+
+### Access Control
+
+The Helm's population is strictly controlled through:
+
+- Permanent residence permits
+- Daily work passes
+- Military credentials
+- Diplomatic clearances
+- Special administrative access
 
 ## Geography
 
 The district occupies approximately 20 square miles atop a natural plateau,
 rising several hundred feet above the water. Steep cliffs on three sides provide
-natural defenses, while the protected [Keelswood] (@/locations/keelswood.md)
+natural defenses, while the protected [the Keelswood](@/locations/keelswood.md)
 covers much of the remaining terrain.
 
 ## The Fortress
@@ -32,7 +74,7 @@ simple stone keep with wooden outer defenses.
 ### Kalassarian Citadel
 
 Under Kalassarian rule, the fort was expanded into an extensive citadel using
-magical engineering. The enhanced fortifications integrated with Keelswood's
+magical engineering. The enhanced fortifications integrated with the Keelswood's
 natural barriers and included:
 
 - Magically reinforced walls
