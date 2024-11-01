@@ -13,6 +13,8 @@ const config = {
     {
       files: '*.md',
       options: {
+        parser: 'markdown',
+        htmlWhitespaceSensitivity: 'css',
         tabWidth: 1,
       },
     },

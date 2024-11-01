@@ -28,6 +28,7 @@ Century counting includes Year 0, so the 10th century AI spans years 900-999 AI.
 | 111 AI  | Tochoma settlement founded; White Witches recognized                  |
 | 111 AI  | Governor of Seneria dies; family cursed                               |
 | 112 AI  | Joint council formed; [Halorin](@/characters/hama.md) leads Witches   |
+| 200 AI  | Beginning of the decline of _Ritma_ (magical power)                   |
 | 269 AI  | Founding of Bastion                                                   |
 | 276 AI  | Founding of [Ahuria](@/locations/ahuria.md) as a theocratic empire    |
 | 433 AI  | Beginning of the Ahurian Conquest of South Central Kalassar           |

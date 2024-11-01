@@ -529,3 +529,33 @@ table.taxonomy-list {
 #search-box:checked+label.search-box-label+.gcse-search-container {
   display: block;
 }
+
+.stats {
+  // Similar to sidebar but without float
+  margin: 1rem 0;
+  padding: 1rem 1.5rem;
+  background: $bgLevel2;
+  border-radius: 4px;
+  min-width: 30rem;
+  width: max-content;
+  
+  dl {
+    margin: 0;
+    
+    dt {
+      font-weight: bold;
+      line-height: $line-height;
+      font-size: 0.9rem;
+    }
+    
+    dd {
+      font-size: 0.9rem;
+      margin-left: 1rem;
+      margin-bottom: 0.5rem;
+      
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
