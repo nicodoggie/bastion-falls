@@ -16,18 +16,17 @@ infrastructure_area = "1 square mile"
 population_type = "Military/Administrative"
 +++
 
-**The Admiralty's Helm** occupies the commanding heights of the Crow's Nest 
-plateau in [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-
-brams.md)...
+**The Admiralty's Helm** occupies the commanding heights of the Crow's Nest
+plateau in [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md).
+This strategic district serves as the military and administrative heart of
+Senera's naval operations, overseeing the coordination of maritime defense and
+naval logistics.
 
 ## Overview
 
-Area: ~20 square miles Population: ~5,000 (mostly military/administrative)
-Elevation: Several hundred feet above sea level
-
-The Admiralty's Helm occupies the commanding heights of the Crow's Nest plateau,
-rising several hundred feet above the surrounding waters. Its territory
-comprises:
+The Admiralty's Helm rises several hundred feet above the surrounding waters,
+providing a commanding view of both the Brams River and the Gulf of Inespell.
+Its territory comprises:
 
 - The Keelswood (~8 square miles, 40% of total area)
 - Prison Complex (~5-6 square miles)
@@ -39,7 +38,7 @@ comprises:
 
 The district's ~5,000 residents include:
 
-- Naval command staff and support personnel
+- Naval command staff and support personnel.
 - Prison staff and guards
 - Keelswood forestry workers
 - Essential service providers
@@ -230,6 +229,14 @@ administrative functions. Modern buildings, constructed within the original
 defensive walls, house various command departments and secure facilities.
 Officer quarters occupy several restored historical structures, maintaining a
 connection to the fortress's past.
+
+##### Liaison Office of the Treaty of Turain Organization
+
+This office serves as the primary point of contact between the Seneran Navy and
+the Treaty of Turain Organization. It facilitates communication and coordination
+regarding treaty enforcement and compliance. The office is staffed by diplomatic
+and military personnel who work closely with naval command to ensure adherence
+to treaty provisions and to address any disputes or issues that arise.
 
 #### Outer Bailey
 

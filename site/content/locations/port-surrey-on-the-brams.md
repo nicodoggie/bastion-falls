@@ -163,6 +163,7 @@ over both river channels and the gulf beyond.
 - Naval Command facilities
 - The Keelswood and its management facilities
 - Upper city residences
+- Liaison Office of the Treaty of Turain Organization
 
 ### The Narrows
 
@@ -466,7 +467,8 @@ and intelligence operations maintain constant vigilance over Senera's maritime
 interests. A sophisticated communications center ensures reliable contact with
 vessels throughout Seneran waters, while senior staff reside in protected
 quarters within the complex. The facility also incorporates the notorious Splits
-prison and the carefully managed the Keelswood reserve.
+prison, the carefully managed the Keelswood reserve, and the Liaison Office of
+the Treaty of Turain Organization.
 
 ### Defensive Infrastructure
 
