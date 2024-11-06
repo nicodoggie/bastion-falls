@@ -1,224 +1,115 @@
 +++
-slug = "port-surrey-on-the-brams"
 title = "Port Surrey-on-the-Brams"
-
 [taxonomies]
 location_type = ["city", "port", "port city"]
 parent_location = ["Brams River", "Senera"]
 
 [extra.location.details]
-total_area = "~43 square miles"
-total_population = "~465,000"
+total_area = "~35 square miles"
+total_population = "~315,000"
 elevation = "0-500 feet above sea level"
 climate = "Temperate maritime"
 government = "Municipal council under Admiralty oversight"
 districts = [
-  { name = "Admiralty's Helm", area = "~20 sq mi", population = "~5,000" },
   { name = "Admiralty Dockyards", area = "~3 sq mi", population = "~15,000" },
-  { name = "Narrows", area = "~3 sq mi", population = "~50,000" },
-  { name = "Tidemark", area = "~4 sq mi", population = "~100,000" },
   { name = "Northcross", area = "~5 sq mi", population = "~75,000" },
-  { name = "Port Surrey", area = "~6 sq mi", population = "~150,000" },
-  { name = "Wardcross Isle", area = "~2 sq mi", population = "~70,000" }
+  { name = "Port Surrey", area = "~6 sq mi", population = "~150,000" }
 ]
-
 +++
 
-**Port Surrey-on-the-Brams** is a major port city in
-[Senera](@/locations/senera.md), situated on a strategic island where the
-[Brams River](@/locations/brams-river.md) splits before entering the
-[Gulf of Inespell](@/locations/gulf-of-inespell.md). It serves as the primary
-base for the [Seneran Navy](@/organizations/seneran-military.md#navy) and houses
-the notorious Admiralty Prison.
+**Port Surrey-on-the-Brams** is a major port city in the
+[Seneran](@/locations/senera.md) island of
+[Surrey-on-the-Brams](@/locations/surrey-on-the-brams.md). It is situated where
+the [Great Surrey Reach](@/locations/great-surrey-reach.md) meets the
+[Gulf of Inespell](@/locations/gulf-of-inespell.md). The city operates under
+oversight from [The Admiralty's Helm](@/locations/admiraltys-helm.md), which
+rises on the plateau above, housing the command center of the
+[Royal Seneran Navy](@/organizations/seneran-military.md#navy).
 
 ## History
 
-### Early Settlement
+### Kalassarian Foundation
 
-The earliest recorded settlements on Surrey-on-the-Brams were concentrated
-around what is now the Narrows district. These early maritime communities took
-advantage of the natural harbors and strategic position to control river
-traffic, developing the first pilot services for navigating the challenging
-channels. The original Wardcross bridges, though primitive by modern standards,
-established the island's importance as a crossing point for land- based trade.
+The city began as the Kalassarian settlement of "Surrata" ("safe
+harbor/landing"), strategically positioned where the Great Surrey Reach meets
+the Gulf of Inespell. Imperial planners selected this previously undeveloped
+site for its natural deep-water harbor and the defensive advantages offered by
+the Crow's Nest plateau.
 
-### Kalassarian Period
+### Imperial Development (Pre-435 AI)
 
-The Kalassarian Empire transformed Surrey-on-the-Brams from a strategic crossing
-point into a major imperial port. While they maintained and enhanced the
-existing Wardcross bridges, their most ambitious project was the construction of
-the Northcross Bridge, connecting the northern shore directly to the mainland.
-This massive structure, incorporating both magical and physical engineering,
-demonstrated the empire's technical prowess and cemented the port's dominance
-over river traffic.
+The Kalassarian Empire transformed Surrata into a major imperial port through
+systematic expansion and engineering. Their most ambitious project was the
+Northcross Bridge, connecting the northern shore directly to the mainland. This
+massive structure demonstrated their mastery of both magical and physical
+engineering, establishing the port's dominance over river traffic.
 
-The Kalassarians imposed their characteristic order on the growing city,
-establishing the rigid grid system still visible in the eastern districts. Their
-engineers reshaped the eastern shoreline, constructing the seawalls and port
-facilities that would serve as the foundation for modern shipyards. The Crow's
-Nest plateau was fortified, and its natural defenses were enhanced through a
-combination of magical and conventional engineering.
+The empire imposed its characteristic order on the growing city, implementing
+the rigid grid system still visible in the eastern districts. Their engineers
+reshaped the eastern shoreline, constructing seawalls and port facilities that
+would serve as the foundation for modern shipyards. The Crow's Nest plateau was
+fortified, its natural defenses enhanced through a combination of magical and
+conventional engineering.
 
 ### Silent Ages (435-1225 AI)
 
 The collapse of magical infrastructure during the Silent Ages forced significant
 adaptations throughout the city. The loss of magical lifting mechanisms in the
-bridges led to the development of innovative mechanical solutions, many of which
-continue to function today. The Admiralty's Helm, previously served by magical
-transport systems, required new supply routes and mechanical lifts, leading to
-the expansion of prison labor programs for their operation and maintenance.
+bridges led to innovative mechanical solutions, many still functioning today.
+The Admiralty's Helm, previously served by magical transport systems, required
+new supply routes and mechanical lifts, leading to the expansion of prison labor
+programs for their operation and maintenance.
 
-### Modern Era
+### Modern Era (1225 AI-Present)
 
-Today's Port Surrey reflects both its imperial past and the practical
-adaptations of the Silent Ages. The city has evolved into Senera's primary naval
-base while maintaining its crucial role in river commerce. Recent efforts to
-recover and understand Kalassarian magical engineering have led to some
-restoration of ancient systems, though most of the city still relies on the
-robust mechanical solutions developed during the Silent Ages.
+Today's Port Surrey reflects both its imperial heritage and Silent Age
+adaptations. While recent scholarship has recovered some understanding of
+Kalassarian magical engineering, most of the city still relies on the robust
+mechanical solutions developed during the Silent Ages. The city has evolved into
+Senera's primary naval base while maintaining its crucial role in river
+commerce, with the Admiralty carefully balancing military priorities with
+commercial needs.
 
-## Mainland Connections
-
-Port Surrey maintains three major bridge connections to mainland Senera. These
-massive structures date back to the Kalassarian Empire, though their current
-operation relies on engineering solutions developed during the Silent Ages.
-
-Recent post-Bastion scholarship has uncovered evidence that the bridges'
-original lifting mechanisms relied on magical engineering. Traces of
-_[Ritma](@/notes/theorycrafting/ritma-and-planar-theory.md)_ enchantments can
-still be found in the ancient counterweight chambers, suggesting the massive
-drawbridge sections were once raised and lowered through magical means. When
-these systems failed during the Silent Ages (435-1225 AI), Seneran engineers
-developed an intricate system of mechanical counterweights and pulleys to
-replace the lost magical functionality.
+## Major Thoroughfares
 
 ### Northcross Bridge
 
-The Northcross Bridge spans the Northern Channel, connecting Port Surrey to the
-northern bank of the Brams River. Its massive stone piers, a testament to
-Kalassarian architecture, rise from the deepest part of the channel. The central
-span's original magical lifting mechanism was replaced during the Silent Ages
-with an elaborate counterweight system that, while effective, requires
-significantly more maintenance than its magical predecessor. When raised, the
-bridge provides a clearance of sixty feet, while its stone towers rise nearly a
-hundred feet above the water.
+The Northcross Bridge spans the Great Surrey Reach, connecting Port Surrey to
+the northern bank. Its massive stone piers, a testament to Kalassarian
+architecture, rise from the deepest part of the channel. The central span's
+original magical lifting mechanism was replaced during the Silent Ages with an
+elaborate counterweight system. When raised, the bridge provides a clearance of
+sixty feet, while its stone towers rise nearly a hundred feet above the water.
 
-### Wardcross North Bridge
+Recent post-Bastion scholarship has uncovered evidence that the bridge's
+original lifting mechanisms relied on magical engineering. Traces of
+_[Ritma](@/world-novelty/ritma.md)_ enchantments can still be found in the
+ancient counterweight chambers, suggesting the massive drawbridge sections were
+once raised and lowered through magical means.
 
-Connecting Port Surrey to Wardcross Isle, the North Bridge retains much of its
-original Kalassarian stonework, though its wooden spans have been replaced
-countless times. Archaeological studies have revealed traces of magical
-resonance in the twin towers at each end, suggesting they once housed more
-sophisticated control mechanisms than the current mechanical systems. The
-bridge's defensive features remain impressive: the wooden spans can still be
-quickly dismantled in times of crisis, effectively isolating the island from
-land approach.
+### Admiralty Way
 
-### Wardcross South Bridge
+Running along the northern shore from the Northcross Bridge to the Admiralty
+Dockyards, Admiralty Way serves as the primary artery for naval logistics and
+commerce. This broad thoroughfare features:
 
-The South Bridge, spanning from Wardcross Isle to the southern mainland,
-features Kalassarian engineering at its finest. Its graceful stone arches have
-survived centuries, though the central drawbridge mechanism has been extensively
-modified. The original magical lifting system, traces of which were recently
-discovered in the gatehouse foundations, was replaced with a complex arrangement
-of counterweights during the Silent Ages.
+- Deep-water berths with ancient Kalassarian stone wharves
+- Modern loading facilities
+- Military checkpoints
+- Customs inspection stations
+- Merchant warehouses
+- Naval administrative buildings
 
-Modern engineers maintain these bridges using a combination of traditional
-mechanical systems developed during the Silent Ages and, increasingly, restored
-magical techniques recovered through post-Bastion research. Prison labor crews
-handle the physical maintenance under the supervision of skilled engineers,
-while magical scholars study the remaining traces of Kalassarian enchantments,
-hoping to better understand—and perhaps one day restore—the original mechanisms.
+The road's elevation provides commanding views of the Great Surrey Reach while
+allowing for efficient movement of goods between the dockyards and the bridge.
+Multiple access points to the water allow for rapid naval response when needed.
 
 ## Districts
 
-The city of Port Surrey-on-the-Brams spans the entirety of Surrey-on-the-Brams
-island, its five districts reflecting both its organic growth from early
-maritime settlements and the planned development imposed by Kalassarian
-colonization. This contrast is most visible in the street layouts: the older
-western districts preserve their irregular, terrain-following patterns, while
-the eastern districts display rigid Kalassarian grid planning.
-
-### The Admiralty's Helm
-
-<aside class="stats">
-<dl>
-<dt>Area</dt>
-<dd>~20 square miles</dd>
-<dt>Population</dt>
-<dd>~5,000 (mostly military/administrative)</dd>
-<dt>Elevation</dt>
-<dd>Several hundred feet above sea level</dd>
-<dt>Notable</dt>
-<dd>40% of area (~8 sq miles) is the Keelswood</dd>
-</dl>
-</aside>
-
-Peering down from the Crow's Nest plateau,
-[The Admiralty's Helm](@/locations/admiraltys-helm.md) serves as the military
-and administrative heart of Port Surrey, its position offering commanding views
-over both river channels and the gulf beyond.
-
-- Admiralty Prison ("The Splits")
-- Naval Command facilities
-- The Keelswood and its management facilities
-- Upper city residences
-- Liaison Office of the Treaty of Turain Organization
-
-### The Narrows
-
-<aside class="stats">
-  <dl>
-    <dt>Area</dt>
-    <dd>~3 square miles</dd>
-    <dt>Population</dt>
-    <dd>~50,000</dd>
-    <dt>Terrain</dt>
-    <dd>Steep slopes to water</dd>
-    <dt>Character</dt>
-    <dd>Dense, medieval street pattern</dd>
-  </dl>
-</aside>
-
-Named for the diagonal channel it overlooks, this district preserves the city's
-oldest settlement patterns. Its winding streets and irregular squares follow the
-natural terrain, creating an organic maze of maritime services that has evolved
-over centuries of river trade.
-
-- River pilot facilities
-- Smaller vessel moorages
-- Maritime services
-- Navigation schools
-- Traditional shipwright quarters
-
-### Tidemark District
-
-<aside class="stats">
-  <dl>
-    <dt>Area</dt>
-    <dd>~4 square miles</dd>
-    <dt>Population</dt>
-    <dd>~100,000</dd>
-    <dt>Terrain</dt>
-    <dd>Gradual slope to water</dd>
-    <dt>Character</dt>
-    <dd>Mix of pre-Kalassarian and planned streets</dd>
-  </dl>
-</aside>
-
-The historic commercial center where old meets new, its streets showing the
-visible transition between the organic growth of early settlements and
-Kalassarian planning. The district's importance was established early by the
-Wardcross North Bridge, whose successive engineering iterations—from pre-
-Kalassarian construction through magical enhancement to Silent Age adaptation—
-mirror the district's own evolution.
-
-- Markets and trading houses
-- Historic trading quarter
-- Merchant guildhalls
-- Commercial wharves
-- Mixed architectural styles
-- Wardcross North Bridge and approaches
+The city of Port Surrey-on-the-Brams comprises three distinct districts, each
+reflecting the city's evolution from a planned Kalassarian port to a modern
+maritime center. The eastern districts preserve the rigid Kalassarian grid
+system, while the western areas show more organic development patterns.
 
 ### Northcross District
 
@@ -231,18 +122,18 @@ mirror the district's own evolution.
     <dt>Terrain</dt>
     <dd>Terraced slopes</dd>
     <dt>Character</dt>
-    <dd>Wealthy residential and deep-water port facilities</dd>
+    <dd>Maritime commerce and wealthy residential</dd>
   </dl>
 </aside>
 
-Stretching along the northern shore facing Greater Surrey Reach, this
-prestigious district combines deep-water port facilities with elegant estates,
-its terraced slopes offering spectacular views of maritime traffic.
+Stretching along the northern shore facing Greater Surrey Reach, this district
+combines merchant shipping facilities with elegant estates. Its terraced slopes
+offer views of maritime traffic while providing direct access to:
 
 - Northcross Bridge and its approaches
-- Wealthy merchant estates
-- Administrative buildings
-- Deep-water port facilities
+- Merchant shipping wharves
+- Trading houses and customs facilities
+- Wealthy residential areas
 
 ### Admiralty Dockyards District
 
@@ -251,53 +142,23 @@ its terraced slopes offering spectacular views of maritime traffic.
     <dt>Area</dt>
     <dd>~3 square miles</dd>
     <dt>Population</dt>
-    <dd>~15,000 (military/civilian workers)</dd>
+    <dd>~15,000</dd>
     <dt>Terrain</dt>
-    <dd>Flat, extensively developed waterfront</dd>
+    <dd>Flat waterfront</dd>
     <dt>Character</dt>
     <dd>Military-industrial, restricted access</dd>
-    <dt>Administration</dt>
-    <dd>Direct Admiralty control</dd>
-    <dt>Boundaries</dt>
-    <dd>North: Northcross District</dd>
-    <dd>South: Port Surrey District</dd>
-    <dd>East: Greater Surrey Reach</dd>
-    <dd>West: Tidemark District</dd>
   </dl>
 </aside>
 
-The Admiralty Dockyards District occupies a strategic stretch of eastern
-shoreline between Northcross and Port Surrey Districts. Its northern boundary
-follows Artillery Road, which separates it from Northcross District's wealthy
-residential areas. To the south, Harbor Wall marks the transition to Port Surrey
-District's civilian maritime facilities. The district extends inland to
-Dockmaster's Way, where it meets the Tidemark District's commercial quarter.
+The naval heart of Port Surrey, featuring:
 
-High walls and checkpoints control access at all district boundaries, with major
-gates at:
+- Military shipyards
+- Naval supply depots
+- Training facilities
+- Restricted residential zones
+- Support facilities
 
-- North Gate (Artillery Road)
-- South Gate (Harbor Wall)
-- West Gate (Dockmaster's Way)
-- Tidemark Gate (Commercial access)
-
-The sprawling Admiralty Dockyards serve as the operational heart of the Seneran
-Royal Navy. Deep-water berths accommodate the largest vessels in the fleet,
-while quick-response docks house lighter craft ready for immediate deployment.
-Extensive maintenance facilities, supply warehouses, and ammunition magazines
-support continuous fleet operations.
-
-The complex's northern section houses the prestigious Naval Academy, where
-future officers master both traditional seamanship and recovered magical
-knowledge. Training vessels crowd dedicated docks, while combat grounds and
-specialized schools prepare cadets for the challenges of naval service.
-
-State-of-the-art shipyards dominate the southern portion of the dockyards.
-Multiple dry docks handle vessels of all sizes, from small patrol craft to
-massive warships. Technical workshops, design offices, and vast material storage
-facilities support both new construction and ongoing repairs.
-
-### Port Surrey District
+### Port Surrey District (Central)
 
 <aside class="stats">
   <dl>
@@ -306,26 +167,22 @@ facilities support both new construction and ongoing repairs.
     <dt>Population</dt>
     <dd>~150,000</dd>
     <dt>Terrain</dt>
-    <dd>Relatively flat</dd>
+    <dd>Gentle slopes to waterfront</dd>
     <dt>Character</dt>
-    <dd>Industrial/maritime, Kalassarian grid layout</dd>
+    <dd>Commercial and administrative center</dd>
   </dl>
 </aside>
 
-The industrial heart of the eastern shore, built to Kalassarian specifications
-with wide avenues and ordered squares. Its rigid grid layout and uniform
-architecture reflect the empire's systematic approach to maritime commerce.
+The city's commercial and administrative core, featuring:
 
-- Major shipyards
-- Dry docks
-- Maritime industrial area
-- Gulf-facing facilities
-- Kalassarian engineering works
+- Central marketplace and trading halls
+- Municipal buildings
+- Guild headquarters
+- Banking houses
+- Major temples
+- Entertainment district
 
-The Port Surrey District represents the city's primary civilian maritime
-quarter, its Kalassarian-era grid still defining the methodical arrangement of
-warehouses, workshops, and merchant facilities. The district divides into
-several distinct areas, including four notable shipyards:
+### Notable Shipyards
 
 #### The Honest Toil Yards
 
@@ -361,61 +218,25 @@ access to smaller commercial vessels, ensuring quick and practical repairs for
 the city's maritime community. The yard's intimate knowledge of local fishing
 vessels makes it indispensable to the city's maritime community.
 
-### Wardcross Isle
-
-<aside class="stats">
-  <dl>
-    <dt>Area</dt>
-    <dd>~2 square miles</dd>
-    <dt>Population</dt>
-    <dd>~70,000</dd>
-    <dt>Terrain</dt>
-    <dd>Low-lying</dd>
-    <dt>Character</dt>
-    <dd>Dense commercial/transit infrastructure</dd>
-  </dl>
-</aside>
-
-While technically separate from Surrey-on-the-Brams proper, Wardcross Isle
-functions as a crucial extension of the city's commercial life. Its position
-between the South Bank and the Tidemark District, connected by the historic
-Wardcross bridges, has made it an essential waypoint in north-south trade for
-centuries.
-
-The isle's development mirrors the engineering history of its bridges. Pre-
-Kalassarian settlement patterns remain visible in its center, while Kalassarian
-magical infrastructure projects left their mark on its waterfront. Modern
-additions reflect the adaptations made during the Silent Ages.
-
-- Wardcross North and South Bridges
-- Extensive stables and horse markets
-- Caravan yards and wagon repairs
-- Warehouses and trading posts
-- Transit facilities and customs houses
-- Bridge maintenance facilities
-- Teamsters' guildhalls
-- Farriers and blacksmiths
-- Stock pens and feed stores
-
 ## Industries
 
-Port Surrey-on-the-Brams is a bustling hub of economic activity, with several
-key industries driving its growth and prosperity. These industries are closely
-tied to the city's strategic location and its role as a major port and naval
-base.
+### Timber Trade and Distribution
 
-### Timber Industry
+While the primary lumber mills operate along Keelswood Way under Admiralty
+oversight, Port Surrey serves as the commercial hub for timber distribution. The
+city's role focuses on:
 
-The timber industry in Port Surrey is tightly controlled by the Royal Navy,
-which acts as the primary gatekeeper to the valuable resources of the Keelswood.
-This control ensures that the construction and maintenance of naval vessels are
-prioritized, reflecting the strategic importance of the port as Senera's primary
-naval base.
+- Commercial lumber yards and warehouses
+- Timber merchants and brokers
+- Quality inspection facilities
+- Export processing
+- Specialty wood products
+- Ship timber stockpiles
 
-The central lumber mill, operated under Admiralty oversight, processes timber
-from the Keelswood and allocates it according to naval priorities. This
-centralized control allows the Navy to maintain a steady supply of high-quality
-wood for shipbuilding and other military needs.
+The Shipwright's Guild maintains significant influence over the timber trade,
+operating inspection facilities and managing distribution to various shipyards.
+Their headquarters in the Port Surrey District serves as the primary exchange
+for timber contracts and negotiations.
 
 Shipwright guilds, representing civilian and commercial interests, are in
 constant negotiation with the Admiralty for access to timber. These guilds must
@@ -435,16 +256,111 @@ practices and mediates between the yards, the Navy, and the city government.
 This ensures sustainable use of the Keelswood and attempts to balance the
 competing interests of military and civilian needs.
 
+Commercial yards must navigate complex agreements with both the Admiralty and
+the Guild regarding pricing and allocation. During periods of high naval demand
+or limited local supply, merchants often supplement their inventory with
+imported timber, particularly for specialized woods not available from the
+Keelswood.
+
 ### Shipbuilding Industry
 
-[Add details about the shipbuilding industry, its relationship with the timber
-industry, and its significance to the city's economy.]
+Shipbuilding represents Port Surrey's most vital industry, combining Kalassarian
+engineering heritage with modern Seneran naval expertise. The industry is
+divided between military and commercial production, though with significant
+overlap in standards and workforce.
+
+#### Admiralty Dockyards
+
+The naval shipbuilding complex contains:
+
+- **First Basin**: Primary capital ship construction facility, featuring the
+  ancient Kalassarian stone dock
+- **Second Basin**: Frigate construction and general refitting, with four modern
+  graving docks
+- **Third Basin**: Specialized construction and prototype testing
+- **Fourth Basin**: Major repair facility, incorporating preserved Kalassarian
+  flood control systems
+
+#### Commercial Facilities
+
+The Port Surrey District hosts several major commercial yards:
+
+- **Honest Toil Yards**: Large merchant vessel construction, operating three
+  modern building slips
+- **Tidebinder's Basin**: Traditional wooden shipbuilding, maintaining
+  centuries-old techniques
+- **Riverman's Rest**: Specialized in river craft and coastal vessels, with
+  extensive repair facilities
+
+The Shipwright's Guild maintains strict control over construction standards and
+apprenticeship training. All yards must maintain capability for naval
+production, with commercial facilities regularly fulfilling Admiralty contracts
+for support vessels and merchant conversions.
+
+The concentration of shipbuilding expertise in Port Surrey ensures consistent
+quality while fostering innovation through controlled competition between yards.
+The industry's organization reflects both Kalassarian administrative heritage
+and Seneran maritime traditions, with ancient engineering principles adapted to
+modern naval requirements.
 
 ### Trade and Commerce
 
-[Add details about the trade and commerce activities, including major trade
-routes, goods exchanged, and the role of the port in regional and
-international trade.]
+Port Surrey's commercial dominance stems from its privileged position under the
+Treaty of Turain, which established Senera as Arbiter of the Seas. The port
+serves as a crucial nexus for several major trade routes:
+
+### Western Trade Routes
+
+- Apgarian trade fleets (under treaty regulations)
+- Mehicanian merchant convoys
+- Ahurian long-distance traders
+- Independent merchant vessels
+
+### Northeastern Routes
+
+Through the demilitarized Raibon Island, Port Surrey maintains vital trade links
+with northeastern Betera:
+
+- Carlmark merchant fleets
+- Iutland trading vessels
+- Fayneland commercial shipping
+
+### Posaran Sea Basin Trade
+
+The Mirian Trading Company's near-monopoly on Posaran Sea trade makes Port
+Surrey a crucial transshipment point for goods from:
+
+- Southern Poasan luxury goods
+- Mehicanian textiles and crafts
+- Kolhan spices and aromatics
+- Northern Ahurian precious metals and gemstones
+- Nuran agricultural products and wine
+- Calamutian books and other scholarly works
+- Freehold city-state exports
+
+Their liaison office in Port Rainoso coordinates complex trading networks,
+often combining cargoes from multiple Posaran sources for efficient
+distribution to northern markets.
+
+### Northern Routes
+
+- Direct trade with Port Imago (Poasah)
+- Northern Sea connections
+- Coastal trading vessels
+
+### Trade Administration
+
+The port's commercial operations are overseen by three key entities:
+
+- Treaty of Turain Organization liaison office
+- Admiralty Commerce Bureau
+- Port Surrey Merchant's Council
+
+All foreign vessels must register with both the Admiralty and the Merchant's
+Council, with special provisions for Poasan-flagged ships under alliance
+agreements. The port maintains dedicated facilities for treaty-compliant
+Apgarian merchant fleets, reflecting the careful balance between commercial
+access and naval security.
 
 ### Other Industries
 
@@ -474,10 +390,9 @@ the Treaty of Turain Organization.
 
 Port Surrey's defensive network extends well beyond its military facilities.
 Artillery batteries guard both channels, while anti-ship emplacements provide
-overlapping fields of fire. The mysterious Surrey's Ear serves as a natural
-observation post, complementing a network of coastal watch stations. Quick-
-response squadrons maintain constant readiness, able to challenge any threat to
-the port's security.
+overlapping fields of fire. A network of coastal watch stations maintains
+constant surveillance of approaching vessels. Quick-response squadrons maintain
+constant readiness, able to challenge any threat to the port's security.
 
 ### Maritime Control
 
@@ -511,3 +426,42 @@ beyond its immediate vicinity, establishing it as the primary arbiter of
 maritime law in the region. The port's authority is reinforced by a
 comprehensive intelligence network, with informants and observers in every major
 port monitoring shipping patterns and reporting suspicious activities.
+
+### Naval-Commercial Integration
+
+The relationship between naval and commercial shipbuilding in Port Surrey
+reflects both practical necessity and strategic planning. While the Admiralty
+Dockyards handle most naval construction, several arrangements exist for broader
+integration:
+
+#### Emergency Production
+
+During wartime or urgent naval expansion, commercial yards operate under
+Admiralty commission to supplement military production:
+
+- Northcross Maritime Works converts its large slips for frigate construction
+- Surrey Guild Yards builds specialized patrol craft
+- River Works focuses on support vessels and tender construction
+
+#### Vessel Conversion Program
+
+The Admiralty maintains a structured program for converting naval vessels to
+commercial use:
+
+- Decommissioned vessels undergo security stripping at the Fourth Basin
+- Munitions and specialized equipment removal follows strict protocols
+- Modified ships receive civilian certification before sale
+- Preference given to Seneran merchants who maintain naval auxiliary status
+
+#### Shared Resources
+
+Both sectors benefit from:
+
+- Common training programs through the Shipwright's Guild
+- Standardized quality control procedures
+- Shared timber allocation system
+- Combined apprenticeship programs
+- Technical knowledge exchange
+
+This integration ensures Port Surrey maintains surge capacity for naval
+production while supporting a robust commercial shipbuilding industry.

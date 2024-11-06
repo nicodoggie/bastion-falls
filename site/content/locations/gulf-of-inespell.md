@@ -9,23 +9,23 @@ parent_location = ["Senera"]
 
 # Gulf of Inespell
 
-The **Gulf of Inespell** is a major body of water on the western coast of
+The **Gulf of Inespell** is a major body of water on the eastern coast of
 [Senera](@/locations/senera.md). It extends approximately 125 miles inland from
-the [Sarmatian Sea](@/locations/sarmatian-sea.md), with a mouth approximately 63
-miles wide. The gulf serves as the outlet for the
+the [Princely Channel](@/locations/princely-channel.md), with a mouth
+approximately 63 miles wide. The gulf serves as the outlet for the
 [Brams River](@/locations/brams-river.md), one of Senera's major waterways.
 
 ## Geography
 
-The gulf penetrates deeply into Senera's western coast at roughly a 45-degree
-angle from the Sarmatian Sea, providing a natural sheltered waterway. At its
+The gulf penetrates deeply into Senera's eastern coast at roughly a 45-degree
+angle from the Princely Channel, providing a natural sheltered waterway. At its
 innermost reaches, the Brams River enters the gulf, splitting around
 [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md), a
 significant island that serves as the site of one of Senera's major ports.
 
 The relatively narrow entrance compared to its depth creates calmer waters
-within the gulf compared to the open Sarmatian Sea, making it an important
-natural harbor and maritime trade route.
+within the gulf compared to the open channel, making it an important natural
+harbor and maritime trade route.
 
 ## Etymology
 

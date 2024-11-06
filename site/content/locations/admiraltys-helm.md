@@ -1,14 +1,14 @@
 +++
 title = "The Admiralty's Helm"
 [taxonomies]
-location_type = ["district", "military"]
-parent_location = ["Port Surrey-on-the-Brams", "Surrey-on-the-Brams", "Senera"]
+location_type = ["fortress", "military", "administrative"]
+parent_location = ["Surrey-on-the-Brams", "Senera"]
 
 [extra.location.details]
-area = "~20 square miles"
+area = "~25 square miles"
 population = "~5,000"
 elevation = "Several hundred feet above sea level"
-keelswood_area = "~8 square miles (40% of total)"
+keelswood_area = "~17-18 square miles (70-75% of total)"
 prison_complex_area = "5-6 square miles"
 naval_command_area = "4 square miles"
 residential_area = "1-2 square miles"
@@ -16,23 +16,41 @@ infrastructure_area = "1 square mile"
 population_type = "Military/Administrative"
 +++
 
-**The Admiralty's Helm** occupies the commanding heights of the Crow's Nest
-plateau in [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md).
-This strategic district serves as the military and administrative heart of
-Senera's naval operations, overseeing the coordination of maritime defense and
-naval logistics.
+**The Admiralty's Helm** is a strategic fortress complex atop the Crow's Nest
+plateau, overlooking both
+[Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md) and
+[Tidemark](@/locations/tidemark.md). As the military and administrative heart of
+Senera's naval operations, it coordinates maritime defense and naval logistics
+across the region.
 
 ## Overview
 
-The Admiralty's Helm rises several hundred feet above the surrounding waters,
-providing a commanding view of both the Brams River and the Gulf of Inespell.
-Its territory comprises:
+Rising several hundred feet above the surrounding waters, the Helm provides
+commanding views of both the [Brams River](@/locations/brams-river.md) and the
+[Gulf of Inespell](@/locations/gulf-of-inespell.md). Its territory comprises
+approximately 25 square miles, distributed across several distinct zones:
 
-- The Keelswood (~8 square miles, 40% of total area)
+- The Keelswood (~17-18 square miles, 70-75% of total area)
+  - Dense forest covering plateau surface
+  - Managed woodland on eastern slopes
+  - Protected stands along navigable inclines
+  - Ancient growth in restricted zones
 - Prison Complex (~5-6 square miles)
+  - Main facility
+  - Labor zones
+  - Security perimeter
 - Naval Command Complex (~4 square miles)
+  - Command facilities
+  - Strategic installations
+  - Support structures
 - Residential/Support Areas (~1-2 square miles)
+  - Staff housing
+  - Essential services
+  - Administrative zones
 - Infrastructure/Roads (~1 square mile)
+  - Access routes
+  - Utility systems
+  - Security checkpoints
 
 ### Population Distribution
 
@@ -415,3 +433,74 @@ The central facility consists of multiple security zones:
 - Underground isolation cells
 - Emergency response positions
 - Dedicated armory
+
+## Access Routes
+
+### The Admiralty Rise
+
+The primary ascent to the Helm, carved into the plateau's eastern face,
+represents centuries of engineering evolution. This massive infrastructure
+project connects the lowlands to the plateau through a series of engineered
+switchbacks and defensive positions.
+
+#### Route Sections
+
+##### Lower Rise (First Mile)
+
+- Begins at Tidemark's Upper Quarter
+- Broad, paved approach
+- Initial security checkpoints
+- Merchant staging areas
+- Preliminary weigh stations
+
+##### Middle Rise (Miles 2-3)
+
+- Primary switchback section
+- Multiple defensive positions
+- Two major route branches:
+  - Keelswood Way (to Tidemark)
+  - Admiralty Way (to Port Surrey)
+- Water management systems
+- Emergency shelters
+
+##### Upper Rise (Final Mile)
+
+- Steepest grade section
+- Heaviest fortification
+- Final approach splits:
+  - Naval Command access
+  - Prison Complex route
+  - Administrative approach
+- Multiple security zones
+- Emergency barriers
+
+#### Infrastructure
+
+##### Transport Systems
+
+- Mechanical lift stations
+- Emergency winches
+- Mule team facilities
+- Rest stations
+- Water supplies
+
+##### Security Features
+
+- Fortified guardhouses
+- Observation posts
+- Defensive positions
+- Signal towers
+- Emergency gates
+
+#### Access Control
+
+- Military credentials
+- Civilian permits
+- Merchant licenses
+- Prison labor details
+- Diplomatic passes
+
+## See Also
+
+- [Keelswood Way (Tidemark)](@/locations/tidemark.md#keelswood-way)
+- [Admiralty Way (Port Surrey)](@/locations/port-surrey-on-the-brams.md#admiralty-way)

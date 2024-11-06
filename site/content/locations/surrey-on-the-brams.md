@@ -7,11 +7,12 @@ location_type = ["island"]
 parent_location = ["Brams River", "Senera"]
 +++
 
-**Surrey-on-the-Brams** is a large island situated where the [Brams River]
-(@/locations/brams-river.md) meets the [Gulf of Inespell]
-(@/locations/gulf-of-inespell.md). The island's strategic position has made it 
-home to [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md), 
-one of Senera's most important cities.
+**Surrey-on-the-Brams** is a large island situated where the
+[Brams River](@/locations/brams-river.md) meets the
+[Gulf of Inespell](@/locations/gulf-of-inespell.md). The island's strategic
+position has made it home to
+[Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md), one of
+Senera's most important cities.
 
 ## Geography
 
@@ -34,15 +35,16 @@ connections. The Crow's Nest's steep cliffs on three sides provide natural
 defenses, while its height offers unobstructed views of both river approaches
 and the Western Narrows below.
 
-### Keelswood
+### The Keelswood
 
-The Crow's Nest plateau is crowned by the ancient Keelswood, which extends to
-the very edges of the cliffs. This protected woodland, under strict Admiralty
-control, creates both a vital shipbuilding resource and a natural security
-perimeter for the Admiralty Quarter. The forest's position atop the plateau
-makes it visible for miles, serving as a distinctive landmark for approaching
-vessels while simultaneously screening military movements and prison operations
-from observation.
+The Crow's Nest plateau is crowned by the ancient Keelswood, which extends not
+only across the plateau surface but down its eastern slopes and along the less
+precipitous sections of the northern and southern faces. This protected
+woodland, under strict Admiralty control, covers approximately 70-75% of the
+Admiralty's Helm district (~17-18 square miles). The forest creates both a vital
+shipbuilding resource and a natural security perimeter, with its extent visible
+for miles as a distinctive landmark while simultaneously screening military
+movements and prison operations from observation.
 
 The Admiralty maintains careful management of Keelswood, with dedicated teams of
 foresters—many of them supervised prison laborers—maintaining specific stands of
@@ -114,21 +116,20 @@ basins and dry docks essential for the city's shipbuilding industry.
 
 ### River Channels
 
-The Brams River divides around Port Surrey as it approaches the Gulf of
-Inespell, forming two distinct channels that empty directly into the gulf. In
+The Brams River divides around Surrey-on-the-Brams as it approaches the Gulf of
+Inespell, forming two distinct channels that serve different maritime needs. In
 everyday maritime parlance, these waterways are often shortened to "the Greater
-Reach" and "the Ward Way," though official naval documents maintain their formal
+Reach" and "the Ward Way," though official documents maintain their formal
 names.
 
 #### Greater Surrey Reach
 
-The deeper northern channel serves as Port Surrey's primary maritime artery,
-sweeping in a broad curve from the northeast before opening into the Gulf of
-Inespell. With depths ranging from 45 to 60 feet at mean low water and a
-navigable width of nearly half a mile, its waters accommodate the largest
-vessels in the Sarmatian trade. Where the Reach meets the gulf, the channel
-widens into a natural deep-water roadstead, offering protected anchorage for
-vessels waiting out storms or adverse tides.
+The deeper northern channel serves as the island's primary maritime artery for
+international trade and naval operations. With depths ranging from 45 to 60 feet
+at mean low water and a navigable width of nearly half a mile, its waters
+accommodate the largest vessels in the Sarmatian trade and Seneran Navy. Where
+the Reach meets the gulf, the channel widens into a natural deep- water
+roadstead, offering protected anchorage for large vessels.
 
 ##### Navigation Hazards
 
@@ -165,11 +166,12 @@ conditions improve.
 
 #### Bramsward Way
 
-The southern passage follows a more sheltered course, curving around Wardcross
-Isle before meeting the gulf. With depths varying between 20 and 30 feet and a
-navigable width narrowing to just 200 yards at its most confined point, the Way
-offers protection from the worst of the gulf's weather but presents its own
-challenges.
+The southern passage primarily serves coastal trade and regional maritime
+traffic. With depths varying between 20 and 30 feet and a more sheltered course,
+it naturally accommodates the smaller vessels typical of Gulf of Inespell
+commerce. The Way's protected waters make it particularly attractive to coastal
+traders and fishing fleets, though its narrow passages require careful
+navigation.
 
 ##### Navigation Hazards
 
@@ -184,29 +186,30 @@ treacherous when strong currents meet the incoming tide.
 
 ##### Traffic Control
 
-Security protocols in the Bramsward Way are stringent. All vessels must submit
-to inspection at designated checkpoints, with waiting areas marked by permanent
-buoys. During times of heightened alert, vessels may be required to take on
-pilot crews from the Wardcross station. A series of tide gauges and signal
-stations along both shores assist pilots in timing their passages.
+The Bramsward Way operates under commercial regulation focused on customs and
+trade management. Vessels must register at designated checkpoints, with waiting
+areas marked by permanent buoys. Local pilot services, operating from Wardcross
+station, assist vessels through the challenging Ward Gates passages. A series of
+tide gauges and signal stations along both shores help coordinate vessel
+movements through the narrow channels.
 
 ##### Seasonal Patterns
 
-The channel sees heaviest use during summer months when smaller coastal traders
-prefer its more sheltered waters. Winter storms can make the narrow passages
-treacherous, particularly when strong currents meet the incoming tide around
-Wardcross Isle.
+The channel sees heaviest use during summer months when coastal traders and
+fishing fleets take advantage of its sheltered waters. The natural separation of
+traffic - with larger international vessels using the Greater Reach - helps
+maintain efficient maritime commerce through both channels.
 
 ##### General Traffic Management
 
-Traffic through both channels follows strict seasonal patterns, dictated as much
-by natural rhythms as by trade demands. Spring tides during the equinoxes can
-make both channels particularly challenging, while neap tides offer calmer but
-shorter windows for navigation. The Admiralty maintains detailed records of
-these patterns, using them to schedule naval patrols and issue guidance to
-merchant vessels. During extreme conditions—particularly when strong
-southwesterly gales coincide with spring tides—both channels may be closed to
-all but emergency traffic.
+Each channel serves distinct maritime communities:
+
+- Greater Reach: International trade, naval operations, deep-draft vessels
+- Bramsward Way: Coastal trade, fishing fleets, regional commerce
+
+This natural division of traffic allows for specialized services and appropriate
+security measures in each channel. During extreme conditions, both channels
+coordinate closures and restrictions through the Port Authority.
 
 ### Adjacent Islands
 
@@ -227,8 +230,8 @@ travelers and goods. The limited space on the isle has been carefully utilized,
 with every structure serving the isle's primary purpose as a control point
 between the city and the mainland.
 
-The isle serves as the primary transition point between maritime and land-based 
-trade, particularly for goods moving to and from southern Senera. This role is 
+The isle serves as the primary transition point between maritime and land-based
+trade, particularly for goods moving to and from southern Senera. This role is
 reflected in its more practical, sometimes unsavory facilities:
 
 - Wardcross North and South Bridges
@@ -257,3 +260,129 @@ Gulf of Inespell. The isle's profile is so distinctive that it can be recognized
 from miles away, serving as a crucial waypoint for vessels approaching Port
 Surrey through the gulf.
 
+### Crow's Nest Plateau
+
+The western third of Surrey-on-the-Brams rises dramatically to form the Crow's
+Nest plateau, a natural fortress roughly 8 miles across at its widest point and
+extending about 12 miles from east to west. The plateau rises in stages:
+
+#### Elevation Profile
+
+- Base elevation begins at ~100 feet above sea level
+- Main plateau level sits at ~400-500 feet
+- Several prominent ridges reach 600-700 feet
+- Highest point (the actual Crow's Nest) at ~800 feet
+
+#### Distinctive Features
+
+- Northern face: Near-vertical cliffs dropping 300-400 feet to Greater Surrey
+  Reach
+- Southern face: Similarly sheer cliffs overlooking Bramsward Way
+- Eastern approach: Series of steep terraces creating natural defensive lines
+- Western face: Gradual rise before terminating in dramatic cliffs overlooking
+  the channel toward Surrey's Ear
+
+#### Natural Defenses
+
+- Three sides bounded by cliffs ranging from 300-500 feet high
+- Eastern approach protected by series of steep ridges
+- Natural stone outcroppings create defensive positions
+- Several seasonal waterfalls mark cliff faces during wet seasons
+
+#### The Keelswood Crown
+
+- Dense forest covers approximately 70-75% of the Admiralty's Helm district
+- Extends from plateau surface down eastern slopes
+- Continues along less precipitous sections of north and south faces
+- Ancient stands of oak dominate the western heights
+- Protected valleys harbor especially valuable timber specimens
+- Natural clearings used for Admiralty facilities
+- Strategic gaps maintained for military installations
+
+##### Western Face (Surrey's Ear Channel)
+
+- Near-vertical cliffs matching Surrey's Ear's eastern face
+- Cliff height: 400-500 feet, matching the opposing cliffs of Surrey's Ear
+- Evidence of ancient connection visible in matching rock strata
+- Channel width varies: 0.5-0.75 miles at narrowest point
+- Sheer cliff faces on both sides suggest water/tectonic erosion
+- Deep channel between (100+ feet at center)
+- Cliff bases show heavy water erosion patterns
+- Several cave systems exposed by erosion
+- Seasonal waterfalls mirror on both sides during wet seasons
+- Rock composition matches between faces
+
+The dramatic cliffs of the Western Face and Surrey's Ear tell the story of their
+ancient connection. The matching height, rock strata, and composition provide
+clear evidence that these were once a single formation, split by natural forces.
+The narrow channel between them, carved by millennia of water erosion and
+possibly tectonic activity, creates a dramatic gateway to the upper Brams River.
+
+### Settlements
+
+The island hosts several distinct population centers, with
+[Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md) being the
+largest and most significant. Other settlements include:
+
+#### [The Narrows](@/locations/the-narrows.md)
+
+A historic maritime settlement at the western end of the island, where the
+channel beside Surrey's Ear opens into Bramsward Way. Once the island's primary
+port, it now serves as a local fishing community of around 25,000 inhabitants.
+Despite its diminished official status, it maintains traditional maritime trades
+and pilot services. The settlement's distance from Port Surrey's administrative
+oversight has led to it becoming a notable center for informal commerce.
+
+#### Coastal Communities
+
+Several smaller fishing villages and agricultural settlements dot the coastline
+between The Narrows and Port Surrey, connected by the coastal road system. These
+communities primarily serve local needs and support the island's agricultural
+activities:
+
+- Fishing hamlets along both channels
+- Farm settlements in the fertile lowlands
+- Watch posts monitoring channel traffic
+- Small trading posts and rest stops
+- Local shrines and gathering places
+- Coast guard stations
+
+### Water Features & Early Settlements
+
+#### Natural Watersheds
+
+- Admiralty Stream (formerly "Hick's Spring")
+  - Largest freshwater source
+  - Ancient stone-lined channels
+  - Pre-Kalassarian agricultural terraces
+  - Sacred pool remnants
+  - Traditional water rights
+
+#### Valley Communities
+
+1. Eastern Valleys
+
+   - Ancient well systems
+   - Terraced agriculture
+   - Spring-fed pools
+   - Traditional water sharing
+   - Market gardens
+
+2. Stream Settlements
+   - Water-powered mills
+   - Agricultural communes
+   - Fishing communities
+   - Sacred water sites
+   - Traditional gathering places
+
+#### Archaeological Evidence
+
+- Hick stone channels
+- Ancient well heads
+- Ritual pool structures
+- Agricultural terraces
+- Water management systems
+
+These water-rich areas show continuous settlement from Hick times through the
+present, with many modern farms and gardens still using the ancient water
+management systems.
