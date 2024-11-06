@@ -37,6 +37,10 @@ taxonomies = [
   { name = "ethnic_locations", feed = false, render = false },
   { name = "parent_ethnicities", feed = false, render = false },
 
+  # Languages
+  { name = "parent_languages", feed = true, render = false },
+
+
   # Event
   { name = "event_type", feed = true, render = false },
   { name = "primary_characters", feed = true, render = false },
@@ -53,6 +57,8 @@ taxonomies = [
 
   # Blogs
   { name = "blog_type", feed = true, render = true },
+
+  { name = "tags", feed = true, render = false },
 ]
 
 external_links_target_blank = true
