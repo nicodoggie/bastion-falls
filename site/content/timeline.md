@@ -8,9 +8,13 @@ The timeline uses two dating systems:
 
 - **PF (Pre-Flowering)**: Years before the Kalassarian Empire, counting
   backwards
-- **AI (Anno Imperium)**: Years since empire's foundation, starting from Year 0
+- **AI (Anno Imperium)**: Years since empire's foundation, starting from Year 1
 
-Century counting includes Year 0, so the 10th century AI spans years 900-999 AI.
+# Calendar
+
+The primary calendar is the Kalassarian calendar, which have 12 months in a year
+each with 30 days.
+
 
 | Year    | Event                                                                 |
 | ------- | --------------------------------------------------------------------- |
@@ -24,6 +28,7 @@ Century counting includes Year 0, so the 10th century AI spans years 900-999 AI.
 | 29 AI   | Death of the Divine Masochist                                         |
 | 70 AI   | Kureran Genocide at the hands of the Kalassar                         |
 | 102 AI  | Kalassar conquers Hapgaria                                            |
+| 105 AI  | Seneria founded, present-day Port Surrey their first settlement       |
 | 111 AI  | Kalassarians claim Tochoma as Mauricia                                |
 | 111 AI  | Tochoma settlement founded; White Witches recognized                  |
 | 111 AI  | Governor of Seneria dies; family cursed                               |
