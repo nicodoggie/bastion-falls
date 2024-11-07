@@ -51,30 +51,130 @@ distinct natural regions:
 ### Western Watershed
 
 - Malter River (from "mal-ter" - "pool-flow")
+
+  - Source: Maltrek highlands
+  - Flows southwestward through Western Lowlands
+  - Primary agricultural water source
+
 - Rannek System (from "ran-nek" - "stone-water")
+  - Network of smaller rivers and streams
+  - Originates from limestone springs in western foothills
+  - Creates branching delta system in coastal plains
+  - Natural irrigation channels through farming regions
+  - Known for:
+    - Year-round stable flow from aquifers
+    - Clear waters (filtered through limestone)
+    - Fish spawning grounds
+    - Traditional water management systems
 
 ## Natural Regions
 
 ### Eastern Senera
 
-- Gulf coast
-- Brams River valley
-- Kethren foothills
+- Gulf coast and Brams River valley
 - Primary maritime zone
+- ~25,000 square miles
+- Extends ~150 miles inland from Gulf of Inespell
+- Boundaries:
+  - East: Gulf of Inespell coastline
+  - West: Eastern slopes of Ranterg Range
+  - North: Northern coastal plains
+  - South: Southern coastal plains
 
-### Central Highlands
+### Central Highlands (Ranterg Range)
 
-- Ranterg Range
 - Ancient sacred sites
 - Traditional forestlands
 - Watershed divide
+- ~30,000 square miles
+- Width: 60-80 miles
+- Length: ~400 miles N-S
+- Boundaries:
+  - East: Ridge line overlooking Eastern Senera
+  - West: Western foothills descending to Malter Valley
+  - North: Merges with Maltrek highlands
+  - South: Descends to southern coastal plains
 
 ### Western Lowlands
 
-- Malter River basin
-- Coastal plains
-- Traditional farming regions
-- Secondary ports
+- Total area: ~45,000 square miles
+
+#### Geographic Distribution:
+
+- Maltrek highlands (~8,000 sq mi)
+
+  - Northwestern region
+  - Elevation: 2,000-3,100 ft
+  - Roughly 80 x 100 miles
+  - Boundaries:
+    - East: Merges with northern Ranterg Range
+    - West: Descends to coastal cliffs
+    - North: Northern peninsula coast
+    - South: Descends to western foothills
+
+- Western foothills (~12,000 sq mi)
+
+  - Extending 200 miles south from Maltrek
+  - Width: 40-60 miles
+  - Elevation: 500-1,000 ft
+  - Boundaries:
+    - East: Malter River valley
+    - West: Descends to coastal plains
+    - North: Maltrek highlands
+    - South: Merges with southern coastal plains
+
+- Malter River valley (~15,000 sq mi)
+
+  - Length: ~250 miles (N-S)
+  - Width: 50-70 miles (E-W)
+  - Elevation: 100-500 ft
+  - Primary agricultural zone
+
+- Coastal plains (~10,000 sq mi)
+  - Rannek delta region
+  - Width: 30-50 miles inland
+  - Length: ~200 miles along coast
+
+#### Geological Features
+
+- Sedimentary basin formed from ancient river deposits
+- Rich alluvial soils from Malter River flooding cycles
+- Gentle rolling hills (100-300 ft elevation)
+- Limestone bedrock providing natural drainage
+- Protected from harsh winds by Ranterg Range to the east
+
+#### Hydrological System
+
+- Malter River watershed
+
+  - Primary source: Spring snowmelt from Maltrek highlands
+  - Secondary source: Autumn rains from western maritime winds
+  - Regular flooding cycles enrich soil annually
+  - Network of natural and artificial channels for irrigation
+
+- Groundwater Resources
+
+  - Extensive limestone aquifers
+  - Natural springs along hillsides
+  - High water table in valley bottoms
+  - Traditional well systems in farming communities
+
+- Seasonal Patterns
+  - Spring: Snowmelt floods and soil preparation
+  - Summer: Maritime precipitation and morning fog
+  - Autumn: Reliable rainfall from western winds
+  - Winter: Light snow and ground moisture retention
+
+#### Agricultural Impact
+
+- Three growing seasons possible due to:
+  - Reliable water supply
+  - Protected climate
+  - Rich alluvial soils
+  - Moderate temperatures year-round
+- Traditional terrace farming on hillsides
+- Valley bottom grain production
+- Coastal grazing lands
 
 ### Northern Peninsula
 
@@ -82,6 +182,34 @@ distinct natural regions:
 - Sacred pools
 - Ancient observatories
 - Protected harbors
+
+#### Maltrek Region (Northwest)
+
+- Sacred pools and springs
+- Ancient observatories
+- Protected harbors in rocky coves
+- More sheltered from harsh winds
+- Limited but viable agriculture in protected valleys
+- Historical importance:
+  - Religious sites
+  - Astronomical markers
+  - Source of Malter River
+
+#### Eastern Peninsula
+
+- Rocky, exposed coastline
+- Sparse vegetation
+- Inhospitable to agriculture due to:
+  - Thin, rocky soil
+  - Strong northern winds
+  - Limited freshwater sources
+  - Short growing season
+- Historical uses:
+  - Navigation landmarks
+  - Strategic watchtowers
+  - Small fishing communities
+  - Seasonal grazing
+- Transitions into Eastern Senera's coastal plains
 
 # History
 
@@ -275,3 +403,37 @@ systematic and complete, with traditional practices strictly outlawed.
 - Traditional stewards of naval timber resources
 - Initially strong Maidenfeld loyalists
 - Maintained influence through lumber monopoly despite dynasty change
+
+## Forest Distribution
+
+### Central Highlands (Ranterg Range)
+
+- Mixed deciduous-coniferous forests
+  - Oak-pine dominant on lower slopes
+  - Pine-fir dominant at higher elevations
+  - Dense understory in protected valleys
+  - Thin woodlands on exposed ridges
+- Elevation zones:
+  - Valley forests (500-1500 ft)
+  - Mid-slope forests (1500-3000 ft)
+  - High forests (3000-4200 ft)
+
+### Maltrek Region
+
+- Maritime woodlands
+  - Wind-sculpted coastal forests
+  - Protected valley woodlands
+  - Mixed oak-birch dominant
+  - Scattered pine groves
+- Distinctive features:
+  - Dense understory in sheltered areas
+  - Stunted growth on exposed heights
+  - Spring-fed grove pockets
+
+### Western Foothills
+
+- Limestone woodland
+  - Oak-ash dominant
+  - Rich spring-fed valleys
+  - Thin soils on ridges
+  - Scattered clearings
