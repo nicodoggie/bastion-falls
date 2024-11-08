@@ -1,6 +1,7 @@
 +++
 title = "Early Hick"
 description = "Pre-Kalassarian language of Senera, preserved in place names and maritime terminology"
+weight = 1
 [taxonomies]
 parent_languages = ["Proto-Hick"]
 tags = ["languages", "pre-kalassarian", "senera", "maritime", "extinct"]
@@ -14,29 +15,47 @@ traditions throughout modern Senera.
 
 # Historical Development
 
-Evidence from archaeological sites and preserved texts suggests three main
-periods:
-
-## Early Period (Pre-100 AI)
+## Early Hick (prehistory to ~300 PF)
 
 - Purely oral tradition
-- Strong maritime focus
-- Nature-based terminology
-- Ritual language elements
+- Core maritime and nature vocabulary established
+- Complex compound system develops
+- Sacred/ritual terminology crystallizes
 
-## Middle Period (100-300 AI)
+## Middle Hick (300 PF to 105 AI)
 
-- First written forms
+- More consistent contact with pre-Kalassarian traders
 - Maritime trade vocabulary expansion
 - Astronomical terminology development
-- Sacred site naming conventions
+- Sacred site naming conventions formalize
+- Initial written forms appear (borrowed script)
 
-## Late Period (300-466 AI)
+## Late Hick/Early Seneran (105 AI to 400 AI)
 
-- Kalassarian influence begins
+- Kalassarian settlement period begins
 - Administrative terminology adoption
-- Gradual decline in daily use
-- Preservation in place names
+- Initial sound changes:
+  - Unstressed vowel reduction begins
+  - Compound simplification starts
+  - Some liquid deletion word-internally
+
+## Middle Seneran (400 AI to 900 AI)
+
+- Major sound changes:
+  - Full unstressed vowel reduction
+  - Resyllabification for CV preference
+  - Systematic liquid/nasal deletion
+  - Stress-related vowel lengthening
+- Example: [in.nes.bel] → [i.ne.spel]
+
+## Modern Seneran (900 AI to present)
+
+- Extensive contact with Apgarian kingdoms
+- Final changes:
+  - Complete syllable restructuring
+  - Final cluster simplification
+  - Vowel length phonemicization
+- Example: [i.ne.spel] → [ine.spell]
 
 # Phonology
 
@@ -108,10 +127,8 @@ periods:
 The vowel /a/ is realized as [ə]:
 
 1. After sibilants and affricates:
-
    - /sak/ → [sək] "wolf"
    - /sal/ → [səl] "stone"
-
 2. After voiceless stops in unstressed syllables:
    - /karan/ → [kərən] "stream"
    - /tamal/ → [təmal] "pool-like"
@@ -122,7 +139,7 @@ The vowel /a/ is realized as [ə]:
    - /malam/ → [məlam] "pooled"
    - /ranar/ → [rənər] "flowing"
 
-Exceptions:
+#### Exceptions:
 
 - Maintains [a] in stressed syllables
 - Maintains [a] in sacred/formal terms
@@ -186,34 +203,62 @@ Exceptions:
 
 #### Basic Rules
 
-- Root + Root combinations follow head-final pattern
-- Final liquids (/l/, /r/) drop before consonants
-- Final nasals (/m/, /n/) drop before consonants
-- Stress falls on first element
+1. Root + Root combinations follow head-final pattern
+2. Nasal behavior in compounds:
+   - Nasal → /i/ / \_\_\_ {b, p} (nasal becomes glide before labials)
+   - Nasal → ∅ / \_\_\_ elsewhere (nasal deletes before other consonants)
+3. Liquid deletion:
+   - Coda liquids (/l/, /r/) drop before consonants in the succeeding syllable
+   - When not in initial clusters
+4. Stress falls on first element
+5. Weight distribution:
+   - Complex compound simplification:
+     - Often preserves first two elements
+     - May reanalyze phrase structure
+     - Head may be dropped if meaning is established
+     - Common in animal/plant terminology
+     - Original compound structure may persist in formal registers
+   - In compounds of 4+ syllables:
+     - Maximum two consecutive heavy syllables
+     - Prefer light syllables medially
+     - Avoid H.H.H sequences
+     - Penultimate element may prefer to be heavy
 
-#### Examples:
+##### Examples
+
+###### Nasal Rules
 
 <dl>
-<dt><dfn>thrakel</dfn> [θra.kel]</dt>
-<dd>"sacred sky" (sun)</dd>
-<dd>thral-kel → thrakel</dd>
-<dd>sacred-sky</dd>
-
-<dt><dfn>vakel</dfn> [va.kel]</dt>
-<dd>"spirit sky" (moon)</dd>
-<dd>val-kel → vakel</dd>
-<dd>spirit-sky</dd>
-
-<dt><dfn>bramaes</dfn> [bram.aes]</dt>
-<dd>"tidal outflow"</dd>
-<dd>bram-aes → bramaes</dd>
-<dd>tide-outward</dd>
+<dt>Before labials:</dt>
+<dd>bram+bres → braibres "sea wind"</dd>
+<dd>bram+pel → braipel "sea bear"</dd>
 </dl>
 
-#### Weight Distribution
+###### Liquid Deletion
 
-1. In compounds of 4+ syllables:
+<dl>
+<dt>Before other consonants:</dt>
+<dd>thral+kel → thrakel "sacred sky"</dd>
+<dd>mal+ter → mater "pool flow"</dd>
+<dd>mur+mer+pel → mumepel "owl bear"</dd>
+</dl>
 
+###### Weight Distribution
+
+1. Compound Simplification:
+   - Cluster simplification follows sonority hierarchy
+   - Complex compounds may reduce to simpler forms
+   - Especially common in established terms
+   - Often preserves first two elements
+   - May reanalyze phrase structure
+   - Head may be dropped if meaning is established
+   - Common in animal/plant terminology
+   - Preserves modifier relationships
+   - Original compound structure may persist in formal registers
+   - Examples:
+     - tormurmer → tomur "great owl" (tor-mur-mer → tor-mur)
+     - thurmurmer → thurmur "dusk owl" (thur-mur-mer → thur-mur)
+2. In compounds of 4+ syllables:
    - Maximum two consecutive heavy syllables
    - Prefer light syllables medially
    - Avoid H.H.H sequences
@@ -222,53 +267,6 @@ Exceptions:
      - bramaikamaes [bra.mai.ka.ma.ʔes] L.H.L.L.H
      - imerimris [ʔi.me.rim.ris] L.L.H.H
      - ritmakakmamer [rit.ma.kak.ma.mer] H.L.H.L.H
-
-2. Compound Simplification:
-
-   - Complex compounds may reduce to simpler forms
-   - Especially common in established terms
-   - Often preserves first two elements
-   - May reanalyze phrase structure
-   - Examples:
-     - tormurmer → tomur "great owl" (tor-mur-mer → tor-mur)
-     - thurmurmer → thurmur "dusk owl" (thur-mur-mer → thur-mur)
-
-3. Semantic Factors:
-   - Head may be dropped if meaning is established
-   - Common in animal/plant terminology
-   - Preserves modifier relationships
-   - Original compound structure may persist in formal registers
-
-#### Phonological Processes
-
-- Liquid deletion: /l, r/ → ∅ / \_C
-- Nasal deletion: /m, n/ → ∅ / \_C
-- Cluster simplification follows sonority hierarchy
-- Vowel length preserved in first element
-
-##### Liquid Deletion Rules (Early Hick)
-
-1. Basic Pattern: Liquids (/l, r/) delete before consonants EXCEPT:
-
-   - When part of initial clusters (br-, tr-, etc.)
-   - When part of sacred terms (thral-)
-   - When in monosyllabic roots
-
-2. Examples: Correct:
-
-   - thral+kel → thrakel "sacred sky"
-   - val+kel → vakel "spirit sky"
-   - bram+aes → bramaes "tidal flow"
-
-   Need Revision:
-
-   - thral+tor → thraltr Should be: thraltor (sacred term exception)
-   - mal+ter → malter Should be: mater (follows liquid deletion)
-
-3. H.H.H Sequences in Early Hick: All preserved in Early Hick lexicon:
-   - tormurmer [tor.mur.mer] "great night-bird"
-   - thurmurmer [θur.mur.mer] "dusk night-bird"
-   - thrantorgral [θran.tor.gral] "sacred high earth"
 
 # Lexicon
 
@@ -297,32 +295,10 @@ Exceptions:
 <dt><dfn>thral</dfn> [θral]</dt>
 <dd>1. "sacred, ritual"</dd>
 <dd>2. "day, daylight"</dd> 
-<dt><dfn>thraes</dfn> [θraes]</dt>
-<dd>1. "sacred flow" (ritual water)</dd>
-<dd>2. "light flow" (dawn/dusk light)</dd>
-
-#### Time-Related Compounds
-
-<dt><dfn>thrakel</dfn> [θra.kel]</dt>
-<dd>"sacred sky" (sun)</dd>
-<dd>From: thral-kel → thrakel (liquid deletion)</dd>
-<dt><dfn>thralai</dfn> [θra.lai]</dt>
-<dd>"sacred water, daylight on water"</dd>
-
-#### Contrast with Dark Terms
-
-<dt><dfn>mur</dfn> [mur]</dt>
-<dd>"night, darkness"</dd>
-<dt><dfn>thur</dfn> [θur]</dt>
-<dd>"dusk, fading light"</dd>
-</dl>
-
-### Directional/Spatial
-
 <dl>
 <dt><dfn>tor</dfn> [tor]</dt>
 <dd>"height, peak"</dd>
-<dt><dfn>ward</dfn> [ward]</dt>
+<dt><dfn>wad</dfn> [wad]</dt>
 <dd>"path, way"</dd>
 <dt><dfn>thren</dfn> [θren]</dt>
 <dd>"watch, overlook"</dd>
@@ -330,9 +306,50 @@ Exceptions:
 <dd>"flow, flowing"</dd>
 </dl>
 
-### Number System
+### Dark Terms
 
-#### Cardinal Numbers
+<dt><dfn>mur</dfn> [mur]</dt>
+<dd>"night, darkness"</dd>
+<dt><dfn>thur</dfn> [θur]</dt>
+<dd>"dusk, fading light"</dd>
+</dl>
+
+## Compounds
+
+### Sacred and Celestial Terms
+
+<dl>
+   <dt><dfn>thraes</dfn> [θraes]</dt>
+   <dd>"sacred flow" (ritual water)</dd>
+   <dd>From: thral-aes → thraes (liquid deletion)</dd>
+   <dt><dfn>thrakel</dfn> [θra.kel]</dt>
+   <dd>"sacred sky" (sun)</dd>
+   <dd>From: thral-kel → thrakel (liquid deletion)</dd>
+   <dt><dfn>vakel</dfn> [va.kel]</dt>
+   <dd>"spirit sky" (moon)</dd>
+   <dd>From: val-kel → vakel (liquid deletion)</dd>
+   <dt><dfn>kethran</dfn> [ke.θran]</dt>
+   <dd>"sky thousand"</dd>
+   <dd>From: kel-thran → kethran (liquid deletion)</dd>
+   <dt><dfn>thrator</dfn> [θra.tor]</dt>
+   <dd>"sacred height"</dd>
+   <dd>From: thral-tor → thrator (liquid deletion)</dd>
+</dl>
+
+<dl>
+</dl>
+
+### Time-Related
+
+<dt><dfn>thrakel</dfn> [θra.kel]</dt>
+<dd>"sacred sky" (sun)</dd>
+<dd>From: thral-kel → thrakel (liquid deletion)</dd>
+<dt><dfn>thralai</dfn> [θra.lai]</dt>
+<dd>"sacred water, daylight on water"</dd>
+
+## Number System
+
+### Cardinal Numbers
 
 <dl>
 <dt><dfn>sin</dfn> [sin]</dt>
@@ -361,47 +378,20 @@ Exceptions:
 <dd>"thousand"</dd>
 </dl>
 
-## Celestial and Sacred Terms
-
-<dl>
-    <dt><dfn>thrakel</dfn> [θra.kel]</dt>
-    <dd>"sacred sky"</dd>
-    <dd>thral-kel</dd>
-    <dd>sacred-sky</dd>
-    <dd>sun</dd>
-    <dt><dfn>vakel</dfn> [va.kel]</dt>
-    <dd>"spirit sky"</dd>
-    <dd>val-kel</dd>
-    <dd>spirit-sky</dd>
-    <dd>moon</dd>
-    <dt><dfn>kethran</dfn> [ke.θran]</dt>
-    <dd>"sky thousand"</dd>
-    <dd>kel-thran</dd>
-    <dd>sky-thousand</dd>
-    <dd>stars</dd>
-    <dt><dfn>thraltr</dfn> [θral.tr]</dt>
-    <dd>"sacred height"</dd>
-    <dd>thral-tor</dd>
-    <dd>sacred-height</dd>
-    <dd>Mount Thraltr</dd>
-</dl>
-
 ## Geographic Features
 
 <dl>
     <dt><dfn>thrantor</dfn> [θran.tor]</dt>
     <dd>"thousand peaks"</dd>
-    <dd>From: thran-tor-gral → thrantor</dd>
+    <dd>From: thran-tor (no changes needed)</dd>
     <dd>Modern: Ranterg Mountains</dd>
     <dt><dfn>malthrek</dfn> [mal.θrek]</dt>
     <dd>"pool heights"</dd>
-    <dd>mal-threk</dd>
-    <dd>pool-height</dd>
+    <dd>From: mal-threk → mathrek (liquid deletion)</dd>
     <dd>Modern: Maltreks</dd>
     <dt><dfn>kethren</dfn> [keθ.ren]</dt>
     <dd>"sea watch"</dd>
-    <dd>keth-thren</dd>
-    <dd>sea-watch</dd>
+    <dd>From: keth-thren → kethren (cluster simplification)</dd>
     <dd>Modern: Kethren Hills</dd>
 </dl>
 
@@ -410,18 +400,15 @@ Exceptions:
 <dl>
     <dt><dfn>bramaes</dfn> [bram.aes]</dt>
     <dd>"tidal outflow"</dd>
-    <dd>bram-aes</dd>
-    <dd>tide-outward</dd>
+    <dd>From: bram-aes (no changes needed)</dd>
     <dd>Modern: Brams River</dd>
     <dt><dfn>thrannal</dfn> [θran.nal]</dt>
     <dd>"sacred flow"</dd>
-    <dd>thran-nal</dd>
-    <dd>sacred-flow</dd>
+    <dd>From: thral-nal → thranal (liquid deletion)</dd>
     <dd>Modern: Thrannal River</dd>
     <dt><dfn>kethreks</dfn> [keθ.reks]</dt>
     <dd>"sea reach"</dd>
-    <dd>keth-reks</dd>
-    <dd>sea-reach</dd>
+    <dd>From: keth-reks (no changes needed)</dd>
     <dd>Modern: Kethreks</dd>
     <dt><dfn>mater</dfn> [ma.ter]</dt>
     <dd>"pool flow"</dd>
@@ -433,13 +420,11 @@ Exceptions:
 <dl>
     <dt><dfn>keelswood</dfn> [kel.swud]</dt>
     <dd>"sky forest"</dd>
-    <dd>kel-wood</dd>
-    <dd>sky-forest</dd>
+    <dd>From: kel-wood (borrowed form)</dd>
     <dd>Modern: Keelswood</dd>
     <dt><dfn>bramsward</dfn> [bram.sward]</dt>
     <dd>"tide path"</dd>
-    <dd>bram-ward</dd>
-    <dd>tide-path</dd>
+    <dd>From: bram-ward (borrowed form)</dd>
     <dd>Modern: Bramsward Way</dd>
     <dt><dfn>wardcross</dfn> [ward.kros]</dt>
     <dd>"path crossing"</dd>
@@ -474,18 +459,23 @@ Exceptions:
 <dl>
 <dt><dfn>torren</dfn> [to.ren]</dt>
 <dd>"mountain deer" (red deer)</dd>
+<dd>From: tor-ren → toren (liquid deletion)</dd>
 
-<dt><dfn>malren</dfn> [mal.ren]</dt>
+<dt><dfn>maren</dfn> [ma.ren]</dt>
 <dd>"marsh deer" (roe deer)</dd>
+<dd>From: mal-ren → maren (liquid deletion)</dd>
 
 <dt><dfn>kethmer</dfn> [keθ.mer]</dt>
 <dd>"sea bird"</dd>
+<dd>From: keth-mer (no changes needed)</dd>
 
-<dt><dfn>tormer</dfn> [tor.mer]</dt>
+<dt><dfn>tomer</dfn> [to.mer]</dt>
 <dd>"height bird" (eagle)</dd>
+<dd>From: tor-mer → tomer (liquid deletion)</dd>
 
-<dt><dfn>gralpel</dfn> [gral.pel]</dt>
+<dt><dfn>grapel</dfn> [gra.pel]</dt>
 <dd>"earth bear" (brown bear)</dd>
+<dd>From: gral-pel → grapel (liquid deletion)</dd>
 </dl>
 
 <dt><dfn>nes</dfn> [nes]</dt>
@@ -495,18 +485,23 @@ Exceptions:
 
 <dt><dfn>kethnes</dfn> [keθ.nes]</dt>
 <dd>"sea fish" (ocean-going species)</dd>
+<dd>From: keth-nes (no changes needed)</dd>
 
-<dt><dfn>malnes</dfn> [mal.nes]</dt>
+<dt><dfn>manes</dfn> [ma.nes]</dt>
 <dd>"pool fish" (freshwater species)</dd>
+<dd>From: mal-nes → manes (liquid deletion)</dd>
 
-<dt><dfn>bramnes</dfn> [bram.nes]</dt>
+<dt><dfn>braines</dfn> [brai.nes]</dt>
 <dd>"tide fish" (estuarine species)</dd>
+<dd>From: bram-nes → braines (nasal deletion)</dd>
 
 <dt><dfn>thranes</dfn> [θra.nes]</dt>
 <dd>"sacred fish" (salmon)</dd>
+<dd>From: thral-nes → thranes (liquid deletion)</dd>
 
-<dt><dfn>valnes</dfn> [val.nes]</dt>
+<dt><dfn>vanes</dfn> [va.nes]</dt>
 <dd>"spirit fish" (eel)</dd>
+<dd>From: val-nes → vanes (liquid deletion)</dd>
 
 <dt><dfn>tones</dfn> [to.nes]</dt>
 <dd>"great fish, whale"</dd>
@@ -556,6 +551,7 @@ Exceptions:
 
 <dt><dfn>kranren</dfn> [kran.ren]</dt>
 <dd>"horned deer" (elk)</dd>
+<dd>From: kran-ren → kraren (nasal deletion)</dd>
 
 <dt><dfn>venmer</dfn> [ven.mer]</dt>
 <dd>"wing bird" (large soaring bird)</dd>
@@ -676,6 +672,65 @@ Exceptions:
 <dd>"expression" (literally "soul-outward")</dd>
 </dl>
 
+### Climate and Weather Terms
+
+<dl>
+#### Temperature Terms
+<dt><dfn>mir</dfn> [mir]</dt>
+<dd>"cold, cooling"</dd>
+
+<dt><dfn>miral</dfn> [mi.ral]</dt>
+<dd>"cold water, winter pool"</dd>
+<dd>From: mir-mal → miral (liquid deletion)</dd>
+
+<dt><dfn>thir</dfn> [θir]</dt>
+<dd>"warm, warming"</dd>
+
+<dt><dfn>thiral</dfn> [θi.ral]</dt>
+<dd>"warm water, summer pool"</dd>
+<dd>From: thir-mal → thiral (liquid deletion)</dd>
+
+#### Wind Terms
+
+<dt><dfn>bres</dfn> [bres]</dt>
+<dd>"wind, moving air"</dd>
+
+<dt><dfn>braibres</dfn> [brai.bres]</dt>
+<dd>"sea wind, ocean breeze"</dd>
+<dd>From: bram-bres → braibres (nasal → glide)</dd>
+
+<dt><dfn>torbres</dfn> [tor.bres]</dt>
+<dd>"mountain wind, cold downslope wind"</dd>
+
+#### Rain and Moisture
+
+<dt><dfn>aitar</dfn> [ai.tar]</dt>
+<dd>"rain" (lit. "falling water")</dd>
+<dd>From: ai-itar</dd>
+
+<dt><dfn>miraitar</dfn> [mi.rai.tar]</dt>
+<dd>"cold rain, winter rain"</dd>
+<dd>From: mir-aitar → miraitar</dd>
+
+<dt><dfn>bramis</dfn> [bra.mis]</dt>
+<dd>"sea mist, coastal fog"</dd>
+<dd>From: bram-mis → bramis (nasal deletion)</dd>
+
+#### Seasonal Terms
+
+<dt><dfn>mirthral</dfn> [mir.θral]</dt>
+<dd>"winter" (lit. "cold-day")</dd>
+
+<dt><dfn>thirthral</dfn> [θir.θral]</dt>
+<dd>"summer" (lit. "warm-day")</dd>
+
+<dt><dfn>branthral</dfn> [bran.θral]</dt>
+<dd>"spring" (lit. "dawn-day", season of new growth)</dd>
+
+<dt><dfn>thurthral</dfn> [θur.θral]</dt>
+<dd>"autumn" (lit. "dusk-day", season of decline)</dd>
+</dl>i
+
 # Sound Changes
 
 ## Major Historical Changes
@@ -714,11 +769,16 @@ can identify several key sound changes:
      - [in.nes.bel] → [in.nes.bəl]
 
 2. Consonant Cluster Evolution
+
    - Schwa deletion after liquids before stops
      - [θral.tər] → [θraltr] "sacred peak"
      - [mal.kə] → [malk] "pool-place"
    - Preserved elsewhere
      - [in.nes.bəl] remains [in.nes.bəl]
+
+3. Liquid Deletion
+   - [θral.tər] → [θraltr] "sacred peak"
+   - [mal.kə] → [malk] "pool-place"
 
 ### Late Seneran (1000+ AI)
 
@@ -1006,19 +1066,30 @@ its influence persists in:
 
 <dl>
 <dt><dfn>murmer</dfn> [mur.mer]</dt>
-<dd>"night-bird" (owl, general term)</dd>1
+<dd>"night-bird" (owl, general term)</dd>
+<dd>From: mur-mer (no changes needed)</dd>
 
 #### Specific Owl Types
 
+These terms demonstrate compound simplification, where the general term 'mer'
+(bird) is dropped after the meaning becomes established. The original forms
+(tor-mur-mer, thur-mur-mer) simplified to preserve the first two elements while
+maintaining the semantic connection to birds.
+
+<dl>
 <dt><dfn>tomur</dfn> [to.mur]</dt>
 <dd>"great owl" (eagle owl)</dd>
-<dd>From: tor-mur-mer → tomur</dd>
+<dd>From: tor-mur-mer → tor-mur → tomur (compound simplification, then liquid 
+deletion)</dd>
 
 <dt><dfn>thurmur</dfn> [θur.mur]</dt>
-<dd>"dusk owl" (twilight-hunting owl)</d
+<dd>"dusk owl" (twilight-hunting owl)</dd>
+<dd>From: thur-mur-mer → thurmur (compound simplification)</dd>
 
 <dt><dfn>limur</dfn> [li.mur]</dt>
 <dd>"small night-bird" (small owl species)</dd>
+<dd>From: li-mur-mer → limur (compound simplification)</dd>
+</dl>
 
 #### Related Terms
 
@@ -1061,10 +1132,12 @@ its influence persists in:
 ### Proto-Hick \*is- Prefix Development
 
 1. Basic Pattern: Proto-Hick \*is- "out, external" + root:
+
    - \*is-esgir > sekir "foreigner" (lit. "outer-body")
    - \*is-kel > iskel "window" (lit. "out-sky")
 
 2. Sound Changes: When \*is- meets vowel-initial roots:
+
    - \*is-V... > sV...
    - Metathesis occurs: \*isesgir > sekir
    - When \*is- meets consonant-initial roots:

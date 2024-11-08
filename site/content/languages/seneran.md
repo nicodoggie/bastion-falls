@@ -14,26 +14,32 @@ terminology and place names.
 
 # Historical Development
 
-## Early Formation (0-500 AI)
+## Sound Changes
 
-- Kalassarian administrative language dominance
-- Hick substrate influence in coastal regions
-- Maritime vocabulary retention from Hick
-- Regional variations emerge between coast and inland
+### Early Seneran (400-500 AI)
 
-## Middle Period (500-1000 AI)
+1. Final Syllable Changes
+   - Unstressed vowels → schwa
+     - [in.nes.bel] → [in.nes.bəl]
+   - Cluster simplification begins
+     - [sb] → [sp] / \_#
 
-- Distinct Seneran identity emerges
-- Maritime trade influences vocabulary
-- Cultural terminology development
-- Early standardization in port cities
+### Middle Seneran (500-1000 AI)
 
-## Modern Period (1000 AI-Present)
+1. Kalassarian Adaptations
+   - -ata → -ey/-ay
+     - Surrata → Surrey
+   - -onum → -on/-ton
+   - -urrium → -ury/-bury
 
-- Official standardization
-- Maritime dominance reflected in formal language
-- International trade influence
-- Technical vocabulary growth
+### Modern Seneran (1000+ AI)
+
+1. Final Changes
+   - Word-final schwa deletion
+   - Final cluster simplification
+     - [in.nes.bəl] → [in.spell]
+   - Hydronym -s preservation
+     - bramas → brams
 
 # Phonology
 
