@@ -13,9 +13,47 @@ trade routes in the Sarmatian Sea.
 
 ## Command Structure
 
-Headquartered at [The Admiralty's Helm](@/locations/admiraltys-helm.md) in
-[Port Surrey](@/locations/port-surrey-on-the-brams.md), the Navy operates under
-the authority of the Lord High Admiral and the Admiralty Board.
+### Lord High Admiral
+
+- Currently: Lord Aldric Surrata
+- Hereditary position of House Surrata
+- Seat: The Admiralty's Helm, Surrey-on-the-Brams
+- Commands through the Admiralty Board
+
+### The Admiralty Board
+
+#### Senior Members
+
+- Lord High Admiral (Chair)
+- Vice Admiral of the Sarmatian Sea
+  - Currently: Vice Admiral Sir Marcus Ketherling
+  - (Younger son of House Ketherling, earned rank through service)
+- Vice Admiral of the Northeast
+  - Currently: Vice Admiral Lady Elena Surrata
+  - (Younger sister of Lord High Admiral, commands defensive fleet)
+- Vice Admiral of Rivers
+  - Currently: Vice Admiral Sir Thomas Bramwick
+  - (Second son of House Bramwick, specializes in river warfare)
+
+#### Junior Members
+
+- Rear Admiral of Port Surrey
+  - Currently: Rear Admiral Lord James Surrata
+  - (Heir to House Surrata, training in naval command)
+- Rear Admiral of Coastal Defense
+  - Currently: Rear Admiral Sir William Skelwick
+  - (Third son of House Skelwick, earned rank through service)
+- Master of Naval Construction
+  - Currently: Master Shipwright Sir Henry Malterdale
+  - (Commoner elevated through expertise)
+
+### Notable Command Traditions
+
+- Lord High Admiral position hereditary with House Surrata
+- Vice Admiral positions based on merit and experience
+- Noble houses may place younger sons in naval service
+- Commoners can rise to high rank through proven ability
+- Mixed system balances tradition with effectiveness
 
 ## Fleet Organization
 

@@ -372,14 +372,34 @@ systematic and complete, with traditional practices strictly outlawed.
 - Ruled Senera from 466 AI to approximately 850 AI
 - Still influential in trade and agriculture, especially spices and herbs
 
-### House Dragonheart (c. 850 AI - Present)
+### House Dragonheart (Drakenhart in Old Seneran) (c. 850 AI - Present)
 
-- Originally a cadet branch of House Maidenfeld
-- Split from main line around 800 AI over naval policy
-- Gained throne through combination of military prowess and noble support
-- Expanded naval presence significantly during Silent Ages
-- Current ruling dynasty, known for aggressive maritime expansion
-- Key players in securing favorable terms in Treaty of Turain (1255 AI)
+- Primary Domain: The Ranterg Heights
+- Ancestral Seat: Thrantorbury
+- Historical Context:
+  - Originally a cadet branch of House Maidenfeld
+  - Rose to power during the Succession Wars
+  - Adopted Kalassarian-style name to project imperial grandeur while
+    maintaining Orthodox legitimacy
+  - Name possibly references the "Dragon's Trial" of Orthodox martyrdom
+- Religious Authority:
+  - Strong ties to Orthodox Church of the Divine Masochist
+  - Built grand Orthodox cathedrals in Thrantorbury
+  - Patronage of major monasteries in the Ranterg Heights
+  - Maintained tolerance for:
+    - Kalassarian Paganism in eastern ports
+    - Traditional Hick practices in remote regions
+- Key Holdings:
+  - The Crown of Thorns (Thraltr Peak fortress-monastery)
+  - Sacred Forest Preserves
+  - Mountain Pass fortifications
+- Title: High Kings/Queens of Senera
+- Notable Features:
+  - Claims dual legitimacy through:
+    - Maidenfeld bloodline (ancient nobility)
+    - Orthodox Divine Masochist patronage
+  - Balances Orthodox doctrine with practical religious tolerance
+  - Strategic marriage policy maintains ties with houses of all faiths
 
 ## Secondary Houses
 
@@ -437,3 +457,966 @@ systematic and complete, with traditional practices strictly outlawed.
   - Rich spring-fed valleys
   - Thin soils on ridges
   - Scattered clearings
+
+# Administrative Divisions
+
+## Western Provinces (Hick-dominant names)
+
+### The Maltrek Thanedom
+
+- Capital: Malterburgh
+- Major settlements:
+  - Bramwick (< Hick bram-vik "tide bay")
+  - Thralmal (< Hick thral-mal "sacred pool")
+  - Torward (< Hick tor-ward "peak-ward")
+- Notable features:
+  - Ancient Hick astronomical sites
+  - Sacred pools
+  - Traditional forestlands
+
+### The Rannek March
+
+- Capital: Rannekford
+- Major settlements:
+  - Malterdale (< Hick mal-ter "pool-flow")
+  - Graldene (< Hick gral-den "earth-valley")
+  - Westbram (< Hick west-bram "west-tide")
+- Notable features:
+  - Limestone river valleys
+  - Traditional water management systems
+  - Ancient Hick agricultural terraces
+
+## Northern Provinces (Iutlandish influence)
+
+### Skelmark County
+
+- Capital: Skelwick (< Iut. skip-vik "ship bay")
+- Major settlements:
+  - Torholm (< Hick tor + Iut. holm "peak island")
+  - Havenbeck (< Iut. haven-bek "harbor stream")
+  - Northdal (< Iut. nord-dal "north valley")
+- Notable features:
+  - Major shipyards
+  - Trading ports
+  - Mixed Hick-Iutlandish culture
+
+### The Storskey Riding
+
+- Capital: Storwick
+- Major settlements:
+  - Langdale (< Iut. lang-dal "long valley")
+  - Hegfell (< Iut. høg-fell "high mountain")
+  - Vikness (< Iut. vik-nes "bay point")
+- Notable features:
+  - Timber reserves
+  - Fishing ports
+  - Ancient signal towers
+
+## Eastern Provinces (Kalassarian dominance)
+
+### The Surrey Prefecture
+
+- Capital: Surrey-on-the-Brams
+
+  - Originally "Surrata-in-Bramaes" in Kalassarian records
+  - Deliberately "Senerized" during military reorganization (c. 500 AI)
+  - Combines Kalassarian element (Surrey < Surrata) with Hick hydronym (Brams <
+    bram-aes)
+  - Pattern adopted as standard for other strategic locations
+
+- Major settlements:
+
+  - Port Surrey-on-the-Brams (naval headquarters)
+  - Bramsgate (former Portbury, renamed in same directive)
+  - Eastonton (maintains Kalassarian -ton suffix)
+
+- Notable features:
+  - Island fortress complex
+  - Primary naval base
+  - Administrative center
+  - Strategic harbor facilities
+
+### The Inespell March
+
+- Capital: Spellgate
+- Major settlements:
+  - Castellon (< Kal. castellum-tonum)
+  - Portmark (< Kal. porta + mark)
+  - Tidbury (< Kal. tid-burrium)
+- Notable features:
+  - Gulf harbors
+  - Defensive fortifications
+  - Maritime trade centers
+
+## Central Provinces (Mixed influence)
+
+### The Ranterg Heights
+
+- Capital: Thrantorbury
+- Major settlements:
+  - Peakford (hybrid Hick-Kalassarian)
+  - Highbury (< Kal. high-burrium)
+  - Torgate (< Hick tor + Kal. gate)
+- Notable features:
+  - Mountain passes
+  - Sacred sites
+  - Forest preserves
+
+### The Kethren March
+
+- Capital: Kethbury
+- Major settlements:
+  - Watchton (< Hick keth + Kal. tonum)
+  - Signalgate (hybrid name)
+  - Hillbury (< Kal. hill-burrium)
+- Notable features:
+  - Coastal watchtowers
+  - Signal stations
+  - Maritime defenses
+
+# Peerage of Senera
+
+## Royal Peerage
+
+### High King/Queen of Senera
+
+- Current Holder: House Dragonheart
+- Seat: Thrantorbury
+- Special Privileges:
+  - Appointment of Lord Admirals
+  - Confirmation of Marcher Lords
+  - Granting of new noble titles
+  - Orthodox Church patronage rights
+
+## Greater Nobility
+
+### Marcher Lords (highest non-royal rank)
+
+- House Maidenfeld
+
+  - Domain: The Rannek March
+  - Seat: Rannekford
+  - Special Right: Hereditary Granary-Keepers of the Realm
+
+- House Spellward
+  - Domain: The Inespell March
+  - Seat: Spellgate
+  - Special Right: Hereditary Wardens of the Gulf
+
+### Lord Admiral
+
+- House Surrata
+  - Domain: The Surrey Prefecture
+  - Seat: Surrey-on-the-Brams
+  - Special Right: Command of Eastern Fleet
+  - Key Holdings:
+    - Island fortress complex
+    - Naval headquarters
+    - Eastern harbors
+    - Strategic port facilities
+
+### High Thane
+
+- House Tormark
+  - Domain: The Maltrek Thanedom
+  - Seat: Malterburgh
+  - Special Right: Keeper of the Old Calendar
+
+## Lesser Nobility
+
+### Counts/Countesses
+
+- House Skelwick
+
+  - Domain: Skelmark County
+  - Seat: Skelwick
+  - Notable: Master Shipwrights
+
+- House Ketherling
+  - Domain: Kethren County
+  - Seat: Kethbury
+  - Notable: Signal-Masters of the Coast
+
+### Barons/Baronesses
+
+- House Bramwick
+
+  - Domain: Western Tidelands (Maltrek coastal region)
+  - Seat: Bramwick (former Hick tidal settlement)
+  - Notable: Tide-Wardens of the Western Coast
+  - Key Holdings:
+    - Tidal harbors west of Maltrek
+    - Traditional fishing rights
+    - Coastal signal towers
+  - Special Duties:
+    - Maintain tidal calendars
+    - Oversee traditional fishing grounds
+    - Coordinate with Maltrek Thanedom on coastal defense
+
+- House Malterdale
+
+  - Domain: Upper Malter Valley
+  - Seat: Malterdale
+  - Notable: River-Keepers
+
+- House Eastonton
+  - Domain: Eastern Surrey
+  - Seat: Eastonton
+  - Notable: Harbor-Masters
+
+### Baronets (lowest hereditary rank)
+
+- House Thralmal
+
+  - Domain: Sacred Pools District
+  - Notable: Spring-Keepers
+
+- House Torgate
+  - Domain: Mountain Pass Holdings
+  - Notable: Pass-Wardens
+
+## Landed Knights
+
+- Not hereditary
+- Granted for service
+- Examples:
+  - Knights of the Tide (maritime service)
+  - Knights of the Granary (agricultural service)
+  - Knights of the Signal (coastal defense)
+
+## Special Ranks
+
+### Lord/Lady Castellan
+
+- Appointed military governors
+- Command strategic fortresses
+- Report directly to Crown
+
+### Port-Reeves
+
+- Elected by merchant guilds
+- Confirmed by Crown
+- Manage major trading ports
+
+# Governance
+
+## Royal Authority
+
+### Wartime Powers
+
+- Right to impose kingdom-wide levies:
+  - Military conscription
+  - Emergency taxation
+  - Requisition of ships
+  - Commandeering of granaries
+- Must be declared through:
+  - Royal Proclamation
+  - Orthodox Church blessing
+  - Notification to Small Court
+
+## The Small Court
+
+### Composition
+
+- Lord High Treasurer (appointed by Crown)
+- Three Marcher Representatives
+- Lord Admiral's Delegate
+- High Thane's Voice
+- Two Orthodox Church observers
+- Guild-elected Port-Reeve
+
+### Peacetime Authority
+
+- Power to impose and collect:
+  - Harbor duties
+  - Granary tithes
+  - Road tolls
+  - Bridge fees
+  - Market taxes
+  - Salt levies
+  - Timber rights
+
+### Limitations
+
+- Cannot impose military levies
+- No authority over Church properties
+- Cannot override local noble privileges
+- Must submit annual accounts to Crown
+
+### Meeting Schedule
+
+- Regular sessions:
+  - Spring Assembly (planting levies)
+  - Midsummer Court (trade duties)
+  - Harvest Council (granary tithes)
+  - Winter Session (year's accounting)
+- Emergency sessions:
+  - Called by Crown
+  - Called by majority of members
+  - During natural disasters
+  - Pre-war preparations
+
+### Traditional Venues
+
+- Spring: Rannekford (agricultural focus)
+- Summer: Surrey-on-the-Brams (maritime trade)
+- Harvest: Malterburgh (granary assessment)
+- Winter: Thrantorbury (royal oversight)
+
+## Royal Seat
+
+### Castle Dragonheart
+
+- Location: Thrantorbury, capital of the Ranterg Heights
+- Position:
+  - Crowns the highest point of Thrantorbury
+  - Overlooks both city and mountain passes
+  - Commands view of the Crown Road to Surrey
+
+### Complex Features
+
+- The High Keep (original Maidenfeld fortress)
+
+  - Ancient stone construction
+  - Pre-dates Dragonheart rule
+  - Houses the Dragon Throne Room
+
+- The Crown Cathedral
+
+  - Built during early Dragonheart reign
+  - Orthodox Divine Masochist architecture
+  - Connected to Keep via covered bridge
+
+- The Court Quarter
+
+  - Small Court chambers
+  - Royal archives
+  - Treasury vaults
+  - Administrative offices
+
+- The Royal Ward
+  - Noble residences
+  - Diplomatic quarters
+  - Guard barracks
+  - Service buildings
+
+### City of Thrantorbury
+
+- Surrounds Castle Dragonheart in concentric rings:
+  - Inner Ring: Noble houses and Orthodox institutions
+  - Middle Ring: Merchant quarters and guildhalls
+  - Outer Ring: Craftsmen and markets
+- Notable Features:
+  - The Crown Gate (main entrance)
+  - Orthodox Quarter
+  - Winter Court district
+  - Royal granaries
+
+## Local Administration
+
+### City Classifications
+
+#### Strategic Cities (e.g., Port Surrey)
+
+- Dual authority system (Military/Civil or Crown/Noble)
+- Direct Crown oversight
+- Complex council structure
+- Special jurisdictional rights
+- Noble families maintain townhouses but limited direct power
+
+#### Major Cities (e.g., Tidemark, Malterburgh)
+
+- Municipal council with noble oversight
+- Local lord holds key appointment powers
+- Merchant guild influence
+- Orthodox Church representation
+- Traditional rights preserved
+
+#### Market Towns (e.g., Bramwick, Torgate)
+
+- Noble-appointed Burgher
+- Town council of guilds and property holders
+- Local lord's steward holds veto power
+- Orthodox parish significant influence
+- Market and fair rights
+
+#### Rural Settlements
+
+- Noble-appointed Reeve
+- Village council (informal)
+- Direct noble jurisdiction
+- Orthodox parish authority
+- Basic administrative rights
+
+### Noble-Municipal Relations
+
+#### Strategic Cities
+
+- House Surrata in Port Surrey:
+  - Military authority through Admiralty
+  - Limited civil jurisdiction
+  - Maintains ceremonial residence
+  - Controls surrounding countryside
+  - Revenue from naval operations
+
+#### Major Cities
+
+- House Maidenfeld in Rannekford:
+  - Appoints key officials
+  - Controls city guard
+  - Collects certain taxes
+  - Maintains urban castle
+  - Holds emergency powers
+
+#### Market Towns
+
+- House Bramwick in Bramwick:
+  - Direct administrative control
+  - Market rights oversight
+  - Justice administration
+  - Tax collection rights
+  - Emergency powers
+
+## Noble Rights and Urban Administration
+
+### Noble Privileges by Settlement Type
+
+#### Strategic Cities
+
+- Military Authority:
+  - Command of city guard in wartime
+  - Control of fortifications
+  - Emergency mobilization rights
+  - Arsenal oversight
+- Economic Rights:
+  - Share of customs revenue
+  - Special harbor duties
+  - Strategic resource control
+  - Military supply contracts
+- Limited Civil Powers:
+  - Ceremonial presidency of festivals
+  - Appointment of specific officials
+  - Maintenance of noble courts
+  - Emergency powers during crises
+
+#### Major Cities
+
+- Administrative Rights:
+  - Appointment of key city officials
+  - Oversight of city guard
+  - Control of outer walls
+  - Justice in serious crimes
+- Economic Powers:
+  - Market tax collection
+  - Trade license issuance
+  - Guild charter approval
+  - Resource management rights
+- Traditional Privileges:
+  - Urban castle maintenance
+  - First-purchase rights
+  - Festival presidency
+  - Emergency powers
+
+#### Market Towns
+
+- Direct Control:
+  - Administrative appointments
+  - Justice administration
+  - Tax collection
+  - Market regulation
+  - Guard command
+
+### Conflict Resolution Mechanisms
+
+#### Strategic Cities
+
+1. Regular Disputes:
+   - Municipal Court (civil matters)
+   - Admiralty Court (maritime/military)
+   - Orthodox Arbitration (religious aspects)
+2. Jurisdictional Conflicts:
+   - Crown Arbitration Board
+   - Small Court oversight
+   - Orthodox mediation
+3. Emergency Procedures:
+   - Clear chain of command
+   - Written protocols
+   - Established precedents
+
+#### Major Cities
+
+1. Standard Process:
+   - City Council first instance
+   - Noble court appeal
+   - Orthodox mediation
+2. Guild Matters:
+   - Guild courts primary
+   - Joint noble-guild tribunals
+   - Appeal to Crown possible
+
+#### Market Towns
+
+1. Direct Resolution:
+   - Noble court primary
+   - Orthodox parish mediation
+   - Appeal to higher noble possible
+
+### Historical Development
+
+#### Pre-Kalassarian Era (Before 200 AI)
+
+- Hick tribal settlements
+- Noble war-bands as police
+- Market rights tied to defense
+- Simple chief/elder system
+
+#### Early Kalassarian Period (200-350 AI)
+
+- Imperial administrative system
+- First formal city charters
+- Military governors in ports
+- Standardized tax collection
+
+#### Late Kalassarian Period (350-435 AI)
+
+- Growing urban autonomy
+- Guild system development
+- Noble adaptation to urban life
+- Complex administrative codes
+
+#### Silent Ages (435-1225 AI)
+
+- Breakdown of imperial system
+- Rise of local noble power
+- Church mediation important
+- New urban-noble balance
+
+#### Modern Era (1225-Present)
+
+- Formalized dual authorities
+- Clear jurisdictional codes
+- Professional administration
+- Balance of traditional rights
+
+## Noble Administrative Agents
+
+### High Officers (Regional Level)
+
+#### The Seneschal
+
+- Chief administrative officer
+- Manages noble's entire domain
+- Usually from lesser noble family
+- Based at noble's seat
+- Coordinates other officers
+- Emergency powers in lord's absence
+
+#### The Chancellor
+
+- Head of noble's chancery
+- Document authentication
+- Record keeping
+- Correspondence management
+- Seal keeper
+- Usually Orthodox-educated
+
+### Local Representatives
+
+#### Stewards (District Level)
+
+- Manage specific territories
+- Collect regular taxes
+- Oversee local justice
+- Monitor local officials
+- Report to Seneschal
+- Often from wealthy merchant families
+
+#### Bailiffs (Town/Village Level)
+
+- Day-to-day administration
+- Tax collection
+- Local law enforcement
+- Market supervision
+- Usually local appointees
+- Report to Stewards
+
+### Specialized Agents
+
+#### Riding Officers
+
+- Mobile enforcement agents
+- Travel throughout the domain
+- Investigate complaints
+- Monitor local officials
+- Direct line to Seneschal
+- Often from military background
+
+#### Forest Wardens
+
+- Manage woodland resources
+- Enforce hunting rights
+- Prevent timber theft
+- Monitor charcoal burning
+- Usually hereditary position
+- Local knowledge essential
+
+#### Harbor Masters
+
+- Port fee collection
+- Shipping regulation
+- Cargo inspection
+- Maritime law enforcement
+- Often guild members
+- Report to both noble and town
+
+### Religious Connections
+
+#### Parish Priests
+
+- Informal noble agents
+- Community monitoring
+- Dispute mediation
+- Record keeping
+- Education oversight
+- Report serious issues
+
+#### Monastery Liaisons
+
+- Economic partnerships
+- Document preparation
+- Educational services
+- Agricultural expertise
+- Independent but cooperative
+
+### Emergency Systems
+
+#### Castle Castellans
+
+- Fortress commanders
+- Military readiness
+- Local defense
+- Emergency powers
+- Usually military veterans
+- Direct noble appointment
+
+#### Watch Captains
+
+- Town/village security
+- Night patrols
+- Fire prevention
+- Emergency response
+- Local recruitment
+- Report to Bailiffs
+
+### Intelligence Network
+
+#### Market Informants
+
+- Trade monitoring
+- Price reporting
+- Merchant surveillance
+- Guild activity tracking
+- Informal network
+- Paid by results
+
+#### Tavern Keepers
+
+- Information gathering
+- Traveler monitoring
+- Local mood assessment
+- Rumor reporting
+- Licensed by noble
+- Regular reports required
+
+### Maritime Officials and Appointments
+
+#### Strategic Ports (e.g., Port Surrey)
+
+- Harbor Master:
+  - Appointed by Admiralty
+  - Reports to naval chain of command
+  - Independent of local noble authority
+  - Works with merchant guilds
+  - Crown-confirmed position
+
+#### Major Commercial Ports (e.g., Tidemark)
+
+- Harbor Master:
+  - Nominated by Merchant/Shipwright Guilds
+  - Confirmed by local noble
+  - Reports to both guild and noble authority
+  - Collects fees for both
+  - Term-limited appointment
+
+#### Noble-Controlled Ports (e.g., Bramwick)
+
+- Harbor Master:
+  - Noble appointee from guild members
+  - Reports primarily to noble's steward
+  - Works with local guild chapter
+  - Hereditary in some cases
+  - Limited autonomy
+
+#### Small Harbors
+
+- Harbor Reeve:
+  - Direct noble appointment
+  - Often local experienced sailor
+  - Basic fee collection
+  - Simple record keeping
+  - Reports to bailiff
+
+### Appointment Process (Major Commercial Ports)
+
+1. Guild Selection:
+
+   - Guild council nominates candidates
+   - Must be senior guild member
+   - Requires maritime experience
+   - Good standing with Orthodox Church
+   - Clean financial record
+
+2. Noble Review:
+
+   - Background investigation
+   - Property qualification check
+   - Loyalty assessment
+   - Family connections reviewed
+   - Orthodox parish consultation
+
+3. Confirmation:
+   - Formal appointment ceremony
+   - Oath of office
+   - Bond posting
+   - Seal and staff of office
+   - Public announcement
+
+## Guilds
+
+### Maritime Trade Guilds
+
+#### Harbor Masters' Guild
+
+- Port administration
+- Pilot certification
+- Dock management
+- Cargo handling standards
+- Safety regulations
+- Weather monitoring
+
+#### Master Shipwrights' Guild
+
+- Ship design/construction
+- Quality standards
+- Naval contracts
+- Apprentice training
+- Technical innovation
+- Material specifications
+
+#### Ship Chandlers' Guild
+
+- Ship provisioning
+- Rope and sail making
+- Block and tackle craft
+- Naval stores
+- Equipment standards
+- Supply chain management
+
+### Metalworking Guilds
+
+#### Master Smiths' Guild (Highest Status)
+
+- Subdivisions:
+  - Naval Smiths (highest rank)
+  - Weapon Smiths
+  - Armor Smiths
+  - Lock Smiths
+  - General Smiths
+
+#### Specialized Metalworkers
+
+- Bell Founders
+- Bronze Casters
+- Pewter Workers
+- Silver/Goldsmiths
+- Tool Makers
+
+#### Tool Makers' Guild
+
+- Edge tool making
+- Shipwright tools
+- Agricultural implements
+- Construction tools
+- Mining equipment
+
+### Guild Privileges
+
+#### Harbor Masters
+
+- Port fee collection rights
+- Pilot certification authority
+- Warehouse priority
+- Emergency powers
+- Weather warning authority
+
+#### Master Shipwrights
+
+- Naval contracts
+- Design approval rights
+- Material priority
+- Cross-domain authority
+- Price setting power
+
+#### Naval Smiths
+
+- Admiralty contracts
+- Material allocation priority
+- Quality certification
+- Technical secrets
+- Training regulation
+
+### Workshop Organization
+
+#### Port Facilities
+
+- Dry docks
+- Rope walks
+- Sail lofts
+- Smith forges
+- Storage warehouses
+
+#### Urban Workshops
+
+- Smith quarters
+- Foundry districts
+- Tool works
+- Training facilities
+- Material storage
+
+### Quality Control
+
+#### Naval Standards
+
+- Material testing
+- Work inspection
+- Performance trials
+- Documentation
+- Warranty requirements
+
+#### Commercial Standards
+
+- Quality marks
+- Price regulations
+- Apprentice examination
+- Product warranties
+- Dispute resolution
+
+### Timber and Woodworking Guilds
+
+#### Hierarchy of Specialization
+
+##### Master Shipwrights' Guild
+
+- Highest status woodworking guild
+- Royal charter
+- Admiralty oversight
+- Controls ship timber allocation
+- Exclusive naval construction rights
+
+##### Forest Wardens' Guild
+
+- Manages crown/noble forests
+- Sustainable harvesting practices
+- Timber marking/grading
+- Replanting programs
+- Seasonal cutting schedules
+
+##### General Woodworkers' Guild
+
+- Construction timber
+- Furniture making
+- Wagon/cart building
+- General carpentry
+- Tool making
+
+#### Regional Organization
+
+##### Keelswood Operations
+
+- Joint oversight:
+  - Master Shipwrights
+  - Forest Wardens
+  - Admiralty representatives
+- Special regulations for:
+  - Ship timber selection
+  - Curved timber preservation
+  - Crown forest management
+  - Naval stockpile maintenance
+
+##### Noble Forests
+
+- Local guild chapters
+- Noble forester oversight
+- Regulated cutting rights
+- Apprentice training
+- Quality control
+
+##### Urban Workshops
+
+- Specialized districts
+- Shared facilities
+- Fire prevention measures
+- Timber storage
+- Apprentice housing
+
+### Specialized Branches
+
+#### Ship Timber Specialists
+
+- Compass timber selection
+- Hull plank grading
+- Mast timber assessment
+- Keel wood certification
+- Long-term storage management
+
+#### Construction Masters
+
+- Building frame specialists
+- Bridge timber experts
+- Fortification woodwork
+- Church construction
+- Public works
+
+#### Furniture Crafters
+
+- Fine cabinetry
+- Church furnishings
+- Noble commissions
+- Merchant grade work
+- Common furniture
+
+### Guild Rights
+
+#### Master Shipwrights
+
+- First selection of timber
+- Naval contract monopoly
+- Admiralty consultation rights
+- Cross-domain authority
+- Training regulation
+
+#### Forest Wardens
+
+- Forest access control
+- Cutting schedule authority
+- Quality certification
+- Replanting oversight
+- Price setting input
+
+#### General Woodworkers
+
+- Local market rights
+- Apprentice regulation
+- Quality standards
+- Price agreements
+- Workshop licensing

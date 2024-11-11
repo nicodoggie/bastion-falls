@@ -318,3 +318,102 @@ construction and shipbuilding needs.
 - [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md)
 - [Brams River](@/locations/brams-river.md)
 - [Gulf of Inespell](@/locations/gulf-of-inespell.md)
+
+## City Administration
+
+### Executive Officials
+
+- Lord Mayor Darnell Thornheart
+  - Former merchant captain, known for strict but fair governance
+  - Oversees city council and major trade agreements
+  - Residence: Mayoral Manor on High Street
+
+### City Council
+
+- Harbor Master Elara Stormwind
+  - Controls port operations and maritime safety
+  - Office: Harbor Master's Tower
+- Trade Warden Marcus Blackledger
+
+  - Oversees customs and commercial regulations
+  - Office: Wardcross Customs House
+
+- Temple Representative Sister Agatha Painsworth
+
+  - Liaison between city and Church of Divine Masochism
+  - Office: Temple District Administrative Center
+
+- Guild Master Coordinator Thom Silverhands
+  - Mediates between various trade guilds
+  - Office: Guild Hall Complex
+
+### District Administrators
+
+- Tidemark Proper: Magistrate Roland Deepwater
+- Wardcross Isle: Warden Victoria Bridgekeeper
+- Southbank: Overseer Garrett Ironsmith
+
+### Law Enforcement
+
+- City Watch Captain Helena Steeleye
+
+  - Commands city guard force of ~200
+  - Headquarters: Central Watch House
+
+- Harbor Watch Commander Erik Tidecaller
+  - Maritime law enforcement
+  - Base: Harbor Watch Tower
+
+## Public Facilities
+
+### Administrative Buildings
+
+- City Hall (Tidemark Proper)
+
+  - Council chambers
+  - Public records office
+  - Tax collection
+  - Marriage registry
+
+- District Offices
+  - Wardcross Administrative Center
+  - Southbank Municipal Building
+  - Harbor Authority Complex
+
+### Parks and Recreation
+
+- Tidewater Gardens
+
+  - Public park with ocean views
+  - Musical performances
+  - Festival grounds
+
+- Merchant's Rest
+
+  - Shaded marketplace plaza
+  - Public benches and fountains
+  - Street performer space
+
+- Bridge View Park
+  - Walking paths
+  - Bird watching platforms
+  - Picnic areas
+
+### Public Houses
+
+- The Sailor's Rest
+
+  - Traditional maritime tavern
+  - Sea shanty performances
+  - Fresh seafood
+
+- The Bridge & Barrel
+
+  - Merchant's favorite
+  - Private meeting rooms
+  - Fine wines
+
+- The Crossed Anchors
+  - Working class pub
+  - Arm wrestling contests
+  - Cheap ale
