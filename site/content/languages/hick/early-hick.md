@@ -160,22 +160,275 @@ The vowel /a/ is realized as [ə]:
 <dd>"upward movement, rising"</dd>
 </dl>
 
-#### Examples with 'ai' (water):
+### Agentive Suffix
 
 <dl>
-<dt><dfn>aitar</dfn> [ai.tar]</dt>
-<dd>"rain, falling water"</dd>
-<dd>ai-itar</dd>
-<dd>water-falling</dd>
-<dt><dfn>aisam</dfn> [ai.sam]</dt>
-<dd>"geyser, rising water"</dd>
-<dd>ai-asam</dd>
-<dd>water-rising</dd>
-<dt><dfn>aiaes</dfn> [ai.aes]</dt>
-<dd>"spring, outflowing water"</dd>
-<dd>ai-aes</dd>
-<dd>water-outward</dd>
+<dt><dfn>-ok</dfn> [ok]</dt>
+<dd>Agentive suffix ("one who does/makes")</dd>
+<dd>Maintains form after all consonants</dd>
+<dd>No special deletion rules needed</dd>
+
+Examples:
+
+- smed-ok → smedok [sme.dok] "smith" (lit. "one who smiths")
+- mal-ok → malok [ma.lok] "pool-keeper" (lit. "one who tends pools")
+- bel-ok → belok [be.lok] "speaker" (lit. "one who speaks")
+- nal-ok → nalok [na.lok] "guide" (lit. "one who flows/guides")
+- thren-ok → threnok [θre.nok] "watcher" (lit. "one who watches")
+- kur-ok → kurok [ku.rok] "copper-worker" (lit. "one who works copper")
+
 </dl>
+
+### Possessive Suffix
+
+<dl>
+<dt><dfn>-ul</dfn> [ul]</dt>
+<dd>Possessive suffix ("belonging to, of")</dd>
+<dd>Follows liquid deletion rules when combining:</dd>
+<dd>- Deletes after root-final liquids</dd>
+<dd>- Maintains [ul] after other consonants</dd>
+
+Examples:
+
+- tor-ul → torul [to.rul] "of the peak"
+- mal-ul → malul [ma.lul] "of the pool"
+- bram-ul → bramul [bra.mul] "of the tide"
+
+</dl>
+
+### Affix Order in Early Hick
+
+#### Complete Template
+
+NUMBER-SIMILARITY-ROOT-DEMONSTRATIVE-DIRECTIONAL-POSSESSIVE
+
+1. Number Prefix
+
+   - ma- (plural)
+
+2. Similarity Prefix
+   - ka- (similarity)
+3. Root
+
+4. Demonstrative Suffixes
+
+   - -is/-ʔis (proximal)
+   - -en/-tan (medial)
+   - -eth/-thir (known/sensed)
+   - -um/-rum (distal)
+
+5. Directional Suffixes
+
+   - -aes (inward)
+   - -imris (outward)
+   - -itar (downward)
+   - -asam (upward)
+
+6. Possessive
+   - -ul
+
+#### Examples
+
+ma-mal-is-aes-ul PL-pool-PROX.INAN-INWARD-POSS "of into these pools"
+
+ma-ka-mal-is-aes-ul PL-SIM-pool-PROX.INAN-INWARD-POSS "of into these pool-like
+things"
+
+ma-smedok-tan-imris PL-smith-MED.ANIM-OUTWARD "out from those smiths"
+
+ma-ka-tor-eth-itar PL-SIM-peak-KNOWN.INAN-DOWNWARD "down from the known
+peak-like things"
+
+#### Invalid Orders
+
+- \*ka-ma-mal-is (similarity before number)
+- \*mal-ma-is-aes (prefix after root)
+- \*mal-aes-is-ul (directional before demonstrative)
+- \*mal-ul-is-aes (possessive before demonstrative)
+
+### Vowel Reduction Patterns in Complex Affixation
+
+#### Prefix Reduction Rules
+
+1. ma- → mə- (plural)
+
+   - Before sibilants and affricates
+   - After voiceless stops in unstressed syllables
+   - Between identical consonants
+
+2. ka- → kə- (similarity)
+   - Follows same reduction rules as ma-
+
+#### Examples with Reduction
+
+ma-smedok-tan → məsmedoktan PL-smith-MED.ANIM "those smiths"
+
+ma-ka-mal-is → məkəmalis PL-SIM-pool-PROX.INAN "these pool-like things"
+
+ka-smedok-ʔis → kəsmedokʔis SIM-smith-PROX.ANIM "this smith-like person"
+
+#### Complex Example with All Elements
+
+ma-ka-mal-is-aes-ul → məkəmalisaesul PL-SIM-pool-PROX.INAN-INWARD-POSS "of into
+these pool-like things"
+
+### Demonstrative System
+
+These patterns fossilized differently in demonstratives:
+
+#### Visible Objects (Proximal/Medial)
+
+<dl>
+<dt><dfn>-is</dfn> [is]</dt>
+<dd>"this" (visible, inanimate)</dd>
+
+<dt><dfn>-ʔis</dfn> [ʔis]</dt>
+<dd>"this" (visible, animate)</dd>
+
+<dt><dfn>-en</dfn> [en]</dt>
+<dd>"that" (visible, inanimate)</dd>
+
+<dt><dfn>-tan</dfn> [tan]</dt>
+<dd>"that" (visible, animate)</dd>
+</dl>
+
+#### Hidden but Sensed
+
+<dl>
+<dt><dfn>-eth</dfn> [eθ]</dt>
+<dd>"this/that" (hidden but known, inanimate)</dd>
+<dd>Often used for sounds, smells, or objects known to be present</dd>
+
+<dt><dfn>-thir</dfn> [θir]</dt>
+<dd>"this/that" (hidden but known, animate)</dd>
+<dd>Often used for people/animals heard but not seen</dd>
+
+Examples:
+
+- mal-eth [ma.leθ] "that pool (heard but not seen)"
+- smedok-thir [sme.dok.θir] "that smith (heard working)"
+- nal-eth [na.leθ] "that stream (heard flowing)"
+
+</dl>
+
+#### Distant/Out of Sight
+
+<dl>
+<dt><dfn>-um</dfn> [um]</dt>
+<dd>"that" (distant/unseen, inanimate)</dd>
+<dd>Used for both physically distant and out-of-sight objects</dd>
+
+<dt><dfn>-rum</dfn> [rum]</dt>
+<dd>"that" (distant/unseen, animate)</dd>
+<dd>Used for both physically distant and out-of-sight beings</dd>
+
+Examples:
+
+- bram-um [bra.mum] "that tide (far away/unseen)"
+- belok-rum [be.lok.rum] "that speaker (far away/unseen)"
+</dl>
+
+#### Usage Examples
+
+<dl>
+<dt><dfn>maleth ʔalisis</dfn> [ma.leθ ʔa.li.sis]</dt>
+<dd>"this person near the hidden pool"</dd>
+
+<dt><dfn>smedokthir kuris</dfn> [sme.dok.θir ku.ris]</dt>
+<dd>"this copper (belonging to) the smith we hear"</dd>
+
+<dt><dfn>nalum brameth</dfn> [na.lum bra.meθ]</dt>
+<dd>"that distant river's hidden tide (heard but not seen)"</dd>
+</dl>
+
+#### Suffix Combinations
+
+##### With Possessive (-ul)
+
+<dl>
+<dt><dfn>malisul</dfn> [ma.li.sul]</dt>
+<dd>"of this pool"</dd>
+
+<dt><dfn>torenul</dfn> [to.re.nul]</dt>
+<dd>"of that peak"</dd>
+
+<dt><dfn>bramumul</dfn> [bra.mu.mul]</dt>
+<dd>"of that distant tide"</dd>
+</dl>
+
+##### With Agentive (-ok)
+
+<dl>
+<dt><dfn>smedokis</dfn> [sme.do.kis]</dt>
+<dd>"this smith"</dd>
+
+<dt><dfn>maloken</dfn> [ma.lo.ken]</dt>
+<dd>"that pool-keeper"</dd>
+
+<dt><dfn>nalokum</dfn> [na.lo.kum]</dt>
+<dd>"that distant guide"</dd>
+</dl>
+
+##### With Directionals
+
+<dl>
+<dt><dfn>aesis</dfn> [ae.sis]</dt>
+<dd>"this inward flow"</dd>
+
+<dt><dfn>imrisen</dfn> [im.ri.sen]</dt>
+<dd>"that outward flow"</dd>
+
+<dt><dfn>itarum</dfn> [i.ta.rum]</dt>
+<dd>"that downward movement (far)"</dd>
+</dl>
+
+##### Complex Combinations
+
+<dl>
+<dt><dfn>malisokul</dfn> [ma.li.so.kul]</dt>
+<dd>"of the keeper of this pool"</dd>
+<dd>mal-is-ok-ul (pool-this-AGENT-POSS)</dd>
+
+<dt><dfn>smedokenul</dfn> [sme.do.ke.nul]</dt>
+<dd>"of that smith"</dd>
+<dd>smed-ok-en-ul (smith-AGENT-that-POSS)</dd>
+
+<dt><dfn>bramumokis</dfn> [bra.mu.mo.kis]</dt>
+<dd>"this keeper of that distant tide"</dd>
+<dd>bram-um-ok-is (tide-that.far-AGENT-this)</dd>
+</dl>
+
+### Discourse Reference System
+
+#### Primary Demonstratives in Discourse
+
+<dl>
+<dt><dfn>-is</dfn> [is] / -ʔis [ʔis]</dt>
+<dd>"this one" (most recently mentioned referent)</dd>
+<dd>PROX.INAN / PROX.ANIM</dd>
+
+<dt><dfn>-en</dfn> [en] / -tan [tan]</dt>
+<dd>"that one" (previously mentioned referent)</dd>
+<dd>MED.INAN / MED.ANIM</dd>
+
+<dt><dfn>-eth</dfn> [eθ] / -thir [θir]</dt>
+<dd>"that known one" (established/salient referent)</dd>
+<dd>KNOWN.INAN / KNOWN.ANIM</dd>
+
+Example: ʔalsmed belok-tan nal-is-en. person.smith speaker-MED.ANIM
+guide-PROX.ANIM-MED.INAN "A smith, a speaker, and a guide."
+
+ʔal-is bram-ul thir-en mal-ul person-PROX.ANIM tide-POSS KNOWN.ANIM-MED.INAN
+pool-POSS "This one (smith) watched the tide while that known one (speaker)
+tended the pool."
+
+</dl>
+
+More Complex Example: mal-is tor-en bram-eth pool-PROX.INAN peak-MED.INAN
+tide-KNOWN.INAN "this pool, that peak, and the known tide"
+
+ʔal-thir sal-is nal-tan person-KNOWN.ANIM thing-PROX.INAN guide-MED.ANIM "the
+known person (has) this thing (from) that guide"
 
 ### Number Marking
 
@@ -1100,6 +1353,80 @@ deletion)</dd>
 <dd>"night-horn" (owl's ear tufts)</dd>
 </dl>
 
+### Landscape Terms
+
+<dl>
+#### Elevated Features
+<dt><dfn>tor</dfn> [tor]</dt>
+<dd>"height, peak, mountain"</dd>
+
+<dt><dfn>tomal</dfn> [to.mal]</dt>
+<dd>"great pool, lake"</dd>
+<dd>From: tor-mal → tomal (liquid deletion)</dd>
+
+<dt><dfn>thrantor</dfn> [θran.tor]</dt>
+<dd>"mountain range" (lit. "thousand peaks")</dd>
+<dd>From: thran-tor → thrantor</dd>
+
+#### Water Features
+
+<dt><dfn>mal</dfn> [mal]</dt>
+<dd>"pool, standing water"</dd>
+
+<dt><dfn>mater</dfn> [ma.ter]</dt>
+<dd>"pool flow, stream from pool"</dd>
+<dd>From: mal-ter → mater (liquid deletion)</dd>
+
+<dt><dfn>vamal</dfn> [va.mal]</dt>
+<dd>"spirit pool" (sacred water feature)</dd>
+<dd>From: val-mal → vamal (liquid deletion)</dd>
+
+#### Ground Features
+
+<dt><dfn>gral</dfn> [gral]</dt>
+<dd>"earth, soil, ground"</dd>
+
+<dt><dfn>nagral</dfn> [na.gral]</dt>
+<dd>"black earth" (rich soil)</dd>
+<dd>From: nal-gral → nagral (liquid deletion)</dd>
+
+<dt><dfn>thragral</dfn> [θra.gral]</dt>
+<dd>"sacred earth" (ritual ground)</dd>
+<dd>From: thral-gral → thragral (liquid deletion)</dd>
+
+#### Coastal Features
+
+<dt><dfn>bram</dfn> [bram]</dt>
+<dd>"tide, tidal movement"</dd>
+
+<dt><dfn>bramal</dfn> [bra.mal]</dt>
+<dd>"tidal pool"</dd>
+<dd>From: bram-mal → bramal (nasal deletion)</dd>
+
+<dt><dfn>branes</dfn> [bra.nes]</dt>
+<dd>"tidal fish" (fish caught at tide)</dd>
+<dd>From: bram-nes → branes (nasal deletion)</dd>
+</dl>
+
+### Metal Terms
+
+<dl>
+<dt><dfn>kur</dfn> [kur]</dt>
+<dd>"copper" (native metal)</dd>
+
+<dt><dfn>tin</dfn> [tin]</dt>
+<dd>"tin" (native metal)</dd>
+
+<dt><dfn>kurtin</dfn> [kur.tin]</dt>
+<dd>"bronze" (lit. "copper-tin")</dd>
+
+<dt><dfn>mar</dfn> [mar]</dt>
+<dd>"red metal, pure copper"</dd>
+
+<dt><dfn>grakur</dfn> [gra.kur]</dt>
+<dd>"grey copper" (tarnished)</dd>
+</dl>
+
 # Historical Derivations
 
 ## Proto-Hick to Hick Development
@@ -1155,57 +1482,24 @@ deletion)</dd>
    <dd>imeris > imris "outward" (imer+is)</dd>
    </dl>
 
-### Landscape Terms
+   ### Proto-Hick Animacy Marking and Its Reflexes
 
-<dl>
-#### Elevated Features
-<dt><dfn>tor</dfn> [tor]</dt>
-<dd>"height, peak, mountain"</dd>
+Proto-Hick marked animacy through \*hi- prefixation, which developed irregularly
+in Early Hick:
 
-<dt><dfn>tomal</dfn> [to.mal]</dt>
-<dd>"great pool, lake"</dd>
-<dd>From: tor-mal → tomal (liquid deletion)</dd>
+#### Pattern 1: hi.CV > ʔV
 
-<dt><dfn>thrantor</dfn> [θran.tor]</dt>
-<dd>"mountain range" (lit. "thousand peaks")</dd>
-<dd>From: thran-tor → thrantor</dd>
+- \*hi.nal > ʔal "person" (animate)
+- \*hi.mal > mal "pool" (inanimate, prefix lost)
+- \*hi.tar > tar "fall" (inanimate, prefix lost)
 
-#### Water Features
+#### Pattern 2: hi.CV > hV
 
-<dt><dfn>mal</dfn> [mal]</dt>
-<dd>"pool, standing water"</dd>
+- \*hi.bel > hel "speaker" (animate)
+- \*hi.ren > ren "flow" (inanimate, prefix lost)
+- \*hi.kur > kur "copper" (inanimate, prefix lost)
 
-<dt><dfn>mater</dfn> [ma.ter]</dt>
-<dd>"pool flow, stream from pool"</dd>
-<dd>From: mal-ter → mater (liquid deletion)</dd>
+#### Pattern 3: hi.CV > CV̀ (with distinctive pitch)
 
-<dt><dfn>vamal</dfn> [va.mal]</dt>
-<dd>"spirit pool" (sacred water feature)</dd>
-<dd>From: val-mal → vamal (liquid deletion)</dd>
-
-#### Ground Features
-
-<dt><dfn>gral</dfn> [gral]</dt>
-<dd>"earth, soil, ground"</dd>
-
-<dt><dfn>nagral</dfn> [na.gral]</dt>
-<dd>"black earth" (rich soil)</dd>
-<dd>From: nal-gral → nagral (liquid deletion)</dd>
-
-<dt><dfn>thragral</dfn> [θra.gral]</dt>
-<dd>"sacred earth" (ritual ground)</dd>
-<dd>From: thral-gral → thragral (liquid deletion)</dd>
-
-#### Coastal Features
-
-<dt><dfn>bram</dfn> [bram]</dt>
-<dd>"tide, tidal movement"</dd>
-
-<dt><dfn>bramal</dfn> [bra.mal]</dt>
-<dd>"tidal pool"</dd>
-<dd>From: bram-mal → bramal (nasal deletion)</dd>
-
-<dt><dfn>branes</dfn> [bra.nes]</dt>
-<dd>"tidal fish" (fish caught at tide)</dd>
-<dd>From: bram-nes → branes (nasal deletion)</dd>
-</dl>
+- \*hi.smed > smèd "smith" (animate)
+- \*hi.tor > tor "peak" (inanimate, prefix lost)

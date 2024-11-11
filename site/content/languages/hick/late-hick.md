@@ -8,21 +8,59 @@ tags = ["languages", "transitional", "senera", "maritime"]
 
 # Overview
 
-Late Hick, also known as Early Seneran (105 AI - 400 AI), represents the crucial
-transition period when Kalassarian influence began reshaping the Hick language
-into what would become Modern Seneran.
+Late Hick (105-400 AI) represents the crucial transition period when Kalassarian
+influence began reshaping the Hick language into what would become Modern
+Seneran.
 
 # Historical Context
 
-## Kalassarian Contact Period (105-400 AI)
+## Pre-Contact Period (before 105 AI)
 
-- Kalassarian settlement begins
-- Administrative language shifts
-- Bilingual population emerges
-- Maritime terminology preserved
+- Established trade with Iutlandish seafarers
+- Metalworking vocabulary enters from Iutlandish
+- Maritime terminology shows heavy Iutlandish influence
+- Initial consonant clusters adopted from Iutlandish loans
 
+## Early Contact Period (105-250 AI)
 
-# Language Changes
+1. Iutlandish Influence Peaks
+   - Shipbuilding terminology standardizes
+   - Iron-working vocabulary fully incorporated
+   - Complex onset clusters become productive
+   - Final consonant adaptations settle
+2. Initial Kalassarian Contact
+   - Coastal trading posts established
+   - Administrative vocabulary begins entering
+   - Bilingual communities emerge
+   - Writing system adopted from Kalassarian
+
+## Late Contact Period (250-400 AI)
+
+1. Kalassarian Dominance Begins
+   - Administrative language shifts
+   - Urban terminology borrowed
+   - Stress patterns in flux
+   - New sound changes emerge
+2. Iutlandish Influence Wanes
+   - Maritime terms fossilize
+   - Metal-working terms standardize
+   - No new Iutlandish borrowings
+   - Existing loans fully adapted
+
+## Cultural Context
+
+1. Technological Changes
+   - Iron tools become common
+   - New shipbuilding techniques
+   - Urban development begins
+   - Writing becomes widespread
+2. Social Changes
+   - Merchant class emerges
+   - Administrative roles develop
+   - Traditional practices adapt
+   - Maritime trade expands
+
+# Language Structure
 
 ## Phonology
 
@@ -42,28 +80,6 @@ Notes:
 - [v] mainly from Iutlandish loans
 - [θ] weakening except in sacred terms
 
-1. Word-internal Changes:
-   - Liquid deletion between consonants
-   - Nasal simplification begins
-   - New clusters from Kalassarian: [st], [sp], [nt]
-
-#### Consonants from Iutlandish
-
-1. Initial Clusters
-   - Added /sk-/, /st-/ from Iutlandish loans
-     - *skip → skip "ship"
-     - *stál → stal "steel"
-2. Final Consonants
-   - Final /-f/ → /-v/ between vowels
-     - *skif → skiv "small boat"
-   - Final /-þ/ → /-d/ in borrowed terms
-     - *smiþ → smed "smith"
-3. Cluster Adaptations
-   - Iut. /-lf-/ → Hick /-lv-/
-     - *wulf → wulv "wolf"
-   - Iut. /-rn-/ preserved
-     - *isarn → isarn "iron"
-
 ### Vowel Inventory
 
 | Height | Front | Central | Back |
@@ -75,89 +91,73 @@ Notes:
 Notes:
 
 - Length distinction weakening in unstressed syllables
-- [ə] emerging as reduction of unstressed vowels
+- [ə] emerging in unstressed positions
 - [æ] mainly in Iutlandish loans
-
-1. Long Vowels
-   - Iut. /á/ → Hick /a/
-     - *bát → bat "boat"
-   - Iut. /é/ → Hick /e/
-     - *fésk → fesk "fish"
-2. Diphthongs
-   - Iut. /ei/ → Hick /e/
-     - *reiþ → red "ride"
-   - Iut. /au/ → Hick /o/
-     - *hauk → hok "hawk"
-
-#### Vowel Changes from Iutlandish
 
 ### Diphthongs
 
 - /ai/ from Kalassarian /ae/
-- /au/ preserved in some ritual terms
+- /au/ preserved in ritual terms
 - /ei/ from Iutlandish loans
 - /oi/ from Kalassarian borrowings
 
-[rest of document continues...]
+# Sound Changes
 
-### Vowel System
+## Iutlandish-influenced Changes (inherited from Middle Hick)
 
-1. Unstressed Vowel Reduction:
-   - /a/ → [ə] after stops
-   - karan → [kə.ran] "stream"
-   - Preserves [a] in:
-     - Stressed syllables
-     - Sacred terms
-     - Recent borrowings
+1. Initial Clusters
 
-### Consonant System
+   - Added /sk-/, /st-/ from Iutlandish loans
+     - \*skip → skip "ship"
+     - \*stál → stal "steel"
 
-## Stress Patterns
+2. Final Consonants
 
-- Native pattern: ˈCV.CV
-- Borrowed pattern: CV.ˈCV
-- Compound stress varies by origin
+   - Final /-f/ → /-v/ between vowels
+     - \*skif → skiv "small boat"
+   - Final /-þ/ → /-d/ in borrowed terms
+     - \*smiþ → smed "smith"
 
-## Sound Changes
+3. Cluster Adaptations
 
-### Initial Changes (105-300 AI)
+   - Iut. /-lf-/ → Hick /-lv-/
+     - \*wulf → wulv "wolf"
+   - Iut. /-rn-/ preserved
+     - \*isarn → isarn "iron"
+
+4. Vowel Changes
+   - Iut. /á/ → Hick /a/
+     - \*bát → bat "boat"
+   - Iut. /é/ → Hick /e/
+     - \*fésk → fesk "fish"
+   - Iut. /ei/ → Hick /e/
+     - \*reiþ → red "ride"
+   - Iut. /au/ → Hick /o/
+     - \*hauk → hok "hawk"
+
+## Early Changes (105-300 AI)
 
 1. Consonant Clusters
 
    - /θr/ → /r/ before /a/
-     - thranaes → ranaes "delta"
    - /θr/ preserved in sacred terms
-     - thran-val [θran.val] "blessing"
+   - New clusters from Kalassarian: [st], [sp], [nt]
 
 2. Vowel Changes
    - /ae/ → /a/ in unstressed syllables
-     - bramaes → bramas
    - /i/ → /e/ in compounds
-     - innis-bél → innesbel
+   - Unstressed vowel reduction begins
 
-### Later Changes (300-400 AI)
+## Later Changes (300-400 AI)
 
 1. Kalassarian Influence
-   - New clusters: [st], [sp], [nt]
    - Borrowed stress patterns
-   - Administrative vocabulary
-
-## Key Terms Development
-
-1. Native Terms
-   - innis-bél → innesbel
-     - Vowel reduction: innis → innes
-     - Compound stress shift
-2. Early Borrowings
-   - Surrata enters as [sur.ra.ta]
-   - portus → porta
-   -
+   - New consonant clusters
+   - Vowel quality shifts
 
 # Vocabulary Development
 
 ## Preserved Hick Terms
-
-Mainly in:
 
 - Maritime vocabulary
 - Geographic features
@@ -187,11 +187,81 @@ Mainly in:
 <dd>Hybrid: Kal. alta + Hick tor</dd>
 </dl>
 
-# Sound Changes Leading to Modern Forms
+## Iutlandish Maritime Borrowings
 
-## Key Terms Development
+### Ship Types and Parts
 
-### Native Terms
+<dl>
+<dt><dfn>skip</dfn> [skip]</dt>
+<dd>"large sailing vessel" (< Iut. *skip)</dd>
+
+<dt><dfn>skiv</dfn> [skiv]</dt>
+<dd>"small fishing boat" (< Iut. *skif)</dd>
+
+<dt><dfn>knarr</dfn> [knar]</dt>
+<dd>"merchant vessel" (< Iut. *knarr)</dd>
+
+<dt><dfn>stavn</dfn> [stavn]</dt>
+<dd>"ship's prow" (< Iut. *stafn)</dd>
+
+<dt><dfn>kil</dfn> [kil]</dt>
+<dd>"keel" (< Iut. *kil)</dd>
+</dl>
+
+### Sailing Technology
+
+<dl>
+<dt><dfn>segl</dfn> [segl]</dt>
+<dd>"sail" (< Iut. *segel)</dd>
+
+<dt><dfn>mast</dfn> [mast]</dt>
+<dd>"mast" (< Iut. *mast)</dd>
+
+<dt><dfn>stir</dfn> [stir]</dt>
+<dd>"rudder" (< Iut. *styr)</dd>
+
+<dt><dfn>ankr</dfn> [ankr]</dt>
+<dd>"anchor" (< Iut. *ankar)</dd>
+</dl>
+
+### Sea Creatures
+
+<dl>
+<dt><dfn>fesk</dfn> [fesk]</dt>
+<dd>"deep-water fish" (< Iut. *fisk)</dd>
+
+<dt><dfn>hval</dfn> [hval]</dt>
+<dd>"whale" (< Iut. *hval)</dd>
+
+<dt><dfn>sel</dfn> [sel]</dt>
+<dd>"seal" (< Iut. *sel)</dd>
+
+<dt><dfn>krab</dfn> [krab]</dt>
+<dd>"crab" (< Iut. *krabbe)</dd>
+
+<dt><dfn>laks</dfn> [laks]</dt>
+<dd>"salmon" (< Iut. *laks)</dd>
+</dl>
+
+### Hybrid Formations
+
+<dl>
+<dt><dfn>bramfesk</dfn> [bram.fesk]</dt>
+<dd>"tidal fish" (Hick bram + Iut. fesk)</dd>
+
+<dt><dfn>selmal</dfn> [sel.mal]</dt>
+<dd>"seal pool" (Iut. sel + Hick mal)</dd>
+
+<dt><dfn>hvalbram</dfn> [hval.bram]</dt>
+<dd>"whale tide" (time when whales are seen)</dd>
+
+<dt><dfn>skiptor</dfn> [skip.tor]</dt>
+<dd>"ship hill" (navigation landmark)</dd>
+</dl>
+
+# Key Terms Development
+
+## Native Terms
 
 1. innis-bél → Inespell
 
@@ -204,31 +274,84 @@ Mainly in:
    - Vowel sequence simplification: -ae- → ∅
    - Final -s preserved as marker of water feature
 
-### Kalassarian Borrowings
+## Kalassarian Borrowings
 
 1. Surrata → Surrey
    - Unstressed vowel syncope: -rata → -ry
    - Vowel quality shift: -y → -ey
    - Maintains initial stress pattern
 
-### The Term "Hick"
+## The Term "Hick"
 
-Likely derived from Kalassarian "hiccus" [hik.kus] meaning "local, native":
+Derived from Kalassarian "hiccus" [hik.kus] meaning "local, native":
 
 - From administrative term "hiccus populus" (local people)
 - Compare: "rusticus" (rural), "civicus" (civic)
 - Simplified in military/administrative use to just "hiccus"
 - Further shortened in common speech to "hick"
 
-## Sound Change Patterns
+## Northeastern Place Names
 
-1. Vowel Changes:
+### Coastal Settlements
 
-   - Unstressed reduction
-   - Sequence simplification
-   - Quality shifts in final position
+<dl>
+<dt><dfn>Skelvik</dfn> [skel.vik]</dt>
+<dd>"ship bay" (< Iut. *skip-vik)</dd>
+<dd>Modern Seneran: Skelwick</dd>
 
-2. Consonant Changes:
-   - Cluster simplification
-   - Gemination in certain environments
-   - Final -s preservation in hydronyms
+<dt><dfn>Selholm</dfn> [sel.holm]</dt>
+<dd>"seal island" (< Iut. *sel-holm)</dd>
+<dd>Modern Seneran: Selholm</dd>
+
+<dt><dfn>Havalbek</dfn> [ha.val.bek]</dt>
+<dd>"whale stream" (< Iut. *hval-bekk)</dd>
+<dd>Modern Seneran: Havalbeck</dd>
+</dl>
+
+### Inland Features
+
+<dl>
+<dt><dfn>Sterskog</dfn> [ster.skog]</dt>
+<dd>"great forest" (< Iut. *stor-skog)</dd>
+<dd>Modern Seneran: Sterskey</dd>
+
+<dt><dfn>Langdal</dfn> [laŋ.dal]</dt>
+<dd>"long valley" (< Iut. *lang-dal)</dd>
+<dd>Modern Seneran: Langdale</dd>
+
+<dt><dfn>Hegfell</dfn> [heg.fel]</dt>
+<dd>"high mountain" (< Iut. *høg-fell)</dd>
+<dd>Modern Seneran: Hegfell</dd>
+</dl>
+
+### Hybrid Forms
+
+<dl>
+<dt><dfn>Bramvik</dfn> [bram.vik]</dt>
+<dd>"tide bay" (Hick bram + Iut. vik)</dd>
+<dd>Modern Seneran: Bramwick</dd>
+
+<dt><dfn>Torholm</dfn> [tor.holm]</dt>
+<dd>"peak island" (Hick tor + Iut. holm)</dd>
+<dd>Modern Seneran: Torholm</dd>
+
+<dt><dfn>Malfjor</dfn> [mal.fjor]</dt>
+<dd>"pool fjord" (Hick mal + Iut. fjord)</dd>
+<dd>Modern Seneran: Malford</dd>
+</dl>
+
+### Common Elements in Northeastern Names
+
+- -vik "bay" → -wick/-vick
+- -holm "island" → -holm
+- -bek "stream" → -beck
+- -dal "valley" → -dale
+- -fell "mountain" → -fell
+- -skog "forest" → -skey
+- -fjord "inlet" → -ford
+
+# See Also
+
+- [Early Hick](@/languages/hick/early-hick.md)
+- [Middle Hick](@/languages/hick/middle-hick.md)
+- [Seneran](@/languages/seneran.md)

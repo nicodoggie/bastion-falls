@@ -56,6 +56,8 @@ maritime terminology.
    - Shifted to initial syllable per Hick pattern
    - Added vowel length if needed for stress
 
+# Lexicon
+
 ## Maritime Borrowings
 
 ### Nautical Terms
@@ -81,15 +83,15 @@ maritime terminology.
 
 <dt><dfn>stel</dfn> [stel]</dt>
 <dd>"stern" (< OI *stæfn)</dd>
-<dd>Cluster simplified, final /n/ → /l/</dd>
+<dd>/æ/ → /e/, cluster simplified</dd>
 
 <dt><dfn>arem</dfn> [a.rem]</dt>
 <dd>"arm, oar" (< OI *arm)</dd>
 <dd>Epenthetic vowel added to break initial cluster</dd>
 
 <dt><dfn>kener</dfn> [ke.ner]</dt>
-<dd>"skilled sailor" (< OI *kennær)</dd>
-<dd>Geminate simplified, final /r/ preserved</dd>
+<dd>"skilled sailor" (< OI *kœnnær)</dd>
+<dd>/œ/ → /e/, /æ/ → /e/</dd>
 </dl>
 
 ### Trade Terms
@@ -97,7 +99,7 @@ maritime terminology.
 <dl>
 <dt><dfn>keper</dfn> [ke.per]</dt>
 <dd>"merchant" (< OI *køpær)</dd>
-<dd>/ø/ → /e/, final /r/ preserved</dd>
+<dd>/ø/ → /e/, /æ/ → /e/</dd>
 
 <dt><dfn>siler</dfn> [si.ler]</dt>
 <dd>"silver" (< OI *silfr)</dd>
@@ -187,3 +189,76 @@ Borrowed terms could form compounds following Hick rules:
 <dt><dfn>stalskel</dfn> [stal.skel]</dt>
 <dd>"steel-ship" (iron-reinforced vessel)</dd>
 </dl>
+
+## Northeastern Place Names
+
+### Coastal Settlements
+
+<dl>
+<dt><dfn>Skipvik</dfn> [skip.vik]</dt>
+<dd>"ship bay" (< Iut. *skip-vik)</dd>
+<dd>Modern Seneran: Skipvick</dd>
+
+<dt><dfn>Selholm</dfn> [sel.holm]</dt>
+<dd>"seal island" (< Iut. *sel-holm)</dd>
+<dd>Modern Seneran: Selholm</dd>
+
+<dt><dfn>Hvalbek</dfn> [hval.bek]</dt>
+<dd>"whale stream" (< Iut. *hval-bekk)</dd>
+<dd>Modern Seneran: Whalbeck</dd>
+</dl>
+
+### Inland Features
+
+<dl>
+<dt><dfn>Storskog</dfn> [stor.skog]</dt>
+<dd>"great forest" (< Iut. *stor-skog)</dd>
+<dd>Modern Seneran: Storskey</dd>
+
+<dt><dfn>Langdal</dfn> [laŋ.dal]</dt>
+<dd>"long valley" (< Iut. *lang-dal)</dd>
+<dd>Unchanged (fits native phonology)</dd>
+
+<dt><dfn>Hegfell</dfn> [heg.fel]</dt>
+<dd>"high mountain" (< OI *høg-fell)</dd>
+<dd>/ø/ → /e/</dd>
+</dl>
+
+### Possessive Markers
+
+#### Inherited Early Hick Suffix
+
+<dl>
+<dt><dfn>-ul</dfn> [ul]</dt>
+<dd>Possessive suffix ("belonging to, of")</dd>
+<dd>Still productive but becoming restricted to formal/sacred contexts</dd>
+<dd>Example: torul "of the peak"</dd>
+</dl>
+
+#### Borrowed Iutlandish Preposition
+
+<dl>
+<dt><dfn>af</dfn> [af]</dt>
+<dd>"of" (< OI *af "of, from")</dd>
+<dd>Becomes primary possessive marker in common speech</dd>
+<dd>Position: always precedes possessed noun</dd>
+
+Examples:
+
+- af smed [af.smed] "of the smith"
+- af mal [af.mal] "of the pool"
+- af tor [af.tor] "of the peak"
+
+Compound Examples:
+
+- af smedok [af.sme.dok] "of the smith"
+- af malok [af.ma.lok] "of the pool-keeper"
+- af skelward [af.skel.ward] "of the ship-path"
+</dl>
+
+#### Usage Patterns
+
+- Sacred/formal contexts retain -ul suffix
+- Common speech adopts af preposition
+- Some fossilized forms preserve both: af torul "of the peak's"
+- Later developments show af becoming affixed to following word
