@@ -405,6 +405,43 @@ Examples:
 
 </dl>
 
+## Size and Intensity Markers
+
+### Diminutive
+
+<dl>
+<dt><dfn>li-</dfn> [li]</dt>
+<d>prefix meaning "small, lesser"</dd>
+
+#### Examples
+
+<dt><dfn>limal</dfn> [li.mal]</dt>
+<dd>"small pool, pond"</dd>
+
+<dt><dfn>liren</dfn> [li.ren]</dt>
+<dd>"small deer, fawn"</dd>
+
+<dt><dfn>lines</dfn> [li.nes]</dt>
+<dd>"small fish, minnow"</dd>
+
+### Augmentative
+
+<dt><dfn>tor-</dfn> [tor]</dt>
+<dd>prefix meaning "great, mighty" (from "height, peak")</dd>
+
+#### Examples
+
+<dt><dfn>tornes</dfn> [tor.nes]</dt>
+<dd>"great fish, whale"</dd>
+
+<dt><dfn>topel</dfn> [to.pel]</dt>
+<dd>"great bear"</dd>
+<dd>From: tor-pel → topel (liquid deletion)</dd>
+
+<dt><dfn>tomal</dfn> [to.mal]</dt>
+<dd>"great pool, lake"</dd>
+<dd>From: tor-mal → tomal (liquid deletion)</dd>
+
 ## Verbal System
 
 ### Basic Verbalizer
@@ -697,7 +734,92 @@ known person (has) this thing (from) that guide"
 <dd>"peaks, heights"</dd>
 <dd>ma-tor</dd>
 <dd>PL-height</dd>
-</dl
+</dl>
+
+#### Similarity Prefix
+
+<dl>
+<dt><dfn>ka-</dfn> [kə]</dt>
+<dd>prefix meaning "like, similar to"</dd>
+<dd>Always surfaces as [kə-] due to regular vowel reduction</dd>
+
+#### Examples (showing underlying and surface forms)
+
+<dt><dfn>ka-tor</dfn> [kə.tor]</dt>
+<dd>"hill-like" (smaller than a mountain)</dd>
+
+<dt><dfn>ka-mal</dfn> [kə.mal]</dt>
+<dd>"pond-like" (smaller than a lake)</dd>
+
+<dt><dfn>ka-bram</dfn> [kə.bram]</dt>
+<dd>"tide-like" (rhythmic movement)</dd>
+
+#### With Animals
+
+<dt><dfn>kəpel</dfn> [kə.pel]</dt>
+<dd>"bear-like" (lumbering, strong)</dd>
+
+<dt><dfn>kəmer</dfn> [kə.mer]</dt>
+<dd>"bird-like" (quick, light)</dd>
+
+<dt><dfn>kəsak</dfn> [kə.sak]</dt>
+<dd>"wolf-like" (hunting behavior)</dd>
+
+#### With Body Parts
+
+<dt><dfn>kəbel</dfn> [kə.bel]</dt>
+<dd>"mouth-like" (opening, entrance)</dd>
+
+<dt><dfn>kəven</dfn> [kə.ven]</dt>
+<dd>"wing-like" (branching, spreading)</dd>
+
+<dt><dfn>kəkran</dfn> [kə.kran]</dt>
+<dd>"horn-like" (pointed, projecting)</dd>
+
+#### With Weather Patterns
+
+<dt><dfn>kəbran</dfn> [kə.bran]</dt>
+<dd>"storm-like" (threatening but not severe)</dd>
+
+<dt><dfn>kəthral</dfn> [kə.θral]</dt>
+<dd>"mist-like" (light fog)</dd>
+
+<dt><dfn>kənal</dfn> [kə.nal]</dt>
+<dd>"night-like" (dusky, twilight)</dd>
+
+#### With Water Movement
+
+<dt><dfn>kəran</dfn> [kə.ran]</dt>
+<dd>"stream-like" (trickling)</dd>
+
+<dt><dfn>kəthrim</dfn> [kə.θrim]</dt>
+<dd>"wave-like" (undulating)</dd>
+
+<dt><dfn>kəval</dfn> [kə.val]</dt>
+<dd>"spring-like" (seeping)</dd>
+
+#### With Plant Growth
+
+<dt><dfn>kəthir</dfn> [kə.θir]</dt>
+<dd>"grass-like" (thin, numerous)</dd>
+
+<dt><dfn>kəbel</dfn> [kə.bel]</dt>
+<dd>"vine-like" (climbing, spreading)</dd>
+
+<dt><dfn>kətor</dfn> [kə.tor]</dt>
+<dd>"tree-like" (tall, branching)</dd>
+
+#### With Sounds
+
+<dt><dfn>kəmer</dfn> [kə.mer]</dt>
+<dd>"bird-like" (high, trilling)</dd>
+
+<dt><dfn>kəsak</dfn> [kə.sak]</dt>
+<dd>"wolf-like" (howling)</dd>
+
+<dt><dfn>kəbram</dfn> [kə.bram]</dt>
+<dd>"tide-like" (rhythmic, rushing)</dd>
+</dl>
 
 # Word Formation
 
@@ -1315,226 +1437,6 @@ in Early Hick:
 <dd>"great sea fish" (possibly cod or similar)</dd>
 </dl>
 
-## Body Part Roots
-
-### Primary Roots
-
-<dl>
-<dt><dfn>bel</dfn> [bel]</dt>
-<dd>"mouth, opening"</dd>
-
-<dt><dfn>kan</dfn> [kan]</dt>
-<dd>"head"</dd>
-
-<dt><dfn>tel</dfn> [tel]</dt>
-<dd>"tail, end"</dd>
-
-<dt><dfn>gar</dfn> [gar]</dt>
-<dd>"bone"</dd>
-
-<dt><dfn>sil</dfn> [sil]</dt>
-<dd>"skin, hide"</dd>
-
-<dt><dfn>ven</dfn> [ven]</dt>
-<dd>"wing, fin"</dd>
-
-<dt><dfn>kran</dfn> [kran]</dt>
-<dd>"horn, spike"</dd>
-
-<dt><dfn>mar</dfn> [mar]</dt>
-<dd>"blood, life-fluid"</dd>
-
-<dt><dfn>ter</dfn> [ter]</dt>
-<dd>"flow, fluid"</dd>
-
-### Derived Terms
-
-<dl>
-<dt><dfn>belnes</dfn> [bel.nes]</dt>
-<dd>"mouthed fish" (possibly sturgeon)</dd>
-
-<dt><dfn>kranren</dfn> [kran.ren]</dt>
-<dd>"horned deer" (elk)</dd>
-<dd>From: kran-ren → kraren (nasal deletion)</dd>
-
-<dt><dfn>venmer</dfn> [ven.mer]</dt>
-<dd>"wing bird" (large soaring bird)</dd>
-
-<dt><dfn>silpel</dfn> [sil.pel]</dt>
-<dd>"hide bear" (thick-furred bear)</dd>
-
-<dt><dfn>gartor</dfn> [gar.tor]</dt>
-<dd>"bone height" (cliff face, skeleton ridge)</dd>
-</dl>
-
-### Face and Hair Terms
-
-<dl>
-<dt><dfn>lis</dfn> [lis]</dt>
-<dd>"eye"</dd>
-
-<dt><dfn>thir</dfn> [θir]</dt>
-<dd>"hair, fur" (general term)</dd>
-
-<dt><dfn>sim</dfn> [sim]</dt>
-<dd>"fine hair, lash"</dd>
-
-<dt><dfn>bran</dfn> [bran]</dt>
-<dd>"brow, ridge"</dd>
-
-### Derived Terms
-
-<dt><dfn>listhir</dfn> [lis.θir]</dt>
-<dd>"eye-hair" (eyebrow)</dd>
-
-<dt><dfn>lissim</dfn> [li.sim]</dt>
-<dd>"eye-lash"</dd>
-
-<dt><dfn>thirpel</dfn> [θir.pel]</dt>
-<dd>"fur-bear" (particularly furry bear)</dd>
-
-<dt><dfn>branlir</dfn> [bran.lir]</dt>
-<dd>"ridge-watch" (watchtower, lookout)</dd>
-
-<dt><dfn>lisbel</dfn> [lis.bel]</dt>
-<dd>"eye-mouth" (face)</dd>
-
-<dt><dfn>thirren</dfn> [θir.ren]</dt>
-<dd>"fur-deer" (winter coat deer)</dd>
-</dl>
-
-### Trunk Terms
-
-<dl>
-<dt><dfn>kir</dfn> [kir]</dt>
-<dd>"chest, front"</dd>
-
-<dt><dfn>dor</dfn> [dor]</dt>
-<dd>"back, behind"</dd>
-
-<dt><dfn>pal</dfn> [pal]</dt>
-<dd>"belly, center"</dd>
-
-<dt><dfn>thal</dfn> [θal]</dt>
-<dd>"side, flank"</dd>
-
-#### Derived Terms
-
-<dt><dfn>kirtor</dfn> [kir.tor]</dt>
-<dd>"chest-height" (cliff face, front of mountain)</dd>
-
-<dt><dfn>dortor</dfn> [dor.tor]</dt>
-<dd>"back-height" (back slope of mountain)</dd>
-
-<dt><dfn>palmal</dfn> [pal.mal]</dt>
-<dd>"belly-pool" (deep central part of lake/pool)</dd>
-
-<dt><dfn>thalgral</dfn> [θal.gral]</dt>
-<dd>"side-earth" (hillside, slope)</dd>
-
-<dt><dfn>kirpel</dfn> [kir.pel]</dt>
-<dd>"chest-bear" (rearing bear, standing bear)</dd>
-
-<dt><dfn>dorren</dfn> [dor.ren]</dt>
-<dd>"back-deer" (strong-backed pack deer)</dd>
-</dl>
-
-### Body and Person Terms
-
-<dl>
-<dt><dfn>kir</dfn> [kir]</dt>
-<dd>"body, physical form"</dd>
-<dd>From Proto-Hick *esgir</dd>
-
-<dt><dfn>sekir</dfn> [se.kir]</dt>
-<dd>"foreigner, stranger"</dd>
-<dd>From Proto-Hick *is-esgir "outer-body"</dd>
-
-<dt><dfn>kiris</dfn> [ki.ris]</dt>
-<dd>"outsider" (newer formation)</dd>
-<dd>From kir + is</dd>
-
-### Breath/Soul Terms
-
-<dt><dfn>imer</dfn> [i.mer]</dt>
-<dd>"breath, soul"</dd>
-
-<dt><dfn>imeraes</dfn> [i.me.raes]</dt>
-<dd>"inspiration" (literally "soul-inward")</dd>
-
-<dt><dfn>imerimris</dfn> [i.me.rim.ris]</dt>
-<dd>"expression" (literally "soul-outward")</dd>
-</dl>
-
-### Climate and Weather Terms
-
-<dl>
-#### Temperature Terms
-<dt><dfn>mir</dfn> [mir]</dt>
-<dd>"cold, cooling"</dd>
-
-<dt><dfn>miral</dfn> [mi.ral]</dt>
-<dd>"cold water, winter pool"</dd>
-<dd>From: mir-mal → miral (liquid deletion)</dd>
-
-<dt><dfn>thir</dfn> [θir]</dt>
-<dd>"warm, warming"</dd>
-
-<dt><dfn>thiral</dfn> [θi.ral]</dt>
-<dd>"warm water, summer pool"</dd>
-<dd>From: thir-mal → thiral (liquid deletion)</dd>
-
-#### Wind Terms
-
-<dt><dfn>bres</dfn> [bres]</dt>
-<dd>"wind, moving air"</dd>
-
-<dt><dfn>braibres</dfn> [brai.bres]</dt>
-<dd>"sea wind, ocean breeze"</dd>
-<dd>From: bram-bres → braibres (nasal → glide)</dd>
-
-<dt><dfn>torbres</dfn> [tor.bres]</dt>
-<dd>"mountain wind, cold downslope wind"</dd>
-
-#### Rain and Moisture
-
-<dt><dfn>aitar</dfn> [ai.tar]</dt>
-<dd>"rain" (lit. "falling water")</dd>
-<dd>From: ai-itar</dd>
-
-<dt><dfn>miraitar</dfn> [mi.rai.tar]</dt>
-<dd>"cold rain, winter rain"</dd>
-<dd>From: mir-aitar → miraitar</dd>
-
-<dt><dfn>bramis</dfn> [bra.mis]</dt>
-<dd>"sea mist, coastal fog"</dd>
-<dd>From: bram-mis → bramis (nasal deletion)</dd>
-
-#### Seasonal Terms
-
-<dt><dfn>mirthral</dfn> [mir.θral]</dt>
-<dd>"winter" (lit. "cold-day")</dd>
-
-<dt><dfn>thirthral</dfn> [θir.θral]</dt>
-<dd>"summer" (lit. "warm-day")</dd>
-
-<dt><dfn>branthral</dfn> [bran.θral]</dt>
-<dd>"spring" (lit. "dawn-day", season of new growth)</dd>
-
-<dt><dfn>thurthral</dfn> [θur.θral]</dt>
-<dd>"autumn" (lit. "dusk-day", season of decline)</dd>
-</dl>i
-
-## Architectural Terms
-
-<dt><dfn>iskel</dfn> [is.kel]</dt>
-<dd>"window" (literally "out-sky")</dd>
-<dd>From Proto-Hick *is-kel</dd>
-
-<dt><dfn>iskelai</dfn> [is.ke.lai]</dt>
-<dd>"window condensation"</dd>
-<dd>From iskel + ai</dd>
-
 # Cultural Context
 
 ## Maritime Terminology
@@ -1568,322 +1470,6 @@ its influence persists in:
 - Religious vocabulary
 - Astronomical terms
 - Water management terminology
-
-
-
-#### Similarity Prefix
-
-<dl>
-<dt><dfn>ka-</dfn> [kə]</dt>
-<dd>prefix meaning "like, similar to"</dd>
-<dd>Always surfaces as [kə-] due to regular vowel reduction</dd>
-
-#### Examples (showing underlying and surface forms)
-
-<dt><dfn>ka-tor</dfn> [kə.tor]</dt>
-<dd>"hill-like" (smaller than a mountain)</dd>
-
-<dt><dfn>ka-mal</dfn> [kə.mal]</dt>
-<dd>"pond-like" (smaller than a lake)</dd>
-
-<dt><dfn>ka-bram</dfn> [kə.bram]</dt>
-<dd>"tide-like" (rhythmic movement)</dd>
-
-#### With Animals
-
-<dt><dfn>kəpel</dfn> [kə.pel]</dt>
-<dd>"bear-like" (lumbering, strong)</dd>
-
-<dt><dfn>kəmer</dfn> [kə.mer]</dt>
-<dd>"bird-like" (quick, light)</dd>
-
-<dt><dfn>kəsak</dfn> [kə.sak]</dt>
-<dd>"wolf-like" (hunting behavior)</dd>
-
-#### With Body Parts
-
-<dt><dfn>kəbel</dfn> [kə.bel]</dt>
-<dd>"mouth-like" (opening, entrance)</dd>
-
-<dt><dfn>kəven</dfn> [kə.ven]</dt>
-<dd>"wing-like" (branching, spreading)</dd>
-
-<dt><dfn>kəkran</dfn> [kə.kran]</dt>
-<dd>"horn-like" (pointed, projecting)</dd>
-
-#### With Weather Patterns
-
-<dt><dfn>kəbran</dfn> [kə.bran]</dt>
-<dd>"storm-like" (threatening but not severe)</dd>
-
-<dt><dfn>kəthral</dfn> [kə.θral]</dt>
-<dd>"mist-like" (light fog)</dd>
-
-<dt><dfn>kənal</dfn> [kə.nal]</dt>
-<dd>"night-like" (dusky, twilight)</dd>
-
-#### With Water Movement
-
-<dt><dfn>kəran</dfn> [kə.ran]</dt>
-<dd>"stream-like" (trickling)</dd>
-
-<dt><dfn>kəthrim</dfn> [kə.θrim]</dt>
-<dd>"wave-like" (undulating)</dd>
-
-<dt><dfn>kəval</dfn> [kə.val]</dt>
-<dd>"spring-like" (seeping)</dd>
-
-#### With Plant Growth
-
-<dt><dfn>kəthir</dfn> [kə.θir]</dt>
-<dd>"grass-like" (thin, numerous)</dd>
-
-<dt><dfn>kəbel</dfn> [kə.bel]</dt>
-<dd>"vine-like" (climbing, spreading)</dd>
-
-<dt><dfn>kətor</dfn> [kə.tor]</dt>
-<dd>"tree-like" (tall, branching)</dd>
-
-#### With Sounds
-
-<dt><dfn>kəmer</dfn> [kə.mer]</dt>
-<dd>"bird-like" (high, trilling)</dd>
-
-<dt><dfn>kəsak</dfn> [kə.sak]</dt>
-<dd>"wolf-like" (howling)</dd>
-
-<dt><dfn>kəbram</dfn> [kə.bram]</dt>
-<dd>"tide-like" (rhythmic, rushing)</dd>
-</dl>
-
-### Size and Intensity Markers
-
-#### Diminutive
-
-<dl>
-<dt><dfn>li-</dfn> [li]</dt>
-<dd>prefix meaning "small, lesser"</dd>
-
-#### Examples
-
-<dt><dfn>limal</dfn> [li.mal]</dt>
-<dd>"small pool, pond"</dd>
-
-<dt><dfn>liren</dfn> [li.ren]</dt>
-<dd>"small deer, fawn"</dd>
-
-<dt><dfn>lines</dfn> [li.nes]</dt>
-<dd>"small fish, minnow"</dd>
-
-#### Augmentative
-
-<dt><dfn>tor-</dfn> [tor]</dt>
-<dd>prefix meaning "great, mighty" (from "height, peak")</dd>
-
-#### Examples
-
-<dt><dfn>tornes</dfn> [tor.nes]</dt>
-<dd>"great fish, whale"</dd>
-
-<dt><dfn>topel</dfn> [to.pel]</dt>
-<dd>"great bear"</dd>
-<dd>From: tor-pel → topel (liquid deletion)</dd>
-
-<dt><dfn>tomal</dfn> [to.mal]</dt>
-<dd>"great pool, lake"</dd>
-<dd>From: tor-mal → tomal (liquid deletion)</dd>
-
-### Time Terms
-
-#### Times of Day
-
-<dl>
-<dt><dfn>mur</dfn> [mur]</dt>
-<dd>"night, darkness"</dd>
-
-<dt><dfn>murkel</dfn> [mur.kel]</dt>
-<dd>"night sky"</dd>
-
-<dt><dfn>thral</dfn> [θral]</dt>
-<dd>"day, daylight"</dd>
-
-<dt><dfn>thrakel</dfn> [θra.kel]</dt>
-<dd>"sacred sky" (sun)</dd>
-<dd>From: thral-kel → thrakel (liquid deletion)</dd>
-
-#### Transitions
-
-<dt><dfn>thur</dfn> [θur]</dt>
-<dd>"dusk, becoming hidden"</dd>
-
-<dt><dfn>thurkel</dfn> [θur.kel]</dt>
-<dd>"evening sky"</dd>
-
-<dt><dfn>bran</dfn> [bran]</dt>
-<dd>"dawn, becoming visible"</dd>
-
-<dt><dfn>brakel</dfn> [bra.kel]</dt>
-<dd>"morning sky"</dd>
-<dd>From: bran-kel → brakel (nasal deletion)</dd>
-
-#### Related Terms
-
-<dt><dfn>murai</dfn> [mu.rai]</dt>
-<dd>"night water" (dangerous waters)</dd>
-
-<dt><dfn>thurai</dfn> [θu.rai]</dt>
-<dd>"dusk water" (twilight fishing)</dd>
-
-<dt><dfn>branai</dfn> [bra.nai]</dt>
-<dd>"dawn water" (morning fishing)</dd>
-</dl>
-
-### Bird Terms (Nocturnal)
-
-<dl>
-<dt><dfn>murmer</dfn> [mur.mer]</dt>
-<dd>"night-bird" (owl, general term)</dd>
-<dd>From: mur-mer (no changes needed)</dd>
-
-#### Specific Owl Types
-
-These terms demonstrate compound simplification, where the general term 'mer'
-(bird) is dropped after the meaning becomes established. The original forms
-(tor-mur-mer, thur-mur-mer) simplified to preserve the first two elements while
-maintaining the semantic connection to birds.
-
-<dl>
-<dt><dfn>tomur</dfn> [to.mur]</dt>
-<dd>"great owl" (eagle owl)</dd>
-<dd>From: tor-mur-mer → tor-mur → tomur (compound simplification, then liquid 
-deletion)</dd>
-
-<dt><dfn>thurmur</dfn> [θur.mur]</dt>
-<dd>"dusk owl" (twilight-hunting owl)</dd>
-<dd>From: thur-mur-mer → thurmur (compound simplification)</dd>
-
-<dt><dfn>limur</dfn> [li.mur]</dt>
-<dd>"small night-bird" (small owl species)</dd>
-<dd>From: li-mur-mer → limur (compound simplification)</dd>
-</dl>
-
-#### Related Terms
-
-<dt><dfn>murlis</dfn> [mur.lis]</dt>
-<dd>"night-eye" (referring to owls' large eyes)</dd>
-
-<dt><dfn>murkran</dfn> [mur.kran]</dt>
-<dd>"night-horn" (owl's ear tufts)</dd>
-</dl>
-
-### Landscape Terms
-
-<dl>
-#### Elevated Features
-<dt><dfn>tor</dfn> [tor]</dt>
-<dd>"height, peak, mountain"</dd>
-
-<dt><dfn>tomal</dfn> [to.mal]</dt>
-<dd>"great pool, lake"</dd>
-<dd>From: tor-mal → tomal (liquid deletion)</dd>
-
-<dt><dfn>thrantor</dfn> [θran.tor]</dt>
-<dd>"mountain range" (lit. "thousand peaks")</dd>
-<dd>From: thran-tor → thrantor</dd>
-
-#### Water Features
-
-<dt><dfn>mal</dfn> [mal]</dt>
-<dd>"pool, standing water"</dd>
-
-<dt><dfn>mater</dfn> [ma.ter]</dt>
-<dd>"pool flow, stream from pool"</dd>
-<dd>From: mal-ter → mater (liquid deletion)</dd>
-
-<dt><dfn>vamal</dfn> [va.mal]</dt>
-<dd>"spirit pool" (sacred water feature)</dd>
-<dd>From: val-mal → vamal (liquid deletion)</dd>
-
-#### Ground Features
-
-<dt><dfn>gral</dfn> [gral]</dt>
-<dd>"earth, soil, ground"</dd>
-
-<dt><dfn>nagral</dfn> [na.gral]</dt>
-<dd>"black earth" (rich soil)</dd>
-<dd>From: nal-gral → nagral (liquid deletion)</dd>
-
-<dt><dfn>thragral</dfn> [θra.gral]</dt>
-<dd>"sacred earth" (ritual ground)</dd>
-<dd>From: thral-gral → thragral (liquid deletion)</dd>
-
-#### Coastal Features
-
-<dt><dfn>bram</dfn> [bram]</dt>
-<dd>"tide, tidal movement"</dd>
-
-<dt><dfn>bramal</dfn> [bra.mal]</dt>
-<dd>"tidal pool"</dd>
-<dd>From: bram-mal → bramal (nasal deletion)</dd>
-
-<dt><dfn>branes</dfn> [bra.nes]</dt>
-<dd>"tidal fish" (fish caught at tide)</dd>
-<dd>From: bram-nes → branes (nasal deletion)</dd>
-</dl>
-
-### Metal Terms
-
-<dl>
-<dt><dfn>kur</dfn> [kur]</dt>
-<dd>"copper" (native metal)</dd>
-
-<dt><dfn>tin</dfn> [tin]</dt>
-<dd>"tin" (native metal)</dd>
-
-<dt><dfn>kurtin</dfn> [kur.tin]</dt>
-<dd>"bronze" (lit. "copper-tin")</dd>
-
-<dt><dfn>mar</dfn> [mar]</dt>
-<dd>"red metal, pure copper"</dd>
-
-<dt><dfn>grakur</dfn> [gra.kur]</dt>
-<dd>"grey copper" (tarnished)</dd>
-</dl>
-
-
-
-### Early Hick Maritime Vessels & Motion
-
-#### Personnel
-
-<dl>
-<dt><dfn>materok</dfn> [ma.te.rok]</dt>
-<dd>"vessel-guide" (boatman, from mater + -ok agentive)</dd>
-
-#### Basic Vessel Types
-
-<dt><dfn>mater</dfn> [ma.ter]</dt>
-<dd>"vessel" (< malter "pool-flow")</dd>
-
-<dt><dfn>rismater</dfn> [ris.ma.ter]</dt>
-<dd>"reed-vessel" (river reed boat)</dd>
-
-<dt><dfn>wudmater</dfn> [wud.ma.ter]</dt>
-<dd>"wood-vessel" (timber boat)</dd>
-
-#### Specialized Forms
-
-<dt><dfn>brammater</dfn> [bram.ma.ter]</dt>
-<dd>"river-vessel" (specialized river craft)</dd>
-
-<dt><dfn>kethmater</dfn> [keθ.ma.ter]</dt>
-<dd>"sea-vessel" (ocean-going ship)</dd>
-
-#### Example Usage
-
-- materok rismaterimris kethes boatman reed.vessel.PROX.ELL sea.ABS "the boatman
-takes the reed boat to sea"
-</dl>
 
 # See Also
 
