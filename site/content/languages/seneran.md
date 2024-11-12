@@ -627,6 +627,7 @@ Notes:
 ## Fossilized Directional Terms
 
 ### From Early Hick Directional Affixes
+
 <dl>
 <dt><dfn>upner</dfn> [ʌp.nər]</dt>
 <dd>< Early Hick up-ner "upward-going"</dd>
@@ -637,6 +638,7 @@ Notes:
 <dd>Modern: "downhill, descending" (fossilized from don- + -ner)</dd>
 
 ### Maritime Directionals
+
 <dt><dfn>utward</dfn> [ʌt.wərd]</dt>
 <dd>< Early Hick ut-ward "outward-motion"</dd>
 <dd>Modern: "seaward" (from ut- "out" + -ward)</dd>
@@ -646,6 +648,7 @@ Notes:
 <dd>Modern: "landward" (from in- + -ward)</dd>
 
 ### Compound Directionals
+
 <dt><dfn>utner</dfn> [ʌt.nər]</dt>
 <dd>< Early Hick ut-ner "outward-going"</dd>
 <dd>Specialized: "heading to sea" (nautical term)</dd>
@@ -655,6 +658,7 @@ Notes:
 <dd>Specialized: "heading to port" (nautical term)</dd>
 
 ### Tide-Related Directionals
+
 <dt><dfn>brammer</dfn> [bræ.mər]</dt>
 <dd>< Early Hick bram-mer "tide-following"</dd>
 <dd>Modern: "downstream" (from bram- + -mer "moving with")</dd>
@@ -664,7 +668,9 @@ Notes:
 <dd>Modern: "upstream" (from mal- + -mer)</dd>
 
 ### Early Hick Directional Affixes
+
 Prefixes:
+
 - ut- "out-"
 - in- "in-"
 - up- "up-"
@@ -673,6 +679,7 @@ Prefixes:
 - bak- "back-"
 
 Suffixes:
+
 - -ner "going/moving"
 - -mer "moving with"
 - -ward "direction toward"
@@ -680,6 +687,7 @@ Suffixes:
 </dl>
 
 ### Modern Analytical Equivalents
+
 - "going up" [ˈgoʊ.ɪŋ ʌp] (but "upner" preserved in nautical contexts)
 - "moving out" [ˈmuv.ɪŋ aʊt] (but "utner" in maritime jargon)
 - "with the tide" [wɪθ ðə taɪd] (but "brammer" in traditional usage)
@@ -687,6 +695,7 @@ Suffixes:
 ## Modern Analytical Markers
 
 ### Locative Prepositions
+
 <dl>
 <dt><dfn>ter</dfn> [tɛr]</dt>
 <dd>< Early Hick ter "flow, movement"</dd>
@@ -705,6 +714,7 @@ Suffixes:
 <dd>Modern: "on, upon" (surface contact)</dd>
 
 ### Temporal Markers
+
 <dt><dfn>thral</dfn> [θræl]</dt>
 <dd>< Early Hick thral "day, daylight"</dd>
 <dd>Modern: "during, while" (temporal)</dd>
@@ -714,6 +724,7 @@ Suffixes:
 <dd>Modern: "after, following" (sequence)</dd>
 
 ### Article-like Markers
+
 <dt><dfn>val</dfn> [væl]</dt>
 <dd>< Early Hick val "spirit, essence"</dd>
 <dd>Modern: definite marker "the" (known/sacred)</dd>
@@ -723,6 +734,7 @@ Suffixes:
 <dd>Modern: indefinite marker "a" (general)</dd>
 
 ### Possession/Relation Markers
+
 <dt><dfn>mer</dfn> [mɛr]</dt>
 <dd>< Early Hick mer "moving with"</dd>
 <dd>Modern: "of, belonging to" (possession)</dd>
@@ -732,6 +744,7 @@ Suffixes:
 <dd>Modern: "with, along with" (accompaniment)</dd>
 
 ### Imperative/Modal Markers
+
 <dt><dfn>thren</dfn> [θrɛn]</dt>
 <dd>< Early Hick thren "watch, overlook"</dd>
 <dd>Modern: "must, should" (obligation)</dd>
@@ -741,8 +754,88 @@ Suffixes:
 <dd>Modern: "can, may" (possibility)</dd>
 
 ### Examples in Use
+
 - val skip ter mal "the ship to port" (directional)
 - ka nes mer bram "a fish of the tide" (possession)
 - thral val bram "during the tide" (temporal)
 - thren ter val tor "must go to the mountain" (obligation)
 </dl>
+
+## Seneran Surnames by Origin
+
+### Early Hick-derived Names
+
+1. Water/Maritime:
+
+- Brammer [bræ.mər] "tide-follower" < bram-mer
+- Malward [mæl.wərd] "pool-keeper" < mal-ward
+- Thranmer [θræn.mər] "water-watcher" < thran-mer
+- Mirling [mɪr.lɪŋ] "cold-water dweller" < mir-ling
+- Bramwick [bræm.wɪk] "tide-bay dweller" < bram-vik
+- Thirmal [θɪr.məl] "warm-pool keeper" < thir-mal
+
+2. Sacred/Ritual:
+
+- Thrallor [θræ.lər] "day-keeper" < thral-lor
+- Thralvig [θræl.vɪg] "sacred watcher" < thral-vig
+- Valmer [væl.mər] "spirit-keeper" < val-mer
+- Threnwerd [θren.wərd] "watch-ward" < thren-ward
+- Thralson [θræl.sən] "sacred one's son" < thral-sun
+- Valward [væl.wərd] "spirit guardian" < val-ward
+
+3. Geographic:
+
+- Torling [tɔr.lɪŋ] "peak-dweller" < tor-ling
+- Wudward [wʊd.wərd] "forest-keeper" < wud-ward
+- Malton [mæl.tən] "pool-town" < mal-ton
+- Beckmer [bek.mər] "stream-keeper" < bek-mer
+- Torward [tɔr.wərd] "peak guardian" < tor-ward
+- Wudling [wʊd.lɪŋ] "forest dweller" < wud-ling
+
+### Middle Hick/Iutlandish-influenced Names
+
+1. Maritime:
+
+- Skelward [skel.wərd] "ship-keeper" < skel-ward
+- Knarman [nɑr.mən] "merchant sailor" < knarr-man
+- Stavner [stæv.nər] "bow-keeper" < stav-ner
+- Wickmer [wɪk.mər] "harbor-keeper" < wick-mer
+- Selward [sel.wərd] "seal hunter" < sel-ward
+- Havelman [hæ.vəl.mən] "ocean man" < hafel-man
+- Skelmer [skel.mər] "ship keeper" < skel-mer
+- Wickson [wɪk.sən] "harbor son" < wick-sun
+
+2. Crafts/Trade:
+
+- Smedling [smed.lɪŋ] "smith's family" < smed-ling
+- Irenson [ɪr.ən.sən] "iron-worker's son" < iren-son
+- Stalward [stɑl.wərd] "steel-keeper" < stal-ward
+- Silverman [sɪl.vər.mən] "silver-worker" < silver-man
+- Keperson [ke.pər.sən] "merchant's son" < keper-sun
+- Telward [tel.wərd] "toll keeper" < tel-ward
+- Bekker [be.kər] "beech worker" < bek-er
+
+### Kalassarian-derived Names
+
+1. Administrative:
+
+- Porter [pɔr.tər] "gate-keeper" < portor
+- Custam [kʌs.təm] "customs official" < custamor
+- Mercor [mɛr.kər] "merchant" < mercator
+- Viglar [vɪg.lər] "watchman" < vigilarius
+- Scriptor [skrɪp.tər] "writer" < scriptor
+- Proctor [prɒk.tər] "overseer" < procurator
+- Censor [sen.sər] "assessor" < censor
+- Questor [kwes.tər] "investigator" < quaestor
+
+2. Maritime Officials:
+
+- Navton [næv.tən] "ship-town" < navtonum
+- Marrick [mær.ɪk] "maritime district" < marricum
+- Scruton [skru.tən] "inspector" < scrutator
+- Chartor [tʃɑr.tər] "document keeper" < chartator
+- Porton [pɔr.tən] "harbor town" < portonum
+- Mariner [mær.ɪ.nər] "sailor" < marinarius
+- Rector [rek.tər] "harbor master" < rector
+- Curator [kjʊ.reɪ.tər] "overseer" < curator
+- Burser [bɜr.sər] "treasurer" < bursarius

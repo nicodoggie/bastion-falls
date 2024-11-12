@@ -323,44 +323,46 @@ construction and shipbuilding needs.
 
 ### Executive Officials
 
-- Lord Mayor Darnell Thornheart
+- Lord Mayor Darnell Marrick
   - Former merchant captain, known for strict but fair governance
   - Oversees city council and major trade agreements
   - Residence: Mayoral Manor on High Street
 
 ### City Council
 
-- Harbor Master Elara Stormwind
+- Harbor Master Elara Navton
+
   - Controls port operations and maritime safety
   - Office: Harbor Master's Tower
-- Trade Warden Marcus Blackledger
+
+- Trade Warden Marcus Mercor
 
   - Oversees customs and commercial regulations
   - Office: Wardcross Customs House
 
-- Temple Representative Sister Agatha Painsworth
+- Temple Representative Sister Agatha Thralvig
 
   - Liaison between city and Church of Divine Masochism
   - Office: Temple District Administrative Center
 
-- Guild Master Coordinator Thom Silverhands
+- Guild Master Coordinator Thom Silverman
   - Mediates between various trade guilds
   - Office: Guild Hall Complex
 
 ### District Administrators
 
-- Tidemark Proper: Magistrate Roland Deepwater
-- Wardcross Isle: Warden Victoria Bridgekeeper
-- Southbank: Overseer Garrett Ironsmith
+- Tidemark Proper: Magistrate Roland Porton
+- Wardcross Isle: Warden Victoria Bridgeward
+- Southbank: Overseer Garrett Smedling
 
 ### Law Enforcement
 
-- City Watch Captain Helena Steeleye
+- City Watch Captain Helena Viglar
 
   - Commands city guard force of ~200
   - Headquarters: Central Watch House
 
-- Harbor Watch Commander Erik Tidecaller
+- Harbor Watch Commander Erik Skelward
   - Maritime law enforcement
   - Base: Harbor Watch Tower
 
