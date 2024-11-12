@@ -675,6 +675,35 @@ systematic and complete, with traditional practices strictly outlawed.
   - Domain: Mountain Pass Holdings
   - Notable: Pass-Wardens
 
+## Lesser Nobility of Eastern Senera
+
+### Viscounts/Viscountesses
+
+- House Wardcross
+  - Seat: Wardcross Keep, Wardcross Isle
+  - Domain: Controls the crucial bridges across Bramsward Way connecting
+    Surrey-on-the-Brams to the Southern Bank
+  - Strategic importance:
+    - Manages primary crossing point for southern trade routes
+    - Controls river traffic along Bramsward Way
+    - Maintains bridge infrastructure vital to regional commerce
+  - Historical significance:
+    - Elevated from baronial status in 1156 for defending the bridges during the
+      Guild Wars
+    - Traditional wardens of the southern water passage
+    - Ancient rights to bridge tolls and river duties
+
+### Barons/Baronesses
+
+- House Thralmal
+
+  - Domain: Sacred Pools District
+  - Notable: Spring-Keepers
+
+- House Torgate
+  - Domain: Mountain Pass Holdings
+  - Notable: Pass-Wardens
+
 ## Landed Knights
 
 - Not hereditary

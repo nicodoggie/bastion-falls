@@ -23,9 +23,9 @@ controlling the southern channel (Bramsward Way) and the crucial Wardcross
 bridges. Originally a Hick settlement, it developed into a major transfer point
 between river and land trade.
 
-## History
+# History
 
-### Pre-Kalassarian Period
+## Pre-Kalassarian Period
 
 - Original Hick fishing settlement
 - Early ferry crossing point
@@ -33,7 +33,7 @@ between river and land trade.
 - Tidal observation points
 - Traditional market location
 
-### Kalassarian Period
+## Kalassarian Period
 
 - Bridge construction begins
 - Formal customs posts established
@@ -41,13 +41,104 @@ between river and land trade.
 - Administrative quarter built
 - Trade regulations codified
 
-### Modern Era
+## Modern Era
 
 - Major land-sea transfer point
 - Commercial trading center
 - Bridge town development
 - Maritime support services
 - Cultural melting pot
+
+# City Administration
+
+## Executive Officials
+
+- Lord Mayor Darnell Marrick
+  - Former merchant captain, known for strict but fair governance
+  - Oversees city council and major trade agreements
+  - Residence: Mayoral Manor on High Street
+
+## City Council
+
+- Harbor Master Elara Navton
+  - Controls port operations and maritime safety
+  - Office: Harbor Master's Tower
+- Trade Warden Marcus Mercor
+  - Oversees customs and commercial regulations
+  - Office: Wardcross Customs House
+- Temple Representative Sister Agatha Thralvig
+  - Liaison between city and Church of Divine Masochism
+  - Office: Temple District Administrative Center
+- Guild Master Coordinator Thom Silverman
+  - Mediates between various trade guilds
+  - Office: Guild Hall Complex
+
+## District Administrators
+
+- Tidemark Proper: Magistrate Roland Porton
+- Wardcross Isle: Warden Victoria Bridgeward
+- Southbank: Overseer Garrett Smedling
+
+## Law Enforcement
+
+- City Watch Captain Helena Viglar
+
+  - Commands city guard force of ~200
+  - Headquarters: Central Watch House
+
+- Harbor Watch Commander Erik Skelward
+  - Maritime law enforcement
+  - Base: Harbor Watch Tower
+
+# City Structure
+
+## Public Facilities
+
+### Administrative Buildings
+
+- City Hall (Tidemark Proper)
+  - Council chambers
+  - Public records office
+  - Tax collection
+  - Marriage registry
+- District Offices
+  - Wardcross Administrative Center
+  - Southbank Municipal Building
+  - Harbor Authority Complex
+
+### Parks and Recreation
+
+- Tidewater Gardens
+  - Public park with ocean views
+  - Musical performances
+  - Festival grounds
+- Merchant's Rest
+  - Shaded marketplace plaza
+  - Public benches and fountains
+  - Street performer space
+- Bridge View Park
+  - Walking paths
+  - Bird watching platforms
+  - Picnic areas
+
+### Public Houses
+
+- The Sailor's Rest
+
+  - Traditional maritime tavern
+  - Sea shanty performances
+  - Fresh seafood
+
+- The Bridge & Barrel
+
+  - Merchant's favorite
+  - Private meeting rooms
+  - Fine wines
+
+- The Crossed Anchors
+  - Working class pub
+  - Arm wrestling contests
+  - Cheap ale
 
 ## Districts
 
@@ -61,41 +152,57 @@ The original settlement area, characterized by:
 - Guild headquarters
 - Religious centers
 
+#### Major Streets
+
+- High Street
+  - Administrative heart of Tidemark
+  - Location of Mayoral Manor and City Hall
+  - Guild offices and wealthy merchants' homes
+  - Traditional market area
+  - Connects to Temple District
+- Market Street
+  - Links Old Market Square to Maritime Quarter
+  - Traditional market stalls
+  - Public gathering spaces
+  - Connection to Harbor Walk
+- Temple Row
+  - Main thoroughfare through Temple District
+  - Connects major religious buildings
+  - Ecclesiastical offices
+  - Religious schools
+- Harbor Walk
+  - Waterfront promenade
+  - Maritime businesses
+  - Shipping offices
+  - Connects to Maritime Quarter
+
 #### Notable Features
 
 1. Old Market Square
-
    - Traditional trading area
    - Festival grounds
    - Public gatherings
    - Cultural events
    - Community center
-
 2. Temple District
-
    - Grand Temple of Divine Masochism (converted ~200 AI)
-
      - Former Kalassarian administrative complex
      - Regional ecclesiastical courts
      - Seminary and theological library
      - Church administrative offices
      - Charitable institutions
-
    - Parish Churches
-
      - St. Maiden's (oldest, ~180 AI)
      - Temple of Sacred Suffering
      - Church of Divine Penance
      - Chapel of Blessed Pain
      - Multiple smaller parishes
-
    - Support Facilities
      - Clergy housing
      - Church schools
      - Almshouses
      - Medical facilities
      - Religious archives
-
 3. Maritime Quarter
    - Small boat harbors
    - Fish markets
@@ -116,21 +223,17 @@ The crucial link between north and south, featuring:
 #### Key Facilities
 
 1. Bridge Complexes
-
    - North and South bridges
    - Customs houses
    - Guard posts
    - Maintenance facilities
    - Traffic control
-
 2. Transport Services
-
    - Caravan yards
    - Horse markets
    - Wagon repairs
    - Storage facilities
    - Rest houses
-
 3. Commercial Areas
    - Trading offices
    - Money changers
@@ -147,6 +250,65 @@ The newest district, developed for:
 - Storage areas
 - Transport links
 - Support services
+
+#### Major Streets
+
+- Keelswood Way
+  - Main access to managed forest sections
+  - Timber transport route
+  - Watch stations
+  - Maintenance facilities
+- Coastal Road
+  - Connects Tidemark to The Narrows
+  - Access to fishing villages
+  - Watch posts and coast guard stations
+  - Traditional shrines
+  - Trading posts
+
+### Mill Quarter
+
+A specialized industrial district managing timber processing from the Admiralty-
+controlled Keelswood, characterized by:
+
+#### Administration
+
+- Overseer Henry Thralvig
+
+  - Member of the traditional Thralvig family
+  - Uncle to Temple Representative Agatha Thralvig
+  - Maintains balance between industrial needs and forest traditions
+  - Office: Mill Quarter Administrative Center
+
+- Joint oversight between Tidemark government and Admiralty
+- Mill Quarter Administrator (civilian)
+- Naval Forestry Liaison Officer
+- Safety inspection team
+- Infrastructure maintenance corps
+
+#### Major Streets
+
+- Mill Row
+
+  - Primary thoroughfare connecting sawmills
+  - Loading/unloading zones
+  - Worker housing
+  - Equipment storage
+
+- Lower Keelswood Way
+  - Connection to Admiralty's Helm
+  - Timber transport route
+  - Mill access road
+  - Naval checkpoint
+
+#### Notable Features
+
+- Water-powered sawmills
+- Timber processing facilities
+- Lumber storage yards
+- Worker housing
+- Naval inspection posts
+- Transport infrastructure
+- Admiralty warehouse complex
 
 ## Major Thoroughfares
 
@@ -205,14 +367,9 @@ managed forest sections that have supplied timber since pre-imperial times.
 - Historical tourism
 - Religious pilgrimages
 
-## See Also
+# Economy
 
-- [The Admiralty's Helm](@/locations/admiraltys-helm.md)
-- [Keelswood](@/locations/keelswood.md)
-
-## Economy
-
-### Primary Activities
+## Primary Activities
 
 1. Trade Transfer
 
@@ -236,33 +393,6 @@ managed forest sections that have supplied timber since pre-imperial times.
    - Storage facilities
    - Guide services
    - Rest facilities
-
-## Culture
-
-### Social Makeup
-
-- Merchant families
-- Transport workers
-- Maritime trades
-- Religious communities
-- Service providers
-
-### Cultural Features
-
-1. Traditions
-
-   - Bridge festivals
-   - River ceremonies
-   - Trade fairs
-   - Maritime customs
-   - Religious observances
-
-2. Notable Events
-   - Bridge Day celebrations
-   - Market festivals
-   - Maritime holidays
-   - Religious feasts
-   - Trade fairs
 
 ## Industries
 
@@ -313,109 +443,135 @@ construction and shipbuilding needs.
 - Bridge maintenance materials
 - Export quality woods
 
-## See Also
+# Culture
 
+## Social Makeup
+
+- Merchant families
+- Transport workers
+- Maritime trades
+- Religious communities
+- Service providers
+
+## Cultural Features
+
+1. Traditions
+
+   - Bridge festivals
+   - River ceremonies
+   - Trade fairs
+   - Maritime customs
+   - Religious observances
+
+2. Notable Events
+   - Bridge Day celebrations
+   - Market festivals
+   - Maritime holidays
+   - Religious feasts
+   - Trade fairs
+
+## Religious Establishments
+
+### Church Hierarchy
+
+#### Bishop of Surrey - Aldwin di Monteverdi
+
+- Seat: Cathedral of the Angel of Civilization, Port Surrey
+- Jurisdiction: Surrey-on-the-Brams and surrounding settlements
+- Oversees: All Divine Masochist churches in the region
+- Appointed: 1268
+- Notable for: Integration of maritime and urban parishes
+
+#### Monsignor of Tidemark - Edmund Wardcross
+
+- Seat: Church of the Angel of Justice, Temple District
+- Jurisdiction: Tidemark, The Narrows, and adjacent settlements
+- Reports to: Bishop of Surrey
+- Appointed: 1271
+- Known for: Expansion of worker parish services
+
+##### Responsibilities
+
+- Parish administration across Tidemark
+- Supervision of local clergy
+- Coordination with Temple Representative
+- Oversight of religious education
+- Management of charitable works
+- Direction of community outreach
+
+### Major Religious Centers
+
+#### Temple District Administration
+
+- Ecclesiastical courts
+- Clergy offices
+- Religious archives
+- Educational facilities
+- Community halls
+
+#### Church of the Angel of Justice
+
+- Main parish church
+- Traditional ceremonial space
+- Training facilities
+- Administrative center
+- Public worship areas
+
+#### Church of the Angel of Civilization
+
+- Merchant district location
+- Trade blessing ceremonies
+- Guild chapels
+- Maritime rites
+- Educational programs
+
+- Location: Merchant Quarter
+- Maritime-themed architecture
+- Trade blessing chambers
+- Merchant family chapels
+- Guild ceremony spaces
+- Educational facilities
+
+### Peripheral Establishments
+
+#### Circle of the Angel of Nature Chapels
+
+- Keelswood Meditation Grove
+  - Ancient Hick shrine site
+  - Forest worship spaces
+  - Traditional ceremonies
+  - Pilgrim facilities
+- Coastal Shrines
+  - Maritime blessing stations
+  - Fisher folk chapels
+  - Storm prayer grottos
+  - Sailor memorials
+- Mill Quarter Chapel
+  - Worker services
+  - Traditional ceremonies
+  - Community gatherings
+  - Environmental rites
+
+### Religious Administration
+
+- Temple District offices
+- Ecclesiastical courts
+- Religious education centers
+- Charitable institutions
+- Community outreach facilities
+
+### Sacred Sites
+
+- Ancient Hick shrines
+- Maritime blessing points
+- Forest meditation spaces
+- Traditional ceremony grounds
+- Historical religious markers
+
+# See Also
+
+- [The Admiralty's Helm](@/locations/admiraltys-helm.md)
+- [Keelswood](@/locations/keelswood.md)
 - [Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md)
 - [Brams River](@/locations/brams-river.md)
 - [Gulf of Inespell](@/locations/gulf-of-inespell.md)
-
-## City Administration
-
-### Executive Officials
-
-- Lord Mayor Darnell Marrick
-  - Former merchant captain, known for strict but fair governance
-  - Oversees city council and major trade agreements
-  - Residence: Mayoral Manor on High Street
-
-### City Council
-
-- Harbor Master Elara Navton
-
-  - Controls port operations and maritime safety
-  - Office: Harbor Master's Tower
-
-- Trade Warden Marcus Mercor
-
-  - Oversees customs and commercial regulations
-  - Office: Wardcross Customs House
-
-- Temple Representative Sister Agatha Thralvig
-
-  - Liaison between city and Church of Divine Masochism
-  - Office: Temple District Administrative Center
-
-- Guild Master Coordinator Thom Silverman
-  - Mediates between various trade guilds
-  - Office: Guild Hall Complex
-
-### District Administrators
-
-- Tidemark Proper: Magistrate Roland Porton
-- Wardcross Isle: Warden Victoria Bridgeward
-- Southbank: Overseer Garrett Smedling
-
-### Law Enforcement
-
-- City Watch Captain Helena Viglar
-
-  - Commands city guard force of ~200
-  - Headquarters: Central Watch House
-
-- Harbor Watch Commander Erik Skelward
-  - Maritime law enforcement
-  - Base: Harbor Watch Tower
-
-## Public Facilities
-
-### Administrative Buildings
-
-- City Hall (Tidemark Proper)
-
-  - Council chambers
-  - Public records office
-  - Tax collection
-  - Marriage registry
-
-- District Offices
-  - Wardcross Administrative Center
-  - Southbank Municipal Building
-  - Harbor Authority Complex
-
-### Parks and Recreation
-
-- Tidewater Gardens
-
-  - Public park with ocean views
-  - Musical performances
-  - Festival grounds
-
-- Merchant's Rest
-
-  - Shaded marketplace plaza
-  - Public benches and fountains
-  - Street performer space
-
-- Bridge View Park
-  - Walking paths
-  - Bird watching platforms
-  - Picnic areas
-
-### Public Houses
-
-- The Sailor's Rest
-
-  - Traditional maritime tavern
-  - Sea shanty performances
-  - Fresh seafood
-
-- The Bridge & Barrel
-
-  - Merchant's favorite
-  - Private meeting rooms
-  - Fine wines
-
-- The Crossed Anchors
-  - Working class pub
-  - Arm wrestling contests
-  - Cheap ale

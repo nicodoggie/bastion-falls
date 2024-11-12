@@ -10,7 +10,7 @@ area = "~1.5 square miles"
 notable = "Original settlement, historic pilot station"
 +++
 
-**The Narrows** represents one of [Surrey-on-the-Brams'](@/locations/surrey-on-
+**The Narrows** represents one of [Surrey-on-the-Brams](@/locations/surrey-on-
 the-brams.md) earliest maritime settlements. While the pre-Kalassarian peoples
 of the island (who would later be known as Senerans) were primarily inland-
 focused during the early centuries AI, gradual expansion toward the coast led to
@@ -30,7 +30,8 @@ challenging waters made it increasingly important for river traffic.
 ### Decline
 
 The construction of the Wardcross bridges and development of
-[Port Surrey-on- the-Brams](@/locations/port-surrey-on-the-brams.md) led to the
+[Tidemark](@/locations/tidemark.md) and
+[Port Surrey-on-the-Brams](@/locations/port-surrey-on-the-brams.md) led to the
 Narrows' gradual decline as a major trading port. Commercial activity shifted
 eastward to the new city's planned harbor facilities, though the settlement
 maintained its importance for local maritime activities.
@@ -45,7 +46,7 @@ the settlement's character.
 
 ### Layout
 
-- Traditional Seneran street pattern
+- Street pattern reflects near-undirected street development pattern
 - Ancient stone quays (partially maintained)
 - Small craft harbors
 - Traditional shipwright shops
@@ -81,6 +82,75 @@ preserves ancient maritime knowledge while adapting to changed circumstances.
 Its position away from main shipping lanes, once a disadvantage, now provides
 certain advantages for those seeking to conduct business away from official
 oversight.
+
+## Districts
+
+While The Narrows lacks formal political divisions, distinct areas have emerged
+through traditional use and informal control.
+
+### Legitimate Districts
+
+#### Revmal (Reeve's Quarter)
+
+From Early Hick "rev" (authority) + "mal" (pool)
+
+- Harbor master's office and tax collection point
+- Official warehouses and licensed merchants
+- Public docks and watch station
+- Primary administrative center
+
+#### Feskmal (Fisher's Basin)
+
+From Iutlandish "fesk" (fish) + Hick "mal" (pool)
+
+- Licensed fishing fleet docks
+- Traditional fish market
+- Net repair workshops
+- Salt houses and smoke houses
+- Public wharves
+
+### Shadow Districts
+
+#### The Murmals
+
+From Early Hick "mur" (night/darkness) + "mal" (pool)
+
+- Hidden docks and secret warehouses
+- Underground markets
+- Smugglers' taverns
+- Network of safe houses
+- Concealed passages
+
+#### The Bramward
+
+From Early Hick "bram" (tide) + "ward" (path)
+
+- Tidal channels and hidden anchorages
+- Signal points and watch posts
+- Escape routes
+- Secret coves
+
+### Mixed-Control Areas
+
+#### The Skelmals
+
+From Middle Hick "skel" (ship) + "mal" (pool)
+
+- Mixed-use docking facilities
+- Ship repair yards
+- Chandlers and rope walks
+- Trading houses
+- Ship supply merchants
+
+#### The Havelbek
+
+From Iutlandish "havel" (harbor) + "bek" (stream)
+
+- Main channel access
+- Deep water berths
+- Loading zones
+- Storage caves
+- Hidden inlets
 
 ## Shadow Economy
 
@@ -128,3 +198,64 @@ officially enforcing maritime law, many recognize the settlement's unofficial
 economy as a necessary pressure valve for Port Surrey's strictly regulated
 trade. The Admiralty itself occasionally finds the Narrows' discrete services
 useful, though such arrangements are never officially acknowledged.
+
+# The Narrows Dialect (Narrows-bel)
+
+## Historical Context
+
+The Narrows preserves one of the few surviving dialects of Late Hick, showing
+features from both Late Hick and Early Seneran. The dialect name itself,
+"narrows-bel" [na.ros.bel], demonstrates classic compound formation.
+
+## Phonological Features
+
+The dialect maintains several archaic features:
+
+1. Preservation of [θ] in sacred/maritime terms
+2. Complex codas allowed in maritime vocabulary
+3. Retention of Late Hick stress patterns
+4. Conservation of compound forms
+
+### Key Sound Retentions
+
+<dl>
+<dt><dfn>thramal</dfn> [θra.mal]</dt>
+<dd>"sacred pool" (hidden harbor)</dd>
+
+<dt><dfn>murketh</dfn> [mur.keθ]</dt>
+<dd>"night sea" (smuggling waters)</dd>
+
+<dt><dfn>bramward</dfn> [bram.ward]</dt>
+<dd>"tide path" (hidden channel)</dd>
+</dl>
+
+## Demonstrative System
+
+The dialect preserves the Early Hick demonstrative system for hidden/known
+objects:
+
+<dl>
+<dt><dfn>maleth</dfn> [ma.leθ]</dt>
+<dd>"that pool (heard but not seen)"</dd>
+
+<dt><dfn>wardeth</dfn> [war.deθ]</dt>
+<dd>"that path (known but hidden)"</dd>
+
+<dt><dfn>skelthir</dfn> [skel.θir]</dt>
+<dd>"that ship (heard but not seen)"</dd>
+</dl>
+
+## Compound Formation
+
+The dialect maintains complex compounds that have simplified elsewhere:
+
+<dl>
+<dt><dfn>murmalward</dfn> [mur.mal.ward]</dt>
+<dd>"night-pool-path" (smugglers' route)</dd>
+
+<dt><dfn>bramwardeth</dfn> [bram.war.deθ]</dt>
+<dd>"tide-path-hidden" (secret tidal channel)</dd>
+
+<dt><dfn>threnmurmal</dfn> [θren.mur.mal]</dt>
+<dd>"watch-night-pool" (hidden lookout point)</dd>
+</dl>
