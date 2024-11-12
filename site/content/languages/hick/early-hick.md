@@ -122,7 +122,7 @@ traditions throughout modern Senera.
 | Common  | /-st, -sk, -sp/ |
 | Limited | /-ks, -ls, -rs/ |
 
-### Vowel Allophony
+## Vowel Allophony
 
 The vowel /a/ is realized as [ə]:
 
@@ -139,68 +139,69 @@ The vowel /a/ is realized as [ə]:
    - /malam/ → [məlam] "pooled"
    - /ranar/ → [rənər] "flowing"
 
-#### Exceptions:
+### Exceptions
 
 - Maintains [a] in stressed syllables
 - Maintains [a] in sacred/formal terms
 - Maintains [a] in recent compounds
 
-## Morphology
+## Vowel Reduction Patterns
 
-### Directional Affixes
+### Prefix Reduction Rules
 
-<dl>
-<dt><dfn>-aes</dfn> [aes]</dt>
-<dd>"inward movement, flow from"</dd>
-<dt><dfn>-imris</dfn> [imris]</dt>
-<dd>"outward movement, flow to"</dd>
-<dt><dfn>-itar</dfn> [i.tar]</dt>
-<dd>"downward movement, falling"</dd>
-<dt><dfn>-asam</dfn> [a.sam]</dt>
-<dd>"upward movement, rising"</dd>
-</dl>
+1. ma- → mə- (plural)
 
-### Agentive Suffix
+   - Before sibilants and affricates
+   - After voiceless stops in unstressed syllables
+   - Between identical consonants
 
-<dl>
-<dt><dfn>-ok</dfn> [ok]</dt>
-<dd>Agentive suffix ("one who does/makes")</dd>
-<dd>Maintains form after all consonants</dd>
-<dd>No special deletion rules needed</dd>
+2. ka- → kə- (similarity)
+   - Follows same reduction rules as ma-
 
-Examples:
+### Examples with Reduction
 
-- smed-ok → smedok [sme.dok] "smith" (lit. "one who smiths")
-- mal-ok → malok [ma.lok] "pool-keeper" (lit. "one who tends pools")
-- bel-ok → belok [be.lok] "speaker" (lit. "one who speaks")
-- nal-ok → nalok [na.lok] "guide" (lit. "one who flows/guides")
-- thren-ok → threnok [θre.nok] "watcher" (lit. "one who watches")
-- kur-ok → kurok [ku.rok] "copper-worker" (lit. "one who works copper")
+ma-smedok-tan → məsmedoktan PL-smith-MED.ANIM "those smiths"
 
-</dl>
+ma-ka-mal-is → məkəmalis PL-SIM-pool-PROX.INAN "these pool-like things"
 
-### Possessive Suffix
+ka-smedok-ʔis → kəsmedokʔis SIM-smith-PROX.ANIM "this smith-like person"
+
+### Complex Example with All Elements
+
+ma-ka-mal-is-aes-ul → məkəmalisaesul PL-SIM-pool-PROX.INAN-INWARD-POSS "of into
+these pool-like things"
+
+# Morphology
+
+## Case System
+
+Early Hick employs an ergative-absolutive alignment:
 
 <dl>
-<dt><dfn>-ul</dfn> [ul]</dt>
-<dd>Possessive suffix ("belonging to, of")</dd>
-<dd>Follows liquid deletion rules when combining:</dd>
-<dd>- Deletes after root-final liquids</dd>
-<dd>- Maintains [ul] after other consonants</dd>
+<dt><dfn>-el</dfn> [el]</dt>
+<dd>Ergative case marker</dd>
+<dd>Marks the agent of transitive verbs</dd>
 
-Examples:
-
-- tor-ul → torul [to.rul] "of the peak"
-- mal-ul → malul [ma.lul] "of the pool"
-- bram-ul → bramul [bra.mul] "of the tide"
-
+<dt><dfn>-es</dfn></dt>
+<dd>Absolutive case</dd>
+<dd>Marks the patient of transitive verbs and the sole argument of intransitive verbs</dd>
 </dl>
 
-### Affix Order in Early Hick
+### Examples
 
-#### Complete Template
+materok-el ʔal-es ward-ter
+handler-ERG person-ABS direct-to
+"The handler directs the person"
 
-NUMBER-SIMILARITY-ROOT-DEMONSTRATIVE-DIRECTIONAL-POSSESSIVE
+ʔal-es ter-ʔer
+person-ABS move-ACT
+"The person moves"
+
+## Affix Order
+
+### Complete Template
+
+NUMBER-SIMILARITY-ROOT-DEMONSTRATIVE-DIRECTIONAL-POSSESSIVE-CASE
 
 1. Number Prefix
 
@@ -226,6 +227,9 @@ NUMBER-SIMILARITY-ROOT-DEMONSTRATIVE-DIRECTIONAL-POSSESSIVE
 
 6. Possessive
    - -ul
+7. Case
+   - -el (ergative)
+   - -es (absolutive)
 
 #### Examples
 
@@ -246,37 +250,202 @@ peak-like things"
 - \*mal-aes-is-ul (directional before demonstrative)
 - \*mal-ul-is-aes (possessive before demonstrative)
 
-### Vowel Reduction Patterns in Complex Affixation
+## Conjunctions
 
-#### Prefix Reduction Rules
+### Common Conjunctions
 
-1. ma- → mə- (plural)
+<dl>
+<dt><dfn>nal</dfn> [nal]</dt>
+<dd>"and, with" (from "flow")</dd>
+<dd>Basic coordination: X nal Y nal Z</dd>
+<dd>thrakel nal vakel nal keth "sun and moon and sea"</dd>
 
-   - Before sibilants and affricates
-   - After voiceless stops in unstressed syllables
-   - Between identical consonants
+<dt><dfn>ter</dfn> [ter]</dt>
+<dd>"then, and then" (from "movement")</dd>
+<dd>Sequential: X ter Y ter Z</dd>
+<dd>materok ter smedok ter threnok "boatman then smith then watcher"</dd>
 
-2. ka- → kə- (similarity)
-   - Follows same reduction rules as ma-
+<dt><dfn>bel</dfn> [bel]</dt>
+<dd>"or" (from "mouth/opening")</dd>
+<dd>Alternatives: X bel Y bel Z</dd>
+<dd>mater bel rismater bel wudmater "boat or reed-boat or wooden-boat"</dd>
 
-#### Examples with Reduction
+### Specialized Conjunctions
 
-ma-smedok-tan → məsmedoktan PL-smith-MED.ANIM "those smiths"
+<dt><dfn>sin</dfn> [sin]</dt>
+<dd>"and (unexpectedly)" (from "one")</dd>
+<dd>Surprising pairs: X sin Y sin Z</dd>
+<dd>thrakel sin mur sin gral "sun and darkness and earth" (omen)</dd>
 
-ma-ka-mal-is → məkəmalis PL-SIM-pool-PROX.INAN "these pool-like things"
+<dt><dfn>thren</dfn> [θren]</dt>
+<dd>"while, during" (from "watch")</dd>
+<dd>Simultaneous: X thren Y</dd>
+<dd>materok thren thrakel "boatman while sun" (during day)</dd>
+</dl>
 
-ka-smedok-ʔis → kəsmedokʔis SIM-smith-PROX.ANIM "this smith-like person"
+## Spatial Reference System
 
-#### Complex Example with All Elements
+### Basic Spatial Deictics
 
-ma-ka-mal-is-aes-ul → məkəmalisaesul PL-SIM-pool-PROX.INAN-INWARD-POSS "of into
-these pool-like things"
+<dl>
+<dt>Proximal</dt>
+<dd>ran "here" (archaic locative)</dd>
+<dd>istel "this-place" (compound form)</dd>
 
-### Demonstrative System
+<dt>Medial</dt>
+<dd>ethtel "that-place" (visible/known)</dd>
+
+<dt>Distal</dt>
+<dd>ris "there/outward" (< *is "out")</dd>
+<dd>umtel "that.far-place" (unseen)</dd>
+
+### Compound Forms
+
+<dt>Emphatic Location</dt>
+<dd>ran istel "right here"</dd>
+<dd>ris umtel "way out there"</dd>
+
+<dt>Directional</dt>
+<dd>ran-imris "from here"</dd>
+<dd>ris-imris "further outward"</dd>
+
+### Historical Development Path
+
+Proto-Hick > Early Hick > Middle Hick
+
+1. \*is "out" >
+
+   - ris "there" (deictic)
+   - -imris (ellative)
+   - istel (compound with 'place')
+
+2. \*ran "at" >
+
+   - ran "here" (locative)
+   - ranis "nearby" (proximal)
+
+3. Demonstrative Integration:
+   - is- (proximal) + tel > istel
+   - eth- (medial) + tel > ethtel
+   - um- (distal) + tel > umtel
+   </dl>
+
+## Directional Terms
+
+### Basic Directionals
+
+<dl>
+<dt><dfn>ner</dfn> [ner]</dt>
+<dd>"narrow, tight"</dd>
+
+<dt><dfn>neraes</dfn> [ne.ra.es]</dt>
+<dd>"narrowing" (with directional -aes)</dd>
+
+<dt><dfn>nerimris</dfn> [ne.rim.ris]</dt>
+<dd>"widening" (with outward -imris)</dd>
+
+<dt><dfn>moner</dfn> [mo.ner]</dt>
+<dd>"wide, broad" (with negation mo-)</dd>
+
+### Diminutive Forms
+
+<dt><dfn>lineraes</dfn> [li.ne.ra.es]</dt>
+<dd>"to make narrow/smaller" (with diminutive li-)</dd>
+
+<dt><dfn>linermal</dfn> [li.ner.mal]</dt>
+<dd>"choking pool" (dangerous inlet)</dd>
+</dl>
+
+### Directional Affixes
+
+<dl>
+<dt><dfn>-aes</dfn> [aes]</dt>
+<dd>"inward movement, flow from"</dd>
+<dt><dfn>-imris</dfn> [imris]</dt>
+<dd>"outward movement, flow to"</dd>
+<dt><dfn>-itar</dfn> [i.tar]</dt>
+<dd>"downward movement, falling"</dd>
+<dt><dfn>-asam</dfn> [a.sam]</dt>
+<dd>"upward movement, rising"</dd>
+</dl>
+
+## Agentive Marker
+
+<dl>
+<dt><dfn>-ok</dfn> [ok]</dt>
+<dd>Agentive suffix ("one who does/makes")</dd>
+<dd>Maintains form after all consonants</dd>
+<dd>No special deletion rules needed</dd>
+
+Examples:
+
+- smed-ok → smedok [sme.dok] "smith" (lit. "one who smiths")
+- mal-ok → malok [ma.lok] "pool-keeper" (lit. "one who tends pools")
+- bel-ok → belok [be.lok] "speaker" (lit. "one who speaks")
+- nal-ok → nalok [na.lok] "guide" (lit. "one who flows/guides")
+- thren-ok → threnok [θre.nok] "watcher" (lit. "one who watches")
+- kur-ok → kurok [ku.rok] "copper-worker" (lit. "one who works copper")
+
+</dl>
+
+## Possessive Marker
+
+<dl>
+<dt><dfn>-ul</dfn> [ul]</dt>
+<dd>Possessive suffix ("belonging to, of")</dd>
+<dd>Follows liquid deletion rules when combining:</dd>
+<dd>- Deletes after root-final liquids</dd>
+<dd>- Maintains [ul] after other consonants</dd>
+
+Examples:
+
+- tor-ul → torul [to.rul] "of the peak"
+- mal-ul → malul [ma.lul] "of the pool"
+- bram-ul → bramul [bra.mul] "of the tide"
+
+</dl>
+
+## Verbal System
+
+### Basic Verbalizer
+
+<dl>
+<dt><dfn>ʔer</dfn> [ʔer]</dt>
+<dd>"action, doing" (< *hi-er "animate-movement")</dd>
+<dd>Functions as verbal marker in both independent and fused forms</dd>
+</dl>
+
+#### Usage Patterns
+
+1. Independent Construction:
+
+   - ROOT ʔer "to do/be ROOT"
+   - mater ʔer "to sail/boat"
+   - materok ʔer "to pilot"
+
+2. Fused Forms (formal/literary):
+   - ROOTʔer
+   - materʔer [ma.ter.ʔer] "to sail"
+   - materokʔer [ma.te.rok.ʔer] "to pilot"
+
+#### Examples
+
+```plaintext
+Thralvigel mater ʔer bramimris kethes 
+Thralvig.ERG boat ACT river.ELL sea.ABS 
+"Thralvig sailed from the river to the sea"
+
+materok ʔer branum tel 
+boatman ACT PAST COMPL "the boatman had sailed"
+```
+
+
+
+## Demonstrative System
 
 These patterns fossilized differently in demonstratives:
 
-#### Visible Objects (Proximal/Medial)
+### Visible Objects (Proximal/Medial)
 
 <dl>
 <dt><dfn>-is</dfn> [is]</dt>
@@ -292,7 +461,7 @@ These patterns fossilized differently in demonstratives:
 <dd>"that" (visible, animate)</dd>
 </dl>
 
-#### Hidden but Sensed
+### Hidden but Sensed
 
 <dl>
 <dt><dfn>-eth</dfn> [eθ]</dt>
@@ -303,7 +472,7 @@ These patterns fossilized differently in demonstratives:
 <dd>"this/that" (hidden but known, animate)</dd>
 <dd>Often used for people/animals heard but not seen</dd>
 
-Examples:
+#### Examples:
 
 - mal-eth [ma.leθ] "that pool (heard but not seen)"
 - smedok-thir [sme.dok.θir] "that smith (heard working)"
@@ -311,7 +480,7 @@ Examples:
 
 </dl>
 
-#### Distant/Out of Sight
+### Distant/Out of Sight
 
 <dl>
 <dt><dfn>-um</dfn> [um]</dt>
@@ -398,39 +567,117 @@ Examples:
 <dd>bram-um-ok-is (tide-that.far-AGENT-this)</dd>
 </dl>
 
-### Discourse Reference System
+#### Discourse Reference Use Case
 
-#### Primary Demonstratives in Discourse
+Early Hick uses the demonstrative suffixes for tracking referents in discourse:
 
 <dl>
-<dt><dfn>-is</dfn> [is] / -ʔis [ʔis]</dt>
-<dd>"this one" (most recently mentioned referent)</dd>
-<dd>PROX.INAN / PROX.ANIM</dd>
+<dt><dfn>-is/-ʔis</dfn> [is]/[ʔis]</dt>
+<dd>Most recent referent (inanimate/animate)</dd>
 
-<dt><dfn>-en</dfn> [en] / -tan [tan]</dt>
-<dd>"that one" (previously mentioned referent)</dd>
-<dd>MED.INAN / MED.ANIM</dd>
+<dt><dfn>-en/-tan</dfn> [en]/[tan]</dt>
+<dd>Previously mentioned (inanimate/animate)</dd>
 
-<dt><dfn>-eth</dfn> [eθ] / -thir [θir]</dt>
-<dd>"that known one" (established/salient referent)</dd>
-<dd>KNOWN.INAN / KNOWN.ANIM</dd>
+<dt><dfn>-eth/-thir</dfn> [eθ]/[θir]</dt>
+<dd>Established/salient referent (inanimate/animate)</dd>
 
-Example: ʔalsmed belok-tan nal-is-en. person.smith speaker-MED.ANIM
+<dt><dfn>-um/-rum</dfn> [um]/[rum]</dt>
+<dd>Distant/unseen referent (inanimate/animate)</dd>
+</dl>
+
+##### Examples
+
+```plaintext
+materok-thir-el ʔal-is-es ward-ter
+handler-KNOWN.ANIM-ERG person-PROX.ANIM-ABS direct-to
+"That (known) handler directs this person"
+
+ʔalsmed belok-tan nal-is-en. person.smith speaker-MED.ANIM
 guide-PROX.ANIM-MED.INAN "A smith, a speaker, and a guide."
 
 ʔal-is bram-ul thir-en mal-ul person-PROX.ANIM tide-POSS KNOWN.ANIM-MED.INAN
 pool-POSS "This one (smith) watched the tide while that known one (speaker)
 tended the pool."
 
-</dl>
-
-More Complex Example: mal-is tor-en bram-eth pool-PROX.INAN peak-MED.INAN
+mal-is tor-en bram-eth pool-PROX.INAN peak-MED.INAN
 tide-KNOWN.INAN "this pool, that peak, and the known tide"
 
 ʔal-thir sal-is nal-tan person-KNOWN.ANIM thing-PROX.INAN guide-MED.ANIM "the
 known person (has) this thing (from) that guide"
+```
 
-### Number Marking
+## Nominal Personal Reference System
+
+<dl>
+<dt>Full Compounds</dt>
+<dd>istel-ʔal "this.place-person" (speaker)</dd>
+<dd>ethtel-ʔal "that.place-person" (addressee)</dd>
+<dd>umtel-ʔal "far.place-person" (third party)</dd>
+</dl>
+
+## Negation System
+
+### Historical Development
+
+1. Proto-Hick Origins:
+
+   - \*mur "night, darkness"
+   - \*hi- (animacy marker)
+   - \*hi-mur "evil spirit/force" (lit. "animate darkness")
+
+2. Early Sound Changes:
+   - *hi-mur > *himur > ['imur] "evil, malevolent force"
+   - *hi-mur-C... > *himurC... > [mo-C...] (in compounds)
+   - \*mur retained independently as "darkness, night"
+
+### Early Hick Forms
+
+<dl>
+<dt><dfn>imur</dfn> ['i.mur]</dt>
+<dd>"evil spirit, malevolent force"</dd>
+<dd>From: *hi-mur (animacy + darkness)</dd>
+
+<dt><dfn>mo-</dfn> [mo]</dt>
+<dd>general negation prefix</dd>
+<dd>From: reduced form of *hi-mur in compounds</dd>
+
+<dt><dfn>mur</dfn> [mur]</dt>
+<dd>"night, darkness" (original meaning)</dd>
+</dl>
+
+### Usage Examples
+
+1. Basic Negation (mo-)
+<dl>
+<dt><dfn>momal</dfn> [mo.mal]</dt>
+<dd>"dry place" (lit. "neg-pool")</dd>
+
+<dt><dfn>motor</dfn> [mo.tor]</dt>
+<dd>"lowland" (lit. "neg-height")</dd>
+
+<dt><dfn>mobel</dfn> [mo.bel]</dt>
+<dd>"silent one" (lit. "neg-speech")</dd>
+</dl>
+
+2. Evil Spirit Compounds (imur-)
+<dl>
+<dt><dfn>imurmal</dfn> [i.mur.mal]</dt>
+<dd>"cursed pool" (lit. "evil-spirit pool")</dd>
+
+<dt><dfn>imurtor</dfn> [i.mur.tor]</dt>
+<dd>"forbidden peak" (lit. "evil-spirit height")</dd>
+</dl>
+
+3. Religious Usage
+<dl>
+<dt><dfn>imurthral</dfn> [i.mur.θral]</dt>
+<dd>"blasphemy" (lit. "evil-spirit sacred")</dd>
+
+<dt><dfn>mothral</dfn> [mo.θral]</dt>
+<dd>"profane" (simple negation: "not-sacred")</dd>
+</dl>
+
+## Number Marking
 
 <dl>
 <dt><dfn>ma-</dfn> [ma]</dt>
@@ -439,7 +686,7 @@ known person (has) this thing (from) that guide"
 <dd>Undergoes vowel harmony with root</dd>
 </dl>
 
-#### Examples:
+### Examples:
 
 <dl>
 <dt><dfn>makel</dfn> [ma.kel]</dt>
@@ -450,11 +697,13 @@ known person (has) this thing (from) that guide"
 <dd>"peaks, heights"</dd>
 <dd>ma-tor</dd>
 <dd>PL-height</dd>
-</dl>
+</dl
 
-### Compound Formation
+# Word Formation
 
-#### Basic Rules
+## Compounding
+
+### Basic Rules
 
 1. Root + Root combinations follow head-final pattern
 2. Nasal behavior in compounds:
@@ -477,9 +726,7 @@ known person (has) this thing (from) that guide"
      - Avoid H.H.H sequences
      - Penultimate element may prefer to be heavy
 
-##### Examples
-
-###### Nasal Rules
+#### Nasal Rules
 
 <dl>
 <dt>Before labials:</dt>
@@ -487,7 +734,7 @@ known person (has) this thing (from) that guide"
 <dd>bram+pel → braipel "sea bear"</dd>
 </dl>
 
-###### Liquid Deletion
+#### Liquid Deletion
 
 <dl>
 <dt>Before other consonants:</dt>
@@ -496,7 +743,7 @@ known person (has) this thing (from) that guide"
 <dd>mur+mer+pel → mumepel "owl bear"</dd>
 </dl>
 
-###### Weight Distribution
+#### Weight Distribution
 
 1. Compound Simplification:
    - Cluster simplification follows sonority hierarchy
@@ -520,6 +767,265 @@ known person (has) this thing (from) that guide"
      - bramaikamaes [bra.mai.ka.ma.ʔes] L.H.L.L.H
      - imerimris [ʔi.me.rim.ris] L.L.H.H
      - ritmakakmamer [rit.ma.kak.ma.mer] H.L.H.L.H
+
+## Derivation
+
+### Proto-Hick to Hick Development
+
+#### Directional System Development
+
+1. Proto-Forms:
+   - \*wel "mouth/opening"
+   - \*lawes "consume/take in"
+2. Independent Development:
+   - \*wel > bel "mouth"
+   - *lawes > *laes > -aes "inward motion"
+
+3. Compound Origins:
+   - \*wel-lawes "mouth-consume"
+     > *wellaes *belaes "intake" specialized use as directional -aes
+
+4. Compare with:
+   - *imer "breath" + *is "out" > -imris
+   - Shows parallel grammaticalization path: body action > directional marker
+
+5. Preserved in:
+   - bel "mouth" (from \*wel)
+   - -aes "inward" (from \*lawes)
+   - imeraes "inspiration" (soul-inward)
+
+### Proto-Hick \*is- Prefix Development
+
+1. Basic Pattern: Proto-Hick \*is- "out, external" + root:
+   - \*is-esgir > sekir "foreigner" (lit. "outer-body")
+   - \*is-kel > iskel "window" (lit. "out-sky")
+
+2. Sound Changes: When \*is- meets vowel-initial roots:
+   - \*is-V... > sV...
+   - Metathesis occurs: \*isesgir > sekir
+   - When \*is- meets consonant-initial roots:
+     - \*is-C... > \*isC...
+     - Preserves cluster in iske
+3. Modern Reflexes:
+   <dl>
+   <dt>As independent words:</dt>
+   <dd>sekir "foreigner" (*is-esgir)</dd>
+   <dd>iskel "window" (*is-kel)</dd>
+
+   <dt>Compare newer formations:</dt>
+   <dd>kiris "outsider" (kir+is)</dd>
+   <dd>imeris > imris "outward" (imer+is)</dd>
+   </dl>
+
+### Proto-Hick Animacy Marking and Its Reflexes
+
+Proto-Hick marked animacy through \*hi- prefixation, which developed irregularly
+in Early Hick:
+
+#### Pattern 1: hi.CV > ʔV
+
+- \*hi.nal > ʔal "person" (animate)
+- \*hi.mal > mal "pool" (inanimate, prefix lost)
+- \*hi.tar > tar "fall" (inanimate, prefix lost)
+
+#### Pattern 2: hi.CV > hV
+
+- \*hi.bel > hel "speaker" (animate)
+- \*hi.ren > ren "flow" (inanimate, prefix lost)
+- \*hi.kur > kur "copper" (inanimate, prefix lost)
+
+#### Pattern 3: hi.CV > CV̀ (with distinctive pitch)
+
+- \*hi.smed > smèd "smith" (animate)
+- \*hi.tor > tor "peak" (inanimate, prefix lost)
+
+### Development of Negation from Proto-Hick \*hi-mur
+
+#### Historical Stages
+
+1. Proto-Hick:
+
+   - \*mur "night, darkness"
+   - \*hi- (animacy marker)
+   - \*hi-mur "evil spirit/force" (lit. "animate darkness")
+
+2. Early Sound Changes:
+
+   - *hi-mur > *himur > ['imur] "evil, malevolent force"
+   - *hi-mur-C... > *himurC... > [mo-C...] (in compounds)
+   - \*mur retained independently as "darkness, night"
+
+3. Semantic Development:
+   - ['imur]: retained as noun "evil force/spirit"
+   - [mo-]: grammaticalized as general negator
+   - [mur]: retained original meaning "darkness"
+
+#### Modern Reflexes
+
+<dl>
+<dt><dfn>imur</dfn> ['i.mur]</dt>
+<dd>"evil spirit, malevolent force"</dd>
+<dd>From: *hi-mur (animacy + darkness)</dd>
+
+<dt><dfn>mo-</dfn> [mo]</dt>
+<dd>general negation prefix</dd>
+<dd>From: reduced form of *hi-mur in compounds</dd>
+
+<dt><dfn>mur</dfn> [mur]</dt>
+<dd>"night, darkness" (original meaning)</dd>
+
+#### Examples with mo-
+
+<dt><dfn>momal</dfn> [mo.mal]</dt>
+<dd>"dry place" (lit. "neg-pool")</dd>
+
+<dt><dfn>motor</dfn> [mo.tor]</dt>
+<dd>"lowland" (lit. "neg-height")</dd>
+
+<dt><dfn>mobel</dfn> [mo.bel]</dt>
+<dd>"silent one" (lit. "neg-speech")</dd>
+
+#### Compounds with imur
+
+<dt><dfn>imurmal</dfn> [i.mur.mal]</dt>
+<dd>"cursed pool" (lit. "evil-spirit pool")</dd>
+
+<dt><dfn>imurtor</dfn> [i.mur.tor]</dt>
+<dd>"forbidden peak" (lit. "evil-spirit height")</dd>
+
+#### Religious/Sacred Usage
+
+<dt><dfn>imurthral</dfn> [i.mur.θral]</dt>
+<dd>"blasphemy" (lit. "evil-spirit sacred")</dd>
+
+<dt><dfn>mothral</dfn> [mo.θral]</dt>
+<dd>"profane" (simple negation: "not-sacred")</dd>
+</dl>
+
+### Historical Process
+
+1. Original animacy marking (\*hi-) applied to "darkness" created concept of
+   malevolent force
+2. Compound forms with frequent liquid deletion led to reanalysis
+3. Two parallel developments:
+   - Retention of full form for spiritual/religious concepts
+   - Grammaticalization of reduced form for general negation
+
+### Development of Dental Fricative /θ/
+
+#### Proto-Hick to Early Hick
+
+1. Initial Position:
+
+   - \*t > θ / #\_ [+front vowel]
+   - \*tir > θir "warm"
+   - \*tin > θin "bright"
+   - But: \*tar > tar "fall" (preserved before non-front vowels)
+
+2. Medial Position:
+
+   - \*t > θ / V_V [+front vowel]
+   - \*miter > miθer "flowing warmth"
+   - \*kiter > kiθer "bright path"
+   - But: \*matar > matar "falling water" (preserved)
+
+3. Special Sacred/Ritual Environment:
+   - \*tr > θr / #\_ (in ritual/sacred terms)
+   - \*tral > θral "sacred, holy"
+   - \*tren > θren "watch, observe (ritual)"
+   - But: tram "work" (non-sacred term preserves /tr/)
+
+#### Preservation Environments
+
+1. Preserved /t/:
+
+   - Before back vowels: \*tar > tar
+   - In clusters (except sacred *tr-): *star > star
+   - Word-finally: \*met > met
+   - After /s/: \*ster > ster
+
+2. Special Cases:
+   - Sacred vocabulary favors /θ/
+   - Maritime terms preserve /t/
+   - Place names show mixed development
+
+#### Examples
+
+<dl>
+<dt><dfn>θir</dfn> [θir]</dt>
+<dd>"warm" (< *tir)</dd>
+
+<dt><dfn>θral</dfn> [θral]</dt>
+<dd>"sacred" (< *tral, sacred term)</dd>
+
+<dt><dfn>tar</dfn> [tar]</dt>
+<dd>"fall" (preserved before back vowel)</dd>
+
+<dt><dfn>star</dfn> [star]</dt>
+<dd>"strong" (preserved in cluster)</dd>
+
+<dt><dfn>miθer</dfn> [mi.θer]</dt>
+<dd>"flowing warmth" (intervocalic before front vowel)</dd>
+</dl>
+
+### Development of 'Good/Goodness'
+
+#### Early Hick Forms
+
+1. Basic Form:
+
+   - ʔeθral [ʔe.θral] "good" (< Proto-Hick \*hi-tral)
+   - Original meaning: "blessed, sacred"
+   - Extended to: "good, virtuous"
+
+2. Similarity Form:
+   - ka-ʔeθral [ka.ʔe.θral] "good-like, goodness"
+   - Abstract quality formation
+   - Used in moral/philosophical contexts
+
+#### Middle Hick Changes
+
+1. Sound Changes:
+
+   - [ka.ʔe.θral] > [ka.e.θral] (hiatus simplification)
+   - [ka.e.θral] > [kae.θral] (vowel coalescence)
+   - [kae.θral] > [kɛ.θral] (diphthong monophthongization)
+
+2. Semantic Development:
+   - Concrete similarity > abstract quality
+   - "like good" > "goodness"
+   - Used in religious/philosophical texts
+
+#### Modern Seneran Reflexes
+
+<dl>
+<dt><dfn>ethral</dfn> [ʔe.θral]</dt>
+<dd>"good" (adjective)</dd>
+<dd>Formal/religious contexts</dd>
+
+<dt><dfn>kethral</dfn> [ke.θral]</dt>
+<dd>"goodness" (abstract noun)</dd>
+<dd>Philosophical/religious term</dd>
+
+#### Derived Forms
+
+<dt><dfn>kethrally</dfn> [ke.θral.li]</dt>
+<dd>"virtuous, good" (derived adjective)</dd>
+
+<dt><dfn>kethralish</dfn> [ke.θra.lɪʃ]</dt>
+<dd>"somewhat good" (diminutive)</dd>
+
+#### Register Variants
+
+<dt>Formal/Religious:</dt>
+<dd>[ke.θral] (full form)</dd>
+
+<dt>Colloquial:</dt>
+<dd>[kɛ.θrəl] ~ [kɛ.θrəl]</dd>
+
+<dt>Fast Speech:</dt>
+<dd>[kɛ.θrəl] ~ [kɛ.θəl]</dd>
+</dl>
 
 # Lexicon
 
@@ -567,6 +1073,48 @@ known person (has) this thing (from) that guide"
 <dd>"dusk, fading light"</dd>
 </dl>
 
+### Color Roots
+
+#### Primary Colors
+
+<dl>
+<dt><dfn>gra</dfn> [gra]</dt>
+<dd>"grey, dull" (most basic color term)</dd>
+
+<dt><dfn>mar</dfn> [mar]</dt>
+<dd>"red, blood-colored"</dd>
+
+<dt><dfn>kel</dfn> [kel]</dt>
+<dd>"blue, sky-colored"</dd>
+
+<dt><dfn>gral</dfn> [gral]</dt>
+<dd>"brown, earth-colored"</dd>
+
+<dt><dfn>thir</dfn> [θir]</dt>
+<dd>"white, pale"</dd>
+
+<dt><dfn>nal</dfn> [nal]</dt>
+<dd>"black, dark"</dd>
+
+#### Derived Terms
+
+<dt><dfn>granes</dfn> [gra.nes]</dt>
+<dd>"grey fish" (herring)</dd>
+
+<dt><dfn>maren</dfn> [ma.ren]</dt>
+<dd>"red deer" (rutting stag)</dd>
+<dd>From: mar-ren → maren (liquid deletion)</dd>
+
+<dt><dfn>thirpel</dfn> [θir.pel]</dt>
+<dd>"white bear" (winter bear)</dd>
+
+<dt><dfn>kelai</dfn> [ke.lai]</dt>
+<dd>"blue water" (deep water)</dd>
+
+<dt><dfn>nalgral</dfn> [nal.gral]</dt>
+<dd>"black earth" (rich soil)</dd>
+</dl>
+
 ## Compounds
 
 ### Sacred and Celestial Terms
@@ -600,7 +1148,7 @@ known person (has) this thing (from) that guide"
 <dt><dfn>thralai</dfn> [θra.lai]</dt>
 <dd>"sacred water, daylight on water"</dd>
 
-## Number System
+## Numbers
 
 ### Cardinal Numbers
 
@@ -686,9 +1234,9 @@ known person (has) this thing (from) that guide"
     <dd>Modern: Wardcross bridges</dd>
 </dl>
 
-### Animal Roots
+## Animal Roots
 
-#### Primary Roots
+### Primary Roots
 
 <dl>
 <dt><dfn>ren</dfn> [ren]</dt>
@@ -707,7 +1255,7 @@ known person (has) this thing (from) that guide"
 <dd>"small quick animal" (basis for various rodents)</dd>
 </dl>
 
-#### Common Compounds
+### Common Compounds
 
 <dl>
 <dt><dfn>torren</dfn> [to.ren]</dt>
@@ -734,7 +1282,7 @@ known person (has) this thing (from) that guide"
 <dt><dfn>nes</dfn> [nes]</dt>
 <dd>"fish" (general term)</dd>
 
-#### Fish Compounds
+### Fish Compounds
 
 <dt><dfn>kethnes</dfn> [keθ.nes]</dt>
 <dd>"sea fish" (ocean-going species)</dd>
@@ -767,9 +1315,9 @@ known person (has) this thing (from) that guide"
 <dd>"great sea fish" (possibly cod or similar)</dd>
 </dl>
 
-### Body Part Roots
+## Body Part Roots
 
-#### Primary Roots
+### Primary Roots
 
 <dl>
 <dt><dfn>bel</dfn> [bel]</dt>
@@ -796,7 +1344,10 @@ known person (has) this thing (from) that guide"
 <dt><dfn>mar</dfn> [mar]</dt>
 <dd>"blood, life-fluid"</dd>
 
-#### Derived Terms
+<dt><dfn>ter</dfn> [ter]</dt>
+<dd>"flow, fluid"</dd>
+
+### Derived Terms
 
 <dl>
 <dt><dfn>belnes</dfn> [bel.nes]</dt>
@@ -816,7 +1367,7 @@ known person (has) this thing (from) that guide"
 <dd>"bone height" (cliff face, skeleton ridge)</dd>
 </dl>
 
-#### Face and Hair Terms
+### Face and Hair Terms
 
 <dl>
 <dt><dfn>lis</dfn> [lis]</dt>
@@ -831,7 +1382,7 @@ known person (has) this thing (from) that guide"
 <dt><dfn>bran</dfn> [bran]</dt>
 <dd>"brow, ridge"</dd>
 
-#### Derived Terms
+### Derived Terms
 
 <dt><dfn>listhir</dfn> [lis.θir]</dt>
 <dd>"eye-hair" (eyebrow)</dd>
@@ -852,7 +1403,7 @@ known person (has) this thing (from) that guide"
 <dd>"fur-deer" (winter coat deer)</dd>
 </dl>
 
-#### Trunk Terms
+### Trunk Terms
 
 <dl>
 <dt><dfn>kir</dfn> [kir]</dt>
@@ -902,16 +1453,6 @@ known person (has) this thing (from) that guide"
 <dt><dfn>kiris</dfn> [ki.ris]</dt>
 <dd>"outsider" (newer formation)</dd>
 <dd>From kir + is</dd>
-
-### Architectural Terms
-
-<dt><dfn>iskel</dfn> [is.kel]</dt>
-<dd>"window" (literally "out-sky")</dd>
-<dd>From Proto-Hick *is-kel</dd>
-
-<dt><dfn>iskelai</dfn> [is.ke.lai]</dt>
-<dd>"window condensation"</dd>
-<dd>From iskel + ai</dd>
 
 ### Breath/Soul Terms
 
@@ -984,87 +1525,15 @@ known person (has) this thing (from) that guide"
 <dd>"autumn" (lit. "dusk-day", season of decline)</dd>
 </dl>i
 
-# Sound Changes
+## Architectural Terms
 
-## Major Historical Changes
+<dt><dfn>iskel</dfn> [is.kel]</dt>
+<dd>"window" (literally "out-sky")</dd>
+<dd>From Proto-Hick *is-kel</dd>
 
-Based on place name evidence and comparative analysis with modern Seneran, we
-can identify several key sound changes:
-
-### Early Seneran Period (0-500 AI)
-
-1. Initial Consonant Clusters
-
-   - /θr/ → /r/ / #\_a
-     - thrantorgral → rantorgral "thousand peaks"
-     - thramal → ramal "flowing area"
-   - /θr/ → /tr/ / #\_{i,e}
-     - thrikel → trikel "road network"
-     - thren → tren "watch point"
-   - /θr/ preserved in formal/sacred terms
-     - thran-val [θran.val] "thousand-blessing"
-     - thral-tor [θral.tor] "sacred peak"
-
-2. Vowel Changes
-   - /ae/ → /a/ in unstressed syllables
-     - bramaes → bramas "tidal flow"
-     - thramaes → thramas "sacred water"
-   - /i/ → /e/ in compounds
-     - innis-bél → innesbel "island mouth"
-     - thrim-kel → tremkel "through-sky"
-
-### Middle Seneran (500-1000 AI)
-
-1. Final Syllable Weakening
-
-   - Unstressed vowels → schwa
-     - [ra.na.es] → [ra.nə.əs]
-     - [in.nes.bel] → [in.nes.bəl]
-
-2. Consonant Cluster Evolution
-
-   - Schwa deletion after liquids before stops
-     - [θral.tər] → [θraltr] "sacred peak"
-     - [mal.kə] → [malk] "pool-place"
-   - Preserved elsewhere
-     - [in.nes.bəl] remains [in.nes.bəl]
-
-3. Liquid Deletion
-   - [θral.tər] → [θraltr] "sacred peak"
-   - [mal.kə] → [malk] "pool-place"
-
-### Late Seneran (1000+ AI)
-
-1. Final Changes
-   - Word-final schwa deletion
-     - [ran.ter.gə] → [ran.terg]
-     - [ma.lə] → [mal]
-   - Final cluster simplification
-     - [bra.məs] → [brams]
-     - [in.nes.bəl] → [in.spell]
-
-## Common Patterns
-
-Evidence from place names shows consistent patterns:
-
-<dl>
-<dt>Initial [θr-]</dt>
-<dd>Becomes [r-] before /a/</dd>
-<dd>Becomes [tr-] before /i,e/</dd>
-<dd>Preserved in sacred/formal terms</dd>
-<dd>Examples:
-    thrantorgral → rantorg
-    thrikel → trikel
-    thran-val remains [θran.val]</dd>
-
-<dt>Unstressed [-ae-]</dt>
-<dd>Becomes [-a-]</dd>
-<dd>Example: bramaes → bramas</dd>
-
-<dt>Compound [-i-]</dt>
-<dd>Becomes [-e-]</dd>
-<dd>Example: innis-bél → innesbel</dd>
-</dl>
+<dt><dfn>iskelai</dfn> [is.ke.lai]</dt>
+<dd>"window condensation"</dd>
+<dd>From iskel + ai</dd>
 
 # Cultural Context
 
@@ -1100,53 +1569,7 @@ its influence persists in:
 - Astronomical terms
 - Water management terminology
 
-# See Also
 
-- [Senera](@/locations/senera.md)
-- [Brams River](@/locations/brams-river.md)
-- [Ranterg Mountains](@/locations/ranterg-mountains.md)
-
-### Color Roots
-
-#### Primary Colors
-
-<dl>
-<dt><dfn>gra</dfn> [gra]</dt>
-<dd>"grey, dull" (most basic color term)</dd>
-
-<dt><dfn>mar</dfn> [mar]</dt>
-<dd>"red, blood-colored"</dd>
-
-<dt><dfn>kel</dfn> [kel]</dt>
-<dd>"blue, sky-colored"</dd>
-
-<dt><dfn>gral</dfn> [gral]</dt>
-<dd>"brown, earth-colored"</dd>
-
-<dt><dfn>thir</dfn> [θir]</dt>
-<dd>"white, pale"</dd>
-
-<dt><dfn>nal</dfn> [nal]</dt>
-<dd>"black, dark"</dd>
-
-#### Derived Terms
-
-<dt><dfn>granes</dfn> [gra.nes]</dt>
-<dd>"grey fish" (herring)</dd>
-
-<dt><dfn>maren</dfn> [ma.ren]</dt>
-<dd>"red deer" (rutting stag)</dd>
-<dd>From: mar-ren → maren (liquid deletion)</dd>
-
-<dt><dfn>thirpel</dfn> [θir.pel]</dt>
-<dd>"white bear" (winter bear)</dd>
-
-<dt><dfn>kelai</dfn> [ke.lai]</dt>
-<dd>"blue water" (deep water)</dd>
-
-<dt><dfn>nalgral</dfn> [nal.gral]</dt>
-<dd>"black earth" (rich soil)</dd>
-</dl>
 
 #### Similarity Prefix
 
@@ -1427,79 +1850,43 @@ deletion)</dd>
 <dd>"grey copper" (tarnished)</dd>
 </dl>
 
-# Historical Derivations
 
-## Proto-Hick to Hick Development
 
-### Directional System Development
+### Early Hick Maritime Vessels & Motion
 
-1. Proto-Forms:
-   - \*wel "mouth/opening"
-   - \*lawes "consume/take in"
-2. Independent Development:
+#### Personnel
 
-   - \*wel > bel "mouth"
-   - *lawes > *laes > -aes "inward motion"
+<dl>
+<dt><dfn>materok</dfn> [ma.te.rok]</dt>
+<dd>"vessel-guide" (boatman, from mater + -ok agentive)</dd>
 
-3. Compound Origins:
+#### Basic Vessel Types
 
-   - \*wel-lawes "mouth-consume"
-     > *wellaes *belaes "intake" specialized use as directional -aes
+<dt><dfn>mater</dfn> [ma.ter]</dt>
+<dd>"vessel" (< malter "pool-flow")</dd>
 
-4. Compare with:
+<dt><dfn>rismater</dfn> [ris.ma.ter]</dt>
+<dd>"reed-vessel" (river reed boat)</dd>
 
-   - *imer "breath" + *is "out" > -imris
-   - Shows parallel grammaticalization path: body action > directional marker
+<dt><dfn>wudmater</dfn> [wud.ma.ter]</dt>
+<dd>"wood-vessel" (timber boat)</dd>
 
-5. Preserved in:
-   - bel "mouth" (from \*wel)
-   - -aes "inward" (from \*lawes)
-   - imeraes "inspiration" (soul-inward)
+#### Specialized Forms
 
-### Proto-Hick \*is- Prefix Development
+<dt><dfn>brammater</dfn> [bram.ma.ter]</dt>
+<dd>"river-vessel" (specialized river craft)</dd>
 
-1. Basic Pattern: Proto-Hick \*is- "out, external" + root:
+<dt><dfn>kethmater</dfn> [keθ.ma.ter]</dt>
+<dd>"sea-vessel" (ocean-going ship)</dd>
 
-   - \*is-esgir > sekir "foreigner" (lit. "outer-body")
-   - \*is-kel > iskel "window" (lit. "out-sky")
+#### Example Usage
 
-2. Sound Changes: When \*is- meets vowel-initial roots:
+- materok rismaterimris kethes boatman reed.vessel.PROX.ELL sea.ABS "the boatman
+takes the reed boat to sea"
+</dl>
 
-   - \*is-V... > sV...
-   - Metathesis occurs: \*isesgir > sekir
-   - When \*is- meets consonant-initial roots:
-     - \*is-C... > \*isC...
-     - Preserves cluster in iskel
+# See Also
 
-3. Modern Reflexes:
-   <dl>
-   <dt>As independent words:</dt>
-   <dd>sekir "foreigner" (*is-esgir)</dd>
-   <dd>iskel "window" (*is-kel)</dd>
-
-   <dt>Compare newer formations:</dt>
-   <dd>kiris "outsider" (kir+is)</dd>
-   <dd>imeris > imris "outward" (imer+is)</dd>
-   </dl>
-
-   ### Proto-Hick Animacy Marking and Its Reflexes
-
-Proto-Hick marked animacy through \*hi- prefixation, which developed irregularly
-in Early Hick:
-
-#### Pattern 1: hi.CV > ʔV
-
-- \*hi.nal > ʔal "person" (animate)
-- \*hi.mal > mal "pool" (inanimate, prefix lost)
-- \*hi.tar > tar "fall" (inanimate, prefix lost)
-
-#### Pattern 2: hi.CV > hV
-
-- \*hi.bel > hel "speaker" (animate)
-- \*hi.ren > ren "flow" (inanimate, prefix lost)
-- \*hi.kur > kur "copper" (inanimate, prefix lost)
-
-#### Pattern 3: hi.CV > CV̀ (with distinctive pitch)
-
-- \*hi.smed > smèd "smith" (animate)
-- \*hi.tor > tor "peak" (inanimate, prefix lost)
+- [Senera](@/locations/senera.md)
+- [Brams River](@/locations/brams-river.md)
+- [Ranterg Mountains](@/locations/ranterg-mountains.md)

@@ -47,7 +47,7 @@ terminology and place names.
 
 | Manner     | Labial | Dental | Alveolar | Post-alv | Palatal | Velar | Glottal |
 | ---------- | ------ | ------ | -------- | -------- | ------- | ----- | ------- |
-| Stops      | p b    |        | t d      |          |         | k g   |         |
+| Stops      | p b    |        | t d      |          |         | k g   | ʔ       |
 | Fricatives | f v    | θ ð    | s z      | ʃ ʒ      |         |       | h       |
 | Affricates |        |        |          | tʃ dʒ    |         |       |         |
 | Nasals     | m      |        | n        |          |         | ŋ     |         |
@@ -56,6 +56,7 @@ terminology and place names.
 
 Notes:
 
+- /ʔ/ is allophonic, either word-initially or as optional vowel hiatus
 - /θ ð/ mainly in formal/administrative terms from Kalassarian
 - /ʃ ʒ/ developed from palatalization of Late Hick clusters
 - /tʃ dʒ/ from Kalassarian palatalized stops
@@ -96,6 +97,55 @@ Notes:
 ## Compound Formation
 
 <!-- Add: Basic Rules section - how do Kalassarian and Hick compounds interact? -->
+
+### Spatial Deictics
+
+#### Primary System (General Use)
+
+<dl>
+<dt><dfn>hir</dfn> [hiːr]</dt>
+<dd>"here" (< Iut. *hēr)</dd>
+<dd>General proximal reference</dd>
+
+<dt><dfn>tair</dfn> [teɪr]</dt>
+<dd>"there" (< Iut. *þār)</dd>
+<dd>General distal reference</dd>
+
+#### Technical Precision System
+
+<dt><dfn>is</dfn> [ɪs]</dt>
+<dd>"this exact point" (< Hick istel)</dd>
+<dd>Precise location marking</dd>
+
+<dt><dfn>eth</dfn> [eθ]</dt>
+<dd>"that reference point" (< Hick ethtel)</dd>
+<dd>Known landmark reference</dd>
+
+<dt><dfn>ut</dfn> [ʊt]</dt>
+<dd>"far marker" (< Hick umtel)</dd>
+<dd>Distant reference point</dd>
+
+#### Maritime Usage Examples
+
+- "is mal" [ɪs.mal] "this exact mooring point"
+- "eth ners" [eθ.nərs] "that known channel narrowing"
+- "ut stel" [ʊt.stel] "that distant stern marker"
+- "is ter eth" [ɪs.tər.eθ] "from this point to that marker"
+- "eth skelward" [eθ.skel.wərd] "that established shipping lane"
+
+#### Harbor Command Examples
+
+- "is-ward!" [ɪs.wərd] "to this exact point!"
+- "eth-mal!" [eθ.mal] "to that known berth!"
+- "ut-ter!" [ʊt.tər] "toward that distant point!"
+
+#### Navigation Examples
+
+- "is bram" [ɪs.bram] "this precise tidal point"
+- "eth liners" [eθ.lɪ.nərs] "that known hazardous narrowing"
+- "ut wickmal" [ʊt.wɪk.mal] "that distant harbor entrance"
+
+</dl>
 
 # Lexicon
 
@@ -839,3 +889,299 @@ Suffixes:
 - Rector [rek.tər] "harbor master" < rector
 - Curator [kjʊ.reɪ.tər] "overseer" < curator
 - Burser [bɜr.sər] "treasurer" < bursarius
+
+### Development of Adjectival Marker
+
+#### Historical Development
+
+1. Early Hick \*ka- "like, similar to"
+2. Middle Seneran: Broadens to general attributive marker
+3. Modern Seneran: Standard adjectival prefix ke-/ka-
+
+#### Sound Changes
+
+- \*ka- → ke- before front vowels
+- \*ka- → ka- elsewhere
+- Reduced to k- before some consonants
+
+#### Examples
+
+<dl>
+<dt><dfn>kemal</dfn> [ke.mal]</dt>
+<dd>"harbor-like, maritime" (< ka-mal "pool-like")</dd>
+
+<dt><dfn>kator</dfn> [ka.tɔr]</dt>
+<dd>"mountainous" (< ka-tor "peak-like")</dd>
+
+<dt><dfn>kbram</dfn> [kbram]</dt>
+<dd>"tidal" (< ka-bram, with vowel loss)</dd>
+
+#### Specialized Maritime Usage
+
+<dt><dfn>keskel</dfn> [ke.skel]</dt>
+<dd>"nautical" (< ka-skel "ship-like")</dd>
+
+<dt><dfn>kawick</dfn> [ka.wɪk]</dt>
+<dd>"harbor-related" (< ka-wick "port-like")</dd>
+
+#### Administrative Terms
+
+<dt><dfn>kaport</dfn> [ka.pɔrt]</dt>
+<dd>"commercial" (< ka-port "port-related")</dd>
+
+<dt><dfn>kemar</dfn> [ke.mar]</dt>
+<dd>"maritime" (< ka-mar "sea-like")</dd>
+</dl>
+
+### Final Stop Aspiration (Allophonic)
+
+#### Distribution Rule
+
+Final stops are aspirated:
+
+1. Word-finally after stressed syllables
+2. In formal/maritime register
+3. No minimal pairs (purely allophonic)
+
+#### Examples
+
+<dl>
+<dt>Casual Register:</dt>
+<dd>bat [bat] ~ [bat̚ʰ] "boat"</dd>
+<dd>lak [lak] ~ [lak̚ʰ] "lake"</dd>
+
+<dt>Formal/Maritime Register:</dt>
+<dd>bat [bat̚ʰ] "boat" (consistently aspirated)</dd>
+<dd>lak [lak̚ʰ] "lake" (consistently aspirated)</dd>
+
+#### Register Variation
+
+1. Maritime Speech:
+   - Consistent final aspiration
+   - [bat̚ʰ] "boat"
+   - [lak̚ʰ] "lake"
+2. Casual Speech:
+   - Variable/absent aspiration
+   - [bat] ~ [bat̚] "boat"
+   - [lak] ~ [lak̚] "lake"
+
+#### Historical Note
+
+- Derives from Middle Hick /h/-clusters
+- No phonemic contrast developed
+- Became register/style marker
+- Preserved most consistently in maritime dialect
+</dl>
+
+### Glottal Stop Distribution (Allophonic)
+
+#### Modern Seneran Environments
+
+1. Word-Initial Vowels:
+
+   - Automatic [ʔ] before initial vowels
+   - ir [ʔir] "iron"
+   - al [ʔal] "stone"
+   - es [ʔes] "east"
+
+2. Vowel Hiatus:
+
+   - Optional [ʔ] between vowels
+   - me.al [me.ʔal] ~ [me.al] "stone pool"
+   - ka.ir [ka.ʔir] ~ [ka.ir] "iron-like"
+   - se.es [se.ʔes] ~ [se.es] "east-ward"
+
+3. Register Variation:
+   - Formal: consistent [ʔ] in hiatus
+   - Casual: optional/absent [ʔ]
+   - Maritime: preserved in certain terms
+
+#### Historical Development
+
+1. From Early Hick Animacy:
+   - E.Hick ʔal > Sen. [ʔ]al "person"
+   - E.Hick ʔeθral > Sen. [ʔ]eθral "good"
+2. New Environments:
+   - Vowel-initial words
+   - Compound boundaries
+   - Emphasized syllables
+
+#### Examples
+
+<dl>
+<dt>Word-Initial:</dt>
+<dd>imer [ʔi.mer] "breath"</dd>
+<dd>amal [ʔa.mal] "pool"</dd>
+
+<dt>Compounds:</dt>
+<dd>me.imer [me.ʔi.mer] ~ [me.i.mer] "breath-flow"</dd>
+<dd>ka.amal [ka.ʔa.mal] ~ [ka.a.mal] "pool-like"</dd>
+
+<dt>Emphasis:</dt>
+<dd>a'mal! [ʔaʔ.mal] "the pool!" (emphatic)</dd>
+</dl>
+
+### Vowel Hiatus Resolution
+
+#### Standard vs. Colloquial Forms
+
+1. /a.i/ sequences:
+
+   - Standard: ka.ir [ka.ʔir] "iron-like"
+   - Colloquial: kair [kaɪ̯r]
+   - Maritime: [ka.ʔir] (maintains hiatus)
+
+2. /e.a/ sequences:
+
+   - Standard: me.al [me.ʔal] "stone pool"
+   - Colloquial: meal [mɛː] ~ [mɛ.əl]
+   - Maritime: [me.ʔal] (maintains hiatus)
+
+3. /a.e/ sequences:
+   - Standard: ma.es [ma.ʔes] "pool-ward"
+   - Colloquial: maes [maɪ̯s]
+   - Maritime: [ma.ʔes] (maintains hiatus)
+
+#### Dialectal Patterns
+
+<dl>
+<dt>Urban Colloquial:</dt>
+<dd>Frequent diphthongization</dd>
+<dd>ka.ir > kair [kaɪ̯r]</dd>
+<dd>se.al > seal [sɛːl]</dd>
+
+<dt>Rural Inland:</dt>
+<dd>Vowel coalescence with length</dd>
+<dd>ka.ir > kar [kaːr]</dd>
+<dd>me.al > mel [mɛːl]</dd>
+
+<dt>Coastal Maritime:</dt>
+<dd>Maintains hiatus</dd>
+<dd>[ka.ʔir], [me.ʔal]</dd>
+<dd>(Conservative, preserves distinctions)</dd>
+
+#### Register Effects
+
+<dt>Formal:</dt>
+<dd>Maintains hiatus with [ʔ]</dd>
+<dd>Legal/administrative terms</dd>
+<dd>Religious vocabulary</dd>
+
+<dt>Casual:</dt>
+<dd>Allows diphthongs</dd>
+<dd>Everyday speech</dd>
+<dd>Fast speech forms</dd>
+</dl>
+
+### Maritime Directional Terms
+
+#### From Early Hick
+
+<dl>
+<dt><dfn>ners</dfn> [nərs]</dt>
+<dd>"narrowing of channel" (< Early Hick neraes)</dd>
+<dd>Technical maritime term</dd>
+
+<dt><dfn>nemris</dfn> [nem.ris]</dt>
+<dd>"channel widening" (< Early Hick nerimris)</dd>
+<dd>Maritime technical term</dd>
+
+<dt><dfn>moner</dfn> [mo.nər]</dt>
+<dd>"broad, wide" (< Early Hick moner)</dd>
+<dd>Archaic/poetic, replaced by analytical forms</dd>
+
+#### Specialized Forms
+
+<dt><dfn>liners</dfn> [laɪ.nərs] ~ [lɪ.nərs]</dt>
+<dd>"to strangle/choke" (< Early Hick lineraes)</dd>
+<dd>Also: "dangerous channel constriction" in maritime usage</dd>
+</dl>
+
+#### Register Variants
+
+- Maritime Technical: [lɪ.nərs] "hazardous narrowing"
+- Legal/Criminal: [laɪ.nərs] "death by strangulation"
+- Common Speech: [lɪ.nərs] "to choke/strangle"
+
+
+# Sound Changes
+
+## Major Historical Changes
+
+Based on place name evidence and comparative analysis with modern Seneran, we
+can identify several key sound changes:
+
+### Early Seneran Period (0-500 AI)
+
+1. Initial Consonant Clusters
+
+   - /θr/ → /r/ / #\_a
+     - thrantorgral → rantorgral "thousand peaks"
+     - thramal → ramal "flowing area"
+   - /θr/ → /tr/ / #\_{i,e}
+     - thrikel → trikel "road network"
+     - thren → tren "watch point"
+   - /θr/ preserved in formal/sacred terms
+     - thran-val [θran.val] "thousand-blessing"
+     - thral-tor [θral.tor] "sacred peak"
+
+2. Vowel Changes
+   - /ae/ → /a/ in unstressed syllables
+     - bramaes → bramas "tidal flow"
+     - thramaes → thramas "sacred water"
+   - /i/ → /e/ in compounds
+     - innis-bél → innesbel "island mouth"
+     - thrim-kel → tremkel "through-sky"
+
+### Middle Seneran (500-1000 AI)
+
+1. Final Syllable Weakening
+
+   - Unstressed vowels → schwa
+     - [ra.na.es] → [ra.nə.əs]
+     - [in.nes.bel] → [in.nes.bəl]
+
+2. Consonant Cluster Evolution
+
+   - Schwa deletion after liquids before stops
+     - [θral.tər] → [θraltr] "sacred peak"
+     - [mal.kə] → [malk] "pool-place"
+   - Preserved elsewhere
+     - [in.nes.bəl] remains [in.nes.bəl]
+
+3. Liquid Deletion
+   - [θral.tər] → [θraltr] "sacred peak"
+   - [mal.kə] → [malk] "pool-place"
+
+### Late Seneran (1000+ AI)
+
+1. Final Changes
+   - Word-final schwa deletion
+     - [ran.ter.gə] → [ran.terg]
+     - [ma.lə] → [mal]
+   - Final cluster simplification
+     - [bra.məs] → [brams]
+     - [in.nes.bəl] → [in.spell]
+
+## Common Patterns
+
+Evidence from place names shows consistent patterns:
+
+<dl>
+<dt>Initial [θr-]</dt>
+<dd>Becomes [r-] before /a/</dd>
+<dd>Becomes [tr-] before /i,e/</dd>
+<dd>Preserved in sacred/formal terms</dd>
+<dd>Examples:
+    thrantorgral → rantorg
+    thrikel → trikel
+    thran-val remains [θran.val]</dd>
+
+<dt>Unstressed [-ae-]</dt>
+<dd>Becomes [-a-]</dd>
+<dd>Example: bramaes → bramas</dd>
+
+<dt>Compound [-i-]</dt>
+<dd>Becomes [-e-]</dd>
+<dd>Example: innis-bél → innesbel</dd>
+</dl>
