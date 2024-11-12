@@ -8,6 +8,7 @@
   "MD033": {
     "allowed_elements": [
       "aside",
+      "dfn",
       "dl",
       "dt",
       "dd"
