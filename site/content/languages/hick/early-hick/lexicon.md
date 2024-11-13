@@ -25,18 +25,21 @@ For grammatical information and language overview, see
 
 1. Elements
    - ai [ai] "water" < Proto-Hick \*ahi → ai
-     ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
      See: [Maritime Terms](#maritime-terms), [Water Features](#water-features)
    - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-     See: [Landscape Terms](#landscape-terms)
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     [Landscape Terms](#landscape-terms)
    - kel [kel] "sky" < Proto-Hick \*kelu → kel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-     See: [Time Terms](#time--celestial), [Colors](#colors)
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     [Time Terms](#time--celestial), [Colors](#colors)
    - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-     See: [Colors](#colors)
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     [Colors](#colors)
 2. Water Features
+   - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Maritime Terms](#maritime-terms)
    - mal [mal] "pool, standing water" < Proto-Hick \*malu → mal
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
@@ -168,7 +171,7 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 ### Colors
 
 - gra [gra] "grey" < Proto-Hick \*grau → gra
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
   See: [Metals](#metals)
 - mar [mar] "red" < Proto-Hick \*maru → mar
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -315,7 +318,7 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 3. Agentive Suffix
    - -ok suffix for person/agent: materok "boatman" < mater-ok "vessel-AGENT" →
      materok
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+      ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
 
 ## Sound Changes in Compounds
 

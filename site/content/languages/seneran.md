@@ -191,6 +191,10 @@ Notes:
    - Gulf of Inespell (from "Innis-bél")
    - Thranal Waters (from "Thran-aes")
 
+### Creatures
+  - alsomok [al.so.mok] "Shapeshifter" 
+
+
 # Sound Changes
 
 ## Early Seneran (0-500 AI)

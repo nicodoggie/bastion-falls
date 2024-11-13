@@ -13,6 +13,15 @@ The Hick language was the primary tongue of pre-Kalassarian Senera. While no
 longer spoken, it survives in place names, maritime terminology, and religious
 traditions throughout modern Senera.
 
+A Kalassarian language grammatical sketch of Early and Middle Hick was
+unearthed, along with a lexicon was found in an unsealed room underneath the
+[Admiralty's Helm](@/locations/admiraltys-helm.md) in
+[Surrey-on-the-Brams](@/locations/surrey-on-the-brams.md). Details in this is a
+modern analysis of that sketch using modern linguistic methods.
+
+A reconstruction of a hypothetical Proto-Hick is also provided, inferenced from
+regional dialects and the historical development of Hick.
+
 # Historical Development
 
 ## Early Hick (prehistory to ~300 PF)
@@ -56,6 +65,88 @@ traditions throughout modern Senera.
   - Final cluster simplification
   - Vowel length phonemicization
 - Example: [i.ne.spel] → [ine.spell]
+
+# Proto-Hick Reconstruction
+
+## Sound Changes from Proto-Hick to Early Hick
+
+1. Final Vowel Loss (Pre-Early Hick)
+   - \*-u > ∅ / \_#
+   - Extremely regular:
+     - \*thralu → thral "sacred"
+     - \*malu → mal "pool"
+     - \*toru → tor "height"
+     - \*wadu → wad "path"
+     - \*nesu → nes "fish"
+2. Vowel Coalescence (Pre-Early Hick)
+   - \*ahi → ai "water"
+   - \*grau → gra "grey"
+3. Early Hick Compound Formation Patterns
+   - Regular compounding with no changes:
+     - mur-mer → murmer "night-bird"
+     - mur-kel → murkel "night sky"
+     - kur-tin → kurtin "bronze"
+   - Liquid/Nasal Deletion in Early Hick compounds:
+     - thral-gral → thragral "sacred earth"
+     - bram-mal → bramal "tidal pool"
+     - val-mal → vamal "spirit pool"
+   - Tri-element Compound Simplification (Early Hick innovation):
+     - tor-mur-mer → tomur "great owl"
+     - thur-mur-mer → thurmur "dusk owl"
+     - li-mur-mer → limur "small owl"
+
+## Relative Chronology
+
+1. Pre-Early Hick
+
+   - Final vowel loss (\*-u > ∅)
+   - Vowel coalescence (\*ahi > ai)
+
+2. Early Hick Period
+   - Productive compound formation
+   - Development of compound-specific sound changes
+   - Innovation of tri-element compound simplification
+
+## Morphological Evolution
+
+1. Compound Formation Patterns
+   - Element + Element preserved from Proto-Hick
+   - New patterns developed:
+     - Descriptor + Element
+     - Location + Base
+2. Grammatical Categories
+   - Retention of Proto-Hick case system
+   - Development of new aspectual markers
+
+## Semantic Shifts
+
+1. Core Vocabulary
+   - \*thralu "sacred" → thral "sacred; day"
+   - \*kelu "sky" → kel "sky; blue"
+2. Extended Meanings
+   - \*toru "height" → tor- augmentative prefix
+   - \*muru "night" → base for owl terminology
+
+## Directional System Development
+
+1. Illative (-aes)
+   - From Proto-Hick \*lawes "consume/take in"
+   - Sound changes:
+     - *lawes > *laes > -aes
+   - Parallel development with \*wel > bel "mouth"
+   - Original compound: \*wel-lawes "mouth-consume"
+     - > *wellaes > *belaes "intake"
+     - Grammaticalized to directional marker -aes
+2. Ellative (-imris)
+   - From compound: *imer "breath" + *is "out"
+   - Shows parallel grammaticalization:
+     - Body action > directional marker
+   - Preserved in forms like:
+     - imeraes "inspiration" (soul-inward)
+     - imerimris "expression" (soul-outward)
+3. Example Usage
+   - materok rismateraes kethes "the boatman (goes) into the reed boat"
+   - materok rismaterimris kethes "the boatman (goes) out from the reed boat"
 
 # Phonology
 
@@ -128,21 +219,41 @@ See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
    - /thrai-aes/ → [thraes] "sacred flow"
    - /brai-aes/ → [braes] "swift flow"
 
+### Weight Distribution Constraints
+
+1. Stress Patterns
+   - Primary stress falls on first syllable of simple words
+   - In compounds:
+     - a. First element maintains primary stress 
+     - b. Second element reduces unless sacred/ritual term
+     - c. Three-element compounds:
+       - Primary stress on first element
+       - Secondary stress on final element
+       - Middle element reduces
+   - Exceptions:
+     - Sacred/ritual terms resist reduction
+     - Maritime terms maintain second element weight
+     - Recent compounds may preserve full weight
+     - Morphological boundaries may preserve weight
+
+   Examples:
+
+   - 'tor-mal → ['to.məl] "great pool"
+   - 'thral-kel → ['θral.kel] "sacred sky" (no reduction - sacred term)
+   - 'tor-ma-ˌter → ['tor.mə.ˌter] "great-pool-flow"
+   - 'bram-ma-ˌter → ['bram.ma.ˌter] "tide-vessel" (no reduction - maritime)
+
 ## Prosodic System
 
 ### Stress Patterns
 
 1. Primary Stress
-
    - Falls on first syllable of root in isolation
    - Maintained in prefixation: 'ma-tor → ['ma.tor]
    - Shifts in compounds: tor-'mal → [tor.'mal]
-
 2. Secondary Stress
-
    - In three-syllable compounds: 'tor-ma-'ter → ['tor.mə.'ter]
    - In prefix chains: 'ma-ka-'tor → ['ma.kə.'tor]
-
 3. Stress-Related Changes
    - Unstressed /a/ → [ə]
    - Stressed vowels resist reduction
@@ -266,9 +377,13 @@ use prefixes.
    "The person moves"
    ```
 
-2. Spatial Cases
-   - -ris (ELL): motion away from
-   - -im (ILL): motion into
+2. Spatial Cases Spatial cases mark the goal of the motion verb, supplanting the
+   use of the ergative case in those contexts.
+   - -aes (ILL): "inward, into"
+   - -imris (ELL): "outward, from"
+   - -itar (SUPE): "upward, upon"
+   - -esp (SUB): "under, below"
+   - -asam (SUBE): "downward, onto"
 
 ### Agentive Marking
 
@@ -314,23 +429,26 @@ use prefixes.
    - thral-ʔer "to be sacred" (sacred-ACT)
    - thren-ʔer "to watch" (watch-ACT)
 
-### Directional System
+### Spatial System
+
+Early Hick's directional system marks the goal of the motion verb, supplanting
+the use of the ergative case in those contexts.
 
 1. Basic Directionals
-
-   - -ter "to, towards"
-   - -ris "from, away"
-   - -im "into"
-   - -aes "along" Examples:
-   - ward-ter "to direct to"
-   - mal-ris "from the pool"
-   - keth-im "into the sea"
-   - wad-aes "along the path"
-
+   - -aes: illative "inward, into"
+   - -imris: ellative "outward, from"
+   - -itar: superessive "upward, upon"
+   - -asam: subessive "downward, onto"
+   - -esp: sublative "under, below"
+   - -sim: translative "change of state, become"
+   - Examples:
+     - keth-aes "into the sea"
+     - keth-imris "from the sea"
+     - tor-itar "upward to the peak"
+     - tor-asam "downward from the peak"
 2. Complex Directionals
-   - -imris "through" (combination of -im and -ris) Examples:
-   - mater-imris "through the vessel"
-   - val-imris "through the valley"
+   - -aes-imris: translative "change of state, become"
+     - formal, reduced to shorter -sim
 
 ## Nominal Morphology
 
@@ -381,17 +499,13 @@ use prefixes.
 ### Demonstrative System
 
 1. Visible/Known
-
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
    - -en [en] "that" (inanimate)
    - -tan [tan] "that" (animate)
-
 2. Hidden but Sensed
-
    - -eth [eθ] "this/that" (inanimate)
    - -thir [θir] "this/that" (animate)
-
 3. Distant/Out of Sight
    - -um [um] "that" (inanimate)
    - -rum [rum] "that" (animate)
@@ -431,19 +545,23 @@ use prefixes.
 
 1. Basic Directionals
 
-   - -ter "to, towards"
-   - -ris "from, away"
-   - -im "into"
-   - -aes "along" Examples:
-   - ward-ter "to direct to"
-   - mal-ris "from the pool"
-   - keth-im "into the sea"
-   - wad-aes "along the path"
+   - -aes: illative "inward, into"
+   - -imris: ellative "outward, from"
+   - -itar: superlative "upward"
+   - -asam: sublative "downward"
 
-2. Complex Directionals
-   - -imris "through" (combination of -im and -ris) Examples:
-   - mater-imris "through the vessel"
-   - val-imris "through the valley"
+2. Example Usage
+
+   - materokel rismateraes "the boatman enters the reed boat"
+   - materokel rismaterimris "the boatman exits the reed boat"
+   - materokel rismateritar "the boatman climbs onto the reed boat"
+   - materokel rismaterasam "the boatman climbs down from the reed boat"
+
+3. Notes:
+   - Directional cases imply motion verbs
+   - Ergative (-el) marks the agent
+   - No additional case marking needed on the goal/source when using
+     directionals
 
 ## Derivational Morphology
 
@@ -496,15 +614,11 @@ Examples:
 ### Prefix Classes
 
 1. Outer Prefixes (first position)
-
    - mo- (NEG): negation
    - ma- (PL): plural
-
 2. Middle Prefixes (second position)
-
    - tor- (AUG): augmentative
    - li- (DIM): diminutive
-
 3. Inner Prefixes (closest to root)
    - ka- (SIM): similarity
    - is- (PROX): proximate
