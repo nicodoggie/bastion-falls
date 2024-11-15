@@ -244,7 +244,7 @@ reflected in its more practical, sometimes unsavory facilities:
 - Farriers and blacksmiths
 - Stock pens and feed stores
 
-#### Surrey's Ear
+#### Surrey's Ear {#surreys-ear}
 
 West of Port Surrey's plateau stands Surrey's Ear, an uninhabited isle whose
 elevation mysteriously matches that of the prison plateau. Geological evidence

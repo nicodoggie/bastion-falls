@@ -116,7 +116,7 @@ it entailed.
 
 ## Manor Lord
 
-Current title holder: Lord Marthur Malthren
+Current title holder: [Lord Marthur Malthren](@/characters/marthur-malthren.md)
 
 The Lord Malthren holds as its estate, Malthren Manor and its environs, and the
 right to designate areas in their holdings as a township and harbor. The Lord
