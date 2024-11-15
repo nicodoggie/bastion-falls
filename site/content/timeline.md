@@ -41,15 +41,19 @@ each with 30 days.
 | 440 AI  | Kalassarians flee; White Witches control island                       |
 | 466 AI  | Razing of the City of Kalassus                                        |
 | 466 AI  | Fall of the Western Kalassar Empire                                   |
+| 466 AI  | The Kingdom of Senera is founded                                      |
 | 547 AI  | Founding of the Kingdom of Poasah                                     |
 | 627 AI  | [Calamutz](@/locations/calamutz.md) independence; King Cala I crowned |
 | 670 AI  | Fracturing of the Eastern Kalassar Empire                             |
+| 690 AI  | Seneran Sucession Wars, House Dragonheart split from Maidenfeld       |
 | 701 AI  | King Cala I of Calamutz dies                                          |
 | 701 AI  | Poasan Reconquest of South Central Kalasar                            |
+| 751 AI  | The War of Thyme and Fire starts                                      |
+| 790 AI  | The War of Thyme and Fire ends, House Dragonheart takes the throne    |
 | 876 AI  | Narmaya was born                                                      |
 | 889 AI  | Narmaya was turned                                                    |
-| 955 AI  | Apgarian History: The First Anasaian-Estregan War                     |
 | 910 AI  | Town of Hama sinks                                                    |
+| 955 AI  | Apgarian History: The First Anasaian-Estregan War                     |
 | 968 AI  | Apgarian History: The Second Anasaian-Estregan War                    |
 | 970 AI  | Mauricia was renamed Raibon; Rainoso was founded                      |
 | 970 AI  | Narmaya was imprisoned                                                |

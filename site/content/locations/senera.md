@@ -245,7 +245,7 @@ and astronomical navigation. The
 to Hick maritime activities, though many of their practices were later
 suppressed or adapted during the Kalassarian period.
 
-## Kalassarian Period (110-466 AI)
+## Kalassarian Period (110-466 AI) {#kalassarian-period}
 
 During the
 [Western Kalassarian Empire](@/organizations/western-kalassarian-empire.md)'s
@@ -369,10 +369,10 @@ systematic and complete, with traditional practices strictly outlawed.
 - Emerged during the Fall of Western Kalassar
 - Originally Kalassarian provincial administrators who maintained order
 - Consolidated power through agricultural estates and maritime trade
-- Ruled Senera from 466 AI to approximately 850 AI
+- Ruled Senera from 466 AI to approximately 790 AI
 - Still influential in trade and agriculture, especially spices and herbs
 
-### House Dragonheart (Drakenhart in Old Seneran) (c. 850 AI - Present)
+### House Dragonheart (Drakenhart in Old Seneran) (c. 690 AI - Present)
 
 - Primary Domain: The Ranterg Heights
 - Ancestral Seat: Thrantorbury
@@ -514,7 +514,7 @@ systematic and complete, with traditional practices strictly outlawed.
 
 ## Eastern Provinces (Kalassarian dominance)
 
-### The Surrey Prefecture
+### The Inespell March
 
 - Capital: Surrey-on-the-Brams
 
@@ -535,18 +535,6 @@ systematic and complete, with traditional practices strictly outlawed.
   - Primary naval base
   - Administrative center
   - Strategic harbor facilities
-
-### The Inespell March
-
-- Capital: Spellgate
-- Major settlements:
-  - Castellon (< Kal. castellum-tonum)
-  - Portmark (< Kal. porta + mark)
-  - Tidbury (< Kal. tid-burrium)
-- Notable features:
-  - Gulf harbors
-  - Defensive fortifications
-  - Maritime trade centers
 
 ## Central Provinces (Mixed influence)
 
@@ -590,41 +578,84 @@ systematic and complete, with traditional practices strictly outlawed.
 
 ## Greater Nobility
 
-### Marcher Lords (highest non-royal rank)
+### Dukes/Duchesses
 
-- House Maidenfeld
+#### Duke of the North
 
-  - Domain: The Rannek March
-  - Seat: Rannekford
-  - Special Right: Hereditary Granary-Keepers of the Realm
+#### Duke of the East
 
-- House Spellward
-  - Domain: The Inespell March
-  - Seat: Spellgate
-  - Special Right: Hereditary Wardens of the Gulf
+#### Duke of the South
 
-### Lord Admiral
+#### Duke of the West
 
-- House Surrata
-  - Domain: The Surrey Prefecture
-  - Seat: Surrey-on-the-Brams
-  - Special Right: Command of Eastern Fleet
-  - Key Holdings:
-    - Island fortress complex
-    - Naval headquarters
-    - Eastern harbors
-    - Strategic port facilities
+### Marquessate
 
-### High Thane
+#### House Surrata
+
+The coastal domain of the Inespell Gulf had been held by House Surrata since the
+Fall of Western Kalassar. They have been instrumental in the rise to power of
+the Maidenfeld Dynasty. After the dust had settled, the Maidenfeld monarch had
+designated the entirety of the gulf as a march under the authority of the first
+Marcher Lord of Surrey.
+
+After the War of Thyme and Fire, the Dragonhearts wanted to ensure that the
+powerful House Surrata was kept under their thumb, so the Inespell March was
+designated as a marquessate. The House would hold higher esteem in the peerage,
+but would lose the autonomy that a Marcher Lordship enjoyed.
+
+In the present day, the head of House Surrata not only holds the title of
+Marquess, but also commands the Eastern Fleet as Lord High Admiral of the Realm.
+
+- Domain: The Inespell March
+- Seat: Surrey-on-the-Brams
+- Special Right: Lord High Admiral of the Realm
+- Key Holdings:
+  - Island fortress complex
+  - Naval headquarters
+  - Eastern harbors
+  - Strategic port facilities
+
+### Earldoms
+
+### Thanedoms
 
 - House Tormark
   - Domain: The Maltrek Thanedom
   - Seat: Malterburgh
   - Special Right: Keeper of the Old Calendar
 
+### Marcher Lords
+
+- House Rannok
+
+  - Domain: The Rannek March
+  - Seat: Rannekford
+  - Special Right: Hereditary Granary-Keepers of the Realm
+
+### Viscounts/Viscounties
+
+- House Maidenfeld
+
+The Maidenfelds used to hold the entirety of the Rannek March and were the
+ruling royal house of Senera. A once cadet branch of the House, the
+Dragonhearts, eventually contested the throne and supplanted the Maidenfelds
+after the War of Thyme and Fire.
+
+The Maidenfelds were not outright removed from the peerage, but were reduced to
+the status of Viscounts, and were restricted to the estates surrounding their
+ancestral lands in Thregel Valley in the western portion of the Rannek March.
+
+- Domain: Thregel Valley
+- Seat: Thregel Keep
+
 ## Lesser Nobility
 
 ### Counts/Countesses
+
+- House Spellward
+  - Domain: The Lower Spells
+  - Seat: Cape Spellward
+  - Special Right:
 
 - House Skelwick
 
@@ -672,8 +703,14 @@ systematic and complete, with traditional practices strictly outlawed.
   - Notable: Spring-Keepers
 
 - House Torgate
+
   - Domain: Mountain Pass Holdings
   - Notable: Pass-Wardens
+
+- House Malthren (extinct 1275)
+  - Domain: The Narrows
+  - Seat: Malthren Yard (now abandoned)
+  - Notable: Ancient Wardens of the Thramal
 
 ## Lesser Nobility of Eastern Senera
 

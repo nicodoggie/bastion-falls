@@ -36,6 +36,10 @@ For grammatical information and language overview, see
    - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
      [Colors](#colors)
+   - gar [gar] "stone" < Proto-Hick *garu → gar
+     ([final vowel loss])
+   - gral [gral] "earth, soil" < Proto-Hick *gralu → gral
+     ([final vowel loss])
 2. Water Features
    - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -43,19 +47,100 @@ For grammatical information and language overview, see
    - mal [mal] "pool, standing water" < Proto-Hick \*malu → mal
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
+   - ran [ran] "stream, flowing water" < Proto-Hick \*ranu → ran
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - toran [to.ran] "river, flowing water" < Proto-Hick \*ranu → ran
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 3. Landforms
+
    - tor [tor] "height, peak" < Proto-Hick \*toru → tor
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Augmentative Prefix](#augmentativediminutive)
    - thrantor [θran.tor] "mountain range" < thran-tor "thousand peaks" →
      thrantor
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - val [val] "valley" < Proto-Hick \*valu → val
+   - val [val] "valley, water-cut lowland" < Proto-Hick \*valu → val
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - nagral [na.gral] "black earth" < nal-gral "black-earth" → nagral
      ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
    - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
      ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     See: [Garden Terms](#garden-terms)
+   - kirtor [kir.tor] "cliff face" < kir-tor "chest-height" → kirtor
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - dortor [dor.tor] "back slope" < dor-tor "back-height" → dortor
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - palmal [pal.mal] "deep pool" < pal-mal "belly-pool" → palmal
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thalgral [θal.gral] "hillside" < thal-gral "side-earth" → thalgral
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+4. Precipitation
+   - aitar [ai.tar] "rain" < ai-tar "water-fall" → aitar
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - bramis [bra.mis] "sea mist, coastal fog" < bram-mis "tide-mist" → bramis
+     ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+   - miraitar [mi.rai.tar] "cold rain" < mir-aitar "cold-rain" → miraitar
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+### Flora & Agriculture
+
+1. Basic Plant Terms
+
+   - ris [ris] "reed" < Proto-Hick \*risu → ris
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - wud [wud] "wood, tree" < Proto-Hick \*wudu → wud
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - gras [gras] "grass" < Proto-Hick \*grasu → gras
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - sed [sed] "seed" < Proto-Hick \*sedu → sed
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - kel [kel] "leaf" < Proto-Hick \*kelu → kel
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - bran [bran] "branch" < Proto-Hick \*branu → bran
+     ([final vowel
+     loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - wen [wen] "flower" < Proto-Hick \*venu -> wenu → wen
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+
+2. Cultivated Plants
+
+   - gransed [gran.sed] "grain" < gras-sed "grass-seed" → gransed
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - malris [mal.ris] "water reed" < mal-ris "pool-reed" → malris
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - ranris [ran.ris] "river reed" < ran-ris "stream-reed" → ranris
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirwud [θir.wud] "white wood" < thir-wud "white-wood" → thirwud
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - marwud [mar.wud] "red wood" < mar-wud "red-wood" → marwud
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+3. Agricultural Terms
+
+   - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - granmal [gran.mal] "grain storage" < gran-mal "grain-pool" → granmal
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - sedok [se.dok] "planter, farmer" < sed-ok "seed-AGENT" → sedok
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - graswad [gras.wad] "pasture path" < gras-wad "grass-path" → graswad
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+4. Garden Terms
+   - thragral [θra.gral] "garden" < thral-gral "sacred-earth" → thragral
+     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     See: [Landforms](#landforms) Note: The dual meaning reflects the sacred
+     nature of cultivated land in Hick culture, where gardens were seen as
+     sanctified spaces
+   - kelwud [kel.wud] "orchard" < kel-wud "leaf-wood" → kelwud
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - riswad [ris.wad] "garden path" < ris-wad "reed-path" → riswad
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - sedthral [sed.θral] "planting day" < sed-thral "seed-sacred" → sedthral
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 
 ### Sacred & Ritual
 
@@ -94,7 +179,7 @@ For grammatical information and language overview, see
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kurtin [kur.tin] "bronze" < kur-tin "copper-tin" → kurtin
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - mar [mar] "red metal" < Proto-Hick \*maru → mar
+   - mar [mar] "rust, red metal" < Proto-Hick \*maru → mar
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Colors](#colors)
    - grakur [gra.kur] "grey copper" < gra-kur "grey-copper" → grakur
@@ -131,6 +216,7 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
    - gras [gras] "grass" < Proto-Hick \*grasu → gras
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 2. Animals
+
    - nes [nes] "fish" < Proto-Hick \*nesu → nes
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - mer [mer] "bird" < Proto-Hick \*meru → mer
@@ -142,6 +228,25 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - ren [ren] "deer" < Proto-Hick \*renu → ren
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - belnes [bel.nes] "mouthed fish" < bel-nes "mouth-fish" → belnes
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - kranren [kran.ren] "horned deer" < kran-ren "horn-deer" → kranren
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - venmer [ven.mer] "wing bird" < ven-mer "wing-bird" → venmer
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - silpel [sil.pel] "hide bear" < sil-pel "hide-bear" → silpel
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirpel [θir.pel] "fur-bear" < thir-pel "fur-bear" → thirpel
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - lisbel [lis.bel] "face" < lis-bel "eye-mouth" → lisbel
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirren [θir.ren] "winter coat deer" < thir-ren "fur-deer" → thirren
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - kirpel [kir.pel] "rearing bear" < kir-pel "chest-bear" → kirpel
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - dorren [dor.ren] "pack deer" < dor-ren "back-deer" → dorren
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
      mur-mer
@@ -226,6 +331,8 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kran [kran] "horn, spike" < Proto-Hick \*kranu → kran
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - ter [ter] "body fluids" < Proto-Hick \*teru → ter
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 2. Face Terms
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -235,6 +342,10 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - bran [bran] "brow, ridge" < Proto-Hick \*branu → bran
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - listhir [lis.θir] "eyebrow" < lis-thir "eye-hair" → listhir
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - lissim [li.sim] "eyelash" < lis-sim "eye-lash" → lissim
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 3. Trunk Terms
    - kir [kir] "chest, front" < Proto-Hick \*kiru → kir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -244,6 +355,10 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - thal [θal] "side, flank" < Proto-Hick \*thalu → thal
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+4. Internal
+   - mar [mar] "rust, red metal" < Proto-Hick \*maru → mar
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Colors](#colors)
 
 ### Architecture
 
@@ -252,6 +367,9 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
    - iskelai [is.ke.lai] "window condensation" < iskel-ai "window-water" →
      iskelai
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+2. Military
+   - branlir [bran.lir] "watchtower" < bran-lir "ridge-watch" → branlir
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 
 ### Climate & Weather
@@ -300,6 +418,91 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      imerimris
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 
+### Kinship Terms
+
+1. Basic Terms
+
+   - bao [ba.o] "father" < Proto-Hick \*bawu → bao
+     ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - nai [nai] "mother" < Proto-Hick \*nahi → nai
+     ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - ʔal [ʔal] "person" < Proto-Hick \*ʔalu → ʔal
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - mer [mer] "parent" < Proto-Hick \*meru → mer (metaphorical extension from
+     "bird")
+   - thir [θir] "elder" < Proto-Hick \*thiru → thir (metaphorical extension from
+     "air/white")
+   - lis [lis] "child" < Proto-Hick \*lisu → lis (metaphorical extension from
+     "eye")
+
+2. Compound Terms
+
+   - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirmer [θir.mer] "grandparent" < thir-mer "elder-parent" → thirmer
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirlis [θir.lis] "grandchild" < thir-lis "elder-child" → thirlis
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - tormer [tor.mer] "ancestor" < tor-mer "great-parent" → tormer
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - limer [li.mer] "younger parent/aunt/uncle" < li-mer "small-parent" → limer
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirbao [θir.ba.o] "grandfather" < thir-bao "elder-father" → thirbao
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - thirnai [θir.nai] "grandmother" < thir-nai "elder-mother" → thirnai
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - torbao [tor.ba.o] "ancestor (paternal)" < tor-bao "great-father" → torbao
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - tornai [tor.nai] "ancestor (maternal)" < tor-nai "great-mother" → tornai
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - libao [li.ba.o] "uncle (paternal)" < li-bao "lesser-father" → libao
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - linai [li.nai] "aunt (maternal)" < li-nai "lesser-mother" → linai
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+3. Usage Examples
+   - merlis-el thirmer-es threnʔer offspring-ERG grandparent-ABS watch.ACT "The
+     offspring watches the grandparent"
+   - tormer-ok-el thral-es wardʔer ancestor-AGENT-ERG sacred-ABS direct.ACT "The
+     keeper of ancestors directs the sacred (ritual)"
+
+### Number System
+
+1. Basic Numbers
+
+   - sin [sin] "one" < Proto-Hick \*sinu → sin
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - tir [tir] "two" < Proto-Hick \*tiru → tir
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - thal [θal] "three" < Proto-Hick \*thalu → thal
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - fen [fen] "four" < Proto-Hick \*fenu → fen
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - pil [pil] "five" < Proto-Hick \*pilu → pil
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - sek [sek] "six" < Proto-Hick \*seku → sek
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - pran [pran] "seven" < Proto-Hick \*pranu → pran
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - kres [kres] "eight" < Proto-Hick \*kresu → kres
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - sinkres [sin.kres] "nine" < sin-kres "one-eight" → sinkres
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - tirkres [tir.kres] "ten" < tir-kres "two-eight" → tirkres
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - keth [keθ] "hundred" < Proto-Hick \*kethu → keth
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - thran [θran] "thousand" < Proto-Hick \*thranu → thran
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+
+2. Derived Number Terms
+   - ma-kres [ma.kres] "many" < ma-kres "PL-eight" → makres
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - ma-sin [ma.sin] "everyone" < ma-sin "PL-one" → masin
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - ma-thal [ma.θal] "group (of people)" < ma-thal "PL-three" → mathal
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
 ## Derivational Patterns
 
 1. Compound Formation
@@ -318,7 +521,7 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 3. Agentive Suffix
    - -ok suffix for person/agent: materok "boatman" < mater-ok "vessel-AGENT" →
      materok
-      ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+     ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
 
 ## Sound Changes in Compounds
 

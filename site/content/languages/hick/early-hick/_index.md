@@ -122,7 +122,7 @@ regional dialects and the historical development of Hick.
 
 1. Core Vocabulary
    - \*thralu "sacred" → thral "sacred; day"
-   - \*kelu "sky" → kel "sky; blue"
+   - \*kelu "sky"  kel "sky; blue"
 2. Extended Meanings
    - \*toru "height" → tor- augmentative prefix
    - \*muru "night" → base for owl terminology
@@ -367,7 +367,7 @@ use prefixes.
 
    Examples:
 
-   ```
+   ```plaintext
    materok-el ʔal-es ward-ter
    handler-ERG person-ABS direct-to
    "The handler directs the person"
@@ -377,13 +377,14 @@ use prefixes.
    "The person moves"
    ```
 
-2. Spatial Cases Spatial cases mark the goal of the motion verb, supplanting the
-   use of the ergative case in those contexts.
-   - -aes (ILL): "inward, into"
-   - -imris (ELL): "outward, from"
-   - -itar (SUPE): "upward, upon"
-   - -esp (SUB): "under, below"
-   - -asam (SUBE): "downward, onto"
+2. Spatial Cases (See: [Spatial Case System](#spatial-case-system))
+   - Spatial cases mark the goal of the motion verb, supplanting the
+     use of the ergative case in those contexts.
+     - -aes (ILL): "inward, into"
+     - -imris (ELL): "outward, from"
+     - -itar (SUPE): "upward, upon"
+     - -esp (SUB): "under, below"
+     - -asam (SUBE): "downward, onto"
 
 ### Agentive Marking
 
@@ -392,6 +393,41 @@ use prefixes.
    - -er [er]: forms active participant nouns Examples:
    - materok "boatman" < mater-ok "vessel-AGENT"
    - ward-er "guide" < ward "direct"
+
+### Tense Marking
+
+1. Basic Temporal Markers
+   - branum [bra.num] "past" (lit. "swift-that.DIST.INAN")
+     - From bran "swift/passing" + -um "distal inanimate"
+     - Conceptualizes past as distant/unseen time
+   - branrum [bran.rum] "ancestral time" (lit. "swift-that.DIST.ANIM")
+     - Uses animate distal marker for sacred/ancestral time
+   - mulsum [mul.sum] "future" (lit. "night-change-DIST")
+     - From mulsimrum "changes to a distant night"
+     - Grammaticalized through reduction: mulsimrum → mulsum
+   
+2. Completive Marking
+   - tel [tel] "complete, finished"
+     - Follows clause for past perfect meaning
+     - Example: bramisimris kethes branum tel
+       "the river had flowed to the sea"
+
+3. Position and Usage
+   - Can occur sentence-initial (topic/focus):
+     - branum bramisimris kethes
+       "In the past, the river flowed to the sea"
+     - mulsum bramisimris kethes
+       "In the future, the river will flow to the sea"
+   - Can occur sentence-final (neutral):
+     - bramisimris kethes branum
+       "The river flowed to the sea"
+     - bramisimris kethes mulsum
+       "The river will flow to the sea"
+   - Can occur pre-verbal (emphasis):
+     - bramisimris branum kethes
+       "The river USED TO flow to sea"
+     - bramisimris mulsum kethes
+       "The river WILL flow to sea"
 
 ### Spatial Reference System
 
@@ -417,9 +453,9 @@ use prefixes.
    - um "or"
 
 2. Complex Connectors
-   - isis "and then"
-   - ethis "while"
-   - umis "or else"
+   - ishis [is.his] "and then"
+   - ethis [eθ.is] "while"
+   - umis [um.is] "or else"
 
 ### Verbal System
 
@@ -429,7 +465,7 @@ use prefixes.
    - thral-ʔer "to be sacred" (sacred-ACT)
    - thren-ʔer "to watch" (watch-ACT)
 
-### Spatial System
+### Spatial Case System
 
 Early Hick's directional system marks the goal of the motion verb, supplanting
 the use of the ergative case in those contexts.
@@ -468,6 +504,9 @@ the use of the ergative case in those contexts.
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
      - tomal [to.mal] "great pool, lake" (tor-mal → tomal, liquid deletion)
+3. Speed Augmentative (tor- -sim)
+   - Circumfix combining the argumentative tor- with the translative -sim to
+     mean a swift change in speed
 
 ### Number Marking
 
@@ -631,12 +670,12 @@ Examples:
 
    - -ok (AGENT): agentive
    - -er (ACT): active participant
-   - -el (ERG): ergative case
 
 2. Outer Suffixes (final position)
+   - -el (ERG): ergative case
    - -es (ABS): absolutive case
-   - -ris (ELL): elative case
-   - -im (ILL): illative case
+   - -imris (ELL): ellative case
+   - -aes (ILL): illative case
 
 ### Restrictions
 
