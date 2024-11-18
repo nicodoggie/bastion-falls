@@ -25,10 +25,15 @@ a natural breakwater where the river divides.
 
 ### Topography
 
-The island features a dramatic elevation rise from east to west, culminating in
-the Crow's Nest plateau at the western end of the teardrop. This commanding
-height, rising several hundred feet above the water, dominates both river
-channels and serves as the site of the Admiralty Quarter, including the
+The topography of Surrey-on-the-Brams and Surrey's Ear are intimately connected.
+It's theorized that they were once a single formation, formed by a now-extinct
+volcano that is currently the Ear's Peak. Eroded by the Brams River, the
+formation split into two islands by a channel the locals call _the Ear's Canal_.
+
+Surrey-on-the-Brams features a dramatic elevation rise from east to west,
+culminating in the Crow's Nest plateau at the western end of the teardrop. This
+commanding height, rising several hundred feet above the water, dominates both
+river channels and serves as the site of the Admiralty Quarter, including the
 notorious Admiralty Prison complex (known colloquially as "The Splits"). The
 elevation matches that of the nearby Surrey's Ear, suggesting ancient geological
 connections. The Crow's Nest's steep cliffs on three sides provide natural

@@ -6,6 +6,144 @@ location_type = ["kingdom"]
 
 +++
 
+_Senera_ is a large island kingdom to the northwest of the
+[Beteran Continent](@/locations/betera.md). Culturally, it is closely integrated
+into the rest of the continent, due to its joint history, and its involvement
+with a number of treaties and pacts with mainland states.
+
+It stands as _Arbiter of the Seas_, officially for the
+[Sarmatian Sea](@/locations/sarmatian-sea.md), but de facto for the entire
+western leg of the
+[Seneran-Apgarian-Posaran Trade Route](@/locations/seneran-apgarian-posaran-trade-route.md),
+as well as for the vast and largely uncharted
+[Great Gerim Sea](@/locations/great-gerim-sea.md) to the west of Senera and the
+continent.
+
+# History
+
+## Pre-Kalassarian Era
+
+### Early Hick Period (Before 110 AI)
+
+Archaeological evidence suggests the indigenous Hick peoples developed
+sophisticated maritime and forestry traditions long before Kalassarian contact.
+Ancient stone arrangements and harbor structures indicate advanced understanding
+of tides, astronomy, and navigation. The [Keelswood](@/locations/keelswood.md)
+preserves evidence of their sophisticated forestry management techniques.
+
+Ruins and artifacts from this period hint at conflicts with an unknown maritime
+power, possibly explaining the Hicks' development of sophisticated coastal
+defenses and navigation techniques. By the Late Hick period, their society had
+divided between coastal iron-working communities and inland traditional
+settlements.
+
+### The Brams River Settlements
+
+The [Brams River](@/locations/brams-river.md) held particular significance in
+Hick culture. Its name derives from the ancient Hick phrase "Bram-aes"
+("where-sea-comes"), reflecting its importance as both a trade route and sacred
+waterway. Major settlements developed along its course, particularly at
+strategic confluences and tidal observation points.
+
+### Maritime Heritage
+
+Early Seneran seafaring demonstrated remarkable sophistication in tide-reading
+and astronomical navigation. The
+[Gulf of Inespell](@/locations/gulf-of-inespell.md) was particularly important
+to Hick maritime activities, though many of their practices were later
+suppressed or adapted during the Kalassarian period.
+
+## Kalassarian Period (110-466 AI) {#kalassarian-period}
+
+During the
+[Western Kalassarian Empire](@/organizations/western-kalassarian-empire.md)'s
+height, Senera served as a crucial naval base in the empire's western maritime
+frontier. As an island prefecture, it maintained both magically-powered
+transportation networks (enabled by [Ritma](@/world-novelty/ritma.md)) and
+conventional maritime routes.
+
+The decline of Ritma from the 3rd century (~200s) onward reshaped this
+relationship. While other imperial regions struggled with the loss of
+magically-enhanced logistics and communication, Senera's established maritime
+infrastructure allowed it to maintain relatively stable governance.
+
+When [Kalassus](@/locations/kalassus.md) fell in 466, Senera was uniquely
+positioned to transition smoothly into independence, only formally declaring
+itself a kingdom after the fall of the
+[Potol region](@/locations/tanduaria.md#kalassarian-potol) to the
+[Tandoor](@/ethnicities/tandoor.md).
+
+## Rise of the Maidenfeld Dynasty (Late 460s)
+
+The [House of Maidenfeld](@/families/maidenfeld.md) emerged from the ranks of
+Kalassarian naval administrators who had governed Senera's maritime prefecture.
+Unlike the violent transitions in many post-Kalassarian territories, their
+ascension represented a gradual shift from imperial bureaucracy to sovereign
+authority.
+
+### Administrative Continuity
+
+The Maidenfelds maintained much of the existing Kalassarian administrative
+structure, particularly:
+
+- The naval command hierarchy
+- Port administration systems
+- Tax collection mechanisms
+- Agricultural management
+- Maritime trade regulations
+
+Their legitimacy stemmed from their ability to preserve these institutions while
+other regions collapsed into chaos. The nobility largely emerged from former
+Kalassarian officials who had maintained control over key infrastructure and
+trade routes during the transition.
+
+### Maritime Aristocracy
+
+Seneran aristocracy developed distinct characteristics from mainland nobles:
+
+- Titles often tied to naval responsibilities
+- Hereditary port administration rights
+- Maritime trade privileges
+- Coastal defense obligations
+- Ship-building responsibilities
+
+Their close relationship with [Sanery](@/locations/sanery.md), which maintained
+similar administrative continuity, allowed both regions to preserve much of
+their shared Kalassarian heritage while developing distinct maritime traditions.
+
+### The Dragonheart Transition
+
+The [House of Dragonheart](@/families/dragonheart.md)'s rise to power came
+through a combination of naval prestige and marriage alliances with powerful
+merchant families. Unlike the bureaucratic Maidenfelds, they represented a more
+militant faction of the maritime aristocracy, advocating for aggressive
+expansion of Seneran influence.
+
+## Maritime Expansion and Continental Ambitions
+
+The fragmentation of the [Hapgarian region](@/locations/hapgaria.md) created new
+political dynamics. While [Baraon](@/locations/baraon.md) descended into
+rebellion and famine in the 440s, Senera's maritime connections initially helped
+it avoid the worst of the crisis. The Maidenfelds capitalized on this stability
+to establish their spice trade networks.
+
+The rise of the [House of Dragonheart](@/families/dragonheart.md) marked a shift
+toward more aggressive continental ambitions. This culminated in failed military
+campaigns during the 900s, where two successive Seneran kings attempted to
+expand territories southward and eastward. These campaigns proved costly,
+leading to widespread disillusionment among the nobility who had financed them.
+
+## Modern Era (1225-Present)
+
+The Fall of Bastion in 1225 marked the gradual return of Ritma to the world.
+When the [Poasan-Apgarian Conflict](@/events/poasan-apgarian-conflict.md)
+erupted as the first major conflict of this new magical era, Senera saw an
+opportunity to pursue its long-dormant territorial ambitions.
+
+Through the [Treaty of Turain](@/events/treaty-of-turain.md), Senera secured
+significant control over maritime trade routes, establishing itself as a
+dominant naval power in the region.
+
 # Geography
 
 Senera's landscape is defined by several major geographical features that create
@@ -211,131 +349,6 @@ distinct natural regions:
   - Seasonal grazing
 - Transitions into Eastern Senera's coastal plains
 
-# History
-
-## Pre-Kalassarian Era
-
-### Early Hick Period (Before 110 AI)
-
-Archaeological evidence suggests the indigenous Hick peoples developed
-sophisticated maritime and forestry traditions long before Kalassarian contact.
-Ancient stone arrangements and harbor structures indicate advanced understanding
-of tides, astronomy, and navigation. The [Keelswood](@/locations/keelswood.md)
-preserves evidence of their sophisticated forestry management techniques.
-
-Ruins and artifacts from this period hint at conflicts with an unknown maritime
-power, possibly explaining the Hicks' development of sophisticated coastal
-defenses and navigation techniques. By the Late Hick period, their society had
-divided between coastal iron-working communities and inland traditional
-settlements.
-
-### The Brams River Settlements
-
-The [Brams River](@/locations/brams-river.md) held particular significance in
-Hick culture. Its name derives from the ancient Hick phrase "Bram-aes"
-("where-sea-comes"), reflecting its importance as both a trade route and sacred
-waterway. Major settlements developed along its course, particularly at
-strategic confluences and tidal observation points.
-
-### Maritime Heritage
-
-Early Seneran seafaring demonstrated remarkable sophistication in tide-reading
-and astronomical navigation. The
-[Gulf of Inespell](@/locations/gulf-of-inespell.md) was particularly important
-to Hick maritime activities, though many of their practices were later
-suppressed or adapted during the Kalassarian period.
-
-## Kalassarian Period (110-466 AI) {#kalassarian-period}
-
-During the
-[Western Kalassarian Empire](@/organizations/western-kalassarian-empire.md)'s
-height, Senera served as a crucial naval base in the empire's western maritime
-frontier. As an island prefecture, it maintained both magically-powered
-transportation networks (enabled by [Ritma](@/world-novelty/ritma.md)) and
-conventional maritime routes.
-
-The decline of Ritma from the 3rd century (~200s) onward reshaped this
-relationship. While other imperial regions struggled with the loss of
-magically-enhanced logistics and communication, Senera's established maritime
-infrastructure allowed it to maintain relatively stable governance.
-
-When [Kalassus](@/locations/kalassus.md) fell in 466, Senera was uniquely
-positioned to transition smoothly into independence, only formally declaring
-itself a kingdom after the fall of the
-[Potol region](@/locations/tanduaria.md#kalassarian-potol) to the
-[Tandoor](@/ethnicities/tandoor.md).
-
-## Rise of the Maidenfeld Dynasty (Late 460s)
-
-The [House of Maidenfeld](@/families/maidenfeld.md) emerged from the ranks of
-Kalassarian naval administrators who had governed Senera's maritime prefecture.
-Unlike the violent transitions in many post-Kalassarian territories, their
-ascension represented a gradual shift from imperial bureaucracy to sovereign
-authority.
-
-### Administrative Continuity
-
-The Maidenfelds maintained much of the existing Kalassarian administrative
-structure, particularly:
-
-- The naval command hierarchy
-- Port administration systems
-- Tax collection mechanisms
-- Agricultural management
-- Maritime trade regulations
-
-Their legitimacy stemmed from their ability to preserve these institutions while
-other regions collapsed into chaos. The nobility largely emerged from former
-Kalassarian officials who had maintained control over key infrastructure and
-trade routes during the transition.
-
-### Maritime Aristocracy
-
-Seneran aristocracy developed distinct characteristics from mainland nobles:
-
-- Titles often tied to naval responsibilities
-- Hereditary port administration rights
-- Maritime trade privileges
-- Coastal defense obligations
-- Ship-building responsibilities
-
-Their close relationship with [Sanery](@/locations/sanery.md), which maintained
-similar administrative continuity, allowed both regions to preserve much of
-their shared Kalassarian heritage while developing distinct maritime traditions.
-
-### The Dragonheart Transition
-
-The [House of Dragonheart](@/families/dragonheart.md)'s rise to power came
-through a combination of naval prestige and marriage alliances with powerful
-merchant families. Unlike the bureaucratic Maidenfelds, they represented a more
-militant faction of the maritime aristocracy, advocating for aggressive
-expansion of Seneran influence.
-
-## Maritime Expansion and Continental Ambitions
-
-The fragmentation of the [Hapgarian region](@/locations/hapgaria.md) created new
-political dynamics. While [Baraon](@/locations/baraon.md) descended into
-rebellion and famine in the 440s, Senera's maritime connections initially helped
-it avoid the worst of the crisis. The Maidenfelds capitalized on this stability
-to establish their spice trade networks.
-
-The rise of the [House of Dragonheart](@/families/dragonheart.md) marked a shift
-toward more aggressive continental ambitions. This culminated in failed military
-campaigns during the 900s, where two successive Seneran kings attempted to
-expand territories southward and eastward. These campaigns proved costly,
-leading to widespread disillusionment among the nobility who had financed them.
-
-## Modern Era (1225-Present)
-
-The Fall of Bastion in 1225 marked the gradual return of Ritma to the world.
-When the [Poasan-Apgarian Conflict](@/events/poasan-apgarian-conflict.md)
-erupted as the first major conflict of this new magical era, Senera saw an
-opportunity to pursue its long-dormant territorial ambitions.
-
-Through the [Treaty of Turain](@/events/treaty-of-turain.md), Senera secured
-significant control over maritime trade routes, establishing itself as a
-dominant naval power in the region.
-
 ## Religion
 
 ### Orthodox Divine Masochism
@@ -359,6 +372,50 @@ systematic and complete, with traditional practices strictly outlawed.
 - Festival calendar
 - Public penances
 - Communal rituals
+
+# Culture
+
+## Primogeniture
+
+AFter the Maidenfelds have seized power, they swiftly established a Patrilineal
+Primogeniture as a means of ensuring their hold on power. But in 675 AI, the
+prolific 
+
+fter the first Succession War, the House of Maidenfeld was forced to implement
+an Elective Monarchy, with certain members of the nobility holding a special
+"elector" title. 
+
+## Peerage of the Realm
+
+Since the Fall of Western Kalassar, there have only been two dynasties to rule
+the entirety of Senera: the Maidenfelds and the Dragonhearts. While the
+Maidenfelds did gradually develop the system of feudalism during their campaigns
+to consolidate the realm under their dominion, it was the Dragonhearts who
+formalized the peerage system.
+
+The Peerage of the Realm was established following the War of Thyme and Fire,
+along with sweeping reforms to the judicial and administrative systems of the
+realm. It systematizes the existing feudal hierarchy, and codifies the rights
+and responsibilities of the nobility.
+
+### Royalty
+
+
+#### Duchies
+
+#### Earldoms and Thanedoms
+
+### Marquessates
+
+### Viscounties
+
+## Noble Titles outside the Peerage
+
+### Counties
+
+### Baronies
+
+### Baronetcies
 
 # Noble Houses of Post-Kalassarian Senera
 
@@ -653,6 +710,7 @@ ancestral lands in Thregel Valley in the western portion of the Rannek March.
 ### Counts/Countesses
 
 - House Spellward
+
   - Domain: The Lower Spells
   - Seat: Cape Spellward
   - Special Right:

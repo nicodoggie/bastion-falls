@@ -50,6 +50,55 @@ Malthrek only bestows a Baronetcy, it does also come with the ceremonial duties
 of being Thane of the Magarisok, a title that would get the holder invited into
 Castle Dragonheart during grand festivals.
 
+# Peripheral Events
+
+## Execution of the Principium Captives
+
+Crewmembers of the Principium have been incarcerated in the Splits for close to
+two years at this point. Captors have tried to break them, it's yet unclear if
+they have succeeded. However a public execution has been scheduled for the 15th
+of the 9th 1275.
+
+## Treaty of Turain Organization Review
+
+The following is up for discussion in the upcoming TOTO review:
+
+- the status of the Apgarian
+  [La Camaraderie de la Mer](@/organizations/la-camaraderie.md) as a group given
+  letters of marque by the Apgarian Confederacy
+- the anti-monarchist _Hickland for Hicks_ faction, and their potential
+  connection to the Apgarian privateers
+- the resurgence of a mythical group called the _Hags of Hama_ and their
+  purported immense power ih the L'Illes Apgarie Demilitarized Zone
+
+## Strange Incidents in the Gulf of Inespell
+
+- Ships have been uncharacteristically dumping ballast in improper locations
+- A number of thefts of anchors and iron porthole covers have been reported
+- Some ships' hulls have delaminated from their keels while sailing the Inespell
+
+## Assassination Attempts on the King of Senera
+
+The King of Senera had cancelled a number of high profile appearances due to
+three separate assassination attempts.
+
+1. Two crossbow bolts shot during a tournament at Rannekford, one grazed the
+   king's ear
+2. Unknown assailants attempted to infiltrate the King's ship cabin on a return
+   voyage to Thantorbury
+3. a poisoning attempt during a hunting trip to the Maltrek Highlands
+
+The Maidenfelds denied any involvement in the attempts, but the King is not so
+sure. However, a group called _Hickland for Hicks_ has claimed responsibility
+for the attacks.
+
+## Volcanoes thought to be extinct show signs of activity
+
+1. A Volcano in the Brams River Valley thought to be extinct erupts, burying the
+   town of Ravenford under a layer of ash.
+2. Smoke is seen billowing from the peak of the Ear's Peak.
+3. Lava flows from Mt Heg near Hegsfell
+
 # Factions
 
 ## Orthodox Church of the Divine Masochist
@@ -133,3 +182,31 @@ the our of that miser's death, we will claim it for ourselves!
 The player can choose to be any member of the Hickland for Hicks faction. A
 player choosing this option have the most latitude in character creation, so as
 long as they are radicalized Hicklanders.
+
+# Outline
+
+1. Starting Location
+2. Traveling to the Narrows
+   - if PCs are not from the Narrows:
+     1. Exposition
+     2. Random encounters
+     3. NPC character development
+   - if PCs are from the Narrows:
+     - arrival of the Masochists
+     - some issues with the Reeve
+3. Lord Malthren
+   1. Players will find out that Lord Malthren had regained his ancestors'
+      sight. The power of the Nalthrenok of the Magaris to foresee the future in
+      the swirls of Vortex Cove.
+   2. Depending on the PCs' actions and factions, the route to the Vortex Cove
+      will be easy or hard. The known entrance is from the Murmals market, but
+      the Smugglers Guild has tight control over the area.
+      1. Lord Malthren may share the secret entrance to the Vortex Labyrinth,
+         but will not have enough time to share the path.
+4. The Narrow Underground
+5. Surrey's Ear
+
+# Big Bad
+
+The Big Bad is a monster from the Elemental Plane of Fire that the Elves
+unleashed on the Early Hicks that fought them with iron.

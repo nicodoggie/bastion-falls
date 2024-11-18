@@ -15,7 +15,6 @@ The timeline uses two dating systems:
 The primary calendar is the Kalassarian calendar, which have 12 months in a year
 each with 30 days.
 
-
 | Year    | Event                                                                 |
 | ------- | --------------------------------------------------------------------- |
 | 3000 PF | Founding of the Kureran Capital at Korad                              |
@@ -45,7 +44,8 @@ each with 30 days.
 | 547 AI  | Founding of the Kingdom of Poasah                                     |
 | 627 AI  | [Calamutz](@/locations/calamutz.md) independence; King Cala I crowned |
 | 670 AI  | Fracturing of the Eastern Kalassar Empire                             |
-| 690 AI  | Seneran Sucession Wars, House Dragonheart split from Maidenfeld       |
+| 675 AI  | Seneran Succession Wars starts                                        |
+| 690 AI  | Seneran Succession Wars ends, House Dragonheart split from Maidenfeld |
 | 701 AI  | King Cala I of Calamutz dies                                          |
 | 701 AI  | Poasan Reconquest of South Central Kalasar                            |
 | 751 AI  | The War of Thyme and Fire starts                                      |

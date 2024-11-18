@@ -14,7 +14,7 @@ Senera's interior before splitting around
 
 ## Etymology
 
-The name "Brams" derives from the Hick phrase "bram-aes" meaning "tidal outflow"
+The name "Brams" derives from the Hick phrase "bram-aes" meaning "tidal inflow"
 or "where-sea-comes," reflecting its historical importance as both a trade route
 and sacred waterway to the pre-Kalassarian inhabitants of Senera.
 

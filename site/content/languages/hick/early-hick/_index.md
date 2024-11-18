@@ -122,7 +122,7 @@ regional dialects and the historical development of Hick.
 
 1. Core Vocabulary
    - \*thralu "sacred" → thral "sacred; day"
-   - \*kelu "sky"  kel "sky; blue"
+   - \*kelu "sky" kel "sky; blue"
 2. Extended Meanings
    - \*toru "height" → tor- augmentative prefix
    - \*muru "night" → base for owl terminology
@@ -222,9 +222,10 @@ See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
 ### Weight Distribution Constraints
 
 1. Stress Patterns
+
    - Primary stress falls on first syllable of simple words
    - In compounds:
-     - a. First element maintains primary stress 
+     - a. First element maintains primary stress
      - b. Second element reduces unless sacred/ritual term
      - c. Three-element compounds:
        - Primary stress on first element
@@ -378,8 +379,8 @@ use prefixes.
    ```
 
 2. Spatial Cases (See: [Spatial Case System](#spatial-case-system))
-   - Spatial cases mark the goal of the motion verb, supplanting the
-     use of the ergative case in those contexts.
+   - Spatial cases mark the goal of the motion verb, supplanting the use of the
+     ergative case in those contexts.
      - -aes (ILL): "inward, into"
      - -imris (ELL): "outward, from"
      - -itar (SUPE): "upward, upon"
@@ -394,7 +395,7 @@ use prefixes.
    - materok "boatman" < mater-ok "vessel-AGENT"
    - ward-er "guide" < ward "direct"
 
-### Tense Marking
+### Tense and Aspect Marking
 
 1. Basic Temporal Markers
    - branum [bra.num] "past" (lit. "swift-that.DIST.INAN")
@@ -405,29 +406,20 @@ use prefixes.
    - mulsum [mul.sum] "future" (lit. "night-change-DIST")
      - From mulsimrum "changes to a distant night"
      - Grammaticalized through reduction: mulsimrum → mulsum
-   
 2. Completive Marking
    - tel [tel] "complete, finished"
      - Follows clause for past perfect meaning
-     - Example: bramisimris kethes branum tel
-       "the river had flowed to the sea"
-
+     - Example: bramisimris kethes branum tel "the river had flowed to the sea"
 3. Position and Usage
    - Can occur sentence-initial (topic/focus):
-     - branum bramisimris kethes
-       "In the past, the river flowed to the sea"
-     - mulsum bramisimris kethes
-       "In the future, the river will flow to the sea"
+     - branum bramisimris kethes "In the past, the river flowed to the sea"
+     - mulsum bramisimris kethes "In the future, the river will flow to the sea"
    - Can occur sentence-final (neutral):
-     - bramisimris kethes branum
-       "The river flowed to the sea"
-     - bramisimris kethes mulsum
-       "The river will flow to the sea"
+     - bramisimris kethes branum "The river flowed to the sea"
+     - bramisimris kethes mulsum "The river will flow to the sea"
    - Can occur pre-verbal (emphasis):
-     - bramisimris branum kethes
-       "The river USED TO flow to sea"
-     - bramisimris mulsum kethes
-       "The river WILL flow to sea"
+     - bramisimris branum kethes "The river USED TO flow to sea"
+     - bramisimris mulsum kethes "The river WILL flow to sea"
 
 ### Spatial Reference System
 
@@ -629,6 +621,18 @@ the use of the ergative case in those contexts.
 - bram-mater → brammater "river vessel" (tide-vessel)
 - thral-kel → thrakel "sun" (sacred-sky)
 
+### Body Metaphors
+
+1. Breath as the soul
+2. Liver as source of life
+3. Heart as source of emotion
+4. Bones as structure
+5. Hands as tools
+6. Eyes as reality
+7. Skin as appearance
+
+
+
 ## Affix Order
 
 ### Basic Template
@@ -642,8 +646,8 @@ the use of the ergative case in those contexts.
 
 ```plaintext
 (NEG)-(SIZE)-(SIM)-ROOT-(AGENT)-(CASE)
-```
 
+```
 Examples:
 
 - mo-tor-el (NEG-height-ERG) "not the height (as agent)"

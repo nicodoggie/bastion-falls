@@ -36,10 +36,8 @@ For grammatical information and language overview, see
    - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
      [Colors](#colors)
-   - gar [gar] "stone" < Proto-Hick *garu → gar
-     ([final vowel loss])
-   - gral [gral] "earth, soil" < Proto-Hick *gralu → gral
-     ([final vowel loss])
+   - gar [gar] "stone" < Proto-Hick \*garu → gar ([final vowel loss])
+   - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral ([final vowel loss])
 2. Water Features
    - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -98,8 +96,7 @@ For grammatical information and language overview, see
    - kel [kel] "leaf" < Proto-Hick \*kelu → kel
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - bran [bran] "branch" < Proto-Hick \*branu → bran
-     ([final vowel
-     loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - wen [wen] "flower" < Proto-Hick \*venu -> wenu → wen
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
@@ -317,29 +314,45 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 ### Body Parts
 
 1. Basic Terms
+
    - bel [bel] "mouth, opening" < Proto-Hick \*belu → bel
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
    - kan [kan] "head" < Proto-Hick \*kanu → kan
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Sacred Terms](#sacred--ritual)
    - tel [tel] "tail, end" < Proto-Hick \*telu → tel
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Landscape Terms](#landforms)
    - gar [gar] "bone" < Proto-Hick \*garu → gar
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Landscape Terms](#landforms), [Sacred Terms](#sacred--ritual)
    - sil [sil] "skin, hide" < Proto-Hick \*silu → sil
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Material Culture](#material-culture)
    - ven [ven] "wing, fin" < Proto-Hick \*venu → ven
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Maritime Terms](#maritime-terms), [Bird Terms](#bird-terms-nocturnal)
    - kran [kran] "horn, spike" < Proto-Hick \*kranu → kran
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - ter [ter] "body fluids" < Proto-Hick \*teru → ter
+     See: [Landscape Terms](#landforms)
+   - mar [mar] "blood, life-fluid" < Proto-Hick \*maru → mar
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Colors](#colors), [Sacred Terms](#sacred--ritual)
+   - ter [ter] "flow, fluid" < Proto-Hick \*teru → ter
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Water Features](#water-features), [Maritime Terms](#maritime-terms)
+
 2. Face Terms
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Sacred Terms](#sacred--ritual), [Bird Terms](#bird-terms-nocturnal)
    - thir [θir] "hair, fur" < Proto-Hick \*thiru → thir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Colors](#colors), [Animal Terms](#flora--fauna)
    - sim [sim] "fine hair, lash" < Proto-Hick \*simu → sim
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Plant Terms](#flora--fauna)
    - bran [bran] "brow, ridge" < Proto-Hick \*branu → bran
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - listhir [lis.θir] "eyebrow" < lis-thir "eye-hair" → listhir
@@ -347,18 +360,28 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
    - lissim [li.sim] "eyelash" < lis-sim "eye-lash" → lissim
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 3. Trunk Terms
+
    - kir [kir] "chest, front" < Proto-Hick \*kiru → kir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Sacred Terms](#sacred--ritual), [Person Terms](#person-terms)
    - dor [dor] "back, behind" < Proto-Hick \*doru → dor
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Landscape Terms](#landforms), [Maritime Terms](#maritime-terms)
    - pal [pal] "belly, center" < Proto-Hick \*palu → pal
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Sacred Terms](#sacred--ritual), [Landscape Terms](#landforms)
    - thal [θal] "side, flank" < Proto-Hick \*thalu → thal
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Landscape Terms](#landforms)
+
 4. Internal
-   - mar [mar] "rust, red metal" < Proto-Hick \*maru → mar
+
+   - mar [mar] "blood, life-fluid" < Proto-Hick \*maru → mar
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-     See: [Colors](#colors)
+     See: [Colors](#colors), [Sacred Terms](#sacred--ritual), [Metals](#metals)
+   - ter [ter] "flow, fluid" < Proto-Hick \*teru → ter
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Water Features](#water-features), [Maritime Terms](#maritime-terms)
 
 ### Architecture
 
@@ -374,44 +397,66 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 
 ### Climate & Weather
 
-1. Temperature
+1. Temperature Terms
+
    - mir [mir] "cold, cooling" < Proto-Hick \*miru → mir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - miral [mi.ral] "cold water, winter pool" < mir-mal → miral
+     See: [Water Features](#water-features), [Time Terms](#time--celestial)
+   - miral [mi.ral] "cold water, winter pool" < mir-mal → miral (lit.
+     "cold-pool")
      ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     See: [Sacred Terms](#sacred--ritual), [Water Features](#water-features)
    - thir [θir] "warm, warming" < Proto-Hick \*thiru → thir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - thiral [θi.ral] "warm water, summer pool" < thir-mal → thiral
+     See: [Colors](#colors), [Sacred Terms](#sacred--ritual)
+   - thiral [θi.ral] "warm water, summer pool" < thir-mal → thiral (lit.
+     "warm-pool")
      ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-2. Wind
+     See: [Water Features](#water-features)
+
+2. Wind Terms
+
    - bres [bres] "wind, moving air" < Proto-Hick \*bresu → bres
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - braibres [brai.bres] "sea wind" < bram-bres → braibres
-     ([nasal → glide](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-   - torbres [tor.bres] "mountain wind" < tor-bres → torbres
+     See: [Maritime Terms](#maritime-terms)
+   - braibres [brai.bres] "sea wind, ocean breeze" < bram-bres → braibres (lit.
+     "tide-wind")
+     ([nasal to glide](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     See: [Maritime Terms](#maritime-terms)
+   - torbres [tor.bres] "mountain wind, cold downslope wind" < tor-bres →
+     torbres (lit. "height-wind")
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     See: [Landscape Terms](#landforms)
+
 3. Seasonal Terms
-   - mirthral [mir.θral] "winter" < mir-thral "cold-day" → mirthral
+
+   - mirthral [mir.θral] "winter" < mir-thral → mirthral (lit. "cold-day")
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - thirthral [θir.θral] "summer" < thir-thral "warm-day" → thirthral
+     See: [Time Terms](#time--celestial)
+   - thirthral [θir.θral] "summer" < thir-thral → thirthral (lit. "warm-day")
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - branthral [bran.θral] "spring" < bran-thral "dawn-day" → branthral
+     See: [Time Terms](#time--celestial)
+   - branthral [bran.θral] "spring" < bran-thral → branthral (lit. "dawn-day")
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - thurthral [θur.θral] "autumn" < thur-thral "dusk-day" → thurthral
+     See: [Time Terms](#time--celestial)
+   - thurthral [θur.θral] "autumn" < thur-thral → thurthral (lit. "dusk-day")
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     See: [Time Terms](#time--celestial)
 
 ### Person Terms
 
 1. Basic Terms
-   - kir [kir] "body, physical form" < Proto-Hick \*esgir → kir
-     ([initial cluster simplification](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-   - sekir [se.kir] "foreigner" < Proto-Hick \*is-esgir "outer-body" → sekir
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - kir [kir] "body, physical form" < Proto-Hick \*kiru → kir
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+   - sekir [se.kir] "foreigner, stranger" < Proto-Hick \*se-kiru → sekir
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kiris [ki.ris] "outsider" < kir-is "body-out" → kiris
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 2. Spirit Terms
    - imer [i.mer] "breath, soul" < Proto-Hick \*imeru → imer
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Sacred Terms](#sacred--ritual)
    - imeraes [i.me.raes] "inspiration" < imer-aes "soul-inward" → imeraes
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
    - imerimris [i.me.rim.ris] "expression" < imer-imris "soul-outward" →
