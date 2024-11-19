@@ -1,0 +1,91 @@
+{
+  "deity": [
+    {
+      "name": "Minerva",
+      "pantheon": "Apgarian",
+      "title": "Goddess of Civilization",
+      "alignment": [
+        "L",
+        "N"
+      ],
+      "domains": [
+        "Arcana",
+        "Community",
+        "Forge",
+        "Knowledge",
+        "War"
+      ],
+      "symbol": "Owl with open book",
+      "source": "Apgarian Pantheon"
+    },
+    {
+      "name": "Justicia",
+      "pantheon": "Apgarian",
+      "title": "Goddess of Justice",
+      "alignment": [
+        "L",
+        "N"
+      ],
+      "domains": [
+        "Order",
+        "Peace",
+        "Light"
+      ],
+      "symbol": "Balanced scales",
+      "source": "Apgarian Pantheon"
+    },
+    {
+      "name": "Pomona",
+      "pantheon": "Apgarian",
+      "title": "Goddess of Nature",
+      "alignment": [
+        "N"
+      ],
+      "domains": [
+        "Arcana",
+        "Death",
+        "Grave",
+        "Life",
+        "Nature",
+        "Tempest"
+      ],
+      "symbol": "Cornucopia",
+      "source": "Apgarian Pantheon"
+    },
+    {
+      "name": "Volupta",
+      "pantheon": "Apgarian",
+      "title": "Goddess of Delight",
+      "alignment": [
+        "C",
+        "G"
+      ],
+      "domains": [
+        "Life",
+        "Light",
+        "Lust",
+        "Mercy",
+        "Trickery"
+      ],
+      "symbol": "Chalice with grapes",
+      "source": "Apgarian Pantheon"
+    },
+    {
+      "name": "Amarina",
+      "pantheon": "Apgarian",
+      "title": "Goddess of Humility",
+      "alignment": [
+        "L",
+        "G"
+      ],
+      "domains": [
+        "Death",
+        "Life",
+        "Peace",
+        "Twilight"
+      ],
+      "symbol": "Simple clay bowl",
+      "source": "Apgarian Pantheon"
+    }
+  ]
+}

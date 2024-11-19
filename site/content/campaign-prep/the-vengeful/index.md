@@ -186,14 +186,14 @@ long as they are radicalized Hicklanders.
 # Outline
 
 1. Starting Location
+
+   1. Port Surrey-on-the-Brams
+
+   2. Tidemark
+
 2. Traveling to the Narrows
-   - if PCs are not from the Narrows:
-     1. Exposition
-     2. Random encounters
-     3. NPC character development
-   - if PCs are from the Narrows:
-     - arrival of the Masochists
-     - some issues with the Reeve
+   1. From Port Surrey-on-the-Brams
+   2. From Tidemark
 3. Lord Malthren
    1. Players will find out that Lord Malthren had regained his ancestors'
       sight. The power of the Nalthrenok of the Magaris to foresee the future in
@@ -210,9 +210,17 @@ long as they are radicalized Hicklanders.
 
 ### Philippa Bicorn-Blume
 
-
-
 # Big Bad
 
 The Big Bad is a monster from the Elemental Plane of Fire that the Elves
 unleashed on the Early Hicks that fought them with iron.
+
+A single creature with five different parts, each with its own initiative count.
+The fight would have 2 phases:
+
+- Phase 1: The creature is protected by and iron shell made from the collected
+  iron missing from ships and other missing equipment.
+- Phase 2: Starts when all the ironclad portions are destroyed. The creature is
+  in its true form.
+
+Head Chest Left Arm Right Arm Legs
