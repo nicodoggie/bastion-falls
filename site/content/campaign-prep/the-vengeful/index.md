@@ -188,7 +188,8 @@ long as they are radicalized Hicklanders.
 1. Starting Location
 
    1. Port Surrey-on-the-Brams
-
+      - Starts with some mook trying to spar with Lilya
+      - Henry's aide is waiting at the sidelines 
    2. Tidemark
 
 2. Traveling to the Narrows
@@ -196,7 +197,7 @@ long as they are radicalized Hicklanders.
    2. From Tidemark
 3. Lord Malthren
    1. Players will find out that Lord Malthren had regained his ancestors'
-      sight. The power of the Nalthrenok of the Magaris to foresee the future in
+      sight. The power of the Malthrenok of the Magaris to foresee the future in
       the swirls of Vortex Cove.
    2. Depending on the PCs' actions and factions, the route to the Vortex Cove
       will be easy or hard. The known entrance is from the Murmals market, but

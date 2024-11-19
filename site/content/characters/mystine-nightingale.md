@@ -28,8 +28,12 @@ religions = ["Apgarian Paganism"]
 
 ## University of Sanery
 
-She entered the University of Sanery College of Medicine in 1269 at the behest of Illuvia. She had received a number of exceptions to classes due to the amount of knowledge she'd demonstrated.
-She had been one of the youngest to graduate at only 21 in 1273.
+She entered the University of Sanery College of Medicine in 1269 at the behest
+of Illuvia. She had received a number of exceptions to classes due to the amount
+of knowledge she'd demonstrated. She had been one of the youngest to graduate at
+only 21 in 1273.
 
 # Nightshift Nurses
-She is also known as **Sex-Starved Dr. Marina Visconti** in the popular adult magazine [Nightshift Nurses](@/organizations/nightshift-nurses.md)
+
+She is also known as **Sex-Starved Dr. Marina Visconti** in the popular adult
+magazine [Nightshift Nurses](@/organizations/nightshift-nurses.md)
