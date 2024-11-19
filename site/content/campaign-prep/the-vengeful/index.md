@@ -206,6 +206,12 @@ long as they are radicalized Hicklanders.
 4. The Narrow Underground
 5. Surrey's Ear
 
+## Starting Locations
+
+### Philippa Bicorn-Blume
+
+
+
 # Big Bad
 
 The Big Bad is a monster from the Elemental Plane of Fire that the Elves
