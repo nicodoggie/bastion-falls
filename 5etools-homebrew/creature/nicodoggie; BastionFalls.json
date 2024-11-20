@@ -22,99 +22,73 @@
 			"name": "Hickland Rebel Leader",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-leader.png",
 			"source": "BastionFalls",
-			"page": 0,
-			"size": [
-				"M"
-			],
-			"type": {
-				"type": "humanoid",
-				"tags": [
-					"human"
-				]
+			"size": "Medium",
+			"type": "humanoid",
+			"subtype": "human",
+			"alignment": "chaotic neutral",
+			"armor_class": 16,
+			"hit_points": 112,
+			"hit_dice": "15d8+45",
+			"speed": "30 ft.",
+			"strength": 16,
+			"dexterity": 14,
+			"constitution": 16,
+			"intelligence": 12,
+			"wisdom": 12,
+			"charisma": 18,
+			"proficiency_bonus": 3,
+			"saving_throws": {
+				"strength": 6,
+				"constitution": 6,
+				"charisma": 7
 			},
-			"alignment": [
-				"C",
-				"N"
-			],
-			"ac": [
-				{
-					"ac": 14,
-					"from": [
-						"armor"
-					]
-				}
-			],
-			"hp": {
-				"average": 45,
-				"formula": "6d8 + 18"
+			"skills": {
+				"athletics": 6,
+				"intimidation": 7,
+				"persuasion": 7,
+				"survival": 5
 			},
-			"speed": {
-				"walk": 30
-			},
-			"str": 12,
-			"dex": 16,
-			"con": 14,
-			"int": 13,
-			"wis": 10,
-			"cha": 16,
-			"skill": {
-				"athletics": "+4",
-				"insight": "+3",
-				"persuasion": "+6",
-				"stealth": "+5"
-			},
-			"passive": 10,
+			"senses": "Passive Perception 11",
 			"languages": [
-				"Common",
-				"Hickland"
+				"Common"
 			],
-			"cr": "3",
-			"trait": [
-				{
-					"name": "Tactical Mind",
-					"entries": [
-						"The Hickland Rebel Leader can use their action to grant one ally within 30 feet advantage on their next attack roll or saving throw."
-					]
-				},
+			"challenge_rating": 6,
+			"xp": 2300,
+			"traits": [
 				{
 					"name": "Inspiring Presence",
-					"entries": [
-						"As a bonus action, the leader can choose one ally within 60 feet who can hear them. That ally gains temporary hit points equal to 1d6 + the leader's Charisma modifier (minimum of 1)."
-					]
+					"description": "Allies within 30 feet of the Hickland Rebel Leader gain advantage on saving throws against being frightened or charmed."
+				},
+				{
+					"name": "Revolutionary Zeal",
+					"description": "The Rebel Leader has advantage on attack rolls and saving throws when fighting against creatures with a lawful alignment."
 				}
 			],
-			"action": [
+			"actions": [
 				{
 					"name": "Multiattack",
-					"entries": [
-						"The Hickland Rebel Leader makes two melee attacks with their shortsword or one with a spear and one with a shortbow."
-					]
+					"description": "The Hickland Rebel Leader makes two melee attacks."
 				},
 				{
-					"name": "Shortsword",
-					"entries": [
-						"{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
-					]
+					"name": "Greatsword",
+					"attack_bonus": 7,
+					"damage": "2d6+3 slashing"
 				},
 				{
-					"name": "Spear",
-					"entries": [
-						"{@atk mw,rw} {@hit 5} to hit, reach 5 ft. or range 20/60 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage in melee, or 8 ({@damage 1d8 + 3}) piercing damage when thrown."
-					]
-				},
-				{
-					"name": "Shortbow",
-					"entries": [
-						"{@atk rw} {@hit 5} to hit, range 80/320 ft., one target. {@h}6 ({@damage 1d6 + 3}) piercing damage."
-					]
+					"name": "Commanding Strike (Recharge 5\u20136)",
+					"description": "The Hickland Rebel Leader shouts a command to an ally within 30 feet, allowing them to immediately use their reaction to make a weapon attack with advantage."
 				}
 			],
-			"reaction": [
+			"reactions": [
 				{
-					"name": "Parry",
-					"entries": [
-						"The Hickland Rebel Leader adds 2 to their AC against one melee attack that would hit them. To do so, the leader must be wielding a melee weapon."
-					]
+					"name": "Defiant Counter",
+					"description": "When the Rebel Leader is hit by a melee attack, they can use their reaction to make a single melee weapon attack against the attacker."
+				}
+			],
+			"legendary_actions": [
+				{
+					"name": "Rally the Troops (Costs 2 Actions)",
+					"description": "The Hickland Rebel Leader can choose up to three allies within 30 feet. Each ally gains 10 temporary hit points and advantage on their next attack roll."
 				}
 			]
 		},
