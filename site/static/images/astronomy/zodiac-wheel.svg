@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" viewBox="-400 -400 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ecliptic circle -->
+  <circle cx="0" cy="0" r="350" fill="none" stroke="#333" stroke-width="1"/>
+  
+  <!-- Month divisions - exactly 30° each -->
+  <g id="month-markers">
+    <!-- 12 radial lines at 30° intervals -->
+    <line x1="0" y1="0" x2="350" y2="0" stroke="#666" stroke-width="0.5" />
+    <line x1="0" y1="0" x2="303.1" y2="175" stroke="#666" stroke-width="0.5" />
+    <!-- Add remaining 10 month division lines -->
+  </g>
+
+  <!-- Zodiac constellations -->
+  <g id="constellations" fill="none" stroke="#99f">
+    <!-- The Crown -->
+    <path d="M 340 -30 C 350 -20, 360 -10, 370 0" />
+    <!-- Add remaining constellation patterns -->
+  </g>
+
+  <!-- Labels -->
+  <g id="month-labels" font-size="12" text-anchor="middle">
+    <text x="370" y="0">The Crown</text>
+    <text x="320" y="185">The Scales</text>
+    <!-- Add remaining labels -->
+  </g>
+
+  <!-- Seasonal markers -->
+  <g id="seasons" font-size="14" fill="#666">
+    <text x="0" y="-370">Spring Equinox</text>
+    <text x="370" y="0">Summer Solstice</text>
+    <text x="0" y="370">Autumn Equinox</text>
+    <text x="-370" y="0">Winter Solstice</text>
+  </g>
+</svg> 

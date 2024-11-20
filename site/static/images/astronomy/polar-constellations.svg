@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" viewBox="-400 -400 800 800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Celestial circles -->
+  <g id="celestial-circles" stroke="#333" fill="none">
+    <circle cx="0" cy="0" r="50"/>  <!-- Circumpolar -->
+    <circle cx="0" cy="0" r="150"/> <!-- Mid-latitude -->
+    <circle cx="0" cy="0" r="350"/> <!-- Horizon -->
+  </g>
+
+  <!-- The Navigator's Eye -->
+  <circle cx="0" cy="0" r="3" fill="#fff"/>
+
+  <!-- Crown of Minerva -->
+  <g id="crown" stroke="#99f" fill="none">
+    <path d="M -20 -10 C -10 -30, 10 -30, 20 -10"/>
+    <!-- Add jewel patterns -->
+  </g>
+
+  <!-- Other circumpolar constellations -->
+  <g id="circumpolar" stroke="#99f" fill="none">
+    <!-- Add constellation patterns -->
+  </g>
+
+  <!-- Labels -->
+  <g id="labels" font-size="12" fill="#fff">
+    <text x="0" y="-5">Navigator's Eye</text>
+    <!-- Add constellation labels -->
+  </g>
+</svg> 
