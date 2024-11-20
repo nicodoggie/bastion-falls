@@ -20,6 +20,7 @@
 	"monster": [
 		{
 			"name": "Hickland Rebel Leader",
+			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-leader.png",
 			"source": "BastionFalls",
 			"page": 0,
 			"size": [
@@ -119,6 +120,7 @@
 		},
 		{
 			"name": "Hickland Rebel Fighter",
+			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-fighter.png",
 			"source": "BastionFalls",
 			"page": 0,
 			"size": [
@@ -197,6 +199,7 @@
 		},
 		{
 			"name": "Brams Reaver - Mercenary",
+			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/brams-reaver-mercenary.png",
 			"source": "BastionFalls",
 			"page": 0,
 			"size": [
@@ -296,6 +299,7 @@
 		},
 		{
 			"name": "Brams Reaver - Assassin",
+			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/brams-reaver-assassin.png",
 			"source": "BastionFalls",
 			"page": 0,
 			"size": [
@@ -398,6 +402,7 @@
 		},
 		{
 			"name": "Brams Reaver - Master",
+			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/brams-reaver-master.png",
 			"source": "BastionFalls",
 			"page": 0,
 			"size": [
