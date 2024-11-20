@@ -1,5 +1,7 @@
 +++
 title = "Phillipa Vertin"
+[extra]
+ddb = "https://ddb.ac/characters/136596062"
 [extra.cha]
 age = "18"
 sex = "Female"
@@ -7,7 +9,7 @@ pronouns = "she/her"
 date_of_birth = "date#1257-05-12"
 [taxonomies]
 families = ["Vertin"]
-parents = ["Jemima Vertin"]
+parents = ["Jemima Vertin", "Simon Vertin"]
 siblings = []
 religions = ["Orthodox Divine Masochist"]
 organizations = ["Orthodox Divine Masochist", "Circle of the Angel of Nature"]

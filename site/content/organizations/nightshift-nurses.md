@@ -4,7 +4,7 @@ title = "Nightshift Nurses"
 date_established = "date#1269-08-15"
 [taxonomies]
 organization_type = ["Magazine"]
-parent_organization = ["Ministry of Science"]
+parent_organizations = ["Ministry of Science"]
 +++
 
 

@@ -189,7 +189,7 @@ long as they are radicalized Hicklanders.
 
    1. Port Surrey-on-the-Brams
       - Starts with some mook trying to spar with Lilya
-      - Henry's aide is waiting at the sidelines 
+      - Henry's aide is waiting at the sidelines
    2. Tidemark
 
 2. Traveling to the Narrows

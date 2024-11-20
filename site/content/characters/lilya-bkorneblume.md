@@ -1,5 +1,7 @@
 +++
 title = "Lilya Bkorneblume"
+[extra]
+ddb = "https://ddb.ac/characters/136651976"
 [extra.cha]
 age = "18"
 sex = "Female"

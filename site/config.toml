@@ -25,7 +25,7 @@ taxonomies = [
 
   # Location
   { name = "location_type", feed = true, render = true },
-  { name = "parent_location", feed = false, render = false},
+  { name = "parent_location", feed = false, render = true},
 
   # Organization
   { name = "organization_id", feed = false, render = false },
@@ -38,8 +38,8 @@ taxonomies = [
   { name = "parent_ethnicities", feed = false, render = false },
 
   # Languages
+  { name = "language_locations", feed = true, render = false },
   { name = "parent_languages", feed = true, render = false },
-
 
   # Event
   { name = "event_type", feed = true, render = false },

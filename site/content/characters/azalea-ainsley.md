@@ -2,7 +2,7 @@
 title = "Azalea Ainsley"
 [extra]
 [taxonomies]
-`organizations = ["Nightshift Nurses"]`
+organizations = ["Nightshift Nurses"]
 +++
 
 {{ stub() }}
