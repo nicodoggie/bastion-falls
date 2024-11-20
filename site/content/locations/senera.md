@@ -379,11 +379,11 @@ systematic and complete, with traditional practices strictly outlawed.
 
 AFter the Maidenfelds have seized power, they swiftly established a Patrilineal
 Primogeniture as a means of ensuring their hold on power. But in 675 AI, the
-prolific 
+prolific
 
 fter the first Succession War, the House of Maidenfeld was forced to implement
 an Elective Monarchy, with certain members of the nobility holding a special
-"elector" title. 
+"elector" title.
 
 ## Peerage of the Realm
 
@@ -399,7 +399,6 @@ realm. It systematizes the existing feudal hierarchy, and codifies the rights
 and responsibilities of the nobility.
 
 ### Royalty
-
 
 #### Duchies
 
@@ -1544,3 +1543,21 @@ ancestral lands in Thregel Valley in the western portion of the Rannek March.
 - Quality standards
 - Price agreements
 - Workshop licensing
+
+### Minor Houses of Historical Note
+
+#### House Malthren (Pre-Kalassarian - 1275 AI)
+
+- Origin: Ancient Magarisok Hick tribe
+- Domain: The Narrows (Baronetcy)
+- Seat: Malthren Manor
+- Notable Features:
+  - One of Surrey's oldest noble houses
+  - Preserved pre-Kalassarian traditions
+  - Maintained ancient Hick customs
+  - Known for mystical practices
+- Historical Significance:
+  - Survived Kalassarian occupation
+  - Retained traditional authority
+  - Preserved ancient knowledge
+  - Extinct upon death of Lord Marthur Malthren

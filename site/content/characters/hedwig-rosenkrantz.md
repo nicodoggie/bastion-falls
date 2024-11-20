@@ -20,6 +20,7 @@ organizations = ["La Camaraderie","Rozenmaiden", "Hags of Hama"]
 families = ["Rosenkrantz", "Guildenstern"]
 parents = ["Bain Rosenkrantz", "Karen Guildenstern"]
 religions = ["Orthodox Divine Masochist"]
+character_type = ["PC"]
 +++
 
 _Hedwig Rosa Rosenkrantz_ is the only daughter of [Bain](@/characters/bain-rosenkrantz.md) and

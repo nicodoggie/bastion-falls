@@ -16,6 +16,7 @@ religions = ["Orthodox Divine Masochist"]
 organizations = ["Royal Seneran Navy", "House Surrata"]
 ethnicities = ["Seneran"]
 species = ["Human"]
+character_type = ["PC"]
 +++
 
 _Lilya Bkorneblume_ is an 18-year-old member of the Royal Seneran Navy, known

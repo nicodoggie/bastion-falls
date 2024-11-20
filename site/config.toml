@@ -22,6 +22,7 @@ taxonomies = [
   { name = "parents", feed = false, render = false },
   { name = "siblings", feed = false, render = false },
   { name = "children", feed = false, render = false },
+  { name = "character_type", feed = true, render = true },
 
   # Location
   { name = "location_type", feed = true, render = true },

@@ -15,6 +15,7 @@ religions = ["Orthodox Divine Masochist"]
 organizations = ["Orthodox Divine Masochist", "Circle of the Angel of Nature"]
 ethnicities = ["Seneran"]
 species = ["Human"]
+character_type = ["PC"]
 +++
 
 # Early Life

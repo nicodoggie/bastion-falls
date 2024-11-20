@@ -14,6 +14,7 @@ sex = "Female"
 organizations = ["Rozenmaiden"]
 ethnicities = ["Anasaian"]
 species = ["Vampire"]
+character_type = ["PC"]
 +++
 
 {{ stub() }}
