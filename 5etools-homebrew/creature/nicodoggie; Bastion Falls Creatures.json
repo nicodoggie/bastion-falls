@@ -2,9 +2,9 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "BastionFalls",
+				"json": "BastionFallsCreatures",
 				"abbreviation": "BF",
-				"full": "Bastion Falls",
+				"full": "Bastion Falls Creatures",
 				"version": "1.0.7",
 				"authors": [
 					"nicodoggie"
@@ -21,7 +21,7 @@
 		{
 			"name": "Hickland Rebel Leader",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-leader.png",
-			"source": "BastionFalls",
+			"source": "BastionFallsCreatures",
 			"page": 0,
 			"size": [
 				"M"
@@ -133,7 +133,7 @@
 		{
 			"name": "Hickland Rebel Fighter",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-fighter.png",
-			"source": "BastionFalls",
+			"source": "BastionFallsCreatures",
 			"page": 0,
 			"size": [
 				"M"
@@ -212,7 +212,7 @@
 		{
 			"name": "Brams Reaver - Mercenary",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/brams-reaver-mercenary.png",
-			"source": "BastionFalls",
+			"source": "BastionFallsCreatures",
 			"page": 0,
 			"size": [
 				"M"
@@ -312,7 +312,7 @@
 		{
 			"name": "Brams Reaver - Assassin",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/brams-reaver-assassin.png",
-			"source": "BastionFalls",
+			"source": "BastionFallsCreatures",
 			"page": 0,
 			"size": [
 				"M"
@@ -415,7 +415,7 @@
 		{
 			"name": "Brams Reaver - Master",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/brams-reaver-master.png",
-			"source": "BastionFalls",
+			"source": "BastionFallsCreatures",
 			"page": 0,
 			"size": [
 				"M"

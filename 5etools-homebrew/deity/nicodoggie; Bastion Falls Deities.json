@@ -1,0 +1,111 @@
+{
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/refs/heads/master/schema/brew/deities.json",
+	"_meta": {
+		"version": "1.0.0",
+		"sources": [
+			{
+				"json": "BastionFallsDeities",
+				"abbreviation": "BF",
+				"full": "Bastion Falls Deities",
+				"version": "1.0.7",
+				"authors": [
+					"nicodoggie"
+				],
+				"convertedBy": [
+					"nicodoggie"
+				]
+			}
+		],
+		"dateAdded": "1732102733",
+		"dateLastModified": "1732102733"
+	},
+	"deity": [
+		{
+			"name": "Minerva",
+			"pantheon": "Apgarian Pantheon",
+			"title": "Goddess of Civilization",
+			"alignment": [
+				"L",
+				"N"
+			],
+			"domains": [
+				"Arcana",
+				"Community",
+				"Forge",
+				"Knowledge",
+				"War"
+			],
+			"symbol": "Owl with open book",
+			"source": "BastionFallsDeities"
+		},
+		{
+			"name": "Justicia",
+			"pantheon": "Apgarian Pantheon",
+			"title": "Goddess of Justice",
+			"alignment": [
+				"L",
+				"N"
+			],
+			"domains": [
+				"Order",
+				"Peace",
+				"Light"
+			],
+			"symbol": "Balanced scales",
+			"source": "BastionFallsDeities"
+		},
+		{
+			"name": "Pomona",
+			"pantheon": "Apgarian Pantheon",
+			"title": "Goddess of Nature",
+			"alignment": [
+				"N"
+			],
+			"domains": [
+				"Arcana",
+				"Death",
+				"Grave",
+				"Life",
+				"Nature",
+				"Tempest"
+			],
+			"symbol": "Cornucopia",
+			"source": "BastionFallsDeities"
+		},
+		{
+			"name": "Volupta",
+			"pantheon": "Apgarian Pantheon",
+			"title": "Goddess of Delight",
+			"alignment": [
+				"C",
+				"G"
+			],
+			"domains": [
+				"Life",
+				"Light",
+				"Lust",
+				"Mercy",
+				"Trickery"
+			],
+			"symbol": "Chalice with grapes",
+			"source": "BastionFallsDeities"
+		},
+		{
+			"name": "Amarina",
+			"pantheon": "Apgarian Pantheon",
+			"title": "Goddess of Humility",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"domains": [
+				"Death",
+				"Life",
+				"Peace",
+				"Twilight"
+			],
+			"symbol": "Simple clay bowl",
+			"source": "BastionFallsDeities"
+		}
+	]
+}
