@@ -5,7 +5,7 @@
 				"json": "BastionFalls",
 				"abbreviation": "BF",
 				"full": "Bastion Falls",
-				"version": "1.0.4",
+				"version": "1.0.5",
 				"authors": [
 					"nicodoggie"
 				],
@@ -15,7 +15,7 @@
 			}
 		],
 		"dateAdded": "1732094448",
-		"dateLastModified": "1732094448"
+		"dateLastModified": "1732100042"
 	},
 	"monster": [
 		{
