@@ -1,12 +1,11 @@
 {
-	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/refs/heads/master/schema/brew/bestiary/bestiary.json",
 	"_meta": {
 		"sources": [
 			{
 				"json": "BastionFalls",
 				"abbreviation": "BF",
 				"full": "Bastion Falls",
-				"version": "1.0.6",
+				"version": "1.0.7",
 				"authors": [
 					"nicodoggie"
 				],
@@ -16,7 +15,7 @@
 			}
 		],
 		"dateAdded": "1732094448",
-		"dateLastModified": "1732100925"
+		"dateLastModified": "1732101393"
 	},
 	"monster": [
 		{
@@ -27,7 +26,12 @@
 			"size": [
 				"M"
 			],
-			"type": "humanoid",
+			"type": {
+				"type": "humanoid",
+				"tags": [
+					"human"
+				]
+			},
 			"alignment": [
 				"N",
 				"E"
@@ -64,14 +68,12 @@
 				"stealth": "+7",
 				"survival": "+6"
 			},
-			"senses": [
-				"passive Perception 12"
-			],
+			"passive": 12,
 			"languages": [
 				"Common",
 				"Thieves' Cant"
 			],
-			"cr": 6,
+			"cr": "6",
 			"trait": [
 				{
 					"name": "Rallying Cry (3/Day)",
