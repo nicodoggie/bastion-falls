@@ -1,4 +1,4 @@
 /public
 /static/processed_images
-/node_modules
+**/node_modules
 /.pnpm-store

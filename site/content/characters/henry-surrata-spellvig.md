@@ -1,17 +1,15 @@
 +++
 title = "Henry Surrata-Spellvig"
 [extra.cha]
-age = "20" # Young naval officer in training
+age = "20"
 sex = "Male"
 pronouns = "he/him"
-date_of_birth = "date#1255-04-01" # Estimated based on age
-date_of_death = ""
-married_to = ""
-married_on = ""
+date_of_birth = "date#1255-04-01"
 height = "5'6\""
+weight = "132 lbs"
 [taxonomies]
 families = ["Surrata", "Spellvig"]
-parents = []
+parents = ["Sonia Surrata-Spellvig", "Cornelius Surrata-Spellvig"]
 children = []
 siblings = []
 religions = []
@@ -69,8 +67,14 @@ the main line.
 
 # Character
 
-Ambitious and somewhat impetuous, Henry was convinced by his friends to attempt
-to secure his future by approaching the dying
+Ambitious and impetuous, he does what he must to bring himself up in the
+estimation of his family and his peers. He is able to, as they say, sell sawdust
+to a carpenter when he tries to convince someone of his path forward, except
+when he's in front of his father and his uncles.
+
+However, at times his need for validation from his peers drives him to make
+hasty decisions. For example, he was convinced by his friends to attempt to
+secure his future by approaching the dying
 [Lord Marthur Malthren](@/characters/marthur-malthren.md) to be named as his
 heir. While his mother's spy, serving as his aide, attempted to dissuade him
 from this potentially dangerous endeavor, Henry persisted in his plans, though
