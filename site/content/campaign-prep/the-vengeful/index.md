@@ -189,12 +189,23 @@ long as they are radicalized Hicklanders.
 
    1. Port Surrey-on-the-Brams
       - Starts with some mook trying to spar with Lilya
-      - Henry's aide is waiting at the sidelines
+      - Henry's aide ([Kurris Wudward](@/characters/kurris-wudward.md)) is
+        waiting at the sidelines
+      - Kurris will attempt to have Lilya accompany Henry. They leave the next day
    2. Tidemark
+      - Philippa wakes, her body aches as if sore from a sparring match
+      - one of the sisters-in-training will remind her of today's departure to
+        the Narrows, Sister Agatha is with the Bishop's contingent meeting the
+        nobleman representative from House Eastonton
 
 2. Traveling to the Narrows
+
    1. From Port Surrey-on-the-Brams
+      - Henry is a bit too proud of his family, this will make him a target for
+        brigands, especially from members of the _Hickland for Hicks_ faction.
    2. From Tidemark
+      - The party will be ambushed by the Hickland for Hicks faction
+
 3. Lord Malthren
    1. Players will find out that Lord Malthren had regained his ancestors'
       sight. The power of the Malthrenok of the Magaris to foresee the future in
@@ -206,10 +217,6 @@ long as they are radicalized Hicklanders.
          but will not have enough time to share the path.
 4. The Narrow Underground
 5. Surrey's Ear
-
-## Starting Locations
-
-### Philippa Bicorn-Blume
 
 # Big Bad
 

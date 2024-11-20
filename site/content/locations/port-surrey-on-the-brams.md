@@ -1,8 +1,5 @@
 +++
 title = "Port Surrey-on-the-Brams"
-[taxonomies]
-location_type = ["city", "port", "port city"]
-parent_location = ["Brams River", "Senera"]
 
 [extra.location.details]
 total_area = "~35 square miles"
@@ -15,6 +12,10 @@ districts = [
   { name = "Northcross", area = "~5 sq mi", population = "~75,000" },
   { name = "Port Surrey", area = "~6 sq mi", population = "~150,000" }
 ]
+[taxonomies]
+location_type = ["city", "port", "port city"]
+parent_location = ["Brams River", "Surrey-on-the-Brams", "Senera"]
+
 +++
 
 **Port Surrey-on-the-Brams** is a major port city in the
