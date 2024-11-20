@@ -1,11 +1,12 @@
 {
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/refs/heads/master/schema/brew/bestiary/bestiary.json",
 	"_meta": {
 		"sources": [
 			{
 				"json": "BastionFalls",
 				"abbreviation": "BF",
 				"full": "Bastion Falls",
-				"version": "1.0.5",
+				"version": "1.0.6",
 				"authors": [
 					"nicodoggie"
 				],
@@ -15,14 +16,17 @@
 			}
 		],
 		"dateAdded": "1732094448",
-		"dateLastModified": "1732100042"
+		"dateLastModified": "1732100925"
 	},
 	"monster": [
 		{
 			"name": "Hickland Rebel Leader",
+			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-leader.png",
 			"source": "BastionFalls",
 			"page": 0,
-			"size": "M",
+			"size": [
+				"M"
+			],
 			"type": "humanoid",
 			"alignment": [
 				"N",
@@ -50,7 +54,7 @@
 			"int": 12,
 			"wis": 14,
 			"cha": 16,
-			"savingThrows": {
+			"save": {
 				"dex": "+7",
 				"cha": "+6"
 			},
@@ -120,7 +124,9 @@
 				"urban",
 				"forest"
 			],
-			"description": "The Hickland Rebel Leader is a symbol of defiance and freedom for their faction. Skilled in tactics and leadership, they inspire others to rise against oppression while remaining a dangerous foe in battle."
+			"fluff": {
+				"description": "The Hickland Rebel Leader is a symbol of defiance and freedom for their faction. Skilled in tactics and leadership, they inspire others to rise against oppression while remaining a dangerous foe in battle."
+			}
 		},
 		{
 			"name": "Hickland Rebel Fighter",
