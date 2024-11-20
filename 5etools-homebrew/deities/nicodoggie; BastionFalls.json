@@ -1,8 +1,28 @@
 {
+  "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/refs/heads/master/schema/brew/deities.json",
+  "_meta": {
+    "version": "1.0.0",
+    "sources": [
+      {
+        "json": "BastionFalls",
+        "abbreviation": "BF",
+        "full": "Bastion Falls",
+        "version": "1.0.7",
+        "authors": [
+          "nicodoggie"
+        ],
+        "convertedBy": [
+          "nicodoggie"
+        ]
+      }
+    ],
+    "dateAdded": "1732102733",
+    "dateLastModified": "1732102733"
+  },
   "deity": [
     {
       "name": "Minerva",
-      "pantheon": "Apgarian",
+      "pantheon": "Apgarian Pantheon",
       "title": "Goddess of Civilization",
       "alignment": [
         "L",
@@ -16,11 +36,11 @@
         "War"
       ],
       "symbol": "Owl with open book",
-      "source": "Apgarian Pantheon"
+      "source": "BF"
     },
     {
       "name": "Justicia",
-      "pantheon": "Apgarian",
+      "pantheon": "Apgarian Pantheon",
       "title": "Goddess of Justice",
       "alignment": [
         "L",
@@ -32,11 +52,11 @@
         "Light"
       ],
       "symbol": "Balanced scales",
-      "source": "Apgarian Pantheon"
+      "source": "BF"
     },
     {
       "name": "Pomona",
-      "pantheon": "Apgarian",
+      "pantheon": "Apgarian Pantheon",
       "title": "Goddess of Nature",
       "alignment": [
         "N"
@@ -50,11 +70,11 @@
         "Tempest"
       ],
       "symbol": "Cornucopia",
-      "source": "Apgarian Pantheon"
+      "source": "BF"
     },
     {
       "name": "Volupta",
-      "pantheon": "Apgarian",
+      "pantheon": "Apgarian Pantheon",
       "title": "Goddess of Delight",
       "alignment": [
         "C",
@@ -68,11 +88,11 @@
         "Trickery"
       ],
       "symbol": "Chalice with grapes",
-      "source": "Apgarian Pantheon"
+      "source": "BF"
     },
     {
       "name": "Amarina",
-      "pantheon": "Apgarian",
+      "pantheon": "Apgarian Pantheon",
       "title": "Goddess of Humility",
       "alignment": [
         "L",
@@ -85,7 +105,7 @@
         "Twilight"
       ],
       "symbol": "Simple clay bowl",
-      "source": "Apgarian Pantheon"
+      "source": "BF"
     }
   ]
 }
