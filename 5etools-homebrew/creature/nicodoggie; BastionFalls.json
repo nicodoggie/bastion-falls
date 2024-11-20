@@ -5,7 +5,7 @@
 				"json": "BastionFalls",
 				"abbreviation": "BF",
 				"full": "Bastion Falls",
-				"version": "1.0.3",
+				"version": "1.0.4",
 				"authors": [
 					"nicodoggie"
 				],
@@ -20,7 +20,7 @@
 	"monster": [
 		{
 			"name": "Hickland Rebel Leader",
-			"source": "custom",
+			"source": "BastionFalls",
 			"page": 0,
 			"size": "M",
 			"type": "humanoid",
