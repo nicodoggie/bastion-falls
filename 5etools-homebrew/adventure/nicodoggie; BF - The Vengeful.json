@@ -1,0 +1,80 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/refs/heads/master/schema/brew/homebrew.json",
+  "_meta": {
+    "sources": [
+      {
+        "json": "BF - The Vengeful",
+        "abbreviation": "BF-TV",
+        "full": "Bastion Falls - The Vengeful",
+        "version": "0.9.0",
+        "authors": [
+          "nicodoggie"
+        ],
+        "convertedBy": [
+          "nicodoggie"
+        ]
+      }
+    ],
+    "edition": "one",
+    "dateAdded": 1732121749,
+    "dateLastModified": 1732121749
+  },
+  "adventure": [
+    {
+      "name": "The Vengeful",
+      "id": "BF-TheVengeful",
+      "level": {
+        "start": 6,
+        "end": 8
+      },
+      "author": "nicodoggie",
+      "source": "BF-TV",
+      "group": "homebrew",
+      "contents": [
+        {
+          "name": "Maps",
+          "headers": [
+            "Port Surrey-on-the-Brams",
+            "Tidemark",
+            "Traveling to the Narrows",
+            "The Narrows"
+          ]
+        }
+      ]
+    }
+  ],
+  "adventureData": [
+    {
+      "id": "BF-TV",
+      "source": "BF-TV",
+      "data": [
+        {
+          "id": "BF-TV",
+          "source": "BF-TV",
+          "type": "section",
+          "name": "Traveling to the Narrows",
+          "entries": [
+            {
+              "type": "image",
+              "imageType": "map",
+              "title": "The Wet Stream 1st Floor",
+              "href": {
+                "type": "external",
+                "url": "https://bastion-falls.thekennel.info/maps/the-wet-stream-1st-flr.jpg"
+              }
+            },
+            {
+              "type": "image",
+              "imageType": "map",
+              "title": "The Wet Stream 2nd Floor",
+              "href": {
+                "type": "external",
+                "url": "https://bastion-falls.thekennel.info/maps/the-wet-stream-2nd-flr.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
