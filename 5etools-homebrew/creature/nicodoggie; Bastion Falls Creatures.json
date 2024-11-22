@@ -15,9 +15,116 @@
 			}
 		],
 		"dateAdded": "1732094448",
-		"dateLastModified": "1732101393"
+		"dateLastModified": "1732277132"
 	},
 	"monster": [
+		{
+			"name": "Kurris Wudward",
+			"source": "BastionFallsCreatures",
+			"page": 0,
+			"size": "M",
+			"type": "humanoid",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"unarmored defense",
+						"dexterity"
+					]
+				}
+			],
+			"hp": {
+				"average": 60,
+				"formula": "8d8+24"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"str": 14,
+			"dex": 18,
+			"con": 16,
+			"int": 12,
+			"wis": 12,
+			"cha": 10,
+			"savingThrows": {
+				"dex": "+6",
+				"con": "+5"
+			},
+			"skill": {
+				"acrobatics": "+7",
+				"athletics": "+5",
+				"perception": "+3",
+				"performance": "+2"
+			},
+			"senses": [
+				"passive Perception 13"
+			],
+			"languages": [
+				"Common"
+			],
+			"cr": 4,
+			"trait": [
+				{
+					"name": "Flow of Movement",
+					"entries": [
+						"Kurris can move through a creature's space without provoking opportunity attacks. He cannot end his movement in an occupied space."
+					]
+				},
+				{
+					"name": "Rhythm of Combat",
+					"entries": [
+						"If Kurris hits with an unarmed strike or Capoeira Kick, he can choose to either push the target 10 feet (Strength save DC 14) or reduce its speed by 10 feet until the start of his next turn."
+					]
+				},
+				{
+					"name": "Unarmored Defense",
+					"entries": [
+						"While Kurris is wearing no armor, his AC equals 10 + his Dexterity modifier + his Constitution modifier."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"Kurris makes two unarmed strikes or one unarmed strike and one Capoeira Kick."
+					]
+				},
+				{
+					"name": "Unarmed Strike",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 4) bludgeoning damage."
+					]
+				},
+				{
+					"name": "Capoeira Kick",
+					"entries": [
+						"Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. The target must succeed on a DC 14 Strength saving throw or be knocked prone."
+					]
+				},
+				{
+					"name": "Spinning Sweep (Recharge 5-6)",
+					"entries": [
+						"Kurris sweeps his leg in a circular motion. All creatures within 5 feet of him must succeed on a DC 14 Dexterity saving throw or take 10 (2d6 + 3) bludgeoning damage and fall prone."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Redirect Attack",
+					"entries": [
+						"When a creature misses Kurris with a melee attack, he can use his reaction to force the attacker to make a DC 14 Dexterity saving throw. On a failed save, the attacker falls prone."
+					]
+				}
+			],
+			"environment": [
+				"urban"
+			],
+			"description": "Kurris Wudward is a loyal and agile aide to Henry Surrata-Spellvig, known for his rhythmic combat style inspired by capoeira. His swift movements and unpredictable strikes make him a formidable opponent, and his loyalty to the Spellvig family ensures his unwavering support."
+		},
 		{
 			"name": "Hickland Rebel Leader",
 			"tokenUrl": "https://bastion-falls.thekennel.info/tokens/hickland-rebel-leader.png",

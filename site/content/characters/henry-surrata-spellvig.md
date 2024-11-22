@@ -1,5 +1,7 @@
 +++
 title = "Henry Surrata-Spellvig"
+[extra]
+ddb = "https://ddb.ac/characters/136754541/T2RMR6"
 [extra.cha]
 age = "20"
 sex = "Male"
