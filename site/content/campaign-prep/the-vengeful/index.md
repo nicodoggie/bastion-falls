@@ -191,12 +191,21 @@ long as they are radicalized Hicklanders.
       - Starts with some mook trying to spar with Lilya
       - Henry's aide ([Kurris Wudward](@/characters/kurris-wudward.md)) is
         waiting at the sidelines
-      - Kurris will attempt to have Lilya accompany Henry. They leave the next day
+      - Kurris will attempt to have Lilya accompany Henry. They leave the next
+        day.
+      - Before they are able to leave, Lilya's commanding officer tells her that
+        the terrorists from Hickland for Hicks were rumored to be working with
+        operatives from La Camaraderie, perhaps to free the captive members of
+        the ship _Principium_ before they can be properly processed and executed.
    2. Tidemark
       - Philippa wakes, her body aches as if sore from a sparring match
       - one of the sisters-in-training will remind her of today's departure to
         the Narrows, Sister Agatha is with the Bishop's contingent meeting the
-        nobleman representative from House Eastonton
+        nobleman representative from House Eastonton.
+      - Agatha will ask Philippa to defer to Sir Aigral Eastonton to lead this
+        year's charity mission to the Narrows. The Bishop had personally vouched
+        for the man's virtue and piety, and had requested that Sir Aigral take
+        point.
 
 2. Traveling to the Narrows
 

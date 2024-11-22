@@ -50,6 +50,38 @@
       ]
     },
     {
+      "@id": "eh:al",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "al",
+        "phoneticRep": "al"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xalu",
+        "etymon:intermediateForm": "halu",
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "natural rock",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
+        }
+      ]
+    },
+    {
       "@id": "eh:gral",
       "@type": "ontolex:LexicalEntry",
       "canonicalForm": {

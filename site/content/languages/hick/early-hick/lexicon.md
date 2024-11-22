@@ -36,6 +36,8 @@ For grammatical information and language overview, see
    - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
      [Colors](#colors)
+   - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
+     ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
    - gar [gar] "stone" < Proto-Hick \*garu → gar ([final vowel loss])
    - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral ([final vowel loss])
 2. Water Features
@@ -272,6 +274,14 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 
 ### Colors
 
+With context, the word itself would be enough to mean the color, however to
+disambiguate from other meanings, the
+[Similarity Prefix](@/languages/hick/early-hick#similarity-marking) _ka-_ is
+used.
+
+Some color terms do not have other semantic categories, for example 'gra' lost
+other meanings by Early Hick, this _ka-_ is unnecessary.
+
 - gra [gra] "grey" < Proto-Hick \*grau → gra
   ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
   See: [Metals](#metals)
@@ -471,7 +481,7 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
      ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - nai [nai] "mother" < Proto-Hick \*nahi → nai
      ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - ʔal [ʔal] "person" < Proto-Hick \*ʔalu → ʔal
+   - 'al [ʔal] "person" < Proto-Hick \*ʔalu → ʔal
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - mer [mer] "parent" < Proto-Hick \*meru → mer (metaphorical extension from
      "bird")
