@@ -205,6 +205,40 @@ distinct natural regions:
     - Fish spawning grounds
     - Traditional water management systems
 
+## Forest Distribution
+
+### Central Highlands (Ranterg Range)
+
+- Mixed deciduous-coniferous forests
+  - Oak-pine dominant on lower slopes
+  - Pine-fir dominant at higher elevations
+  - Dense understory in protected valleys
+  - Thin woodlands on exposed ridges
+- Elevation zones:
+  - Valley forests (500-1500 ft)
+  - Mid-slope forests (1500-3000 ft)
+  - High forests (3000-4200 ft)
+
+### Maltrek Region
+
+- Maritime woodlands
+  - Wind-sculpted coastal forests
+  - Protected valley woodlands
+  - Mixed oak-birch dominant
+  - Scattered pine groves
+- Distinctive features:
+  - Dense understory in sheltered areas
+  - Stunted growth on exposed heights
+  - Spring-fed grove pockets
+
+### Western Foothills
+
+- Limestone woodland
+  - Oak-ash dominant
+  - Rich spring-fed valleys
+  - Thin soils on ridges
+  - Scattered clearings
+
 ## Natural Regions
 
 ### Eastern Senera
@@ -349,41 +383,7 @@ distinct natural regions:
   - Seasonal grazing
 - Transitions into Eastern Senera's coastal plains
 
-## Religion
-
-### Orthodox Divine Masochism
-
-The state religion since mid-2nd century AI, Orthodox Divine Masochism pervades
-all aspects of Seneran society. The conversion from Kalassarian paganism was
-systematic and complete, with traditional practices strictly outlawed.
-
-#### Religious Administration
-
-- Central ecclesiastical authority
-- Regional church courts
-- Parish system
-- Monastic orders
-- Theological schools
-
-#### Public Worship
-
-- Mandatory attendance
-- Regular ceremonies
-- Festival calendar
-- Public penances
-- Communal rituals
-
 # Culture
-
-## Primogeniture
-
-AFter the Maidenfelds have seized power, they swiftly established a Patrilineal
-Primogeniture as a means of ensuring their hold on power. But in 675 AI, the
-prolific
-
-fter the first Succession War, the House of Maidenfeld was forced to implement
-an Elective Monarchy, with certain members of the nobility holding a special
-"elector" title.
 
 ## Peerage of the Realm
 
@@ -416,221 +416,103 @@ and responsibilities of the nobility.
 
 ### Baronetcies
 
-# Noble Houses of Post-Kalassarian Senera
+## Religion
 
-## Major Houses
+### Orthodox Divine Masochism
 
-### House Maidenfeld (466 AI - Present)
+The state religion since mid-2nd century AI, Orthodox Divine Masochism pervades
+all aspects of Seneran society. The conversion from Kalassarian paganism was
+systematic and complete, with traditional practices strictly outlawed.
 
-- Emerged during the Fall of Western Kalassar
-- Originally Kalassarian provincial administrators who maintained order
-- Consolidated power through agricultural estates and maritime trade
-- Ruled Senera from 466 AI to approximately 790 AI
-- Still influential in trade and agriculture, especially spices and herbs
+#### Religious Administration
 
-### House Dragonheart (Drakenhart in Old Seneran) (c. 690 AI - Present)
+- Central ecclesiastical authority
+- Regional church courts
+- Parish system
+- Monastic orders
+- Theological schools
 
-- Primary Domain: The Ranterg Heights
-- Ancestral Seat: Thrantorbury
-- Historical Context:
-  - Originally a cadet branch of House Maidenfeld
-  - Rose to power during the Succession Wars
-  - Adopted Kalassarian-style name to project imperial grandeur while
-    maintaining Orthodox legitimacy
-  - Name possibly references the "Dragon's Trial" of Orthodox martyrdom
-- Religious Authority:
-  - Strong ties to Orthodox Church of the Divine Masochist
-  - Built grand Orthodox cathedrals in Thrantorbury
-  - Patronage of major monasteries in the Ranterg Heights
-  - Maintained tolerance for:
-    - Kalassarian Paganism in eastern ports
-    - Traditional Hick practices in remote regions
-- Key Holdings:
-  - The Crown of Thorns (Thraltr Peak fortress-monastery)
-  - Sacred Forest Preserves
-  - Mountain Pass fortifications
-- Title: High Kings/Queens of Senera
-- Notable Features:
-  - Claims dual legitimacy through:
-    - Maidenfeld bloodline (ancient nobility)
-    - Orthodox Divine Masochist patronage
-  - Balances Orthodox doctrine with practical religious tolerance
-  - Strategic marriage policy maintains ties with houses of all faiths
+#### Public Worship
 
-## Secondary Houses
+- Mandatory attendance
+- Regular ceremonies
+- Festival calendar
+- Public penances
+- Communal rituals
 
-### House Tidemark (c. 500 AI - Present)
+# Feudal Hierarchy
 
-- Descended from early Kalassarian merchant families
-- Controls significant portions of southern coastal trade
-- Historically neutral in Maidenfeld-Dragonheart succession
-- Later aligned with Dragonhearts after securing trade privileges
+After the Maidenfelds seized power, they swiftly established a Patrilineal
+Primogeniture as a means of ensuring their hold on power. But in 675 AI, the
+prolific royal house became mired in a succession crisis that led to a violent
+civil war. The Succession War forced the House of Maidenfeld to implement an
+Elective Monarchy, with certain titles within the nobility holding the privilege
+of _electorship_. These electors are collectively called the _Noble Electorate_.
 
-### House Northcross (Pre-466 AI - Present)
+After the War of Thyme and Fire, the Dragonhearts were able to consolidate their
+power and had reformed the system of feudal hierarchy. Their reforms changed how
+the ruling monarch was chosen, they streamlined the number of titles to have
+more rigidly defined ranks within a peerage, then codified the rules and
+responsibilities each rank enjoyed.
 
-- Claims descent from pre-Kalassarian maritime traders
-- Survived imperial collapse through northern trade connections
-- Maintains strong presence in northern Senera
-- Key diplomatic links to Carlmark/Iutland
+The Noble Electorate lost the right to elect the monarch, but retained the right
+to deliberate the passage of new taxes and laws.
 
-### House Keelward (c. 600 AI - Present)
+## Primogeniture
 
-- Founded when Maidenfelds established Keelswood management
-- Traditional stewards of naval timber resources
-- Initially strong Maidenfeld loyalists
-- Maintained influence through lumber monopoly despite dynasty change
+The Dragonhearts established an Equal Primogeniture where male and female
+members of the royal line had equal opportunity to inherit the throne. They
+established that the King and Queen would share joint authority over the realm,
+but only the blood members of the ruling family may inherit the throne.
 
-## Forest Distribution
+For example, if the current monarchs do not have children, and the Queen was the
+daughter of the provious monarch, only her siblings could inherit. The King's
+line could only inherit if there were no blood relatives of any degree of
+consanguinity are left from the Queen's line.
 
-### Central Highlands (Ranterg Range)
+## Monarchy
 
-- Mixed deciduous-coniferous forests
-  - Oak-pine dominant on lower slopes
-  - Pine-fir dominant at higher elevations
-  - Dense understory in protected valleys
-  - Thin woodlands on exposed ridges
-- Elevation zones:
-  - Valley forests (500-1500 ft)
-  - Mid-slope forests (1500-3000 ft)
-  - High forests (3000-4200 ft)
+### King and Queen of Senera
 
-### Maltrek Region
-
-- Maritime woodlands
-  - Wind-sculpted coastal forests
-  - Protected valley woodlands
-  - Mixed oak-birch dominant
-  - Scattered pine groves
-- Distinctive features:
-  - Dense understory in sheltered areas
-  - Stunted growth on exposed heights
-  - Spring-fed grove pockets
-
-### Western Foothills
-
-- Limestone woodland
-  - Oak-ash dominant
-  - Rich spring-fed valleys
-  - Thin soils on ridges
-  - Scattered clearings
-
-# Administrative Divisions
-
-## Western Provinces (Hick-dominant names)
-
-### The Maltrek Thanedom
-
-- Capital: Malterburgh
-- Major settlements:
-  - Bramwick (< Hick bram-vik "tide bay")
-  - Thralmal (< Hick thral-mal "sacred pool")
-  - Torward (< Hick tor-ward "peak-ward")
-- Notable features:
-  - Ancient Hick astronomical sites
-  - Sacred pools
-  - Traditional forestlands
-
-### The Rannek March
-
-- Capital: Rannekford
-- Major settlements:
-  - Malterdale (< Hick mal-ter "pool-flow")
-  - Graldene (< Hick gral-den "earth-valley")
-  - Westbram (< Hick west-bram "west-tide")
-- Notable features:
-  - Limestone river valleys
-  - Traditional water management systems
-  - Ancient Hick agricultural terraces
-
-## Northern Provinces (Iutlandish influence)
-
-### Skelmark County
-
-- Capital: Skelwick (< Iut. skip-vik "ship bay")
-- Major settlements:
-  - Torholm (< Hick tor + Iut. holm "peak island")
-  - Havenbeck (< Iut. haven-bek "harbor stream")
-  - Northdal (< Iut. nord-dal "north valley")
-- Notable features:
-  - Major shipyards
-  - Trading ports
-  - Mixed Hick-Iutlandish culture
-
-### The Storskey Riding
-
-- Capital: Storwick
-- Major settlements:
-  - Langdale (< Iut. lang-dal "long valley")
-  - Hegfell (< Iut. høg-fell "high mountain")
-  - Vikness (< Iut. vik-nes "bay point")
-- Notable features:
-  - Timber reserves
-  - Fishing ports
-  - Ancient signal towers
-
-## Eastern Provinces (Kalassarian dominance)
-
-### The Inespell March
-
-- Capital: Surrey-on-the-Brams
-
-  - Originally "Surrata-in-Bramaes" in Kalassarian records
-  - Deliberately "Senerized" during military reorganization (c. 500 AI)
-  - Combines Kalassarian element (Surrey < Surrata) with Hick hydronym (Brams <
-    bram-aes)
-  - Pattern adopted as standard for other strategic locations
-
-- Major settlements:
-
-  - Port Surrey-on-the-Brams (naval headquarters)
-  - Bramsgate (former Portbury, renamed in same directive)
-  - Eastonton (maintains Kalassarian -ton suffix)
-
-- Notable features:
-  - Island fortress complex
-  - Primary naval base
-  - Administrative center
-  - Strategic harbor facilities
-
-## Central Provinces (Mixed influence)
-
-### The Ranterg Heights
-
-- Capital: Thrantorbury
-- Major settlements:
-  - Peakford (hybrid Hick-Kalassarian)
-  - Highbury (< Kal. high-burrium)
-  - Torgate (< Hick tor + Kal. gate)
-- Notable features:
-  - Mountain passes
-  - Sacred sites
-  - Forest preserves
-
-### The Kethren March
-
-- Capital: Kethbury
-- Major settlements:
-  - Watchton (< Hick keth + Kal. tonum)
-  - Signalgate (hybrid name)
-  - Hillbury (< Kal. hill-burrium)
-- Notable features:
-  - Coastal watchtowers
-  - Signal stations
-  - Maritime defenses
-
-# Peerage of Senera
-
-## Royal Peerage
-
-### High King/Queen of Senera
-
-- Current Holder: House Dragonheart
+<aside class="sidebar">
+- Current Holder: [House Dragonheart](@/locations/senera/noble-houses.md#house-dragonheart)
 - Seat: Thrantorbury
-- Special Privileges:
-  - Appointment of Lord Admirals
-  - Confirmation of Marcher Lords
-  - Granting of new noble titles
-  - Orthodox Church patronage rights
+- King: Threngral Dragonheart
+- Queen: Aelith Maidenfeld-Dragonheart
+</aside>
+
+The King and Queen, by law, hold the highest authority in the realm. They are
+co-equal rulers and share joint authority over the realm. However, only the
+member of the ruling family may inherit the throne according to the rules of
+primogeniture.
+
+The King and Queen may decide among themselves which portions of authority they
+shall exercise, but there are no legal limits to the authority of either
+monarch.
+
+Their roles, duties, and privileges are as follows:
+
+- Ultimate authority over the lands and titles of the realm
+- Power to veto legislation passed by the Noble Electorate
+- Power to declare martial law, which in itself allows:
+  - Imposition of emergency taxes
+  - Declaration of emergency legislation
+  - Conscription of military forces
+  - Requisitioning of supplies and resources
+  - Suspension of certain rights and privileges
+- Authority to declare war
+- Authority to grant and/or confirm noble entitlements
+- Authority to dispense justice
+- Authority to grant pardons
+- Authority to delegate Royal Authority, by appointing the following ministerial
+  roles:
+  - Lord Chancellor
+  - Lord Treasurer
+  - Ambassador General
+  - Royal Seneschal
+  - Lord Chamberlain
+- Authority to select a Bishop from a pool of candidates nominated by the
+  Orthodox Church
 
 ## Greater Nobility
 
@@ -646,32 +528,25 @@ and responsibilities of the nobility.
 
 ### Marquessate
 
-#### House Surrata
+#### Marquessate of Inespell
 
-The coastal domain of the Inespell Gulf had been held by House Surrata since the
-Fall of Western Kalassar. They have been instrumental in the rise to power of
-the Maidenfeld Dynasty. After the dust had settled, the Maidenfeld monarch had
-designated the entirety of the gulf as a march under the authority of the first
-Marcher Lord of Surrey.
+#### Marquessate of Rannek
 
-After the War of Thyme and Fire, the Dragonhearts wanted to ensure that the
-powerful House Surrata was kept under their thumb, so the Inespell March was
-designated as a marquessate. The House would hold higher esteem in the peerage,
-but would lose the autonomy that a Marcher Lordship enjoyed.
+### Earldoms/Counties
 
-In the present day, the head of House Surrata not only holds the title of
-Marquess, but also commands the Eastern Fleet as Lord High Admiral of the Realm.
+- House Maidenfeld
 
-- Domain: The Inespell March
-- Seat: Surrey-on-the-Brams
-- Special Right: Lord High Admiral of the Realm
-- Key Holdings:
-  - Island fortress complex
-  - Naval headquarters
-  - Eastern harbors
-  - Strategic port facilities
+The Maidenfelds used to hold the entirety of the Rannek March and were the
+ruling royal house of Senera. A once cadet branch of the House, the
+Dragonhearts, eventually contested the throne and supplanted the Maidenfelds
+after the War of Thyme and Fire.
 
-### Earldoms
+The Maidenfelds were not outright removed from the peerage, but were reduced to
+the status of Viscounts, and were restricted to the estates surrounding their
+ancestral lands in Thregel Valley in the western portion of the Rannek March.
+
+- Domain: Thregel Valley
+- Seat: Thregel Keep
 
 ### Thanedoms
 
@@ -688,25 +563,15 @@ Marquess, but also commands the Eastern Fleet as Lord High Admiral of the Realm.
   - Seat: Rannekford
   - Special Right: Hereditary Granary-Keepers of the Realm
 
-### Viscounts/Viscounties
-
-- House Maidenfeld
-
-The Maidenfelds used to hold the entirety of the Rannek March and were the
-ruling royal house of Senera. A once cadet branch of the House, the
-Dragonhearts, eventually contested the throne and supplanted the Maidenfelds
-after the War of Thyme and Fire.
-
-The Maidenfelds were not outright removed from the peerage, but were reduced to
-the status of Viscounts, and were restricted to the estates surrounding their
-ancestral lands in Thregel Valley in the western portion of the Rannek March.
-
-- Domain: Thregel Valley
-- Seat: Thregel Keep
-
 ## Lesser Nobility
 
-### Counts/Countesses
+### Viscounts/Viscounties
+
+- House Eastonton
+
+  - Domain: Northern Inespell Coast
+  - Seat: Eastonton
+  - Notable: Harbor-Masters
 
 - House Spellward
 
@@ -746,11 +611,6 @@ ancestral lands in Thregel Valley in the western portion of the Rannek March.
   - Domain: Upper Malter Valley
   - Seat: Malterdale
   - Notable: River-Keepers
-
-- House Eastonton
-  - Domain: Eastern Surrey
-  - Seat: Eastonton
-  - Notable: Harbor-Masters
 
 ### Baronets (lowest hereditary rank)
 

@@ -1,10 +1,6 @@
 +++
 title = "Seneran Military"
-[taxonomies]
-leaders = []
-organization_type = []
+template = "redirect.html"
+[extra]
+redirect = "/organizations/seneran-royal-navy.md"
 +++
-
-# Army
-# Navy
-

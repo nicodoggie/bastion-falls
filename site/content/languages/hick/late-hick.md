@@ -355,3 +355,27 @@ Derived from Kalassarian "hiccus" [hik.kus] meaning "local, native":
 - [Early Hick](@/languages/hick/early-hick.md)
 - [Middle Hick](@/languages/hick/middle-hick.md)
 - [Seneran](@/languages/seneran.md)
+
+## Agentive Marking Development
+
+### Early Stage (105-250 AI)
+
+- Competition between native -ok and borrowed -er
+- Initial complementary distribution emerges:
+  - -ok favored in traditional occupations
+  - -er appears in new trade/craft terms
+
+### Late Stage (250-400 AI)
+
+- Clear functional split develops:
+  - -ok specializes for established occupations:
+    - materok "professional boatman"
+    - smedok "master smith"
+    - wardok "professional guide"
+  - -er marks temporary or non-professional agents:
+    - mater "one who handles boats"
+    - smeder "one who smiths"
+    - warder "one who guides"
+
+This systematization laid the groundwork for the modern Seneran distinction
+between occupational -ok and active participant -er.

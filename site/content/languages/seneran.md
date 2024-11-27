@@ -1107,6 +1107,44 @@ Final stops are aspirated:
 - Legal/Criminal: [laɪ.nərs] "death by strangulation"
 - Common Speech: [lɪ.nərs] "to choke/strangle"
 
+## Agentive Marking
+
+Modern Seneran preserves two distinct agentive suffixes inherited from Late Hick:
+
+### Primary Markers
+
+<dl>
+<dt><dfn>-ok</dfn> [ək]</dt>
+<dd>Forms occupational nouns (professional/established roles)</dd>
+<dd>Examples:
+  - materok [ma.tə.rək] "professional boatman"
+  - smedok [sme.dək] "master smith"
+  - wardok [war.dək] "professional guide/navigator"</dd>
+
+<dt><dfn>-er</dfn> [ər]</dt>
+<dd>Forms active participant nouns (temporary/non-professional agents)</dd>
+<dd>Examples:
+  - mater [ma.tər] "one who handles boats"
+  - smeder [sme.dər] "one who smiths"
+  - warder [war.dər] "one who guides"</dd>
+</dl>
+
+### Register Effects
+
+1. Maritime Usage
+   - -ok forms dominate in professional titles
+   - -er restricted to temporary/trainee roles
+   Example: skelok "ship's master" vs. skeler "temporary helmsman"
+
+2. Trade/Craft Terms
+   - -ok indicates guild membership/mastery
+   - -er indicates apprenticeship/amateur status
+   Example: smedok "master smith" vs. smeder "apprentice smith"
+
+3. Administrative Language
+   - -ok in formal titles
+   - -er in deputized/acting roles
+   Example: wardok "harbor master" vs. warder "acting harbor master"
 
 # Sound Changes
 

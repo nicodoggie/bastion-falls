@@ -6,10 +6,14 @@ organization_type = ["military"]
 parent_organizations = ["Seneran Military", "Kingdom of Senera"]
 +++
 
-The **Seneran Royal Navy** is the maritime force of [Senera]
-(@/locations/senera.md), responsible for protecting its waters, enforcing the
-[Treaty of Turain](@/events/treaty-of-turain.md), and maintaining control over
-trade routes in the Sarmatian Sea.
+The _Seneran Royal Navy_ or the _High Admiralty of the Kingdom of Senera_ is the
+organization that handles the [Kingdom of Senera's] (@/locations/senera.md)
+professional standing armed forces. Not only does it encompass their
+well-established maritime forces, it also has command over the Kingdom's army.
+The only fighting force under the Seneran banner not under the Admiralty's
+command are the Kingsguard. The Navy is responsible for protecting its waters,
+enforcing the [Treaty of Turain](@/events/treaty-of-turain.md), and maintaining
+control over trade routes in the Sarmatian Sea.
 
 ## Command Structure
 

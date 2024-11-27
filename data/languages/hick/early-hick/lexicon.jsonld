@@ -1875,6 +1875,117 @@
           "lexinfo:register": "lexinfo:religiousRegister"
         }
       ]
+    },
+    {
+      "@id": "eh:im",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "im",
+        "phoneticRep": "im"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔimru",
+        "etymon:soundChange": [
+          "liquid deletion in unstressed position",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil, abstract negativity",
+            "@language": "en"
+          },
+          "usage": "Used for abstract concepts of evil/negativity",
+          "lexinfo:semanticField": [
+            "Sacred & Ritual",
+            "Negation",
+            "Abstract Concepts"
+          ],
+          "lexinfo:register": "lexinfo:religiousRegister"
+        }
+      ]
+    },
+    {
+      "@id": "eh:his",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "his",
+        "phoneticRep": "his"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-lisu",
+        "etymon:soundChange": [
+          "liquid deletion at morpheme boundary",
+          "vowel coalescence",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sight (animate/conscious perception)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Perception",
+            "Sacred & Ritual",
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:duwes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "duwes",
+        "phoneticRep": "du.wes"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:sedu"
+        },
+        {
+          "@id": "eh:lawes"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sedu-lawes",
+        "etymon:meaning": "seed-consume",
+        "etymon:soundChange": [
+          "liquid deletion at morpheme boundary",
+          "syncope in first element",
+          "initial cluster simplification",
+          "vowel coalescence",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "eat, consume",
+            "@language": "en"
+          },
+          "usage": "Basic verb of consumption",
+          "lexinfo:semanticField": [
+            "Bodily Functions",
+            "Basic Actions"
+          ]
+        }
+      ]
     }
   ]
 }

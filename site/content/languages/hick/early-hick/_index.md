@@ -68,172 +68,7 @@ regional dialects and the historical development of Hick.
 
 # Proto-Hick Reconstruction
 
-## Sound Changes from Proto-Hick to Early Hick
-
-1. Initial *h Development a. Animacy marker *hi-:
-
-   - \*hi- > i- / \_i (before /i/)
-   - \*hi- > ʔ- (elsewhere) Examples:
-   - \*hi-mer > imer "soul"
-   - \*hi-al > ʔal "person"
-
-   b. Sacred marker \*ha-:
-
-   - \*ha- > θ- (th-) Examples:
-   - \*halu > hal > thal "holy"
-   - \*haru > har > thar "ritual"
-
-2. Final Vowel Loss (Pre-Early Hick)
-
-   - \*-u > ∅ / \_#
-   - Extremely regular:
-     - \*thralu → thral "sacred"
-     - \*malu → mal "pool"
-     - \*toru → tor "height"
-     - \*wadu → wad "path"
-     - \*nesu → nes "fish"
-
-3. Vowel Coalescence (Pre-Early Hick)
-
-   - \*ahi → ai "water"
-   - \*grau → gra "grey"
-
-4. Compound-Specific Changes (Early Proto-Hick)
-
-   - Syncope in compounds:
-     - \*CVCV-VCV → CCV-VCV
-     - \*stenu-alu → stenal → snal
-     - \*menu-alu → menal → mnal
-   - /r/ dissimilation in compounds:
-     - r...r → ∅...r / in compounds
-     - \*staru-garu → stargar → sargar
-     - \*maru-ris → marris → maris
-
-5. Early Hick Compound Formation Patterns
-
-   - Regular compounding with no changes:
-     - mur-mer → murmer "night-bird"
-     - mur-kel → murkel "night sky"
-     - kur-tin → kurtin "bronze"
-   - Liquid/Nasal Deletion in Early Hick compounds:
-     - thral-gral → thragral "sacred earth"
-     - bram-mal → bramal "tidal pool"
-     - val-mal → vamal "spirit pool"
-   - Tri-element Compound Simplification (Early Hick innovation):
-     - tor-mur-mer → tomur "great owl"
-     - thur-mur-mer → thurmur "dusk owl"
-     - li-mur-mer → limur "small owl"
-
-6. Initial Cluster Simplification a. \*sC > 'C / #\_ Examples:
-
-   - \*skel > 'kel "opening"
-   - \*ster > 'ter "flow"
-
-   b. Medial clusters resyllabified:
-
-   - \*is-kel > [is.kel] "out-sky"
-   - \*as-ter > [as.ter] "up-flow"
-
-7. Other Initial Fricative Loss a. \*ʃC > sC / #\_
-
-   - \*ʃkel > skel > 'kel "cave"
-   - \*ʃter > ster > 'ter "stream"
-
-   b. \*x > h / #\_
-
-   - \*xalu > halu > al "rock"
-   - \*xiru > hiru > ir "iron"
-
-8. Final Vowel Loss
-   - \*-u > ∅ / \_#
-   - Extremely regular:
-     - \*thralu → thral "sacred"
-     - \*malu → mal "pool"
-     - \*toru → tor "height"
-     - \*wadu → wad "path"
-     - \*nesu → nes "fish"
-
-## Relative Chronology
-
-1. Pre-Early Hick
-
-   - Final vowel loss (\*-u > ∅)
-   - Vowel coalescence (\*ahi > ai)
-
-2. Early Hick Period
-   - Productive compound formation
-   - Development of compound-specific sound changes
-   - Innovation of tri-element compound simplification
-
-## Morphological Evolution
-
-1. Compound Formation Patterns
-   - Element + Element preserved from Proto-Hick
-   - New patterns developed:
-     - Descriptor + Element
-     - Location + Base
-2. Grammatical Categories
-   - Retention of Proto-Hick case system
-   - Development of new aspectual markers
-
-## Semantic Shifts
-
-1. Core Vocabulary
-   - \*thralu "sacred" → thral "sacred; day"
-   - \*kelu "sky" kel "sky; blue"
-2. Extended Meanings
-   - \*toru "height" → tor- augmentative prefix
-   - \*muru "night" → base for owl terminology
-
-## Directional System Development
-
-1. Illative (-aes)
-   - From Proto-Hick \*lawes "consume/take in"
-   - Sound changes:
-     - *lawes > *laes > -aes
-   - Parallel development with \*wel > bel "mouth"
-   - Original compound: \*wel-lawes "mouth-consume"
-     - > *wellaes > *belaes "intake"
-     - Grammaticalized to directional marker -aes
-2. Ellative (-imris)
-   - From compound: *imer "breath" + *is "out"
-   - Shows parallel grammaticalization:
-     - Body action > directional marker
-   - Preserved in forms like:
-     - imeraes "inspiration" (soul-inward)
-     - imerimris "expression" (soul-outward)
-3. Example Usage
-   - materok rismateraes kethes "the boatman (goes) into the reed boat"
-   - materok rismaterimris kethes "the boatman (goes) out from the reed boat"
-
-## Negation System Development
-
-1. Proto-Hick Stage:
-   - *mur "darkness, absence" (full lexical word)
-   - Used in compounds to indicate lack/absence
-   
-2. Early Proto-Hick:
-   - *mur becomes preverbal particle marking negation
-   - *mur ter "not flow" (lit. "absence flow")
-   
-3. Late Proto-Hick:
-   - Unstressed position leads to reduction:
-   - *mur > *mu (liquid deletion in unstressed position)
-   
-4. Early Hick:
-   - Further reduction in unstressed prefix position:
-   - *mu- > mo-
-   - Examples:
-     - mo-thral "non-sacred" < *mur thral
-     - mo-ter "not flowing" < *mur ter
-     - mo-ward "misdirect" < *mur ward
-
-5. Semantic Development:
-   - Original *mur retained independently as "darkness"
-   - mo- grammaticalized as general negator
-   - Metaphorical extension: darkness → absence → negation
-
-# Phonology
+See: [Proto-Hick](@/languages/hick/proto-hick.md)
 
 ## Overview
 
@@ -333,10 +168,10 @@ See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
 
    Examples:
 
-   - 'tor-mal → ['to.məl] "great pool"
-   - 'thral-kel → ['θral.kel] "sacred sky" (no reduction - sacred term)
-   - 'tor-ma-ˌter → ['tor.mə.ˌter] "great-pool-flow"
-   - 'bram-ma-ˌter → ['bram.ma.ˌter] "tide-vessel" (no reduction - maritime)
+   - tor-mal → [ˈto.məl] "great pool"
+   - thral-kel → [ˈθral.kel] "sacred sky" (no reduction - sacred term)
+   - tor-ma-ter → [ˈtor.mə.ˌter] "great-pool-flow"
+   - bram-ma-ter → [ˈbram.ma.ˌter] "tide-vessel" (no reduction - maritime)
 
 ## Prosodic System
 
@@ -344,11 +179,11 @@ See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
 
 1. Primary Stress
    - Falls on first syllable of root in isolation
-   - Maintained in prefixation: 'ma-tor → ['ma.tor]
-   - Shifts in compounds: tor-'mal → [tor.'mal]
+   - Maintained in prefixation: ma-tor → [ˈma.tor]
+   - Shifts in compounds: tor-mal → [tor.ˈmal]
 2. Secondary Stress
-   - In three-syllable compounds: 'tor-ma-'ter → ['tor.mə.'ter]
-   - In prefix chains: 'ma-ka-'tor → ['ma.kə.'tor]
+   - In three-syllable compounds: tor-ma-ter → [ˈtor.mə.ˌter]
+   - In prefix chains: ma-ka-tor → [ˈma.kə.ˌtor]
 3. Stress-Related Changes
    - Unstressed /a/ → [ə]
    - Stressed vowels resist reduction
@@ -483,37 +318,58 @@ use prefixes.
 
 ### Agentive Marking
 
-1. Primary Markers
-   - -ok [ok]: forms agent nouns
-   - -er [er]: forms active participant nouns Examples:
-   - materok "boatman" < mater-ok "vessel-AGENT"
-   - ward-er "guide" < ward "direct"
+1. Primary Marker
+   - -ok [ok]: agentive nominalizer (forms agent nouns, both occupational and
+     active) Examples:
+   - materok "boatman" < mater-ok "vessel-AGENT" (one who works with vessels)
+   - wardok "guide" < ward-ok "direct-AGENT" (one who directs)
+   - threnok "watcher" < thren-ok "watch-AGENT" (one who watches)
+
+[Note: The -er suffix appears in Middle Hick through Old Iutlandish
+contact, leading to the occupational/active distinction between -ok/-er in Late Hick]
 
 ### Tense and Aspect Marking
 
 1. Basic Temporal Markers
-   - branum [bra.num] "past" (lit. "swift-that.DIST.INAN")
-     - From bran "swift/passing" + -um "distal inanimate"
-     - Conceptualizes past as distant/unseen time
-   - branrum [bran.rum] "ancestral time" (lit. "swift-that.DIST.ANIM")
-     - Uses animate distal marker for sacred/ancestral time
+
+   - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
+     - From bran "dawn" + -um "distal inanimate"
+     - Conceptualizes past as distant dawn-time, reflecting Hick cultural view
+       of time flowing from dawn to night
+     - Used for general past reference and historical narratives
+   - branrum [bran.rum] "ancestral time" (lit. "dawn-that.DIST.ANIM")
+     - Uses animate distal marker -rum to personify ancestral time
+     - Specifically used for sacred histories and ancestral stories
+     - Contrasts with branum by marking time as animate/sacred
    - mulsum [mul.sum] "future" (lit. "night-change-DIST")
      - From mulsimrum "changes to a distant night"
      - Grammaticalized through reduction: mulsimrum → mulsum
+     - Reflects Hick metaphor of future as approaching darkness
+     - Used for both predictions and intentions
+
 2. Completive Marking
+
    - tel [tel] "complete, finished"
      - Follows clause for past perfect meaning
+     - Derives from Proto-Hick \*telu "place/position"
+     - Metaphorical extension: reaching a place → completion
      - Example: bramisimris kethes branum tel "the river had flowed to the sea"
+
 3. Position and Usage
-   - Can occur sentence-initial (topic/focus):
-     - branum bramisimris kethes "In the past, the river flowed to the sea"
-     - mulsum bramisimris kethes "In the future, the river will flow to the sea"
-   - Can occur sentence-final (neutral):
-     - bramisimris kethes branum "The river flowed to the sea"
-     - bramisimris kethes mulsum "The river will flow to the sea"
-   - Can occur pre-verbal (emphasis):
-     - bramisimris branum kethes "The river USED TO flow to sea"
-     - bramisimris mulsum kethes "The river WILL flow to sea"
+
+   - Sentence-initial (topic/focus):
+     - Marks temporal frame for entire discourse
+     - Often used in formal/ritual speech
+     - Example: branum bramisimris kethes "In the past, the river flowed to the
+       sea"
+   - Sentence-final (neutral):
+     - Default narrative position
+     - Most common in everyday speech
+     - Example: bramisimris kethes branum "The river flowed to the sea"
+   - Pre-verbal (emphasis):
+     - Marks temporal contrast
+     - Used for emphasis or correction
+     - Example: bramisimris branum kethes "The river USED TO flow to sea"
 
 ### Spatial Reference System
 
@@ -693,38 +549,32 @@ the use of the ergative case in those contexts.
 Early Hick has no true adjective class. Quality concepts are expressed through:
 
 1. Stative Verbs
+
    - Uses verbalizer -ʔer
-   - Takes absolutive argument
-   Examples:
+   - Takes absolutive argument Examples:
    - kel-es kakel'er "sky-ABS blue.VERB" (the sky is blue)
-   - thral-el kel-es kakel'er "ritual-ERG sky-ABS blue.VERB" 
-     (the ritual makes the sky blue)
+   - thral-el kel-es kakel'er "ritual-ERG sky-ABS blue.VERB" (the ritual makes
+     the sky blue)
 
 2. Change of State
-   1. Translative (-sim):
-      keles kakelsim
-      sky.ABS blue.TRANS
-      "sky becomes blue" (general change of state)
 
-      thralel kakelsim keles
-      ritual.ERG blue.TRANS sky.ABS
-      "ritual makes sky blue" (caused change)
+   1. Translative (-sim): keles kakelsim sky.ABS blue.TRANS "sky becomes blue"
+      (general change of state)
 
-   2. Directional Cases (-aes/-imris):
-      kamar keles kakelaes
-      red sky.ABS blue.ILL
+      thralel kakelsim keles ritual.ERG blue.TRANS sky.ABS "ritual makes sky
+      blue" (caused change)
+
+   2. Directional Cases (-aes/-imris): kamar keles kakelaes red sky.ABS blue.ILL
       "red sky turns blue" (movement toward state)
 
-      kakel keles kamarimris
-      blue sky.ABS red.ELL
-      "blue sky turns back red" (return to state)
+      kakel keles kamarimris blue sky.ABS red.ELL "blue sky turns back red"
+      (return to state)
 
 3. Notes:
    - No attributive modification
    - All qualities are verbal predicates
    - Follows ergative-absolutive alignment
    - Causatives marked by adding ergative agent
-
 
 ## Derivational Morphology
 
@@ -824,7 +674,6 @@ Examples:
    - Prefix ka- always reduces to [kə-]
    - Liquid deletion applies across morpheme boundaries
    - Nasal deletion applies across morpheme boundaries
-
 
 ## Nominal Morphology
 

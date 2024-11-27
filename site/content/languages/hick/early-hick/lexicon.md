@@ -21,6 +21,13 @@ For grammatical information and language overview, see
 
 ## Core Semantic Fields
 
+### Basic Terms
+
+- haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  See: [Number System](#number-system),
+  [Compound Formation](#compound-formation)
+
 ### Natural World
 
 1. Elements
@@ -93,24 +100,27 @@ For grammatical information and language overview, see
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - gras [gras] "grass" < Proto-Hick \*grasu → gras
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - sed [sed] "seed" < Proto-Hick \*sedu → sed
+   - s [sed] "seed" < Proto-Hick \*sedu → sed
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kel [kel] "leaf" < Proto-Hick \*kelu → kel
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-   - bran [bran] "branch" < Proto-Hick \*branu → bran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - bran [bran] "branch" < Proto-Hick \*bahu lu-haranu → bran (lit. "split from
+     father")
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     Note: Preserved compound with ablative lu- marking
    - wen [wen] "flower" < Proto-Hick \*venu -> wenu → wen
      ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Cultivated Plants
 
-   - gransed [gran.sed] "grain" < gras-sed "grass-seed" → gransed
+   - gransed [ˈgran.sed] "grain" < gras-sed "grass-seed" → gransed
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - malris [mal.ris] "water reed" < mal-ris "pool-reed" → malris
+   - malris [ˈmal.ris] "water reed" < mal-ris "pool-reed" → malris
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - ranris [ran.ris] "river reed" < ran-ris "stream-reed" → ranris
+   - ranris [ˈran.ris] "river reed" < ran-ris "stream-reed" → ranris
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - thirwud [θir.wud] "white wood" < thir-wud "white-wood" → thirwud
+   - thirwud [ˈθir.wud] "white wood" < thir-wud "white-wood" → thirwud
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
    - marwud [mar.wud] "red wood" < mar-wud "red-wood" → marwud
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
@@ -477,7 +487,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 1. Basic Terms
 
-   - bao [ba.o] "father" < Proto-Hick \*bawu → bao
+   - bao [ba.o] "father" < Proto-Hick \*bahu → bao
      ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - nai [nai] "mother" < Proto-Hick \*nahi → nai
      ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -487,13 +497,23 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
      "bird")
    - thir [θir] "elder" < Proto-Hick \*thiru → thir (metaphorical extension from
      "air/white")
-   - lis [lis] "child" < Proto-Hick \*lisu → lis (metaphorical extension from
-     "eye")
+   - lis [lis] "child" < Proto-Hick *hi-lisu → ilis → lis (lit. "one who
+     sees/perceives")
+     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     Note: Developed from animate form of *lisu "eye", showing semantic shift
+     from physical perception to conscious learning/development
 
 2. Compound Terms
 
    - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - bran [bran] "lineage, family branch" < Proto-Hick \*bahu lu-haranu → bran
+     (lit. "split from father")
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     Note: Same term used for tree branch; see
+     [Flora Terms](#flora--agriculture)
    - thirmer [θir.mer] "grandparent" < thir-mer "elder-parent" → thirmer
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
    - thirlis [θir.lis] "grandchild" < thir-lis "elder-child" → thirlis
@@ -557,6 +577,8 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
    - ma-thal [ma.θal] "group (of people)" < ma-thal "PL-three" → mathal
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - haran [ha.ran] "divide (numbers)" < Proto-Hick \*haranu → haran
+     (metaphorical extension from "split") See: [Basic Terms](#basic-terms)
 
 ## Derivational Patterns
 
@@ -629,9 +651,11 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 ### Negation and Opposition
 
 1. Basic Terms
-   - imur [i.mur] "evil, negative force" < Proto-Hick \*imuru → imur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+   - im [im] "evil, abstract negativity" < Proto-Hick \*ʔimru → im
+     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
      See: [Sacred Terms](#sacred--ritual)
+   - imur [i.mur] "evil force" < Proto-Hick \*hi-mur → imur
+     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
 2. Compound Terms with imur-
    - imurmal [i.mur.mal] "evil pool, cursed waters" < imur-mal → imurmal
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
@@ -639,10 +663,110 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
    - imurwad [i.mur.wad] "evil path, dangerous route" < imur-wad → imurwad
      ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-   - imurthral [i.mur.θral] "evil day, cursed time" < imur-thral → imurthral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - imurthral [i.mur.θral] "cursed day/time" < imur-thral → imurthral (compound
+     fusion, maintains second element due to sacred term) See:
+     [Time Terms](#time--celestial)
 3. Usage Examples
    - imur-thir-es thral-ʔer evil-KNOWN.ANIM-ABS sacred-ACT "The known evil one
      is sacred"
    - mo-thral-es ward-ter NEG-sacred-ABS direct-to "Direct (it) to the unsacred
      one"
+
+### Sacred & Ritual Terms
+
+- imthral [im.θral] "evil deity" < im-thral "evil-sacred" → imthral (compound
+  fusion, maintains second element due to sacred term) See:
+  [Sacred Terms](#sacred--ritual)
+
+- imurthral [i.mur.θral] "cursed day/time" < imur-thral "evil.force-sacred" →
+  imurthral (compound fusion, maintains second element due to sacred term) See:
+  [Time Terms](#time--celestial)
+
+- mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis (compound
+  reduction, final vowel loss) See: [Sacred Terms](#sacred--ritual)
+
+Related forms:
+
+- mur [mur] "night, darkness"
+- hilis [hi.lis] "to see" (animate)
+- lis [lis] "eye"
+
+- mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis (compound
+  reduction, final vowel loss) See: [Sacred Terms](#sacred--ritual)
+
+Related forms:
+
+- mur [mur] "night, darkness"
+- hilis [hi.lis] "to see" (animate)
+- lis [lis] "eye"
+
+### Bodily Functions & States
+
+1. Basic Terms
+
+   - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     See: [Directional System](#directional-system)
+   - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
+     ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+     See: [Sacred Terms](#sacred--ritual),
+     [Abstract Concepts](#abstract-concepts)
+   - hilis [hi.lis] "sight" < Proto-Hick \*hi-lisu → hilis
+     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+     [Body Parts](#body-parts)
+
+2. Compound Terms
+   - mulisaes [mu.li.saes] "dream-state" < mulis-aes → mulisaes
+     ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
+   - mulisimris [mu.li.sim.ris] "awakening" < mulis-imris → mulisimris
+     ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
+
+### Abstract Concepts
+
+1. Vision & Perception
+   - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis See:
+     [Bodily Functions](#bodily-functions--states),
+     [Sacred Terms](#sacred--ritual)
+   - mulisthral [mu.lis.θral] "prophetic dream" < mulis-thral → mulisthral
+     (compound fusion, maintains second element due to sacred term)
+   - mulisim [mu.li.sim] "nightmare" < mulis-im → mulisim
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+### Vision & Perception Terms
+
+1. Basic Terms
+
+   - lis [lis] "eye" < Proto-Hick \*lisu → lis
+     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+   - his [his] "sight" < Proto-Hick \*hi-lisu → his
+     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
+     [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     See: [Sacred Terms](#sacred--ritual)
+   - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
+     ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+     See: [Sacred Terms](#sacred--ritual)
+
+2. Derived Terms
+   - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
+     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+
+### Food & Consumption Terms
+
+1. Basic Terms
+
+   - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     See: [Directional System](#directional-system)
+
+2. Derived Compounds
+   - duwesok [du.we.sok] "eater, consumer" < duwes-ok "eat-AGENT" → duwesok
+     ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+   - torduwes [tor.du.wes] "feast, great eating" < tor-duwes "great-eat" →
+     torduwes
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - duwester [du.wes.ter] "meal time" < duwes-ter "eat-flow" → duwester
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+   - duwesthral [du.wes.θral] "ritual feast" < duwes-thral "eat-sacred" →
+     duwesthral
+     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))

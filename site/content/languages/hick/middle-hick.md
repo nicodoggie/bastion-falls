@@ -262,3 +262,24 @@ Compound Examples:
 - Common speech adopts af preposition
 - Some fossilized forms preserve both: af torul "of the peak's"
 - Later developments show af becoming affixed to following word
+
+## Agentive Marking
+
+### Early Period (300-200 PF)
+
+- Inherited -ok suffix remains primary agentive marker
+- Used for both occupational and active agents:
+  - materok "boatman/vessel-handler"
+  - wardok "guide/one who directs"
+  - threnok "watcher/one who watches"
+
+### Late Period (200 PF-105 AI)
+
+- Iutlandish contact introduces -er in maritime/trade terms:
+  - kener "skilled sailor" (< OI \*kœnnær)
+  - keper "merchant" (< OI \*køpær)
+  - siler "silverworker" (< OI \*silfr + -er)
+- -ok remains productive in native formations
+- Some variation between suffixes begins:
+  - skelok/skeler "shipwright"
+  - smedok/smeder "smith"
