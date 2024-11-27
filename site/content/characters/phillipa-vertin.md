@@ -10,7 +10,7 @@ date_of_birth = "date#1257-05-12"
 [taxonomies]
 families = ["Vertin"]
 parents = ["Jemima Vertin", "Simon Vertin"]
-siblings = []
+siblings = ["Philip Vertin", "George Vertin", "Thomas Vertin"]
 religions = ["Orthodox Divine Masochist"]
 organizations = ["Orthodox Divine Masochist", "Circle of the Angel of Nature"]
 ethnicities = ["Seneran"]
