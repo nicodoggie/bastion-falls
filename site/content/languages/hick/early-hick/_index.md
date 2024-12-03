@@ -19,6 +19,11 @@ unearthed, along with a lexicon was found in an unsealed room underneath the
 [Surrey-on-the-Brams](@/locations/surrey-on-the-brams.md). Details in this is a
 modern analysis of that sketch using modern linguistic methods.
 
+Early Hick shows an ergative-absolutive alignment with rich derivational
+morphology and a sophisticated spatial reference system. Core grammatical
+relations are marked through suffixes, while derivational processes primarily
+use prefixes.
+
 A reconstruction of a hypothetical Proto-Hick is also provided, inferenced from
 regional dialects and the historical development of Hick.
 
@@ -277,18 +282,9 @@ The vowel /a/ surfaces as [ə]:
 
 See: [Historical Development](#historical-development) for chronological stages
 
-# Morphology
+# Core Grammar
 
-## Overview
-
-Early Hick shows an ergative-absolutive alignment with rich derivational
-morphology and a sophisticated spatial reference system. Core grammatical
-relations are marked through suffixes, while derivational processes primarily
-use prefixes.
-
-## Core Grammar
-
-### Case System
+## Case System
 
 1. Primary Cases
 
@@ -316,75 +312,54 @@ use prefixes.
      - -esp (SUB): "under, below"
      - -asam (SUBE): "downward, onto"
 
-### Agentive Marking
+### Development of the Ergative Case Marking -el
 
-1. Primary Marker
-   - -ok [ok]: agentive nominalizer (forms agent nouns, both occupational and
-     active) Examples:
-   - materok "boatman" < mater-ok "vessel-AGENT" (one who works with vessels)
-   - wardok "guide" < ward-ok "direct-AGENT" (one who directs)
-   - threnok "watcher" < thren-ok "watch-AGENT" (one who watches)
+The Early Hick ergative marker -el derives from Proto-Hick *mela through
+parallel but distinct development from the definite article:
 
-[Note: The -er suffix appears in Middle Hick through Old Iutlandish
-contact, leading to the occupational/active distinction between -ok/-er in Late Hick]
+1. Sound Changes:
 
-### Tense and Aspect Marking
+   - \*mela > \*mel (final vowel loss)
+   - \*mel > -el (initial m-loss in unstressed position)
 
-1. Basic Temporal Markers
+2. Functional Development:
 
-   - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
-     - From bran "dawn" + -um "distal inanimate"
-     - Conceptualizes past as distant dawn-time, reflecting Hick cultural view
-       of time flowing from dawn to night
-     - Used for general past reference and historical narratives
-   - branrum [bran.rum] "ancestral time" (lit. "dawn-that.DIST.ANIM")
-     - Uses animate distal marker -rum to personify ancestral time
-     - Specifically used for sacred histories and ancestral stories
-     - Contrasts with branum by marking time as animate/sacred
-   - mulsum [mul.sum] "future" (lit. "night-change-DIST")
-     - From mulsimrum "changes to a distant night"
-     - Grammaticalized through reduction: mulsimrum → mulsum
-     - Reflects Hick metaphor of future as approaching darkness
-     - Used for both predictions and intentions
+   - Original meaning: definite animate marker
+   - Intermediate stage: marks definite agents
+   - Final stage: general ergative marker
 
-2. Completive Marking
+3. Examples:
+   - thral-el "the sacred one (as agent)"
+   - mer-el "the bird (as agent)"
+   - pel-el "the bear (as agent)"
 
-   - tel [tel] "complete, finished"
-     - Follows clause for past perfect meaning
-     - Derives from Proto-Hick \*telu "place/position"
-     - Metaphorical extension: reaching a place → completion
-     - Example: bramisimris kethes branum tel "the river had flowed to the sea"
+## Verbal System
 
-3. Position and Usage
+See: [Verbal Morphology](#verbal-morphology) for details on:
 
-   - Sentence-initial (topic/focus):
-     - Marks temporal frame for entire discourse
-     - Often used in formal/ritual speech
-     - Example: branum bramisimris kethes "In the past, the river flowed to the
-       sea"
-   - Sentence-final (neutral):
-     - Default narrative position
-     - Most common in everyday speech
-     - Example: bramisimris kethes branum "The river flowed to the sea"
-   - Pre-verbal (emphasis):
-     - Marks temporal contrast
-     - Used for emphasis or correction
-     - Example: bramisimris branum kethes "The river USED TO flow to sea"
+- Verbalizer -'er
+- Tense and aspect marking
+- Case system interaction
+- Directional system
 
-### Spatial Reference System
+## Spatial Case System
 
-1. Basic Spatial Markers
+See: [Verbal Morphology](#verbal-morphology) for details on:
 
-   - ran (archaic locative): "at, in"
-   - ris (archaic locative): "from, away" Examples:
-   - is-ran "at this place"
-   - eth-ran "at that place"
-   - um-ris "away from that place"
+- Basic directionals (-aes, -imris, etc.)
+- Complex directionals
+- Interaction with verbal semantics
+- Syntactic properties
 
-2. Spatial Demonstratives
-   - istel-ʔal "this.place-person" (speaker's location)
-   - ethtel-ʔal "that.place-person" (addressee's location)
-   - umtel-ʔal "far.place-person" (third party location)
+## Temporal System
+
+See: [Clause Structure and Word Order](#clause-structure-and-word-order) for
+details on:
+
+- Basic temporal markers (branum, branrum, mulsum)
+- Position and usage
+- Interaction with aspect
+- Temporal reference in discourse
 
 ### Conjunctions
 
@@ -399,36 +374,18 @@ contact, leading to the occupational/active distinction between -ok/-er in Late 
    - ethis [eθ.is] "while"
    - umis [um.is] "or else"
 
-### Verbal System
-
-1. Basic Verbalizer
-   - -ʔer [ʔer]: creates active verbs Examples:
-   - ter-ʔer "to flow" (flow-ACT)
-   - thral-ʔer "to be sacred" (sacred-ACT)
-   - thren-ʔer "to watch" (watch-ACT)
-
-### Spatial Case System
-
-Early Hick's directional system marks the goal of the motion verb, supplanting
-the use of the ergative case in those contexts.
-
-1. Basic Directionals
-   - -aes: illative "inward, into"
-   - -imris: ellative "outward, from"
-   - -itar: superessive "upward, upon"
-   - -asam: subessive "downward, onto"
-   - -esp: sublative "under, below"
-   - -sim: translative "change of state, become"
-   - Examples:
-     - keth-aes "into the sea"
-     - keth-imris "from the sea"
-     - tor-itar "upward to the peak"
-     - tor-asam "downward from the peak"
-2. Complex Directionals
-   - -aes-imris: translative "change of state, become"
-     - formal, reduced to shorter -sim
+# Morphology
 
 ## Nominal Morphology
+
+### Agentive Marking
+
+1. Primary Marker
+   - -ok [ok]: agentive nominalizer (forms agent nouns, both occupational and
+     active) Examples:
+   - materok "boatman" < mater-ok "vessel-AGENT" (one who works with vessels)
+   - wardok "guide" < ward-ok "direct-AGENT" (one who directs)
+   - threnok "watcher" < thren-ok "watch-AGENT" (one who watches)
 
 ### Size and Intensity Markers
 
@@ -509,66 +466,155 @@ the use of the ergative case in those contexts.
 ### Possession Marking
 
 1. Basic Possession
-   - -ok [ok]: possessive suffix Examples:
-   - mater-ok "vessel owner"
-   - thral-ok "ritual keeper"
+   - -ul [ul]: possessive suffix Examples:
+   - mater-ul "vessel owner"
+   - thral-ul "ritual keeper"
 
 ## Verbal Morphology
 
 ### Verbalizer
 
-- -ʔer [ʔer]: creates active verbs Examples:
-- ter-ʔer "to flow" (flow-ACT)
-- thral-ʔer "to be sacred" (sacred-ACT)
-- thren-ʔer "to watch" (watch-ACT)
+- -'er ['er]: creates verbs from nouns and property concepts (See:
+  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+- If -'er is preceded by a plosive, it surfaces as [er]
 
-### Directional System
+```plaintext
+mulis-'er [mulis.ʔer] "dreaminɡ"
+tak-er [tak.er] "strike"
+```
 
-1. Basic Directionals
+1. Active verbs (from action/motion concepts):
 
-   - -aes: illative "inward, into"
-   - -imris: ellative "outward, from"
-   - -itar: superlative "upward"
-   - -asam: sublative "downward"
+   ```plaintext
+   ai-es ter-'er
+   water-ABS flow-VERB
+   "Water flows"
 
-2. Example Usage
+   materok-el 'al-es ward-'er
+   handler-ERG person-ABS guide-VERB
+   "The handler guides the person"
+   ```
 
-   - materokel rismateraes "the boatman enters the reed boat"
-   - materokel rismaterimris "the boatman exits the reed boat"
-   - materokel rismateritar "the boatman climbs onto the reed boat"
-   - materokel rismaterasam "the boatman climbs down from the reed boat"
+   Examples:
 
-3. Notes:
-   - Directional cases imply motion verbs
-   - Ergative (-el) marks the agent
-   - No additional case marking needed on the goal/source when using
-     directionals
+   - ter-'er "to flow" (See:
+     [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
+   - thren-'er "to watch" (See:
+     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+   - ward-'er "to guide"
+
+2. Stative verbs (from property concepts):
+
+   ```plaintext
+   tor-thir-es thral-'er
+   peak-KNOWN.ANIM-ABS sacred-VERB
+   "The known peak is sacred"
+
+   kel-es mar-'er
+   sky-ABS red-VERB
+   "The sky is red"
+   ```
+
+   Examples:
+
+   - thral-'er "to be sacred" (See:
+     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+   - mar-'er "to be red" (See:
+     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+
+Note: Interpretation depends on base word semantics:
+
+- Action/motion roots → active verbs (ter "flow", ward "guide")
+- Property roots → stative verbs (thral "sacred") (See:
+  [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+
+## Spatial Case System
+
+Early Hick's spatial case system interacts closely with verbal semantics,
+marking not only physical direction but also abstract state changes and
+causation.
+
+1. Basic Spatial Cases
+
+   - -aes (ILL): "inward, into"
+   - -imris (ELL): "outward, from"
+   - -itar (SUPE): "upward, upon"
+   - -asam (SUBE): "downward, onto"
+   - -esp (SUB): "under, below"
+
+2. Directional Usage
+
+   ```plaintext
+   materok-el rismater-aes
+   handler-ERG reed.boat-ILL
+   "The handler enters the reed boat"
+
+   materok-el rismater-imris
+   handler-ERG reed.boat-ELL
+   "The handler exits the reed boat"
+
+   materok-el rismater-itar
+   handler-ERG reed.boat-SUPE
+   "The handler climbs onto the reed boat"
+
+   materok-el rismater-asam
+   handler-ERG reed.boat-SUBE
+   "The handler climbs down from the reed boat"
+   ```
+
+3. Change of State
+
+   - Spatial cases extend to mark state changes
+   - See: [Adjectival System](#adjectival-morphology) for full details
+
+   ```plaintext
+   kamar kel-es kakel-aes
+   red sky-ABS blue-ILL
+   "red sky turns blue"
+   ```
+
+4. Syntactic Properties
+   - Supplants ergative case in motion contexts
+   - Can be fronted for emphasis
+   - Implies motion/change without overt verb
+   - Interacts with causative constructions
 
 ## Adjectival Morphology
 
 Early Hick has no true adjective class. Quality concepts are expressed through:
 
-1. Stative Verbs
+1. Stative Verbs (See: [Verbal Morphology](#verbal-morphology))
 
    - Uses verbalizer -ʔer
    - Takes absolutive argument Examples:
-   - kel-es kakel'er "sky-ABS blue.VERB" (the sky is blue)
-   - thral-el kel-es kakel'er "ritual-ERG sky-ABS blue.VERB" (the ritual makes
-     the sky blue)
+
+   ```plaintext
+   kel-es kakel-ʔer
+   sky-ABS blue-VERB
+   "The sky is blue"
+
+   thral-el kel-es kakel-ʔer
+   ritual-ERG sky-ABS blue-VERB
+   "The ritual makes the sky blue"
+   ```
 
 2. Change of State
 
-   1. Translative (-sim): keles kakelsim sky.ABS blue.TRANS "sky becomes blue"
-      (general change of state)
+   1. Translative (-sim):
 
-      thralel kakelsim keles ritual.ERG blue.TRANS sky.ABS "ritual makes sky
-      blue" (caused change)
+      ```plaintext
+      kel-es kakel-sim
+      sky.ABS blue.TRANS
+      "sky becomes blue"
+      ```
 
-   2. Directional Cases (-aes/-imris): kamar keles kakelaes red sky.ABS blue.ILL
-      "red sky turns blue" (movement toward state)
+   2. Directional Cases (-aes/-imris):
 
-      kakel keles kamarimris blue sky.ABS red.ELL "blue sky turns back red"
-      (return to state)
+      ```plaintext
+      kamar kel-es kakel-aes
+      red sky-ABS blue-ILL
+      "red sky turns blue"
+      ```
 
 3. Notes:
    - No attributive modification
@@ -675,217 +721,128 @@ Examples:
    - Liquid deletion applies across morpheme boundaries
    - Nasal deletion applies across morpheme boundaries
 
-## Nominal Morphology
+# Syntax
 
-### Size and Intensity Markers
+## Clause Structure and Word Order
 
-1. Diminutive (li-)
+1. Basic Patterns
 
-   - Prefix meaning "small, lesser"
+   - Core arguments marked by case, allowing flexible word order
+   - Ergative (-el) marks agent of transitive verbs
+   - Absolutive (-es) marks patient of transitive & sole argument of
+     intransitive
+   - Word order signals pragmatic functions rather than grammatical roles
+
+2. Information Structure
+
+   - Initial position: topic/focus or temporal frame
+   - Final position: new information or emphasis
    - Examples:
-     - limal [li.mal] "small pool, pond"
-     - liren [li.ren] "small deer, fawn"
-     - lines [li.nes] "small fish, minnow"
 
-2. Augmentative (tor-)
-   - Prefix meaning "great, mighty" (from "height, peak")
+     ```plaintext
+     branum bramisimris kethes
+     past    river-ELL    sea-ABS
+     "In the past, the river flowed to the sea" (temporal frame first)
+
+     kethes bramisimris branum
+     sea-ABS river-ELL    past
+     "The river flowed to the sea, in the past" (neutral statement)
+     ```
+
+3. Verb Position and Aspect
+
+   - Verbs can occur in different positions based on aspect:
+
+     ```plaintext
+     materok-el rismater-es ward tel
+     handler-ERG reed.boat-ABS guide COMPL
+     "The handler has guided the reed boat" (completed action)
+
+     rismater-es ward kethes
+     reed.boat-ABS guide sea-ABS
+     "The reed boat guides to sea" (general statement)
+     ```
+
+   - Directional constructions allow goal prominence:
+     ```plaintext
+     keth-aes materok-el rismater-es
+     sea-ILL  handler-ERG reed.boat-ABS
+     "To sea the handler (takes) the reed boat"
+     ```
+
+4. Temporal Reference
+
+   - Time words can float freely but tend toward:
+     - Initial: setting temporal frame for discourse
+     - Pre-verbal: marking temporal contrast
+     - Final: neutral narrative position
    - Examples:
-     - tornes [tor.nes] "great fish, whale"
-     - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
-     - tomal [to.mal] "great pool, lake" (tor-mal → tomal, liquid deletion)
-3. Speed Augmentative (tor- -sim)
-   - Circumfix combining the argumentative tor- with the translative -sim to
-     mean a swift change in speed
 
-### Number Marking
+     ```plaintext
+     branum materok-el ward-ʔer  # Frame-setting
+     past    handler-ERG guide-ACT
+     "In the past, the handler guided"
 
-1. Plural Prefix (ma-)
-   - Basic plural marker
-   - Examples:
-     - mator [ma.tor] "peaks, heights"
-     - makel [ma.kel] "skies"
-   - Interacts with case marking: ma-tor-el (PL-height-ERG)
+     materok-el branum ward-ʔer  # Temporal contrast
+     handler-ERG past    guide-ACT
+     "The handler USED TO guide"
 
-### Similarity Marking
+     materok-el ward-ʔer branum  # Neutral narrative
+     handler-ERG guide-ACT past
+     "The handler guided, in the past"
+     ```
 
-1. Similarity Prefix (ka-)
-   - Prefix meaning "like, similar to"
-   - Always surfaces as [kə-] due to regular vowel reduction
-   - Examples:
-     - ka-tor [kə.tor] "hill-like" (smaller than a mountain)
-     - ka-mal [kə.mal] "pond-like" (smaller than a lake)
-     - ka-bram [kə.bram] "tide-like" (rhythmic movement)
-2. Usage Domains
-   - Natural Features: kətor "hill-like", kəmal "pond-like"
-   - Animals: kəpel "bear-like", kəmer "bird-like"
-   - Body Parts: kəbel "mouth-like", kəven "wing-like"
-   - Weather: kəbran "storm-like", kəthral "mist-like"
-   - Water Movement: kəran "stream-like", kəthrim "wave-like"
-   - Plant Growth: kəthir "grass-like", kəbel "vine-like"
-   - Sounds: kəmer "bird-like (sound)", kəsak "wolf-like (howl)"
+See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
 
-### Demonstrative System
+- Past reference markers (branum, branrum)
+- Future reference (mulsum)
+- Completive aspect (tel)
+- Position effects on temporal interpretation
 
-1. Visible/Known
-   - -is [is] "this" (inanimate)
-   - -ʔis [ʔis] "this" (animate)
-   - -en [en] "that" (inanimate)
-   - -tan [tan] "that" (animate)
-2. Hidden but Sensed
-   - -eth [eθ] "this/that" (inanimate)
-   - -thir [θir] "this/that" (animate)
-3. Distant/Out of Sight
-   - -um [um] "that" (inanimate)
-   - -rum [rum] "that" (animate)
+## Tense and Aspect
 
-### Personal Reference
+1. Past Reference
 
-1. Spatial Demonstratives
-   - istel-ʔal "this.place-person" (speaker's location)
-   - ethtel-ʔal "that.place-person" (addressee's location)
-   - umtel-ʔal "far.place-person" (third party location)
+   ```plaintext
+   branum materok-el ward-'er
+   past   handler-ERG guide-VERB
+   "The handler guided (in the past)"
+   ```
 
-### Negation System
+   - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
+     - General past reference and narratives
+   - branrum [bran.rum] "ancestral time" (lit. "dawn-that.DIST.ANIM")
+     - Sacred histories and ancestral stories
+   - Position affects meaning:
 
-1. Basic Negation
-   - mo- [mo]: general negation prefix Examples:
-     - mo-thral "non-sacred, profane"
-     - mo-ter "not flowing, stagnant"
-     - mo-ward "misdirect, lead astray"
+     ```plaintext
+     branum bramisimris kethes
+     past   river-ELL    sea-ABS
+     "In the past, the river flowed to the sea" (temporal frame)
 
-### Possession Marking
+     bramisimris branum kethes
+     river-ELL   past   sea-ABS
+     "The river USED TO flow to the sea" (emphasis)
+     ```
 
-1. Basic Possession
-   - -ok [ok]: possessive suffix Examples:
-   - mater-ok "vessel owner"
-   - thral-ok "ritual keeper"
+2. Future Reference
 
-## Verbal Morphology
+   ```plaintext
+   mulsum materok-el ward-'er
+   future handler-ERG guide-VERB
+   "The handler will guide"
+   ```
 
-### Verbalizer
+   - mulsum [mul.sum] "future" (lit. "night-change-DIST")
+     - Used for both predictions and intentions
 
-- -ʔer [ʔer]: creates active verbs Examples:
-- ter-ʔer "to flow" (flow-ACT)
-- thral-ʔer "to be sacred" (sacred-ACT)
-- thren-ʔer "to watch" (watch-ACT)
+3. Completive Aspect
 
-### Directional System
+   ```plaintext
+   materok-el rismater-es ward tel
+   handler-ERG reed.boat-ABS guide COMPL
+   "The handler has guided the reed boat"
+   ```
 
-1. Basic Directionals
-
-   - -aes: illative "inward, into"
-   - -imris: ellative "outward, from"
-   - -itar: superlative "upward"
-   - -asam: sublative "downward"
-
-2. Example Usage
-
-   - materokel rismateraes "the boatman enters the reed boat"
-   - materokel rismaterimris "the boatman exits the reed boat"
-   - materokel rismateritar "the boatman climbs onto the reed boat"
-   - materokel rismaterasam "the boatman climbs down from the reed boat"
-
-3. Notes:
-   - Directional cases imply motion verbs
-   - Ergative (-el) marks the agent
-   - No additional case marking needed on the goal/source when using
-     directionals
-
-## Derivational Morphology
-
-### Similarity Prefix
-
-- ka- [kə]: prefix meaning "like, similar to"
-- Always surfaces as [kə-] due to regular vowel reduction Examples:
-- ka-tor [kə.tor] "hill-like" (smaller than a mountain)
-- ka-mal [kə.mal] "pond-like" (smaller than a lake)
-- ka-bram [kə.bram] "tide-like" (rhythmic movement)
-
-### Negation System
-
-- mo- [mo]: general negation prefix Examples:
-- mo-thral "non-sacred, profane"
-- mo-ter "not flowing, stagnant"
-- mo-ward "misdirect, lead astray"
-
-### Compound Formation
-
-- Basic Pattern: modifier-head
-- Sound changes:
-  - Liquid deletion: tor-mal → tomal
-  - Nasal deletion: bram-mal → bramal Examples:
-- kur-tin → kurtin "bronze" (copper-tin)
-- bram-mater → brammater "river vessel" (tide-vessel)
-- thral-kel → thrakel "sun" (sacred-sky)
-
-### Body Metaphors
-
-1. Breath as the soul
-2. Liver as source of life
-3. Heart as source of emotion
-4. Bones as structure
-5. Hands as tools
-6. Eyes as reality
-7. Skin as appearance
-
-## Affix Order
-
-### Basic Template
-
-1. Root Structure
-
-   - (PREFIX*) + ROOT + (SUFFIX*)
-   - Maximum of three prefixes and two suffixes
-
-2. Order of Elements
-
-```plaintext
-(NEG)-(SIZE)-(SIM)-ROOT-(AGENT)-(CASE)
-
-```
-
-Examples:
-
-- mo-tor-el (NEG-height-ERG) "not the height (as agent)"
-- li-ka-mal-ok-es (DIM-SIM-pool-AGENT-ABS) "small pool-like keeper (as patient)"
-- tor-ka-mal-el (AUG-SIM-pool-ERG) "great pool-like thing (as agent)"
-
-### Prefix Classes
-
-1. Outer Prefixes (first position)
-   - mo- (NEG): negation
-   - ma- (PL): plural
-2. Middle Prefixes (second position)
-   - tor- (AUG): augmentative
-   - li- (DIM): diminutive
-3. Inner Prefixes (closest to root)
-   - ka- (SIM): similarity
-   - is- (PROX): proximate
-   - eth- (MED): medial
-   - um- (DIST): distal
-
-### Suffix Classes
-
-1. Inner Suffixes (closer to root)
-
-   - -ok (AGENT): agentive
-   - -er (ACT): active participant
-
-2. Outer Suffixes (final position)
-   - -el (ERG): ergative case
-   - -es (ABS): absolutive case
-   - -imris (ELL): ellative case
-   - -aes (ILL): illative case
-
-### Restrictions
-
-1. Co-occurrence
-
-   - Only one prefix from each position class
-   - Maximum of one case suffix
-   - Agent suffix must precede case suffix
-
-2. Phonological Interactions
-   - Prefix ka- always reduces to [kə-]
-   - Liquid deletion applies across morpheme boundaries
-   - Nasal deletion applies across morpheme boundaries
+   - tel [tel] "complete, finished"
+   - Always follows main clause
