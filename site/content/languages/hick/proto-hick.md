@@ -47,7 +47,7 @@ other consonant).
 
    - Initial C required (ʔ if no other consonant)
    - No complex onsets or codas
-   - Final C optional
+   - null coda in the final syllable
 
 2. Examples:
    - \*ʔahi "water"
@@ -57,7 +57,8 @@ other consonant).
 
 ### Stress Pattern
 
-- Fixed initial stress
+- Fixed initial stress on word initial glottal stop
+- Penultimate stress on all other environments
 - No vowel reduction
 - All vowel qualities preserved in all positions
 
@@ -81,16 +82,20 @@ other consonant).
 
 1. Initial *h Development a. Animacy marker *hi-:
 
-   - \*hi- > i- / \_i (before /i/)
-   - \*hi- > ʔ- (elsewhere) Examples:
-   - \*hi-mer > imer "soul"
-   - \*hi-al > ʔal "person"
+   - \*hi- > ʔi- / #_?i (before /ʔi/)
+   - \*hi-C > ʔi-C[+voiced] / #_V (before /C/)
+   - \*hi- > ʔ- (elsewhere)
+   - Examples:
+     - \*hi-mer > imer "soul"
+     - \*hi-al > ʔal "person"
 
    b. Sacred marker \*ha-:
 
-   - \*ha- > θ- (th-) Examples:
-   - \*halu > θal "holy"
-   - \*haru > θar "ritual"
+   - \*ha > θi / \_C
+   - \*ha- > θ- (th-)
+   - Examples:
+     - \*halu > θal "holy"
+     - \*haru > θar "ritual"
 
 2. Dental Fricative Development a. Before non-high vowels - fusion path:
 
@@ -183,8 +188,8 @@ other consonant).
 
    - Marked animate/personified entities
    - Two development paths:
-     - a. *hi- > i- / \_i (before high vowels)
-     - b. *hi- > ʔ- (elsewhere)
+     - a. \*hi- > i- / \_i (before high vowels)
+     - b. \*hi- > ʔ- (elsewhere)
 
 1. Examples of \*hi- > i-:
 
@@ -192,13 +197,13 @@ other consonant).
    - \*hi-mur > imur "evil force"
    - \*hi-skel > iskel "window" (personified sky-opening)
 
-2. Examples of \*hi- > ʔ-:
+1. Examples of \*hi- > ʔ-:
 
    - \*hi-al > ʔal "person"
    - \*hi-ok > ʔok "keeper, guardian"
    - \*hi-er > ʔer "doer, actor"
 
-3. Contrast with non-animate forms:
+1. Contrast with non-animate forms:
    - \*mer > mer "breath" (physical)
    - \*mur > mur "darkness" (abstract)
    - \*skel > skel "opening" (physical)
@@ -225,6 +230,37 @@ other consonant).
 2. Grammatical Categories
    - Retention of Proto-Hick case system
    - Development of new aspectual markers
+
+### Verbalizer Development
+
+1. Proto-Hick Stage:
+   - \*heru "do, make, act" (full lexical verb)
+   - Used in compounds to indicate action/process
+2. Early Proto-Hick:
+
+   - \*heru becomes postverbal particle marking action
+   - \*ter heru "flow-do" > "to flow"
+   - \*ward heru "guide-do" > "to guide"
+
+3. Late Proto-Hick:
+
+   - Unstressed position leads to reduction:
+   - *heru > *her (final vowel loss)
+   - *ter her, *ward her
+
+4. Early Hick:
+
+   - Initial /h/ > /ʔ/ in unstressed position:
+   - \*her > -'er
+   - Examples:
+     - ter-'er "to flow" < \*ter her
+     - ward-'er "to guide" < \*ward her
+     - thral-'er "to be sacred" < \*thral her
+
+5. Semantic Development:
+   - Original concrete meaning "do/make"
+   - Grammaticalized to general verbalizer
+   - Creates both active and stative verbs depending on base
 
 ## Semantic Shifts
 
@@ -291,6 +327,40 @@ other consonant).
    - mo- grammaticalized as general negator
    - Metaphorical extension: darkness → absence → negation
 
+## Proto-Hick Case System
+
+### Original Spatial/Directional Cases
+
+1. Basic Lative Cases:
+
+   - \*-isu (locative) "at, in"
+   - \*-ethe (ablative) "from, away"
+   - \*-uma (allative) "to, towards"
+
+2. Early Compounds with \*ula (stative verb):
+
+   - \*ula-isu "exists-at"
+   - \*ula-ethe "exists-from"
+   - \*ula-uma "exists-towards"
+
+3. Development Path:
+   1. Early Proto-Hick:
+      - Full spatial case system
+      - \*ula as independent verb
+   2. Late Proto-Hick:
+      - \*ula begins grammaticalizing in possessive constructions
+      - Still takes case markings as a verb
+      - Spatial cases begin shift to demonstrative use
+   3. Early Hick:
+      - \*ula > -ul (possession marker)
+      - Original case meanings blur
+      - _-isu,_-ethe, -uma specialize as demonstratives
+      - New spatial markers emerge (-aes, -imris, etc.)
+4. Examples:
+   - \*telu-isu "at place" > telisu "here"
+   - \*telu-ethe "from place" > telethe "there"
+   - \*telu-uma "towards place" > teluma "yonder"
+
 # Sample Proto-Hick Resconstructions
 
 ## Proto-Hick \*muruhilisu
@@ -310,3 +380,105 @@ other consonant).
      - \*muru "night"
      - \*hi-lisu "to see" (animate)
      - \*lisu "eye" (physical organ)
+
+## Proto-Hick Definite Article
+
+Proto-Hick had a definite article \*mela, likely derived from an earlier
+demonstrative or deictic marker. Its usage patterns suggest it was still in the
+process of grammaticalizing from a demonstrative to a true definite article.
+
+1. Basic Forms:
+   - \*mela (animate/proximal)
+   - \*mel (reduced form in compounds)
+2. Usage:
+   - Post-nominal position
+   - Often used with topical or previously mentioned referents
+   - Shows agreement with animacy in early stages
+3. Examples:
+
+   - \*telu mela "the place" (inanimate)
+   - \*kalu mela "the person" (animate)
+   - \*mel-toru "the height" (in compounds)
+
+4. Development in Early Hick:
+   - Splits into two distinct morphemes: a. Definite article: mel- > -el
+     (cliticized to noun) b. Ergative case: mel- > -el (homophonous but
+     distinct)
+   - Position shifts from post-nominal to pre-nominal
+   - Animacy distinction lost
+
+## Proto-Hick \*meru
+
+1. Basic Forms:
+
+   - \*meru "to nurture, care for" (original meaning)
+   - \*ha-meru "sacred nurture" (sacred compound)
+   - \*meru "bird" (metaphorical extension)
+
+2. Development Path:
+
+   1. Early Proto-Hick:
+      - \*meru primary meaning "nurture/care"
+      - Used in sacred compounds with \*ha-
+      - Cultural association with birds as nurturers
+   2. Late Proto-Hick:
+      - *ha-meru > *θameru (sacred prefix spirantization)
+      - *θameru > *θəmeru (unstressed vowel reduction)
+      - \*meru specializes in bird terminology
+   3. Early Hick:
+      - \*θəmeru > thimer "spiritual nurturing, penitence"
+      - mer "bird" and "parent" (dual meaning preserved)
+      - Rich owl terminology develops
+
+3. Semantic Development:
+
+   - Original: "nurture, care for"
+   - Sacred: "spiritual nurturing" (\*ha-meru > thimer)
+   - Extended: "bird" (especially nurturing birds)
+   - Further extended: "parent" (from bird metaphor)
+
+4. Examples:
+
+   - \*muru-meru "night-bird" > murmer "owl"
+   - \*toru-muru-meru "great-night-bird" > tomur "great owl"
+   - \*mer-lisu "parent-child" > merlis "offspring"
+
+5. Cultural Context:
+   - Birds, especially owls, seen as exemplars of nurturing
+   - Sacred nurturing preserved in ritual terminology
+   - Parental nurturing preserved in kinship terms
+
+## Proto-Hick Number System
+
+1. Basic Numbers:
+
+   - \*su "one"
+   - \*tiru "two"
+   - \*thalu "three"
+   - \*fenu "four"
+   - \*pilu "five"
+   - \*seku "six"
+   - \*pranu "seven"
+   - \*kresu "eight"
+   - \*kethu "hundred"
+   - \*thranu "thousand"
+
+2. Counting Numbers (with \*-inu suffix):
+   - \*su-inu "one (counting)"
+   - \*tir-inu "two (counting)"
+   - \*thal-inu "three (counting)"
+   - \*fen-inu "four (counting)"
+   - \*pil-inu "five (counting)"
+   - \*sek-inu "six (counting)"
+   - \*pran-inu "seven (counting)"
+   - \*kres-inu "eight (counting)"
+   - \*thran-inu "thousand (counting)"
+
+The counting suffix \*-inu was used in enumeration contexts. By Early Hick, this
+distinction was lost, with some numbers preserving the counting form (sin, fen,
+pran, thran) and others keeping the basic form (tir, thal, pil, sek).
+
+Compound numbers developed in Early Hick:
+
+- "nine": \*su-inu-kresu > sinkres "one-eight"
+- "ten": \*tiru-kresu > tirkres "two-eight"
