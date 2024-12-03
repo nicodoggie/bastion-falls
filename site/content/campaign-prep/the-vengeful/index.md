@@ -196,7 +196,8 @@ long as they are radicalized Hicklanders.
       - Before they are able to leave, Lilya's commanding officer tells her that
         the terrorists from Hickland for Hicks were rumored to be working with
         operatives from La Camaraderie, perhaps to free the captive members of
-        the ship _Principium_ before they can be properly processed and executed.
+        the ship _Principium_ before they can be properly processed and
+        executed.
    2. Tidemark
       - Philippa wakes, her body aches as if sore from a sparring match
       - one of the sisters-in-training will remind her of today's departure to
@@ -215,7 +216,23 @@ long as they are radicalized Hicklanders.
    2. From Tidemark
       - The party will be ambushed by the Hickland for Hicks faction
 
-3. Lord Malthren
+3. The Narrows
+   1. People searching for Henry. Henry was heard by some people when we was
+      talking to some friends about his plans to visit Lord Malthren, including
+      some of what he found during his investigation into the powers of the
+      Malthren of the Magarisok. This is what he thinks will convince the Lord
+      Malthren to name him as his heir. Another cadet nobleman from House
+      Wardcross, hired these malcontents. These mercenaries don't really care
+      about Wardcross though, but they do want the opportunity to take over the
+      Thaneship for various reasons. 
+   2. Aigral wishes to basically wants to take the institution of the Thane of
+      the Magarisok as a means to get to the King. The current king, though
+      beholden to the Church through centuries of tradition, seems to be
+      actively attempting to revive Hickic culture and identity. At first in an
+      attempt to appease the burgeoning Hickland for Hicks faction, but more
+      recently due to actual interest in Hicking mysticism.
+   3. Philippa finds out that her brother Philip had joined Hickland for Hicks.
+4. Lord Malthren
    1. Players will find out that Lord Malthren had regained his ancestors'
       sight. The power of the Malthrenok of the Magaris to foresee the future in
       the swirls of Vortex Cove.
@@ -224,8 +241,8 @@ long as they are radicalized Hicklanders.
       the Smugglers Guild has tight control over the area.
       1. Lord Malthren may share the secret entrance to the Vortex Labyrinth,
          but will not have enough time to share the path.
-4. The Narrow Underground
-5. Surrey's Ear
+5. The Narrow Underground
+6. Surrey's Ear
 
 # Big Bad
 

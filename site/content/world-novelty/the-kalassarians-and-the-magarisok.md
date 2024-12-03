@@ -20,14 +20,14 @@ Kalassarians, however, had specific goals in mind when they sailed to this land.
 Eventually, the Kalassarians summoned their friends, and other monsters to take
 the island for themselves. The Magarisok, however, had the natural magicks of
 the Keelswood to help them defend their home. But Thirbao of the Malthren had
-forseen the great death that the Kalassarians would bring. He had implored the
+foreseen the great death that the Kalassarians would bring. He had implored the
 spirits of the wood to instead forestall his own people from fighting. He
 implored the Magarisok to accept the Kalassarians as their lords. He shared with
 them all that he saw in his night-visions.
 
 The Kalassarians rewarded Thirbao for his intercession, and he was made the
 Thane of the Magarisok. The Magarisok, in turn, swore fealty to the Kalassarians
-and became their most faithful and loyal allies. 
+and became their most faithful and loyal allies.
 
 The Kalassarians did not meddle with the internal affairs of the Magarisok, but
 they have expanded their own settlement on the northeastern side of what is now
