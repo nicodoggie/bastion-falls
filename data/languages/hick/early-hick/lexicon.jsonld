@@ -1544,10 +1544,7 @@
         "writtenRep": "thral",
         "phoneticRep": "θral"
       },
-      "lexicalCategory": [
-        "lexinfo:Adjective",
-        "lexinfo:Noun"
-      ],
+      "lexicalCategory": "lexinfo:Noun",
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *thralu",
@@ -1597,14 +1594,22 @@
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "watch, observe ritual",
+            "@value": "observation, watching",
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Basic Terms"
-          ],
-          "lexinfo:verbType": "lexinfo:MainVerb"
+            "Sacred Terms",
+            "Perception"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "thren-'er",
+          "phoneticRep": "θren.ʔer",
+          "decomposition": "thren + -'er (verbalizer)",
+          "grammaticalMeaning": "to watch/observe (verbal form)"
         }
       ]
     },
@@ -1984,6 +1989,325 @@
             "Bodily Functions",
             "Basic Actions"
           ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:maal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ma'al",
+        "phoneticRep": "ma.ʔal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ma"
+        },
+        {
+          "@id": "eh:al"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ma-'al",
+        "etymon:meaning": "COLL-person",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "community, tribe",
+            "@language": "en"
+          },
+          "usage": "Collective term implying social/political unity",
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Political Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:ward",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ward",
+        "phoneticRep": "ward"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *wardu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "direction, guidance",
+            "@language": "en"
+          },
+          "usage": "Base nominal form",
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Sacred & Ritual"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "ward-'er",
+          "phoneticRep": "war.dʔer",
+          "decomposition": "ward + -'er (verbalizer)",
+          "grammaticalMeaning": "to guide/direct (verbal form)"
+        }
+      ]
+    },
+    {
+      "@id": "eh:thimer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thimer",
+        "phoneticRep": "θi.mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ha-meru",
+        "etymon:intermediateForm": [
+          "*θameru",
+          "*θəmeru"
+        ],
+        "etymon:soundChange": [
+          "sacred prefix spirantization",
+          "unstressed vowel reduction",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "spiritual nurturing, penitence",
+            "@language": "en"
+          },
+          "usage": "Used in ritual contexts",
+          "lexinfo:semanticField": [
+            "Sacred & Ritual",
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:mer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mer",
+        "phoneticRep": "mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *meru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bird",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animals",
+            "Bird Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "parent",
+            "@language": "en"
+          },
+          "usage": "Extended meaning through cultural metaphor",
+          "lexinfo:semanticField": [
+            "Kinship Terms"
+          ]
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:thimer",
+          "type": "lexinfo:etymologicallyRelated"
+        },
+        {
+          "@id": "eh:murmer",
+          "type": "lexinfo:semanticallyRelated"
+        }
+      ]
+    },
+    {
+      "@id": "eh:sin",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sin",
+        "phoneticRep": "sin"
+      },
+      "lexicalCategory": "lexinfo:Numeral",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *su-inu",
+        "etymon:note": "From counting form with *-inu suffix",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "one",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number System"
+        }
+      ]
+    },
+    {
+      "@id": "eh:tir",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tir",
+        "phoneticRep": "tir"
+      },
+      "lexicalCategory": "lexinfo:Numeral",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *tiru",
+        "etymon:note": "From basic form",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "two",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number System"
+        }
+      ]
+    },
+    {
+      "@id": "eh:lis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lis",
+        "phoneticRep": "lis"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *li-su",
+        "etymon:note": "From diminutive prefix *li- + *su 'one', lit. 'little one'",
+        "etymon:soundChange": "final vowel loss, compound fusion",
+        "etymon:morphology": {
+          "prefix": "li- (DIM)",
+          "root": "*su 'one'"
+        }
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "child",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms",
+          "usage": "See also: Diminutive Formation, Basic Numbers"
+        }
+      ]
+    },
+    {
+      "@id": "eh:ter",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ter",
+        "phoneticRep": "ter"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *teru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "flow, fluid motion",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features",
+            "Motion"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "ter-'er",
+          "phoneticRep": "ter.ʔer",
+          "decomposition": "ter + -'er (verbalizer)",
+          "grammaticalMeaning": "to flow (verbal form)"
+        }
+      ]
+    },
+    {
+      "@id": "eh:mar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mar",
+        "phoneticRep": "mar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *maru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "blood, life-fluid; red",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Colors"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "mar-'er",
+          "phoneticRep": "mar.ʔer",
+          "decomposition": "mar + -'er (verbalizer)",
+          "grammaticalMeaning": "to be red (stative verbal form)"
         }
       ]
     }
