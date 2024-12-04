@@ -170,6 +170,10 @@ Marquess, but also commands the Eastern Fleet as Lord High Admiral of the Realm.
   - Administrative center
   - Strategic harbor facilities
 
+### Mt. Torters
+
+- Capital: Tortersburgh
+
 ## Central Provinces (Mixed influence)
 
 ### The Ranterg Heights

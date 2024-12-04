@@ -71,10 +71,20 @@ other consonant).
      - *ahi → *ʔahi "water"
      - *imru → *ʔimru "group, party"
 
-2. Final Vowels:
-   - Preserved in all positions
-   - Most commonly _-u, _-a
-   - Rare \*-i in some forms
+2. Final Vowel Repair:
+
+   - If final vowel was lost, or borrowed word had no final vowel, repair
+     strategy follows vowel harmony with the last vowel:
+
+     - C# > CV[i]# / \_V[e,i]C# (After /i/ or /e/: repair with -i)
+     - C# > CV[u]# / \_V[u,o,a]C# (After /u/, /o/, or /a/: repair with -u)
+
+   - Examples:
+     - *sip → *sipi
+     - *pen → *peni
+     - *kat → *katu
+     - *mok → *moku
+     - *tup → *tupu
 
 # Reconstructed Features
 
@@ -82,8 +92,8 @@ other consonant).
 
 1. Initial *h Development a. Animacy marker *hi-:
 
-   - \*hi- > ʔi- / #_?i (before /ʔi/)
-   - \*hi-C > ʔi-C[+voiced] / #_V (before /C/)
+   - \*hi- > ʔi- / #\_?i (before /ʔi/)
+   - \*hi-C > ʔi-C[+voiced] / #\_V (before /C/)
    - \*hi- > ʔ- (elsewhere)
    - Examples:
      - \*hi-mer > imer "soul"

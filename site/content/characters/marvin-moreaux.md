@@ -1,14 +1,7 @@
 +++
 title = "Marvin Moreaux"
+template = "redirect.html"
 [extra]
-age = ""
-date_of_birth = ""
-date_of_death = ""
-ddb = ""
-married_on = ""
-married_to = ""
-mortality_status = "Dead|Alive|Unknown|Undead"
-pronouns = ""
-sex = ""
+redirect = "/characters/andrei-delarde"
 +++
 
