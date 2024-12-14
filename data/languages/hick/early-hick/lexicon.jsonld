@@ -2310,6 +2310,639 @@
           "grammaticalMeaning": "to be red (stative verbal form)"
         }
       ]
+    },
+    {
+      "@id": "eh:haran",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "haran",
+        "phoneticRep": "ha.ran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *haranu",
+        "etymon:soundChange": [
+          "final vowel loss",
+          "stress shift to initial syllable",
+          "unstressed vowel reduction"
+        ],
+        "etymon:reference": [
+          "@/languages/hick/proto-hick.md#phonological-processes",
+          "@/languages/hick/early-hick/_index.md#vowel-allophony"
+        ]
+      }
+    },
+    {
+      "@id": "eh:tornes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tornes",
+        "phoneticRep": "tor.nes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "tor-nes",
+        "etymon:soundChange": [
+          "compound fusion",
+          "stress shift to initial syllable",
+          "resistance to vowel reduction (maritime term)"
+        ],
+        "etymon:reference": [
+          "@/languages/hick/early-hick/_index.md#stress-dependent-reduction",
+          "@/languages/hick/early-hick/_index.md#exceptions"
+        ]
+      }
+    },
+    {
+      "@id": "eh:stor",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "stor",
+        "phoneticRep": "stor"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *storu",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Base form preserved in sacred terms"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "growth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "addition, increment",
+            "@language": "en"
+          },
+          "usage": "Mathematical sense developed from basic meaning 'growth'",
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "stor-'er",
+          "phoneticRep": "stor.ʔer",
+          "decomposition": "stor + -'er (verbalizer)",
+          "grammaticalMeaning": "to grow, to increase"
+        }
+      ]
+    },
+    {
+      "@id": "eh:istor",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "istor",
+        "phoneticRep": "is.tor"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-storu",
+        "etymon:soundChange": "initial sibilant loss, final vowel loss",
+        "etymon:note": "With animate prefix hi-"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "growth (living)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Sacred Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:ru",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ru",
+        "phoneticRep": "ru"
+      },
+      "lexicalCategory": "lexinfo:Noun"
+    },
+    {
+      "@id": "eh:kost",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kost",
+        "phoneticRep": "kost"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kostu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "foot",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:tag",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tag",
+        "phoneticRep": "tag"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *tagu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hand",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:gnar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gnar",
+        "phoneticRep": "gnar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *gnaru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "correct",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "gnar-'er",
+          "phoneticRep": "gnar.ʔer",
+          "decomposition": "gnar + -'er (verbalizer)",
+          "grammaticalMeaning": "to be correct"
+        }
+      ]
+    },
+    {
+      "@id": "eh:tak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tak",
+        "phoneticRep": "tak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *taku",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Onomatopoeic origin"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "strike, impact",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "right (direction)",
+            "@language": "en"
+          },
+          "usage": "Directional sense from cultural association with dominant striking hand",
+          "lexinfo:semanticField": "Directional Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kul",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kul",
+        "phoneticRep": "kul"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kulu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "magic, sorcery",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Magical Terms",
+            "Sacred Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "kul-'er",
+          "phoneticRep": "kul.ʔer",
+          "decomposition": "kul + -'er (verbalizer)",
+          "grammaticalMeaning": "to perform magic"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "kulok",
+          "phoneticRep": "ku.lok",
+          "decomposition": "kul + -ok (agentive)",
+          "grammaticalMeaning": "sorcerer"
+        }
+      ]
+    },
+    {
+      "@id": "eh:malthrenok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "malthrenok",
+        "phoneticRep": "mal.θre.nok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mal-thren-ok",
+        "etymon:components": [
+          "mal (pool)",
+          "thren (watch)",
+          "-ok (AGENT)"
+        ],
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "pool-watcher, diviner",
+            "@language": "en"
+          },
+          "usage": "One who practices divination through watching pools/water",
+          "lexinfo:semanticField": [
+            "Magical Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imurkulok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurkulok",
+        "phoneticRep": "i.mur.ku.lok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-kul-ok",
+        "etymon:components": [
+          "imur (evil)",
+          "kul (magic)",
+          "-ok (AGENT)"
+        ],
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "necromancer",
+            "@language": "en"
+          },
+          "usage": "Literally 'evil magic worker'",
+          "lexinfo:semanticField": [
+            "Magical Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'imer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imer",
+        "phoneticRep": "ʔi.mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-mer",
+        "etymon:components": [
+          "hi (animacy marker)"
+        ],
+        "etymon:soundChange": "animacy prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "life",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:temer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "temer",
+        "phoneticRep": "te.mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *telu-himeru",
+        "etymon:components": [
+          "telu (end)",
+          "himeru (life)"
+        ],
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Literally 'end of life'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "death",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:etil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "etil",
+        "phoneticRep": "e.til"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *etilu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "thing",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'etil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'etil",
+        "phoneticRep": "ʔe.til"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-etilu",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "etilu (thing)"
+        ],
+        "etymon:soundChange": "animacy prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "living thing",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:thil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thil",
+        "phoneticRep": "θil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *halu",
+        "etymon:soundChange": "initial fricative change",
+        "etymon:note": "Abstract sense developed from basic meaning"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "virtue, moral",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Abstract Concepts",
+            "Sacred Terms",
+            "Moral Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'il",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'il",
+        "phoneticRep": "ʔil"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-halu",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "halu (good)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative change",
+          "vowel coalescence"
+        ],
+        "etymon:note": "Shows archaic animacy marking through glottal prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "good, kind",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:vinuiter",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinuiter",
+        "phoneticRep": "vi.nu.i.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:components": [
+          "vinu (pregnancy)",
+          "itar (ELL)"
+        ],
+        "etymon:note": "Lexicalized from ellative case",
+        "etymon:soundChange": "case lexicalization"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to give birth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Verbal Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:mes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mes",
+        "phoneticRep": "mes"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *mesu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "heart",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Sacred Terms",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:sibris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sibris",
+        "phoneticRep": "si.bris"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hibrisu",
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Metaphorical extension from 'fire' to 'passion/love'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "love",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Abstract Concepts",
+            "Emotional Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
     }
   ]
 }
