@@ -29,7 +29,27 @@ regional dialects and the historical development of Hick.
 
 # Historical Development
 
-## Early Hick (prehistory to ~300 PF)
+## Pre-Hick Period (before ~600 PF)
+
+While the exact developments remain unclear, comparison of Early Hick forms with
+remnant vocabulary suggests several possible sound changes:
+
+1. Final vowels begin devoicing in unstressed syllables
+   - \*thralu > [ˈθra.lu̥]
+   - \*wardu > [ˈwar.du̥]
+   - \*taku > [ˈta.ku̥]
+
+2. Devoiced vowels reduce to schwa
+   - [ˈθra.lu̥] > [ˈθra.lə]
+   - [ˈwar.du̥] > [ˈwar.də]
+   - [ˈta.ku̥] > [ˈta.kə]
+
+## Early Hick (~600 PF onward)
+
+1. Final schwa deletion
+   - [ˈθra.lə] > [ˈθral]
+   - [ˈwar.də] > [ˈward]
+   - [ˈta.kə] > [ˈtak]
 
 - Purely oral tradition
 - Core maritime and nature vocabulary established
@@ -250,7 +270,7 @@ The vowel /a/ surfaces as [ə]:
    - /malam/ → [məlam] "pooled"
    - /ranar/ → [rənər] "flowing"
 
-#### Stress-Dependent Reduction
+### Stress-Dependent Reduction
 
 1. In Compounds:
 
@@ -314,7 +334,7 @@ See: [Historical Development](#historical-development) for chronological stages
 
 ### Development of the Ergative Case Marking -el
 
-The Early Hick ergative marker -el derives from Proto-Hick *mela through
+The Early Hick ergative marker -el derives from Proto-Hick \*mela through
 parallel but distinct development from the definite article:
 
 1. Sound Changes:
@@ -405,7 +425,7 @@ details on:
      - tomal [to.mal] "great pool, lake" (tor-mal → tomal, liquid deletion)
 3. Speed Augmentative (tor- -sim)
    - Circumfix combining the argumentative tor- with the translative -sim to
-     mean a swift change in speed
+     mean a swift change in speed of the action
 
 ### Number Marking
 
@@ -451,9 +471,9 @@ details on:
 ### Personal Reference
 
 1. Spatial Demonstratives
-   - istel-ʔal "this.place-person" (speaker's location)
-   - ethtel-ʔal "that.place-person" (addressee's location)
-   - umtel-ʔal "far.place-person" (third party location)
+   - istal "this.place-person" (speaker's location)
+   - etal "that.place-person" (addressee's location)
+   - utal "far.place-person" (third party location)
 
 ### Negation System
 
@@ -780,7 +800,7 @@ Examples:
 
      ```plaintext
      branum materok-el ward-ʔer  # Frame-setting
-     past    handler-ERG guide-ACT
+     past    handler-ERG guide-VERB
      "In the past, the handler guided"
 
      materok-el branum ward-ʔer  # Temporal contrast
