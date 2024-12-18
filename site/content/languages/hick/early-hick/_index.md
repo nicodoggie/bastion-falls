@@ -866,3 +866,53 @@ See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
 
    - tel [tel] "complete, finished"
    - Always follows main clause
+
+## Interrogatives
+
+1. Basic Forms
+
+   - 'aka [ʔa.ka] "what" (basic question root)
+   - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
+   - 'atal [ʔa.tal] < 'aka-tal-is "where" (what-place-PROX.INAN)
+   - 'atel [ʔa.tel] < 'aka-tel-is "when" (what-time-PROX.INAN)
+   - 'aker [ʔa.ker] < 'aka-'er-is "how" (what-VERB-PROX.INAN)
+
+2. Medial Forms (Hidden but Sensed)
+
+   - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
+   - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
+   - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
+   - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
+
+3. Distal Forms (Out of Sight/Unknown)
+
+   - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
+   - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
+   - 'etelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
+   - 'akerum [ʔa.ke.rum] < 'aka-'er-um "how" (unknown manner)
+
+4. Usage Examples
+
+   ```plaintext
+   'alis-el materok-es ward-'er?
+   who.PROX-ERG boat-ABS guide-VERB
+   "Who (that we can see) guides the boat?"
+
+   'aleth-el thral-es his-'er?
+   who.MED-ERG ritual-ABS watch-VERB
+   "Who (that we can hear/sense) watches the ritual?"
+
+   'atum-aes materok-el rismater-es ward-'er?
+   where.DIST-ILL handler-ERG reed.boat-ABS guide-VERB
+   "Where (unknown) does the handler guide the reed boat to?"
+   ```
+
+5. Semantic Notes
+
+   - Proximal forms: Used for visible/known referents and confirmation
+   - Medial forms: Used for sensed but not seen referents (sounds, smells, etc.)
+   - Distal forms: Default information-seeking questions about unknowns
+   - All forms take regular case marking based on syntactic role
+   - Follow standard compound phonology (See: [Compound Phonology](#compound-phonology))
+
+See: [Compound Phonology](#compound-phonology) for sound change patterns

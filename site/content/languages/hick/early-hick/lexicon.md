@@ -107,6 +107,38 @@ For stress-related vowel changes, see:
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication
 
+### Interrogatives
+
+#### Basic Forms
+
+- 'aka [ʔa.ka] "what" < Proto-Hick \*haka → 'aka
+  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  Note: Basic question root, shows archaic animacy marking
+
+#### Proximal Forms
+
+- 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM) Note: Used for
+  visible/known referents and confirmation
+- 'atal [ʔa.tal] < 'aka-tal-is "where" (what-place-PROX.INAN)
+- 'atel [ʔa.tel] < 'aka-tel-is "when" (what-time-PROX.INAN)
+- 'aker [ʔa.ker] < 'aka-'er-is "how" (what-VERB-PROX.INAN)
+
+#### Medial Forms
+
+- 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person) Note: Used for
+  heard/sensed but not seen referents
+- 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
+- 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
+- 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
+
+#### Distal Forms
+
+- 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person) Note: Default form for
+  seeking new information
+- 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
+- 'etelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
+- 'akerum [ʔa.ke.rum] < 'aka-'er-um "how" (unknown manner)
+
 ### Abstract Concepts
 
 #### Moral & Ethical Terms
@@ -691,7 +723,8 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  See: [Directional System](#directional-system)
+  See:
+  [Directional System](@/languages/hick/early-hick/_index.md#directional-system)
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -705,13 +738,23 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 #### Derived Terms
 
-- vinuitar [vi.nu.i.tar] "to give birth" < vinu-itar "pregnancy-ELL" → vinuitar
+- vinuiter [vi.nu.i.ter] "to give birth" < vinu-iter "pregnancy-ELL" → vinuiter
   ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Lexicalized from ellative case of "pregnancy" See:
   [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
 
+- murvinuiter [mur.vi.nu.i.ter] "abortion" < murvinu-imris "stillbirth-ELL" →
+  murvinuiter
+  ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
+  Uses ellative case to indicate "from/out of stillbirth" See:
+  [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
+
 #### Compound Terms
 
+- murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Uses mur- "darkness" metaphorically for death See:
+  [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 - mulisaes [mu.li.saes] "dream-state" < mulis-aes → mulisaes
   ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
 - mulisimris [mu.li.sim.ris] "awakening" < mulis-imris → mulisimris
