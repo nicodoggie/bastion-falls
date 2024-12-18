@@ -32,6 +32,83 @@ For stress-related vowel changes, see:
 3. Compound derivations are marked with <
 4. Example sentences show full morphological analysis
 
+## Action Terms
+
+### Physical Actions
+
+- tak [tak] "strike, impact" < Proto-Hick \*taku → tak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Onomatopoeic origin
+
+## Action Terms
+
+### Physical Actions
+
+- tak [tak] "strike, impact" < Proto-Hick \*taku → tak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Onomatopoeic origin
+
+### Perceptual Actions
+
+- thren [θren] "watch, observe" < Proto-Hick \*threnu → thren
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic perception verb
+
+### Motion Actions
+
+- barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb barak'er "to walk" with -'er suffix
+- mabarak [ma.ba.rak] "march, collective walking" < ma-barak → mabarak
+  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From plural marker + "walk", forms verb mabarak'er "to march". See also
+  barak "walk"
+
+### Bodily/Life Actions
+
+- vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Sacred term for childbirth
+
+- murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
+  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Literally "from night-birth"
+
+### Consumption Actions
+
+- gras [gras] "grass" < Proto-Hick \*grasu → gras
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb gras'er "to graze", typically of animals feeding
+
+- ter [ter] "flow, fluid motion" < Proto-Hick \*teru → ter
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb ter'er "to drink". Flow meanings use directional affixes
+  instead
+
+### Position/Stance Actions
+
+- 'irek [ʔi.rek] "stand; firmness" < Proto-Hick \*hi-reku → 'irek
+  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Shows archaic animacy prefix, forms verb 'irek'er "to stand"
+
+### Magical/Sacred Actions
+
+- kul'er [kul.ʔer] "to perform magic" < kul + -'er → kul'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Used in ritual contexts
+
+### Emotional/Mental Actions
+
+- sibris [si.bris] "love" < Proto-Hick \*hibrisu → sibris
+  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Metaphorical extension from 'fire' to emotional action
+
+### Construction/Dwelling Actions
+
+- vinud [vi.nud] "building, dwelling" < Proto-Hick \*venu-wudu → vinud
+  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From 'burden' + 'wood', forms verb vinud'er "to build, to dwell"
+
 ## Core Semantic Fields
 
 ### Basic Terms
@@ -84,10 +161,15 @@ For stress-related vowel changes, see:
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: From "burden-seed"; shows vowel harmony in compound reduction See:
   [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+- pak [pak] "poke" < Proto-Hick \*paku → pak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  See: [Tool Terms](#tool-terms)
 
 #### Derived Terms
 
-- venitar [ve.ni.tar] "to carry" < ven-itar "yoke-SUPER" → venitar
+- ven'er [ven.ʔer] "to carry" < ven-'er "yoke-VERB" → ven'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+- venitar [ve.ni.tar] "to lift" < ven-itar "yoke-SUPER" → venitar
   ([superessive case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Lexicalized from superessive case of "yoke" See: [Verbal Terms](#verbal-terms)
 
@@ -128,7 +210,7 @@ For stress-related vowel changes, see:
 - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person) Note: Used for
   heard/sensed but not seen referents
 - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
-- 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
+- 'ateleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
 - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
 
 #### Distal Forms
@@ -136,7 +218,7 @@ For stress-related vowel changes, see:
 - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person) Note: Default form for
   seeking new information
 - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
-- 'etelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
+- 'atelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
 - 'akerum [ʔa.ke.rum] < 'aka-'er-um "how" (unknown manner)
 
 ### Abstract Concepts
@@ -163,6 +245,11 @@ For stress-related vowel changes, see:
   ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
   Note: Metaphorical extension from "fire" to "passion/love" See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+- dakisa [da.ki.sa] "infatuation" < Proto-Hick \*daluku-isa-hihasa → dakisa
+  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Literally "snake in the gut"; metaphorical extension for intense desire
+  See: [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
 ### Sensory Terms
 
@@ -175,8 +262,9 @@ For stress-related vowel changes, see:
   ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
   [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
-- hilis [hi.lis] "to see (animate)" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+- 'ilis [ʔi.lis] "knowledge" < Proto-Hick \*hi-lisu → 'ilis
+  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From root meaning 'sight', forms verb 'ilis'er "to know"
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -216,6 +304,56 @@ For stress-related vowel changes, see:
 - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
   ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
 
+### Taste Terms
+
+#### Basic Tastes
+
+- mel [mel] "sweet" < Proto-Hick \*melu → mel
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Associated with ripeness and edibility
+- kras [kras] "bitter" < Proto-Hick \*krasu → kras
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Used for both taste and metaphorical bitterness
+- kaketh [ka.keθ] "salty" < ka-keth "sea-like" → kaketh
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Literally "sea-like", shows maritime influence on taste terminology See:
+  [Maritime Terms](#maritime-terms), [Water Features](#water-features)
+- tir [tir] "sour; wince" < Proto-Hick \*tilmuru → tilru → tiru → tir
+  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Shows semantic connection between taste sensation and facial response
+
+#### Derived Terms
+
+- melter [mel.ter] "honey" < mel-ter "sweet-flow" → melter
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Literally "sweet flow", primary sweetener in Early Hick culture
+- krasim [kra.sim] "poison" < kras-im "bitter-evil" → krasim
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows connection between bitter taste and danger
+- kakethmal [ka.keθ.mal] "brine pool" < kaketh-mal "salty-pool" → kakethmal
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  See: [Water Features](#water-features)
+
+#### Intensity Terms
+
+- tormel [tor.mel] "very sweet" < tor-mel "great-sweet" → tormel
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- limel [li.mel] "slightly sweet" < li-mel "small-sweet" → limel
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+#### Usage Examples
+
+- mel-'er [mel.ʔer] "to sweeten" < mel-'er "sweet-VERB" → mel'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+- kras-'er [kras.ʔer] "to embitter" < kras-'er "bitter-VERB" → kras'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+- tir'er [tir.ʔer] "to wince" < tir-'er "sour/wince-VERB" → tir'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  Note: Shows connection between taste sensation and involuntary response See:
+  [Taste Terms](#taste-terms), [Bodily Functions](#bodily-functions--states)
+
 ### Food & Consumption Terms
 
 #### Basic Terms
@@ -224,8 +362,22 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   See: [Directional System](#directional-system)
 
+#### Drink Terms
+
+- tirai [ti.rai] ", fermented drink" < tir-ai "sour-water" → tirai
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows cultural knowledge of fermentation process See:
+  [Taste Terms](#taste-terms)
+
+- melterai [mel.te.rai] "mead" < melter-ai "honey-water" → melterai
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Fermented honey drink See: [Food Terms](#food--consumption-terms)
+
 #### Derived Compounds
 
+- terok [te.rok] "drinker; drunkard" < ter-ok "flow-AGENT" → terok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
+  Note: One who drinks (professionally or habitually)
 - duwesok [du.we.sok] "eater, consumer" < duwes-ok "eat-AGENT" → duwesok
   ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
 - torduwes [tor.du.wes] "feast, great eating" < tor-duwes "great-eat" → torduwes
@@ -323,6 +475,9 @@ For stress-related vowel changes, see:
   Note: Preserved compound with ablative lu- marking
 - wen [wen] "flower" < Proto-Hick \*venu -> wenu → wen
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+- asa [a.sa] "vine" < Proto-Hick \*hasa → asa
+  ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+  See: [Flora & Agriculture](#flora--agriculture)
 
 #### Cultivated Plants
 
@@ -369,7 +524,7 @@ For stress-related vowel changes, see:
 #### Basic Terms
 
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
@@ -435,7 +590,7 @@ For stress-related vowel changes, see:
 
 #### Maritime Terms
 
-- mater [ma.ter] "vessel" < mal-ter "pool-flow" → mater
+- mater [ma.ter] "water vessel,boat" < mal-ter "pool-flow" → mater
   ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT" →
   materok
@@ -493,6 +648,10 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - ren [ren] "deer" < Proto-Hick \*renu → ren
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+- toren [to.ren] "horse" < tor-ren "great-deer" → toren
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows semantic extension through size metaphor See:
+  [Animal Terms](#animal-terms)
 - belnes [bel.nes] "mouthed fish" < bel-nes "mouth-fish" → belnes
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - kranren [kran.ren] "horned deer" < kran-ren "horn-deer" → kranren
@@ -527,6 +686,13 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - belnes [bel.nes] "mouthed fish" < bel-nes "mouth-fish" → belnes
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- kor [kor] "cow" < Old Iutlandish kor Note: Early borrowing showing cultural
+  contact with Iutlandish herders See: [Animal Terms](#animal-terms)
+- sumerok [su.me.rok] "goat" < gras-'imer-ok "grass-life-AGENT" → sumerok
+  ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Shows compound reduction and metaphorical extension through agentive
+  marking See: [Animal Terms](#animal-terms),
+  [Consumption Terms](#consumption-actions)
 
 ### Bird Terms (Nocturnal)
 
@@ -625,6 +791,11 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: Shows reduction of reduplicated base through compound simplification
   See: [Basic Terms](#basic-terms), [Sacred Terms](#sacred--ritual)
+- 'atelbran [ʔa.tel.bran] "before (when-dawn)" < 'aka-tel-bran → 'akatelbran →
+  'atelbran
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Shows temporal metaphor of dawn/past, derived from interrogative See:
+  [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
 
 #### Celestial Bodies
 
@@ -678,6 +849,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings See:
   [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
+- dak [dak] "stomach, gut" < Proto-Hick \*daluku → dak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  See: [Food & Consumption Terms](#food--consumption-terms)
 
 #### Face Terms
 
@@ -748,6 +923,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Uses ellative case to indicate "from/out of stillbirth" See:
   [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
+- pakupak [ˈpa.ku.pək] "tickle" < Proto-Hick \*pakupaku → pakupak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
+  See: [Basic Terms](#basic-terms)
 
 #### Compound Terms
 
@@ -820,6 +999,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - thurthral [θur.θral] "autumn" < thur-thral → thurthral (lit. "dusk-day")
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   See: [Time Terms](#time--celestial)
+- thranal [θra.nal] "seasons" < thran-thral "thousand-sacred" → thranal
+  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  Note: Shows cyclical time through metaphor of countless sacred days See:
+  [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
 
 ### Person Terms
 
@@ -989,6 +1172,17 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - mo-thral-es ward-ter NEG-sacred-ABS direct-to "Direct (it) to the unsacred
   one"
 
+## Pastoral Terms
+
+## Pastoral Terms
+
+- gras [gras] "grass" < Proto-Hick \*grasu → gras
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic pastoral term. Forms two verbs:
+  - gras'er "to graze" (animal eating grass)
+  - grasaes "to herd, take to graze" (from illative: 'into grazing') See also
+    [Action Terms](#action-terms)
+
 ## Derivational Patterns
 
 ### Compound Formation
@@ -1094,5 +1288,3 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   (lit. "person-ERG good-upon birth-ABS") Note: Formal congratulatory expression
   using superessive case See:
   [Case System](@/languages/hick/early-hick/_index.md#case-system)
-
-Example:

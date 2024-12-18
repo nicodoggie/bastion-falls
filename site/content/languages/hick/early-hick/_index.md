@@ -35,6 +35,7 @@ While the exact developments remain unclear, comparison of Early Hick forms with
 remnant vocabulary suggests several possible sound changes:
 
 1. Final vowels begin devoicing in unstressed syllables
+
    - \*thralu > [ˈθra.lu̥]
    - \*wardu > [ˈwar.du̥]
    - \*taku > [ˈta.ku̥]
@@ -304,33 +305,36 @@ See: [Historical Development](#historical-development) for chronological stages
 
 # Core Grammar
 
-## Case System
+## Ergative-Absolutive Alignment
 
-1. Primary Cases
+- -el [el] (ERG): marks agent of transitive verbs
+- -es [es] (ABS): marks patient of transitive & sole argument of intransitive
 
-   - -el [el] (ERG): marks agent of transitive verbs
-   - -es [es] (ABS): marks patient of transitive & sole argument of intransitive
+Early Hick can be described as a language with an ergative-absolutive alignment.
+Languages with this alignment treat the "subject" of an intransitive verb like
+the "object" of a transitive verb. This "object" or "patient" referent is marked
+with the _absolutive_ case marker -es. The "subject" or "agent" referent is
+marked with the _ergative_ case marker -el.
 
-   Examples:
+```plaintext
+materokel 'al-es venitar
+handler-ERG person-ABS burden.SUP
+"The handler carries the person"
+```
 
-   ```plaintext
-   materok-el ʔal-es ward-ter
-   handler-ERG person-ABS direct-to
-   "The handler directs the person"
+In the above example, the handler _materok_ is the agent of the verb "to carry"
+and is marked with the ergative case marker -el. The person _'al_ is the patient
+of the verb and is marked with the absolutive case marker -es.
 
-   ʔal-es ter-ʔer
-   person-ABS move-ACT
-   "The person moves"
-   ```
+```plaintext
+'ales barak'er
+person-ABS walk-VERB
+"The person walks"
+```
 
-2. Spatial Cases (See: [Spatial Case System](#spatial-case-system))
-   - Spatial cases mark the goal of the motion verb, supplanting the use of the
-     ergative case in those contexts.
-     - -aes (ILL): "inward, into"
-     - -imris (ELL): "outward, from"
-     - -itar (SUPE): "upward, upon"
-     - -esp (SUB): "under, below"
-     - -asam (SUBE): "downward, onto"
+The single argument of the intransitive verb _barak'er_ is the one performing
+the action, but because Early Hick is an ergative-absolutive language, the
+absolutive case marker -es is used to mark the referent.
 
 ### Development of the Ergative Case Marking -el
 
@@ -348,51 +352,111 @@ parallel but distinct development from the definite article:
    - Intermediate stage: marks definite agents
    - Final stage: general ergative marker
 
-3. Examples:
-   - thral-el "the sacred one (as agent)"
-   - mer-el "the bird (as agent)"
-   - pel-el "the bear (as agent)"
-
 ## Verbal System
 
 See: [Verbal Morphology](#verbal-morphology) for details on:
 
-- Verbalizer -'er
-- Tense and aspect marking
-- Case system interaction
-- Directional system
+Early Hick has no true verb class. Verbs are formed from nouns and property
+concepts and are marked with the verbalizer affix _-'er_.
+
+```plaintext
+'al'isel ven'er 'ales
+person.PROX.ERG yoke.VERB person.ABS
+this person carries a person
+I am carrying a person
+```
+
+The above example shows the word _ven_ that means yoke or burden with the
+verbalizer _-er_ affixed to it. It then acts as the verb of the sentence that
+means "to carry".
+
+While some words, such as _barak_ "walk", semantically denote actions, the
+verbalizer affix _-'er_ is still applied in most instances.
+
+```plaintext
+'ales barak'er
+person-ABS walk-VERB
+"The person walks."
+```
 
 ## Spatial Case System
 
-See: [Verbal Morphology](#verbal-morphology) for details on:
+(See: [Spatial Case System](#spatial-case-system)
 
-- Basic directionals (-aes, -imris, etc.)
-- Complex directionals
-- Interaction with verbal semantics
-- Syntactic properties
+Early Hick uses case marking to modify a word to indicate the direction an
+action is performed.
+
+The spatial cases are:
+
+- -aes (ILL): "inward, into"
+- -imris,-iter (ELL): "outward, from"
+- -itar (SUPE): "upward, upon"
+- -esp (SUB): "under, below"
+- -asam (SUBE): "downward, onto"
+
+These spatial cases may be appended to verbal words to indicate the direction an
+action is performed. Most of the time, the spatial case marker supplants the
+verbalizer suffix.
+
+```plaintext
+branum galel belaes rismateres
+PAST man-ERG entrance-ILL reed boat-ABS
+The man inward-entrance the reed boat.
+The man entered the reed boat.
+```
+
+The above example shows the man _gal_ entering the boat _rismater_. There is
+another way to express this sentence using the spatial case marker, removing the
+explicit verbal word _bel_ "entrance".
+
+```plaintext
+branum gales rismater-aes
+PAST man-ABS reed boat-ILL
+The man entered the reed boat.
+```
+
+Since the man is moving inward, into the reed boat, and there is no reason to
+specify that the man entered through the entrance, the spatial case marker -aes
+may be appended to _rismater_ to indicate that the man entered the boat.
 
 ## Temporal System
 
-See: [Clause Structure and Word Order](#clause-structure-and-word-order) for
-details on:
+### Tense Marking
 
-- Basic temporal markers (branum, branrum, mulsum)
-- Position and usage
-- Interaction with aspect
-- Temporal reference in discourse
+See: [Clause Structure and Word Order](#clause-structure-and-word-order)
+
+The basic temporal markers are added to the beginning of a clause to indicate
+the time of the action.
+
+| Tense Marker | Meaning  |
+| ------------ | -------- |
+| branum       | past     |
+| branrum      | far past |
+| mulsum       | future   |
+
+```plaintext
+branum 'ales venitar
+PAST person-ABS yoke-SUPE
+PAST person lift
+"The person lifted."
+```
+
+```plaintext
+branrum 'ales venitar
+FAR PAST person-ABS yoke-SUPE
+FAR PAST person lifted
+"The person lifted long ago."
+```
+
+```plaintext
+mulsum 'ales venitar
+FUT person-ABS yoke-SUPE
+"The person will lift."
+```
 
 ### Conjunctions
 
-1. Basic Connectors
-
-   - is "and" (sequential)
-   - eth "and" (simultaneous)
-   - um "or"
-
-2. Complex Connectors
-   - ishis [is.his] "and then"
-   - ethis [eθ.is] "while"
-   - umis [um.is] "or else"
+ru
 
 # Morphology
 
@@ -422,7 +486,7 @@ details on:
    - Examples:
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
-     - tomal [to.mal] "great pool, lake" (tor-mal → tomal, liquid deletion)
+     - tomal [to.mal] "great pool, - lake" (tor-mal → tomal, liquid deletion)
 3. Speed Augmentative (tor- -sim)
    - Circumfix combining the argumentative tor- with the translative -sim to
      mean a swift change in speed of the action
@@ -460,7 +524,7 @@ details on:
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
    - -en [en] "that" (inanimate)
-   - -tan [tan] "that" (animate)
+   - -tan [tan] "tholat" (animate)
 2. Hidden but Sensed
    - -eth [eθ] "this/that" (inanimate)
    - -thir [θir] "this/that" (animate)
@@ -743,6 +807,41 @@ Examples:
 
 # Syntax
 
+## Property Words and Modification
+
+Early Hick uses property words (like English adjectives and adverbs) in three
+main ways:
+
+1. As Adjectives (modifying nouns)
+
+   - Come before the noun they modify
+
+   ```plaintext
+   'irek litor-es etal
+   firm hill-ABS that.MED
+   "that firm hill" (like English "the tall tree")
+   ```
+
+2. As Predicate Adjectives (with verb marking)
+
+   ```plaintext
+   litor-es 'irek'er
+   hill-ABS firm-VERB
+   "The hill is firm" (like English "The tree is tall")
+   ```
+
+3. As Adverbs (modifying verbs)
+   - Come after the verb they modify
+   - Often take the similarity prefix ka-
+   ```plaintext
+   wen'altanes 'irek'er ka'irek
+   woman.MED.VIS.ANIM-ABS stand-VERB firm-SIM
+   "She stands firmly" (like English "-ly" adverbs)
+   ```
+
+This pattern means that word order shows whether a property word is acting like
+an adjective (before nouns) or an adverb (after verbs).
+
 ## Clause Structure and Word Order
 
 1. Basic Patterns
@@ -881,14 +980,14 @@ See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
 
    - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
    - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
-   - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
+   - 'ateleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
    - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
 
 3. Distal Forms (Out of Sight/Unknown)
 
    - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
-   - 'etelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
+   - 'atelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
    - 'akerum [ʔa.ke.rum] < 'aka-'er-um "how" (unknown manner)
 
 4. Usage Examples
@@ -913,6 +1012,56 @@ See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
    - Medial forms: Used for sensed but not seen referents (sounds, smells, etc.)
    - Distal forms: Default information-seeking questions about unknowns
    - All forms take regular case marking based on syntactic role
-   - Follow standard compound phonology (See: [Compound Phonology](#compound-phonology))
+   - Follow standard compound phonology (See:
+     [Compound Phonology](#compound-phonology))
 
 See: [Compound Phonology](#compound-phonology) for sound change patterns
+
+## Relative Clauses
+
+Early Hick forms relative clauses using interrogative pronouns as relativizers.
+These maintain their proximal/medial/distal distinctions and take case marking
+based on their syntactic role within the relative clause.
+
+1. Basic Structure
+
+   ```plaintext
+   ['alisel tiraies ter'er] barak'erimris vinudes
+   [who.ERG ale.ABS drink.VERB] walk.VERB-ELL dwelling.ABS
+   "Who drinks the ale walks home"
+   ```
+
+2. Interrogative Forms Used
+
+   - 'alis/aleth/alum: "who" (animate referents)
+   - 'atal/ateth/atum: "where" (locations)
+   - 'atel/ateleth/atelum: "when" (time)
+   - 'aker/akereth/akerum: "how" (manner)
+
+3. Case Marking
+
+   - Relativizer takes case based on its role in the relative clause
+   - Main clause maintains independent case marking
+
+   ```plaintext
+   'altanel ['alises thren'er] ward'er
+   man-MED.VIS.ANIM [who.ABS watch.VERB] guide.VERB
+   "That man who watches guides"
+   ```
+
+4. Evidentiality Through Distance Forms
+
+   - Proximal (-is): visible/known referents
+   - Medial (-eth): sensed but not seen referents
+   - Distal (-um): unknown/general referents
+
+   ```plaintext
+   ['alumel materokes ward'er] thren'er
+   [who.DIST.ERG boat.ABS guide.VERB] watch.VERB
+   "Who(ever) guides the boat watches"
+   ```
+
+5. Word Order
+   - Relative clause typically precedes its head
+   - Internal word order follows main clause patterns
+   - Spatial case marking on verbs functions normally

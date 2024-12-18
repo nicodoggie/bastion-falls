@@ -782,6 +782,16 @@
         }
       ]
     },
+    "derivedForms": [
+      {
+        "@type": "ontolex:Form",
+        "writtenRep": "dortor'er",
+        "phoneticRep": "dor.tor.ʔer",
+        "decomposition": "dortor + -'er (verbalizer)",
+        "grammaticalMeaning": "to slope"
+      }
+    ]
+  },
     {
       "@id": "eh:palmal",
       "@type": "ontolex:LexicalEntry",
@@ -2259,18 +2269,18 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Water Features",
-            "Motion"
+            "Basic Terms",
+            "Motion Terms"
           ]
         }
       ],
       "derivedForms": [
         {
           "@type": "ontolex:Form",
-          "writtenRep": "ter-'er",
+          "writtenRep": "ter'er",
           "phoneticRep": "ter.ʔer",
           "decomposition": "ter + -'er (verbalizer)",
-          "grammaticalMeaning": "to flow (verbal form)"
+          "grammaticalMeaning": "to drink"
         }
       ]
     },
@@ -2941,6 +2951,1202 @@
             "Emotional Terms",
             "Sacred Terms"
           ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:murvinu",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "murvinu",
+        "phoneticRep": "mur.vi.nu"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:mur"
+        },
+        {
+          "@id": "eh:vinu"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mur-vinu",
+        "etymon:gloss": "night-pregnancy",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Uses mur- 'darkness' metaphorically for death"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stillbirth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Bodily Functions",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:murvinuiter",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "murvinuiter",
+        "phoneticRep": "mur.vi.nu.i.ter"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:murvinu"
+        },
+        {
+          "@id": "eh:imris"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "murvinu-imris",
+        "etymon:gloss": "stillbirth-ELL",
+        "etymon:soundChange": "ellative case formation",
+        "etymon:note": "Uses ellative case to indicate 'from/out of stillbirth'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "abortion",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Bodily Functions",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'aka",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'aka",
+        "phoneticRep": "ʔa.ka"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *haka",
+        "etymon:soundChange": "initial fricative change",
+        "etymon:note": "Basic question root with archaic animacy marking"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "what",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Interrogatives"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'alis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'alis",
+        "phoneticRep": "ʔa.lis"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:'al"
+        },
+        {
+          "@id": "eh:is"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-'al-is",
+        "etymon:gloss": "what-person-PROX.ANIM"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "who (visible/known person)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Proximal",
+            "Personal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'atel",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'atel",
+        "phoneticRep": "ʔa.tel"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tel"
+        },
+        {
+          "@id": "eh:is"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tel-is",
+        "etymon:gloss": "what-time-PROX.INAN"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (visible/known time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Proximal",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'aker",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'aker",
+        "phoneticRep": "ʔa.ker"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:'er"
+        },
+        {
+          "@id": "eh:is"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-'er-is",
+        "etymon:gloss": "what-VERB-PROX.INAN"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "how (visible/known manner)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Proximal",
+            "Manner"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'aleth",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'aleth",
+        "phoneticRep": "ʔa.leθ"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:'al"
+        },
+        {
+          "@id": "eh:eth"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-'al-eth",
+        "etymon:gloss": "what-person-MED"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "who (sensed but not seen person)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial",
+            "Personal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ateth",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ateth",
+        "phoneticRep": "ʔa.teθ"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tal"
+        },
+        {
+          "@id": "eh:eth"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tal-eth",
+        "etymon:gloss": "what-place-MED"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "where (sensed location)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial",
+            "Spatial"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'eteleth",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eteleth",
+        "phoneticRep": "ʔe.te.leθ"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tel"
+        },
+        {
+          "@id": "eh:eth"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tel-eth",
+        "etymon:gloss": "what-time-MED"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (sensed time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'akereth",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'akereth",
+        "phoneticRep": "ʔa.ke.reθ"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:'er"
+        },
+        {
+          "@id": "eh:eth"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-'er-eth",
+        "etymon:gloss": "what-VERB-MED"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "how (sensed manner)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial",
+            "Manner"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'alum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'alum",
+        "phoneticRep": "ʔa.lum"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:'al"
+        },
+        {
+          "@id": "eh:um"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-'al-um",
+        "etymon:gloss": "what-person-DIST"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "who (unknown person)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Distal",
+            "Personal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'atum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'atum",
+        "phoneticRep": "ʔa.tum"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tal"
+        },
+        {
+          "@id": "eh:um"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tal-um",
+        "etymon:gloss": "what-place-DIST"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "where (unknown location)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Distal",
+            "Spatial"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'etelum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'etelum",
+        "phoneticRep": "ʔe.te.lum"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tel"
+        },
+        {
+          "@id": "eh:um"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tel-um",
+        "etymon:gloss": "what-time-DIST"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (unknown time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Distal",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'akerum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'akerum",
+        "phoneticRep": "ʔa.ke.rum"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:'er"
+        },
+        {
+          "@id": "eh:um"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-'er-um",
+        "etymon:gloss": "what-VERB-DIST"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "how (unknown manner)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Distal",
+            "Manner"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'atal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'atal",
+        "phoneticRep": "ʔa.tal"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tal"
+        },
+        {
+          "@id": "eh:is"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tal-is",
+        "etymon:gloss": "what-place-PROX.INAN"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "where (what-place-PROX.INAN)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Proximal",
+            "Spatial"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ateleth",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ateleth",
+        "phoneticRep": "ʔa.te.leθ"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tel"
+        },
+        {
+          "@id": "eh:eth"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tel-eth",
+        "etymon:gloss": "what-time-MED"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (sensed time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'atelum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'atelum",
+        "phoneticRep": "ʔa.te.lum"
+      },
+      "lexicalCategory": "lexinfo:Interrogative",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'aka"
+        },
+        {
+          "@id": "eh:tel"
+        },
+        {
+          "@id": "eh:um"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tel-um",
+        "etymon:gloss": "what-time-DIST"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (unknown time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Distal",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:vinud",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinud",
+        "phoneticRep": "vi.nud"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *venu-wudu",
+        "etymon:components": [
+          "venu (burden)",
+          "wudu (wood)"
+        ],
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "Semantic shift from 'wood structure' to 'dwelling'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "building, dwelling",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Structure Terms",
+            "Settlement Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "vinud'er",
+          "phoneticRep": "vi.nu.dʔer",
+          "decomposition": "vinud + -'er (verbalizer)",
+          "grammaticalMeaning": "to build, to dwell"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'irek",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irek",
+        "phoneticRep": "ʔi.rek"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-reku",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "reku (firm)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows archaic animacy marking through glottal prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stand, firmness",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Position Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'irek'er",
+          "phoneticRep": "ʔi.rek.ʔer",
+          "decomposition": "'irek + -'er (verbalizer)",
+          "grammaticalMeaning": "to stand"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ilis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilis",
+        "phoneticRep": "ʔi.lis"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-lisu",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "lisu (sight)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Semantic extension from 'sight' to 'knowledge'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "knowledge",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Perception Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilis'er",
+          "phoneticRep": "ʔi.lis.ʔer",
+          "decomposition": "'ilis + -'er (verbalizer)",
+          "grammaticalMeaning": "to know"
+        }
+      ]
+    },
+    {
+      "@id": "eh:mel",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mel",
+        "phoneticRep": "mel"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *melu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sweet",
+            "@language": "en"
+          },
+          "usage": "Associated with ripeness and edibility",
+          "lexinfo:semanticField": "Taste Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kras",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kras",
+        "phoneticRep": "kras"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *krasu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bitter",
+            "@language": "en"
+          },
+          "usage": "Used for both taste and metaphorical bitterness",
+          "lexinfo:semanticField": "Taste Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:tir",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tir",
+        "phoneticRep": "tir"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *tilmuru",
+        "etymon:soundChange": [
+          "liquid deletion",
+          "compound reduction",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sour; wince",
+            "@language": "en"
+          },
+          "usage": "Shows semantic connection between taste sensation and facial response",
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Bodily Functions"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "tir'er",
+          "phoneticRep": "tir.ʔer",
+          "decomposition": "tir + -'er (verbalizer)",
+          "grammaticalMeaning": "to wince"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kaketh",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kaketh",
+        "phoneticRep": "ka.keθ"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ka"
+        },
+        {
+          "@id": "eh:keth"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-keth",
+        "etymon:gloss": "sea-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "salty",
+            "@language": "en"
+          },
+          "usage": "Literally 'sea-like', shows maritime influence on taste terminology",
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Maritime Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:atelbran",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'atelbran",
+        "phoneticRep": "ʔa.tel.bran"
+      },
+      "lexicalCategory": "lexinfo:Adverb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:atel"
+        },
+        {
+          "@id": "eh:bran"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'aka-tel-bran",
+        "etymon:intermediateForm": "'akatelbran",
+        "etymon:gloss": "what-time-dawn",
+        "etymon:soundChange": "compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "before",
+            "@language": "en"
+          },
+          "usage": "Temporal metaphor using interrogative 'when' + 'dawn'",
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Interrogatives"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:gras",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gras",
+        "phoneticRep": "gras"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *grasu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grass",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Plant Terms",
+            "Natural World",
+            "Pastoral Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "gras'er",
+          "phoneticRep": "gras.ʔer",
+          "decomposition": "gras + -'er (verbalizer)",
+          "grammaticalMeaning": "to graze"
+        }
+      ]
+    },
+    {
+      "@id": "eh:toren",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "toren",
+        "phoneticRep": "to.ren"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:tor"
+        },
+        {
+          "@id": "eh:ren"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-ren",
+        "etymon:gloss": "great-deer",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "horse",
+            "@language": "en"
+          },
+          "usage": "Shows semantic extension through size metaphor",
+          "lexinfo:semanticField": "Animal Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kor",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kor",
+        "phoneticRep": "kor"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Old Iutlandish kor",
+        "etymon:period": "Early Hick"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cow",
+            "@language": "en"
+          },
+          "usage": "Early borrowing showing cultural contact with Iutlandish herders",
+          "lexinfo:semanticField": "Animal Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:sumerok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sumerok",
+        "phoneticRep": "su.me.rok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:gras"
+        },
+        {
+          "@id": "eh:imer"
+        },
+        {
+          "@id": "eh:ok"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-'imer-ok",
+        "etymon:gloss": "grass-life-AGENT",
+        "etymon:soundChange": "compound simplification"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "goat",
+            "@language": "en"
+          },
+          "usage": "Shows compound reduction and metaphorical extension through agentive marking",
+          "lexinfo:semanticField": "Animal Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:thranal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thranal",
+        "phoneticRep": "θra.nal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:thran"
+        },
+        {
+          "@id": "eh:thral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thran-thral",
+        "etymon:gloss": "thousand-sacred",
+        "etymon:soundChange": "liquid deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "seasons",
+            "@language": "en"
+          },
+          "usage": "Shows cyclical time through metaphor of countless sacred days",
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:mabarak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mabarak",
+        "phoneticRep": "ma.ba.rak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ma"
+        },
+        {
+          "@id": "eh:barak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ma-barak",
+        "etymon:gloss": "PLU-walk",
+        "etymon:note": "Collective motion from plural marker"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "march, collective walking",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Action Terms",
+            "Military Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "mabarak'er",
+          "phoneticRep": "ma.ba.rak.ʔer",
+          "decomposition": "mabarak + -'er (verbalizer)",
+          "grammaticalMeaning": "to march"
         }
       ]
     }
