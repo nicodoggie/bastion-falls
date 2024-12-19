@@ -524,7 +524,7 @@ ru
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
    - -en [en] "that" (inanimate)
-   - -tan [tan] "tholat" (animate)
+   - -tan [tan] "that" (animate)
 2. Hidden but Sensed
    - -eth [eθ] "this/that" (inanimate)
    - -thir [θir] "this/that" (animate)

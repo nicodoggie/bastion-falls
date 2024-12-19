@@ -4149,6 +4149,93 @@
           "grammaticalMeaning": "to march"
         }
       ]
+    },
+    {
+      "@id": "eh:asad",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asad",
+        "phoneticRep": "a.sad"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:asa"
+        },
+        {
+          "@id": "eh:wad"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "asa-wad",
+        "etymon:protoform": "Proto-Hick *hasa-wadu",
+        "etymon:gloss": "vine-path",
+        "etymon:soundChange": [
+          "initial h-loss (non-sacred)",
+          "final vowel loss",
+          "compound vowel coalescence"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bridge",
+            "@language": "en"
+          },
+          "usage": "Shows typical development of infrastructure terms from natural materials",
+          "lexinfo:semanticField": [
+            "Infrastructure",
+            "Construction"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:eldegralen_asadimris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eldegralen asadimris",
+        "phoneticRep": "ʔel.də.gra.len a.sa.dim.ris"
+      },
+      "lexicalCategory": "lexinfo:ProperNoun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:eldegral",
+          "grammaticalMarker": "-en",
+          "markerMeaning": "medial visible inanimate"
+        },
+        {
+          "@id": "eh:asad",
+          "grammaticalMarker": "-imris",
+          "markerMeaning": "elative case"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'eldegral-en asad-imris",
+        "etymon:gloss": "feywild-MED.VIS.INAN bridge-ELL",
+        "etymon:note": "Shows formal preservation of medial marker and elative case"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "The Elven Bridge",
+            "@language": "en"
+          },
+          "literalMeaning": "bridge from/through the feywild",
+          "usage": "Shows formal/sacred term patterns with case marking",
+          "lexinfo:semanticField": [
+            "Place Names",
+            "Infrastructure",
+            "Sacred Terms"
+          ]
+        }
+      ]
     }
   ]
 }

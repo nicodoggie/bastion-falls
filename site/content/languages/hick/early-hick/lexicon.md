@@ -947,6 +947,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - iskelai [is.ke.lai] "window condensation" < iskel-ai "window-water" → iskelai
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- asad [a.sad] "bridge" < Proto-Hick \*hasa-wadu → asad
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From 'vine' + 'path', shows typical development of infrastructure terms
+  from natural materials
 
 #### Military
 
@@ -1021,6 +1025,14 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - gal [gal] "man" < karal + ʔalu
 - wen'al [wen.ʔal] "woman" < wen-'al "flower person" → wen'al
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- 'eldal [ʔel.dal] "elf (individual)" < eldrim-'al "elf-person" → 'eldal
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Borrowing from Sindarin eldrim with native person marker See:
+  [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
+- 'eldalok [ʔel.da.lok] "elven people" < 'eldal-ok "elf-AGENT" → 'eldalok
+  ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Collective form using agentive suffix to mark social group See:
+  [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 
 #### Spirit Terms
 
@@ -1174,14 +1186,23 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 ## Pastoral Terms
 
-## Pastoral Terms
-
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasaes "to herd, take to graze" (from illative: 'into grazing') See also
     [Action Terms](#action-terms)
+
+## Place Names
+
+- 'eldegral [ʔel.də.gral] "feywild" < eldrim-gral "elf-earth" → 'eldegral
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Shows vowel reduction in middle syllable and sacred earth metaphor See:
+  [Sacred Terms](#sacred--ritual), [Landforms](#landforms)
+- 'eldegralen asadimris [ʔel.də.gra.len a.sa.dim.ris] "The Elven Bridge" < 'eldegral-en asad-imris
+  ([compound with case marking](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Formal construction using medial visible inanimate marker -en and elative case -imris
+  See: [Sacred Terms](#sacred--ritual), [Construction Terms](#construction--dwelling)
 
 ## Derivational Patterns
 
