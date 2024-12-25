@@ -54,8 +54,21 @@ For stress-related vowel changes, see:
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic perception verb
 
+- hilis [hi.lis] "sight, active vision" < Proto-Hick \*hilisu → hilis
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms two contrasting verbs:
+  - hilis'er "to look" (active/intentional seeing)
+  - his'er "to see" (passive/unintentional perception)
+
 ### Motion Actions
 
+- sinas [si.nas] "play; drift, passage" < Proto-Hick *senu-asa-u → sinas
+  ([final vowel loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From *senu "float" + *asa (PERL) + *u (NOM), literally "floating
+  through"
+
+  - Primary meaning: "play", connected to free movement
+  - Secondary meaning: "drift", related to play
 - barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb barak'er "to walk" with -'er suffix
@@ -63,6 +76,12 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From plural marker + "walk", forms verb mabarak'er "to march". See also
   barak "walk"
+- sin [sin] "floating" < Proto-Hick \*senu → sin
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb sin'er "to float". See also [Maritime Terms](#maritime-terms)
+- dak [dak] "snake" < Proto-Hick \*daluku → dak
+  ([medial liquid loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From root meaning "slither", forms verb dak'er "to slither"
 
 ### Bodily/Life Actions
 
@@ -79,11 +98,14 @@ For stress-related vowel changes, see:
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb gras'er "to graze", typically of animals feeding
-
 - ter [ter] "flow, fluid motion" < Proto-Hick \*teru → ter
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ter'er "to drink". Flow meanings use directional affixes
   instead
+- sinibel [si.ni.bel] "taste" < sin-ibel "float-tongue" → sinibel
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of floating motion to sensory perception
+  See: [Taste Terms](#taste-terms), [Body Terms](#body-terms)
 
 ### Position/Stance Actions
 
@@ -108,6 +130,12 @@ For stress-related vowel changes, see:
 - vinud [vi.nud] "building, dwelling" < Proto-Hick \*venu-wudu → vinud
   ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From 'burden' + 'wood', forms verb vinud'er "to build, to dwell"
+
+### Tool/Craft Actions
+
+- ar [ar] "cut, cutting action" < Proto-Hick \*xaru → ar
+  ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb ar'er "to cut"
 
 ## Core Semantic Fields
 
@@ -466,8 +494,9 @@ For stress-related vowel changes, see:
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - sed [sed] "seed" < Proto-Hick \*sedu → sed
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-- kel [kel] "leaf" < Proto-Hick \*kelu → kel
+- sar [sar] "leaf" < Proto-Hick \*saru → sar
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Also means "green" from leaf association
 - bran [bran] "branch" < Proto-Hick \*bahu lu-haranu → bran (lit. "split from
   father")
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
@@ -693,6 +722,9 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
   Note: Shows compound reduction and metaphorical extension through agentive
   marking See: [Animal Terms](#animal-terms),
   [Consumption Terms](#consumption-actions)
+- dak [dak] "snake" < Proto-Hick \*daluku → dak
+  ([medial liquid loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From root meaning "slither", forms verb dak'er "to slither"
 
 ### Bird Terms (Nocturnal)
 
@@ -746,6 +778,9 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - nal [nal] "black" < Proto-Hick \*nalu → nal
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Same as "river"
+- sar [sar] "leaf" < Proto-Hick \*saru → sar
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Also means "green" from leaf association
 
 ### Magical Terms
 
@@ -845,7 +880,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - tag [tag] "hand" < Proto-Hick \*tagu → tag
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Tool Terms](#tool-terms)
-- mes [mes] "heart" < Proto-Hick \*mesu → mes
+- mes [mes] "heart" < Proto-Hick \*melisu → mes
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings See:
   [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
@@ -853,6 +888,9 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
   See: [Food & Consumption Terms](#food--consumption-terms)
+- bedek [be.dek] "tongue" < be-dak → bedek
+  ([vowel harmony](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Literally "mouth-snake", metaphorical compound
 
 #### Face Terms
 
@@ -938,6 +976,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
 - mulisimris [mu.li.sim.ris] "awakening" < mulis-imris → mulisimris
   ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
+- sinibel [si.ni.bel] "taste" < sin-ibel "float-tongue" → sinibel
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of floating motion to sensory perception
+  See: [Taste Terms](#taste-terms), [Body Terms](#body-terms)
 
 ### Architecture
 
@@ -956,6 +998,19 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 - branlir [bran.lir] "watchtower" < bran-lir "ridge-watch" → branlir
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+### Construction Terms
+
+- arasad [a.ra.sad] "plank, cut timber" < Proto-Hick *xarasa-wudu → arasad
+  ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From *xaru "cut" + *asa (PERL) + *wudu "wood", literally "cut-through
+  wood"
+
+### Household Terms
+
+- arasaditar [a.ra.sa.di.tar] "table" < arasad-itar → arasaditar Note: From
+  arasad "plank" + -itar (SUPE), literally "elevated plank" See also
+  [Construction Terms](#construction-terms)
 
 ### Climate & Weather
 
@@ -1050,6 +1105,41 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   See: [Political Terms](#political-terms) Note: Collective term implying
   social/political unity rather than simple plurality
+
+### Name & Identity Terms
+
+- bar [bar] "name, mark of identity" < Proto-Hick \*baru → bar
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Core term for personal and social identity
+
+#### Derived Terms
+
+- baraes [ba.ra.es] "personal name" < bar-aes "name-ILL" → baraes
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Used for intimate/personal names
+
+- barimris [ba.rim.ris] "reputation, public name" < bar-imris "name-ELL" →
+  barimris
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Used for social standing and public identity
+
+- bar'er [bar.ʔer] "to name, to call" < bar-'er "name-VERB" → bar'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  Note: Basic verb for naming/calling
+
+#### Compound Terms
+
+- thralbar [θral.bar] "sacred name" < thral-bar "sacred-name" → thralbar
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Used in ritual contexts
+
+- barul [ba.rul] "name-keeper" < bar-ul "name-POSS" → barul
+  ([possessive suffix](@/languages/hick/early-hick/_index.md#possession-marking))
+  Note: One who maintains genealogical records
+
+- mobar [mo.bar] "unnamed, nameless" < mo-bar "NEG-name" → mobar
+  ([negation prefix](@/languages/hick/early-hick/_index.md#negation-system))
+  Note: Used for both literal namelessness and social outcasts
 
 ### Political Terms
 
@@ -1198,11 +1288,11 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - 'eldegral [ʔel.də.gral] "feywild" < eldrim-gral "elf-earth" → 'eldegral
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: Shows vowel reduction in middle syllable and sacred earth metaphor See:
-  [Sacred Terms](#sacred--ritual), [Landforms](#landforms)
-- 'eldegralen asadimris [ʔel.də.gra.len a.sa.dim.ris] "The Elven Bridge" < 'eldegral-en asad-imris
-  ([compound with case marking](@/languages/hick/early-hick/_index.md#case-system))
-  Note: Formal construction using medial visible inanimate marker -en and elative case -imris
-  See: [Sacred Terms](#sacred--ritual), [Construction Terms](#construction--dwelling)
+  [Sacred Terms](#sacred--ritual), [Landforms](#landforms)shou
+- 'eldegralen asadimris [ʔel.də.gra.len a.sa.dim.ris] "The Elven Bridge" < 'eldegral-en
+  asad-imris ([compound with case marking](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Formal construction using medial visible inanimate marker -en and elative
+  case -imris See: [Sacred Terms](#sacred--ritual), [Construction Terms](#construction--dwelling)
 
 ## Derivational Patterns
 

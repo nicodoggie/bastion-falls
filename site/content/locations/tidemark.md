@@ -474,7 +474,7 @@ construction and shipbuilding needs.
 
 ### Church Hierarchy
 
-#### Bishop of Surrey - Aldwin di Monteverdi
+#### Bishop of Surrey - Thralmater Surrata
 
 - Seat: Cathedral of the Angel of Civilization, Port Surrey
 - Jurisdiction: Surrey-on-the-Brams and surrounding settlements

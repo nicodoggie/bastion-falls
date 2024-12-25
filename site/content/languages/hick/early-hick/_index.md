@@ -120,7 +120,6 @@ Examples:
 
 - /'al/ [ʔal] "person"
 - /'el/ [ʔel] "speaker"
-- /ma'er/ [maʔer] "spirit-breath"
 
 ### Vowels
 
@@ -394,9 +393,10 @@ The spatial cases are:
 - -esp (SUB): "under, below"
 - -asam (SUBE): "downward, onto"
 
-These spatial cases may be appended to verbal words to indicate the direction an
-action is performed. Most of the time, the spatial case marker supplants the
-verbalizer suffix.
+These spatial cases are typically appended to verbal words to indicate the
+direction an action is performed. When used with transitive verbs, the spatial
+cases indicate the direction of the action done by the agent, in relation to the
+patient.
 
 ```plaintext
 branum galel belaes rismateres
@@ -612,6 +612,20 @@ Note: Interpretation depends on base word semantics:
 - Property roots → stative verbs (thral "sacred") (See:
   [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
 
+## Volitional Marker
+
+- **-arm**: Indicates volitional mood, suggesting intention or willingness to
+  perform an action.
+
+The -arm suffix replaces the -'er suffix in volitional contexts.
+### Usage Example
+
+- **sinasarm**: "let's play" or "let's drift" < sinas-arm "play-VOLITION" →
+  sinasarm
+
+This suffix allows speakers to express a desire or suggestion to perform an
+action, similar to the volitional mood in other languages.
+
 ## Spatial Case System
 
 Early Hick's spatial case system interacts closely with verbal semantics,
@@ -742,6 +756,7 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 5. Hands as tools
 6. Eyes as reality
 7. Skin as appearance
+8. Skin, Hair as abstract senses
 
 ## Affix Order
 

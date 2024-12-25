@@ -188,24 +188,49 @@ long as they are radicalized Hicklanders.
 1. Starting Location
 
    1. Port Surrey-on-the-Brams
-      - Starts with some mook trying to spar with Lilya
-      - Henry's aide ([Kurris Wudward](@/characters/kurris-wudward.md)) is
-        waiting at the sidelines
-      - Kurris will attempt to have Lilya accompany Henry. They leave the next
-        day.
+      - Lieutenant Lilya Bkorneblume's squad needed two more members, according
+        to her superior officer Lord Captain Boyle Eastonton. Her Corporal,
+        Jalester Silvermane, was fielding the recruits.
+      - Jalester wanted to spar with her to show the recruits what they had to
+        be able to do. She didn't want to be bothered by it, but relented
+        somewhat to get the corporal off her back.
+      - She quickly dodged away from the rest of the training session, and
+        headed to the Commissioning Office to look at active bounties to
+        collect.
+      - Cindy, the Commissioning Officer, lazily gave Lilya a list of bounties,
+        her eyes were drawn toward a wanted poster for a Murky Marbrams.
+        - 50gp for any information leading to his capture
+        - 150gp for his capture, alive.
+        - Wanted for suspicion of murder, assassination. Suspected member of the
+          Brams Reavers
+      - Henry's aide ([Kurris Wudward](@/characters/kurris-wudward.md)) found
+        Lilya at the Commissioning Office. He asked her to meet with him at a
+        more private location.
+      - Kurris explained to Lilya that her adoptive brother, Henry  
+        Surrata-Spellvig, was moving to become the heir of House Malthren, and
+        he was planning to head to the Narrows to do so. He was convincing her
+        to come along with them and to keep it hush-hush.
       - Before they are able to leave, Lilya's commanding officer tells her that
         the terrorists from Hickland for Hicks were rumored to be working with
         operatives from La Camaraderie, perhaps to free the captive members of
         the ship _Principium_ before they can be properly processed and
         executed.
+      - Henry met with Lilya because he knew that Kur would want to recruit her
+        to babysit him. He didn't want to have it. Instead Lilya tricked him and
+        had him wear a sailor's outfit and to pretend to be a full-fledged
+        sailor. She pulled him to the Narrows 
    2. Tidemark
-      - Philippa wakes, her body aches as if sore from a sparring match
-      - one of the sisters-in-training will remind her of today's departure to
-        the Narrows, Sister Agatha is with the Bishop's contingent meeting the
-        nobleman representative from House Eastonton.
-      - Agatha will ask Philippa to defer to Sir Aigral Eastonton to lead this
-        year's charity mission to the Narrows. The Bishop had personally vouched
-        for the man's virtue and piety, and had requested that Sir Aigral take
+      - Philippa wakes, waking up a bit late since she was helping with the
+        preparations for the Church's mission to the Narrows.
+      - one of the sisters-in-training wakes her to tell her that Sister Agatha
+        wishes to see her, as there seem to be a change of plans.
+      - the Bishop of Surrey was with Sister Agatha, they would head to Port
+        Surrey for some secretive meeting.
+      - Instead the contingent will be led by a nobleman representative from
+        House Eastonton, Sir Aigral Eastonton.
+      - Agatha will ask Philippa to defer to Sir Eastonton to lead this year's
+        charity mission to the Narrows. The Bishop had personally vouched for
+        the man's virtue and piety, and had requested that Sir Aigral take
         point.
 
 2. Traveling to the Narrows
@@ -213,6 +238,7 @@ long as they are radicalized Hicklanders.
    1. From Port Surrey-on-the-Brams
       - Henry is a bit too proud of his family, this will make him a target for
         brigands, especially from members of the _Hickland for Hicks_ faction.
+      -
    2. From Tidemark
       - The party will be ambushed by the Hickland for Hicks faction
 
@@ -224,7 +250,7 @@ long as they are radicalized Hicklanders.
       Malthren to name him as his heir. Another cadet nobleman from House
       Wardcross, hired these malcontents. These mercenaries don't really care
       about Wardcross though, but they do want the opportunity to take over the
-      Thaneship for various reasons. 
+      Thaneship for various reasons.
    2. Aigral wishes to basically wants to take the institution of the Thane of
       the Magarisok as a means to get to the King. The current king, though
       beholden to the Church through centuries of tradition, seems to be

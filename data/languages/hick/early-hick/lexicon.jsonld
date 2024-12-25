@@ -2165,7 +2165,7 @@
       ]
     },
     {
-      "@id": "eh:sin",
+      "@id": "eh:sin_num", // Existing entry for "one"
       "@type": "ontolex:LexicalEntry",
       "canonicalForm": {
         "@type": "ontolex:Form",
@@ -2187,6 +2187,47 @@
             "@language": "en"
           },
           "lexinfo:semanticField": "Number System"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:sin_float",
+          "type": "lexinfo:homonym"
+        }
+      ]
+    },
+    {
+      "@id": "eh:sin_float",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sin",
+        "phoneticRep": "sin"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *senu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "floating",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Maritime Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:sin_num",
+          "type": "lexinfo:homonym"
         }
       ]
     },
@@ -4233,6 +4274,241 @@
             "Place Names",
             "Infrastructure",
             "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:bar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bar",
+        "phoneticRep": "bar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *baru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "name, mark of identity",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Identity Terms",
+            "Social Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "baraes",
+          "phoneticRep": "ba.ra.es",
+          "decomposition": "bar + -aes (illative)",
+          "grammaticalMeaning": "personal name"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "barimris",
+          "phoneticRep": "ba.rim.ris",
+          "decomposition": "bar + -imris (elative)",
+          "grammaticalMeaning": "reputation, public name"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "bar'er",
+          "phoneticRep": "bar.ʔer",
+          "decomposition": "bar + -'er (verbalizer)",
+          "grammaticalMeaning": "to name, to call"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "thralbar",
+          "phoneticRep": "θral.bar",
+          "decomposition": "thral + bar",
+          "grammaticalMeaning": "sacred name"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "barul",
+          "phoneticRep": "ba.rul",
+          "decomposition": "bar + -ul (possessive)",
+          "grammaticalMeaning": "name-keeper"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "mobar",
+          "phoneticRep": "mo.bar",
+          "decomposition": "mo- + bar (negation)",
+          "grammaticalMeaning": "unnamed, nameless"
+        }
+      ]
+    },
+    {
+      "@id": "eh:sinibel",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sinibel",
+        "phoneticRep": "si.ni.bel"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:sin"
+        },
+        {
+          "@id": "eh:ibel"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sin-ibel",
+        "etymon:gloss": "float-tongue",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "taste",
+            "@language": "en"
+          },
+          "usage": "Shows metaphorical extension of floating motion to sensory perception",
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Body Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:hilis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hilis",
+        "phoneticRep": "hi.lis"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hilisu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sight, active vision",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Perception Terms",
+            "Action Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "hilis'er",
+          "phoneticRep": "hi.lis.ʔer",
+          "decomposition": "hilis + -'er (verbalizer)",
+          "grammaticalMeaning": "to look (active/intentional seeing)"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "his'er",
+          "phoneticRep": "his.ʔer",
+          "decomposition": "his (reduced form) + -'er (verbalizer)",
+          "grammaticalMeaning": "to see (passive/unintentional perception)"
+        }
+      ]
+    },
+    {
+      "@id": "eh:ar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ar",
+        "phoneticRep": "ar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xaru",
+        "etymon:intermediateForm": "haru",
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cut, cutting action",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Action Terms",
+            "Tool Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "ar'er",
+          "phoneticRep": "ar.ʔer",
+          "decomposition": "ar + -'er (verbalizer)",
+          "grammaticalMeaning": "to cut"
+        }
+      ]
+    },
+    {
+      "@id": "eh:sinas",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sinas",
+        "phoneticRep": "si.nas"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *senu-asa-u",
+        "etymon:components": [
+          "senu (float)",
+          "asa (PERL)",
+          "u (NOM)"
+        ],
+        "etymon:soundChange": [
+          "final vowel loss",
+          "compound fusion"
+        ],
+        "etymon:note": "Literally 'floating through', shows typical compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "drift, passage",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Maritime Terms",
+            "Abstract Concepts"
           ]
         }
       ]
