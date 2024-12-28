@@ -708,3 +708,7 @@ Compound numbers developed in Early Hick:
    - Basic actions
    - Numbers
    - Grammatical markers
+
+# Proto-Hick Ablative
+
+lu- 

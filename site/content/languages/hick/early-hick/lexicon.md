@@ -69,6 +69,7 @@ For stress-related vowel changes, see:
 
   - Primary meaning: "play", connected to free movement
   - Secondary meaning: "drift", related to play
+
 - barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb barak'er "to walk" with -'er suffix
@@ -136,6 +137,9 @@ For stress-related vowel changes, see:
 - ar [ar] "cut, cutting action" < Proto-Hick \*xaru → ar
   ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ar'er "to cut"
+- 'irur [ʔi.rur] "hollow" < Proto-Hick \*heru-lumuru → 'irur
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Derived from "act of emptying," reflecting the concept of hollowness.
 
 ## Core Semantic Fields
 
@@ -312,6 +316,23 @@ For stress-related vowel changes, see:
 - mir [mir] "cold" < Proto-Hick \*miru → mir
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
+### Sound Terms
+
+- tak [tak] "strike, impact; sound" < Proto-Hick \*taku → tak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Onomatopoeic origin. See: [Physical Actions](#physical-actions)
+
+- takutak [ˈta.ku.tək] "rhythm" < Proto-Hick \*takutaku → takutak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Preserves onomatopoeic reduplication. See:
+  [Derived Terms](#derived-terms)
+
+- takimer [ˈta.ki.mɛr] "echo; sound spirit" < taku "rhythm" + imer "spirit" →
+  takimer
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Reflects early animistic understanding of sound phenomena. See:
+  [Spirit Terms](#spirit-terms)
+
 ### Vision & Perception Terms
 
 #### Basic Terms
@@ -377,10 +398,11 @@ For stress-related vowel changes, see:
   ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
 - kras-'er [kras.ʔer] "to embitter" < kras-'er "bitter-VERB" → kras'er
   ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
-- tir'er [tir.ʔer] "to wince" < tir-'er "sour/wince-VERB" → tir'er
+- tir'er [tir.ʔer] "to wince; fermentation" < tir-'er "sour/wince-VERB" → tir'er
   ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
-  Note: Shows connection between taste sensation and involuntary response See:
-  [Taste Terms](#taste-terms), [Bodily Functions](#bodily-functions--states)
+  Note: Shows connection between taste sensation and involuntary response, as
+  well as the process of fermentation. See: [Taste Terms](#taste-terms),
+  [Bodily Functions](#bodily-functions--states), [Process Terms](#process-terms)
 
 ### Food & Consumption Terms
 
@@ -415,6 +437,20 @@ For stress-related vowel changes, see:
 - duwesthral [du.wes.θral] "ritual feast" < duwes-thral "eat-sacred" →
   duwesthral
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- duwesimris [du.we.sim.ris] "feed" < duwes-imris "food-ELL" → duwesimris
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Derived from "duwes" (food) with the ellative case, indicating the act
+  of providing food.
+- murduwes [mur.du.wes] "leftovers" < mur-duwes "night-eat" → murduwes
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Refers to food set aside for fermentation or preservation,
+  metaphorically described as "night-eat," reflecting the practice of using
+  surplus for future consumption.
+- tir'er [tir.ʔer] "to wince; fermentation" < tir-'er "sour/wince-VERB" → tir'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  Note: Shows connection between taste sensation and involuntary response, as
+  well as the process of fermentation. See: [Taste Terms](#taste-terms),
+  [Bodily Functions](#bodily-functions--states), [Process Terms](#process-terms)
 
 ### Natural World
 
@@ -507,6 +543,14 @@ For stress-related vowel changes, see:
 - asa [a.sa] "vine" < Proto-Hick \*hasa → asa
   ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
   See: [Flora & Agriculture](#flora--agriculture)
+- branlis [bran.lis] "tree berries; fruit" < bran-lis "branch-child" → branlis
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Metaphorical extension of "child" to "berries" and "fruit," reflecting
+  cultural view of trees as nurturing figures.
+- 'irurlis [ʔi.rur.lis] "gourd" < 'irur-lis "hollow-fruit" → 'irurlis
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Combines the concepts of hollowness and fruit, reflecting the physical
+  characteristics of gourds.
 
 #### Cultivated Plants
 
@@ -547,6 +591,13 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - sedthral [sed.θral] "planting day" < sed-thral "seed-sacred" → sedthral
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+#### Horticulture Terms
+
+- wudgral [wud.gral] "orchard" < wud-thragral "wood-garden" → compound
+  simplification → wudgral
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows connection between sacred garden and orchard
 
 ### Sacred & Ritual
 
@@ -1165,7 +1216,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   "air/white")
 - lis [lis] "child" < Proto-Hick \*li-su → lis (lit. "little one")
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  Note: Semantic development parallels diminutive formations (see lines 627-630)
+  Note: Semantic d\lopment parallels diminutive formations (see lines 627-630)
   See: [Kinship Terms](#kinship-terms),
   [Diminutive Formation](#augmentativediminutive)
 
@@ -1266,6 +1317,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - imurthral [i.mur.θral] "cursed day/time" < imur-thral → imurthral (compound
   fusion, maintains second element due to sacred term) See:
   [Time Terms](#time--celestial)
+- imurai [i.mu.rai] "stinky" < imur-ai "bad-air" → imurai
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Describes an unpleasant smell, metaphorically derived from the concept
+  of bad air.
 
 #### Usage Examples
 
@@ -1399,3 +1454,19 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   (lit. "person-ERG good-upon birth-ABS") Note: Formal congratulatory expression
   using superessive case See:
   [Case System](@/languages/hick/early-hick/_index.md#case-system)
+- 'imeritares [ʔi.me.ri.ta.res] ~ imeritares [i.me.ri.ta.res] ~ imritares
+  [im.ri.ta.res] "welcome; raised spirits" < 'imer "life" + -itar (SUPE) + -es
+  (ABS) → ('i)meritares
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Formal greeting. Dialectal loss of initial glottal stop allows semantic
+  extension from "upon life" to "raised breath/soul" through reanalysis with
+  imer "breath/soul" + superessive -itar. Common usage leads to simplified form
+  imritares. See: [Spirit Terms](#spirit-terms),
+  [Common Phrases](#common-phrases--expressions)
+
+### Cultural Practices
+
+- 'irurlises duwesimris [ʔi.rur.lis.es du.we.sim.ris] "gift-giving" < 'irur-lis-es
+  duwes-imris "hollow-fruit-ABS feed-ELL" → 'irurlises duwesimris  
+  Note: Cultural practice of giving filled gourds as gifts during harvest festivals,
+  metaphorically described as "feeding the gourd."

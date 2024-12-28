@@ -2239,6 +2239,7 @@
         "writtenRep": "tir",
         "phoneticRep": "tir"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Numeral",
       "etymology": {
         "@type": "etymon:Etymology",
@@ -3147,6 +3148,7 @@
         "writtenRep": "'atel",
         "phoneticRep": "ʔa.tel"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3187,6 +3189,7 @@
         "writtenRep": "'aker",
         "phoneticRep": "ʔa.ker"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3227,6 +3230,7 @@
         "writtenRep": "'aleth",
         "phoneticRep": "ʔa.leθ"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3267,6 +3271,7 @@
         "writtenRep": "'ateth",
         "phoneticRep": "ʔa.teθ"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3307,6 +3312,7 @@
         "writtenRep": "'eteleth",
         "phoneticRep": "ʔe.te.leθ"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3347,6 +3353,7 @@
         "writtenRep": "'akereth",
         "phoneticRep": "ʔa.ke.reθ"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3387,6 +3394,7 @@
         "writtenRep": "'alum",
         "phoneticRep": "ʔa.lum"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3427,6 +3435,7 @@
         "writtenRep": "'atum",
         "phoneticRep": "ʔa.tum"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3467,6 +3476,7 @@
         "writtenRep": "'etelum",
         "phoneticRep": "ʔe.te.lum"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3507,6 +3517,7 @@
         "writtenRep": "'akerum",
         "phoneticRep": "ʔa.ke.rum"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3547,6 +3558,7 @@
         "writtenRep": "'atal",
         "phoneticRep": "ʔa.tal"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3587,6 +3599,7 @@
         "writtenRep": "'ateleth",
         "phoneticRep": "ʔa.te.leθ"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3627,6 +3640,7 @@
         "writtenRep": "'atelum",
         "phoneticRep": "ʔa.te.lum"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Interrogative",
       "decomp:subterm": [
         {
@@ -3850,47 +3864,42 @@
       ]
     },
     {
-      "@id": "eh:tir",
+      "@id": "eh:tir'er",
       "@type": "ontolex:LexicalEntry",
       "canonicalForm": {
         "@type": "ontolex:Form",
-        "writtenRep": "tir",
-        "phoneticRep": "tir"
+        "writtenRep": "tir'er",
+        "phoneticRep": "tir.ʔer"
       },
-      "lexicalCategory": "lexinfo:Adjective",
+      "lexicalCategory": "lexinfo:Verb",
       "etymology": {
         "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *tilmuru",
-        "etymon:soundChange": [
-          "liquid deletion",
-          "compound reduction",
-          "final vowel loss"
-        ]
+        "etymon:protoform": "Proto-Hick *tir",
+        "etymon:components": [
+          "tir (sour/wince)",
+          "-'er (verbalizer)"
+        ],
+        "etymon:soundChange": "verbalization"
       },
       "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "sour; wince",
+            "@value": "to wince",
             "@language": "en"
           },
-          "usage": "Shows semantic connection between taste sensation and facial response",
-          "lexinfo:semanticField": [
-            "Taste Terms",
-            "Bodily Functions"
-          ]
-        }
-      ],
-      "derivedForms": [
+          "lexinfo:semanticField": "Bodily Functions"
+        },
         {
-          "@type": "ontolex:Form",
-          "writtenRep": "tir'er",
-          "phoneticRep": "tir.ʔer",
-          "decomposition": "tir + -'er (verbalizer)",
-          "grammaticalMeaning": "to wince"
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fermentation",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Process Terms"
         }
       ]
-    },
+    }
     {
       "@id": "eh:kaketh",
       "@type": "ontolex:LexicalEntry",
@@ -4509,6 +4518,124 @@
             "Motion Terms",
             "Maritime Terms",
             "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imurai",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurai",
+        "phoneticRep": "i.mu.rai"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *imur-ai",
+        "etymon:components": [
+          "imur (bad)",
+          "ai (air)"
+        ],
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stinky",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Sensory Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:takimer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takimer",
+        "phoneticRep": "ta.ki.mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:taku"
+        },
+        {
+          "@id": "eh:imer"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "taku-imer",
+        "etymon:gloss": "rhythm-spirit",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "echo",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Spirit Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'imeritares",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imeritares",
+        "phoneticRep": "ʔi.me.ri.ta.res",
+        "variantForms": [
+          {
+            "writtenRep": "imeritares",
+            "phoneticRep": "i.me.ri.ta.res"
+          },
+          {
+            "writtenRep": "imritares",
+            "phoneticRep": "im.ri.ta.res"
+          }
+        ]
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'imer"
+        },
+        {
+          "@id": "eh:itar"
+        },
+        {
+          "@id": "eh:es"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'imer-itar-es",
+        "etymon:gloss": "life-SUPE-ABS",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Dialectal loss of initial glottal allows reanalysis with imer 'breath/soul'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "welcome; raised spirits",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Common Phrases",
+            "Spirit Terms",
+            "Sacred Terms"
           ]
         }
       ]

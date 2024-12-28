@@ -9,7 +9,7 @@ pronouns = "she/her"
 date_of_birth = "1257-05-12"
 [taxonomies]
 families = ["Surrata-Spellvig"]
-parents = []
+parents = ["Sonia Spellvig", "Rodolphus Surrata-Spellvig"]
 children = []
 siblings = []
 religions = ["Orthodox Divine Masochist"]
