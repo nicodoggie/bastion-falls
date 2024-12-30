@@ -125,6 +125,11 @@ For stress-related vowel changes, see:
 - sibris [si.bris] "love" < Proto-Hick \*hibrisu → sibris
   ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Metaphorical extension from 'fire' to emotional action
+- gnater [gna.ter] "desire" < gnar-ter "correct-flow" → gnater
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Forms grammaticalized desiderative suffix -nat through phonological
+  reduction See: [Basic Terms](#basic-terms),
+  [Grammatical Terms](#grammatical-terms)
 
 ### Construction/Dwelling Actions
 
@@ -261,6 +266,27 @@ For stress-related vowel changes, see:
   ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
   Note: Abstract sense developed from basic meaning See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+- thid [θid] "truth" < Proto-Hick \*hawadu "sacred way" → thid
+  ([initial fricativization, medial glide loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Shows semantic development from "sacred path" to abstract "truth"
+- imurud [i.mu.rud] "falsehood" < imur-wudu "evil-path" → imurud
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows semantic extension from physical to abstract meaning. See:
+  [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+
+#### Logical Terms
+
+- 'irek [ʔi.rek] "stand; firmness; truth" < Proto-Hick \*hi-reku → 'irek
+  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Shows archaic animacy prefix. Semantic extension from physical firmness
+  to abstract truth. See: [Sacred Terms](#sacred--ritual),
+  [Abstract Concepts](#abstract-concepts)
+- 'it [ʔit] "knot (in wood); falsehood" < Proto-Hick \*xitu → 'it
+  ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Primary meaning refers to natural knots in wood/lumber. Abstract meaning
+  "falsehood" derives from concept of deviation in wood grain. See:
+  [Construction Terms](#construction--dwelling),
+  [Abstract Concepts](#abstract-concepts)
 
 #### Vision & Perception
 
@@ -999,6 +1025,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: From "burden-seed"; shows vowel harmony in compound reduction See:
   [Basic Terms](#basic-terms), [Sacred Terms](#sacred--ritual)
+- imeresp [i.me.resp] "sleep" < imer-esp "breath-under" → imeresp
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of breath/spirit sinking to indicate sleep
+  See: [Spirit Terms](#spirit-terms), [Body Terms](#body-terms)
 
 #### Derived Terms
 
@@ -1056,6 +1086,12 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From *xaru "cut" + *asa (PERL) + *wudu "wood", literally "cut-through
   wood"
+- 'it [ʔit] "knot (in wood); falsehood" < Proto-Hick \*xitu → 'it
+  ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Primary meaning refers to natural knots in wood/lumber. Abstract meaning
+  "falsehood" derives from concept of deviation in wood grain. See:
+  [Construction Terms](#construction--dwelling),
+  [Abstract Concepts](#abstract-concepts)
 
 ### Household Terms
 
@@ -1392,7 +1428,6 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 ### Liquid Deletion
 
 - tor-mal → tomal "lake"
-- val-mal → vamal "spirit pool"
 - thral-gral → thragral "sacred earth" See:
   [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 

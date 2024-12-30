@@ -454,9 +454,80 @@ FUT person-ABS yoke-SUPE
 "The person will lift."
 ```
 
-### Conjunctions
+## Conjunctions
 
-ru
+### Additive Coordination
+
+Early Hick uses ru [ru] "and" (< Proto-Hick \*storu "grow") with the particle o
+marking coordinated elements:
+
+```plaintext
+kor o toren o ru-el
+cow PART horse PART AND-ERG
+"the cow and horse (as agent)"
+```
+
+The coordinator can take case marking to show the role of the coordinated
+phrase:
+
+- ru-el: coordinated elements as agent
+- ru-es: coordinated elements as patient/subject
+
+### Temporal Coordination
+
+Temporal relationships between clauses use specialized coordinators:
+
+- 'aterbran [ʔa.ter.bran] "before" (lit. "what-flow-dawn")
+- 'aterimris [ʔa.te.rim.ris] "after" (lit. "what-flow-from")
+- 'atertel [ʔa.ter.tel] "until" (lit. "what-flow-end") 
+
+Dependent clauses use nominalized verbs:
+
+```plaintext
+[kor o toren o] gras'er-es 'aterimris
+[cow PART horse PART] graze-ABS after-ELL
+"after the cow and horse grazed"
+```
+
+Position affects emphasis:
+
+- Initial: sets temporal frame for discourse
+- Final: neutral narrative position
+
+### Causal Subordinator
+
+imris [im.ris] "because" < Proto-Hick \*imeru-ris "towards breath/spirit"
+
+- Functions as a subordinator marking causal relationships
+- Grammaticalized from Proto-Hick compound of *imeru "breath/spirit" + *ris
+  (LAT)
+- Maintains ergative-absolutive alignment in both clauses
+- Can appear clause-initially or between clauses
+
+### Position and Usage
+
+Conjunctions interact with Early Hick's information structure:
+
+1. Can take case marking to show grammatical roles
+2. Initial position emphasizes the relationship
+3. Final position gives neutral narrative flow
+4. With dependent clauses, verbs take nominal form
+
+Examples:
+
+```plaintext
+imris toranes ter'er, 'ales barak'er
+SUB   river-ABS flow-VERB person-ABS walk-VERB
+"Because the river flows, the person walks"
+
+'ales barak'er imris toranes ter'er
+person-ABS walk-VERB SUB river-ABS flow-VERB
+"The person walks because the river flows"
+```
+
+Note: The same form appears as the ellative case marker -imris, showing parallel
+grammaticalization from spatial/directional meaning to both case marking and
+subordination.
 
 # Morphology
 
@@ -618,6 +689,7 @@ Note: Interpretation depends on base word semantics:
   perform an action.
 
 The -arm suffix replaces the -'er suffix in volitional contexts.
+
 ### Usage Example
 
 - **sinasarm**: "let's play" or "let's drift" < sinas-arm "play-VOLITION" →
@@ -625,6 +697,27 @@ The -arm suffix replaces the -'er suffix in volitional contexts.
 
 This suffix allows speakers to express a desire or suggestion to perform an
 action, similar to the volitional mood in other languages.
+
+## Desiderative Marker
+
+- **-nat**: Indicates desire or want to perform an action
+- Grammaticalized from full verb gnater "desire"
+- Replaces -'er suffix in desiderative contexts
+
+### Usage Examples
+
+```plaintext
+'ales vennat
+person-ABS carry-DESID
+"The person wants to carry"
+materok-el rismater-es wardnat
+handler-ERG reed.boat-ABS guide-DESID
+"The handler wants to guide the reed boat"
+```
+
+Note: Shows semantic development from full verb gnater "desire" to
+grammaticalized suffix through phonological reduction. Maintains
+ergative-absolutive alignment of main clause. ci
 
 ## Spatial Case System
 
@@ -985,24 +1078,25 @@ See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
 
 1. Basic Forms
 
-   - 'aka [ʔa.ka] "what" (basic question root)
-   - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
-   - 'atal [ʔa.tal] < 'aka-tal-is "where" (what-place-PROX.INAN)
-   - 'atel [ʔa.tel] < 'aka-tel-is "when" (what-time-PROX.INAN)
-   - 'aker [ʔa.ker] < 'aka-'er-is "how" (what-VERB-PROX.INAN)
+   - 'alis [ʔa.lis] "who" < 'aka-'al-is (what-person-PROX.ANIM)
+     - Used for visible/known referents and confirmation
+   - 'atal [ʔa.tal] "where" < 'aka-tal-is (what-place-PROX.INAN)
+   - 'ater [ʔa.ter] "when" < 'aka-ter-is (what-flow-PROX.INAN)
+     - Shows temporal metaphor of time as flow
+   - 'aker [ʔa.ker] "how" < 'aka-'er-is (what-VERB-PROX.INAN)
 
 2. Medial Forms (Hidden but Sensed)
 
    - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
    - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
-   - 'ateleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
+   - 'atereth [ʔe.te.leθ] < 'aka-ter-eth "when" (sensed time)
    - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
 
 3. Distal Forms (Out of Sight/Unknown)
 
    - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
-   - 'atelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
+   - 'aterum [ʔa.te.rum] < 'aka-ter-um "when" (unknown time)
    - 'akerum [ʔa.ke.rum] < 'aka-'er-um "how" (unknown manner)
 
 4. Usage Examples
@@ -1080,3 +1174,25 @@ based on their syntactic role within the relative clause.
    - Relative clause typically precedes its head
    - Internal word order follows main clause patterns
    - Spatial case marking on verbs functions normally
+
+# Development Notes
+
+## Development of Early Hick Ellative
+
+1. Proto-Hick Source: *imeru "breath/spirit" + *ris (LAT) "to/towards"
+
+   - \*imeruris "towards breath/spirit"
+   - \*imerris (syncope)
+   - imris (reanalysis as single morpheme)
+
+2. Semantic Development:
+
+   - Original: "towards breath" (spatial)
+   - Extended: "from breath" (source)
+   - Grammaticalized: "from" (general ellative)
+   - Further: "because" (causal)
+
+3. Evidence:
+   - Preserved in imeraes "inspiration" (see lines 3504-3506)
+   - Parallel with -aes development (see lines 3988-3995)
+   - Matches Early Hick spatial case system (see lines 656-663)

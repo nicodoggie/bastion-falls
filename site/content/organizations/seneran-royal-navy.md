@@ -215,3 +215,23 @@ The return of magic in 1225 AI sparked a revolutionary period of development:
 The Poasan-Apgarian Conflict (1250-1255 AI) proved these developments crucial,
 establishing Senera as the premier naval power in the region and leading to
 their role as enforcers of the Treaty of Turain.
+
+# Rank and File
+
+## Marshal
+
+### Fleet Marshal
+
+### Marshal of the Land Forces
+
+## Captain
+
+## Lieutenant
+
+## Lieutenant Commander
+
+## Corporal
+
+## Yeoman
+
+## Sailor

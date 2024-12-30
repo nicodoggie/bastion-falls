@@ -9,7 +9,7 @@ date_of_birth = "date#1248-12-15"
 families = ["Eastonton"]
 parents = ["Garward Eastonton", "Maude Eastonton"]
 children = []
-siblings = []
+siblings = ["Iskel", "Julia Skelwick"]
 religions = ["Church of Divine Masochism"]
 organizations = ["House Eastonton", "Church of Divine Masochism"]
 ethnicities = ["Seneran"]
@@ -85,5 +85,5 @@ Divine Masochism, and spreading its ideals.
 
 # Career
 
-His exceptional performance was noticed by Thralmater s, then the
-episcopal seneschal of the Diocese of Surrey
+His exceptional performance was noticed by Thralmater Surrata, then the
+episcopal seneschal of the Diocese of Surrey. 

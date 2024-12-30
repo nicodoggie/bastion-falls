@@ -339,9 +339,9 @@ Surrey a crucial transshipment point for goods from:
 - Calamutian books and other scholarly works
 - Freehold city-state exports
 
-Their liaison office in Port Rainoso coordinates complex trading networks,
-often combining cargoes from multiple Posaran sources for efficient
-distribution to northern markets.
+Their liaison office in Port Rainoso coordinates complex trading networks, often
+combining cargoes from multiple Posaran sources for efficient distribution to
+northern markets.
 
 ### Northern Routes
 
@@ -466,3 +466,53 @@ Both sectors benefit from:
 
 This integration ensures Port Surrey maintains surge capacity for naval
 production while supporting a robust commercial shipbuilding industry.
+
+## Taverns and Inns
+
+### Northcross District
+
+- **The Crow's Nest Inn**
+
+  - Located near the Northcross Bridge, this inn offers panoramic views of the
+    Great Surrey Reach. Known for its hearty meals and warm hospitality, it's a
+    favorite among merchants and travelers.
+
+- **The Merchant's Rest**
+  - Situated close to the trading houses, this tavern caters to the bustling
+    commercial crowd. It features a lively atmosphere with frequent performances
+    by local musicians.
+
+### Admiralty Dockyards District
+
+- **The Sailor's Haven**
+
+  - A popular spot for naval personnel, this tavern offers a range of Seneran
+    ales and spirits. Its walls are adorned with maritime memorabilia, creating
+    a cozy retreat for sailors.
+
+- **The Anchor's Hold**
+  - Located near the naval supply depots, this inn provides comfortable lodging
+    for visiting officers and dignitaries. Its refined ambiance and excellent
+    service make it a preferred choice for those seeking a quieter stay.
+
+### Port Surrey District (Central)
+
+- **The Mariner's Hearth**
+
+  - Nestled within the bustling marketplace, this tavern is known for its
+    traditional Seneran dishes and vibrant atmosphere. It's a hub for locals and
+    visitors alike, offering a taste of Port Surrey's rich culinary heritage.
+
+- **The Noble's Haven**
+
+  - Positioned near the central district, this inn caters to affluent clients
+    seeking luxury and privacy. Its elegantly furnished rooms and exclusive
+    services make it a top choice for wealthy merchants and nobles.
+
+- **The Fisherman's Rest**
+  - Located by the southern waterfront, this inn serves the local fishing
+    community. Its rustic charm and affordable rates attract fishermen and
+    travelers looking for a simple yet comfortable stay.
+
+These new names should help distinguish the taverns and inns from the shipyards,
+while still reflecting the character and culture of Port Surrey.
