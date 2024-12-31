@@ -494,7 +494,7 @@ Their roles, duties, and privileges are as follows:
 
 - Ultimate authority over the lands and titles of the realm
 - Power to veto legislation passed by the Noble Electorate
-- Power to declare martial law, which in itself allows:
+- Power to declare martial law, which in itself allows: 
   - Imposition of emergency taxes
   - Declaration of emergency legislation
   - Conscription of military forces

@@ -577,6 +577,11 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Combines the concepts of hollowness and fruit, reflecting the physical
   characteristics of gourds.
+- saresp [sa.resp] "sprout" < sar-esp "leaf-under" → saresp
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Metaphorical extension of hidden leaf beneath; reflects cultural view of
+  growth as emergence from concealment. Forms verb saresp'er "to sprout" See:
+  [Flora & Agriculture](#flora--agriculture)
 
 #### Cultivated Plants
 
@@ -629,7 +634,7 @@ For stress-related vowel changes, see:
 
 #### Basic Terms
 
-- thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
+- thral [θral] "day; sacred, ritual" < Proto-Hick \*thralu → thral
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
@@ -1332,6 +1337,20 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - haran [ha.ran] "divide (numbers)" < Proto-Hick \*haranu → haran (metaphorical
   extension from "split") See: [Basic Terms](#basic-terms)
 
+#### Suffixes
+
+- -eth [-eθ] "inanimate ordinal suffix" < Proto-Hick \*-ethu → -eth
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms ordinals for inanimate objects. Examples:
+  - sineth [si.neθ] "first (of things)" < sin-eth "one-ORD.INAN"
+  - tireth [ti.reθ] "second (of things)" < tir-eth "two-ORD.INAN"
+- -thir [-θir] "animate ordinal suffix" < Proto-Hick \*-thiru → -thir
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms ordinals for animate beings, from root meaning "known/visible".
+  Examples:
+  - sinthir [sin.θir] "first (of beings)" < sin-thir "one-ORD.ANIM"
+  - tirthir [tir.θir] "second (of beings)" < tir-thir "two-ORD.ANIM"
+
 ### Negation and Opposition
 
 #### Basic Terms
@@ -1498,6 +1517,11 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   imer "breath/soul" + superessive -itar. Common usage leads to simplified form
   imritares. See: [Spirit Terms](#spirit-terms),
   [Common Phrases](#common-phrases--expressions)
+- 'ilitar sarespes [ʔi.li.tar sa.res.pes] "Happy New Year" (lit. "goodness upon the
+  sprout") Note: Traditional New Year greeting exchanged on sinthir sarespul thrales.
+  Shows cultural link between agricultural cycles and well-wishing. The formal construction
+  with superessive -itar reflects the blessing's ritual nature. See: [Time Terms](#time--celestial),
+  [Sacred Terms](#sacred--ritual), [Common Phrases](#common-phrases--expressions)
 
 ### Cultural Practices
 
@@ -1505,3 +1529,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   duwes-imris "hollow-fruit-ABS feed-ELL" → 'irurlises duwesimris  
   Note: Cultural practice of giving filled gourds as gifts during harvest festivals,
   metaphorically described as "feeding the gourd."
+- sinthir sarespul thrales [ˈsin.θir sa.ˈres.pul ˈθra.les] "New Year's Day;
+  first day of spring" (lit. "first sprout's day") Note: Marks the agricultural
+  new year when the first sprout emerges. Shows the cultural significance of
+  plant growth cycles in Early Hick timekeeping. The use of animate ordinal
+  (-thir) reflects the personification of the first sprout as an active
+  participant in the yearly cycle. See: [Time Terms](#time--celestial),
+  [Sacred Terms](#sacred--ritual), [Flora & Agriculture](#flora--agriculture)

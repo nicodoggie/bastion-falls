@@ -851,7 +851,7 @@ Suffixes:
 1. Maritime:
 
 - Skelward [skel.wərd] "ship-keeper" < skel-ward
-- Knarman [nɑr.mən] "merchant sailor" < knarr-man
+- Knarman [knɑr.mən] "merchant sailor" < knarr-man
 - Stavner [stæv.nər] "bow-keeper" < stav-ner
 - Wickmer [wɪk.mər] "harbor-keeper" < wick-mer
 - Selward [sel.wərd] "seal hunter" < sel-ward

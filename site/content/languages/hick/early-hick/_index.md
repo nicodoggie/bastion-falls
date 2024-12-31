@@ -463,7 +463,7 @@ marking coordinated elements:
 
 ```plaintext
 kor o toren o ru-el
-cow PART horse PART AND-ERG
+[cow PART horse PART AND]-ERG
 "the cow and horse (as agent)"
 ```
 
