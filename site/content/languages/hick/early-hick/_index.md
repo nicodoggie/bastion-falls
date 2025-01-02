@@ -479,7 +479,7 @@ Temporal relationships between clauses use specialized coordinators:
 
 - 'aterbran [ʔa.ter.bran] "before" (lit. "what-flow-dawn")
 - 'aterimris [ʔa.te.rim.ris] "after" (lit. "what-flow-from")
-- 'atertel [ʔa.ter.tel] "until" (lit. "what-flow-end") 
+- 'atertel [ʔa.ter.tel] "until" (lit. "what-flow-end")
 
 Dependent clauses use nominalized verbs:
 
@@ -571,7 +571,11 @@ subordination.
      - makel [ma.kel] "skies"
    - Interacts with case marking: ma-tor-el (PL-height-ERG)
 
-### Similarity Marking
+### Adjectival Marking
+
+From its Proto-Hick root \*kasu, with the sense of reflection upon a mirror-like
+surface, the prefix _ka-_ was initially used to denote similarity. Over time, it
+had applied to a wide range of concepts, becoming a general adjectivizer.
 
 1. Similarity Prefix (ka-)
    - Prefix meaning "like, similar to"
@@ -580,14 +584,43 @@ subordination.
      - ka-tor [kə.tor] "hill-like" (smaller than a mountain)
      - ka-mal [kə.mal] "pond-like" (smaller than a lake)
      - ka-bram [kə.bram] "tide-like" (rhythmic movement)
-2. Usage Domains
-   - Natural Features: kətor "hill-like", kəmal "pond-like"
-   - Animals: kəpel "bear-like", kəmer "bird-like"
-   - Body Parts: kəbel "mouth-like", kəven "wing-like"
-   - Weather: kəbran "storm-like", kəthral "mist-like"
-   - Water Movement: kəran "stream-like", kəthrim "wave-like"
-   - Plant Growth: kəthir "grass-like", kəbel "vine-like"
-   - Sounds: kəmer "bird-like (sound)", kəsak "wolf-like (howl)"
+     - Natural Features: kətor "hill-like", kəmal "pond-like"
+     - Animals: kəpel "bear-like", kəmer "bird-like"
+     - Body Parts: kəbel "mouth-like", kəven "wing-like"
+     - Weather: kəbran "storm-like", kəthral "mist-like"
+     - Water Movement: kəran "stream-like", kəthrim "wave-like"
+     - Plant Growth: kəthir "grass-like", kəbel "vine-like"
+     - Sounds: kəmer "bird-like (sound)", kəsak "wolf-like (howl)"
+2. Adjectival Suffix (ka-)
+   - Extended beyond just similarity, it has since been used to derive more
+     metaphorically related concepts beyond a comparative sense. such as:
+     - kasul [ka.sul] "energetic" < ka-sul "liver-like"
+     - kames [ka.mes] "emotional" < ka-mes "heart-like"
+3. Use with Translative -sim When ka- prefixed forms take the translative suffix
+   -sim, they indicate becoming like the base noun:
+
+   a. Intransitive use (spontaneous change):
+
+   ```plaintext
+   mes-es kames-sim
+   heart-ABS heart.like-TRANS
+   "The heart becomes emotional" (lit. "becomes heart-like")
+   ```
+
+   b. Transitive use (caused change):
+
+   ```plaintext
+   sibris-el mes-es kames-sim
+   love-ERG heart-ABS heart.like-TRANS
+   "Love makes the heart emotional" (lit. "love makes heart become heart-like")
+
+   'al-el sul-es kasul-sim
+   person-ERG liver-ABS liver.like-TRANS
+   "The person energizes the liver" (lit. "person makes liver become liver-like")
+   ```
+
+   Note: In transitive uses, the ergative marks the agent causing the change,
+   while the absolutive marks what undergoes the change.
 
 ### Demonstrative System
 
@@ -1177,22 +1210,45 @@ based on their syntactic role within the relative clause.
 
 # Development Notes
 
-## Development of Early Hick Ellative
+## Development Notes
 
-1. Proto-Hick Source: *imeru "breath/spirit" + *ris (LAT) "to/towards"
+### Case Development
 
-   - \*imeruris "towards breath/spirit"
-   - \*imerris (syncope)
-   - imris (reanalysis as single morpheme)
+#### Superessive (-itar)
 
-2. Semantic Development:
+The Early Hick superessive marker -itar derives from Proto-Hick \*ʔita haranu
+"above the break/horizon":
 
-   - Original: "towards breath" (spatial)
-   - Extended: "from breath" (source)
-   - Grammaticalized: "from" (general ellative)
-   - Further: "because" (causal)
+1. Initial compound: \*ʔita haranu "above horizon"
+2. Fusion and reduction: > \*ʔitharan
+3. Grammaticalization: > -itar
+   - Loss of final nasal
+   - Semantic broadening from "above horizon" to general "upon/above"
+   - Shift from independent word to bound morpheme
 
-3. Evidence:
-   - Preserved in imeraes "inspiration" (see lines 3504-3506)
-   - Parallel with -aes development (see lines 3988-3995)
-   - Matches Early Hick spatial case system (see lines 656-663)
+#### Ellative (-imris)
+
+The Early Hick ellative marker -imris derives from Proto-Hick \*imeru-ris
+"towards breath/spirit":
+
+1. Initial compound: \*imeru-ris "towards breath"
+2. Fusion and reduction: > \*imeris
+3. Nasal epenthesis: > -imris
+   - Semantic shift from "towards breath" to "outward motion"
+   - Parallel development as subordinator "because"
+   - Shows common path: body/breath terms → spatial/causal markers
+
+#### Subessive (-asam)
+
+The Early Hick subessive marker -asam derives from the noun asam "rest, resting
+place" < PH \*xasamu:
+
+1. Original noun: "rest, resting place"
+2. Metaphorical extension: "place beneath/under"
+3. Grammaticalization: > -asam
+   - Semantic broadening from "resting place" to general "under/beneath"
+   - Shift from independent noun to bound case marker
+   - Shows common path: concrete spatial term → abstract case marker
+   - Parallel development in compound vinusam "shoulder" (< \*vinu xasamu "yoke
+     rest")
+   - Maintains unstressed vowel reduction in both uses

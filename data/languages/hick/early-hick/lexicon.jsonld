@@ -1874,31 +1874,38 @@
         "writtenRep": "duwes",
         "phoneticRep": "du.wes"
       },
-      "lexicalCategory": "lexinfo:Verb",
+      "lexicalCategory": "lexinfo:Noun",
       "etymology": {
         "@type": "etymon:Etymology",
-        "etymon:compound": "sedu-lawes",
-        "etymon:meaning": "seed-consume",
+        "etymon:compound": "duha-wesu",
+        "etymon:gloss": "meat-cover",
         "etymon:soundChange": [
-          "liquid deletion at morpheme boundary",
-          "syncope in first element",
-          "initial cluster simplification",
-          "vowel coalescence",
+          "compound fusion",
           "final vowel loss"
-        ]
+        ],
+        "etymon:note": "Semantic extension from 'meat-container' to general 'food'"
       },
       "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "eat, consume",
+            "@value": "food, nourishment",
             "@language": "en"
           },
-          "usage": "Basic verb of consumption",
+          "usage": "Basic term for both food and eating",
           "lexinfo:semanticField": [
-            "Bodily Functions",
-            "Basic Actions"
+            "Food & Consumption Terms",
+            "Basic Terms"
           ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "duwes'er",
+          "phoneticRep": "du.wes.ʔer",
+          "decomposition": "duwes + -'er (verbalizer)",
+          "grammaticalMeaning": "to eat"
         }
       ]
     },
@@ -3594,7 +3601,7 @@
         "writtenRep": "mel",
         "phoneticRep": "mel"
       },
-      "lexicalCategory": "lexinfo:Adjective",
+      "lexicalCategory": "lexinfo:Noun",
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *melu",
@@ -3604,7 +3611,7 @@
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "sweet",
+            "@value": "sweetness",
             "@language": "en"
           },
           "usage": "Associated with ripeness and edibility",
@@ -4555,6 +4562,1094 @@
             "Sacred Terms",
             "Time Terms"
           ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:pir",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "pir",
+        "phoneticRep": "pir"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *piru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Perception Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "pir'er",
+          "phoneticRep": "pir.ʔer",
+          "decomposition": "pir + -'er (verbalizer)",
+          "grammaticalMeaning": "to listen"
+        }
+      ]
+    },
+    {
+      "@id": "eh:eth",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-eth",
+        "phoneticRep": "-eθ"
+      },
+      "lexicalCategory": "lexinfo:Suffix",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *etha",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "this/that (inanimate, sensed)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:thir",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-thir",
+        "phoneticRep": "-θir"
+      },
+      "lexicalCategory": "lexinfo:Suffix",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *thira",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "this/that (animate, sensed)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:um",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-um",
+        "phoneticRep": "-um"
+      },
+      "lexicalCategory": "lexinfo:Suffix",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *uma",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (inanimate, distant)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:rum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-rum",
+        "phoneticRep": "-rum"
+      },
+      "lexicalCategory": "lexinfo:Suffix",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ruma",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (animate, distant)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kar",
+        "phoneticRep": "kar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *karu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "nose",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "kar'er",
+          "phoneticRep": "kar.ʔer",
+          "decomposition": "kar + -'er (verbalizer)",
+          "grammaticalMeaning": "to smell"
+        }
+      ]
+    },
+    {
+      "@id": "eh:krak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krak",
+        "phoneticRep": "krak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kraku",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tooth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "krak'er",
+          "phoneticRep": "krak.ʔer",
+          "decomposition": "krak + -'er (verbalizer)",
+          "grammaticalMeaning": "to bite"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kun",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kun",
+        "phoneticRep": "kun"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kunu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "knee",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:sul",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sul",
+        "phoneticRep": "sul"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *sulu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "liver",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kol",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kol",
+        "phoneticRep": "kol"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kolu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "neck",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:wak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wak",
+        "phoneticRep": "wak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *waka",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "breast",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:waketh",
+      "@type": "ontolex:LexicalEntry",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wak'eth",
+        "phoneticRep": "wak.ʔeθ"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "waka-ethe",
+        "etymon:gloss": "breast-ABL",
+        "etymon:soundChange": [
+          "compound formation",
+          "final vowel loss",
+          "glottal stop insertion at morpheme boundary"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to nurse",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Basic Actions"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:wakat",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wakat",
+        "phoneticRep": "wa.kət"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "waka-xitu",
+        "etymon:gloss": "breast-knot",
+        "etymon:soundChange": [
+          "compound formation",
+          "unstressed vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "nipple",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:wakai",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wak'ai",
+        "phoneticRep": "wak.ʔai"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "waka-ahi",
+        "etymon:gloss": "breast-water",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "milk",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Food & Drink"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:trask",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "trask",
+        "phoneticRep": "trask"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *tarasaku",
+        "etymon:soundChange": [
+          "syncope",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "leg",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:ret",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ret",
+        "phoneticRep": "ret"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *retu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "arm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:mil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mil",
+        "phoneticRep": "mil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *melu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tallow, animal fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Food & Consumption Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:milai",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "milai",
+        "phoneticRep": "mi.lai"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mil-ai",
+        "etymon:gloss": "fat-water",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rendered fat, oil",
+            "@language": "en"
+          },
+          "usage": "Shows parallel formation with tirai 'fermented drink'",
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Preparation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kirmil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kirmil",
+        "phoneticRep": "kir.mil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kir"
+        },
+        {
+          "@id": "eh:mil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kir-mil",
+        "etymon:gloss": "chest-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "chest/organ fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Preparation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:palmil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "palmil",
+        "phoneticRep": "pal.mil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:pal"
+        },
+        {
+          "@id": "eh:mil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "pal-mil",
+        "etymon:gloss": "belly-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "belly fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Preparation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:sulmil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sulmil",
+        "phoneticRep": "sul.mil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:sul"
+        },
+        {
+          "@id": "eh:mil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sul-mil",
+        "etymon:gloss": "liver-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "liver fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Preparation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kanmil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kanmil",
+        "phoneticRep": "kan.mil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kan"
+        },
+        {
+          "@id": "eh:mil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kan-mil",
+        "etymon:gloss": "head-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "brain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:vinusam",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinusam",
+        "phoneticRep": "vi.nu.sam"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *vinu xasamu",
+        "etymon:gloss": "yoke rest",
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "compound fusion"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shoulder",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:asam",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asam",
+        "phoneticRep": "a.səm"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xasamu",
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "final vowel loss",
+          "unstressed vowel reduction"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rest, resting place",
+            "@language": "en"
+          },
+          "usage": "Source of subessive case marker -asam through grammaticalization",
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:dorgar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dorgar",
+        "phoneticRep": "dor.gər"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:dor"
+        },
+        {
+          "@id": "eh:gar"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "dor-gar",
+        "etymon:gloss": "back-bone",
+        "etymon:soundChange": [
+          "compound fusion",
+          "unstressed vowel reduction"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "spine",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kirirur",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kir'irur",
+        "phoneticRep": "kir.ʔi.rur"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kir"
+        },
+        {
+          "@id": "eh:irur"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kir-'irur",
+        "etymon:gloss": "chest-container",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ribcage",
+            "@language": "en"
+          },
+          "usage": "Shows parallel metaphorical extension with 'irurlis 'gourd/container'",
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kirgar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kirgar",
+        "phoneticRep": "kir.gər"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kir"
+        },
+        {
+          "@id": "eh:gar"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kir-gar",
+        "etymon:gloss": "chest-bone",
+        "etymon:soundChange": [
+          "compound fusion",
+          "unstressed vowel reduction"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rib",
+            "@language": "en"
+          },
+          "usage": "Plural makirgar refers to full set of ribs",
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:du",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "du",
+        "phoneticRep": "du"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *duha",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "meat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Food & Consumption Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:wes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wes",
+        "phoneticRep": "wes"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *wesu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cover, enclose",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kaduwes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kaduwes",
+        "phoneticRep": "ka.du.wes"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ka"
+        },
+        {
+          "@id": "eh:wes"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-duwes",
+        "etymon:gloss": "like-food",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "edible",
+            "@language": "en"
+          },
+          "usage": "Shows productive use of ka- prefix for potential/capability",
+          "lexinfo:semanticField": "Food & Consumption Terms"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'iruretil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'iruretil",
+        "phoneticRep": "ʔi.ru.re.til"
+      },a
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'irur-etil",
+        "etymon:gloss": "hollow-thing",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural link between containers and proper gifts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "gift",
+            "@language": "en"
+          },
+          "usage": "Always inanimate, reflecting cultural norms",
+          "lexinfo:semanticField": [
+            "Material Culture",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'irursibris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irursibris",
+        "phoneticRep": "ʔi.rur.sib.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'irur-sibris",
+        "etymon:gloss": "hollow-love",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Used for ceremonial and marriage gifts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ceremonial gift, dowry",
+            "@language": "en"
+          },
+          "usage": "Used for significant life events and marriage gifts",
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Social Terms",
+            "Marriage Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:brast",
+      "@type": "ontolex:LexicalEntry",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brast",
+        "phoneticRep": "brast"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "*bara-satu",
+        "etymon:gloss": "prominent-appendage",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "From Proto-Hick compound; prominence sense preserved in meaning of dominance"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dominant arm",
+            "@language": "en"
+          },
+          "usage": "Contrasts with ret 'arm (general)'. Forms verb brast'er 'to reach'",
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:kabrast",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kabrast",
+        "phoneticRep": "ka.brast"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-brast",
+        "etymon:gloss": "like-dominant.arm",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension to manual craft skills"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "skilled with hands, manually dexterous",
+            "@language": "en"
+          },
+          "usage": "Specifically for craft skills requiring hand coordination; does not 
+                 extend to martial or athletic dexterity","lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:brastok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brastok",
+        "phoneticRep": "bras.tok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "brast-ok",
+        "etymon:gloss": "dominant.arm-AGENT",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural importance of manual craft skills"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "craftsman, artisan",
+            "@language": "en"
+          },
+          "usage": "General term for skilled manual craftworkers",
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:tre",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tre",
+        "phoneticRep": "tre"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *mataru",
+        "etymon:intermediateForm": "matre",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Back-formed through reanalysis of ma- as plural prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wagon, cart",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Vehicle Terms"
         }
       ]
     }

@@ -47,18 +47,24 @@ For stress-related vowel changes, see:
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
+- krak'er [krak.ʔer] "to bite" < krak-'er "tooth-VERB" → krak'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
 
 ### Perceptual Actions
 
 - thren [θren] "watch, observe" < Proto-Hick \*threnu → thren
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic perception verb
-
 - hilis [hi.lis] "sight, active vision" < Proto-Hick \*hilisu → hilis
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms two contrasting verbs:
   - hilis'er "to look" (active/intentional seeing)
   - his'er "to see" (passive/unintentional perception)
+- pir'er [pir.ʔer] "to listen" < pir + -'er → pir'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  Note: From pir "ear", forms basic perception verb
+- kar'er [kar.ʔer] "to smell" < kar-'er "nose-VERB" → kar'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
 
 ### Motion Actions
 
@@ -89,7 +95,6 @@ For stress-related vowel changes, see:
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
   ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred term for childbirth
-
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
   ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
@@ -201,6 +206,16 @@ For stress-related vowel changes, see:
 - pak [pak] "poke" < Proto-Hick \*paku → pak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Tool Terms](#tool-terms)
+- asam [a.səm] "rest, resting place" < PH \*xasamu Note: Shows regular voiced
+  glottal fricative loss. Source of subessive case marker -asam "under, beneath"
+  through metaphorical extension of "resting place" See:
+  [Body Parts](#body-parts) for compound vinusam "shoulder"
+- wes [wes] "cover, enclose" < Proto-Hick \*wesu → wes
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic term for enclosure/covering. Forms compounds for containers
+  Examples:
+  - wes'er "to cover, enclose" (with verbalizer -'er)
+  - kawes "enclosed" (with adjectival ka-)
 
 #### Derived Terms
 
@@ -209,11 +224,20 @@ For stress-related vowel changes, see:
 - venitar [ve.ni.tar] "to lift" < ven-itar "yoke-SUPER" → venitar
   ([superessive case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Lexicalized from superessive case of "yoke" See: [Verbal Terms](#verbal-terms)
-
-- vinuiter [vi.nu.i.ter] "to give birth" < vinu-itar "pregnancy-ELL" → vinuiter
+- vinuitar [vi.nu.i.tar] "to give birth" < vinu-itar "pregnancy-ELL" → vinuiter
   ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Lexicalized from ellative case of "pregnancy" See:
-  [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
+  [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual) // ... existing
+  code ...
+- kabrast [ka.brast] "skilled with hands" < ka-brast "like-dominant.arm" →
+  kabrast
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Specifically for craft skills requiring hand coordination; does not
+  extend to martial or athletic dexterity. See: [Body Parts](#body-parts)
+- brastok [bras.tok] "craftsman" < brast-ok "dominant.arm-AGENT" → brastok
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: General term for skilled artisans. Shows cultural link between dominant 
+  hand and craft skills. See: [Body Parts](#body-parts)
 
 ### Conjunctions
 
@@ -434,9 +458,23 @@ For stress-related vowel changes, see:
 
 #### Basic Terms
 
-- duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  See: [Directional System](#directional-system)
+- du [du] "meat" < Proto-Hick \*duha → du
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic term for animal flesh as food. Forms compounds with other food
+  terms See: [Body Parts](#body-parts) for muscle/flesh meanings
+- duwes [du.wes] "food, nourishment" < Proto-Hick \*duha-wesu → duwes
+  ([compound fusion, vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From \*duha-wesu "meat-cover", showing development:
+  1. Compound: \*duha-wesu "meat-cover"
+  2. Fusion: \*duhawesu > \*duwesu
+  3. Final: duwes with extended meaning "food" Forms verb duwes'er "to eat"
+     Examples:
+  - duwes'er "to eat" (with verbalizer -'er)
+  - duwesimris "from food, because of food" (with ellative case)
+  - kaduwes "edible" (with adjectival ka-)
+- mil [mil] "tallow, animal fat" < PH melu "liquid" Note: Shows semantic
+  narrowing from general liquid to specifically rendered animal fat used in food
+  preparation and preservation See: [Body Parts](#body-parts)
 
 #### Drink Terms
 
@@ -444,13 +482,25 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows cultural knowledge of fermentation process See:
   [Taste Terms](#taste-terms)
-
 - melterai [mel.te.rai] "mead" < melter-ai "honey-water" → melterai
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Fermented honey drink See: [Food Terms](#food--consumption-terms)
 
+#### Preparation Terms
+
+- milai [mi.lai] "rendered fat, oil" < mil-ai "fat-water" Note: Shows parallel
+  formation with tirai "fermented drink"
+- kirmil [kir.mil] "chest/organ fat" < kir-mil "chest-fat" Note: Prized internal
+  fat used in cooking and preservation
+- palmil [pal.mil] "belly fat" < pal-mil "belly-fat" Note: Distinct type of fat
+  used in specific food preparations
+- sulmil [sul.mil] "liver fat" < sul-mil "liver-fat" Note: Highly valued fat
+  deposit, often preserved for medicinal or ritual use
+
 #### Derived Compounds
 
+- milai [mi.lai] "rendered fat, oil" < mil-ai "fat-water" Note: Shows parallel
+  formation with tirai "fermented drink"
 - terok [te.rok] "drinker; drunkard" < ter-ok "flow-AGENT" → terok
   ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
   Note: One who drinks (professionally or habitually)
@@ -472,6 +522,10 @@ For stress-related vowel changes, see:
   Note: Refers to food set aside for fermentation or preservation,
   metaphorically described as "night-eat," reflecting the practice of using
   surplus for future consumption.
+- kaduwes [ka.du.wes] "edible" < ka-duwes "like-food" → kaduwes
+  ([similarity prefix](@/languages/hick/early-hick/_index.md#similarity-prefix))
+  Note: General term for anything that can be eaten. Shows productive use of ka-
+  prefix for potential/capability
 - tir'er [tir.ʔer] "to wince; fermentation" < tir-'er "sour/wince-VERB" → tir'er
   ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
   Note: Shows connection between taste sensation and involuntary response, as
@@ -573,7 +627,7 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries" and "fruit," reflecting
   cultural view of trees as nurturing figures.
-- 'irurlis [ʔi.rur.lis] "gourd" < 'irur-lis "hollow-fruit" → 'irurlis
+- 'irurlis [ʔi.rur.lis] "gourd; container" < 'irur-lis "hollow-fruit" → 'irurlis
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Combines the concepts of hollowness and fruit, reflecting the physical
   characteristics of gourds.
@@ -585,7 +639,7 @@ For stress-related vowel changes, see:
 
 #### Cultivated Plants
 
-- gransed [ˈgran.sed] "grain" < gras-sed "grass-seed" → gransed
+- grased [ˈgra.sed] "grain" < gras-sed "grass-seed" → grased
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - malris [ˈmal.ris] "water reed" < mal-ris "pool-reed" → malris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
@@ -701,8 +755,10 @@ For stress-related vowel changes, see:
 
 #### Maritime Terms
 
-- mater [ma.ter] "water vessel,boat" < mal-ter "pool-flow" → mater
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
+- mater [ma.ter] "vessel, boat" < Proto-Hick *mataru-heru → mater
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From "vehicle-action", specialized for water transport. Unrelated to 
+  tre/matre despite similar form. See: [Maritime Terms](#maritime-terms)
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT" →
   materok
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
@@ -718,6 +774,13 @@ For stress-related vowel changes, see:
 
 Example: materok-el rismater-im-ris keth-es ward-ter boatman-ERG
 reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
+
+#### Cultural Terms
+
+- 'iruretil [ʔi.ru.re.til] "gift" < 'irur-etil "hollow-thing" → 'iruretil
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows cultural link between containers and proper gifts. Always
+  inanimate. See: [Material Culture](#material-culture)
 
 ### Flora & Fauna
 
@@ -973,6 +1036,52 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - bedek [be.dek] "tongue" < be-dak → bedek
   ([vowel harmony](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "mouth-snake", metaphorical compound
+- pir [pir] "ear" < Proto-Hick \*piru → pir
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Examples:
+  - pir'er [ˈpir.ʔer] "to listen" < pir-'er "ear-VERB"
+  - pirthral [ˈpir.θral] "ritual hearing" < pir-thral "ear-sacred" Note: Forms
+    compounds relating to hearing and ritual attention
+- kar [kar] "nose" < Proto-Hick \*karu → kar
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Note: Forms verb kar'er "to smell"
+- krak [krak] "tooth" < Proto-Hick \*kraku → krak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Note: Forms verb krak'er "to bite". See also:
+  [Initial Clusters](#consonant-clusters)
+- kun [kun] "knee" < Proto-Hick \*kunu → kun
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Note: Used in compounds for joint terms
+- sul [sul] "liver" < Proto-Hick \*sulu → sul
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+- kol [kol] "neck" < Proto-Hick \*kolu → kol
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+- ret [ret] "arm" < Proto-Hick \*retu → ret
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  See: [Body Terms](#body-terms)
+- trask [trask] "leg" < Proto-Hick \*tarasaku → trask
+  ([syncope, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  See: [Body Terms](#body-terms)
+- wak [wak] "breast" < Proto-Hick \*waka → wak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  See: [Body Terms](#body-terms)
+- wak'eth [wak.ʔeθ] "breastfeeding" < waka-ethe "breast-ABL" → wak'eth
+  ([compound formation, glottal stop insertion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Nominal form reanalyzed from ablative case See:
+  [Body Terms](#body-terms), [Basic Actions](#basic-actions)
+- wakat [wa.kat] "nipple" < waka-xitu "breast-knot" → wakat
+  ([compound formation, unstressed vowel reduction](@/languages/hick/early-hick/_index.md#compound-formation))
+  See: [Body Terms](#body-terms)
+- wak'ai [wak.ʔai] "milk" < waka-ahi "breast-water" → wak'ai
+  ([compound formation, vowel coalescence](@/languages/hick/early-hick/_index.md#compound-formation))
+  See: [Body Terms](#body-terms), [Food & Drink](#food--drink)
+- kanmil [kan.mil] "brain" < kan-mil "head-fat" Note: Reflects early anatomical
+  understanding of brain tissue as a fatty substance See:
+  [Food & Consumption Terms](#food--consumption-terms)
+- sat [sat] "appendage; penis" < Proto-Hick \*satu → sat
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic term for appendages, with anatomical extension. Forms compounds
+  for specific body parts. See: [Body Parts](#body-parts)
 
 #### Face Terms
 
@@ -1002,6 +1111,24 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - thal [θal] "side, flank" < Proto-Hick \*thalu → thal
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Landscape Terms](#landforms)
+- vinusam [vi.nu.sam] "shoulder" < PH \*vinu xasamu "yoke rest" Note: Names
+  shoulder for its function as resting place for burdens See:
+  [Body Parts](#body-parts)
+- dorgar [dor.gər] "spine" < dor-gar "back-bone" Note: Transparent descriptive
+  compound See: [Body Parts](#body-parts)
+- kir'irur [kir.ʔi.rur] "ribcage" < kir-'irur "chest-container" Note:
+  Conceptualizes ribcage as a container/basket, parallel to 'irurlis
+  "gourd/container" See: [Food & Consumption Terms](#food--consumption-terms)
+  for 'irurlis
+- kirgar [kir.gər] "rib" < kir-gar "chest-bone" Note: Single bone of the
+  ribcage; plural makirgar for full set of ribs See: [Body Parts](#body-parts),
+  kir'irur "ribcage"
+- brast [brast] "dominant arm" < Proto-Hick \*bara-satu "prominent-appendage" →
+  brast
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Specifically refers to dominant arm, contrasting with ret "arm
+  (general)". Forms verb brast'er "to reach". Cultural link to tak "right
+  (direction)". See: [Body Parts](#body-parts)
 
 #### Internal
 
@@ -1011,6 +1138,15 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - ter [ter] "flow, fluid" < Proto-Hick \*teru → ter
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Water Features](#water-features), [Maritime Terms](#maritime-terms)
+- mel [mel] "tallow, animal fat" < PH melu "liquid" Note: Shows semantic
+  narrowing from general liquid to specifically animal fat See:
+  [Body Parts](#body-parts)
+- kirmel [kir.mel] "chest/organ fat" < kir-mel "chest-fat" Note: Distinguishes
+  valuable internal fat deposits from other types
+- du [du] "meat" < Proto-Hick \*duha → du
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic term for animal flesh as food. Forms compounds with other food
+  terms See: [Body Parts](#body-parts) for muscle/flesh meanings
 
 ### Bodily Functions & States
 
@@ -1087,7 +1223,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 ### Construction Terms
 
-- arasad [a.ra.sad] "plank, cut timber" < Proto-Hick *xarasa-wudu → arasad
+- arasud [a.ra.sud] "plank, cut timber" < Proto-Hick *xarasa-wudu → arasud
   ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From *xaru "cut" + *asa (PERL) + *wudu "wood", literally "cut-through
   wood"
@@ -1097,6 +1233,26 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   "falsehood" derives from concept of deviation in wood grain. See:
   [Construction Terms](#construction--dwelling),
   [Abstract Concepts](#abstract-concepts)
+
+### Vehicular Terms
+
+### Basic Terms
+- tre [tre] "wagon, cart" < Proto-Hick *mataru → matre → tre
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Back-formed from matre through reanalysis of ma- as plural prefix. 
+  See: [Vehicle Terms](#vehicle-terms)
+- mater [ma.ter] "vessel, boat" < Proto-Hick *mataru-heru → mater
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From "vehicle-action", specialized for water transport. Unrelated to 
+  tre/matre despite similar form. See: [Maritime Terms](#maritime-terms)
+
+### Derived Terms
+- matre [ma.tre] "caravan" < ma-tre "plural-wagon" → matre
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Original form from *mataru, reanalyzed as plural compound leading to 
+  back-formation of tre. See: [Vehicle Terms](#vehicle-terms)
+
+
 
 ### Household Terms
 
@@ -1239,6 +1395,20 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al See:
   [Person Terms](#person-terms)
+
+### Social Terms
+
+#### Exchanges
+
+- 'iruretil [ʔi.ru.re.til] "gift" < 'irur-etil "hollow-thing" → 'iruretil
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows cultural link between containers and proper gifts. Always
+  inanimate. See: [Material Culture](#material-culture)
+- 'irursibris [ʔi.rur.sib.ris] "ceremonial gift, dowry" < 'irur-sibris
+  "hollow-love" → 'irursibris
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Used for significant life events and marriage gifts. Shows cultural
+  formalization of gift-giving. See: [Sacred Terms](#sacred--ritual)
 
 ### Kinship Terms
 
@@ -1404,6 +1574,35 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   Note: Formal construction using medial visible inanimate marker -en and elative
   case -imris See: [Sacred Terms](#sacred--ritual), [Construction Terms](#construction--dwelling)
 
+## Demonstratives
+
+- -'is [-ʔis] "this (animate)" < Proto-Hick \*'isa → 'is
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Examples:
+
+  - 'al-'is [ˈʔal.ʔis] "this person" < 'al-'is "person-this"
+  - gal-'is [ˈgal.ʔis] "this man" < gal-'is "man-this"
+
+- -is [-is] "this (inanimate)" < Proto-Hick \*isa → is
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Examples:
+
+  - tal-is [ˈta.lis] "this place" < tal-is "place-this"
+  - mal-is [ˈma.lis] "this pool" < mal-is "pool-this"
+
+- -tan [-tan] "that (animate)" < Proto-Hick \*tana → tan
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Examples:
+
+  - 'al-tan [ˈʔal.tan] "that person" < 'al-tan "person-that"
+  - gal-tan [ˈgal.tan] "that man" < gal-tan "man-that"
+
+- -en [-en] "that (inanimate)" < Proto-Hick \*ena → en
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Examples:
+  - tal-en [ˈta.len] "that place" < tal-en "place-that"
+  - mal-en [ˈma.len] "that pool" < mal-en "pool-that"
+
 ## Derivational Patterns
 
 ### Compound Formation
@@ -1441,6 +1640,17 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   - materok [ˈma.te.ˌrok] "boatman" < mater-ok "vessel-AGENT"
   - wardok [ˈwar.dok] "guide" < ward-ok "direct-AGENT" Note: Receives secondary
     stress in three-syllable words
+
+### Adjectival Prefix ka-
+
+- ka- [ka] "like, having quality of" < Proto-Hick \*kasa → ka
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  Note: Developing from similarity marker to general adjectivizer Examples:
+  - kasul [ka.sul] "energetic" < ka-sul "liver-like"
+  - kames [ka.mes] "emotional" < ka-mes "heart-like"
+  - kamar [ka.mar] "red, ruddy" < ka-mar "blood-like"
+  - kagral [ka.gral] "earthy" < ka-gral "earth-like"
+  - kalis [ka.lis] "clear, obvious" < ka-lis "eye-like"
 
 ## Sound Changes in Compounds
 
