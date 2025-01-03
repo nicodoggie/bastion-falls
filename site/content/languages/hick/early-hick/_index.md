@@ -162,7 +162,7 @@ See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
 
 1. Permitted Diphthongs:
 
-   - Within morphemes: /ai/, /ei/, /ae/
+   - Within morphemes: /ai/, /ei/
    - At morpheme boundaries:
      - /ei-ae/ → [e.e]
      - /ai-ae/ → [ae]
@@ -387,8 +387,8 @@ action is performed.
 
 The spatial cases are:
 
-- -aes (ILL): "inward, into"
-- -imris,-iter (ELL): "outward, from"
+- -las (ILL): "inward, into"
+- -imris (ELL): "outward, from"
 - -itar (SUPE): "upward, upon"
 - -esp (SUB): "under, below"
 - -asam (SUBE): "downward, onto"
@@ -760,7 +760,7 @@ causation.
 
 1. Basic Spatial Cases
 
-   - -aes (ILL): "inward, into"
+   - -las (ILL): "inward, into"
    - -imris (ELL): "outward, from"
    - -itar (SUPE): "upward, upon"
    - -asam (SUBE): "downward, onto"
@@ -769,7 +769,7 @@ causation.
 2. Directional Usage
 
    ```plaintext
-   materok-el rismater-aes
+   materok-el rismater-las
    handler-ERG reed.boat-ILL
    "The handler enters the reed boat"
 
@@ -792,7 +792,7 @@ causation.
    - See: [Adjectival System](#adjectival-morphology) for full details
 
    ```plaintext
-   kamar kel-es kakel-aes
+   kamar kel-es kakel-las
    red sky-ABS blue-ILL
    "red sky turns blue"
    ```
@@ -832,10 +832,10 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
       "sky becomes blue"
       ```
 
-   2. Directional Cases (-aes/-imris):
+   2. Directional Cases (-las/-imris):
 
       ```plaintext
-      kamar kel-es kakel-aes
+      kamar kel-es kakel-las
       red sky-ABS blue-ILL
       "red sky turns blue"
       ```
