@@ -30,7 +30,9 @@
     "path-autocomplete.extensionOnImport": true,
     "path-autocomplete.triggerOutsideStrings": true,
     "path-autocomplete.pathMappings": {
-      "@": "${workspace}/content"
+      "@": "${workspace}/site/content"
+    },
+    "path-intellisense.mappings": {
     }
   }
 }

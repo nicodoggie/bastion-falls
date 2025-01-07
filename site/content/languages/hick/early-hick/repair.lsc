@@ -1,5 +1,5 @@
 # Consonant Features
-Feature place (labial, dental, alveolar, velar, glottal)
+Feature place (labial, palatal, dental, alveolar, velar, glottal)
 Feature manner (stop, fricative, nasal, liquid, glide)
 Feature voicing (voiced, unvoiced)
 
@@ -24,6 +24,7 @@ Symbol k [unvoiced velar stop]
 Symbol g [voiced velar stop]
 Symbol v [voiced labial fricative]
 Symbol θ [unvoiced dental fricative]
+Symbol ð [voiced dental fricative]
 Symbol s [unvoiced alveolar fricative]
 Symbol m [voiced labial nasal]
 Symbol n [unvoiced alveolar nasal]
@@ -33,6 +34,8 @@ Symbol ʔ [unvoiced glottal stop]
 Symbol h [unvoiced glottal fricative]
 Symbol x [voiced glottal fricative]
 Symbol w [voiced labial glide]
+Symbol j [voiced palatal glide]
+
 
 # Vowels
 Symbol i [+high -mid -low +front -central -back]
@@ -42,7 +45,7 @@ Symbol o [-high +mid -low -front -central +back]
 Symbol a [-high -mid +low -front +central -back]
 Symbol ə [+mid -high -low +central -front -back]
 
-Class consonant {p, b, t, d, k, g, v, θ, s, m, n, l, r, ʔ, h, x, w, tʰ}
+Class consonant {p, b, t, d, k, g, v, θ, ð, s, m, n, l, r, ʔ, h, x, w, tʰ, dʰ, j}
 Class initialcluster {pr, br, kr, gr, sk, st, kn, gn, tr, θr}
 Class finalcluster {st, sk, sp, ks, ls, rs}
 Class vowel {i, e, o, a, u, ə}
@@ -50,6 +53,7 @@ Class diphthong {ai, ae, ei}
 
 deromanizer:
   ch => x
+  y => j
 
 # Sindarin comes by after Stage 2 of transition of Proto-Hick to Early Hick
 # Syllable structure is same as Stage 3, basically last stage til Early Hick
@@ -60,6 +64,14 @@ Syllables:
   @initialcluster? @vowel @vowel? @consonant?
   {st,sk,sp,ks,ls,rs} / _ $
 
+compound-nasal-liquid-deletion:
+  {[nasal], [liquid]} => * / @consonant @vowel? $$ _ 
+  {[nasal], [liquid]} => * / _ $$ @consonant
+  Then: (
+    $$ => *
+    [glottal] => * / _ @vowel
+  )
+
 voiced-glottal-repair:
   x => h / $ _ @vowel
   x => k / _ $
@@ -69,6 +81,13 @@ aspiration-repair:
   tʰ => θ ə / [liquid] _ $
   tʰ => θ / [liquid] _ @vowel
   Then: θ [+low] => θ ə
+
+palatal-glide-repair:
+  j => i / _
+
+voiced-dental-repair:
+  ð => dʰ / _ 
+  Then: dʰ => d / @vowel _ @vowel
 
 initial-glottal-fricative-deletion:
   [unvoiced glottal fricative] => * / $ _ @vowel&![+high]

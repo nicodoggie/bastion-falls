@@ -71,6 +71,9 @@ penultimate-stress:
 
 # Stage 1
 
+stage-1:
+  * => * # Placeholder for ease of reference
+
 h-liquid-cleanup cleanup:
   h [liquid] => h * / _
   [liquid] h => * h / _
@@ -108,6 +111,9 @@ stress-shift cleanup:
 
 # Stage 2
 
+stage-2:
+  * => * # Placeholder for ease of reference
+
 unstressed-vowel-reduction:
   [+high +front] => i / [unstressed] _  # /i/ stays /i/
   [+high +back] => u / [unstressed] _   # /u/ stays /u/
@@ -124,7 +130,6 @@ final-vowel-lowering:
   [+mid +front] => [-low -front +central] / _ $
 
 # Stage 3
-
 Syllables:
   @consonant @vowel @consonant? @consonant?
   @consonant @vowel @vowel? @consonant?
@@ -133,6 +138,9 @@ Syllables:
 
 obligatory-onset:
   off
+
+stage-3:
+  * => * # Placeholder for ease of reference
 
 nucleus-repair cleanup:
   @initialcluster * => @initialcluster ə / $ _ <syl> @consonant
@@ -180,6 +188,13 @@ first-syllable-syncope:
 back-vowel-reduction-after-velar-stop:
   [+back] => * / $ [velar stop] _ [nasal]
 
+vowel-coalescence:
+  off
+
+# Stage 4
+stage-4:
+  * => * # Placeholder for ease of reference
+
 cluster-resolution propagate:
   # Case 1: CərC > CrəC when followed by another consonant
   {b,t,θ,k}$1 a r =>  $1 r a / _ {s,t,k}
@@ -198,6 +213,7 @@ final-vowel-transposition:
   {p,b,k,t,θ}$1 {r,n,t,k}$2 ə => $1 ə $2 / _ $ 
   Then: ə => a / _ [fricative] $ 
   Then: ə => e / [stop] _ @consonant
+
 final-vowel-reduction:
   ə => * / _ $ // $ _ $
 

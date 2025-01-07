@@ -671,44 +671,48 @@ mulis-'er [mulis.ʔer] "dreaminɡ"
 tak-er [tak.er] "strike"
 ```
 
-1. Active verbs (from action/motion concepts):
+#### Active verbs (from action/motion concepts):
 
-   ```plaintext
-   ai-es ter-'er
-   water-ABS flow-VERB
-   "Water flows"
+```plaintext
+ai-es ter-'er
+water-ABS flow-VERB
+"Water flows"
 
-   materok-el 'al-es ward-'er
-   handler-ERG person-ABS guide-VERB
-   "The handler guides the person"
-   ```
+materok-el 'al-es ward-'er
+handler-ERG person-ABS guide-VERB
+"The handler guides the person"
+```
 
-   Examples:
+Examples:
 
-   - ter-'er "to flow" (See:
-     [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
-   - thren-'er "to watch" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
-   - ward-'er "to guide"
+- ter-'er "to flow" (See:
+  [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
+- thren-'er "to watch" (See:
+  [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+- ward-'er "to guide"
 
-2. Stative verbs (from property concepts):
+#### Stative verbs (from property concepts):
 
-   ```plaintext
-   tor-thir-es thral-'er
-   peak-KNOWN.ANIM-ABS sacred-VERB
-   "The known peak is sacred"
+Stative verbs are formed from property concepts using the verbalizer -ʔer. In
+order to disambiguate from active verbs, in most cases, the adjectivizer prefix
+ka- is prepended to the verb.
 
-   kel-es mar-'er
-   sky-ABS red-VERB
-   "The sky is red"
-   ```
+```plaintext
+tor-thir-es kathral-'er
+peak-KNOWN.ANIM-ABS ADJ-sacred-VERB
+"The known peak is sacred"
 
-   Examples:
+kel-es ka-mar-'er
+sky-ABS ADJ-red-VERB
+"The sky is red"
+```
 
-   - thral-'er "to be sacred" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
-   - mar-'er "to be red" (See:
-     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+Examples:
+
+- thral-'er "to be sacred" (See:
+  [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+- mar-'er "to be red" (See:
+  [Colors](@/languages/hick/early-hick/lexicon.md#colors))
 
 Note: Interpretation depends on base word semantics:
 
@@ -966,8 +970,8 @@ main ways:
 2. As Predicate Adjectives (with verb marking)
 
    ```plaintext
-   litor-es 'irek'er
-   hill-ABS firm-VERB
+   litor-es ka'irek'er
+   hill-ABS ADJ-firm-VERB
    "The hill is firm" (like English "The tree is tall")
    ```
 
@@ -1059,59 +1063,184 @@ See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
 - Completive aspect (tel)
 - Position effects on temporal interpretation
 
-## Tense and Aspect
+## Tense
 
-1. Past Reference
+Clauses without explicit temporal marking in Early Hick express present tense.
+These unmarked clauses can indicate either simple present ("walks") or present
+progressive ("is walking") readings, with the specific interpretation determined
+by context and predicate semantics. For example:
+
+```plaintext
+'ales      barak'er
+person-ABS walk-VERB
+"The person walks/is walking"
+```
+
+### Tense Markers
+
+When temporal specification is required, Early Hick employs three temporal
+markers that operate at the clause level:
+
+- `branum` (past)
+- `mulsum` (future)
+- `branrum` (far past)
+
+### Usage
+
+In a simple clause, the temporal tense marker can be typically found in the
+beginning or end of the clause.
+
+```plaintext
+branum materok-el  ward-'er
+past   handler-ERG guide-VERB
+"The handler guided (in the past)"
+```
+
+```plaintext
+mulsum materok-el  ward-'er
+future handler-ERG guide-VERB
+"The handler will guide"
+```
+
+In contexts where aesthetic or poetic effect is desired, the marker can be found
+right before the verbal phrase.
+
+```plaintext
+'ales      mulsum barak'er
+person-ABS future walk-VERB
+"The person will walk"
+```
+
+#### Relative Clauses
+
+In relative clauses where the dependent clause refers to a different time frame
+than the main clause, temporal markers may occur after the relativizer. See:
+[Relative Clauses](#relative-clauses)
+
+For example:
+
+```plaintext
+'altanel         ['alises branum thren'er] ward'er
+man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
+"That man who watched, (currently) guides"
+```
+
+```plaintext
+mulsum   'altanel         ['alises branum thren'er] ward'er
+FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
+"That man who watched, will guide"
+```
+
+#### Complex Clauses
+
+When clauses are linked by coordinators, each clause may carry its own temporal
+marking to indicate different time frames:
+
+```plaintext
+[clause + temporal marker] coordinator [clause + temporal marker]
+```
+
+Note that the flexibility of the temporal marker position is still available in
+each clause
+
+### The Distant Past Marker `branrum`
+
+Early Hick has developed a special case marker for use when referring to events
+that had occurred in the distant past. The marker _branrum_ is often only ever
+uttered in either religious contexts or in epic poetry.
+
+When it is used, it functions similarly to the past marker _branum_.
+
+## Aspect
+
+Early Hick aspect markers are typically found following the verbalized word that
+they modify, however, in some aesthetic contexts, they may be placed at the end
+of the clause.
+
+These aspect markers may be used in conjunction with the temporal markers to
+indicate different time frames.
+
+When a clause does not carry an aspect marker, it is understood to be either in
+the simple or the progressive aspect.
+
+### Progressive Aspect Marker `terum`
+
+In cases where the speaker wishes to emphasize ongoing or continuous states, the
+progressive aspect marker `terum` (< `ter` "flow" + `-rum`) can be used. These
+aspect markers may be used in conjunction with the temporal markers to indicate
+different time frames.
+
+```plaintext
+'ales      barak'er  terum
+person-ABS walk-VERB flow.DIST
+"The person is walking"
+
+branum 'ales      barak'er  terum
+PAST   person-ABS walk-VERB flow.DIST
+"The person has been walking"
+```
+
+### Completive Aspect Marker `tel`
+
+The completive aspect marker `tel` indicates finished actions.
+
+```plaintext
+'ales      barak'er  tel
+person-ABS walk-VERB COMPL
+"The person has walked"
+
+branum 'ales      barak'er  tel
+PAST   person-ABS walk-VERB COMPL
+"The person had walked"
+```
+
+### Iterative Aspect
+
+The Early Hick iterative marker works differently from the other aspect markers.
+It instead marks on an action word and replaces the verbalizer _-'er_. It has
+three register-dependent forms, all deriving from Proto-Hick \*heru-heru
+"motion-motion":
+
+1. Formal/Ritual: -'irur
 
    ```plaintext
-   branum materok-el ward-'er
-   past   handler-ERG guide-VERB
-   "The handler guided (in the past)"
+   'ales barak'irur
+   person-ABS walk-ITER
+   "The person walks repeatedly" (formal/ritual context)
    ```
 
-   - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
-     - General past reference and narratives
-   - branrum [bran.rum] "ancestral time" (lit. "dawn-that.DIST.ANIM")
-     - Sacred histories and ancestral stories
-   - Position affects meaning:
-
-     ```plaintext
-     branum bramisimris kethes
-     past   river-ELL    sea-ABS
-     "In the past, the river flowed to the sea" (temporal frame)
-
-     bramisimris branum kethes
-     river-ELL   past   sea-ABS
-     "The river USED TO flow to the sea" (emphasis)
-     ```
-
-2. Future Reference
+2. Common: -rur
 
    ```plaintext
-   mulsum materok-el ward-'er
-   future handler-ERG guide-VERB
-   "The handler will guide"
+   'ales barakrur
+   person-ABS walk.ITER
+   "The person walks repeatedly" (everyday usage)
    ```
 
-   - mulsum [mul.sum] "future" (lit. "night-change-DIST")
-     - Used for both predictions and intentions
-
-3. Completive Aspect
+3. Colloquial: -ur
 
    ```plaintext
-   materok-el rismater-es ward tel
-   handler-ERG reed.boat-ABS guide COMPL
-   "The handler has guided the reed boat"
+   'ales barakur
+   person-ABS walk.ITER
+   "The person walks repeatedly" (casual speech)
    ```
 
-   - tel [tel] "complete, finished"
-   - Always follows main clause
+The development shows typical grammaticalization path:
+
+1. Reduplicated noun \*heru-heru > 'irur "repetition"
+2. Grammaticalization to verbal suffix -'irur
+3. Phonological reduction in common speech (-rur)
+4. Further reduction in colloquial register (-ur)
+
+Note: The formal register preserves the etymological form with glottal stop,
+while common and colloquial registers show progressive reduction typical of
+grammaticalized elements.
 
 ## Interrogatives
 
 1. Basic Forms
 
-   - 'alis [ʔa.lis] "who" < 'aka-'al-is (what-person-PROX.ANIM)
+   - 'alis [ʔaka.lis] "who" < 'aka-'al-'is (what-person-PROX.ANIM)
      - Used for visible/known referents and confirmation
    - 'atal [ʔa.tal] "where" < 'aka-tal-is (what-place-PROX.INAN)
    - 'ater [ʔa.ter] "when" < 'aka-ter-is (what-flow-PROX.INAN)
@@ -1120,14 +1249,14 @@ See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
 
 2. Medial Forms (Hidden but Sensed)
 
-   - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
-   - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
-   - 'atereth [ʔe.te.leθ] < 'aka-ter-eth "when" (sensed time)
+   - 'akaleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
+   - 'akateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
+   - 'akatereth [ʔe.te.leθ] < 'aka-ter-eth "when" (sensed time)
    - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
 
 3. Distal Forms (Out of Sight/Unknown)
 
-   - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
+   - 'akalum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
    - 'aterum [ʔa.te.rum] < 'aka-ter-um "when" (unknown time)
    - 'akerum [ʔa.ke.rum] < 'aka-'er-um "how" (unknown manner)
@@ -1175,10 +1304,10 @@ based on their syntactic role within the relative clause.
 
 2. Interrogative Forms Used
 
-   - 'alis/aleth/alum: "who" (animate referents)
-   - 'atal/ateth/atum: "where" (locations)
-   - 'atel/ateleth/atelum: "when" (time)
-   - 'aker/akereth/akerum: "how" (manner)
+   - alis/aleth/alum: "who" (animate referents)
+   - atal/ateth/atum: "where" (locations)
+   - atel/ateleth/atelum: "when" (time)
+   - aker/akereth/akerum: "how" (manner)
 
 3. Case Marking
 
@@ -1186,7 +1315,7 @@ based on their syntactic role within the relative clause.
    - Main clause maintains independent case marking
 
    ```plaintext
-   'altanel ['alises thren'er] ward'er
+   'altanel [alises thren'er] ward'er
    man-MED.VIS.ANIM [who.ABS watch.VERB] guide.VERB
    "That man who watches guides"
    ```
@@ -1207,6 +1336,29 @@ based on their syntactic role within the relative clause.
    - Relative clause typically precedes its head
    - Internal word order follows main clause patterns
    - Spatial case marking on verbs functions normally
+
+# Dialects
+
+## Inland Dialect
+
+### Case Variation
+
+The standard ellative -imris appears as -iter in some inland dialects, showing
+older forms preserved away from maritime contact. This explains forms like:
+
+- Standard: vinuimris "to give birth" < vinu-imris "pregnancy-ELL"
+- Inland: venuiter "to give birth" < venu-iter "burden-ELL.DIAL"
+
+This dialectal variation is preserved in the formal birthday greeting:
+
+```plaintext
+'ilitar venuiteres
+good-SUPER birth-ELL.DIAL-ABS
+"blessings upon your birth"
+```
+
+Note: The greeting preserves the inland dialect form, suggesting its origin in
+older agricultural communities before maritime trade influence.
 
 # Development Notes
 
@@ -1252,3 +1404,38 @@ place" < PH \*xasamu:
    - Parallel development in compound vinusam "shoulder" (< \*vinu xasamu "yoke
      rest")
    - Maintains unstressed vowel reduction in both uses
+
+### Development of Demonstratives and Perception Verbs
+
+### Development of Demonstratives and Perception Verbs
+
+#### Proximal Demonstrative -is and -'is
+
+The Early Hick proximal demonstrative -is and the verb 'is "see" share a common
+origin in Proto-Hick \*hisu "visible/in sight":
+
+1. Original PH \*hisu had related meanings:
+
+   - Demonstrative: "this one here (that I can see)"
+   - Evidential: "visibly/apparently"
+   - Sensory: "sight/vision"
+
+2. Development paths:
+
+   - Demonstrative: \*hisu > -is (PROX.INAN)
+   - Animate marker: \*hi-'isu > -'is (PROX.ANIM)
+   - Perception: \*hisu > 'is "see"
+
+3. Later developments:
+   - Dialectal \*hilis "look" borrowed to disambiguate active perception
+   - Original \*his reintroduced as "see" to maintain active/passive distinction
+   - Demonstratives -is/-'is retained distinct functions:
+     - -is: proximal inanimate ("this thing here")
+     - -'is: proximal animate ("this person/animal here")
+
+This explains:
+
+- The formal similarity between demonstratives and perception verbs
+- Why there are two demonstrative forms (-is/-'is) with animacy distinction
+- The need for dialectal borrowing to maintain semantic distinctions
+- The preservation of h- in his/hilis despite normal sound changes

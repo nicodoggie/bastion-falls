@@ -34,6 +34,17 @@ For stress-related vowel changes, see:
 
 ## Action Terms
 
+### Basic Actions
+
+- 'ir [ʔir] "movement, motion; action" < Proto-Hick \*heru → 'ir
+  ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Source of verbalizer suffix -'er through grammaticalization. Forms basic
+  verb 'ir'er "to do"
+- tag'er [tag.ʔer] "to make, to craft" < tag-'er "hand-VERB" → tag'er
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows concrete development from manual action to general creation.
+  Contrasts with abstract 'ir'er "to do". See: [Body Parts](#body-parts)
+
 ### Physical Actions
 
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
@@ -60,17 +71,28 @@ For stress-related vowel changes, see:
   Note: Forms two contrasting verbs:
   - hilis'er "to look" (active/intentional seeing)
   - his'er "to see" (passive/unintentional perception)
-- pir'er [pir.ʔer] "to listen" < pir + -'er → pir'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
-  Note: From pir "ear", forms basic perception verb
+- pir'er [pir.ʔer] "to listen" < pir-'er "ear-VERB" → pir'er
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Active perception verb. See: [Body Parts](#body-parts)
+- pirlas'er [pir.las.ʔer] "to hear" < pir-las-'er "ear-ILL-VERB" → pirlas'er
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Passive perception verb using illative to mark reception of sound.
+  Contrasts with active pir'er "listen". See: [Body Parts](#body-parts)
 - kar'er [kar.ʔer] "to smell" < kar-'er "nose-VERB" → kar'er
   ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
 
 ### Motion Actions
 
-- sinas [si.nas] "play; drift, passage" < Proto-Hick *senu-asa-u → sinas
+- 'ir [ʔir] "movement, motion;action" < Proto-Hick \*heru → 'ir
+  ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Source of verbalizer suffix -'er through grammaticalization
+- 'irur [ʔi.rur] "repetition, again" < Proto-Hick *heru-heru → 'irur
+  ([initial fricative change, compound reduction](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From reduplicated form of *heru "action". Forms grammaticalized
+  iterative marker -rur/-ur through phonological reduction
+- sinas [si.nas] "play; drift, passage" < Proto-Hick \*senu-asa-u → sinas
   ([final vowel loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  Note: From *senu "float" + *asa (PERL) + *u (NOM), literally "floating
+  Note: From \*senu "float" + \*asa (PERL) + \*u (NOM), literally "floating
   through"
 
   - Primary meaning: "play", connected to free movement
@@ -97,9 +119,12 @@ For stress-related vowel changes, see:
 
 ### Bodily/Life Actions
 
-- vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
+- vinuimris [vi.nu.im.ris] "to give birth" < vinu + imris (ELL) → vinuimris
   ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  Note: Sacred term for childbirth
+- venuiter [ve.nu.i.ter] "to give birth" < venu-iter "burden-ELL.DIAL"
+  ([dialectal case](@/languages/hick/early-hick/_index.md#case-variations-in-dialects))
+  Note: Inland dialect form preserved in formal greetings, showing retention of
+  older forms away from maritime influence Note: Sacred term for childbirth
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
   ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
@@ -116,7 +141,7 @@ For stress-related vowel changes, see:
 - sinibel [si.ni.bel] "taste" < sin-ibel "float-tongue" → sinibel
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of floating motion to sensory perception
-  See: [Taste Terms](#taste-terms), [Body Terms](#body-terms)
+  See: [Taste Terms](#taste-terms), [Body Parts](#body-parts)
 
 ### Position/Stance Actions
 
@@ -171,6 +196,10 @@ For stress-related vowel changes, see:
 - ar [ar] "cut, cutting action" < Proto-Hick \*xaru → ar
   ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ar'er "to cut"
+- arum [a.rum] "sketch; draw" < Proto-Hick \*xaru-uma → arum
+  ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From "cut" with archaic allative case, showing semantic extension from
+  physical cutting to artistic marking
 - 'irur [ʔi.rur] "hollow" < Proto-Hick \*heru-lumuru → 'irur
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Derived from "act of emptying," reflecting the concept of hollowness.
@@ -223,10 +252,12 @@ For stress-related vowel changes, see:
 - ven [ven] "yoke, burden" < Proto-Hick \*venu → ven
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
-- vinu [vi.nu] "pregnancy" < Proto-Hick \*venu-sedu → vinu
+- vin [vin] "pregnancy" < Proto-Hick \*venu "yoke" → vinu
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
-  Note: From "burden-seed"; shows vowel harmony in compound reduction See:
-  [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  Inland dialects use vinused < \*venu-sedu "burden-seed" See:
+  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual) Note:
+  From "burden-seed"; shows vowel harmony in compound reduction See:
+  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 - pak [pak] "poke" < Proto-Hick \*paku → pak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Tool Terms](#tool-terms)
@@ -248,7 +279,7 @@ For stress-related vowel changes, see:
 - venitar [ve.ni.tar] "to lift" < ven-itar "yoke-SUPER" → venitar
   ([superessive case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Lexicalized from superessive case of "yoke" See: [Verbal Terms](#verbal-terms)
-- vinuitar [vi.nu.i.tar] "to give birth" < vinu-itar "pregnancy-ELL" → vinuiter
+- venuiter [vi.nu.i.ter] "to give birth" < venu-itar "pregnancy-ELL" → venuiter
   ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Lexicalized from ellative case of "pregnancy" See:
   [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual) // ... existing
@@ -361,7 +392,7 @@ For stress-related vowel changes, see:
   ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: Literally "snake in the gut"; metaphorical extension for intense desire
-  See: [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
 ### Sensory Terms
 
@@ -370,13 +401,12 @@ For stress-related vowel changes, see:
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
-- his [his] "sight" < Proto-Hick \*hi-lisu → his
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
-  [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  See: [Sacred Terms](#sacred--ritual)
-- 'ilis [ʔi.lis] "knowledge" < Proto-Hick \*hi-lisu → 'ilis
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  Note: From root meaning 'sight', forms verb 'ilis'er "to know"
+- his [his] "see" < reintroduced Proto-Hick \*hisu "visible/in sight" Note:
+  Reintroduced to maintain distinction from demonstrative -is See:
+  [Sacred Terms](#sacred--ritual)
+- 'ilis [ʔi.lis] "knowledge" < PH \*lisu dialectal borrowing with animacy prefix
+  Note: Borrowed alongside hilis, shows stative/abstract development of
+  perception root Note: From root meaning 'sight', forms verb 'ilis'er "to know"
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -1050,8 +1080,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - bran [bran] "dawn" < Proto-Hick \*branu → bran
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-- takuter [ta.ku.ter] "harmony, attunement" < takutak-ter "rhythm-flow" →
-  takuter
+- takuter [ta.ku.ter] "harmony, attunement" < 3-ter "rhythm-flow" → takuter
   ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: Shows reduction of reduplicated base through compound simplification
   See: [Basic Terms](#basic-terms), [Sacred Terms](#sacred--ritual)
@@ -1108,11 +1137,11 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   See: [Movement Terms](#movement-terms)
 - tag [tag] "hand" < Proto-Hick \*tagu → tag
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  See: [Tool Terms](#tool-terms)
+  Note: Forms verb tag'er "to make". See: [Basic Actions](#basic-actions)
 - mes [mes] "heart" < Proto-Hick \*melisu → mes
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings See:
-  [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 - dak [dak] "stomach, gut" < Proto-Hick \*daluku → dak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
@@ -1142,23 +1171,23 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
 - ret [ret] "arm" < Proto-Hick \*retu → ret
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  See: [Body Terms](#body-terms)
+  See: [Body Parts](#body-parts)
 - trask [trask] "leg" < Proto-Hick \*tarasaku → trask
   ([syncope, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  See: [Body Terms](#body-terms)
+  See: [Body Parts](#body-parts)
 - wak [wak] "breast" < Proto-Hick \*waka → wak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  See: [Body Terms](#body-terms)
+  See: [Body Parts](#body-parts)
 - wak'eth [wak.ʔeθ] "breastfeeding" < waka-ethe "breast-ABL" → wak'eth
   ([compound formation, glottal stop insertion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Nominal form reanalyzed from ablative case See:
-  [Body Terms](#body-terms), [Basic Actions](#basic-actions)
+  [Body Parts](#body-parts), [Basic Actions](#basic-actions)
 - wakat [wa.kat] "nipple" < waka-xitu "breast-knot" → wakat
   ([compound formation, unstressed vowel reduction](@/languages/hick/early-hick/_index.md#compound-formation))
-  See: [Body Terms](#body-terms)
+  See: [Body Parts](#body-parts)
 - wak'ai [wak.ʔai] "milk" < waka-ahi "breast-water" → wak'ai
   ([compound formation, vowel coalescence](@/languages/hick/early-hick/_index.md#compound-formation))
-  See: [Body Terms](#body-terms), [Food & Drink](#food--drink)
+  See: [Body Parts](#body-parts), [Food & Drink](#food--drink)
 - kanmil [kan.mil] "brain" < kan-mil "head-fat" Note: Reflects early anatomical
   understanding of brain tissue as a fatty substance See:
   [Food & Consumption Terms](#food--consumption-terms)
@@ -1261,20 +1290,19 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - imeresp [i.me.resp] "sleep" < imer-esp "breath-under" → imeresp
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of breath/spirit sinking to indicate sleep
-  See: [Spirit Terms](#spirit-terms), [Body Terms](#body-terms)
+  See: [Spirit Terms](#spirit-terms), [Body Parts](#body-parts)
 
 #### Derived Terms
 
-- vinuiter [vi.nu.i.ter] "to give birth" < vinu-iter "pregnancy-ELL" → vinuiter
-  ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
-  Lexicalized from ellative case of "pregnancy" See:
+- vinuimris [vi.nu.im.ris] "to give birth" < vinu-imris "pregnancy-ELL" →
+  vinuimris ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Lexicalized from ellative case of "pregnancy" See:
   [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
-
 - murvinuiter [mur.vi.nu.i.ter] "abortion" < murvinu-imris "stillbirth-ELL" →
   murvinuiter
   ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Uses ellative case to indicate "from/out of stillbirth" See:
-  [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 - pakupak [ˈpa.ku.pək] "tickle" < Proto-Hick \*pakupaku → pakupak
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
@@ -1285,7 +1313,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death See:
-  [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 - mulislas [mu.lis.las] "dream-state" < mulis-las → mulislas
   ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
 - mulisimris [mu.li.sim.ris] "awakening" < mulis-imris → mulisimris
@@ -1293,7 +1321,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - sinibel [si.ni.bel] "taste" < sin-ibel "float-tongue" → sinibel
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of floating motion to sensory perception
-  See: [Taste Terms](#taste-terms), [Body Terms](#body-terms)
+  See: [Taste Terms](#taste-terms), [Body Parts](#body-parts)
 
 ### Architecture
 
@@ -1315,9 +1343,9 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 ### Construction Terms
 
-- arasud [a.ra.sud] "plank, cut timber" < Proto-Hick *xarasa-wudu → arasud
+- arasud [a.ra.sud] "plank, cut timber" < Proto-Hick \*xarasa-wudu → arasud
   ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  Note: From *xaru "cut" + *asa (PERL) + *wudu "wood", literally "cut-through
+  Note: From \*xaru "cut" + \*asa (PERL) + \*wudu "wood", literally "cut-through
   wood"
 - 'it [ʔit] "knot (in wood); falsehood" < Proto-Hick \*xitu → 'it
   ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -1338,10 +1366,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Original form from \*mataru, reanalyzed as plural compound leading to
   back-formation of tre. See: [Vehicle Terms](#vehicle-terms)
-- mater [ma.ter] "vessel, boat" < Proto-Hick *mataru-heru → mater
+- mater [ma.ter] "vessel, boat" < Proto-Hick \*mataru-heru → mater
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "vehicle-action", specialized for water transport. From same root
-  *mataru as tre/matre but with different development. See:
+  \*mataru as tre/matre but with different development. See:
   [Maritime Terms](#maritime-terms)
 
 ### Derived Terms
@@ -1439,6 +1467,24 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   Note: Shows cyclical time through metaphor of countless sacred days See:
   [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
 
+### Musical Terms
+
+#### Basic Terms
+
+- takutak [ˈta.ku.tək] "rhythm" < Proto-Hick \*takutaku → takutak
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Preserves onomatopoeic reduplication
+- 'irur [ʔi.rur] "repetition" < Proto-Hick \*heru-heru → 'irur
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Shows reduplication of root \*heru "action"
+
+#### Instruments
+
+- 'irurtak [ʔi.rur.tak] "drum" < 'irur-tak "hollow-hit" → 'irurtak
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows cultural connection between hollow objects and percussion
+  instruments
+
 ### Person Terms
 
 #### Basic Terms
@@ -1456,7 +1502,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - gal [gal] "man" < Proto-Hick garu + ʔalu → gar'el "hard-person" → gal
 - wen'al [wen.ʔal] "woman" < wen-'al "flower person" → wen'al
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-- 'eldal [ʔel.dal] "elf (individual)" < eldrim-'al "elf-person" → 'eldal
+- 'eldal [ʔl.dal] "elf (individual)" < Quenya elda+'al "elf-person" → 'eldal
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: Borrowing from Sindarin eldrim with native person marker See:
   [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
@@ -1524,7 +1570,21 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al See:
   [Person Terms](#person-terms)
 
+### Communication Terms
+
+- paket [pa.ket] "talk" < Proto-Hick \*pakata → paket
+  ([final vowel loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb paket'er "to speak, to talk" See:
+  [Social Terms](#social-terms)
+
 ### Social Terms
+
+#### Basic Terms
+
+- paket [pa.ket] "talk" < Proto-Hick \*pakata → paket
+  ([final vowel loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Forms verb paket'er "to speak, to talk" See:
+  [Communication Terms](#communication-terms)
 
 #### Love Terms
 
@@ -1706,6 +1766,24 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   - graslas "to herd, take to graze" (from illative: 'into grazing') See also
     [Action Terms](#action-terms)
 
+### Borrowed Terms
+
+#### Elven Borrowings
+
+- toreldal [to.rel.dal] "High Elf" < tor-eldal "AUG-elf" → toreldal
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From first elven migration period, uses native augmentative to
+  distinguish High Elves. Shows cultural perception of their status. See:
+  [Sacred Terms](#sacred--ritual)
+- edel [e.del] "Wood Elf" < Sindarin eðel + pre-Early Hick ʔal → edel
+  ([dental fricative stopping, suffix integration](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From second elven migration period, shows integration of pre-Early Hick
+  sacred suffix. See: [Sacred Terms](#sacred--ritual)
+- ithiril [i.θi.ril] "Dark Elf" < Drow Ilythiiri + pre-Early Hick ʔal → ithiril
+  ([initial syllable loss, vowel reduction, suffix integration](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: From third elven migration period, shows typical sound changes for
+  complex borrowed terms. See: [Sacred Terms](#sacred--ritual)
+
 ## Place Names
 
 - 'eldegral [ʔel.də.gral] "feywild" < eldrim-gral "elf-earth" → 'eldegral
@@ -1879,7 +1957,7 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 ### Greetings & Well-Wishes
 
-- 'al-el 'ilitar vinuitar-es "congratulations on your birth/happy birthday"
+- 'al-el 'ilitar venuiter-es "congratulations on your birth/happy birthday"
   (lit. "person-ERG good-upon birth-ABS") Note: Formal congratulatory expression
   using superessive case See:
   [Case System](@/languages/hick/early-hick/_index.md#case-system)

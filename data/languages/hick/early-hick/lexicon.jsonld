@@ -874,7 +874,7 @@
         "writtenRep": "aitar",
         "phoneticRep": "ai.tar"
       },
-      "lexicalCategory": "lexinfo:Noun",
+      "@type": "ontolex:LexicalEntry",
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "ai-tar",
@@ -5902,6 +5902,176 @@
           "lexinfo:semanticField": [
             "Weather Terms",
             "Regional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:toreldal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "toreldal",
+        "phoneticRep": "to.rel.dal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:tor"
+        },
+        {
+          "@id": "eh:eldal"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-eldal",
+        "etymon:meaning": "AUG-elf",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "From first elven migration period, uses native augmentative to distinguish High Elves",
+        "etymon:period": "pre-Early Hick"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "High Elf",
+            "@language": "en"
+          },
+          "usage": "Shows cultural perception of High Elves through augmentative prefix",
+          "lexinfo:semanticField": [
+            "Peoples",
+            "Cultural Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:arum",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "arum",
+        "phoneticRep": "a.rum"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "xaru-uma",
+        "etymon:gloss": "cut-ALL",
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "compound fusion"
+        ],
+        "etymon:note": "Shows semantic extension from physical cutting to artistic marking"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sketch; draw",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool/Craft Terms",
+            "Artistic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ir",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ir",
+        "phoneticRep": "ʔir"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *heru",
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Source of verbalizer suffix -'er through grammaticalization"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "movement, motion",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'irur",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irur",
+        "phoneticRep": "ʔi.rur"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *heru-heru",
+        "etymon:soundChange": [
+          "initial fricative change",
+          "compound reduction"
+        ],
+        "etymon:note": "From reduplicated form of *heru 'action'. Forms grammaticalized iterative marker -rur/-ur"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "repetition, again",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Grammatical Terms",
+            "Motion Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:paket",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "paket",
+        "phoneticRep": "pa.ket"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *pakata",
+        "etymon:soundChange": [
+          "final vowel loss",
+          "vowel reduction"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "talk",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Communication Terms",
+            "Basic Terms",
+            "Social Terms"
           ]
         }
       ]
