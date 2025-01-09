@@ -8,7 +8,9 @@
     "skos": "http://www.w3.org/2004/02/skos/core#",
     "lime": "http://www.w3.org/ns/lemon/lime#",
     "lexvo": "http://lexvo.org/id/",
-    "dc": "http://purl.org/dc/elements/1.1/"
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dbr": "http://dbpedia.org/resource/",
+    "dcterms": "http://purl.org/dc/terms/"
   },
   "@id": "lexicon:EarlyHick",
   "@type": "lime:Lexicon",
@@ -874,7 +876,6 @@
         "writtenRep": "aitar",
         "phoneticRep": "ai.tar"
       },
-      "@type": "ontolex:LexicalEntry",
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "ai-tar",
@@ -2084,6 +2085,7 @@
         "writtenRep": "tir",
         "phoneticRep": "tir"
       },
+      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Numeral",
       "etymology": {
         "@type": "etymon:Etymology",
@@ -6072,6 +6074,607 @@
             "Communication Terms",
             "Basic Terms",
             "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ilisimris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisimris",
+        "phoneticRep": "ʔi.li.sim.ris"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-imris",
+        "etymon:gloss": "knowledge-ELL",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Shows productive use of ellative for causative meanings"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to teach",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Social Terms",
+            "Action Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ilisok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisok",
+        "phoneticRep": "ʔi.li.sok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-ok",
+        "etymon:gloss": "knowledge-AGENT",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "teacher",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Social Terms",
+            "Occupations"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:vin",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vin",
+        "phoneticRep": "vin"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *venu",
+        "etymon:soundChange": [
+          "vowel harmony",
+          "final vowel loss"
+        ],
+        "etymon:note": "Maritime standard form. Inland dialects preserve venu-sedu > vinused"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "pregnancy",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:ven",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ven",
+        "phoneticRep": "ven"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *venu",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Reintroduced from dialect after original *venu developed into vin"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "yoke, burden",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Tool Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:his",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "his",
+        "phoneticRep": "his"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hisu",
+        "etymon:note": "Reintroduced from dialect to maintain distinction from demonstrative -is",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to see (passive/unintentional perception)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Perception Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:hilis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hilis",
+        "phoneticRep": "hi.lis"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hilisu",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Forms two contrasting verbs: hilis'er (active looking) vs his'er (passive seeing)"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sight, active vision",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Perception Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kur",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kur",
+        "phoneticRep": "kur"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kuru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "moss",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora & Agriculture",
+            "Basic Plant Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "copper",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metals",
+            "Material Culture"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:ger",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ger",
+        "phoneticRep": "ger"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kurger",
+        "etymon:gloss": "moss-stone",
+        "etymon:protoform": "Proto-Hick *kuru-garu",
+        "etymon:soundChange": "compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "metal",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metals",
+            "Material Culture",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kiris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kiris",
+        "phoneticRep": "ki.ris"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kiru-ʔisu",
+        "etymon:components": [
+          "kiru (body)",
+          "ʔisu (out)"
+        ],
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows archaic directional suffix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "outsider",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kiriter",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kiriter",
+        "phoneticRep": "ki.ri.ter"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kir-iter",
+        "etymon:gloss": "body-ELL",
+        "etymon:note": "Borrowed from inland dialects with productive ellative suffix -iter (vs coastal -imris)"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "foreigner, stranger",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:natlas",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "natlas",
+        "phoneticRep": "nat.las"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gnater-las",
+        "etymon:gloss": "desire-ILL",
+        "etymon:soundChange": [
+          "compound fusion",
+          "cluster simplification"
+        ],
+        "etymon:note": "Shows cluster simplification and case lexicalization. From 'one in a state of desire/affection' to 'friend'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "friend",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:vinok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinok",
+        "phoneticRep": "vi.nok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "vin-ok",
+        "etymon:gloss": "pregnancy-AGENT",
+        "etymon:components": [
+          "vin (pregnancy)",
+          "-ok (agentive)"
+        ],
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic extension from agentive to resultative meaning"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "baby, infant",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Kinship Terms",
+            "Life Stages"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:vinlas",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinlas",
+        "phoneticRep": "vin.las"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "vin-las",
+        "etymon:gloss": "pregnancy-ILL",
+        "etymon:components": [
+          "vin (pregnancy)",
+          "-las (illative)"
+        ],
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows lexicalization of case marking spatial relationship"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fetus, unborn child",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Body Terms",
+            "Life Stages"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imlis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlis",
+        "phoneticRep": "im.lis"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-lis",
+        "etymon:gloss": "evil-see",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic development from 'seeing evil' to general fear"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fear, dread",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Mental States"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imlisrur",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlisrur",
+        "phoneticRep": "im.lis.rur"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imlis-rur",
+        "etymon:gloss": "fear-ITER",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows extension of iterative aspect to ongoing mental state"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "anxiety, constant fear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Mental States"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imlis'er",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlis'er",
+        "phoneticRep": "im.li.sʔer"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imlis-'er",
+        "etymon:gloss": "fear-VERB",
+        "etymon:soundChange": "verbalizer suffix",
+        "etymon:note": "Shows natural development from fear to flight response"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to flee, run from fear",
+            "@language": "en"
+          },
+          "usage": "Contrasts with trask'er 'run (neutral)'",
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imlisitar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlisitar",
+        "phoneticRep": "im.li.si.tar"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imlis-itar",
+        "etymon:gloss": "fear-SUPE",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Uses superlative case to indicate sudden upward movement"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to flinch, startle",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Body Actions",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imasam",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imasam",
+        "phoneticRep": "i.ma.sam"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-asam",
+        "etymon:gloss": "evil-rest",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension of 'resting under' to fearful hiding"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to cower, hide from fear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Position Terms",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imasamok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imasamok",
+        "phoneticRep": "i.ma.sa.mok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imasam-ok",
+        "etymon:gloss": "cower-AGENT",
+        "etymon:soundChange": "agentive suffix",
+        "etymon:note": "Shows productive use of agentive suffix with compound base"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "coward",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Character Terms"
           ]
         }
       ]

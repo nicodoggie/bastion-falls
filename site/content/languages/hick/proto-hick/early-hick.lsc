@@ -85,6 +85,7 @@ compound-vowel-deletion:
   @consonant @vowel => @consonant * / _ $$
   Then: $$ => *
   Then: s {[fricative], [glide]} => s * / _
+  Then: θ [stop] => θ * / _
 
 compound-nasal-liquid-deletion:
   {[nasal], [liquid]} => * / @consonant @vowel? $$ _ 
@@ -102,8 +103,12 @@ initial-fricative-change-sacred:
     Then:  l => r / $ θ @vowel _
   )
 
-glottal-devoicing:
-  [voiced glottal] => [unvoiced glottal] / _ @vowel
+initial-glottal-devoicing:
+  [voiced glottal] => [unvoiced glottal] / $ _ @vowel
+  Then: (
+    [unvoiced glottal] => ʔ / $ _ i # voiced glottals don't trigger animacy deletion
+    [unvoiced glottal] => ʔ / $ _ a # voiced glottals don't trigger sacred θ
+  )
 
 stress-shift cleanup:
   [primary] => [unstressed] / _  # Remove all primary stress
@@ -194,6 +199,13 @@ vowel-coalescence:
 # Stage 4
 stage-4:
   * => * # Placeholder for ease of reference
+
+glottal-devoicing:
+  [voiced glottal] => [unvoiced glottal] / _ @vowel
+  Then: (
+    [unvoiced glottal] => ʔ / $ _ i # voiced glottals don't trigger animacy deletion
+    [unvoiced glottal] => ʔ / $ _ a # voiced glottals don't trigger sacred θ
+  )
 
 cluster-resolution propagate:
   # Case 1: CərC > CrəC when followed by another consonant

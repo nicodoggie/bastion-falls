@@ -572,7 +572,7 @@ ancestral lands in Thregel Valley in the western portion of the Rannek March.
   - Domain: Northern Inespell Coast
   - Seat: Eastonton
   - Notable: Harbor-Masters
-
+`
 - House Spellward
 
   - Domain: The Lower Spells

@@ -33,6 +33,7 @@
       "@": "${workspace}/site/content"
     },
     "path-intellisense.mappings": {
-    }
+    },
+    "editor.fontFamily": "'Tengwar Formal CSUR', 'Droid Sans Mono', 'monospace', monospace"
   }
 }

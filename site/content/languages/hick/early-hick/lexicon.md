@@ -116,6 +116,11 @@ For stress-related vowel changes, see:
   Note: Early borrowing from Eldrim, shows cultural contact predating widespread
   horse domestication. See: [Animal Terms](#animals),
   [Motion Actions](#motion-actions)
+- trask'er [tras.kʔer] "to run" < trask-'er "leg-VERB" → trask'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  Note: Shows typical body part → action semantic extension. Forms common
+  compounds: istrask'er "run out", lastrask'er "run in". See:
+  [Motion Actions](#motion-actions), [Body Parts](#body-parts)
 
 ### Bodily/Life Actions
 
@@ -184,6 +189,42 @@ For stress-related vowel changes, see:
   Note: Forms grammaticalized desiderative suffix -nat through phonological
   reduction See: [Basic Terms](#basic-terms),
   [Grammatical Terms](#grammatical-terms)
+- 'ilis [ʔi.lis] "knowledge" < dialectal borrowing with animacy prefix Note:
+  Borrowed alongside hilis, shows stative/abstract development of perception
+  root. See: [Perception Terms](#perception-terms) Forms agent noun 'ilisok
+  "teacher"
+- 'ilisimris'er [ʔi.li.sim.ris.ʔer] "to teach" < 'ilis-imris "knowledge-ELL" →
+  'ilisimris'er
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Literally "to cause knowledge to go out from", showing productive use of
+  ellative for causative meanings. Forms agent noun 'ilisimrisok "teacher"
+- imlis [im.lis] "fear, dread" < im-lis "evil-see" → imlis
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows semantic development from "seeing evil" to general fear. Forms
+  verb imlis'er "to fear". Contrasts with hilis "sight" and 'ilis "knowledge".
+  See: [Emotional Terms](#emotional-terms),
+  [Perception Terms](#perception-terms)
+- imasam [i.ma.sam] "to cower, hide from fear" < im-asam "evil-rest" → imasam
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of "resting under" to fearful hiding. Forms
+  agent noun imasamok "coward". See: [Emotional Terms](#emotional-terms),
+  [Position Terms](#position-terms)
+- imlisrur [im.lis.rur] "anxiety, constant fear" < imlis-rur "fear-ITER" →
+  imlisrur
+  ([iterative suffix](@/languages/hick/early-hick/_index.md#iterative-aspect))
+  Note: Shows semantic extension of iterative aspect to ongoing mental state.
+  Forms verb imlisrur'er "to be anxious". Contrasts with acute imlis "fear".
+  See: [Mental States](#mental-states), [Emotional Terms](#emotional-terms)
+- imlis'er [im.li.sʔer] "to flee, run from fear" < imlis-'er "fear-VERB" →
+  imlis'er
+  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  Note: Shows natural development from fear to flight response. Contrasts with
+  trask'er "run (neutral)". See: [Motion Verbs](#motion-verbs)
+- imlisitar [im.li.si.tar] "to flinch, startle" < imlis-itar "fear-SUPE" →
+  imlisitar
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Uses superlative case to indicate sudden upward movement from fear. See:
+  [Motion Verbs](#motion-verbs), [Body Actions](#body-actions)
 
 ### Construction/Dwelling Actions
 
@@ -203,6 +244,10 @@ For stress-related vowel changes, see:
 - 'irur [ʔi.rur] "hollow" < Proto-Hick \*heru-lumuru → 'irur
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Derived from "act of emptying," reflecting the concept of hollowness.
+- 'ihir [ʔi.hir] "to mine (for ore)" < Proto-Hick \*heru lu xiru → 'ihir
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Literally "move through ore", shows development of specialized mining
+  terminology
 
 ## Core Semantic Fields
 
@@ -272,6 +317,18 @@ For stress-related vowel changes, see:
   - wes'er "to cover, enclose" (with verbalizer -'er)
   - kawes "enclosed" (with adjectival ka-)
 
+#### Basic Properties
+
+- kator [ka.tor] "massive, heavy" < ka-tor "peak-like" → kator
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension from height to mass/weight. See:
+  [Basic Properties](#basic-properties), [Landforms](#landforms)
+- kali [ka.li] "light, small" < ka-li "small-like" → kali
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows reanalysis of diminutive prefix as independent root. See:
+  [Basic Properties](#basic-properties),
+  [Augmentative/Diminutive](#augmentativediminutive)
+
 #### Derived Terms
 
 - ven'er [ven.ʔer] "to carry" < ven-'er "yoke-VERB" → ven'er
@@ -299,6 +356,11 @@ For stress-related vowel changes, see:
   upon". Shows common pattern of case suffixes becoming lexicalized into verbs.
   See: [Position/Stance Actions](#positionstance-actions),
   [Basic Terms](#basic-terms)
+- litil [li.til] "small thing" < li-etil "DIM-thing" → litil
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows productive use of diminutive prefix with basic noun. See:
+  [Basic Terms](#basic-terms),
+  [Augmentative/Diminutive](#augmentativediminutive)
 
 ### Conjunctions
 
@@ -357,6 +419,10 @@ For stress-related vowel changes, see:
 - imurud [i.mu.rud] "falsehood" < imur-wudu "evil-path" → imurud
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows semantic extension from physical to abstract meaning. See:
+  [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+- im'ir [im.ʔir] "ill intent, malice" < im-'ir "evil-action" → im'ir
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of negative prefix with action root. See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 #### Logical Terms
@@ -842,8 +908,17 @@ For stress-related vowel changes, see:
 
 #### Metals
 
-- kur [kur] "copper" < Proto-Hick \*kuru → kur
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+- ger [ger] "metal" < Early Hick kurger "moss-stone" < Proto-Hick \*kuru-garu
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Generalized from copper compound after kur specialized. Shows semantic
+  shift from natural observation (green patina on stones) to material category
+- kur [kur] "copper" < Early Hick kurger "moss-stone" < Proto-Hick \*kuru-garu
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Specialized from first element of copper compound. Original meaning
+  "moss" preserved in inland dialects
+- ir [ir] "iron" < Proto-Hick \*xiru "mined ore" → ir
+  ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Basic term for iron, shows early mining culture
 - tin [tin] "tin" < Proto-Hick \*tinu → tin
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - kurtin [kur.tin] "bronze" < kur-tin "copper-tin" → kurtin
@@ -853,6 +928,10 @@ For stress-related vowel changes, see:
   See: [Colors](#colors)
 - grakur [gra.kur] "grey copper" < gra-kur "grey-copper" → grakur
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- 'ihir [ʔi.hir] "to mine (for ore)" < Proto-Hick \*heru lu xiru → 'ihir
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Literally "move through ore", shows development of specialized mining
+  terminology
 
 #### Maritime Terms
 
@@ -1260,6 +1339,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic term for animal flesh as food. Forms compounds with other food
   terms See: [Body Parts](#body-parts) for muscle/flesh meanings
+- vinlas [vin.las] "fetus, unborn child" < vin-las "pregnancy-ILL" → vinlas
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Shows lexicalization of illative case marking location within. See:
+  [Person Terms](#person-terms), [Body Terms](#body-terms)
 
 #### Derived Terms
 
@@ -1283,10 +1366,12 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - hilis [hi.lis] "sight" < Proto-Hick \*hi-lisu → hilis
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
   [Body Parts](#body-parts)
-- vinu [vi.nu] "pregnancy" < Proto-Hick \*venu-sedu → vinu
+- vin [vin] "pregnancy" < Proto-Hick \*venu "yoke" → vinu
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
-  Note: From "burden-seed"; shows vowel harmony in compound reduction See:
-  [Basic Terms](#basic-terms), [Sacred Terms](#sacred--ritual)
+  Inland dialects use vinused < \*venu-sedu "burden-seed" See:
+  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual) Note:
+  From "burden-seed"; shows vowel harmony in compound reduction See:
+  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 - imeresp [i.me.resp] "sleep" < imer-esp "breath-under" → imeresp
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of breath/spirit sinking to indicate sleep
@@ -1489,16 +1574,20 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 #### Basic Terms
 
-- s [ʔal] "person" < Proto-Hick \*ʔalu → 'al
+- 'al [ʔal] "person" < Proto-Hick hi- animacy marker + Proth-Hick \*ʔalu
+  "person" → 'al
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
   [Political Terms](#political-terms)
 - kir [kir] "body, physical form" < Proto-Hick \*kiru → kir
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
-- sekir [se.kir] "foreigner, stranger" < Proto-Hick \*se-kiru → sekir
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-- kiris [ki.ris] "outsider" < kir-is "body-out" → kiris
+- kiris [ki.ris] "outsider" < Proto-Hick \*kiru-ʔisu "body-out" → kiris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows archaic directional suffix. See: [Person Terms](#person-terms)
+- kiriter [ki.ri.ter] "foreigner, stranger" < Inland Hick kir-iter "body-ELL"
+  Note: Borrowed from inland dialects with productive ellative suffix -iter (vs
+  coastal -imris). Contrasts with archaic kiris. See:
+  [Person Terms](#person-terms), [Directional Terms](#directional-terms)
 - gal [gal] "man" < Proto-Hick garu + ʔalu → gar'el "hard-person" → gal
 - wen'al [wen.ʔal] "woman" < wen-'al "flower person" → wen'al
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
@@ -1510,6 +1599,19 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
   Note: Collective form using agentive suffix to mark social group See:
   [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
+- ma'alok [ma.ʔa.lok] "community member" < ma'al-ok "community-AGENT" → ma'alok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Shows productive use of agentive suffix with collective terms. Compare
+  ma'al "community" and 'al "person". See: [Person Terms](#person-terms),
+  [Political Terms](#political-terms)
+- vinok [vi.nok] "baby, infant" < vin-ok "pregnancy-AGENT" → vinok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Shows semantic extension from agentive to resultative meaning. See:
+  [Person Terms](#person-terms), [Kinship Terms](#kinship-terms)
+- imasamok [i.ma.sa.mok] "coward" < imasam-ok "cower-AGENT" → imasamok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
+  Note: Literally "one who cowers". Shows productive use of agentive suffix with
+  compound base. See: [Person Terms](#person-terms)
 
 #### Spirit Terms
 
@@ -1527,6 +1629,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   See: [Political Terms](#political-terms) Note: Collective term implying
   social/political unity rather than simple plurality
+- vinlas [vin.las] "fetus, unborn child" < vin-las "pregnancy-ILL" → vinlas
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Shows lexicalization of illative case marking location within. See:
+  [Person Terms](#person-terms), [Body Terms](#body-terms) 1
 
 ### Name & Identity Terms
 
@@ -1569,6 +1675,15 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al See:
   [Person Terms](#person-terms)
+- ma'alok [ma.ʔa.lok] "community member" < ma'al-ok "community-AGENT" → ma'alok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Shows productive use of agentive suffix with collective terms. Compare
+  ma'al "community" and 'al "person". See: [Person Terms](#person-terms),
+  [Political Terms](#political-terms)
+- im'irok [im.ʔi.rok] "enemy, adversary" < im'ir-ok "ill.intent-AGENT" → im'irok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Shows productive use of agentive suffix with abstract concepts. See:
+  [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 
 ### Communication Terms
 
@@ -1585,6 +1700,16 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb paket'er "to speak, to talk" See:
   [Communication Terms](#communication-terms)
+- ma'alok [ma.ʔa.lok] "community member" < ma'al-ok "community-AGENT" → ma'alok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Shows productive use of agentive suffix with collective terms. Compare
+  ma'al "community" and 'al "person". See: [Person Terms](#person-terms),
+  [Political Terms](#political-terms)
+- natlas [nat.las] "friend" < gnater-las "desire-ILL" → natlas
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows cluster simplification and case lexicalization. From "one in a
+  state of desire/affection" to "friend". Compare grammaticalized desiderative
+  -nat. See: [Social Terms](#social-terms), [Case System](#case-system)
 
 #### Love Terms
 
@@ -1594,7 +1719,6 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   Note: From "skin-fire", metaphorical extension to passionate but potentially
   fleeting emotion. Contrasts with meris "enduring love". See:
   [Abstract Concepts](#abstract-concepts)
-
 - meris [me.ris] "romantic love" < Proto-Hick \*meru-risu → meris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "heart-towards", metaphorical extension to deep, lasting emotional
@@ -1663,6 +1787,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - linai [li.nai] "aunt (maternal)" < li-nai "lesser-mother" → linai
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- vinok [vi.nok] "baby, infant" < vin-ok "pregnancy-AGENT" → vinok
+  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
+  Note: Shows semantic extension from agentive to resultative meaning. See:
+  [Person Terms](#person-terms), [Kinship Terms](#kinship-terms)
 
 #### Usage Examples
 

@@ -109,9 +109,10 @@ unstressed syllables. See: [Historical Development](#historical-development)
 |            | Labial | Dental | Alveolar | Velar | Glottal |
 | ---------- | ------ | ------ | -------- | ----- | ------- |
 | Stops      | p b    |        | t d      | k g   | '       |
-| Fricatives | f      | θ      | s        |       | h       |
+| Fricatives | f v    | θ      | s        |       | h       |
 | Nasals     | m      |        | n        |       |         |
 | Liquids    |        |        | l r      |       |         |
+| Glides     | w      |        |          |       |         |
 
 Note: The glottal stop is written as <'> in phonemic transcription and [ʔ] in
 phonetic transcription.
@@ -164,7 +165,7 @@ See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
 
    - Within morphemes: /ai/, /ei/
    - At morpheme boundaries:
-     - /ei-ae/ → [e.e]
+     - /ei-ae/ → [ei]
      - /ai-ae/ → [ae]
    - No three-vowel sequences
 
@@ -872,10 +873,12 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 - Basic Pattern: modifier-head
 - Sound changes:
   - Liquid deletion: tor-mal → tomal
-  - Nasal deletion: bram-mal → bramal Examples:
-- kur-tin → kurtin "bronze" (copper-tin)
-- bram-mater → brammater "river vessel" (tide-vessel)
-- thral-kel → thrakel "sun" (sacred-sky)
+  - Nasal deletion: bram-mal → bramal
+  - glottal stop deletion also removes immediately succeeding vowel: 'irur-'ilis → 'irurlis
+  - Examples:
+    - kur-tin → kurtin "bronze" (copper-tin)
+    - bram-mater → brammater "river vessel" (tide-vessel)
+    - thral-kel → thrakel "sun" (sacred-sky)
 
 ### Body Metaphors
 

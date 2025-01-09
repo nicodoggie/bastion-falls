@@ -85,6 +85,8 @@ branrum 'eldalokes bar'erlas talel
 
 branrum ma'al'tales sibris'er
 
+'ilisimris'er 
+
 
 ---
 # Inespell's Giant
