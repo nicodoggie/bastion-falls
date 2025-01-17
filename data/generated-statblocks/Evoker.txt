@@ -1,0 +1,53 @@
+Evoker (CR 3)
+
+Medium Humanoid (Any Race), Neutral Evil
+
+    Armor Class: 12 (15 with Mage Armor)
+    Hit Points: 49 (9d8 + 9)
+    Speed: 30 ft.
+
+STR 10 (+0) | DEX 14 (+2) | CON 12 (+1) | INT 16 (+3) | WIS 12 (+1) | CHA 10 (+0)
+
+Skills: Arcana +5, Perception +3
+Senses: Passive Perception 13
+Languages: Common and one other language
+Challenge: 3 (700 XP)
+
+Sculpt Spells:
+When the evoker casts a spell that forces creatures in an area to make a saving throw, they can choose up to 2 creatures within the area. These creatures automatically succeed on their saving throw and take no damage if they would normally take half damage.
+
+Spellcasting:
+The evoker is a 6th-level spellcaster. Their spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). They have the following spells prepared:
+
+    Cantrips (at will): Fire Bolt, Mage Hand, Prestidigitation
+    1st level (4 slots): Mage Armor, Magic Missile, Shield
+    2nd level (3 slots): Scorching Ray, Misty Step
+    3rd level (3 slots): Fireball, Counterspell
+
+Actions
+
+Fire Bolt (Cantrip):
+
+    Ranged Spell Attack: +5 to hit, range 120 ft., one target.
+    Hit: 9 (2d10) fire damage.
+
+Scorching Ray (2nd-level spell, 3 slots):
+
+    The evoker creates three rays of fire and hurls them at targets within 120 ft. Each ray is a ranged spell attack: +5 to hit.
+    Hit (per ray): 7 (2d6) fire damage.
+
+Fireball (3rd-level spell, 2 slots):
+
+    The evoker hurls a fiery explosion. Each creature in a 20-foot radius must make a DC 13 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much on a success.
+
+Sculpt Spells Interaction: The evoker can shield allies within the Fireball's area, making them automatically succeed their saving throw and take no damage.
+Reactions
+
+Shield (1st-level spell, 2 slots):
+
+    When hit by an attack or targeted by Magic Missile, the evoker raises their AC by 5 until the start of their next turn.
+
+Counterspell (3rd-level spell, 1 slot):
+
+    When another creature casts a spell within 60 feet, the evoker can attempt to interrupt the spell. If the spell is 3rd level or lower, it fails automatically. For higher-level spells, the evoker must succeed on an Intelligence check (DC = 10 + the spell’s level).
+

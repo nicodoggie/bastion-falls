@@ -1,0 +1,79 @@
+Bardic Berserker (CR 7)
+
+Medium Humanoid (Any Race), Chaotic Neutral
+
+    Armor Class: 15 (Unarmored Defense; Dex + Con)
+    Hit Points: 123 (13d8 + 52)
+    Speed: 40 ft.
+
+STR 16 (+3) | DEX 14 (+2) | CON 18 (+4) | INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
+
+Saving Throws: Dex +5, Con +7, Cha +6
+Skills: Acrobatics +5, Performance +6, Intimidation +6
+Damage Resistances: Bludgeoning, piercing, and slashing damage (while raging)
+Senses: Passive Perception 10
+Languages: Common and two other languages
+Challenge: 7 (2,900 XP)
+Features
+
+Rage (3/Day):
+As a bonus action, the Bardic Berserker enters a rage for 1 minute. While raging, they gain the following benefits:
+
+    Advantage on Strength checks and Strength saving throws.
+    Resistance to bludgeoning, piercing, and slashing damage.
+    When making a melee weapon attack using Strength, they gain a +2 bonus to damage rolls.
+
+Reckless Attack:
+When making their first attack on their turn, the Bardic Berserker can attack recklessly, giving them advantage on melee weapon attack rolls using Strength during this turn. However, attack rolls against them also have advantage until the start of their next turn.
+
+Spellcasting:
+The Bardic Berserker is a 6th-level spellcaster. Their spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). They have the following Bard spells prepared:
+
+    Cantrips (at will): Minor Illusion, Vicious Mockery, Prestidigitation
+    1st level (4 slots): Healing Word, Dissonant Whispers, Thunderwave
+    2nd level (3 slots): Shatter, Mirror Image, Hold Person
+    3rd level (3 slots): Hypnotic Pattern, Counterspell
+
+Bardic Inspiration (4/Day):
+As a bonus action, the Bardic Berserker can inspire a creature within 60 feet. The creature can add a 1d8 to one ability check, attack roll, or saving throw within the next 10 minutes.
+
+Unarmored Defense:
+While not wearing armor, their AC equals 10 + Dex modifier + Con modifier.
+
+Jack of All Trades:
+Add +1 to all ability checks that don’t already include their proficiency bonus.
+
+Song of Rest:
+If the Bardic Berserker or friendly creatures spend Hit Dice to regain hit points during a short rest, they regain an additional 1d6 hit points.
+Actions
+
+Multiattack:
+The Bardic Berserker makes two melee weapon attacks.
+
+Greataxe:
+
+    Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+    Hit: 11 (1d12 + 3) slashing damage.
+
+Shatter (2nd-level spell, 3 slots):
+
+    Each creature in a 10-foot-radius sphere must make a DC 14 Constitution saving throw, taking 13 (3d8) thunder damage on a failed save, or half as much on a success.
+
+Hypnotic Pattern (3rd-level spell, 3 slots):
+
+    Create a twisting pattern of colors in a 30-foot cube. Each creature in the area must succeed on a DC 14 Wisdom saving throw or be charmed and incapacitated for the duration.
+
+Reactions
+
+Counterspell (3rd-level spell, 3 slots):
+
+    Interrupt a creature casting a spell. If the spell is 3rd level or lower, it fails automatically. For higher levels, the Bardic Berserker must succeed on a Charisma check (DC = 10 + the spell’s level).
+
+Tactics
+
+    Opening Moves: Start combat with Hypnotic Pattern to neutralize groups of enemies.
+    Sustained Damage: Enter rage and move into melee combat, focusing on high-damage output with Reckless Attack.
+    Defensive Play: Use Mirror Image if overwhelmed or surrounded.
+    Supportive Role: Cast Healing Word or use Bardic Inspiration to aid allies as needed.
+
+This character balances physical resilience with potent spellcasting and crowd control, making them a versatile and thematic foe for a CR 7 encounter.
