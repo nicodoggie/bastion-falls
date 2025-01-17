@@ -5,7 +5,7 @@ title = "The Giant of Inespell"
 
 In the great past, before the Greater Tribe knew of grain and ale.  
 Before the cow and the horse grazed the meadows of Rannek,  
-our people herded goats and marched with the seasons.  
+Our people herded goats and marched with the seasons.  
 
 Upon the Northern Lights, they came
 Riding the Northern Winds, they came.
@@ -30,7 +30,7 @@ But as brothers do, we often did fight
 
 It has come to pass that their true selves were shown
 Interlopers who covet our lands
-For they thought themselves great, they lost their own
+For while they thought themselves great, they lost their own
 
 But as they learned our ways, they grew strong
 And their glamour was beyond our own
@@ -66,47 +66,85 @@ And on that day, we taught them of iron and the fire our rage
 
 # In'isbelul tor'ales
 
-branrum 'atelbran ma'ales bran'er  
-branrum 'ilis'er gransed ma'al'es  
-branrum 'ilis'er tirai ma'al'es  
+branrum 'aterbran ma'alul branes  
+branrum 'ilis'er grasedel ma'al'es  
+branrum 'ilis'er tiraiel ma'al'es  
 
-branrum 'atelbran gras'er makores  
-branrum 'atelbran gras'er torenes  
-branrum 'atelbran sinthir'er tomures  
+branrum 'aterbran gras'er makores  
+branrum 'aterbran gras'er rokes  
+branrum 'aterbran sinthir'er tomures
 
 branrum graslas ma'al'isul torbael  
 mabarak'erlas 'isel thranales  
-grasgralul ranekes weslas  
+ranekul grasgrales weslas  
 
-branrum gralislas ma'altales  
+branrum ma'altallas gralises
 'eldegralen asadimrisitar  
 branrum 'eldalulbreses norath'er  
-branrum 'eldalokes bar'erlas talel  
+branrum 'eldalokes barimris'er talel  
 
-branrum ma'al'tales sibris'er
+branrum ma'altales dakisa'er ma'al'isel
 
-'ilisimris'er 
+'ilisimris'er tamines 'isel  
+'ilisimris'er tales 'isul litharel  
 
+'ilisimris'er kabrastsim gares 'isel  
+'ilisimris'er tales kaward'er 'isul aiel  
+
+'ilisimris'er kathrakelsim wenes 'isel  
+'ilisimris'er tales katagsim wen'er wenel  
+
+'aterimris 'ilisimris'er talel kakulsim 'isel  
+ma'al'isel 'ilisimris'er 'isul gralul thides  
+
+las katorthil altanes, 'al'ises mo'altanesp  
+kakethbran ma'altales branum  
+
+imris kabranlases 'irur'er, kataksim 'ir'er  
+imris branlases 'ir'er, branlases 'irur'er  
+
+branum altalel hisimris'er kathid matallas tel  
+maimwesok 'alises magralnat  
+las 'atertel ma'altalel 'ilislas'er, magralumes hisum'er
 
 ---
+
 # Inespell's Giant
 
-in the distant past, before the dawn of the Greater Tribe
-in the distant past, before we knew of grain
-in the distant past, before we knew of ale
+in the distant past, before the dawn of the Greater Tribe  
+in the distant past, before we knew of grain  
+in the distant past, before we knew of ale  
 
-in the distant past, before the cows grazed
-in the distant past, before the horse grazed
-in the distant past, before the great owl flew
+in the distant past, before the cows grazed  
+in the distant past, before the horse grazed  
+in the distant past, before the great owl flew  
 
-in the distant past, we herded our goats
-we marched with the seasons
-within the meadows of Rannek
+in the distant past, we herded our goats  
+we marched with the seasons  
+within the meadows of Rannek  
 
-in the distant past, they came
-upon the Northern Lights
-in the distant past, they rode the Northern Winds
-in the distant past, Eldhellen they were called
+in the distant past, they came to this land  
+upon the Northern Lights  
+in the distant past, they rode the Northern Winds  
+in the distant past, Eldhellen they were called  
 
-in the distant past, we were infatuated with them
+in the distant past, we were infatuated with them  
 
+They taught us the forge  
+We taught them our stars  
+
+They taught us to craft the stone  
+We taught them to sail our waters  
+
+They taught us to color the flowers  
+We taught them to make them bloom  
+
+Then they taught us glamour  
+We taught them the ways of our world  
+
+Despite their haughtiness, we were not beneath them  
+We were as kin  
+As kin does, we often fought  
+
+they have showed their true selves
+invaders who want our lands
