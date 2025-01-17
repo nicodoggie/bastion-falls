@@ -23,7 +23,7 @@
       "editor.defaultFormatter": "vscode.json-language-features"
     },
     "[markdown]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
       "rewrap.reformat": true,
       "rewrap.autoWrap.enabled": true
     },
@@ -34,6 +34,6 @@
     },
     "path-intellisense.mappings": {
     },
-    "editor.fontFamily": "'Tengwar Formal CSUR', 'Droid Sans Mono', 'monospace', monospace"
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Tengwar Formal CSUR'"
   }
 }

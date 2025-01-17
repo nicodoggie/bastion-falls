@@ -1,4 +1,7 @@
 {
+  "MD003": {
+    "style": "atx"
+  },
   "MD013": {
     "line_length": 80,
     "tables": false
@@ -13,5 +16,8 @@
       "dt",
       "dd"
     ]
+  },
+  "MD055": {
+    "style": "consistent"
   }
 }
