@@ -31,6 +31,7 @@ For stress-related vowel changes, see:
 2. Etymologies are shown in parentheses
 3. Compound derivations are marked with <
 4. Example sentences show full morphological analysis
+5. Apostrophes (') are used to transcribe glottal stops in phonemic transcriptions
 
 ## Action Terms
 
@@ -88,7 +89,7 @@ For stress-related vowel changes, see:
   Note: Source of verbalizer suffix -'er through grammaticalization
 - 'irur [ʔi.rur] "repetition, again" < Proto-Hick *heru-heru → 'irur
   ([initial fricative change, compound reduction](@/languages/hick/early-hick/_index.md#compound-formation))
-  Note: From reduplicated form of *heru "action". Forms grammaticalized
+  Note: From reduplicated form of*heru "action". Forms grammaticalized
   iterative marker -rur/-ur through phonological reduction
 - sinas [si.nas] "play; drift, passage" < Proto-Hick \*senu-asa-u → sinas
   ([final vowel loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -121,6 +122,10 @@ For stress-related vowel changes, see:
   Note: Shows typical body part → action semantic extension. Forms common
   compounds: istrask'er "run out", lastrask'er "run in". See:
   [Motion Actions](#motion-actions), [Body Parts](#body-parts)
+- sinthir [sin.θir] "fly" < sin-thir "float-air" → sinthir
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of floating motion to aerial movement. See:
+  [Motion Actions](#motion-actions), [Basic Terms](#basic-terms)
 
 ### Bodily/Life Actions
 
@@ -173,13 +178,13 @@ For stress-related vowel changes, see:
 
 ### Emotional/Mental Actions
 
-- sibris [si.bris] "infatuation, first love" < Proto-Hick \*silu-hibrisu →
+- sibris [si.bris] "romantic love" < Proto-Hick \*silu-hibrisu →
   sibris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "skin-fire", metaphorical extension to passionate but potentially
   fleeting emotion. Contrasts with meris "enduring love". See:
   [Abstract Concepts](#abstract-concepts)
-- meris [me.ris] "romantic love" < Proto-Hick \*meru-risu → meris
+- meris [me.ris] "unconditional love" < Proto-Hick \*meru-risu → meris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "heart-towards", metaphorical extension to deep, lasting emotional
   bond. Shows archaic lative case usage. See:
@@ -249,6 +254,13 @@ For stress-related vowel changes, see:
   Note: Literally "move through ore", shows development of specialized mining
   terminology
 
+### Conflict Actions
+
+- imwes [im.wes] "invade, encroach upon" < im-wes "evil-enclose" → imwes
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows productive use of im- prefix for harmful actions. Forms verb imwes'er.
+  See: [Action Terms](#action-terms), [Conflict Terms](#conflict-terms)
+
 ## Core Semantic Fields
 
 ### Basic Terms
@@ -259,7 +271,7 @@ For stress-related vowel changes, see:
   ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
-- ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
+- ward [ward] "direct, guide; travel with" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact; right (direction)" < Proto-Hick \*taku → tak
@@ -316,6 +328,21 @@ For stress-related vowel changes, see:
   Examples:
   - wes'er "to cover, enclose" (with verbalizer -'er)
   - kawes "enclosed" (with adjectival ka-)
+- ewes [e.wes] "together with; together" < Proto-Hick *ʔelu-lawes → ewes
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: From instrumental*ʔelu "by means of" + *lawes "consume", showing
+  semantic development from "consuming with" to general accompaniment. Functions
+  both as pre-absolutive adverbial marker and independent lexical item. See:
+  [Basic Terms](#basic-terms), [Grammatical Terms](#grammatical-terms)
+- 'ibri ['ib.ri] "excrement, manure" < Proto-Hick *'ibari → 'ibri
+  ([vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  Note: Basic term for excrement. Forms compounds for agricultural uses. See:
+  [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
+- ul [ul] "grasp; possess, own" < Proto-Hick *ʔulu → ul
+  ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  Note: Source of possessive suffix -ul through grammaticalization. Forms verb
+  ul'er "to grasp, to own". See: [Basic Terms](#basic-terms),
+  [Grammatical Terms](#grammatical-terms)
 
 #### Basic Properties
 
@@ -424,6 +451,11 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of negative prefix with action root. See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+- torthil [tor.θil] "arrogance, haughtiness" < tor-thil "great-virtue" → torthil
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows ironic compound formation - excessive virtue becoming a flaw. Forms
+  verb torthil'er "to be arrogant". See: [Abstract Concepts](#abstract-concepts),
+  [Emotional Terms](#emotional-terms)
 
 #### Logical Terms
 
@@ -450,7 +482,7 @@ For stress-related vowel changes, see:
 
 #### Emotional Terms
 
-- sibris [si.bris] "love" < Proto-Hick \*hibrisu "fire" → sibris
+- sibris [si.bris] "romantic love" < Proto-Hick \*hibrisu "fire" → sibris
   ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
   Note: Metaphorical extension from "fire" to "passion/love" See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -476,6 +508,11 @@ For stress-related vowel changes, see:
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+- hisimris [hi.sim.ris] "show" < his-imris "sight-ELL" → hisimris
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Shows productive use of ellative case for causative meanings. Forms verb
+  hisimris'er "to show". Contrasts with hilis'er "to look". See:
+  [Perception Terms](#perception-terms), [Action Terms](#action-terms)
 
 #### Auditory Perception
 
@@ -685,6 +722,15 @@ For stress-related vowel changes, see:
 - bris [bris] "heat" < Proto-Hick \*brisu → bris
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic term for heat/warmth. See: [Elements](#elements)
+- brises [bri.ses] "light, illumination" < Proto-Hick *brisu-wesu "heat-enclose"
+  → brises ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of "embraced heat" to light/illumination.
+  Forms verb brises'er "to shine". See: [Natural Terms](#natural-terms),
+  [Sacred Terms](#sacred-terms)
+- dup [dup] "pearl; lump, mass" < Proto-Hick *dupu "pearl" → dup
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  Note: Shows semantic extension from "pearl" to general "rounded mass". See:
+  [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 
 #### Derived Terms
 
@@ -812,6 +858,10 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - graswad [gras.wad] "pasture path" < gras-wad "grass-path" → graswad
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+- 'ibri ['ib.ri] "excrement, manure" < Proto-Hick *'ibari → 'ibri
+  ([vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  Note: Basic term for excrement. Forms compounds for agricultural uses. See:
+  [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
 
 #### Garden Terms
 
@@ -846,7 +896,12 @@ For stress-related vowel changes, see:
 
 #### Basic Terms
 
-- thral [θral] "day; sacred, ritual" < Proto-Hick \*thralu → thral
+- tharala [θa.ra.la] "deity" < Proto-Hick *harala "deity" → tharala
+  ([partial sound change](@/languages/hick/early-hick/_index.md#sound-changes))
+  Note: Religious term showing resistance to regular sound changes (only ha- → tha-).
+  Preserved in formal/sacred register. See: [Sacred Terms](#sacred-terms),
+  [Religious Terms](#religious-terms)
+- thral [θral] "day; sacred, ritual" < Proto-Hick \*harala → thral
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
@@ -897,7 +952,7 @@ For stress-related vowel changes, see:
 
 #### Derived Terms
 
-- kathrakel [ka.θra.kel] "radiant, beautiful" < ka-thrakel "sun-like" →
+- kathrakel [ka.θra.kel] "radiant, beautiful; color" < ka-thrakel "sun-like" →
   kathrakel
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From metaphorical extension of thrakel "sun". Shows cultural association
@@ -932,6 +987,12 @@ For stress-related vowel changes, see:
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Literally "move through ore", shows development of specialized mining
   terminology
+- brismal [bris.mal] "forge" < bris-mal "heat-pool" → brismal
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Native term for forge. See: [Tool Terms](#tool-terms)
+- tamin [ta.min] "forge, smithy" < Quenya tamin "forge" → tamin
+  ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
+  Note: Direct borrowing of Eldrim technical term. See: [Tool Terms](#tool-terms)
 
 #### Maritime Terms
 
@@ -1058,6 +1119,9 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 
 ### Equestrian Terms
 
+- rok [rok] "horse" < Sindarin roch → rok
+  ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
+  Note: Shows elvish introduction of horses See: [Animal Terms](#animal-terms)
 - norath [no.raθ] "to ride (a mount)" < Eldrim nortʰa "to make run" → norath
   ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
   Note: Early borrowing from Eldrim, shows cultural contact predating widespread
@@ -1095,11 +1159,11 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 
 With context, the word itself would be enough to mean the color, however to
 disambiguate from other meanings, the
-[Similarity Prefix](@/languages/hick/early-hick#similarity-marking) _ka-_ is
+[Similarity Prefix](@/languages/hick/early-hick#similarity-marking) *ka-* is
 used.
 
 Some color terms do not have other semantic categories, for example 'gra' lost
-other meanings by Early Hick, this _ka-_ is unnecessary.
+other meanings by Early Hick, this *ka-* is unnecessary.
 
 - gra [gra] "grey" < Proto-Hick \*grau → gra
   ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
@@ -1178,7 +1242,13 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 - thurkel [θur.kel] "evening sky" < thur-kel "dusk-sky" → thurkel
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
 - brakel [bra.kel] "morning sky" < bran-kel "dawn-sky" → brakel
-  ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([nasal
+  deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+- lithar [li.θar] "star" < li-tharala "DIM-deity" → lithar
+  ([compound simplification](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows loss of -ala in compound. Stars conceptualized as lesser deities.
+  See: [Celestial Terms](#time--celestial), [Sacred Terms](#sacred-terms),
+  [Diminutive Formation](#diminutive-formation)
 
 ### Body Parts
 
@@ -1392,9 +1462,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
   See: [Basic Terms](#basic-terms)
-
-#### Compound Terms
-
+- gralimris [gra.lim.ris] "excrement" < gral-imris "soil-ELL" → gralimris
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Formal/medical term derived from ellative case of "soil". See:
+  [Medical Terms](#medical-terms), [Body Terms](#body-terms)
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death See:
@@ -1407,6 +1478,53 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of floating motion to sensory perception
   See: [Taste Terms](#taste-terms), [Body Parts](#body-parts)
+- gralimris [gra.lim.ris] "excrement" < gral-imris "soil-ELL" → gralimris
+  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  Note: Formal/medical term derived from ellative case of "soil". See:
+  [Medical Terms](#medical-terms), [Body Terms](#body-terms)
+
+### Speech Terms
+
+#### Basic Terms
+
+- imbel [im.bel] "bad language, swear words" < im-bel "evil-tongue" → imbel
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of "evil tongue" to refer to taboo speech.
+  See: [Body Parts](#body-parts), [Speech Terms](#speech-terms)
+
+#### Taboo Terms
+
+- saw [saw] "shit" < Eldrim saw "filth, putrescence" → saw
+  ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
+  Note: Strong vulgar term, borrowed from Eldrim term of extreme disgust. Shows
+  cultural intensification of borrowed insult. See: [Taboo Terms](#taboo-terms)
+
+### Medical Terms
+
+#### Illness Terms
+
+- imbris [im.bris] "fever, harmful heat" < im-bris "evil-heat" → imbris
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows productive use of im- prefix for negative conditions. See:
+  [Medical Terms](#medical-terms), [Body States](#bodily-functions--states),
+  [Illness Terms](#illness-terms)
+- arsil [ar.sil] "open wound, cut" < ar-sil "cut-skin" → arsil
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Basic term for visible wounds. Forms verb arsil'er "to wound". See:
+  [Medical Terms](#medical-terms), [Body Terms](#body-parts)
+- dup [dup] "pearl; lump, mass" < Proto-Hick *dupu "pearl" → dup
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  Note: Shows semantic extension from "pearl" to general "rounded mass". See:
+  [Body Terms](#body-terms), [Medical Terms](#medical-terms)
+
+#### Injury Terms
+
+- dudup [du.dup] "swollen muscle" < du-dup "flesh-lump" → dudup
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Specific term for muscular swelling. See: [Body Terms](#body-terms)
+- kandup [kan.dup] "head lump, bump on head" < kan-dup "head-lump" → kandup
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Specific term for cranial swelling. See: [Medical Terms](#medical-terms)
 
 ### Architecture
 
@@ -1713,17 +1831,22 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
 
 #### Love Terms
 
-- sibris [si.bris] "infatuation, first love" < Proto-Hick \*silu-hibrisu →
+- sibris [si.bris] "romantic love" < Proto-Hick \*silu-hibrisu →
   sibris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "skin-fire", metaphorical extension to passionate but potentially
   fleeting emotion. Contrasts with meris "enduring love". See:
   [Abstract Concepts](#abstract-concepts)
-- meris [me.ris] "romantic love" < Proto-Hick \*meru-risu → meris
+- meris [me.ris] "unconditional love" < Proto-Hick \*meru-risu → meris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "heart-towards", metaphorical extension to deep, lasting emotional
   bond. Shows archaic lative case usage. See:
   [Abstract Concepts](#abstract-concepts), [Case System](#case-system)
+- dakisa [da.ki.sa] "infatuation" < Proto-Hick \*daluku-isa-hihasa → dakisa
+  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  Note: Literally "snake in the gut"; metaphorical extension for intense desire
+  See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
 #### Exchanges
 
@@ -1736,6 +1859,15 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Used for significant life events and marriage gifts. Shows cultural
   formalization of gift-giving. See: [Sacred Terms](#sacred--ritual)
+
+### Conflict Terms
+
+#### Basic Terms
+
+- imwes [im.wes] "invade, encroach upon" < im-wes "evil-enclose" → imwes
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows productive use of im- prefix for harmful actions. Forms verb imwes'er.
+  See: [Action Terms](#action-terms), [Conflict Terms](#conflict-terms)
 
 ### Kinship Terms
 
@@ -1791,6 +1923,10 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-marking))
   Note: Shows semantic extension from agentive to resultative meaning. See:
   [Person Terms](#person-terms), [Kinship Terms](#kinship-terms)
+- kethbran [keθ.bran] "kin, extended family" < keth-bran "hundred-lineage" → kethbran
+  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  Note: Shows metaphorical extension of "hundred lineages" to mean extended family/kin.
+  See: [Family Terms](#family-terms), [Social Terms](#social-terms)
 
 #### Usage Examples
 
@@ -1845,12 +1981,12 @@ other meanings by Early Hick, this _ka-_ is unnecessary.
   Note: Forms ordinals for inanimate objects. Examples:
   - sineth [si.neθ] "first (of things)" < sin-eth "one-ORD.INAN"
   - tireth [ti.reθ] "second (of things)" < tir-eth "two-ORD.INAN"
-- -thir [-θir] "animate ordinal suffix" < Proto-Hick \*-thiru → -thir
+- -tir [-tir] "animate ordinal suffix" < Proto-Hick \*-thiru → -thir
   ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms ordinals for animate beings, from root meaning "known/visible".
   Examples:
-  - sinthir [sin.θir] "first (of beings)" < sin-thir "one-ORD.ANIM"
-  - tirthir [tir.θir] "second (of beings)" < tir-thir "two-ORD.ANIM"
+  - sintir [sin.tir] "first (of beings)" < sin-tir "one-ORD.ANIM"
+  - tirtir [tir.tir] "second (of beings)" < tir-tir "two-ORD.ANIM"
 
 ### Negation and Opposition
 

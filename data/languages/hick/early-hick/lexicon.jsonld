@@ -1452,32 +1452,52 @@
       "lexicalCategory": "lexinfo:Noun",
       "etymology": {
         "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *thralu",
-        "etymon:soundChange": "final vowel loss"
+        "etymon:protoform": "Proto-Hick *harala",
+        "etymon:gloss": "sun deity",
+        "etymon:soundChange": "regular sound changes"
       },
       "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "sacred, ritual",
+            "@value": "sun; sacred",
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Basic Terms"
+            "Sacred Terms",
+            "Natural Terms"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "@id": "eh:tharala",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tharala",
+        "phoneticRep": "θa.ra.la"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *harala",
+        "etymon:gloss": "deity",
+        "etymon:soundChange": "partial (ha- → tha-)",
+        "etymon:note": "Religious term showing resistance to regular sound changes"
+      },
+      "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "day",
+            "@value": "deity",
             "@language": "en"
           },
-          "usage": "Extended meaning from sacred time to general time unit",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Time Terms"
-          ]
+            "Sacred Terms",
+            "Religious Terms"
+          ],
+          "lexinfo:register": "lexinfo:formalRegister"
         }
       ]
     },
@@ -2085,7 +2105,6 @@
         "writtenRep": "tir",
         "phoneticRep": "tir"
       },
-      "@type": "ontolex:LexicalEntry",
       "lexicalCategory": "lexinfo:Numeral",
       "etymology": {
         "@type": "etymon:Etymology",
@@ -6678,6 +6697,583 @@
           ]
         }
       ]
+    },
+    {
+      "@id": "eh:tamin",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tamin",
+        "phoneticRep": "ta.min"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Quenya tamin",
+        "etymon:gloss": "forge",
+        "etymon:soundChange": "direct borrowing",
+        "etymon:note": "Direct borrowing of Quenya technical term for forge/smithy"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "forge, smithy",
+            "@language": "en"
+          },
+          "usage": "Borrowed technical term from Eldrim metalworking traditions",
+          "lexinfo:semanticField": [
+            "Construction Terms",
+            "Tool Terms",
+            "Borrowed Terms"
+          ],
+          "lexinfo:register": "lexinfo:technicalRegister"
+        }
+      ]
+    },
+    {
+      "@id": "eh:brismal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brismal",
+        "phoneticRep": "bris.mal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bris-mal",
+        "etymon:gloss": "heat-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "forge (native term)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Construction Terms",
+            "Tool Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:arsil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "arsil",
+        "phoneticRep": "ar.sil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ar-sil",
+        "etymon:gloss": "cut-skin",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "open wound, cut",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Medical Terms",
+            "Body Terms",
+            "Injury Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:dup",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dup",
+        "phoneticRep": "dup"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *dupu",
+        "etymon:gloss": "pearl",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Shows semantic extension from 'pearl' to general 'rounded mass'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "pearl; lump, mass",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural Terms",
+            "Medical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:dudup",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dudup",
+        "phoneticRep": "du.dup"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:du"
+        },
+        {
+          "@id": "eh:dup"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "du-dup",
+        "etymon:gloss": "flesh-lump",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "swollen muscle",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Medical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kandup",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kandup",
+        "phoneticRep": "kan.dup"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kan"
+        },
+        {
+          "@id": "eh:dup"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kan-dup",
+        "etymon:gloss": "head-lump",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "head lump, bump on head",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Medical Terms",
+            "Injury Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imbel",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imbel",
+        "phoneticRep": "im.bel"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:im"
+        },
+        {
+          "@id": "eh:bel"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-bel",
+        "etymon:gloss": "evil-tongue",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bad language, swear words",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Speech Terms",
+            "Body Terms",
+            "Taboo Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:saw",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "saw",
+        "phoneticRep": "saw"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Eldrim saw",
+        "etymon:gloss": "filth, putrescence",
+        "etymon:soundChange": "direct borrowing"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shit",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Taboo Terms",
+            "Body Terms"
+          ],
+          "lexinfo:register": "lexinfo:vulgarRegister"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ibri",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ibri",
+        "phoneticRep": "ʔib.ri"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *'ibari",
+        "etymon:soundChange": "vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "manure, fertilizer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Agricultural Terms",
+            "Tool Terms"
+          ],
+          "lexinfo:register": "lexinfo:technicalRegister"
+        }
+      ]
+    },
+    {
+      "@id": "eh:gralimris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gralimris",
+        "phoneticRep": "gra.lim.ris"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gral-imris",
+        "etymon:gloss": "soil-ELL",
+        "etymon:soundChange": "case lexicalization"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "excrement",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Medical Terms",
+            "Body Terms"
+          ],
+          "lexinfo:register": "lexinfo:formalRegister"
+        }
+      ]
+    },
+    {
+      "@id": "eh:lithar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lithar",
+        "phoneticRep": "li.θar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:tharala"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-tharala",
+        "etymon:meaning": "DIM-deity",
+        "etymon:soundChange": "compound simplification (loss of -ala)",
+        "etymon:note": "Stars conceptualized as lesser deities"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "star",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Celestial Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:torthil",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "torthil",
+        "phoneticRep": "tor.θil"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:tor"
+        },
+        {
+          "@id": "eh:thil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-thil",
+        "etymon:meaning": "great-virtue",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows ironic compound formation - excessive virtue becoming a flaw"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "arrogance, haughtiness",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Abstract Concepts",
+            "Emotional Terms"
+          ]
+        }
+      ],
+      "derivation": {
+        "@type": "ontolex:LexicalEntry",
+        "canonicalForm": {
+          "writtenRep": "torthil'er",
+          "phoneticRep": "tor.θil.ʔer"
+        },
+        "definition": "to be arrogant"
+      }
+    },
+    {
+      "@id": "eh:imwes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imwes",
+        "phoneticRep": "im.wes"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:im"
+        },
+        {
+          "@id": "eh:wes"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-wes",
+        "etymon:meaning": "evil-enclose",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows productive use of im- prefix for harmful actions"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "invade, encroach upon",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Action Terms",
+            "Conflict Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:rok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "rok",
+        "phoneticRep": "rok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Sindarin roch",
+        "etymon:meaning": "horse",
+        "etymon:period": "Early Hick"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "horse",
+            "@language": "en"
+          },
+          "usage": "Shows elvish introduction of horses",
+          "lexinfo:semanticField": [
+            "Animals",
+            "Pastoral Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:ul",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ul",
+        "phoneticRep": "ul"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔulu",
+        "etymon:meaning": "grasp",
+        "etymon:soundChange": [
+          "initial glottal loss",
+          "final vowel loss"
+        ],
+        "etymon:note": "Source of possessive suffix -ul through grammaticalization"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grasp",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Action Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "possess, own",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Grammatical Terms"
+          ]
+        }
+      ],
+      "derivation": {
+        "@type": "ontolex:LexicalEntry",
+        "canonicalForm": {
+          "writtenRep": "ul'er",
+          "phoneticRep": "ul.ʔer"
+        },
+        "definition": "to grasp, to own"
+      }
+    },
+    {
+      "@id": "eh:hisimris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hisimris",
+        "phoneticRep": "hi.sim.ris"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:his"
+        },
+        {
+          "@id": "eh:imris"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "his-imris",
+        "etymon:gloss": "sight-ELL",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Shows productive use of ellative case for causative meanings"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "show",
+            "@language": "en"
+          },
+          "usage": "Contrasts with hilis'er 'to look'",
+          "lexinfo:semanticField": [
+            "Perception Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivation": {
+        "@type": "ontolex:LexicalEntry",
+        "canonicalForm": {
+          "writtenRep": "hisimris'er",
+          "phoneticRep": "hi.sim.ris.ʔer"
+        },
+        "definition": "to show"
+      }
     }
   ]
 }

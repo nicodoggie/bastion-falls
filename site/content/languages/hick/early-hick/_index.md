@@ -457,78 +457,18 @@ FUT person-ABS yoke-SUPE
 
 ## Conjunctions
 
-### Additive Coordination
+### Conjunctions
 
-Early Hick uses ru [ru] "and" (< Proto-Hick \*storu "grow") with the particle o
-marking coordinated elements:
+Early Hick has several conjunctions for connecting elements:
 
-```plaintext
-kor o toren o ru-el
-[cow PART horse PART AND]-ERG
-"the cow and horse (as agent)"
-```
+- ru [ru] "and" - general coordinator
+- ewes [e.wes] "together with" - marks shared/joint actions
+- 'aterbran [ʔa.ter.bran] "before" - temporal sequence
+- 'aterimris [ʔa.te.rim.ris] "after" - temporal sequence
+- imris [im.ris] "because" - causal relationships
 
-The coordinator can take case marking to show the role of the coordinated
-phrase:
-
-- ru-el: coordinated elements as agent
-- ru-es: coordinated elements as patient/subject
-
-### Temporal Coordination
-
-Temporal relationships between clauses use specialized coordinators:
-
-- 'aterbran [ʔa.ter.bran] "before" (lit. "what-flow-dawn")
-- 'aterimris [ʔa.te.rim.ris] "after" (lit. "what-flow-from")
-- 'atertel [ʔa.ter.tel] "until" (lit. "what-flow-end")
-
-Dependent clauses use nominalized verbs:
-
-```plaintext
-[kor o toren o] gras'er-es 'aterimris
-[cow PART horse PART] graze-ABS after-ELL
-"after the cow and horse grazed"
-```
-
-Position affects emphasis:
-
-- Initial: sets temporal frame for discourse
-- Final: neutral narrative position
-
-### Causal Subordinator
-
-imris [im.ris] "because" < Proto-Hick \*imeru-ris "towards breath/spirit"
-
-- Functions as a subordinator marking causal relationships
-- Grammaticalized from Proto-Hick compound of *imeru "breath/spirit" + *ris
-  (LAT)
-- Maintains ergative-absolutive alignment in both clauses
-- Can appear clause-initially or between clauses
-
-### Position and Usage
-
-Conjunctions interact with Early Hick's information structure:
-
-1. Can take case marking to show grammatical roles
-2. Initial position emphasizes the relationship
-3. Final position gives neutral narrative flow
-4. With dependent clauses, verbs take nominal form
-
-Examples:
-
-```plaintext
-imris toranes ter'er, 'ales barak'er
-SUB   river-ABS flow-VERB person-ABS walk-VERB
-"Because the river flows, the person walks"
-
-'ales barak'er imris toranes ter'er
-person-ABS walk-VERB SUB river-ABS flow-VERB
-"The person walks because the river flows"
-```
-
-Note: The same form appears as the ellative case marker -imris, showing parallel
-grammaticalization from spatial/directional meaning to both case marking and
-subordination.
+For detailed discussion of conjunction types and usage, see:
+[Syntax: Conjunctions](#conjunctions)
 
 # Morphology
 
@@ -565,12 +505,44 @@ subordination.
 
 ### Number Marking
 
-1. Plural Prefix (ma-)
-   - Basic plural marker
-   - Examples:
-     - mator [ma.tor] "peaks, heights"
-     - makel [ma.kel] "skies"
-   - Interacts with case marking: ma-tor-el (PL-height-ERG)
+Early Hick has three strategies for marking number:
+
+1. Plural Prefix ma-
+   - Indicates general plurality
+   - ma-mater "boats"
+
+2. Partitive Prefix ran- (< *haranu "divide")
+   - Indicates "some of" or "part of"
+   - ran-mater "some boats"
+   - Can develop limiter meaning in context
+
+3. Numerical Marking with ran-
+   - Links numbers to nouns
+   - thal-ran-mater "three boats"
+   - pil-ran-natlas "five friends"
+
+4. Exclusivity Marking telran-
+   The partitive prefix ran- can combine with tel- to form telran-, marking
+   exclusivity:
+
+   These markers are mutually exclusive in the same position class:
+   (NEG)-(ADJ)-(PLURAL/PART/NUM-PART)-(SIZE)-ROOT
+
+   ```plaintext
+   telran-materok
+   EXCL.PART-handler
+   "only the handlers" (specifically excluding non-handlers)
+   ran-materok
+   PART-handler
+   "some handlers" (neutral partitive)
+   ```
+
+   contrasting with the neutral partitive which simply indicates a subset. This
+   distinction is particularly useful in:
+
+   - Social group identification
+   - Professional designations
+   - Ritual contexts
 
 ### Adjectival Marking
 
@@ -621,7 +593,37 @@ had applied to a wide range of concepts, becoming a general adjectivizer.
    ```
 
    Note: In transitive uses, the ergative marks the agent causing the change,
-   while the absolutive marks what undergoes the change.
+   while the absolutive marks what undergoes the change. See also:
+   [Object Control Constructions](#object-control-constructions) for extended
+   use in expressing commands.
+
+#### Adjective Ordering
+
+Multiple ka- adjectives follow this order:
+
+1. Quality/Evaluation (ka-'il "good-like", ka-thral "sacred-like")
+2. Purpose/Association (ka-keth "sea-like", ka-tag "craft-like")
+3. Material Nature (ka-wud "wood-like", ka-sul "flesh-like")
+4. Physical Property (ka-mal "round-like", ka-ris "straight-like")
+
+#### Natural Pattern
+
+The original and common spoken pattern is direct stacking:
+
+ka-'il ka-keth ka-wud ka-mal mater-es
+ADJ-good ADJ-sea ADJ-wood ADJ-round boat-ABS
+"good sea-worthy wooden round boat"
+
+#### Literary Style
+
+After the introduction of Elven writing (c. 800 PF), a formal coordinated style
+developed based on the "o...ru" nominal coordination pattern:
+
+'il o keth o wud o mal ka-es mater-es
+good PART sea PART wood PART round ADJ-ABS boat-ABS
+"good and sea-worthy and wooden and round boat"
+
+This literary innovation appears primarily in written texts and formal speech.
 
 ### Demonstrative System
 
@@ -654,10 +656,24 @@ had applied to a wide range of concepts, becoming a general adjectivizer.
 
 ### Possession Marking
 
-1. Basic Possession
-   - -ul [ul]: possessive suffix Examples:
-   - mater-ul "vessel owner"
-   - thral-ul "ritual keeper"
+The possessive suffix -ul marks ownership and possession relationships:
+
+1. Structure
+   - Suffix -ul attaches to possessor noun
+   - Possessed noun follows directly
+   - No additional marking on possessed noun
+
+   ```plaintext
+   materok-ul rismater 
+   handler-POSS boat
+   "the handler's boat"
+   ```
+
+2. Semantic Range
+   - Physical possession ("X's Y")
+   - Ownership ("belonging to X")
+   - Abstract possession ("X's qualities")
+   - Kinship ("X's relative")
 
 ## Verbal Morphology
 
@@ -672,7 +688,7 @@ mulis-'er [mulis.ʔer] "dreaminɡ"
 tak-er [tak.er] "strike"
 ```
 
-#### Active verbs (from action/motion concepts):
+#### Active verbs (from action/motion concepts)
 
 ```plaintext
 ai-es ter-'er
@@ -692,7 +708,7 @@ Examples:
   [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
 - ward-'er "to guide"
 
-#### Stative verbs (from property concepts):
+#### Stative verbs (from property concepts)
 
 Stative verbs are formed from property concepts using the verbalizer -ʔer. In
 order to disambiguate from active verbs, in most cases, the adjectivizer prefix
@@ -721,41 +737,66 @@ Note: Interpretation depends on base word semantics:
 - Property roots → stative verbs (thral "sacred") (See:
   [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
 
-## Volitional Marker
+### Mood {#morphological-mood}
 
-- **-arm**: Indicates volitional mood, suggesting intention or willingness to
-  perform an action.
+Early Hick marks certain modal meanings through verbal suffixes. For syntactic
+modal constructions, see: [Syntactic Mood](#syntactic-mood)
 
-The -arm suffix replaces the -'er suffix in volitional contexts.
+#### Volitional Marker -'arm
 
-### Usage Example
-
-- **sinasarm**: "let's play" or "let's drift" < sinas-arm "play-VOLITION" →
-  sinasarm
-
-This suffix allows speakers to express a desire or suggestion to perform an
-action, similar to the volitional mood in other languages.
-
-## Desiderative Marker
-
-- **-nat**: Indicates desire or want to perform an action
-- Grammaticalized from full verb gnater "desire"
-- Replaces -'er suffix in desiderative contexts
-
-### Usage Examples
+The volitional suffix -arm (< Proto-Hick *harmu "willing") marks intention or
+willingness. Like other modal suffixes, it replaces the verbalizer -'er:
 
 ```plaintext
-'ales vennat
-person-ABS carry-DESID
-"The person wants to carry"
-materok-el rismater-es wardnat
-handler-ERG reed.boat-ABS guide-DESID
-"The handler wants to guide the reed boat"
+# Intransitive
+'al'ises wardarm
+person.DEM.PROX.ANIM.VIS-ABS guide.VOL
+"I am willing to guide"
+
+# Transitive
+'al'isel threnarm tores
+person.DEM.PROX.ANIM.VIS-ERG watch.VOL mountain.ABS
+"I am willing to watch the mountain"
 ```
 
-Note: Shows semantic development from full verb gnater "desire" to
-grammaticalized suffix through phonological reduction. Maintains
-ergative-absolutive alignment of main clause. ci
+Common forms:
+
+- ward'er → wardarm "willing to guide"
+- thren'er → threnarm "willing to watch"
+- tak'er → takarm "willing to strike"
+
+Note: The volitional often appears in ritual contexts and formal pledges,
+suggesting its historical connection to expressions of sacred duty or
+obligation. See also: [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+
+#### Desiderative Marker -nat
+
+The desiderative suffix -nat (< Proto-Hick *gnar-ter "correct-flow") marks
+desire or intention. It replaces the verbalizer -'er and preserves the
+transitivity of the base verb:
+
+1. With intransitive verbs:
+
+   ```plaintext
+   'al'ises imerespnat
+   person.DEM.PROX.ANIM.VIS-ABS sleep.DES.VERB
+   "I want to sleep"
+   ```
+
+   The sole argument takes absolutive case as expected for S arguments.
+
+2. With transitive verbs:
+
+   ```plaintext
+   'al'isel hilisnat 'altales
+   person.DEM.PROX.ANIM.VIS-ERG look.DES.VERB person.DEM.MED.VIS.ANIM-ABS
+   "I want to see you"
+   ```
+
+   Both A and P arguments maintain regular ergative-absolutive marking.
+
+This construction shows Early Hick's consistent syntactic ergativity, handling
+desires through morphological means rather than control syntax.
 
 ## Spatial Case System
 
@@ -874,11 +915,78 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 - Sound changes:
   - Liquid deletion: tor-mal → tomal
   - Nasal deletion: bram-mal → bramal
-  - glottal stop deletion also removes immediately succeeding vowel: 'irur-'ilis → 'irurlis
+  - glottal stop deletion also removes immediately succeeding vowel: 'irur-'ilis
+    → 'irurlis
   - Examples:
     - kur-tin → kurtin "bronze" (copper-tin)
     - bram-mater → brammater "river vessel" (tide-vessel)
     - thral-kel → thrakel "sun" (sacred-sky)
+  
+#### Action Nominal Compounds
+
+Action nominal compounds require the verbalizer -'er as part of the compound
+structure:
+
+BASE-VERB'er (e.g., mater-tag'er, pel-thren'er)
+
+Unlike regular compounds, action nominals preserve morphological boundaries and
+resist normal compound phonology:
+
+- mater-tag'er → [ma.ter.tag.ʔer] (not *[ma.te.tag.ʔer])
+- pel-thren'er → [pel.θren.ʔer]
+
+This preservation of boundaries:
+
+- Maintains transparency of components
+- Shows clear verbal derivation
+- Parallels treatment of sacred/ritual terms
+- Helps parse complex forms
+
+Compare:
+
+- tor-mal → tomal "great pool" (regular compound)
+- tor-mal'er → tor-mal'er "pool-expanding" (action nominal)
+
+##### Restrictions
+
+1. Base Requirements:
+   - First element must be a concrete noun (*mater-tag'er "boat-making" but
+     not*thral-tag'er "sacred-making")
+   - Second element must be an action-capable root (tag'er "make", thren'er
+     "watch", but not *sul'er "liver-VERB")
+
+2. Semantic Restrictions:
+   - Must describe culturally recognized activities
+   - Cannot form from abstract or metaphorical relationships
+   - Maritime and craft terms particularly productive
+   - Sacred/ritual terms require special authorization
+
+3. Structural Limits:
+   - Maximum of one nominal base + one verbal element
+   - Cannot stack multiple actions (*mater-tag-thren'er)
+   - Cannot incorporate case markers (*materel-tag'er)
+
+Note: For professional or habitual agents, Early Hick uses the agentive suffix
+-ok instead:
+
+- 'irurvinudok "house cleaner" (house-clean-AGENT)
+- matertagok "boat maker" (boat-make-AGENT)
+- pelthrenok "bear watcher" (bear-watch-AGENT)
+
+Action nominals focus on the activity itself, while agentive forms indicate the
+performer of the action.
+
+Note: For professional or habitual agents, Early Hick uses the agentive suffix
+-ok with regular compound formation:
+
+- 'iruvinudok "house cleaner" < 'irur-vinud-ok "hollow-dwelling-AGENT"
+  (with liquid deletion)
+- matagok "boat maker" < mater-tag-ok "boat-make-AGENT" (with liquid deletion)
+- pethrenok "bear watcher" < pel-thren-ok "bear-watch-AGENT" (with liquid deletion)
+
+Action nominals focus on the activity itself and preserve morphological
+boundaries, while agentive forms follow regular compound phonology and indicate
+the performer of the action.
 
 ### Body Metaphors
 
@@ -896,62 +1004,69 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 ### Basic Template
 
 1. Root Structure
-
    - (PREFIX*) + ROOT + (SUFFIX*)
    - Maximum of three prefixes and two suffixes
 
 2. Order of Elements
 
 ```plaintext
-(NEG)-(SIZE)-(SIM)-ROOT-(AGENT)-(CASE)
-
+(NEG)-(ADJ)-(PLURAL)-(SIZE)-ROOT-(AGENT)-(CASE)
 ```
 
 Examples:
 
-- mo-tor-el (NEG-height-ERG) "not the height (as agent)"
-- li-ka-mal-ok-es (DIM-SIM-pool-AGENT-ABS) "small pool-like keeper (as patient)"
-- tor-ka-mal-el (AUG-SIM-pool-ERG) "great pool-like thing (as agent)"
+- mo-ka-tor-el (NEG-ADJ-height-ERG) "not height-like (as agent)"
+- ka-ma-li-mal-ok-es (ADJ-PL-DIM-pool-AGENT-ABS) "small pool-like keepers"
+- ka-tor-mal-el (ADJ-AUG-pool-ERG) "great pool-like thing (as agent)"
 
 ### Prefix Classes
 
 1. Outer Prefixes (first position)
    - mo- (NEG): negation
+
+2. Second Position
+   - ka- (ADJ): adjectivizer
+
+3. Third Position
    - ma- (PL): plural
-2. Middle Prefixes (second position)
+
+4. Inner Prefixes (closest to root)
    - tor- (AUG): augmentative
    - li- (DIM): diminutive
-3. Inner Prefixes (closest to root)
-   - ka- (SIM): similarity
-   - is- (PROX): proximate
-   - eth- (MED): medial
-   - um- (DIST): distal
 
 ### Suffix Classes
 
 1. Inner Suffixes (closer to root)
-
-   - -ok (AGENT): agentive
-   - -er (ACT): active participant
+   - -'er (VERB): verbalizer (See: [Verbal Morphology](#verbal-morphology))
+   - -arm (VOL): volitional (See: [Morphological Mood](#morphological-mood))
+   - -nat (DES): desiderative (See: [Morphological Mood](#morphological-mood))
+   - -ok (AGENT): agentive (See: [Agentive Marking](#agentive-marking))
 
 2. Outer Suffixes (final position)
    - -el (ERG): ergative case
    - -es (ABS): absolutive case
-   - -imris (ELL): ellative case
-   - -aes (ILL): illative case
+   - -imris (ELL): ellative case ("from")
+   - -las (ILL): illative case ("into")
+   - -itar (SUPE): superessive case ("upon")
+   - -esp (SUB): subessive case ("under")
+   - -asam (SUBE): sublative case ("onto")
+   - -sim (TRANS): translative case ("becomes")
+
+   See: [Spatial Case System](#spatial-case-system)
 
 ### Restrictions
 
 1. Co-occurrence
-
    - Only one prefix from each position class
    - Maximum of one case suffix
    - Agent suffix must precede case suffix
 
 2. Phonological Interactions
    - Prefix ka- always reduces to [kə-]
-   - Liquid deletion applies across morpheme boundaries
-   - Nasal deletion applies across morpheme boundaries
+   - Unlike compounds, affixes do not trigger liquid or nasal deletion
+   - Compare:
+     - Compound: tor-mal → tomal "great pool" (liquid deletion)
+     - Affix: tor-el → tor-el "height-ERG" (no deletion)
 
 # Syntax
 
@@ -981,6 +1096,7 @@ main ways:
 3. As Adverbs (modifying verbs)
    - Come after the verb they modify
    - Often take the similarity prefix ka-
+
    ```plaintext
    wen'altanes 'irek'er ka'irek
    woman.MED.VIS.ANIM-ABS stand-VERB firm-SIM
@@ -1031,6 +1147,7 @@ an adjective (before nouns) or an adverb (after verbs).
      ```
 
    - Directional constructions allow goal prominence:
+
      ```plaintext
      keth-aes materok-el rismater-es
      sea-ILL  handler-ERG reed.boat-ABS
@@ -1059,12 +1176,162 @@ an adjective (before nouns) or an adverb (after verbs).
      "The handler guided, in the past"
      ```
 
-See: [Tense and Aspect](#tense-and-aspect) for a complete description of:
+See: [Tense](#tense) and [Aspect](#aspect) for a complete description of:
 
 - Past reference markers (branum, branrum)
 - Future reference (mulsum)
 - Completive aspect (tel)
 - Position effects on temporal interpretation
+
+### Comitative Construction
+
+Early Hick marks accompaniment through the particle ewes, which precedes an
+absolutive-marked participant:
+
+```plaintext
+'al'isel ewes Maries ward'er
+person.DEM.PROX.ANIM.VIS-ERG WITH Mari-ABS travel.VERB
+"I travel with Mari"
+```
+
+The primary participant takes ergative case while the accompanying participant
+is marked absolutive. See also: [Conjunctions](#conjunctions) for coordinated
+usage of ewes.
+
+### Object Control Constructions
+
+Early Hick has two primary strategies for expressing object control ("X tells Y
+to do Z"):
+
+#### Primary Construction: Causative-like Formation
+
+Uses the adjectival prefix ka- with translative -sim to show caused state (See:
+[Adjectival Marking](#adjectival-marking)):
+
+```plaintext
+branum 'al'isel kaimerespsim galtales
+PAST person.PROX.ERG ADJ-sleep-TRANS man.MED.ABS
+"I made him sleep" (lit. "I made him become sleep-like")
+```
+
+The construction maintains ergative-absolutive alignment, with the causer marked
+ergative and the causee marked absolutive.
+
+```plaintext
+ma'altalel 'al'ises 'ilisimris'er [katagsim wen'er wenel]
+PL.person.MED.ERG person.PROX.ABS teach.VERB [ADJ.give.TRANS bloom.VERB flower.ERG]
+"They taught us to make flowers bloom"
+
+'al'isel altales 'ilisimris'er [katagsim sul'er aiel]
+person.PROX.ERG person.MED.ABS teach.VERB [ADJ.give.TRANS flow.VERB water.ERG]
+"I taught them to make the water flow"
+```
+
+The embedded causative maintains its fixed [AUX VERB SUBJ] order even with
+multiple verbs, while the matrix clause remains flexible:
+
+```plaintext
+altales 'al'isel [katagsim sul'er aiel] 'ilisimris'er
+person.MED.ABS person.PROX.ERG [ADJ.give.TRANS flow.VERB water.ERG] teach.VERB
+"Them, I taught to make the water flow"
+```
+
+#### Quotative Strategy
+
+Uses relative clause structure to frame commands as reported speech:
+
+   ```plaintext
+branum 'al'isel ['alises paket'er imerespes!] galtalimrises
+PAST person.PROX.ERG [who.ABS say.VERB sleep.IMP.ABS!] man.MED.ELL.ABS
+"I who said 'sleep!' to him"
+```
+
+Key features:
+
+- Relative clause with 'alis- as relativizer
+- Imperative marked with absolutive -es
+- Recipient marked with ellative -imris
+- Commands treated as affecting their target (like P arguments)
+
+### Reflexive Constructions
+
+Early Hick marks reflexive relationships primarily through case marking and
+demonstrative agreement:
+
+1. Basic Reflexives
+With transitive verbs, the agent takes ergative case and the reflexive object
+takes illative:
+
+   ```plaintext
+   galtalel tallas hilis'er
+   person.MED.ERG MED.ILL look.VERB
+   "He looked at himself"
+
+   ma'altalel matallas pak'er
+   PL.person.MED.ERG PL.MED.ILL speak.VERB
+   "They spoke among themselves"
+   ```
+
+2. Indirect Objects
+For ditransitive verbs, reflexive recipients take illative case:
+
+   ```plaintext
+   'al'isel 'islas taglas'er 'iruretiles
+   person.PROX.ERG PROX.ILL give.ITER.VERB gift.ABS
+   "I gave myself a gift"
+
+   wen'altalel tallas paket'irur
+   woman.MED.ERG MED.ILL talk.ITER
+   "She told herself stories"
+   ```
+
+Key features:
+
+- Demonstrative agreement between agent and reflexive forms
+- Illative case (-las) marks reflexive targets
+- Number agreement maintained in plural forms
+- Regular ergative-absolutive alignment for non-reflexive arguments
+
+### Comparative Constructions
+
+Early Hick has two primary ways to form comparisons, derived from Proto-Hick
+*kasu "reflection":
+
+#### Simple Comparisons
+
+Uses the ka- prefix for straightforward comparisons with single nouns:
+
+```plaintext
+kamales ward'er
+ADJ.pool.ABS contain.VERB
+"(It) contains like a pool"
+kakethbran ma'altales
+ADJ.kin person.MED.ABS
+"They were as kin"
+```
+
+Note: While ka- has developed into a general adjective marker, its comparative
+use remains productive in simple constructions where no scope ambiguity exists.
+
+```plaintext
+kas [kameris kethbranes] tagimris'er
+LIKE [ADJ.love kin.ABS] give.VERB
+"As beloved kin give"
+kas [males 'ilises] ward'er
+LIKE [pool.ABS known.ABS] contain.VERB
+"Like a known pool contains"
+```
+
+The kas construction:
+
+- Takes scope over entire bracketed NP
+- Preserves internal case marking
+- Can include multiple modifiers
+- Often used in poetic or formal contexts
+
+#### Complex Comparisons
+
+Uses kas conjunction for phrases with modifiers or when scope needs to be clear:
 
 ## Tense
 
@@ -1099,7 +1366,7 @@ past   handler-ERG guide-VERB
 "The handler guided (in the past)"
 ```
 
-```plaintext
+   ```plaintext
 mulsum materok-el  ward-'er
 future handler-ERG guide-VERB
 "The handler will guide"
@@ -1108,7 +1375,7 @@ future handler-ERG guide-VERB
 In contexts where aesthetic or poetic effect is desired, the marker can be found
 right before the verbal phrase.
 
-```plaintext
+   ```plaintext
 'ales      mulsum barak'er
 person-ABS future walk-VERB
 "The person will walk"
@@ -1122,16 +1389,16 @@ than the main clause, temporal markers may occur after the relativizer. See:
 
 For example:
 
-```plaintext
+   ```plaintext
 'altanel         ['alises branum thren'er] ward'er
 man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
-"That man who watched, (currently) guides"
+"That man who watches guides"
 ```
 
-```plaintext
+   ```plaintext
 mulsum   'altanel         ['alises branum thren'er] ward'er
 FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
-"That man who watched, will guide"
+"That man who watches guides"
 ```
 
 #### Complex Clauses
@@ -1139,7 +1406,7 @@ FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 When clauses are linked by coordinators, each clause may carry its own temporal
 marking to indicate different time frames:
 
-```plaintext
+   ```plaintext
 [clause + temporal marker] coordinator [clause + temporal marker]
 ```
 
@@ -1187,7 +1454,7 @@ PAST   person-ABS walk-VERB flow.DIST
 
 The completive aspect marker `tel` indicates finished actions.
 
-```plaintext
+   ```plaintext
 'ales      barak'er  tel
 person-ABS walk-VERB COMPL
 "The person has walked"
@@ -1206,7 +1473,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 1. Formal/Ritual: -'irur
 
-   ```plaintext
+     ```plaintext
    'ales barak'irur
    person-ABS walk-ITER
    "The person walks repeatedly" (formal/ritual context)
@@ -1214,7 +1481,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 2. Common: -rur
 
-   ```plaintext
+     ```plaintext
    'ales barakrur
    person-ABS walk.ITER
    "The person walks repeatedly" (everyday usage)
@@ -1222,7 +1489,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 3. Colloquial: -ur
 
-   ```plaintext
+     ```plaintext
    'ales barakur
    person-ABS walk.ITER
    "The person walks repeatedly" (casual speech)
@@ -1238,6 +1505,235 @@ The development shows typical grammaticalization path:
 Note: The formal register preserves the etymological form with glottal stop,
 while common and colloquial registers show progressive reduction typical of
 grammaticalized elements.
+
+## Mood {#syntactic-mood}
+
+Early Hick expresses some modal meanings through syntactic constructions. For
+morphological mood marking, see: [Verbal Mood](#morphological-mood)
+
+### Imperative Construction
+
+Early Hick forms imperatives by dropping the verbalizer -'er and adding
+absolutive -es to the verb stem. The construction shows distinct word order
+and case marking from declarative sentences:
+
+```plaintext
+# Declarative
+'al'isel tor ward'er
+person.ERG mountain guide.VERB
+"The person guides the mountain"
+
+# Imperative
+tor 'il wardes!
+mountain good guide.IMP.ABS
+"guide the mountain well!"
+```
+
+Key features:
+
+1. Object appears first and unmarked for case
+2. Modifiers directly precede the verb
+3. Verb takes absolutive marking
+4. No overt ergative agent
+
+This construction represents one context where Early Hick deviates from its
+ergative-absolutive alignment, showing split ergativity typical of command
+forms.
+
+Examples with different modifiers:
+
+```plaintext
+mes   thral  threndes!
+heart sacred watch.IMP.ABS
+"watch the heart sacredly!"
+materok ka'il    wardes!
+boat    ADJ.good guide.IMP.ABS
+"guide the boat carefully!"
+```
+
+The pattern appears in both formal and informal contexts, including ritual
+expressions:
+
+```plaintext
+'ilitar   venuiteres!
+good.SUPE birth.IMP.ABS
+"(let) birth be raised in goodness!"
+```
+
+### Exclamative Construction
+
+Early Hick marks exclamations through single-word utterances:
+
+1. For actions/verbs, the regular verb form is used:
+
+   ```plaintext
+   imris'er!
+   flee.VERB!
+   "(they're) fleeing!"
+
+   ward'er!
+   guide.VERB!
+   "(they're) guiding!"
+   ```
+
+2. For entities/participants, absolutive marking is used:
+
+   ```plaintext
+   im'etiles!
+   monster.ABS!
+   "a monster!"
+
+   tores!
+   mountain.ABS!
+   "the mountain!"
+   ```
+
+These exclamatives typically express alarm, sudden realization, or strong
+emotion, contrasting with regular declarative sentences which use full
+argument structure.
+
+## Conjunctions
+
+### Additive Coordination
+
+Early Hick marks coordinated elements with the particle o and joins them with
+the coordinator ru (< Proto-Hick *storu "grow"):
+
+```plaintext
+kor o toren o ru-el
+[cow PART horse PART] AND-ERG
+"the cow and horse (as agent)"
+```
+
+The coordinator ru can take case marking to show the role of the coordinated
+phrase:
+
+- ru-el: coordinated elements as agent
+- ru-es: coordinated elements as patient/subject
+
+### Shared Action Coordination
+
+Early Hick can mark joint participation using ewes with the enumeration
+particle o:
+
+   ```plaintext
+'al'is o Mari o ewes-es ward'er
+[person.DEM.PROX.ANIM.VIS PART Mari PART] WITH-ABS travel.VERB
+"I and Mari together travel"
+```
+
+The coordinator ewes takes case marking and treats the coordinated elements as
+a single unit. This construction emphasizes equal participation in the action,
+contrasting with the comitative construction where one participant is marked as
+primary. See: [Comitative Construction](#comitative-construction).
+
+Note: ewes (< Proto-Hick _ʔelu-lawes "consume with") shows parallel
+development with the ergative marker -el, both deriving from Proto-Hick_ʔelu.
+
+### Temporal Coordination
+
+Temporal relationships between clauses use specialized coordinators:
+
+- 'aterbran [ʔa.ter.bran] "before" (lit. "what-flow-dawn")
+- 'aterimris [ʔa.te.rim.ris] "after" (lit. "what-flow-from")
+- 'atertel [ʔa.ter.tel] "until" (lit. "what-flow-end")
+
+Dependent clauses use nominalized verbs:
+
+```plaintext
+[kor o toren o] gras'er-es 'aterimris
+[cow PART horse PART] graze-ABS after-ELL
+"after the cow and horse grazed"
+```
+
+Position affects emphasis:
+
+- Initial: sets temporal frame for discourse
+- Final: neutral narrative position
+
+### Causal Subordinator
+
+imris [im.ris] "because" < Proto-Hick \*imeru-ris "towards breath/spirit"
+
+- Functions as a subordinator marking causal relationships
+- Grammaticalized from Proto-Hick compound of *imeru "breath/spirit" +*ris
+  (LAT)
+- Maintains ergative-absolutive alignment in both clauses
+- Can appear clause-initially or between clauses
+Examples:
+
+```plaintext
+imris torthil, 'al'ises barak'er
+CAUS haughtiness, person.PROX.ABS walk.VERB
+"Because of haughtiness, I walk"
+
+imris ['al'isel ward'er tores], 'al'ises barak'er
+CAUS [person.ERG guide.VERB mountain.ABS], person.PROX.ABS walk.VERB
+"Because they guide the mountain, I walk"
+```
+
+### Concessive Subordinator
+
+las [las] "despite/for all" < Early Hick illative case -las "into"
+
+- Functions as a subordinator marking concessive relationships
+- Grammaticalized from spatial case marking inward motion
+- Can take both nominal and clausal complements
+- Parallels the development of imris
+
+Examples:
+
+```plaintext
+las imerlas, 'al'ises tel'es branum
+CONC inspiration, person.PROX.ABS empty.ABS PAST
+"Despite/For all inspiration, I was empty"
+
+las torthil, 'al'ises barak'er
+CONC haughtiness, person.PROX.ABS walk.VERB
+"Despite haughtiness, I walk"
+
+las ['al'isel ward'er tores], 'al'ises tel'es branum
+CONC [person.ERG guide.VERB mountain.ABS], person.PROX.ABS empty.ABS PAST
+"Despite (that) they guide the mountain, I was empty"
+```
+
+### Position and Usage
+
+Conjunctions interact with Early Hick's information structure:
+
+1. Can take case marking to show grammatical roles
+2. Initial position emphasizes the relationship
+3. Final position gives neutral narrative flow
+4. With dependent clauses, verbs take nominal form
+
+Examples:
+
+```plaintext
+imris toranes ter'er, 'ales barak'er
+SUB   river-ABS flow-VERB person-ABS walk-VERB
+"Because the river flows, the person walks"
+
+'ales barak'er imris toranes ter'er
+person-ABS walk-VERB SUB river-ABS flow-VERB
+"The person walks because the river flows"
+```
+
+Both imris and las can appear clause-finally, especially in literary contexts
+and natural conversation:
+
+```plaintext
+'al'ises tel'es branum, imerlas las
+person.PROX.ABS empty.ABS PAST, inspiration CONC
+"I was empty, despite inspiration"
+
+'al'ises barak'er, ['al'isel ward'er tores] imris
+person.PROX.ABS walk.VERB, [person.ERG guide.VERB mountain.ABS] CAUS
+"I walk, because they guide the mountain"
+```
+
+Note: The same form appears as the ellative case marker -imris, showing parallel
+grammaticalization from spatial/directional meaning to both case marking and
+subordination.
 
 ## Interrogatives
 
@@ -1365,11 +1861,9 @@ older agricultural communities before maritime trade influence.
 
 # Development Notes
 
-## Development Notes
+## Case Development
 
-### Case Development
-
-#### Superessive (-itar)
+### Superessive (-itar)
 
 The Early Hick superessive marker -itar derives from Proto-Hick \*ʔita haranu
 "above the break/horizon":
@@ -1381,7 +1875,7 @@ The Early Hick superessive marker -itar derives from Proto-Hick \*ʔita haranu
    - Semantic broadening from "above horizon" to general "upon/above"
    - Shift from independent word to bound morpheme
 
-#### Ellative (-imris)
+### Ellative (-imris)
 
 The Early Hick ellative marker -imris derives from Proto-Hick \*imeru-ris
 "towards breath/spirit":
@@ -1393,7 +1887,7 @@ The Early Hick ellative marker -imris derives from Proto-Hick \*imeru-ris
    - Parallel development as subordinator "because"
    - Shows common path: body/breath terms → spatial/causal markers
 
-#### Subessive (-asam)
+### Subessive (-asam)
 
 The Early Hick subessive marker -asam derives from the noun asam "rest, resting
 place" < PH \*xasamu:
@@ -1408,11 +1902,9 @@ place" < PH \*xasamu:
      rest")
    - Maintains unstressed vowel reduction in both uses
 
-### Development of Demonstratives and Perception Verbs
+## Development of Demonstratives and Perception Verbs
 
-### Development of Demonstratives and Perception Verbs
-
-#### Proximal Demonstrative -is and -'is
+### Proximal Demonstrative -is and -'is
 
 The Early Hick proximal demonstrative -is and the verb 'is "see" share a common
 origin in Proto-Hick \*hisu "visible/in sight":
@@ -1442,3 +1934,174 @@ This explains:
 - Why there are two demonstrative forms (-is/-'is) with animacy distinction
 - The need for dialectal borrowing to maintain semantic distinctions
 - The preservation of h- in his/hilis despite normal sound changes
+
+## Development of the Ergative Case Marking -el
+
+The Early Hick ergative marker -el derives from Proto-Hick *ʔelu through
+grammaticalization of an instrumental/ablative marker:
+
+1. Sound Changes:
+   - *ʔelu >*lu (loss of initial glottal in unstressed position)
+   - *lu > -el (vowel change in unstressed position)
+
+2. Functional Development:
+   - Original meaning: instrumental/ablative "by means of/from"
+   - Intermediate stage: marks agents as instruments of action
+   - Final stage: general ergative marker
+
+3. Parallel Developments:
+   - Preserved in compound forms like *bahu lu-haranu > bran "branch"
+     (literally "split from father")
+   - Comitative meaning preserved in ewes < *ʔelu-lawes "together with"
+
+## Development of the Imperative Construction
+
+The Early Hick imperative likely developed from a fuller command construction
+with an embedded clause:
+
+1. Original Construction:
+
+   ```plaintext
+   'al'isel 'alises command'er [tores threnes] talimris
+   person.PROX.ERG who.ABS command.VERB [mountain.ABS watch.ABS] MED.ELL
+   "I who command [mountain watching] to you"
+   ```
+
+2. Modern Imperative:
+
+   ```plaintext
+   tor threndes!
+   mountain watch.IMP.ABS
+   "watch the mountain!"
+   ```
+
+This development explains several features of the modern construction:
+
+- Absolutive marking on the verb (-es) preserves the original nominalized
+  action's case
+- Unmarked object reflects its position in the original embedded clause
+- Word order maintains the original embedded clause structure
+
+The pattern parallels the preserved quotative construction (see:
+[Quotative Strategy](#quotative-strategy)), suggesting a common origin for
+different command expressions in Early Hick.
+
+## Modal Construction Development
+
+Early Hick shows evidence of modal expressions developing from embedded clause
+constructions, with register distinctions preserving both older and
+grammaticalized forms. These formal variants make extensive use of relative
+clauses (see: [Relative Clauses](#relative-clauses)):
+
+### Commands
+
+Formal/Literary:
+
+```plaintext
+'al'isel ['alises command'er tores threnes] talimris
+person.ERG [who.ABS command.VERB mountain.ABS watch.ABS] MED.ELL
+"I who command mountain-watching to you"
+```
+
+Colloquial:
+
+```plaintext
+tor threndes!
+mountain watch.IMP.ABS
+"watch the mountain!"
+```
+
+### Desires
+
+Formal/Literary:
+
+```plaintext
+'al'isel ['alises gnar'er ward'er] talimris
+person.ERG [who.ABS correct.VERB guide.VERB] MED.ELL
+"I who intend guiding to you"
+```
+
+Colloquial:
+
+```plaintext
+'al'isel wardnat
+person.ERG guide.DES
+"I want to guide"
+```
+
+This pattern of preserving older relative clause constructions in formal
+registers while using grammaticalized forms in colloquial speech appears to be
+a regular feature of Early Hick's historical development. The use of 'alis- as
+a relativizer in these formal constructions follows the standard relative
+clause pattern.
+
+### Development of Comparative Markers
+
+Proto-Hick *kasu "reflection (on water/mirror surface)" developed into two
+distinct but related markers in Early Hick, with one further developing into
+the general adjective marker.
+
+#### kas (Comparative Conjunction)
+
+- Direct development from *kasu
+- Retains original sense of "mirror/reflection"
+- Grammaticalized as comparative conjunction "like/as"
+- Used with complex noun phrases: kas [NP] VERB
+- Maintains clear scope over entire phrases
+- Examples:
+
+  ```plaintext
+  kas [kameris kethbranes] tagimris'er
+  LIKE [ADJ.love kin.ABS] give.VERB
+  "As beloved kin give"
+  ```
+
+#### ka- Development Path
+
+1. Early Stage: Comparative Prefix
+   - Developed from kas through fusion
+   - Used in simple noun comparisons
+   - No scope beyond single noun
+   - Examples:
+
+     ```plaintext
+     kamales ward'er
+     ADJ.pool.ABS contain.VERB
+     "(It) contains like a pool"
+     ```
+
+2. Middle Stage: Similarity Marker
+   - Semantic broadening from "like X" to "X-like"
+   - Used to mark general similarity
+   - Examples:
+
+     ```plaintext
+     kakethbran ma'altales
+     ADJ.kin person.MED.ABS
+     "kin-like people"
+     ```
+
+3. Late Stage: Adjective Marker
+   - Further grammaticalization into general adjective prefix
+   - Marks derived adjectives from nouns
+   - Most common use in modern Early Hick
+   - Original comparative meaning still visible in some constructions
+   - Examples:
+
+      ```plaintext
+      kameris ales
+      ADJ.love person.ABS
+      "beloved person"
+      ```
+
+### Development of the possession marker -ul
+
+The possessive suffix derives from Proto-Hick *ʔulu "grasp, hold":
+
+1. Historical Path
+   - PH *ʔulu "grasp, hold" > EH ul "grasp; possess, own"
+   - Grammaticalized to suffix -ul marking possession
+   - Original verb survives as ul'er "to grasp, to own"
+
+This grammaticalization path (grasp > possess > possessive marker) is cross-
+linguistically common, similar to developments seen in other language families.

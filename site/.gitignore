@@ -1,3 +1,6 @@
 public/
 static/assets
 static/processed_images/
+content/languages/**/*_ev.wli
+content/languages/**/*_ev.wlm
+content/languages/**/*_errors.wli

@@ -441,14 +441,14 @@ the dental fricative:
 
 ## Directional System Development
 
-1. Illative (-aes)
+1. Illative (-las)
    - From Proto-Hick \*lawes "consume/take in"
    - Sound changes:
-     - *lawes > *laes > -aes
+     - *lawes >*laes > -las
    - Parallel development with \*wel > bel "mouth"
    - Original compound: \*wel-lawes "mouth-consume"
      - > *wellaes > *belaes "intake"
-     - Grammaticalized to directional marker -aes
+     - Grammaticalized to directional marker -las
 2. Ellative (-imris)
    - From compound: *imer "breath" + *is "out"
    - Shows parallel grammaticalization:
