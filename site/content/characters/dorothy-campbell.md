@@ -16,7 +16,7 @@ families = ["Highbury"]
 parents = ["Charlottel Highbury", "Torch"]
 children = []
 siblings = []
-organizations = ["Hags of Hama"]
+organizations = ["Hags of Hama", "Legally Bare"]
 ethnicities = ["Seneran"]
 species = ["Human"]
 +++

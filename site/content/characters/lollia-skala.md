@@ -3,7 +3,7 @@ title = "Lollia Skala"
 [extra]
 cha.aliases = ["Beloved Nurse Lollia"]
 [taxonomies]
-organizations = ["Nightshift Nurses"]
+organizations = ["Nightshift Nurses", "Legally Bare"]
 +++
 
 {{ stub() }}
