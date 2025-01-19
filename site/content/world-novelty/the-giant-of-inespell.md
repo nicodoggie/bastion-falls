@@ -146,5 +146,5 @@ Despite their haughtiness, we were not beneath them
 We were as kin  
 As kin does, we often fought  
 
-they have showed their true selves
-invaders who want our lands
+They have showed their true selves
+Invaders who want our lands
