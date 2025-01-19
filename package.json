@@ -3,43 +3,43 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "zola-bin -r site serve --fast",
+    "dev": "zola -r site serve --fast",
     "dev:template": "concurrently \"zola-bin -r site serve\" \"pnpm --dir zola/themes/bastion-react dev\"",
     "dev:container": "zola-bin -r site serve --interface 0.0.0.0 --port 8000",
     "dev:codespace": "zola-bin -r site serve --fast --interface 0.0.0.0 --port 8000 --base-url / --no-port-append",
-    "build": "zola-bin -r site build",
+    "build": "zola -r site build",
     "serve": "concurrently \"pnpm family\" \"pnpm dev\"",
     "deploy": "wrangler pages deploy site/public --project-name bastion-falls",
     "family": "./kingraph.cjs"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.3.0",
-    "@commitlint/config-conventional": "^19.2.2",
-    "@eslint/js": "^9.17.0",
-    "@eslint/json": "^0.9.0",
+    "@commitlint/cli": "^19.6.1",
+    "@commitlint/config-conventional": "^19.6.0",
+    "@eslint/js": "^9.18.0",
+    "@eslint/json": "^0.9.1",
     "@nicodoggie/bf-repo-tools": "workspace:*",
     "@nicodoggie/kingraph": "^0.3.0",
     "@types/nodemon": "^1.19.2",
     "concurrently": "^8.0.1",
-    "eslint": "^9.17.0",
+    "eslint": "^9.18.0",
     "globals": "^15.14.0",
     "js-sha256": "^0.11.0",
-    "lefthook": "^1.6.10",
+    "lefthook": "^1.10.8",
     "markdownlint": "^0.34.0",
     "markdownlint-cli": "^0.41.0",
-    "nodemon": "^3.1.0",
-    "prettier": "^3.3.2",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2",
     "ts-node": "^10.9.1",
-    "typescript-eslint": "^8.19.0",
-    "wrangler": "^3.53.0",
+    "typescript-eslint": "^8.20.0",
+    "wrangler": "^3.103.1",
     "yarpm": "^1.2.0",
     "zola-bin": "^0.3.7"
   },
   "volta": {
     "node": "20.11.1",
-    "pnpm": "9.15.2"
+    "pnpm": "9.15.4"
   },
   "dependencies": {
-    "llamaindex": "^0.3.14"
+    "llamaindex": "^0.3.17"
   }
 }
