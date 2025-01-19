@@ -4,7 +4,7 @@ title = "Surrey-on-the-Brams"
 population = "~450,000"
 [taxonomies]
 location_type = ["island"]
-parent_location = ["Brams River", "Senera"]
+parent_location = ["Brams River", "Inespell March", "Eastern Senera", "Senera"]
 +++
 
 **Surrey-on-the-Brams** is a large island situated where the
