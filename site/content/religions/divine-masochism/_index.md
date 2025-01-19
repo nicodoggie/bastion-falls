@@ -1,6 +1,5 @@
 +++
 title = "Divine Masochism"
-slug = "divine-masochism"
 render = true
 +++
 

@@ -1,9 +1,10 @@
 +++
 title = "Middle Hick"
 weight = 2
-[taxonomies]
-parent_languages = ["Early Hick"]
+[extra]
 tags = ["languages", "pre-kalassarian", "senera", "maritime", "extinct"]
+[extra.taxonomies]
+parent_languages = ["Early Hick"]
 +++
 
 # Overview

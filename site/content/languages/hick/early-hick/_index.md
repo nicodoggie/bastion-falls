@@ -2,9 +2,11 @@
 title = "Early Hick"
 description = "Pre-Kalassarian language of Senera, preserved in place names and maritime terminology"
 weight = 1
-[taxonomies]
-parent_languages = ["Proto-Hick"]
+
+[extra]
 tags = ["languages", "pre-kalassarian", "senera", "maritime", "extinct"]
+[extra.taxonomies]
+parent_languages = ["Proto-Hick"]
 +++
 
 # Overview
@@ -1739,7 +1741,8 @@ subordination.
 
 1. Basic Forms
 
-   - 'alis [ʔaka.lis] "who" < 'aka-'al-'is (what-person-PROX.ANIM)
+   - 'aka [ʔa.ka] "what"
+   - 'alis [ʔa.lis] "who" < 'aka-'al-'is (what-person-PROX.ANIM)
      - Used for visible/known referents and confirmation
    - 'atal [ʔa.tal] "where" < 'aka-tal-is (what-place-PROX.INAN)
    - 'ater [ʔa.ter] "when" < 'aka-ter-is (what-flow-PROX.INAN)

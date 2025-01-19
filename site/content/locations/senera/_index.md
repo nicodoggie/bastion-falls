@@ -1,9 +1,8 @@
 +++
-slug = "senera"
 title = "Senera"
-[taxonomies]
-location_type = ["kingdom"]
 
+[extra.taxonomies]
+location_type = ["kingdom"]
 +++
 
 _Senera_ is a large island kingdom to the northwest of the
