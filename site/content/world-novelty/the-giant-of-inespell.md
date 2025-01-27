@@ -7,59 +7,59 @@ In the great past, before the Greater Tribe knew of grain and ale.
 Before the cow and the horse grazed the meadows of Rannek,  
 Our people herded goats and marched with the seasons.  
 
-Upon the Northern Lights, they came
-Riding the Northern Winds, they came.
-The Eldrim they called themselves.
-And at first, we loved them.
+Upon the Northern Lights, they came  
+Riding the Northern Winds, they came.  
+The Eldrim they called themselves.  
+And at first, we loved them.  
 
-They taught us of metals and the forge
-We taught them our stars and our sky
+They taught us of metals and the forge  
+We taught them our stars and our sky  
 
-They taught us to shape the stone
-We taught them to sail our waters
+They taught us to shape the stone  
+We taught them to sail our waters  
 
-They taught us to color the flowers
-We taught them to make them bloom
+They taught us to color the flowers  
+We taught them to make them bloom  
 
-Then they taught us glamour
-We taught them the ways of our world
+Then they taught us glamour  
+We taught them the ways of our world  
 
-For all their haughtiness, they were not our masters
-They were as brothers, we were kin
-But as brothers do, we often did fight
+For all their haughtiness, they were not our masters  
+They were as brothers, we were kin  
+But as brothers do, we often did fight  
 
-It has come to pass that their true selves were shown
-Interlopers who covet our lands
-For while they thought themselves great, they lost their own
+It has come to pass that their true selves were shown  
+Interlopers who covet our lands  
+For while they thought themselves great, they lost their own  
 
-But as they learned our ways, they grew strong
-And their glamour was beyond our own
-In each battle, we grew desperate
+But as they learned our ways, they grew strong  
+And their glamour was beyond our own  
+In each battle, we grew desperate  
 
-By inch and by furlong, we lost our lands
-And the Eldrim, strong as they are
-We grew small underneath their yoke
+By inch and by furlong, we lost our lands  
+And the Eldrim, strong as they are  
+We grew small underneath their yoke  
 
-But for all that they taught
-they did not teach us of iron
-For iron was their bane
+But for all that they taught  
+they did not teach us of iron  
+For iron was their bane  
 
 Iron is now our blessing
 
-The greatest of us, the most learned
-With all the glamour ours could muster
-We forged with the fires of our mountains a protector
+The greatest of us, the most learned  
+With all the glamour ours could muster  
+We forged with the fires of our mountains a protector  
 
-A Giant of Iron, the Giant of Inespell
-Guided by our collective rage
-Condensed under the cold frozen embers of time
+A Giant of Iron, the Giant of Inespell  
+Guided by our collective rage  
+Condensed under the cold frozen embers of time  
 
-Under the guidance of the Watcher of the Pools
-The Giant marched forth against their floating towns
-With iron and with fire, it wrought destruction
+Under the guidance of the Watcher of the Pools  
+The Giant marched forth against their floating towns  
+With iron and with fire, it wrought destruction  
 
-Those of the Eldrim who though highly of themselves
-were then brought low by the Giant's might
+Those of the Eldrim who though highly of themselves  
+were then brought low by the Giant's might  
 And on that day, we taught them of iron and the fire our rage
 
 ---
@@ -72,13 +72,13 @@ branrum 'ilis'er tiraiel ma'al'es
 
 branrum 'aterbran gras'er makores  
 branrum 'aterbran gras'er rokes  
-branrum 'aterbran sinthir'er tomures
+branrum 'aterbran sinthir'er tomures  
 
 branrum graslas ma'al'isul torbael  
 mabarak'erlas 'isel thranales  
 ranekul grasgrales weslas  
 
-branrum ma'altallas gralises
+branrum ma'altallas gralises  
 'eldegralen asadimrisitar  
 branrum 'eldalulbreses norath'er  
 branrum 'eldalokes barimris'er talel  
@@ -105,7 +105,9 @@ imris branlases 'ir'er, branlases 'irur'er
 
 branum altalel hisimris'er kathid matallas tel  
 maimwesok 'alises magralnat  
-las 'atertel ma'altalel 'ilislas'er, magralumes hisum'er
+imris 'ilislas'er 'al'isul thides, 'altales kapal stor'er  
+'altalul kulimris 'al'isul 'ir'er
+
 
 ---
 
@@ -148,3 +150,5 @@ As kin does, we often fought
 
 They have showed their true selves
 Invaders who want our lands
+because they learned our ways, the grew strong  
+their glamour was greater
