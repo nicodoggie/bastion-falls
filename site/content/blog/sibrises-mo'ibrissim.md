@@ -14,7 +14,7 @@ mabrisaiul teres sibris'erimris
 
 # Burning Passion until the Cold of Twilight
 
-This earth, where love burns beneathe the radiant pearl
-Where the embers of passionate souls blaze in fiery embrace
-As blood boils from love's feverish fervor
+This land, where love burns beneath the radiant pearl
+Embers of passionate souls, as one, blaze in fiery embrace
+Their blood boils from love's feverish fervor
 The heat of day gives way to the cool tinge of twilight
