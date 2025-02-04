@@ -7193,40 +7193,82 @@
           "initial glottal loss",
           "final vowel loss"
         ],
-        "etymon:note": "Source of possessive suffix -ul through grammaticalization"
+        "etymon:note": "Original root (~800 PF) had meanings 'thumb/grasp/possession'. By Late Proto-Hick (~400 PF), bare form specialized to 'thumb/possession'. Source of possessive suffix -ul through grammaticalization."
       },
       "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "grasp",
+            "@value": "thumb",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "-ul",
+          "phoneticRep": "ul",
+          "decomposition": "grammaticalized possessive suffix",
+          "grammaticalMeaning": "possessive marker"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "ul'er",
+          "phoneticRep": "ul.ʔer",
+          "decomposition": "ul + -'er (verbalizer)",
+          "grammaticalMeaning": "to grasp"
+        }
+      ]
+    },
+    {
+      "@id": "eh:us",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "us",
+        "phoneticRep": "us"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔulu-isu",
+        "etymon:components": [
+          "*ʔulu (thumb/grasp)",
+          "-isu (locative)"
+        ],
+        "etymon:soundChange": [
+          "vowel coalescence",
+          "final vowel loss"
+        ],
+        "etymon:note": "Developed from locative form of *ʔulu (~400 PF) specializing in 'grasp' meaning"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grasp, possession",
             "@language": "en"
           },
           "lexinfo:semanticField": [
             "Basic Terms",
             "Action Terms"
           ]
-        },
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "possess, own",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Basic Terms",
-            "Grammatical Terms"
-          ]
         }
       ],
-      "derivation": {
-        "@type": "ontolex:LexicalEntry",
-        "canonicalForm": {
-          "writtenRep": "ul'er",
-          "phoneticRep": "ul.ʔer"
-        },
-        "definition": "to grasp, to own"
-      }
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "us'er",
+          "phoneticRep": "us.ʔer",
+          "decomposition": "us + -'er (verbalizer)",
+          "grammaticalMeaning": "to possess,to own"
+        }
+      ]
     },
     {
       "@id": "eh:hisimris",
@@ -7274,6 +7316,1017 @@
         },
         "definition": "to show"
       }
+    },
+    {
+      "@id": "eh:tenwa",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tenwa",
+        "phoneticRep": "ten.wa"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Eldrim tengwa",
+        "etymon:gloss": "letter",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Shows semantic extension from basic writing to magical inscription"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "writing; spellcraft",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Communication Terms",
+            "Sacred Terms",
+            "Magical Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "tenwa'er",
+          "phoneticRep": "ten.wa.ʔer",
+          "decomposition": "tenwa + -'er (verbalizer)",
+          "grammaticalMeaning": "to write; to make spells"
+        }
+      ]
+    },
+    {
+      "@id": "eh:storbran",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "storbran",
+        "phoneticRep": "stor.bran"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:stor"
+        },
+        {
+          "@id": "eh:bran"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "stor-bran",
+        "etymon:gloss": "join-lineage",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows formalization of marriage as union between family lines"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "marriage, family union",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Family Terms",
+            "Social Terms",
+            "Sacred Terms"
+          ]
+        }
+      ],
+      "derivation": {
+        "@type": "ontolex:LexicalEntry",
+        "canonicalForm": {
+          "writtenRep": "storbran'er",
+          "phoneticRep": "stor.bran.ʔer"
+        },
+        "definition": "to marry"
+      }
+    },
+    {
+      "@id": "eh:brismer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brismer",
+        "phoneticRep": "bris.mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:bris"
+        },
+        {
+          "@id": "eh:mer"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bris-mer",
+        "etymon:gloss": "fire-parent/heart",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows ambiguous compound analysis between 'passionate-parent' and 'fire-heart'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "passionate lover",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Love Terms",
+            "Person Terms",
+            "Family Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:uran",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "uran",
+        "phoneticRep": "u.rən"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ulu-haranu",
+        "etymon:components": [
+          "*ulu (thumb)",
+          "*haranu (length)"
+        ],
+        "etymon:soundChange": [
+          "compound fusion",
+          "unstressed vowel reduction"
+        ],
+        "etymon:note": "Shows development of measurement system from body parts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "inch (unit of length, approximately thumb-width)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Measurement Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:brastran",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brastran",
+        "phoneticRep": "bras.tran"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:brast"
+        },
+        {
+          "@id": "eh:ran"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "brast-ran",
+        "etymon:gloss": "arm-length",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows development of -ran as measurement suffix from *haranu 'length'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "foot (unit of length, approximately arm-length)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Measurement Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:barakter",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "barakter",
+        "phoneticRep": "ba.rak.ter"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:barak"
+        },
+        {
+          "@id": "eh:ter"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "barak-ter",
+        "etymon:gloss": "walk-time",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Distance measure based on one hour's walking time. Shows temporal suffix used for distance measurement."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "league (distance walkable in one hour, roughly 3-4 miles)",
+            "@language": "en"
+          },
+          "usage": "Often shortened to rakter in colloquial speech",
+          "lexinfo:semanticField": [
+            "Measurement Terms",
+            "Distance Terms",
+            "Time Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "rakter",
+          "phoneticRep": "rak.ter",
+          "decomposition": "shortened form of barakter",
+          "grammaticalMeaning": "colloquial form for league"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ibris'er",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ibris'er",
+        "phoneticRep": "ʔi.bris.ʔer"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ibris-'er",
+        "etymon:gloss": "burn-VERB",
+        "etymon:note": "Base form for metaphorical extensions to passion and anger"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to burn",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Fire Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ilibris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilibris",
+        "phoneticRep": "ʔi.li.bris"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'il-'ibris",
+        "etymon:gloss": "good-burn",
+        "etymon:note": "Shows positive metaphorical extension of burning sensation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "passion; inspire fervor",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotion Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imibris",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imibris",
+        "phoneticRep": "im.i.bris"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-'ibris",
+        "etymon:gloss": "ill-burn",
+        "etymon:note": "Shows negative metaphorical extension of burning sensation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rage, anger; wrath",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotion Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:eltek",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "eltek",
+        "phoneticRep": "el.tek"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔelu-taku",
+        "etymon:components": [
+          "*ʔelu (INST)",
+          "*taku (strike)"
+        ],
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "From phrase 'grale ʔelu taku' (soil together hit). Shows development from physical action to resultant state"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "compacted, condensed (especially of soil)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Earth Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shaped from loose material",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Earth Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:momer",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "momer",
+        "phoneticRep": "mo.mer"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:mo"
+        },
+        {
+          "@id": "eh:mer"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mo-mer",
+        "etymon:gloss": "NEG-bird",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic development where negated 'bird' specifies flightless bird"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "chicken",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:aniko",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "aniko",
+        "phoneticRep": "a.ni.ko"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xani-kostu",
+        "etymon:components": [
+          "*xani (four)",
+          "*kostu (leg)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "compound fusion",
+          "final syllable reduction"
+        ],
+        "etymon:note": "Shows semantic extension from descriptive 'four-legged' to general term for animal"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "animal (general term)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:temerok",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "temerok",
+        "phoneticRep": "te.me.rok"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:temer"
+        },
+        {
+          "@id": "eh:ok"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "temer-ok",
+        "etymon:gloss": "death-AGENT",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical formation 'death-bringer' for both human killers and predatory animals"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "killer, murderer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Social Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "predator",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:krantak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krantak",
+        "phoneticRep": "kran.tak"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kran"
+        },
+        {
+          "@id": "eh:tak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kran-tak",
+        "etymon:gloss": "spike-strike",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows instrumental compound formation - striking with a spike"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to pierce, stab",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Actions",
+            "Weapon Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:krakrak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krakrak",
+        "phoneticRep": "kra.krak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kran"
+        },
+        {
+          "@id": "eh:krak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kran-krak",
+        "etymon:gloss": "horn-tooth",
+        "etymon:soundChange": "nasal deletion",
+        "etymon:note": "Shows nasal deletion in compound. Forms specialized term contrasting with general krak 'tooth'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fang",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kasger",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kasger",
+        "phoneticRep": "kas.ger"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kasu"
+        },
+        {
+          "@id": "eh:garu"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kasu-garu",
+        "etymon:gloss": "reflection-stone",
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows technological origin in polished stone mirrors"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mirror (especially polished stone mirror)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool Terms",
+            "Stone Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kasai",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kasai",
+        "phoneticRep": "kas.əi"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:kasu"
+        },
+        {
+          "@id": "eh:ai"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kasu-ai",
+        "etymon:gloss": "reflection-water",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "From ancient practice of water-gazing meditation. Shows metaphorical extension from physical reflection to mental contemplation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "introspection, self-reflection",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:sai",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sai",
+        "phoneticRep": "sai"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:derivation": "Back-formation from kasai",
+        "etymon:reanalysis": "ka-sai interpreted as ADJ-self",
+        "etymon:note": "Shows folk etymology where kasai 'introspection' (< kasu-ai 'reflection-water') was reanalyzed as ka-sai leading to extraction of sai as independent term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sense of self",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "inner voice",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imtir",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtir",
+        "phoneticRep": "im.tir"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:im"
+        },
+        {
+          "@id": "eh:tir"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-tir",
+        "etymon:gloss": "NEG-ferment",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension of fermentation process to negative outcome"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rot, decay",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Process Terms",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imtirlis",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtirlis",
+        "phoneticRep": "im.tir.lis"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:imtir"
+        },
+        {
+          "@id": "eh:branlis"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imtir-lis",
+        "etymon:gloss": "rot-fruit",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural understanding of mushrooms as fruits of decay"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mushroom",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora Terms",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:imtirdu",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtirdu",
+        "phoneticRep": "im.tir.du"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:imtir"
+        },
+        {
+          "@id": "eh:du"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imtir-du",
+        "etymon:gloss": "rot-meat",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic extension from rotting meat to cadaver. Contrasts with du for fresh meat"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rotting meat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Death Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cadaver",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Death Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:par",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "par",
+        "phoneticRep": "par"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "*paru-heru",
+        "etymon:gloss": "belly-motion",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows semantic development from 'belly-motion' to general 'crawl'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "crawl",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Body Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:grapar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "grapar",
+        "phoneticRep": "gra.par"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:gral"
+        },
+        {
+          "@id": "eh:par"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gral-par",
+        "etymon:gloss": "earth-crawl",
+        "etymon:soundChange": "liquid deletion",
+        "etymon:note": "Shows descriptive compound formation based on movement"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earthworm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Earth Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:takutakal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takutakal",
+        "phoneticRep": "ta.ku.ta.kal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:takutak"
+        },
+        {
+          "@id": "eh:al"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "takutak-'al",
+        "etymon:gloss": "rhythm-person",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows conceptual link between rhythm and language"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "language",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Sound Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:ilibris'er",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilibris'er",
+        "phoneticRep": "ʔi.li.bris.ʔer"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ilibris"
+        },
+        {
+          "@id": "eh:er"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilibris-'er",
+        "etymon:gloss": "passion-VERB",
+        "etymon:note": "Euphemistic term showing cultural preference for warmth/fire metaphors in intimate contexts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "(euphemistic) to make love, have sexual intercourse",
+            "@language": "en"
+          },
+          "lexinfo:register": "euphemistic",
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:etilsim",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "etilsim",
+        "phoneticRep": "e.til.sim"
+      },
+      "lexicalCategory": "lexinfo:Adverb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:etil"
+        },
+        {
+          "@id": "eh:sim"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "etil-sim",
+        "etymon:gloss": "thing-TRANS",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Shows lexicalization of translative case into expression of both transformation and resignation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "everything changes/transforms (with implications of resignation/indifference)",
+            "@language": "en"
+          },
+          "usage": "Often used as resigned response to change or loss",
+          "lexinfo:register": "philosophical-colloquial",
+          "lexinfo:semanticField": [
+            "Abstract Concepts",
+            "Philosophical Terms"
+          ]
+        }
+      ]
     }
   ]
 }

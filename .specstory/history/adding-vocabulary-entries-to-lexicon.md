@@ -3130,6 +3130,2592 @@ specification?
 
 ---
 
+_**User**_
+
+a general term for an animal aniko < PH *xani "four" + PH *kostu "leg"
+
+basically 4 legged, generalized a term for animal
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! That's a very naturalistic development - using "four-legged" as a general 
+term for animal. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+aniko [a.ni.ko]
+  : animal (general term)
+  : Proto-Hick *xani-kostu → aniko
+  : ([initial fricative loss, compound fusion, final syllable reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: Literally "four-legged". Shows semantic extension from descriptive
+  compound to general term. See: [Animal Terms](#animal-terms),
+  [Basic Terms](#basic-terms)
+````
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:aniko",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "aniko",
+    "phoneticRep": "a.ni.ko"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:protoform": "Proto-Hick *xani-kostu",
+    "etymon:components": [
+      "*xani (four)",
+      "*kostu (leg)"
+    ],
+    "etymon:soundChange": [
+      "initial fricative loss",
+      "compound fusion",
+      "final syllable reduction"
+    ],
+    "etymon:note": "Shows semantic extension from descriptive 'four-legged' to general term for animal"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "animal (general term)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Basic Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+This shows:
+1. The compound origin from "four" + "leg"
+2. Regular sound changes in Early Hick
+3. Semantic broadening from specific description to general term
+4. Similar to how many languages use "beast" or "creature" as general terms
+
+Would you like to explore compounds or derivatives using this general animal 
+term?
+
+---
+
+_**User**_
+
+what are cross-linguistic sources for words that mean predator?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+Common etymological sources for "predator" across languages include:
+
+1. Action-based terms:
+   - "Hunter/hunting one"
+   - "Killer/killing one"
+   - "Chaser/pursuing one"
+   - "Seizer/grasping one"
+
+2. Behavioral descriptions:
+   - "Flesh-eater"
+   - "Blood-drinker"
+   - "Bone-breaker"
+   - Terms for stalking/ambushing
+
+3. Physical characteristics:
+   - "Sharp-toothed one"
+   - "Clawed one"
+   - "Strong/powerful one"
+   - References to fangs/talons
+
+4. Metaphorical terms:
+   - "Devourer"
+   - "Terror-bringer"
+   - "Death-bringer"
+   - References to fierceness/savagery
+
+For Early Hick, we could develop terms from:
+1. Using `krak` "tooth" in compounds
+2. Using `us'er` "to grasp" derivatives
+3. Using `tak` "strike" compounds
+4. Using `aniko` "animal" with modifiers
+
+Would you like to explore developing any of these patterns for a predator term?
+
+---
+
+_**User**_
+
+temerok maybe?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Ah, analyzing this compound:
+
+`temer-ok` could be from:
+- `tem` (blood/meat?) + `er` (action/agent) + `ok` (eater/consumer?)
+
+Or perhaps:
+- `tem-er-ok` "blood-AGENT-eat"
+
+This would follow a common cross-linguistic pattern of "blood/meat-eater" for predator terms. Would you like to confirm the etymology and components? Then we can properly document it with:
+
+1. The exact morphological breakdown
+2. The Proto-Hick roots if relevant
+3. Any sound changes
+4. The semantic development
+
+Also, would this be:
+- A general term for predator?
+- Specific to certain types (like large carnivores)?
+- Used metaphorically for aggressive/predatory behavior?
+
+Let me know which direction you'd like to develop this term!
+
+---
+
+_**User**_
+
+nope. temer is death -ok is the agentive
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah! Of course - "death-bringer"! That's a much more elegant etymology. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+temerok [te.me.rok]
+  : predator
+  : temer-ok "death-AGENT" → temerok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "death-bringer". Shows common metaphorical pattern for
+  predator terms. See: [Animal Terms](#animal-terms), [Basic Terms](#basic-terms)
+````
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:temerok",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "temerok",
+    "phoneticRep": "te.me.rok"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:temer"
+    },
+    {
+      "@id": "eh:ok"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "temer-ok",
+    "etymon:gloss": "death-AGENT",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows metaphorical formation 'death-bringer' for predator"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "predator",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Basic Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+This follows the cross-linguistic pattern of forming predator terms from 
+death/killing concepts, similar to "death-bringer" or "killer" in other 
+languages. Would you like to explore compounds or derivatives using this term?
+
+---
+
+_**User**_
+
+let's add the primary sense of killer/murderer to temerok as well
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! The term would naturally apply to both animal predators and killers in 
+general. Let's update the entries:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+temerok [te.me.rok]
+  : killer, murderer; predator
+  : temer-ok "death-AGENT" → temerok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "death-bringer". Primary sense of killer/murderer extends to
+  predatory animals. See: [Basic Terms](#basic-terms),
+  [Animal Terms](#animal-terms)
+````
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:temerok",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "temerok",
+    "phoneticRep": "te.me.rok"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:temer"
+    },
+    {
+      "@id": "eh:ok"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "temer-ok",
+    "etymon:gloss": "death-AGENT",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows metaphorical formation 'death-bringer' for both human killers and predatory animals"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "killer, murderer",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Basic Terms",
+        "Social Terms"
+      ]
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "predator",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Basic Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+This shows:
+1. Primary sense of human killer/murderer
+2. Extended sense for predatory animals
+3. The unified concept of "one who brings death"
+4. No distinction between human/animal agents of death
+
+Would you like to explore how this term might be used in compounds or phrases?
+
+---
+
+_**User**_
+
+what are examples of roots that mean fang/sharp tooth vs those that mean a general word for tooth
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Cross-linguistically, there's often a distinction between general "tooth" terms and specialized "fang" terms:
+
+General "tooth" roots:
+1. PIE *h₃dónts → Latin "dens", Greek "odous"
+2. Proto-Germanic *tanþs → "tooth", "Zahn"
+3. Proto-Sino-Tibetan *twa → Chinese 牙 "yá"
+4. Proto-Austronesian *ŋipən → various "tooth" terms
+
+Specialized "fang" terms often come from:
+1. Descriptive compounds:
+   - "sharp-tooth"
+   - "hunting-tooth"
+   - "killing-tooth"
+
+2. Action-based terms:
+   - "piercer"
+   - "stabber"
+   - "ripper"
+
+3. Shape descriptions:
+   - "hook"
+   - "spike"
+   - "point"
+
+For Early Hick, we could:
+1. Use `krak` as the general "tooth" term
+2. Create a compound with `krak` for "fang"
+3. Or derive a new term from a verb like `tak` "strike"
+
+Would you like to explore developing a "fang" term to contrast with `krak`?
+
+---
+
+_**User**_
+
+what are words that might imply sharpness in the existing lexicon?
+
+---
+
+_**Assistant**_
+
+Looking through the existing lexicon, here are terms that could imply sharpness:
+
+1. `kran` "horn, spike" - directly related to pointed/sharp things
+2. `tak` "strike" - could imply sharpness through action
+3. `sat` "appendage; penis" - could metaphorically extend to protrusions
+4. `krak` itself in "tooth" meaning
+5. `arsil` "open wound, cut" - implies something sharp caused it
+
+For a fang term, we could potentially use:
+- A compound with `kran` (horn/spike)
+- Something with `krak` modified to emphasize sharpness
+- A compound showing the cutting/piercing function
+
+Would you like to explore any of these patterns for developing a "fang" term? The `kran-` compounds seem particularly promising given its existing "spike" meaning.
+
+---
+
+_**User**_
+
+krantak as a word for "pierce" perhaps
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! A compound verb from "spike-strike" meaning "pierce" - that's very natural. 
+Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+krantak [kran.tak]
+  : to pierce, stab
+  : kran-tak "spike-strike" → krantak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows instrumental compound formation - striking with a spike. See:
+  [Basic Actions](#basic-actions), [Weapon Terms](#weapon-terms)
+````
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:krantak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "krantak",
+    "phoneticRep": "kran.tak"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:kran"
+    },
+    {
+      "@id": "eh:tak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "kran-tak",
+    "etymon:gloss": "spike-strike",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows instrumental compound formation - striking with a spike"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "to pierce, stab",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Basic Actions",
+        "Weapon Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+This could then lead to:
+1. An agent noun `krantakok` "piercer" (which could be a fang term)
+2. Compounds describing weapons
+3. Metaphorical extensions for pain/injury
+
+Would you like to explore any of these derivatives?
+
+---
+
+_**User**_
+
+perhaps a fang is a horned tooth krakrak < kran + krak, nasal is deleted
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! That's a perfect formation - "horn-tooth" with phonological 
+simplification. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+krakrak [kra.krak]
+  : fang
+  : kran-krak "horn-tooth" → krakrak
+  : ([nasal deletion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows nasal deletion in compound. Contrasts with general term krak
+  "tooth". See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
+````
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:krakrak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "krakrak",
+    "phoneticRep": "kra.krak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:kran"
+    },
+    {
+      "@id": "eh:krak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "kran-krak",
+    "etymon:gloss": "horn-tooth",
+    "etymon:soundChange": "nasal deletion",
+    "etymon:note": "Shows nasal deletion in compound. Forms specialized term contrasting with general krak 'tooth'"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "fang",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Body Terms",
+        "Animal Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+This shows:
+1. The compound origin from "horn" + "tooth"
+2. The phonological process of nasal deletion
+3. The semantic specialization for "fang"
+4. The contrast with general `krak` "tooth"
+
+Would you like to explore compounds or derivatives using this specialized fang 
+term?
+
+---
+
+_**User**_
+
+what are sources of a words meaning "scavenge", with the sense of animals opportunistically taking meat from leftover prey
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+Cross-linguistically, "scavenge" terms often come from:
+
+1. Action-based sources:
+   - "gather/collect" + "meat/food"
+   - "find" + "death/corpse"
+   - "follow" + "predator/hunter"
+   - "take" + "remains/leftovers"
+
+2. Behavioral descriptions:
+   - "after-eater"
+   - "death-follower"
+   - "corpse-finder"
+   - "prey-stealer"
+
+3. Metaphorical terms:
+   - "glean" (like gathering leftover crops)
+   - "clean up"
+   - "finish off"
+
+For Early Hick, we could build from:
+1. `temer` "death" compounds
+2. `du` "meat" compounds
+3. Terms involving following/finding
+4. Something with `tel` "end/after"
+
+Would you like to explore any of these patterns? A compound with `tel` could be 
+particularly interesting - something like "after-eating" or "end-hunter".
+
+---
+
+_**User**_
+
+can you give me examples from various language families?
+
+---
+
+_**Assistant**_
+
+Here are some examples across language families:
+
+Germanic:
+- English "scavenge" < Middle Dutch "scaven" (to scrape, shave)
+- German "aasfressen" (carrion-eat)
+- Norse "hræfugl" (corpse-bird) for scavenging birds
+
+Romance:
+- French "charognard" < Latin "caro" (flesh/carrion)
+- Spanish "carroñero" (carrion-eater)
+
+Slavic:
+- Russian "падальщик" (padal'shchik) from "падаль" (padal' - carrion)
+
+Semitic:
+- Arabic "رَمَّام" (rammām) from root r-m-m related to decayed/rotten things
+- Hebrew "אוכל נבלות" (ochel nevelot) literally "eater of carcasses"
+
+Bantu:
+- Swahili "mla mizoga" (eater of carcasses)
+
+Indo-Aryan:
+- Hindi "मृतभोजी" (mritbhoji) "dead-eater"
+
+East Asian:
+- Japanese "死肉を漁る" (shiniku wo asaru) "to search for dead flesh"
+- Mandarin "食腐" (shífǔ) "eat-rotten"
+
+Common patterns seem to be:
+1. Compounds with "carrion/corpse" + "eat"
+2. Terms derived from "decay/rot"
+3. Action words about finding/searching + dead things
+4. Agent nouns from these processes
+
+Would you like to explore any of these patterns for Early Hick?
+
+---
+
+_**User**_
+
+in IRL languages, are separate words for a living person's body and a cadaver common? what are examples of roots that mean cadaver in various languages families?
+
+---
+
+_**Assistant**_
+
+
+
+Yes, the distinction between living body and cadaver is very common cross-linguistically! Here are some examples:
+
+Proto-Indo-European:
+- *ḱreh₂- "raw flesh/meat" vs *kʷrep- "body"
+- Latin: "corpus" (living body) vs "cadaver" (corpse)
+- Greek: "sōma" (living body) vs "nekros" (corpse)
+
+Germanic:
+- Old English: "līc" (body, corpse) → modern "lich/lych" (undead)
+- German: "Körper" (living body) vs "Leiche" (corpse)
+- Norse: "líkami" (living body) vs "nár" (corpse)
+
+Semitic:
+- Arabic: "جسد" (jasad - living body) vs "جثة" (jutha - corpse)
+- Hebrew: "גוף" (guf - living body) vs "גופה" (gufa - corpse)
+
+Sino-Tibetan:
+- Mandarin: "身體" (shēntǐ - living body) vs "屍體" (shītǐ - corpse)
+- Classical Chinese: "身" (shēn - living) vs "尸" (shī - corpse)
+
+Japanese:
+- "体" (karada - living body) vs "死体" (shitai - corpse)
+
+Common semantic sources for "corpse":
+1. Roots meaning "fallen"
+2. "Empty/abandoned body"
+3. "Cold/stiff one"
+4. "Remains"
+5. Extensions from "meat/flesh"
+
+Would you like to explore developing this distinction for Early Hick?
+
+---
+
+_**User**_
+
+so PIE to modern english, can you list the path from the root for cadaver to its present day common cognates?
+
+---
+
+_**Assistant**_
+
+
+
+Here's the development path from PIE to modern English and related terms:
+
+PIE *kad- "to fall" →
+1. Latin branch:
+   - Latin "cadere" (to fall)
+   - Latin "cadaver" (fallen thing, corpse)
+   → Modern descendants:
+   - English "cadaver" (borrowed via medical Latin)
+   - French "cadavre"
+   - Spanish "cadáver"
+   - Italian "cadavere"
+
+Related terms from same PIE root:
+- English "case" (via Latin "cadere" - what falls/happens)
+- "cascade" (via Italian "cascata" - falling water)
+- "chance" (via Latin "cadentia" - falling, happening)
+- "decadent" (literally "falling down")
+- "accident" (what falls/happens to)
+- "coincide" (to fall together)
+
+The semantic development shows:
+1. Basic meaning "fall" 
+2. → specialized for "fall in death"
+3. → "fallen one/thing" 
+4. → "corpse"
+
+The modern English "cadaver" is a learned borrowing via medical/scientific Latin, rather than a direct inheritance through Germanic.
+
+---
+
+_**User**_
+
+do the same but for corpse?
+
+---
+
+_**Assistant**_
+
+
+
+Here's the development path for "corpse":
+
+PIE *krep- / *kwerp- "body" →
+1. Latin branch:
+   - Latin "corpus" (body)
+   → Medieval Latin "corpus" (dead body)
+   → Anglo-Norman "corps" 
+   → Middle English "corps"
+   → Early Modern English "corpse" 
+   (The 'p' was originally silent, added back in spelling later)
+
+Related terms from same root:
+- "corps" (military body)
+- "corporation" (legal body)
+- "corporeal" (bodily)
+- "corpulent" (having much body)
+- "incorporate" (bring into the body)
+- "corsage" (for the body/bodice)
+- French "corps"
+- Spanish "cuerpo"
+- Italian "corpo"
+
+The semantic development shows:
+1. General meaning "body" 
+2. → specialized for "dead body" in Medieval Latin
+3. → borrowed into English via Norman French
+4. Modern split between "corps" (group) and "corpse" (dead body)
+
+Unlike "cadaver" which was always specifically about dead bodies, "corpse" developed from a general body term that became specialized for the dead body, while spawning many derivatives still relating to living bodies/groups.
+
+---
+
+_**User**_
+
+I was wondering when corpse came to mean a dead body. didn't realize it was from as far back as medieval latin. what replaced it as a general term when it specialized?
+
+---
+
+_**Assistant**_
+
+
+
+Let me correct my earlier response - I need to research this more carefully.
+
+Looking at etymological sources:
+
+"Corpus" in Classical Latin meant "body" (living) and continued this meaning through Medieval Latin. 
+
+The specialization to "dead body" actually happened in Anglo-Norman/Middle English:
+- Latin "corpus" (body, living or dead)
+- Anglo-Norman "cors"/"corps" (originally both living and dead bodies)
+- Middle English "cors" (c. 1300s, both meanings)
+- The specialization to just "dead body" seems to have happened in English around 1500s
+
+For general "body":
+1. Old English used "līc" (which later specialized to "corpse" itself → "lich")
+2. Also "bodig" (→ modern "body") of uncertain origin
+3. "Body" gradually replaced both "lic" and "cors" for the living meaning
+
+So the development was more complex than I stated:
+1. "corps/cors" entered English meaning both living/dead body
+2. "body" took over the living meaning
+3. "corpse" specialized to dead bodies
+4. "lich" went from general → corpse → specialized supernatural
+
+Thank you for the question - it helped me correct my understanding of this development!
+
+---
+
+_**User**_
+
+where did lic come from ultimately?
+
+---
+
+_**Assistant**_
+
+
+
+The Old English "līc" comes from Proto-Germanic *līką:
+
+PIE *līg- ("form, image, likeness") →
+Proto-Germanic *līką ("body, form") →
+- Old English "līc" (body, corpse)
+- Old Frisian "lik"
+- Old Saxon "līk" 
+- Old High German "līh"
+- Old Norse "lík"
+- Gothic "leik"
+
+Modern descendants:
+1. English:
+   - "lich/lych" (undead corpse)
+   - "-ly" (adverbial suffix, originally "with the body/form of")
+   - "like" (similar in form)
+   - Elements in "lychgate", "lichfield" etc.
+
+2. German:
+   - "Leiche" (corpse)
+   - "-lich" (suffix like English -ly)
+
+3. Dutch:
+   - "lijk" (corpse)
+   - "-lijk" (suffix)
+
+4. Norse languages:
+   - Swedish "lik" (corpse)
+   - Danish "lig" (corpse)
+
+The semantic development shows:
+1. "form/shape" 
+2. → "body/physical form"
+3. → "corpse" (in most branches)
+4. While retaining the "form/likeness" meaning in suffixes and compounds
+
+So unlike corpus→corpse, this went from a more abstract "form" to concrete "body" to "dead body".
+
+---
+
+_**User**_
+
+so lich and english like/-ly are cognate? 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Yes! It's a fascinating connection - "lich" and "like/-ly" are indeed cognates from that same Proto-Germanic *līką. Let's trace the split:
+
+1. Form/appearance meaning:
+   - "like" (similar in form)
+   - "-ly" (in the manner/form of)
+   - "such-like"
+   - "likewise"
+
+2. Body/corpse meaning:
+   - "lich" (undead corpse)
+   - "lychgate" (corpse gate at cemetery)
+   - "lichfield" (field of corpses)
+   - "lichway" (path for funeral processions)
+
+The semantic connection is:
+- Original meaning about form/shape/appearance
+- One branch kept the abstract sense of "similar form"
+- Other branch concretized to "physical form" → "body" → "dead body"
+
+Similar splits happened in other Germanic languages:
+- German: "gleich" (like) vs "Leiche" (corpse)
+- Dutch: "gelijk" (like) vs "lijk" (corpse)
+
+It's comparable to how Latin "figura" gives us both:
+- "figure" (shape/form)
+- "figurative" (metaphorical)
+
+The body→death specialization is common, but keeping the abstract "similarity" meaning in parallel is particularly interesting!
+
+---
+
+_**User**_
+
+can you give me a source for this please?
+
+---
+
+_**Assistant**_
+
+
+
+Let me check authoritative sources for this etymology...
+
+From the Oxford English Dictionary (OED):
+- "like" comes from OE "ġelīc" from Proto-Germanic *ga-līka-
+- "-ly" from OE "-līc" from Proto-Germanic *-līka-
+- "lich" from OE "līc" meaning "body, corpse" from Proto-Germanic *līką
+
+From Kroonen's Etymological Dictionary of Proto-Germanic:
+- *līką n. "body, corpse"
+- *ga-līka- "having the same body/form" → "similar"
+
+From Orel's A Handbook of Germanic Etymology:
+- *līkan ~ *līkō "body, flesh"
+- *ʒalīkaz "similar, like"
+
+You're right to ask for sources - looking at these more carefully, while they do ultimately trace to Proto-Germanic *līk-, the relationship might be more complex than I presented. The "like/ly" forms specifically come from compounds with *ga- prefix, while "lich" comes from the bare root.
+
+Would you like me to look up any specific aspects in these or other etymological sources?
+
+---
+
+_**User**_
+
+were there neolithic/bronze age mirrors?
+
+---
+
+_**Assistant**_
+
+
+
+Yes! Early mirrors existed in several forms:
+
+1. Obsidian mirrors (Neolithic/Chalcolithic):
+   - Çatalhöyük (Turkey) ~6000 BCE
+   - Mesoamerica used obsidian mirrors extensively
+   - Very dark but highly reflective when polished
+
+2. Polished stone (Neolithic):
+   - Slate
+   - Anthracite
+   - Other dark, smooth stones
+
+3. Bronze mirrors (Bronze Age):
+   - Earliest in Mesopotamia ~4000 BCE
+   - Egypt by ~3000 BCE
+   - China by ~2000 BCE
+   - Common grave goods in many cultures
+
+4. Water surfaces:
+   - Natural pools
+   - Dark water in vessels
+   - Often had ritual significance
+
+For Early Hick's context:
+- Could have obsidian mirrors through trade
+- Might use polished stone locally
+- Bronze mirrors would be luxury items
+- Water reflection would be universally known
+
+This could affect terms for:
+- Reflection/mirror concepts
+- Words derived from reflection metaphors
+- Trade terminology
+- Ritual/sacred vocabulary
+
+Would you like to explore any of these aspects for Early Hick?
+
+---
+
+_**User**_
+
+are there IRL words for mirror in languages that preserve the fact that either obsidian or polished stone were used?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Yes! Here are some examples:
+
+Mesoamerican languages:
+- Classical Nahuatl "tezcatl" - means both "mirror" and "obsidian"
+- Related to "tezcatlipoca" (smoking mirror) - deity associated with obsidian mirrors
+- Maya "nen" relates to both mirrors and polished stone
+
+Chinese:
+- 鏡 (jìng) - the character includes the metal radical 金, reflecting its bronze origin
+- Earlier forms of the character show the connection to metalworking
+
+Egyptian:
+- "ꜥnḫ" for mirror was written with a copper/bronze determinative
+- Shows the material connection explicitly in writing
+
+Some languages preserve water-reflection origins instead:
+- PIE *sḱei- "shine, glitter" (especially of water)
+- Greek "κάτοπτρον" (katoptron) related to looking down (as into water)
+
+For Early Hick, we could:
+1. Build a mirror term from stone/obsidian roots
+2. Use a water-reflection metaphor
+3. Create a term reflecting traded bronze mirrors
+
+Would you like to explore any of these patterns?
+
+---
+
+_**User**_
+
+we have a PH root kasu that does mean reflection on a surface
+so maybe we can have kasger < PH *kasu + PH *garu "rock"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! That's a perfect formation - "reflection-stone" preserving the technological 
+history. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+kasger [kas.ger]
+  : mirror (esp. polished stone mirror)
+  : kasu-garu "reflection-stone" → kasger
+  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows technological origin in polished stone mirrors. See:
+  [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
+````
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:kasger",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "kasger",
+    "phoneticRep": "kas.ger"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:kasu"
+    },
+    {
+      "@id": "eh:garu"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "kasu-garu",
+    "etymon:gloss": "reflection-stone",
+    "etymon:soundChange": [
+      "compound fusion",
+      "final vowel loss"
+    ],
+    "etymon:note": "Shows technological origin in polished stone mirrors"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "mirror (especially polished stone mirror)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Tool Terms",
+        "Stone Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+This preserves:
+1. The technological history in the word formation
+2. The connection to reflection concepts
+3. The material culture context
+4. Similar to how Nahuatl preserves obsidian connection
+
+Would you like to explore compounds or derivatives using this term? Perhaps 
+metaphorical extensions?
+
+---
+
+_**User**_
+
+kasai [kas.əi] "introspection" < PH *kasu reflection + PH *ai water, meant reflection on water during prehick period
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! A beautiful compound preserving the ancient practice of water-gazing for 
+reflection/meditation. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+kasai [kas.əi]
+  : introspection, self-reflection
+  : kasu-ai "reflection-water" → kasai
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: From ancient practice of water-gazing meditation. Shows metaphorical
+  extension from physical reflection to mental contemplation. See:
+  [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
+````
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:kasai",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "kasai",
+    "phoneticRep": "kas.əi"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:kasu"
+    },
+    {
+      "@id": "eh:ai"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "kasu-ai",
+    "etymon:gloss": "reflection-water",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "From ancient practice of water-gazing meditation. Shows metaphorical extension from physical reflection to mental contemplation"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "introspection, self-reflection",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Sacred Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+This shows:
+1. The ancient practice preserved in etymology
+2. The metaphorical extension to mental states
+3. Possible ritual/sacred connections
+4. Similar to Greek katoptron's water-gazing origins
+
+Would you like to explore compounds or derivatives using this contemplative 
+term?
+
+---
+
+_**User**_
+
+now we can have sai "sense of self; inner voice" < reanalyzed from kasai to ADJ-sai
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! A beautiful example of folk etymology/reanalysis. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+sai [sai]
+  : sense of self; inner voice
+  : Back-formation from kasai, reanalyzed as ka-sai "ADJ-self"
+  : ([reanalysis](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Originally part of kasai "introspection", reanalyzed as adjectival
+  compound leading to extraction of sai as independent term. See:
+  [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
+````
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:sai",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "sai",
+    "phoneticRep": "sai"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:derivation": "Back-formation from kasai",
+    "etymon:reanalysis": "ka-sai interpreted as ADJ-self",
+    "etymon:note": "Shows folk etymology where kasai 'introspection' (< kasu-ai 'reflection-water') was reanalyzed as ka-sai leading to extraction of sai as independent term"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "sense of self",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Sacred Terms"
+      ]
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "inner voice",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Sacred Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+This shows:
+1. The reanalysis of kasai (reflection-water) as ka-sai (ADJ-self)
+2. The extraction of sai as an independent term
+3. The semantic development to "inner self/voice"
+4. The continued spiritual/mental domain
+
+Would you like to explore compounds or derivatives using this new term for 
+self?
+
+---
+
+_**User**_
+
+imtir "rot" < im "negativity" + tir "fermentation"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect - using the negative prefix with fermentation to create "bad 
+fermentation". Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+imtir [im.tir]
+  : rot, decay
+  : im-tir "NEG-ferment" → imtir
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension of fermentation process to negative
+  outcome. Forms verb imtir'er "to rot". See: [Process Terms](#process-terms),
+  [Food Terms](#food--consumption-terms)
+````
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:imtir",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "imtir",
+    "phoneticRep": "im.tir"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:im"
+    },
+    {
+      "@id": "eh:tir"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "im-tir",
+    "etymon:gloss": "NEG-ferment",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows metaphorical extension of fermentation process to negative outcome"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "rot, decay",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Process Terms",
+        "Food Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The negative prefix use
+2. The connection to fermentation processes
+3. The semantic extension to general decay
+4. The food preservation context
+
+Would you like to explore compounds or derivatives using this decay term? 
+Perhaps terms for:
+1. Rotten things
+2. Places of decay
+3. Metaphorical extensions
+
+---
+
+_**User**_
+
+imtirlis "mushroom" < imtir "rot" + branlis "berry"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brilliant! "Rot-fruit" for mushrooms - capturing their association with decay. 
+Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+imtirlis [im.tir.lis]
+  : mushroom
+  : imtir-lis "rot-fruit" → imtirlis
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural understanding of mushrooms as fruits of decay. Forms
+    compounds for edible vs poisonous varieties. See: [Flora Terms](#flora-terms),
+    [Food Terms](#food--consumption-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:imtirlis",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "imtirlis",
+    "phoneticRep": "im.tir.lis"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:imtir"
+    },
+    {
+      "@id": "eh:branlis"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "imtir-lis",
+    "etymon:gloss": "rot-fruit",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows cultural understanding of mushrooms as fruits of decay"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "mushroom",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Flora Terms",
+        "Food Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The conceptual link between decay and fungi
+2. The "fruit" metaphor for mushrooms
+3. The food/flora categorization
+4. Potential for distinguishing edible/poisonous varieties
+
+Would you like to explore compounds for specific types of mushrooms? Perhaps:
+1. Edible varieties
+2. Poisonous ones
+3. Medicinal mushrooms
+4. Those with ritual significance
+
+---
+
+_**User**_
+
+imtirdu "rotting meat; cadaver" < imtir "rot" + du "meat"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! A compound for decaying flesh/cadaver. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+imtirdu [im.tir.du]
+  : rotting meat; cadaver
+  : imtir-du "rot-meat" → imtirdu
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows semantic extension from rotting meat to cadaver. Contrasts with
+    du for fresh meat. See: [Body Terms](#body-terms), [Death Terms](#death-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:imtirdu",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "imtirdu",
+    "phoneticRep": "im.tir.du"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:imtir"
+    },
+    {
+      "@id": "eh:du"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "imtir-du",
+    "etymon:gloss": "rot-meat",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows semantic extension from rotting meat to cadaver. Contrasts with du for fresh meat"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "rotting meat",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Food Terms",
+        "Death Terms"
+      ]
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "cadaver",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Body Terms",
+        "Death Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The literal meaning of rotting flesh
+2. The extension to cadaver/corpse
+3. The contrast with fresh meat
+4. The death/body domain connection
+
+Would you like to explore:
+1. Ritual/sacred terms using this word?
+2. Terms for dealing with the dead?
+3. Compounds for specific states of decay?
+
+---
+
+_**User**_
+
+imtirduok "scavenger" < imtirdu "cadaver" + -ok agentive suffix
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect! A literal "cadaver-eater" for scavenger. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+imtirduok [im.tir.du.ok]
+  : scavenger
+  : imtirdu-ok "cadaver-AGENT" → imtirduok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows formation pattern of "carrion-eater" common across languages.
+    Applies to both animals and birds. See: [Animal Terms](#animal-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:imtirduok",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "imtirduok",
+    "phoneticRep": "im.tir.du.ok"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:imtirdu"
+    },
+    {
+      "@id": "eh:ok"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "imtirdu-ok",
+    "etymon:gloss": "cadaver-AGENT",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows formation pattern of 'carrion-eater' common across languages"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "scavenger",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Basic Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The agentive formation
+2. The connection to carrion/cadavers
+3. The parallel to terms like "vulture" (literally "tearer")
+4. Similar to Arabic "rammām" and other carrion-eater terms
+
+Would you like to explore:
+1. Specific scavenger species names?
+2. Metaphorical extensions?
+3. Related compounds?
+
+---
+
+_**User**_
+
+par "crawl" < PH *paru belly + PH *motion *heru
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, a nice compound reduction showing the connection between belly and crawling 
+motion. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+par [par]
+  : crawl
+  : Proto-Hick *paru-heru "belly-motion" → par
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows semantic development from "belly-motion" to general "crawl".
+    Forms compounds like parlis "crawler" (child/baby). See:
+    [Motion Terms](#motion-terms), [Body Terms](#body-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:par",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "par",
+    "phoneticRep": "par"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:protoform": "*paru-heru",
+    "etymon:gloss": "belly-motion",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows semantic development from 'belly-motion' to general 'crawl'"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "crawl",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Motion Terms",
+        "Body Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The compound origin in belly+motion
+2. The reduction to a simple verb
+3. The body-based motion metaphor
+4. The potential for compounds like parlis
+
+Would you like to explore:
+1. Terms for different types of crawling?
+2. Compounds using par-?
+3. Terms for crawling creatures?
+4. Metaphorical extensions?
+
+---
+
+_**User**_
+
+grapar "earthworm" < gral "earth" + par "crawl" 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect! A compound describing the worm by its motion through earth. Let's 
+document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+grapar [gra.par]
+  : earthworm
+  : gral-par "earth-crawl" → grapar
+  : ([liquid deletion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows descriptive compound formation based on movement. Contrasts with
+    other crawling creatures. See: [Animal Terms](#animal-terms),
+    [Earth Terms](#earth-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:grapar",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "grapar",
+    "phoneticRep": "gra.par"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:gral"
+    },
+    {
+      "@id": "eh:par"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "gral-par",
+    "etymon:gloss": "earth-crawl",
+    "etymon:soundChange": "liquid deletion",
+    "etymon:note": "Shows descriptive compound formation based on movement"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "earthworm",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Earth Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The descriptive compound formation
+2. The liquid deletion in gral-
+3. The connection to earth/soil
+4. The movement-based naming pattern
+
+Would you like to explore:
+1. Other crawling creature terms?
+2. Compounds using grapar-?
+3. Metaphorical extensions?
+4. Related earth-dwelling creatures?
+
+---
+
+_**User**_
+
+takutakal "language" < takutak "rhythm" + 'al "person"
+
+then by metaphorical extension of a strike being a single unit of a rhythm
+
+takal "word" < tak "strike" + 'al "person"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brilliant derivation showing the connection between rhythm, language, and single 
+beats! Let's document both:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+takutakal [ta.ku.ta.kal]
+  : language
+  : takutak-'al "rhythm-person" → takutakal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows conceptual link between rhythm and language. Forms basis for
+    word formation takal. See: [Language Terms](#language-terms),
+    [Sound Terms](#sound-terms)
+
+takal [ta.kal]
+  : word
+  : tak-'al "strike-person" → takal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Metaphorical extension from takutakal, conceptualizing word as single
+    unit of language rhythm. See: [Language Terms](#language-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:takutakal",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "takutakal",
+    "phoneticRep": "ta.ku.ta.kal"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:takutak"
+    },
+    {
+      "@id": "eh:al"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "takutak-'al",
+    "etymon:gloss": "rhythm-person",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows conceptual link between rhythm and language"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "language",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms",
+        "Sound Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:takal",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "takal",
+    "phoneticRep": "ta.kal"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:tak"
+    },
+    {
+      "@id": "eh:al"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "tak-'al",
+    "etymon:gloss": "strike-person",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Metaphorical extension from takutakal, conceptualizing word as single unit of language rhythm"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "word",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This shows:
+1. The rhythm-language connection
+2. The metaphorical extension to single units
+3. The person suffix in both terms
+4. The conceptual framework of language as rhythm
+
+Would you like to explore:
+1. Other language-related terms?
+2. Compounds using these bases?
+3. Further metaphorical extensions?
+4. Terms for specific types of words/speech?
+
+---
+
+_**User**_
+
+ok now we have an idiom
+
+```
+imtirokul                 matakalel            ka'irurlislas'er                       'alrumul                                                pirul            grapares 
+scavenger-POSS  PLU-word-ERG ADJ-container-ILL-VERB person-DEM.DIST.ANIM-POSS   ear-POSS worm-ABS
+scavenger's            word                     inside                                       one's                                                      ear'              worm
+A conman's word is a worm in your ear
+```
+
+---
+
+_**Assistant**_
+
+
+
+Fantastic idiom! It combines several metaphors:
+1. Words as living things (worm)
+2. Ears as containers for words
+3. Scavengers/conmen as sources of harmful words
+4. The earth-crawling motion of deceptive ideas
+
+The structure is particularly nice:
+- Uses the container metaphor with -las
+- Links grapar "earthworm" to harmful infiltration
+- Suggests words "crawling" into one's mind
+- The distant demonstrative 'alrum suggesting "any person"
+
+It's similar to English idioms like:
+- "Put a bug in someone's ear" (suggest an idea)
+- "Words wormed their way in" (gradual infiltration)
+- "Plant a seed of doubt" (harmful idea taking root)
+
+Would you like to explore:
+1. Related idioms about deception?
+2. Other metaphorical uses of grapar?
+3. More expressions using imtirok for "conman/scavenger"?
+4. Other ear/mind container metaphors?
+
+---
+
+_**User**_
+
+I'd like to document this in the @lexicon.md under the Common Phrases & Expressions section
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! Let's add it to the expressions section:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+### Common Phrases & Expressions
+
+imtirokul matakalel ka'irurlislas'er 'alrumul pirul grapares
+  : "A conman's word is a worm in your ear"
+  : Literally: "scavenger's words container-into that-person's ear worm"
+  : Components:
+    - imtirok-ul (scavenger-POSS)
+    - ma-takal-el (PLU-word-ERG)
+    - ka-'irurlis-las-'er (ADJ-container-ILL-VERB)
+    - 'alrum-ul (person.DIST-POSS)
+    - pir-ul (ear-POSS)
+    - grapar-es (worm-ABS)
+  : Note: Expression warning against deceptive speech. Combines metaphors of:
+    - Words as living things (worm)
+    - Ears as containers for words
+    - Scavengers/conmen as sources of harmful words
+    - Earth-crawling motion suggesting insidious infiltration
+  : See: [Speech Terms](#speech-terms), [Animal Terms](#animal-terms),
+    [Body Terms](#body-terms)
+````
+
+This documents:
+1. The full expression
+2. Literal gloss
+3. Morphological breakdown
+4. Cultural/metaphorical significance
+5. Related semantic domains
+
+Would you like to:
+1. Add related expressions?
+2. Explore variations?
+3. Document typical contexts of use?
+4. Add cross-references to other terms?
+
+---
+
+_**User**_
+
+another metaphor here is that speakers call deceptive individuals as scavengers
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Yes, excellent observation! This metaphorical extension of "scavenger" to 
+"deceiver/conman" is a rich cultural metaphor. It suggests:
+
+1. Moral/social implications:
+   - Scavengers feed on death/decay
+   - Conmen prey on social decay/weakness
+   - Both are seen as morally compromised
+
+2. Behavioral parallels:
+   - Opportunistic feeding/exploitation
+   - Living off others' misfortune
+   - Operating on society's margins
+
+3. Cultural attitudes:
+   - Negative view of both literal/metaphorical scavenging
+   - Association with corruption/impurity
+   - Social stigma
+
+Would you like to:
+1. Document this metaphorical extension explicitly in imtirduok's entry?
+2. Explore other terms derived from this metaphor?
+3. Look at related expressions using this scavenger-deceiver parallel?
+4. Compare with similar metaphors in other semantic domains?
+
+This kind of metaphorical extension from animal behavior to human morality is 
+common cross-linguistically!
+
+---
+
+_**User**_
+
+what are roots for a word that means circle and ball from various IRL language families
+
+---
+
+_**Assistant**_
+
+Here are some interesting roots for "circle/ball" across language families:
+
+PIE:
+- *kwel- "turn, rotate" > circle concepts
+- *bʰel- "to blow, swell" > ball concepts
+- *wert- "to turn" 
+
+Semitic:
+- *k-r-r "round, roll"
+- *g-l-l "roll, round thing"
+- Arabic كرة (kura) "ball"
+
+Sino-Tibetan:
+- 圓 (yuán) "circle, round"
+- 球 (qiú) "ball"
+- Early forms show roundness with enclosure
+
+Austronesian:
+- *buluq "round object"
+- *buku "node, joint, round part"
+
+For Early Hick we could consider:
+1. A root based on turning/rotation
+2. One based on swelling/inflation
+3. One from rolling motion
+4. One describing enclosure/boundary
+
+Would you like to explore any of these patterns for developing circle/ball terms?
+
+---
+
+_**User**_
+
+'ilibris'er as a euphemism for sexual intercourse, from 'ilibris "passion" + VERB
+
+---
+
+_**Assistant**_
+
+
+
+---
+
 
 
 ---

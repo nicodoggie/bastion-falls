@@ -38,7 +38,6 @@ For stress-related vowel changes, see:
 ### Basic Actions
 
 'ir [ʔir]
-  : movement, motion
   : action
   : Proto-Hick \*heru → 'ir
   : ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -59,6 +58,13 @@ tak [tak]
   : Proto-Hick \*taku → tak ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
 
+krantak [kran.tak]
+  : to pierce, stab
+  : kran-tak "spike-strike" → krantak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows instrumental compound formation - striking with a spike. See:
+  [Basic Actions](#basic-actions), [Weapon Terms](#weapon-terms)
+
 krak'er [krak.ʔer]
   : to bite < krak-'er "tooth-VERB" → krak'er
   : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
@@ -76,7 +82,8 @@ hilis [hi.lis]
   : Proto-Hick \*hilisu → hilis
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms two contrasting verbs:
-  : - hilis'er "to look" (active/intentional seeing)
+  : - hilis'er "to look" (active/
+  ntional seeing)
   : - his'er "to see" (passive/unintentional perception)
 
 pir'er [pir.ʔer]
@@ -166,6 +173,14 @@ sinthir [sin.θir]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows metaphorical extension of floating motion to aerial movement.
   : See: [Motion Actions](#motion-actions), [Basic Terms](#basic-terms)
+
+par [par]
+  : crawl
+  : Proto-Hick *paru-heru "belly-motion" → par
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows semantic development from "belly-motion" to general "crawl".
+    Forms compounds like parlis "crawler" (child/baby). See:
+    [Motion Terms](#motion-terms), [Body Terms](#body-terms)
 
 ### Bodily/Life Actions
 
@@ -427,6 +442,14 @@ etil [e.til]
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   : See: [Basic Terms](#basic-terms)
 
+maetil [ma.e.til]
+  : many things; everything
+  : ma-etil "PLURAL-thing" → maetil
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows semantic extension from plural marker to universal quantifier.
+  Forms compounds like maetiltak "all-strike" (complete action). See:
+  [Basic Terms](#basic-terms), [Quantifiers](#quantifiers)
+
 'etil [ʔe.til]
   : living thing
   : Proto-Hick \*hi-etilu → 'etil
@@ -494,12 +517,54 @@ ewes [e.wes]
   : See: [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
 
 ul [ul]
-  : grasp; possess, own
+  : thumb
+  : grasp
   : Proto-Hick *ʔulu → ul
   : ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  : Note: Source of possessive suffix -ul through grammaticalization. Forms verb
-    ul'er "to grasp, to own"
-  : See: [Basic Terms](#basic-terms), [Grammatical Terms](#grammatical-terms)
+  : Note: Original root*ʔulu (~800 PF) had meanings "thumb/grasp/possession". By
+  Late Proto-Hick (~400 PF), bare form ulu specialized to "thumb/possession",
+  while locative form ulisu took on "grasp" meaning. Early Hick ul preserves
+  "thumb" meaning and grammaticalizes into possessive suffix -ul. See:
+  [Body Parts](#body-parts), [Grammatical Terms](#grammatical-terms)
+
+ul'er [ul.ʔer]
+  : to grasp
+  : ul-'er "thumb-VERB" → ul'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Shows development of thumb meaning to motion verb
+  : See: [Motion Verbs](#motion-verbs)
+
+us [us]
+  : grasp, possession
+  : Proto-Hick *ʔulu-isu → ulisu → us
+  : ([locative suffix, vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: Developed from locative form of*ʔulu (~400 PF) specializing in
+  "grasp" meaning. By Early Hick (~100 PF), us maintains both concrete "grasp"
+  and abstract "possession" meanings. Forms verb us'er "to grasp, to own". See:
+  [Basic Terms](#basic-terms)
+
+us'er [us.ʔer]
+  : to possess, to own
+  : us-'er "possess-VERB" → us'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Shows development of grasp meaning to motion verb
+  : See: [Motion Verbs](#motion-verbs)
+
+impal [im.pal]
+  : weakness, frailty (lit. "ill-belly")
+  : im-pal "ill-belly" → impal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Source of adjective kaimpal "weak". Shows metaphorical extension of
+  belly/gut health to general strength. See: [Body Terms](#body-terms),
+  [Basic Terms](#basic-terms)
+  
+eltek [el.tek]
+  : compacted, condensed (esp. of soil); shaped from loose material
+  : Proto-Hick *ʔelu-taku → eltek
+  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: From phrase "grale 'elu taku" (soil together hit). Shows semantic
+  development from physical action to resultant state. See:
+  [Basic Terms](#basic-terms), [Earth Terms](#earth-terms)
 
 #### Basic Properties
 
@@ -515,9 +580,34 @@ kali [ka.li]
   : ka-li "small-like" → kali
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows reanalysis of diminutive prefix as independent root
-  : See: [Basic Properties](#basic-properties), [Augmentative/Diminutive](#augmentativediminutive)
+  : See: [Basic Properties](#basic-properties),
+  [Augmentative/Diminutive](#augmentativediminutive)
+  
+kapal [ka.pal]
+  : strong, vigorous (lit. "healthy-bellied")
+  : ka-pal "like-belly" → kapal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension of belly/gut health to general strength.
+  Contrasts with kaimpal "weak". Forms compounds like kapaltak "strong-strike"
+  (forceful action). See: [Body Terms](#body-terms), [Basic Terms](#basic-terms)
+
+kaimpal [ka.im.pal]
+  : weak, feeble (lit. "ill-bellied")
+  : ka-im-pal "like-ill-belly" → kaimpal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension of belly/gut health to general strength.
+  Contrasts with kapal "strong" (lit. "healthy-bellied"). See:
+  [Body Terms](#body-terms), [Basic Terms](#basic-terms)
 
 #### Derived Terms
+
+temerok [te.me.rok]
+  : killer, murderer; predator
+  : temer-ok "death-AGENT" → temerok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "death-bringer". Primary sense of killer/murderer extends to
+  predatory animals. See: [Basic Terms](#basic-terms),
+  [Animal Terms](#animal-terms)
 
 ven'er [ven.ʔer]
   : to carry
@@ -742,6 +832,15 @@ dakisa [da.ki.sa]
   : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   : Note: Literally "snake in the gut"; metaphorical extension for intense desire
   : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+
+etilsim [e.til.sim]
+  : everything changes/transforms (with resignation)
+  : etil-sim "thing-TRANS" → etilsim
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Expresses both inevitable transformation and resignation to it. Often
+    used as response to change or loss.
+  : Example: imerespes etilsim "sleep changes everything, whatever"
+  : See: [Abstract Concepts](#abstract-concepts), [Philosophical Terms](#philosophical-terms)
 
 ### Sensory Terms
 
@@ -995,9 +1094,17 @@ tir'er [tir.ʔer]
     [Bodily Functions](#bodily-functions--states),
     [Process Terms](#process-terms)
 
+imtir [im.tir]
+  : rot, decay
+  : im-tir "NEG-ferment" → imtir
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension of fermentation process to negative
+  outcome. Forms verb imtir'er "to rot". See: [Process Terms](#process-terms),
+  [Food Terms](#food--consumption-terms)
+
 ### Food & Consumption Terms
 
-#### Basic Terms
+#### Food Terms
 
 du [du]
   : meat
@@ -1026,6 +1133,14 @@ mil [mil]
   : Note: Shows semantic narrowing from general liquid to specifically rendered
     animal fat used in food preparation and preservation
   : See: [Body Parts](#body-parts)
+
+imtirlis [im.tir.lis]
+  : mushroom
+  : imtir-lis "rot-fruit" → imtirlis
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural understanding of mushrooms as fruits of decay. Forms
+    compounds for edible vs poisonous varieties. See: [Flora Terms](#flora-terms),
+    [Food Terms](#food--consumption-terms)
 
 #### Drink Terms
 
@@ -1252,6 +1367,16 @@ toran [to.ran]
   : Proto-Hick \*ranu → ran
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
+#### Watel Features
+
+bramulis [bra.mu.lis]
+  : vortex, whirlpool
+  : bram-ul-lis "tide-POSS-eye" → bramulis
+  : ([compound fusion, coda simplification](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "tide's eye". Shows coda simplification where final -l of
+  bramul merges with initial l- of lis. See: [Maritime Terms](#maritime-terms),
+  [Water Features](#water-features)
+
 #### Landforms
 
 tor [tor]
@@ -1394,6 +1519,14 @@ saresp [sa.resp]
   : Note: Metaphorical extension of hidden leaf beneath; reflects cultural view
     of growth as emergence from concealment. Forms verb saresp'er "to sprout"
   : See: [Flora & Agriculture](#flora--agriculture)
+
+imtirlis [im.tir.lis]
+  : mushroom
+  : imtir-lis "rot-fruit" → imtirlis
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural understanding of mushrooms as fruits of decay. Forms
+    compounds for edible vs poisonous varieties. See: [Flora Terms](#flora-terms),
+    [Food Terms](#food--consumption-terms)
 
 #### Cultivated Plants
 
@@ -1716,6 +1849,23 @@ kethmater [keθ.ma.ter]
 Example: materok-el rismater-im-ris keth-es ward-ter boatman-ERG
 reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 
+bramulis [bra.mu.lis]
+  : vortex, whirlpool
+  : bram-ul-lis "tide-POSS-eye" → bramulis
+  : ([compound fusion, coda simplification](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "tide's eye". Shows coda simplification where final -l of
+  bramul merges with initial l- of lis. See: [Maritime Terms](#maritime-terms),
+  [Water Features](#water-features)
+
+#### Tool Terms
+
+kasger [kas.ger]
+  : mirror (esp. polished stone mirror)
+  : kasu-garu "reflection-stone" → kasger
+  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows technological origin in polished stone mirrors. See:
+  [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
+
 #### Cultural Terms
 
 'iruretil [ʔi.ru.re.til]
@@ -1887,6 +2037,21 @@ wudgral [wud.gral]
 
 #### Animal Terms
 
+aniko [a.ni.ko]
+  : animal (general term)
+  : Proto-Hick *xani-kostu → aniko
+  : ([initial fricative loss, compound fusion, final syllable reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: Literally "four-legged". Shows semantic extension from descriptive
+  compound to general term. See: [Animal Terms](#animal-terms),
+  [Basic Terms](#basic-terms)
+
+imtirduok [im.tir.du.ok]
+  : scavenger
+  : imtirdu-ok "cadaver-AGENT" → imtirduok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows formation pattern of "carrion-eater" common across languages.
+    Applies to both animals and birds. See: [Animal Terms](#animal-terms)
+
 #### Animals
 
 nes [nes]
@@ -2022,6 +2187,14 @@ torba [tor.ba]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows metaphorical extension linking goats to mountains and paternal authority
   : See: [Landforms](#landforms), [Kinship Terms](#kinship-terms), [Pastoral Terms](#pastoral-terms)
+
+grapar [gra.par]
+  : earthworm
+  : gral-par "earth-crawl" → grapar
+  : ([liquid deletion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows descriptive compound formation based on movement. Contrasts with
+    other crawling creatures. See: [Animals](#animals),
+    [Earth Terms](#earth-terms)
 
 #### Bird Terms (Nocturnal)
 
@@ -2364,7 +2537,7 @@ sar [sar]
 
 kul [kul]
   : magic, sorcery
-  : Proto-Hick \*kulu → kul
+  : Eldrim \*curu "skill; craft" → kul
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   : See: [Sacred Terms](#sacred--ritual)
 
@@ -2559,8 +2732,9 @@ pir [pir]
   : Proto-Hick \*piru → pir
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   : Examples:
-  - pir'er [ˈpir.ʔer] "to listen" < pir-'er "ear-VERB"
-  - pirthral [ˈpir.θral] "ritual hearing" < pir-thral "ear-sacred" Note: Forms
+
+- pir'er [ˈpir.ʔer] "to listen" < pir-'er "ear-VERB"
+- pirthral [ˈpir.θral] "ritual hearing" < pir-thral "ear-sacred" Note: Forms
     compounds relating to hearing and ritual attention
 
 kar [kar]
@@ -2641,6 +2815,20 @@ sat [sat]
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for appendages, with anatomical extension. Forms compounds
   for specific body parts. See: [Body Parts](#body-parts)
+
+krakrak [kra.krak]
+  : fang
+  : kran-krak "horn-tooth" → krakrak
+  : ([nasal deletion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows nasal deletion in compound. Contrasts with general term krak
+  "tooth". See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
+
+imtirdu [im.tir.du]
+  : rotting meat; cadaver
+  : imtir-du "rot-meat" → imtirdu
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows semantic extension from rotting meat to cadaver. Contrasts with
+    du for fresh meat. See: [Body Terms](#body-terms), [Death Terms](#death-terms)
 
 #### Face Terms
 
@@ -2814,6 +3002,15 @@ imeresp [i.me.resp]
   : Note: Shows metaphorical extension of breath/spirit sinking to indicate sleep
   See: [Spirit Terms](#spirit-terms), [Body Parts](#body-parts)
 
+'ilibris'er [ʔi.li.bris.ʔer]
+  : (euphemistic) to make love, have sexual intercourse
+  : 'ilibris-'er "passion-VERB" → 'ilibris'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Euphemistic term derived from 'ilibris "passion". Shows cultural
+    preference for metaphors of warmth/fire in intimate contexts. Contrasts with
+    more direct terms. See: [Body Terms](#body-terms),
+    [Sacred Terms](#sacred--ritual)
+
 #### Derived Terms
 
 vinuimris [vi.nu.im.ris]
@@ -2915,7 +3112,7 @@ arsil [ar.sil]
   [Medical Terms](#medical-terms), [Body Terms](#body-parts)
 
 dup [dup]
-  : pearl; lump, mass
+  : pearl; lump, mass; sphere
   : Proto-Hick *dupu "pearl" → dup
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass". See:
@@ -2981,9 +3178,36 @@ arasud [a.ra.sud]
   [Construction Terms](#construction--dwelling),
   [Abstract Concepts](#abstract-concepts)
 
+#### Measure Terms
+
+uran [u.rən]
+  : inch (unit of length, approximately thumb-width)
+  : Proto-Hick *ulu-haranu → uran
+  : ([compound fusion, unstressed vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: Shows development of measurement system from body parts. Compound of
+  *ulu "thumb" + *haranu "length". Compare ul "thumb". See: [Measurement Terms](#measurement-terms),
+  [Body Parts](#body-parts)
+
+brastran [bras.tran]
+  : foot (unit of length, approximately arm-length)
+  : brast-ran "arm-length" → brastran
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development of -ran as measurement suffix from*haranu "length".
+  Compare uran "inch". See: [Measurement Terms](#measurement-terms),
+  [Body Parts](#body-parts)
+
+barakter [ba.rak.ter]
+  : league (distance walkable in one hour, roughly 3-4 miles)
+  : barak-ter "walk-time" → barakter
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Distance measure based on one hour's walking time. Shows temporal suffix
+  used for distance measurement. Often shortened to rakter in colloquial speech.
+  See: [Measurement Terms](#measurement-terms), [Distance Terms](#distance-terms),
+  [Time Terms](#time--celestial)
+
 ### Vehicular Terms
 
-### Basic Terms
+#### Basic Terms
 
 tre [tre]
   : wagon, cart
@@ -3060,6 +3284,14 @@ bres [bres]
   : Proto-Hick \*bresu → bres
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
+
+bressim [bres.sim]
+  : weather (conditions)
+  : bres-sim "wind-TRANS" → bressim
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows lexicalization of translative case marking, conceptualizing weather
+    as "becoming like wind". Forms verb bressim'er "to change (of weather)". See:
+    [Wind Terms](#wind-terms), [Climate Terms](#climate--weather)
 
 #### Cardinal Winds
 
@@ -3337,6 +3569,24 @@ mobar [mo.bar]
   : ([negation prefix](@/languages/hick/early-hick/_index.md#negation-system))
   : Note: Used for both literal namelessness and social outcasts
 
+### Language Terms
+
+#### Basic Terms
+
+takutakal [ta.ku.ta.kal]
+  : language
+  : takutak-'al "rhythm-person" → takutakal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows conceptual link between rhythm and language. Forms basis for
+    word formation takal. See: [Language Terms](#language-terms),
+    [Sound Terms](#sound-terms)
+takal [ta.kal]
+  : word
+  : tak-'al "strike-person" → takal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Metaphorical extension from takutakal, conceptualizing word as single
+    unit of language rhythm. See: [Language Terms](#language-terms)
+
 ### Political Terms
 
 #### Basic Terms
@@ -3369,6 +3619,20 @@ paket [pa.ket]
   : ([final vowel loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb paket'er "to speak, to talk" See:
   [Social Terms](#social-terms)
+  
+tenwa [ten.wa]
+  : writing; spellcraft
+  : Eldrim tengwa "letter" → tenwa
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: Shows semantic extension from basic writing to magical inscription. See:
+  [Communication Terms](#communication-terms), [Sacred Terms](#sacred--ritual)
+
+tenwa'er [ten.wa.ʔer]
+  : to write; to make spells
+  : tenwa + -'er → tenwa'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Maintains dual meaning of base noun in verbal form. See:
+  [Communication Terms](#commun
 
 ### Social Terms
 
@@ -3423,6 +3687,62 @@ dakisa [da.ki.sa]
   ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   Note: Literally "snake in the gut"; metaphorical extension for intense desire
   See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+
+brismer [bris.mer]
+  : passionate lover
+  : bris-mer "fire-parent/heart" → brismer
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows ambiguous compound analysis between "passionate-parent" and
+  "fire-heart", typical of Early Hick love poetry. See: [Love Terms](#love-terms),
+  [Person Terms](#person-terms)
+
+storbran [stor.bran]
+  : marriage, family union
+  : stor-bran "join-lineage" → storbran
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows formalization of marriage as union between family lines during
+  Early Hick period. Forms verb storbran'er "to marry". See:
+  [Family Terms](#family-terms), [Social Terms](#social-terms)
+
+#### Emotion Terms
+
+'ibris'er [ʔi.bris.ʔer]
+  : to burn
+  : 'ibris-'er "burn-VERB" → 'ibris'er
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Base form for metaphorical extensions to passion and anger. See:
+  [Basic Terms](#basic-terms), [Fire Terms](#fire-terms)
+
+'ilibris [ʔi.li.bris]
+  : passion; inspire fervor
+  : 'il-'ibris "good-burn" → 'ilibris
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows positive metaphorical extension of burning sensation. See:
+  [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
+
+imibris [im.i.bris]
+  : rage, anger; wrath
+  : 'im-'ibris "ill-burn" → 'imibris
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows negative metaphorical extension of burning sensation. See:
+  [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
+
+kasai [kas.əi]
+  : introspectiveness
+  : introspection, self-reflection
+  : kasu-ai "reflection-water" → kasai
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: From ancient practice of water-gazing meditation. Shows metaphorical
+  extension from physical reflection to mental contemplation. See:
+  [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
+
+sai [sai]
+  : sense of self; inner voice
+  : Back-formation from kasai, reanalyzed as ka-sai "ADJ-self"
+  : ([reanalysis](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Originally part of kasai "introspection", reanalyzed as adjectival
+  compound leading to extraction of sai as independent term. See:
+  [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
 
 #### Exchanges
 
@@ -3565,7 +3885,17 @@ kethbran [keθ.bran]
   Note: Shows metaphorical extension of "hundred lineages" to mean extended family/kin.
   See: [Family Terms](#family-terms), [Social Terms](#social-terms)
 
-#### Usage Examples
+storbran [stor.bran]
+  : marriage, family union
+  : stor-bran "join-lineage" → storbran
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows formalization of marriage as union between family lines during
+  Early Hick period. Forms verb storbran'er "to marry". See:
+  [Family Terms](#family-terms), [Social Terms](#social-terms)
+
+#
+
+### Usage Examples
 
 merlis-el thirmer-es thren-ʔer  
   offspring-ERG grandparent-ABS watch-ACT  
@@ -3577,7 +3907,6 @@ merlis-el thirmer-es thren-ʔer
 
 sin [sin]
   : one
-  : Proto-Hick \*su-inu → sin (counting form)
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 tir [tir]
@@ -3590,9 +3919,9 @@ thal [θal]
   : Proto-Hick \*thalu → thal (basic form)
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
-fen [fen]
+anin [a.nin]
   : four
-  : Proto-Hick \*fen-inu → fen (counting form)
+  : Proto-Hick \*xanu-inu → anin (counting form)
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 pil [pil]
@@ -3879,27 +4208,62 @@ kalis [ka.lis]
   : welcome; raised spirits
   : 'imer "life" + -itar (SUPE) + -es (ABS) → ('i)meritares
   : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
-  : Note: Formal greeting. Dialectal loss of initial glottal stop allows semantic extension from "upon life" to "raised breath/soul" through reanalysis with imer "breath/soul" + superessive -itar. Common usage leads to simplified form imritares
+  : Note: Formal greeting. Dialectal loss of initial glottal stop allows
+    semantic extension from "upon life" to "raised breath/soul" through
+    reanalysis with imer "breath/soul" + superessive -itar. Common usage leads
+    to simplified form imritares
   : See: [Spirit Terms](#spirit-terms), [Common Phrases](#common-phrases--expressions)
 
 'ilitar sarespes [ʔi.li.tar sa.res.pes]
   : Happy New Year
   : lit. "goodness upon the sprout"
-  : Note: Traditional New Year greeting exchanged on sinthir sarespul thrales. Shows cultural link between agricultural cycles and well-wishing. The formal construction with superessive -itar reflects the blessing's ritual nature
-  : See: [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual), [Common Phrases](#common-phrases--expressions)
+  : Note: Traditional New Year greeting exchanged on sinthir sarespul thrales.
+    Shows cultural link between agricultural cycles and well-wishing. The formal
+    construction with superessive -itar reflects the blessing's ritual nature
+  : See: [Time Terms](#time--celestial),
+    [Sacred Terms](#sacred--ritual),
+    [Common Phrases](#common-phrases--expressions)
 
 ### Cultural Practices
 
 'irurlises duwesimris [ʔi.rur.lis.es du.we.sim.ris]
   : gift-giving
   : 'irur-lis-es duwes-imris "hollow-fruit-ABS feed-ELL" → 'irurlises duwesimris
-  : Note: Cultural practice of giving filled gourds as gifts during harvest festivals, metaphorically described as "feeding the gourd"
+  : Note: Cultural practice of giving filled gourds as gifts during harvest
+    festivals, metaphorically described as "feeding the gourd"
+  : See: [Food Terms](#food-terms), [Common
+  Phrases](#common-phrases--expressions)
 
 sinthir sarespul thrales [ˈsin.θir sa.ˈres.pul ˈθra.les]
   : New Year's Day; first day of spring
   : lit. "first sprout's day"
-  : Note: Marks the agricultural new year when the first sprout emerges. Shows the cultural significance of plant growth cycles in Early Hick timekeeping. The use of animate ordinal (-thir) reflects the personification of the first sprout as an active participant in the yearly cycle
-  : See: [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual), [Flora & Agriculture](#flora--agriculture)
+  : Note: Marks the agricultural new year when the first sprout emerges. Shows
+    the cultural significance of plant growth cycles in Early Hick timekeeping.
+    The use of animate ordinal (-thir) reflects the personification of the first
+    sprout as an active participant in the yearly cycle
+  : See: [Time Terms](#time--celestial),
+    [Sacred Terms](#sacred--ritual),
+    [Flora & Agriculture](#flora--agriculture)
+
+### Idioms
+
+imtirokul matakalel ka'irurlislas'er 'alrumul pirul grapares
+  : "A conman's word is a worm in your ear"
+  : Literally: "scavenger's words container-into that-person's ear worm"
+  : Components:
+    - imtirok-ul (scavenger-POSS)
+    - ma-takal-el (PLU-word-ERG)
+    - ka-'irurlis-las-'er (ADJ-container-ILL-VERB)
+    - 'alrum-ul (person.DIST-POSS)
+    - pir-ul (ear-POSS)
+    - grapar-es (worm-ABS)
+  : Note: Expression warning against deceptive speech. Combines metaphors of:
+    - Words as living things (worm)
+    - Ears as containers for words
+    - Scavengers/conmen as sources of harmful words
+    - Earth-crawling motion suggesting insidious infiltration
+  : See: [Speech Terms](#speech-terms), [Animal Terms](#animal-terms),
+    [Body Terms](#body-terms)
 
 ## Sound Changes in Compounds
 
