@@ -5714,6 +5714,542 @@ _**Assistant**_
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! Let's document this euphemism:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+'ilibris'er [ʔi.li.bris.ʔer]
+  : (euphemistic) to make love, have sexual intercourse
+  : 'ilibris-'er "passion-VERB" → 'ilibris'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Euphemistic term derived from 'ilibris "passion". Shows cultural 
+    preference for metaphors of warmth/fire in intimate contexts. Contrasts with
+    more direct terms. See: [Body Terms](#body-terms), 
+    [Sacred Terms](#sacred--ritual)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:ilibris'er",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'ilibris'er",
+    "phoneticRep": "ʔi.li.bris.ʔer"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:ilibris"
+    },
+    {
+      "@id": "eh:er"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'ilibris-'er",
+    "etymon:gloss": "passion-VERB",
+    "etymon:note": "Euphemistic term showing cultural preference for warmth/fire metaphors in intimate contexts"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense", 
+      "definition": {
+        "@value": "(euphemistic) to make love, have sexual intercourse",
+        "@language": "en"
+      },
+      "lexinfo:register": "euphemistic",
+      "lexinfo:semanticField": [
+        "Body Terms",
+        "Sacred Terms"
+      ]
+    }
+  ]
+}
+````
+
+This shows:
+1. The euphemistic nature
+2. The fire/warmth metaphor
+3. The cultural context
+4. The register distinction
+
+Would you like to explore:
+1. Related euphemisms?
+2. Other registers for this concept?
+3. Compounds using this term?
+
+---
+
+_**User**_
+
+harabran "conflict, grievance" < haran "divide" + bran "lineage, family"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect - a compound showing how social division is conceptualized through family 
+splits. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+harabran [ha.ra.bran]
+  : conflict, grievance (especially between families/clans)
+  : haran-bran "divide-lineage" → harabran
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural conceptualization of conflict as family/clan division.
+    Forms verb harabran'er "to feud". See: [Social Terms](#social-terms),
+    [Conflict Terms](#conflict-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:harabran",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "harabran",
+    "phoneticRep": "ha.ra.bran"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:haran"
+    },
+    {
+      "@id": "eh:bran"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "haran-bran",
+    "etymon:gloss": "divide-lineage",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows cultural conceptualization of conflict as family/clan division"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "conflict, grievance (especially between families/clans)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Social Terms",
+        "Conflict Terms"
+      ]
+    }
+  ]
+}
+````
+
+This shows:
+1. The social dimension of conflict
+2. The family/clan context
+3. The metaphor of division
+4. The potential for feuds
+
+Would you like to explore:
+1. Related conflict terms?
+2. Family/clan terminology?
+3. Compounds using harabran-?
+4. Expressions about feuds?
+
+---
+
+_**User**_
+
+I know I've used and talked about it, but it doesn't seem to have been documented
+
+taglas "take" < tag "hand" + ILL
+tagimris "give" < tag "hand" + ELL 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes, let's document these important verbs formed with case suffixes:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+taglas [tag.las]
+  : take, receive
+  : tag-las "hand-ILL" → taglas
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows common pattern of illative case marking motion into hand.
+    Contrasts with tagimris "give". See: [Motion Terms](#motion-terms),
+    [Body Terms](#body-terms)
+
+tagimris [tag.im.ris]
+  : give
+  : tag-imris "hand-ELL" → tagimris
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows common pattern of ellative case marking motion from hand.
+    Contrasts with taglas "take". See: [Motion Terms](#motion-terms),
+    [Body Terms](#body-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:taglas",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "taglas",
+    "phoneticRep": "tag.las"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:tag"
+    },
+    {
+      "@id": "eh:las"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "tag-las",
+    "etymon:gloss": "hand-ILL",
+    "etymon:note": "Shows common pattern of illative case marking motion into hand"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "take, receive",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Motion Terms",
+        "Body Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:tagimris",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "tagimris",
+    "phoneticRep": "tag.im.ris"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:tag"
+    },
+    {
+      "@id": "eh:imris"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "tag-imris",
+    "etymon:gloss": "hand-ELL",
+    "etymon:note": "Shows common pattern of ellative case marking motion from hand"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "give",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Motion Terms",
+        "Body Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+This shows:
+1. The hand-based metaphor
+2. The directional case system
+3. The complementary pair
+4. The lexicalization pattern
+
+Would you like to explore:
+1. Other case-based verbs?
+2. Hand-based compounds?
+3. Give/take expressions?
+4. Related motion verbs?
+
+---
+
+_**User**_
+
+'iltakutak "peace; harmony" < 'il "good" + takutak "rhythm"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect! A compound showing peace conceptualized as "good rhythm". Let's document 
+it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+'iltakutak [ʔil.ta.ku.tak]
+  : peace, harmony
+  : 'il-takutak "good-rhythm" → 'iltakutak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural conceptualization of peace as harmonious rhythm. Often
+    used in diplomatic contexts. Forms verb 'iltakutak'er "to make peace". See:
+    [Social Terms](#social-terms), [Sacred Terms](#sacred--ritual)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:iltakutak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'iltakutak",
+    "phoneticRep": "ʔil.ta.ku.tak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:il"
+    },
+    {
+      "@id": "eh:takutak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'il-takutak",
+    "etymon:gloss": "good-rhythm",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows cultural conceptualization of peace as harmonious rhythm"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "peace, harmony",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Social Terms",
+        "Sacred Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+This shows:
+1. The rhythm-based metaphor for social harmony
+2. The good/positive prefix
+3. The diplomatic context
+4. The sacred/ritual associations
+
+Would you like to explore:
+1. Peace-making terminology?
+2. Diplomatic expressions?
+3. Compounds using 'iltakutak-?
+4. Related social harmony terms?
+
 ---
 
 
