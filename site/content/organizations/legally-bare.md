@@ -1,7 +1,7 @@
 +++
 title = "Legally Bare"
 [extra]
-date_established = "date#1274-10-01"
+date_established = "date#1275-07-01"
 [taxonomies]
 organization_type = ["Magazine"]
 parent_organizations = ["Ministry of Science"]
@@ -39,8 +39,19 @@ names:
   [Lollia Skala](@/characters/lollia-skala.md), also featured in
   [Nightshift Nurses](@/organizations/nightshift-nurses.md), she was added in
   the roster for _Legally Bare_ in order to drum up interest in the magazine.
-- **Sultry Sorceress Mia** - Pen name of
+  She was only in the first issue of the magazine, but may contribute at times.
+- **Enchanting Sorceress Mia** - "Has no sense of embarrassment" Pen name of
   [Dorothy Campbell](@/characters/dorothy-campbell.md), a member of the
   [Hags of Hama](@/organizations/hags-of-hama.md) who was scouted and hired by
   part-owner and _Nightshift Nurses_ model/columnist
   [Mystine Nightingale](@/characters/mystine-nightingale.md).
+- **School Girl Cinna Moan** - Dark skinned girl who writes the column "Ask
+  Cinna" about relationship advice, makeup tips and school life.
+- **Anger of Delight**
+- **Maerwen Lunartear**
+
+## Sponsors
+
+- Blue Bella, lingerie company
+- Peach John, lingerie company
+- Nymphette, lingerie company

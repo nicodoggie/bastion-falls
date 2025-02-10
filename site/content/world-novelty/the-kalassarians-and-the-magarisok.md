@@ -11,7 +11,7 @@ with deep natural harbors on its north bank.
 They called their settlement _Surrata: safe harbor_ in their language, and the
 lands around this little islet, _Seneria: the Land of Glamour_. Of course, the
 islet itself was already inhabited by the _Hick_ peoples, in particular, the
-tribe of the _Magarisok_, who called it _Garbratr: the Stone upon the Flow_.
+tribe of the _Magarisok_, who called it _Garbasam: the Stone upon the Flow_.
 
 The Magarisok were wary of the newcomers, but their ways of hospitality had
 demanded that that they welcome these exhausted travelers upon their shores. The

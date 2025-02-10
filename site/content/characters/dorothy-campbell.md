@@ -1,5 +1,5 @@
 +++
-title = "Dorothy Campbell"
+title = "Dorothy Marie Campbell"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/138847380"
 [extra.image]
@@ -7,6 +7,7 @@ url = "/characters/dorothy-campbell.jpg"
 attribution = "Nanahoshi Shizuka by @pattii_pattii on X/Twitter"
 attribution_url = "https://x.com/pattii_pattii"
 [extra.cha]
+alias = "Miya"
 age = "13"
 sex = "female"
 pronouns = "she/her"

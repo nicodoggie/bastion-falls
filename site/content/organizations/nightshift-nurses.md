@@ -39,14 +39,19 @@ names:
   [Azalea Ainsley](@/characters/azalea-ainsley.md)
 - **Beloved Nurse Lollia** - The pen name of
   [Lollia Skala](@/characters/lollia-skala.md)
+  Tanduarian
 - **Horny Healer Shara** - The pen name of
   [Shara Nasari](@/characters/shara-nasari.md)
+  Light Brown Haired, model/actress, Sarebian
+  Deflora, Stag Party
 - **Katalin the Godly** - The pen name of
   [Katalin Helinski](@/characters/katalin-helinski.md)
+  Short, Tanduarian
 - **Private Nurse Inez** - The pen name of
   [Ines Lannesiana Cicero](@/characters/ines-lannesiana-cicero.md)
-- **Raunchy Nurse Judy** - The pen name of
+- **Raunchy Nurse Tharja** - The pen name of
   [Tharja Lutgard](@/characters/tharja-lutgard.md)
+  MILF character, Soniman
 - **Sex-Starved Dr. Marina Visconti** - The pen name of
   [Mystine Nightingale](@/characters/mystine-nightingale.md), a graduate of the
   University of Sanery College of Medicine. Her focus is on diseases and that are

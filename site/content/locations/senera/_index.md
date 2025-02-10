@@ -166,7 +166,7 @@ distinct natural regions:
 - Northwestern highlands
 - Numerous sacred pools and springs
 - Ancient Hick astronomical sites
-- Peak: Malter Point (3,100 ft)
+- Peak: Sinitar (3,100 ft)
 
 ### The Kethren Hills
 
@@ -195,7 +195,7 @@ distinct natural regions:
 
 - Rannek System (from "ran-nek" - "stone-water")
   - Network of smaller rivers and streams
-  - Originates from limestone springs in western foothills
+  - Originates from limestone springs and karsts in the western foothills
   - Creates branching delta system in coastal plains
   - Natural irrigation channels through farming regions
   - Known for:
@@ -270,7 +270,7 @@ distinct natural regions:
 
 - Total area: ~45,000 square miles
 
-#### Geographic Distribution:
+#### Geographic Distribution
 
 - Maltrek highlands (~8,000 sq mi)
 
@@ -350,7 +350,6 @@ distinct natural regions:
 ### Northern Peninsula
 
 - Maltrek highlands
-- Sacred pools
 - Ancient observatories
 - Protected harbors
 
@@ -397,23 +396,104 @@ along with sweeping reforms to the judicial and administrative systems of the
 realm. It systematizes the existing feudal hierarchy, and codifies the rights
 and responsibilities of the nobility.
 
+These titles and lands are usually inherited by the bloodline of the holder, in
+a manner that is consistent with the rules of primogeniture. In the modern era,
+Senera had developed extensive jurisprudence to codify how titles within the
+peerage are granted, inherited, and sometimes revoked.
+
 ### Royalty
 
-#### Duchies
+Members of the ruling family of Senera hold the highest titles in the peerage.
+The head of the Royal House is the King or Queen of Senera, depending on which
+of the pair holds the direct line of succession. While by definition, the
+Royalty is not a part of the peerage, specific members of the Royal House have
+roles within the context of the peerage in certain circumstances, such as
+resolving deadlocks in legislative matters.
 
-#### Earldoms and Thanedoms
+### Duchies
+
+Duchies are the most powerful of the peerage, and hold the largest holdings and
+estates in the realm besides the Royalty. The term Duke came from Kalassarian
+"Dux", which was a title granted to governors of provinces. In fact, the first
+Maidenfeld King was once the Dux of Seneria before the Fall of Western Kalassar.
+
+Dukes swear fealty to the King or Queen of Senera directly.
+
+Presently, there are three duchies in the realm:
+
+#### The Duchy of the Maltreks
+
+#### The Duchy of Kethrek
+
+#### The Duchy of the South (WIP)
 
 ### Marquessates
 
+Marquessates are the second most powerful of the peerage. Their lands are
+considered areas of military importance, and as such, the Marquesses are also
+typically given top military command in the realm.
+
+Marquesses, as with Dukes, swear fealty to the Crown directly.
+
+#### The Marquessate of Inespell
+
+#### The Marquessate of Rannek
+
+### Earldoms and Thanedoms
+
+Earldoms and Thanedoms are titles and lands typically granted by a Duke or a
+Marquess. They are the third most powerful of the peerage. While the Crown has
+final say over the confirmation of these titles, Earls and Thanes are expected
+to swear fealty to the Duke or Marquess who granted them their title.
+
+#### Earldoms of Inespell
+
+#### Earldoms of Rannek
+
+#### Thanedoms of the Maltreks
+
+#### Earldoms of the South
+
 ### Viscounties
 
-## Noble Titles outside the Peerage
+Viscounties are the second lowest rank within the peerage. They are typically granted
+by Earls or Thanes, but are also sometimes granted by Dukes or Marquesses to
+cadet branches of their houses. Viscounties are usually granted along with large
+contiguous agricultural estates in order to ease tax collection.
 
-### Counties
+#### Viscounties of Inespell
+
+#### Viscounties of Rannek
+
+1. Maidenfeld
+
+#### Viscounties of the South
 
 ### Baronies
 
+Baronies are the lowest rank within the peerage. They are typically granted to
+land holders of key townships, ports and cities where trade and commerce is
+paramount, but are not large enough to be considered a county.
+
+## Landed Gentry
+
 ### Baronetcies
+
+Baronetcies are considered by most as the lowest noble rank, however they are
+outside the peerage system. They are sometimes granted lands that are equal to,
+or even larger that some Baronies, but they are not granted the privileges of
+those within the peerage, such as the right to a vote in legislative matters.
+
+The distinction between granting a title of Baron or Baronet is a political one,
+in which their lord would want to bestow a title, while minimizing political
+implications.
+
+### Knights
+
+In the early days of the realm, knighthoods were granted to families within the
+equestrian class who did not have the political clout to be granted a higher
+title to. Knights are given estates within their liege lord's domain along with
+a stipend to support their knightly duties.
 
 ## Religion
 
@@ -493,7 +573,7 @@ Their roles, duties, and privileges are as follows:
 
 - Ultimate authority over the lands and titles of the realm
 - Power to veto legislation passed by the Noble Electorate
-- Power to declare martial law, which in itself allows: 
+- Power to declare martial law, which in itself allows:
   - Imposition of emergency taxes
   - Declaration of emergency legislation
   - Conscription of military forces
@@ -517,13 +597,9 @@ Their roles, duties, and privileges are as follows:
 
 ### Dukes/Duchesses
 
-#### Duke of the North
+#### Duke Maltrek
 
-#### Duke of the East
-
-#### Duke of the South
-
-#### Duke of the West
+#### Duke Kethrek
 
 ### Marquessate
 

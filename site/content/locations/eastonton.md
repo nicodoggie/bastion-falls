@@ -5,6 +5,7 @@ population = ""
 [taxonomies]
 location_type = ["township","vicounty"]
 parent_location = ["Inespell March", "Eastern Senera", "Senera"]
+
 +++
 
 _Eastonton_ was a township in the Northern [Inespell March](@/locations/inespell-march.md)

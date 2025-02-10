@@ -209,7 +209,7 @@ term for goods that have fallen off official manifests. While not strictly
 legitimate, these activities provide important supplementary income for many
 families and help maintain the settlement's economic viability.
 
-### Layout
+## Layout
 
 - Street pattern reflects near-undirected street development pattern
 - Ancient stone quays (partially maintained)
@@ -221,7 +221,7 @@ families and help maintain the settlement's economic viability.
 - Maze-like alleyways
 - Multiple discrete docking points
 
-### Maritime Community
+## Maritime Community
 
 - Local fishing fleet base
 - Traditional maritime families
@@ -237,7 +237,7 @@ Its position away from main shipping lanes, once a disadvantage, now provides
 certain advantages for those seeking to conduct business away from official
 oversight.
 
-### Shadow Economy
+## Shadow Economy
 
 The Narrows' distance from Port Surrey's administrative center and its complex
 pre-Kalassarian street layout have made it an ideal location for commerce that
@@ -245,7 +245,7 @@ prefers to avoid official scrutiny. Multiple small docks, hidden waterfront
 access points, and a maze of ancient warehouses provide ample opportunity for
 goods to move discretely.
 
-#### Infrastructure
+## Infrastructure
 
 - Concealed docking points
 - Underground storage networks
@@ -256,7 +256,7 @@ goods to move discretely.
 - Multiple escape routes
 - Observation posts
 
-#### Unofficial Activities
+## Unofficial Activities
 
 - Alternative cargo handling
 - "Informal" customs arrangements
@@ -267,7 +267,7 @@ goods to move discretely.
 - Discrete shipping services
 - Alternative dispute resolution
 
-#### Community Dynamics
+## Community Dynamics
 
 - Strong local loyalty
 - Informal watch networks

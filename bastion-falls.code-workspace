@@ -34,6 +34,10 @@
     },
     "path-intellisense.mappings": {
     },
-    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Tengwar Formal CSUR'"
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Tengwar Formal CSUR'",
+    "md-graph.fileTypes": [
+      "md",
+      "mdx"
+    ]
   }
 }

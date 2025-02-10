@@ -2,8 +2,8 @@
 title = "Port Surrey-on-the-Brams"
 
 [extra.location.details]
-total_area = "~35 square miles"
-total_population = "~315,000"
+area = "~35 square miles"
+population = "~315,000"
 elevation = "0-500 feet above sea level"
 climate = "Temperate maritime"
 government = "Municipal council under Admiralty oversight"

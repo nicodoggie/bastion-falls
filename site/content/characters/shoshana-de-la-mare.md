@@ -10,7 +10,7 @@ married_to = ""
 married_on = ""
 [taxonomies]
 families = []
-parents = []
+parents = ["Mildred De La Mare"]
 children = []
 siblings = []
 religions = ["Orthodox Divine Masochism"]
@@ -19,12 +19,12 @@ ethnicities = ["Apgarian"]
 species = ["Human"]
 +++
 
-Shoshana is the only child of Mildred De La Mare, a known whore in the Mermals.
-Mildred believes in the existence of Baba Yaga and her children of the crones.
-It was rumoured that not only Shoshana’s voice was offered to Baba Yaga but also
-her soul in exchange for beauty and treasures. At a very young age, despite her
-disability, Mildred put little Shoshana to work as a servant to various
-merchants in the Narrows.
+Shoshana is the only child of Mildred De La Mare, an infamous whore in the
+[Murmals](@/locations/the-narrows.md#the-murmals). Mildred believes in the
+existence of Baba Yaga and her children of the crones. It was rumoured that not
+only Shoshana’s voice was offered to Baba Yaga but also her soul in exchange for
+beauty and treasures. At a very young age, despite her disability, Mildred put
+little Shoshana to work as a servant to various merchants in the Narrows.
 
 Shoshana believed that her Mother was able to communicate with Baba Yaga and
 feared that one day, Baba Yaga would come for her soul. She escapes her Mother

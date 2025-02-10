@@ -11,7 +11,8 @@ date_of_birth = "1257-05-12"
 families = ["Surrata-Spellvig"]
 parents = ["Sonia Spellvig", "Rodolphus Surrata-Spellvig"]
 children = []
-siblings = []
+siblings = ["Alexander Surrata-Spellvig", "Aurelius Surrata-Spellvig",
+"Alexandra Surrata-Spellvig", "Henry Surrata-Spellvig"]
 religions = ["Orthodox Divine Masochist"]
 organizations = ["Royal Seneran Navy", "House Surrata"]
 ethnicities = ["Seneran"]
