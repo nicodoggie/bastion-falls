@@ -212,13 +212,13 @@ cluster-resolution propagate:
   {b,t,θ,k}$1 a r =>  $1 r a / _ {s,t,k}
 
   # Case 2: rəC > rC before another consonant
-  ə => * / r _ @consonant <syl>
+  ə => * / r _ @consonant <syl> // {b,t,k} r _ @consonant <syl>
 
   # Case 3: CəC > CC before r
   ə => * / @consonant _ @consonant r
 
   # Case 4: Final schwa deletion
-  ə => * / {b,t,k} _ r [unstressed]  # For br,tr,kr clusters
+  ə => * / {b,t,k} _ r [unstressed] # For br,tr,kr clusters
   ə => * / s _ {p,t,k} [unstressed] # For st,sk clusters
 
 final-vowel-transposition:
@@ -227,6 +227,7 @@ final-vowel-transposition:
   Then: ə => e / [stop] _ @consonant
 
 final-vowel-reduction:
+  h ə => * ə / _ $ // $ _ $
   ə => * / _ $ // $ _ $
 
 romanizer:

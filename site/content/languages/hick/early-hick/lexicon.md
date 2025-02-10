@@ -181,6 +181,21 @@ par [par]
   : Note: Shows semantic development from "belly-motion" to general "crawl".
     Forms compounds like parlis "crawler" (child/baby). See:
     [Motion Terms](#motion-terms), [Body Terms](#body-terms)
+taglas [tag.las]
+  : take, receive
+  : tag-las "hand-ILL" → taglas
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows common pattern of illative case marking motion into hand.
+    Contrasts with tagimris "give". See: [Motion Terms](#motion-terms),
+    [Body Terms](#body-terms)
+
+tagimris [tag.im.ris]
+  : give
+  : tag-imris "hand-ELL" → tagimris
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows common pattern of ellative case marking motion from hand.
+    Contrasts with taglas "take". See: [Motion Terms](#motion-terms),
+    [Body Terms](#body-terms)
 
 ### Bodily/Life Actions
 
@@ -589,7 +604,7 @@ kapal [ka.pal]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows metaphorical extension of belly/gut health to general strength.
   Contrasts with kaimpal "weak". Forms compounds like kapaltak "strong-strike"
-  (forceful action). See: [Body Terms](#body-terms), [Basic Terms](#basic-terms)
+  (forceful action). See: [Body Parts](#body-parts), [Basic Terms](#basic-terms)
 
 kaimpal [ka.im.pal]
   : weak, feeble (lit. "ill-bellied")
@@ -597,7 +612,13 @@ kaimpal [ka.im.pal]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows metaphorical extension of belly/gut health to general strength.
   Contrasts with kapal "strong" (lit. "healthy-bellied"). See:
-  [Body Terms](#body-terms), [Basic Terms](#basic-terms)
+  [Body Parts](#body-parts), [Basic Terms](#basic-terms)
+
+kakrak [kak.rak]
+  : sharp, pointed
+  : < ADJ-krak "tooth"
+  : Shows typical adjectival reduplication pattern
+  : See: [Body Parts](#body-parts)
 
 #### Derived Terms
 
@@ -1139,7 +1160,8 @@ imtirlis [im.tir.lis]
   : imtir-lis "rot-fruit" → imtirlis
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows cultural understanding of mushrooms as fruits of decay. Forms
-    compounds for edible vs poisonous varieties. See: [Flora Terms](#flora-terms),
+    compounds for edible vs poisonous varieties.
+  : See: [Flora Terms](#flora-terms),
     [Food Terms](#food--consumption-terms)
 
 #### Drink Terms
@@ -1449,6 +1471,14 @@ miraitar [mi.rai.tar]
   : cold rain
   : mir-aitar "cold-rain" → miraitar
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+ken [ken]
+  : snow
+  : < PH *kenu
+  : Forms compounds: torken "snow-peak", kengar "glacier"
+  : Note: Basic term for snow, showing typical development from PH with final
+    vowel loss. Common in mountain-related terminology.
+  : See: [Weather Terms](#weather), [Landscape Terms](#landforms)
 
 ### Flora & Agriculture
 
@@ -1812,7 +1842,35 @@ tamin [ta.min]
   : Note: Direct borrowing of Eldrim technical term.
   : See: [Tool Terms](#tool-terms)
 
-#### Maritime Terms
+#### Minerals
+
+togar [to.gar], toriger [to.ri.ger]
+  : limestone, mountain rock
+  : tor-gar "mountain-bone/rock" → togar
+  : PH *tor + PH*garu "mountain-bone/rock" → toriger
+  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : Note: Shows semantic extension from visual similarity between bone and
+    limestone. The term gar "bone/rock" likely originated in limestone-rich
+    western regions where the material's resemblance to bone was particularly
+    noticeable.
+  : See: [Landscape Terms](#landforms), [Material Terms](#material-terms)
+
+asatogar [a.sa.to.gar]
+  : travertine (lit. "vine limestone")
+  : asa-togar "vine-limestone" → asatogar
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Named for its flowing, vine-like mineral formations. See:
+    [Material Terms](#material-terms), [Natural World](#natural-world)
+
+krakiger [krak.i.ger]
+  : flint, chert
+  : < PH *kraku "tooth" +*garu "rock"
+  : Compound with epenthetic -i-
+  : Note: Names the material for its sharp, tooth-like qualities, following a
+    common cross-linguistic pattern for naming this stone type
+  : See: [Material Terms](#material-terms)
+
+# Maritime Terms
 
 mater [ma.ter]
   : vessel, boat
@@ -1860,11 +1918,45 @@ bramulis [bra.mu.lis]
 #### Tool Terms
 
 kasger [kas.ger]
+  : obsidian, glass
   : mirror (esp. polished stone mirror)
   : kasu-garu "reflection-stone" → kasger
   : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
-  : Note: Shows technological origin in polished stone mirrors. See:
-  [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
+  : Note: Basic term for reflective stone, especially obsidian. Extended to all
+    glass materials. Shows technological origin in polished stone mirrors and
+    natural volcanic glass. Forms compounds for different types of glass/mirrors.
+  : See: [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
+
+gasam [ga.sam]
+  : grinding
+  : gar "rock" + SUBE -asam "under" → gasam
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "under rock," referring to the action of grinding.
+    Forms the base for specialized grinding terms.
+
+asamgasam [a.sam.ga.sam]
+  : flattening (initial grinding)
+  : asamitar "rest" + gasam "grinding" → asamgasam
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "rest grinding," referring to the initial flattening
+    process.
+  : See: [Tool Terms](#tool-terms)
+
+aigasam [ai.ga.sam]
+  : wet grinding
+  : ai "water" + gasam "grinding" → aigasam
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "water grinding," referring to the use of water in the
+    smoothing process.
+  :See: [Tool Terms](#tool-terms)
+
+kasgasam [kas.ga.sam]
+  : lapping (final polishing)
+  : kasger "mirror" + gasam "grinding" → kasgasam
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Literally "mirror grinding," referring to the final polishing
+    stage to achieve a reflective surface.
+  : See: [Tool Terms](#tool-terms)
 
 #### Cultural Terms
 
@@ -3250,6 +3342,28 @@ arasaditar [a.ra.sa.di.tar]
 
 ### Climate & Weather
 
+#### Cold Terms
+
+mirik [mi.rik]
+  : ice
+  : < PH *mirikrakhar "biting cold" (cold+tooth+action) →*miriku → mirik
+  : Shows dramatic simplification common in basic terms
+  : Note: Exemplifies metaphorical extension from sensation of extreme cold to
+    the substance itself
+  : See: [Climate & Weather](#climate--weather)
+aimirik [ai.mi.rik]
+  : slush, partially melted snow/ice
+  : < ai-mirik "water-ice"
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Describes mixture state between water and ice
+  : See: [Weather Terms](#weather-terms), [States of Matter](#states-of-matter)
+
+kaken [ka.ken]
+  : snowy, snow-covered
+  : < ADJ-ken
+  : Shows typical adjectival reduplication pattern
+  : See: [Weather Terms](#weather-terms), [Basic Terms](#basic-terms)
+
 #### Temperature Terms
 
 mir [mir]
@@ -3661,6 +3775,14 @@ natlas [nat.las]
   state of desire/affection" to "friend". Compare grammaticalized desiderative
   -nat. See: [Social Terms](#social-terms), [Case System](#case-system)
 
+'iltakutak [ʔil.ta.ku.tak]
+  : peace, harmony
+  : 'il-takutak "good-rhythm" → 'iltakutak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural conceptualization of peace as harmonious rhythm. Often
+    used in diplomatic contexts. Forms verb 'iltakutak'er "to make peace". See:
+    [Social Terms](#social-terms), [Sacred Terms](#sacred--ritual)
+
 #### Love Terms
 
 sibris [si.bris]
@@ -3770,6 +3892,13 @@ imwes [im.wes]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Shows productive use of im- prefix for harmful actions. Forms verb imwes'er.
   See: [Action Terms](#action-terms), [Conflict Terms](#conflict-terms)
+harabran [ha.ra.bran]
+  : conflict, grievance (especially between families/clans)
+  : haran-bran "divide-lineage" → harabran
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural conceptualization of conflict as family/clan division.
+    Forms verb harabran'er "to feud". See: [Social Terms](#social-terms),
+    [Conflict Terms](#conflict-terms)
 
 ### Kinship Terms
 
@@ -3892,8 +4021,6 @@ storbran [stor.bran]
   : Note: Shows formalization of marriage as union between family lines during
   Early Hick period. Forms verb storbran'er "to marry". See:
   [Family Terms](#family-terms), [Social Terms](#social-terms)
-
-#
 
 ### Usage Examples
 

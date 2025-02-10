@@ -8327,6 +8327,326 @@
           ]
         }
       ]
+    },
+    {
+      "@id": "eh:harabran",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "harabran",
+        "phoneticRep": "ha.ra.bran"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:haran"
+        },
+        {
+          "@id": "eh:bran"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "haran-bran",
+        "etymon:gloss": "divide-lineage",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural conceptualization of conflict as family/clan division"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "conflict, grievance (especially between families/clans)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Social Terms",
+            "Conflict Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:iltakutak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'iltakutak",
+        "phoneticRep": "ʔil.ta.ku.tak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:il"
+        },
+        {
+          "@id": "eh:takutak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'il-takutak",
+        "etymon:gloss": "good-rhythm",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural conceptualization of peace as harmonious rhythm"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "peace, harmony",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Social Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:ken",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ken",
+        "phoneticRep": "ken"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kenu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "snow",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:mirik",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mirik",
+        "phoneticRep": "mi.rik"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *mirikrakhar",
+        "etymon:gloss": "cold-tooth-action",
+        "etymon:soundChange": [
+          "compound fusion",
+          "medial syllable loss",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows semantic development from 'biting cold' to 'ice'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ice",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Basic Terms",
+            "States of Matter"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:krakiger",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krakiger",
+        "phoneticRep": "krak.i.ger"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kraku-garu",
+        "etymon:gloss": "tooth-rock",
+        "etymon:components": [
+          "*kraku (tooth)",
+          "*garu (rock)"
+        ],
+        "etymon:soundChange": [
+          "compound fusion",
+          "epenthetic -i-",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "flint, chert",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Material Terms",
+            "Tool Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:torken",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "torken",
+        "phoneticRep": "tor.ken"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:tor"
+        },
+        {
+          "@id": "eh:ken"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-ken",
+        "etymon:gloss": "mountain-snow",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "snow-peak, snow-capped mountain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Weather Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kengar",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kengar",
+        "phoneticRep": "ken.gar"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ken"
+        },
+        {
+          "@id": "eh:gar"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ken-gar",
+        "etymon:gloss": "snow-rock",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "glacier, permanent snow formation",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Weather Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@graph": [
+        {
+          "@id": "eh:aimirik",
+          "@type": "ontolex:LexicalEntry",
+          "canonicalForm": {
+            "@type": "ontolex:Form",
+            "writtenRep": "aimirik",
+            "phoneticRep": "ai.mi.rik"
+          },
+          "lexicalCategory": "lexinfo:Noun",
+          "decomp:subterm": [
+            {
+              "@id": "eh:ai"
+            },
+            {
+              "@id": "eh:mirik"
+            }
+          ],
+          "etymology": {
+            "@type": "etymon:Etymology",
+            "etymon:compound": "ai-mirik",
+            "etymon:gloss": "water-ice",
+            "etymon:soundChange": "compound fusion",
+            "etymon:note": "Describes mixture state between water and ice"
+          },
+          "sense": [
+            {
+              "@type": "ontolex:LexicalSense",
+              "definition": {
+                "@value": "slush, partially melted snow/ice",
+                "@language": "en"
+              },
+              "lexinfo:semanticField": [
+                "Weather Terms",
+                "States of Matter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "eh:kaken",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kaken",
+        "phoneticRep": "ka.ken"
+      },
+      "lexicalCategory": "lexinfo:Adjective",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:derivation": "ADJ-ken",
+        "etymon:note": "Shows typical adjectival reduplication pattern"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "snowy, snow-covered",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
     }
   ]
 }

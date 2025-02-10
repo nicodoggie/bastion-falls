@@ -523,6 +523,40 @@ Early Hick has three strategies for marking number:
    - thal-ran-mater "three boats"
    - pil-ran-natlas "five friends"
 
+4. Fractional Marking with ran-
+   The partitive prefix ran- can also mark fractions when used with numbers:
+
+   ```plaintext
+   tirranrakter
+   two-PART-league
+   "half-league" (league divided in two)
+   
+   sinranvinuram
+   three-PART-yard
+   "third of a yard" (yard divided in three)
+   ```
+
+   Note that this creates ambiguity with numerical marking, as number-ran-noun
+   can mean either "X number of nouns" or "1/X of a noun" depending on context:
+
+   ```plaintext
+   tirranlis
+   two-PART-child
+   "two children" (numerical marking)
+
+   tirranrakter
+   two-PART-league
+   "half-league" (fractional marking)
+   ```
+
+   The interpretation depends on:
+   - Whether the noun can be meaningfully divided
+   - The pragmatic context (counting vs measuring)
+   - The register (technical vs general usage)
+
+   This ambiguity becomes particularly relevant in measurement and trade contexts,
+   where both counting and dividing are common.
+
 4. Exclusivity Marking telran-
    The partitive prefix ran- can combine with tel- to form telran-, marking
    exclusivity:
@@ -629,15 +663,16 @@ This literary innovation appears primarily in written texts and formal speech.
 
 ### Demonstrative System
 
-1. Visible/Known
+1. Visible/Known, Proximal
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
+2. Visible/Known, Medial
    - -en [en] "that" (inanimate)
    - -tan [tan] "that" (animate)
-2. Hidden but Sensed
+3. Hidden but Sensed
    - -eth [eθ] "this/that" (inanimate)
    - -thir [θir] "this/that" (animate)
-3. Distant/Out of Sight
+4. Distant/Out of Sight
    - -um [um] "that" (inanimate)
    - -rum [rum] "that" (animate)
 
@@ -1000,6 +1035,7 @@ the performer of the action.
 6. Eyes as reality
 7. Skin as appearance
 8. Skin, Hair as abstract senses
+9. Stomach, gut as strength
 
 ## Affix Order
 
@@ -1050,8 +1086,8 @@ Examples:
    - -imris (ELL): ellative case ("from")
    - -las (ILL): illative case ("into")
    - -itar (SUPE): superessive case ("upon")
-   - -esp (SUB): subessive case ("under")
-   - -asam (SUBE): sublative case ("onto")
+   - -esp (SUBE): subessive case ("under")
+   - -asam (SUB): sublative case ("onto")
    - -sim (TRANS): translative case ("becomes")
 
    See: [Spatial Case System](#spatial-case-system)
@@ -1294,46 +1330,155 @@ Key features:
 - Number agreement maintained in plural forms
 - Regular ergative-absolutive alignment for non-reflexive arguments
 
+4. Method/Means Expression
+   Uses the object control construction with ka- prefix and translative -sim to
+   express how an action is performed:
+
+   ```plaintext
+   'al'isel paketes katenwasim tenwa'er
+   person.PROX.ERG speech.ABS ADJ.write.TRANS write.VERB
+   "I wrote the speech through writing"
+
+   materok-el rismater-es katagasim ward'er
+   handler-ERG reed.boat-ABS ADJ.craft.TRANS guide.VERB
+   "The handler guides the reed boat through crafting"
+   ```
+
+   The construction treats the method as a caused state change, following the
+   same pattern as other reflexive and causative expressions in Early Hick.
+
 ### Comparative Constructions
 
-Early Hick has two primary ways to form comparisons, derived from Proto-Hick
-*kasu "reflection":
+Early Hick has two primary strategies for expressing comparisons: similarity/
+equivalence marking and relative degree constructions.
 
-#### Simple Comparisons
+#### Similarity and Equivalence
 
-Uses the ka- prefix for straightforward comparisons with single nouns:
+Early Hick marks similarity through two related constructions derived from
+Proto-Hick *kasu "reflection":
+
+1. Simple Comparisons
+   Uses the ka- prefix for straightforward comparisons with single nouns:
+
+   ```plaintext
+   kamales ward'er
+   ADJ.pool.ABS contain.VERB
+   "(It) contains like a pool"
+   ```
+
+2. Complex Comparisons
+   Uses kas conjunction for phrases with modifiers:
+
+   ```plaintext
+   kas [kameris kethbranes] tagimris'er
+   LIKE [ADJ.love kin.ABS] give.VERB
+   "As beloved kin give"
+   ```
+
+#### Relative Degree
+
+Early Hick expresses relative degree through a specialized construction using
+spatial cases. The construction treats comparisons as stative predicates with
+two arguments:
+
+1. The comparable (what's being compared) takes absolutive case
+2. The comparator (what it's compared to) takes either superessive (-itar) or
+   subessive (-asam) case
+3. The quality being compared is expressed as a stative verb with -'er
+
+##### Greater Than
+
+Uses the superessive case (-itar "upon/above"):
 
 ```plaintext
-kamales ward'er
-ADJ.pool.ABS contain.VERB
-"(It) contains like a pool"
-kakethbran ma'altales
-ADJ.kin person.MED.ABS
-"They were as kin"
+tores tor'er malitar
+mountain-ABS height-VERB pool-SUPE
+"The mountain is taller than the pool"
+(lit. "mountain heights above-pool")
+
+'ales vinu'er 'altanitar
+person-ABS birth-VERB man-SUPE
+"The person is older than the man"
+(lit. "person births above-man")
 ```
 
-Note: While ka- has developed into a general adjective marker, its comparative
-use remains productive in simple constructions where no scope ambiguity exists.
+##### Less Than
+
+Uses the subessive case (-asam "under/below"):
 
 ```plaintext
-kas [kameris kethbranes] tagimris'er
-LIKE [ADJ.love kin.ABS] give.VERB
-"As beloved kin give"
-kas [males 'ilises] ward'er
-LIKE [pool.ABS known.ABS] contain.VERB
-"Like a known pool contains"
+males tor'er torasam
+pool-ABS height-VERB mountain-SUBE
+"The pool is less tall than the mountain"
+(lit. "pool heights under-mountain")
+
+'altanes vinu'er 'alasam
+man-ABS birth-VERB person-SUBE
+"The man is younger than the person"
+(lit. "man births under-person")
 ```
 
-The kas construction:
+##### Equality
 
-- Takes scope over entire bracketed NP
-- Preserves internal case marking
-- Can include multiple modifiers
-- Often used in poetic or formal contexts
+Uses the comparative particle kas (see: [Comparative Markers](#development-of-comparative-markers)):
 
-#### Complex Comparisons
+```plaintext
+kas males tores tor'er
+LIKE pool-ABS mountain-ABS height-VERB
+"The pool is as tall as the mountain"
+(lit. "like pool mountain heights")
+```
 
-Uses kas conjunction for phrases with modifiers or when scope needs to be clear:
+##### Syntactic Properties
+
+The comparative construction shows several important properties:
+
+1. Case Alignment
+   - Comparable takes absolutive case (-es)
+   - Comparator takes spatial case (-itar/-asam)
+   - Maintains ergative-absolutive alignment pattern
+
+2. Word Order
+   - Basic order: COMPARABLE-ABS QUALITY-VERB COMPARATOR-SUPE/SUBE
+   - Follows standard clause structure flexibility
+
+3. Multiple Comparators
+   - Can be coordinated with ru:
+
+   ```plaintext
+   tores tor'er [mal o keth ruitar]
+   mountain-ABS height-VERB [pool PART sea AND-SUPE]
+   "The mountain is taller than both the pool and sea"
+   ```
+
+   - Similarly for subessive comparisons:
+
+     ```plaintext
+     males tor'er [tor o keth ruasam]
+     pool-ABS height-VERB [mountain PART sea AND-SUBE]
+     "The pool is shorter than both the mountain and sea"
+     ```
+
+   The case marking attaches to the coordinator ru rather than to individual
+   nouns, following Early Hick's general coordination pattern.
+
+4. Negation
+   - Negates the stative verb with mo-:
+
+   ```plaintext
+   males motor'er torasam
+   pool-ABS NEG-height-VERB mountain-SUBE
+   "The pool is not less tall than the mountain"
+   ```
+
+5. Temporal Reference
+   - Takes standard temporal markers:
+
+   ```plaintext
+   branum 'ales vinu'er 'altanitar
+   PAST person-ABS birth-VERB man-SUPE
+   "The person was older than the man"
+   ```
 
 ## Tense
 
@@ -1639,6 +1784,7 @@ Temporal relationships between clauses use specialized coordinators:
 - 'aterbran [ʔa.ter.bran] "before" (lit. "what-flow-dawn")
 - 'aterimris [ʔa.te.rim.ris] "after" (lit. "what-flow-from")
 - 'atertel [ʔa.ter.tel] "until" (lit. "what-flow-end")
+- 'aterter [ʔa.te.ter] "come to pass" (lit. "what-flow-time")
 
 Dependent clauses use nominalized verbs:
 
@@ -1806,9 +1952,10 @@ based on their syntactic role within the relative clause.
 
 2. Interrogative Forms Used
 
+   - ak "which" (inanimate referents)
    - alis/aleth/alum: "who" (animate referents)
    - atal/ateth/atum: "where" (locations)
-   - atel/ateleth/atelum: "when" (time)
+   - ater/atereth/aterum: "when" (time)
    - aker/akereth/akerum: "how" (manner)
 
 3. Case Marking
@@ -2099,12 +2246,33 @@ the general adjective marker.
 
 ### Development of the possession marker -ul
 
-The possessive suffix derives from Proto-Hick *ʔulu "grasp, hold":
+The Early Hick possessive suffix -ul shows a complex development path from
+Proto-Hick *ʔulu:
 
-1. Historical Path
-   - PH *ʔulu "grasp, hold" > EH ul "grasp; possess, own"
-   - Grammaticalized to suffix -ul marking possession
-   - Original verb survives as ul'er "to grasp, to own"
+1. Original Proto-Hick (~800 PF):
+   - *ʔulu had three related meanings:
+     - "thumb" (concrete body part)
+     - "grasp" (physical action)
+     - "possession" (abstract relation)
 
-This grammaticalization path (grasp > possess > possessive marker) is cross-
-linguistically common, similar to developments seen in other language families.
+2. Late Proto-Hick (~400 PF):
+   - Semantic split occurs:
+     - Bare form ulu: "thumb, possession"
+     - Locative form ulisu: "grasp" (from *ʔulu-isu)
+   - Shows common pattern of using locative case to specify action meanings
+
+3. Early Hick (~100 PF):
+   - Further specialization:
+     - ul: "thumb" (noun)
+     - -ul: possessive marker (grammaticalized from possession meaning)
+     - us: "grasp, possession" (from ulisu)
+
+This development explains:
+
+- Why the possessive marker is phonologically identical to "thumb"
+- The relationship between ul and us
+- The preservation of both concrete and abstract meanings
+- The parallel development of possession marking in compounds
+
+The pattern parallels other Early Hick grammaticalizations where body parts
+develop into grammatical markers (compare -el ergative < *ʔelu "by means of").
