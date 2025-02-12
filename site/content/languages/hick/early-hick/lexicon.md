@@ -793,6 +793,14 @@ thil [θil]
   : Note: Abstract sense developed from basic meaning
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
+tal [tal]
+  : place, location
+  : < Pre-Hick dialect *tal < Proto-Hick*halu "place of cleansing"
+  : ([dialectal borrowing](@/languages/hick/early-hick/_index.md#dialectal-variation))
+  : Note: Borrowed from Pre-Hick dialect where *halu developed spatial meaning.
+    Contrasts with thil "virtue" from same root. Forms many location compounds.
+    See: [Spatial Terms](#spatial-terms), [Basic Terms](#basic-terms)
+
 thid [θid]
   : truth
   : Proto-Hick \*hawadu "sacred way" → thid
