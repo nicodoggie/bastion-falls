@@ -55,6 +55,7 @@ tag'er [tag.ʔer]
 
 tak [tak]
   : strike, impact
+  : touch, contact
   : Proto-Hick \*taku → tak ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
 
@@ -68,6 +69,22 @@ krantak [kran.tak]
 krak'er [krak.ʔer]
   : to bite < krak-'er "tooth-VERB" → krak'er
   : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+
+siltak [sil.tak]
+  : touch, tactile sensation
+  : sil-tak "skin-contact" → siltak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development of tactile terms from body part compounds. Contrasts
+    with plain tak'er for forceful contact. See: [Body Terms](#body-terms),
+    [Sensation Terms](#sensation-terms)
+
+siltak'er [sil.tak.ʔer]
+  : to touch, to feel
+  : siltak-'er "skin.contact-VERB" → siltak'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Primary verb for tactile sensation. Developed to disambiguate from tak'er
+    "to hit" after sound merger of *taku and*tahaku. See: [Body Terms](#body-terms),
+    [Sensation Terms](#sensation-terms)
 
 ### Perceptual Actions
 
@@ -379,10 +396,11 @@ arum [a.rum]
   : Note: Derived from "act of emptying," reflecting the concept of hollowness
 
 'ihir [ʔi.hir]
-  : to mine (for ore)
+  : mine; vein of minerals/metals
   : Proto-Hick \*heru lu xiru → 'ihir
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  : Note: Literally "move through ore", shows development of specialized mining terminology
+  : Note: Literally "move through ore", shows development of specialized mining
+    terminology, reanalyzed as place where mining occurs due to nominal form
 
 ### Conflict Actions
 
@@ -412,7 +430,8 @@ ward [ward]
   : See: [Sacred Terms](#sacred--ritual)
 
 tak [tak]
-  : strike, impact; right (direction)
+  : strike, impact;
+  : touch, contact
   : Proto-Hick \*taku → tak
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
   : Note: Onomatopoeic origin; directional sense from cultural association with
@@ -768,7 +787,7 @@ takutak [ˈta.ku.tək]
 #### Moral & Ethical Terms
 
 thil [θil]
-  : virtue, moral
+  : virtue, moral; purity
   : Proto-Hick \*halu → thil
   : ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
   : Note: Abstract sense developed from basic meaning
@@ -934,26 +953,22 @@ kar [kar]
 
 #### Physical Sensation
 
-tak [tak]
-  : touch, contact
-  : Proto-Hick \*taku → tak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  : Note: Basic term for physical contact
-  : See: [Basic Terms](#basic-terms)
-
-taklas [tak.las]
-  : feel (reception)
-  : tak-las "touch-ILL" → taklas
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
-  : Note: Shows productive use of illative case for reception of touch
-  : See: [Basic Terms](#basic-terms), [Case System](#case-system)
-
 takimris [ta.kim.ris]
-  : touch (active)
-  : tak-imris "touch-ELL" → takimris
+  : to attack, to oppose
+  : tak-imris "strike-ELL" → takimris
   : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
-  : Note: Shows productive use of ellative case for active touching
-  : See: [Basic Terms](#basic-terms), [Case System](#case-system)
+  : Note: Shows productive use of ellative case for outward-directed aggressive
+    action. Contrasts with tak'er for simple striking. Forms compounds like
+    takimrisok "attacker". See: [Action Terms](#action-terms),
+    [Conflict Terms](#conflict-terms)
+
+krantak [kran.tak]
+  : physical pain
+  : kran-tak "pierce-hit" → krantak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Basic term for physical pain/hurt. Shows cultural distinction between
+    physical and emotional pain. Forms verb siltak'er "to feel physical pain".
+    See: [Body Terms](#body-terms), [Physical States](#physical-states)
 
 #### Taste Perception
 
@@ -981,6 +996,7 @@ belimris [be.lim.ris]
 
 tak [tak]
   : strike, impact; sound
+  : touch, contact
   : Proto-Hick \*taku → tak
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
@@ -1870,7 +1886,25 @@ krakiger [krak.i.ger]
     common cross-linguistic pattern for naming this stone type
   : See: [Material Terms](#material-terms)
 
-# Maritime Terms
+### Geographical Terms
+
+asamgral [a.sam.gral]
+  : flatlands, plains
+  : asam-gral "lie-land" → asamgral
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension from "lying" position to flat terrain.
+    Contrasts with torgral "highlands". See: [Landscape Terms](#landscape-terms),
+    [Geographic Terms](#geographic-terms)
+
+'ibrigral [ʔib.ri.gral]
+  : farmlands, cultivated fields
+  : 'ibri-gral "manure-land" → 'ibrigral
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development from fertilization practice to general agricultural
+    land. Contrasts with wild gral. See: [Agricultural Terms](#agricultural-terms),
+    [Landscape Terms](#landscape-terms)
+
+### Maritime Terms
 
 mater [ma.ter]
   : vessel, boat
@@ -1914,6 +1948,31 @@ bramulis [bra.mu.lis]
   : Note: Literally "tide's eye". Shows coda simplification where final -l of
   bramul merges with initial l- of lis. See: [Maritime Terms](#maritime-terms),
   [Water Features](#water-features)
+
+matir [ma.tir]
+  : (of vessels) to move through water, travel by water
+  : mater-'ir "vessel-motion" → matir
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: General term for water vessel movement, neutral regarding means of
+    propulsion. Contrasts with specific terms for sailing, rowing, etc. Forms
+    basis for maritime motion compounds. See: [Maritime Terms](#maritime-terms),
+    [Motion Terms](#motion-terms)
+
+rantirduok [ran.tir.du.ok]
+  : pirate, maritime raider
+  : ran-imtirduok "river-scavenger" → rantirduok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Originally "river raider", extended to all maritime thieves. Shows
+    compound reduction of imtirduok. See: [Maritime Terms](#maritime-terms),
+    [Professional Terms](#professional-terms)
+
+rantirdu [ran.tir.du]
+  : piracy, maritime raiding
+  : Reanalyzed from rantirduok without agentive -ok
+  : ([back formation](@/languages/hick/early-hick/_index.md#derivational-morphology))
+  : Note: Shows productive back-formation pattern creating abstract nouns from
+    agent terms. Forms verb rantirdu'er "to engage in piracy". See:
+    [Maritime Terms](#maritime-terms), [Criminal Terms](#criminal-terms)
 
 #### Tool Terms
 
@@ -2287,6 +2346,14 @@ grapar [gra.par]
   : Note: Shows descriptive compound formation based on movement. Contrasts with
     other crawling creatures. See: [Animals](#animals),
     [Earth Terms](#earth-terms)
+lik [lik]
+  : dragon
+  : < Eldrim lyg "dragon, snake, drake"
+  : ([loanword](@/languages/hick/early-hick/_index.md#loanwords))
+  : Note: Early borrowing from Eldrim, showing cultural contact and mythological
+    influence. Narrowed from general serpentine being to specific dragon concept.
+    See: [Mythological Terms](#mythological-terms),
+    [Borrowed Terms](#borrowed-terms)
 
 #### Bird Terms (Nocturnal)
 
@@ -2623,6 +2690,14 @@ sar [sar]
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Also means "green" from leaf association
 
+arak [a.rak]
+  : color
+  : < Proto-Hick *ʔaraku "light (animate)"
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : Note: Shows semantic shift from animate light to color. Forms compounds for
+    specific colors. See: [Color Terms](#color-terms),
+    [Visual Terms](#visual-terms)
+
 ### Magical Terms
 
 #### Basic Terms
@@ -2653,6 +2728,22 @@ imurkulok [i.mur.ku.lok]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Literally "evil magic worker"
   : See: [Sacred Terms](#sacred--ritual), [Magical Terms](#magical-terms)
+
+'imwen [ʔim.wen]
+  : witch, evil woman
+  : 'im-wen'al "evil-woman" → 'imwen
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
+  : Note: Pejorative term for female magic user. Shows gender bias in magical
+    terminology. Contrasts with wenkulok. See: [Magic Terms](#magic-terms),
+    [Gender Terms](#gender-terms)
+
+wenkulok [wen.ku.lok]
+  : sorceress
+  : wen'al-kulok "woman-sorcerer" → wenkulok
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
+  : Note: Neutral/respectful term for female magic user. Shows regularization of
+    gender marking in professional terms. See: [Magic Terms](#magic-terms),
+    [Professional Terms](#professional-terms)
 
 ### Time & Celestial
 
@@ -2698,6 +2789,30 @@ takuter [ta.ku.ter]
   : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   : Note: Shows temporal metaphor of dawn/past, derived from interrogative
   : See: [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
+
+#### Time Terms
+
+terlas [ter.las]
+  : previous
+  : ter-las "flow-ILL" → terlas
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows conceptualization of past as flow inward. Contrasts with terimris.
+    See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+
+terimris [te.rim.ris]
+  : next
+  : ter-imris "flow-ELL" → terimris
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows conceptualization of future as flow outward. Contrasts with
+    terlas. See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+
+eter [e.ter]
+  : flow of things; correct ordering, sorting
+  : etil-ter "things-flow" → eter
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension of flow to proper arrangement. Forms verb
+    eter'er "to sort, arrange". See: [Abstract Terms](#abstract-concepts),
+    [Motion Terms](#motion-terms)
 
 #### Celestial Bodies
 
@@ -2999,8 +3114,7 @@ kirgar [kir.gər]
 
 brast [brast]
   : dominant arm
-  : Proto-Hick \*bara-satu "prominent-appendage" →
-  brast
+  : Proto-Hick \*bara-satu "prominent-appendage" → brast
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Specifically refers to dominant arm, contrasting with ret "arm
   (general)". Forms verb brast'er "to reach". Cultural link to tak "right
@@ -3224,6 +3338,27 @@ kandup [kan.dup]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Specific term for cranial swelling. See: [Medical Terms](#medical-terms)
 
+### Tool Terms
+
+#### Weapon Terms
+
+krakesi [kra.ke.si]
+  : sword, long bladed weapon
+  : krak-kasigaru "tooth-obsidian" → krakesi
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Originally referred to wooden paddle with obsidian teeth inserts.
+    Extended to any long bladed weapon. Shows technological development from
+    Proto-Hick period. See: [Weapon Terms](#weapon-terms),
+    [Tool Terms](#tool-terms)
+
+brastak [bras.tak]
+  : weapons, armaments
+  : brast-tak "arm-strike" → brastak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: General term for weapons, literally "arm-strike". Shows metonymic
+    extension from action to implements. Often used collectively for military
+    equipment. See: [Weapon Terms](#weapon-terms), [Military Terms](#military-terms)
+
 ### Architecture
 
 #### Basic Terms
@@ -3339,6 +3474,41 @@ arasaditar [a.ra.sa.di.tar]
   : Proto-Hick \*arasad-itar → arasaditar Note: From
   arasad "plank" + -itar (SUPE), literally "elevated plank" See also
   [Construction Terms](#construction-terms)
+
+### Direction
+
+#### Cardinal Directions
+
+eldul [el.dul]
+  : north
+  : eldalulbres "north wind" → eldul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "elven wind", shows historical Eldrim influence on
+    directional system. See: [Directional Terms](#directional-terms),
+    [Wind Terms](#wind-terms)
+
+kethul [ke.θul]
+  : east
+  : kethulbres "east wind" → kethul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "sea wind", shows maritime influence on eastern regions.
+    See: [Directional Terms](#directional-terms), [Maritime Terms](#maritime-terms)
+
+thilul [θi.lul]
+  : south
+  : thilulbres "sacred wind" → thilul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "sacred wind", shows cultural association of south with
+    favorable omens. See: [Directional Terms](#directional-terms),
+    [Sacred Terms](#sacred--ritual)
+
+tarul [ta.rul]
+  : west
+  : aitarulbres "rainy wind" → tarul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "rainy wind", shows climatic influence on directional
+    terms. See: [Directional Terms](#directional-terms),
+    [Weather Terms](#weather-terms)
 
 ### Climate & Weather
 
@@ -3490,9 +3660,9 @@ thranal [θra.nal]
 
 #### Basic Terms
 
-takutak [ˈta.ku.tək]
+takutek [ˈta.ku.tek]
   : rhythm
-  : Proto-Hick \*takutaku → takutak
+  : Proto-Hick \*takutaku → takutek
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Preserves onomatopoeic reduplication
 
@@ -3866,7 +4036,31 @@ sai [sai]
   compound leading to extraction of sai as independent term. See:
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
 
-#### Exchanges
+'ilsul [ʔil.sul]
+  : happiness, joy
+  : 'il-sul "good-liver" → 'ilsul
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural conceptualization of liver as seat of emotions,
+    particularly positive ones. Forms verb 'ilsul'er "to be happy". Often appears
+    in well-wishing expressions. See: [Body Terms](#body-terms),
+    [Emotional Terms](#emotional-terms)
+mes'er [mes.ʔer]
+  : to feel (emotion), experience emotion
+  : mes-'er "heart-VERB" → mes'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Basic emotion verb showing heart as seat of feelings. Often used in
+    compounds to form specific emotion terms. Contrasts with sul- (liver) terms
+    for deeper emotions. See: [Body Terms](#body-terms),
+    [Emotional Terms](#emotional-terms)
+merkran [mer.kran]
+  : emotional pain, heartache
+  : mer-krantak "heart-pierce" → merkran
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows metaphorical conceptualization of emotional pain as heart-piercing.
+    Forms verb merkran'er "to feel emotional pain". See: [Body Terms](#body-terms),
+    [Emotional Terms](#emotional-terms)
+
+### Exchanges
 
 'iruretil [ʔi.ru.re.til]
   : gift
@@ -4208,24 +4402,44 @@ mir [mir]
 
 ## Demonstratives
 
-'is [ʔis]
-  : this (animate)
+-'is [ʔis]
+  : this; proximal-visible-animate
   : Proto-Hick \*'isa → 'is
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
 
-is [is]
-  : this (inanimate)
+-is [is]
+  : this; proximal-visible-inanimate
   : Proto-Hick \*isa → is
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
 
-tan [tan]
-  : that (animate)
+-tan [tan]
+  : that; medial-visible-animate
   : Proto-Hick \*tana → tan
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
 
-en [en]
-  : that (inanimate)
+  : that; medial-visible-inanimate
   : Proto-Hick \*ena → en
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+
+-eth [eθ]
+  : that; medial-hidden-animate
+  : Proto-Hick \*etha → eth
+  : ([final vowel
+  loss](@/languages/hick/early-hick/_index.md#historical-development))
+
+-thir [θir]
+  : that; medial-hidden-inanimate
+  : Proto-Hick \*thira → thir
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+
+-um [um]
+  : that; distal-animate
+  : Proto-Hick \*uma → um
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+
+-rum [rum]
+  : that; distal-inanimate
+  : Proto-Hick \*urum → rum
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
 
 #### Examples

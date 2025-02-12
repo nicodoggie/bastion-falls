@@ -6252,6 +6252,3296 @@ Would you like to explore:
 
 ---
 
+_**User**_
+
+I want to add some terms for ordering/sorting
+
+terlas "previous" < ter "flow" + ILL
+terimris "next" < ter "flow" + ELL
+
+eter "flow of things; correct ordering, sorting" < etil "things" + ter "flow" 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Excellent set of temporal/ordering terms! Let's document them:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+terlas [ter.las]
+  : previous
+  : ter-las "flow-ILL" → terlas
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows conceptualization of past as flow inward. Contrasts with terimris.
+    See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+
+terimris [te.rim.ris]
+  : next
+  : ter-imris "flow-ELL" → terimris
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows conceptualization of future as flow outward. Contrasts with
+    terlas. See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+
+eter [e.ter]
+  : flow of things; correct ordering, sorting
+  : etil-ter "things-flow" → eter
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension of flow to proper arrangement. Forms verb
+    eter'er "to sort, arrange". See: [Abstract Terms](#abstract-concepts),
+    [Motion Terms](#motion-terms)
+````
+
+This shows:
+1. The flow metaphor for time/order
+2. The case-based directionals
+3. The thing-flow compound
+4. The systematic organization
+
+Would you like to explore:
+1. Other ordering terms?
+2. Time-based compounds?
+3. Related flow metaphors?
+4. Expressions about sorting/arrangement?
+
+---
+
+_**User**_
+
+Now I want to add ordinals to the number system by using the -ter suffix
+
+sinter
+tirter
+thalter
+
+they may be used adjectivally/adverbially as;
+
+```
+kasinter 'ir'er 
+first mover
+```
+
+or as a prefix, as with other number marking
+
+```
+thaltermateres matir'er
+third ship to sail
+```
+
+I want to integrate this in the @_index.md  early hick grammar's Number Marking section
+
+---
+
+_**Assistant**_
+
+Let me help add this to the Number Marking section in the grammar. I'll show the edits needed:
+
+````markdown:site/content/languages/hick/early-hick/_index.md
+// ... existing code ...
+
+### Number Marking
+
+Early Hick has four strategies for marking number:
+
+1. Plural Prefix ma-
+   - Indicates general plurality
+   - ma-mater "boats"
+
+2. Partitive Prefix ran- (< *haranu "divide")
+   - Indicates "some of" or "part of"
+   - ran-mater "some boats"
+   - Can develop limiter meaning in context
+
+3. Numerical Marking with ran-
+   - Links numbers to nouns
+   - thal-ran-mater "three boats"
+   - pil-ran-natlas "five friends"
+
+4. Ordinal Marking with -ter
+   - Forms ordinals from cardinal numbers:
+     - sin → sinter "first"
+     - tir → tirter "second"
+     - thal → thalter "third"
+   
+   Can be used in two ways:
+   a. As adjectival/adverbial modifier with ka- prefix:
+      ```plaintext
+      kasinter 'ir'er
+      first mover
+      "first one to move"
+      ```
+   
+   b. As a prefix in number marking position:
+      ```plaintext
+      thaltermateres matir'er
+      third-ship sail-VERB
+      "third ship to sail"
+      ```
+
+// ... existing code ...
+````
+
+This addition:
+1. Documents the ordinal formation pattern
+2. Shows both usage patterns
+3. Provides clear examples
+4. Integrates with existing number marking system
+
+Would you like me to:
+1. Add more examples?
+2. Expand the explanation?
+3. Add cross-references?
+4. Document higher ordinals?
+
+---
+
+_**User**_
+
+perhaps after the current item 4, regarding fractional marking
+
+---
+
+_**Assistant**_
+
+
+
+Yes! Let's add the ordinal section before the fractional marking:
+
+````markdown:site/content/languages/hick/early-hick/_index.md
+// ... existing code ...
+
+### Number Marking
+
+Early Hick has four strategies for marking number:
+
+1. Plural Prefix ma-
+   - Indicates general plurality
+   - ma-mater "boats"
+
+2. Partitive Prefix ran- (< *haranu "divide")
+   - Indicates "some of" or "part of"
+   - ran-mater "some boats"
+   - Can develop limiter meaning in context
+
+3. Numerical Marking with ran-
+   - Links numbers to nouns
+   - thal-ran-mater "three boats"
+   - pil-ran-natlas "five friends"
+
+4. Ordinal Marking with -ter
+   - Forms ordinals from cardinal numbers:
+     - sin → sinter "first"
+     - tir → tirter "second"
+     - thal → thalter "third"
+   
+   Can be used in two ways:
+   a. As adjectival/adverbial modifier with ka- prefix:
+      ```plaintext
+      kasinter 'ir'er
+      first mover
+      "first one to move"
+      ```
+   
+   b. As a prefix in number marking position:
+      ```plaintext
+      thaltermateres matir'er
+      third-ship sail-VERB
+      "third ship to sail"
+      ```
+
+5. Fractional Marking with ran-
+   The partitive prefix ran- can also mark fractions when used with numbers:
+
+   ```plaintext
+   tirranrakter
+   two-PART-league
+   "half-league" (league divided in two)
+   
+   sinranvinuram
+   three-PART-yard
+   "third of a yard" (yard divided in three)
+   ```
+
+   Note that this creates ambiguity with numerical marking...
+
+// ... existing code ...
+````
+
+This maintains the logical flow:
+1. Basic plural
+2. Partitive
+3. Cardinal numbers
+4. Ordinal numbers
+5. Fractions
+
+Would you like me to:
+1. Add more ordinal examples?
+2. Expand the explanation of ordinal formation?
+3. Add cross-references to other sections?
+4. Document the interaction between ordinals and other number marking?
+
+---
+
+_**User**_
+
+now let's document matir a general term for a water vessel's motion (as opposed to as yet defined terms for sail, or row) < mater "water vessel" + 'ir "motion"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's document this maritime motion term:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+matir [ma.tir]
+  : (of vessels) to move through water, travel by water
+  : mater-'ir "vessel-motion" → matir
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: General term for water vessel movement, neutral regarding means of
+    propulsion. Contrasts with specific terms for sailing, rowing, etc. Forms
+    basis for maritime motion compounds. See: [Maritime Terms](#maritime-terms),
+    [Motion Terms](#motion-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:matir",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "matir",
+    "phoneticRep": "ma.tir"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:mater"
+    },
+    {
+      "@id": "eh:ir"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "mater-'ir",
+    "etymon:gloss": "vessel-motion",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "General term for water vessel movement, neutral regarding means of propulsion"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "(of vessels) to move through water, travel by water",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Maritime Terms",
+        "Motion Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+This shows:
+1. The vessel-motion compound
+2. The general nature of the term
+3. The maritime context
+4. The potential for specific contrasts
+
+Would you like to:
+1. Add specific sailing/rowing terms?
+2. Explore compounds using matir-?
+3. Document maritime motion expressions?
+4. Add related vessel movement terms?
+
+---
+
+_**User**_
+
+what are roots/sources of words that mean joy, mirth from various language families?
+
+---
+
+_**Assistant**_
+
+Here are some interesting roots/sources for "joy/mirth" across language families:
+
+PIE:
+- *gʰeh₂u- "to rejoice" > Greek γηθέω (gēthéō)
+- *mer- "to shine, sparkle" > Latin merus "pure, bright"
+- *ǵʰer- "delight, be warm" > Sanskrit हर्ष (harṣa)
+
+Semitic:
+- *ś-m-ḥ "joy, gladness" > Hebrew שמחה (simcha)
+- *f-r-ḥ "joy, happiness" > Arabic فرح (faraḥ)
+- Root concept often links joy with light/brightness
+
+Sino-Tibetan:
+- 樂 (lè/yuè) "joy, music" - pictograph shows drums/music
+- 喜 (xǐ) "happiness" - shows celebration/blessing
+
+For Early Hick possibilities:
+1. Light/brightness metaphor (like PIE/Semitic)
+2. Sound/music connection (like Chinese)
+3. Warmth/heart associations
+4. Movement/dance metaphors
+
+Some potential patterns:
+- Physical sensation → emotional state
+- External expression → internal feeling
+- Sacred/ritual terms → general usage
+
+Would you like to explore any of these patterns for Early Hick joy terms?
+
+---
+
+_**User**_
+
+hmmm, I think I'm going for a body metaphor, see @_index.md 
+
+'ilsul "happiness" < 'il "good, kind" + sul "liver"
+
+---
+
+_**Assistant**_
+
+Ah yes! Using the liver as a seat of emotions is a very attested pattern cross-linguistically (like Ancient Greek ἧπαρ/hêpar). Let's document this:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+'ilsul [ʔil.sul]
+  : happiness, joy
+  : 'il-sul "good-liver" → 'ilsul
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural conceptualization of liver as seat of emotions,
+    particularly positive ones. Forms verb 'ilsul'er "to be happy". Often appears
+    in well-wishing expressions. See: [Body Terms](#body-terms),
+    [Emotional Terms](#emotional-terms)
+````
+
+This shows:
+1. The body-emotion metaphor
+2. The good/positive prefix
+3. The compound formation
+4. The cultural significance
+
+Would you like to explore:
+1. Other liver-based emotion terms?
+2. Related well-wishing expressions?
+3. The verbalized form 'ilsul'er?
+4. Contrasting negative emotions?
+
+The liver metaphor fits well with Early Hick's documented pattern of using body parts for abstract concepts (like -ul "possession" < "thumb").
+
+---
+
+_**User**_
+
+let's add this to @lexicon.jsonld as well
+
+---
+
+_**Assistant**_
+
+I'll help add the 'ilsul entry to the lexicon.jsonld file:
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'ilsul",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'ilsul",
+    "phoneticRep": "ʔil.sul"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'il"
+    },
+    {
+      "@id": "eh:sul"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'il-sul",
+    "etymon:gloss": "good-liver",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows cultural conceptualization of liver as seat of emotions, particularly positive ones"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense", 
+      "definition": {
+        "@value": "happiness, joy",
+        "@language": "en"
+      },
+      "usage": "Often appears in well-wishing expressions",
+      "lexinfo:semanticField": [
+        "Emotional Terms",
+        "Body Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "'ilsul'er",
+      "phoneticRep": "ʔil.sul.ʔer",
+      "decomposition": "'ilsul + -'er (verbalizer)",
+      "grammaticalMeaning": "to be happy"
+    }
+  ]
+}
+````
+
+This entry:
+1. Shows the compound structure
+2. Links to both component morphemes
+3. Notes the cultural significance
+4. Includes the derived verbal form
+5. Marks relevant semantic fields
+
+Would you like me to:
+1. Add more derived forms?
+2. Expand the etymology note?
+3. Add related terms?
+4. Include example expressions?
+
+---
+
+_**User**_
+
+'imsai "self-doubt, anxiety" < 'im "negativity" + "introspection"
+
+---
+
+_**Assistant**_
+
+
+
+Let's document this psychological term:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+'imsai [ʔim.sai]
+  : self-doubt, anxiety
+  : 'im-sai "negative-introspection" → 'imsai
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural understanding of anxiety as negative self-reflection.
+    Forms verb 'imsai'er "to doubt oneself, be anxious". See: 
+    [Mental Terms](#mental-terms), [Emotional Terms](#emotional-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'imsai",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'imsai",
+    "phoneticRep": "ʔim.sai"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'im"
+    },
+    {
+      "@id": "eh:sai"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'im-sai",
+    "etymon:gloss": "negative-introspection",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows cultural conceptualization of anxiety as negative self-reflection"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "self-doubt, anxiety",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Emotional Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "'imsai'er",
+      "phoneticRep": "ʔim.sai.ʔer",
+      "decomposition": "'imsai + -'er (verbalizer)",
+      "grammaticalMeaning": "to doubt oneself, be anxious"
+    }
+  ]
+}
+````
+
+
+This shows:
+1. The psychological compound
+2. The negative prefix
+3. The introspection root
+4. The mental health context
+
+Would you like to explore:
+1. Related mental state terms?
+2. Other compounds with 'im-?
+3. Expressions using 'imsai?
+4. Cultural attitudes toward anxiety?
+
+---
+
+_**User**_
+
+mes'er "to feel emotion" < mes "heart" + VERB
+
+---
+
+_**Assistant**_
+
+
+
+Let's document this basic emotion verb:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+mes'er [mes.ʔer]
+  : to feel (emotion), experience emotion
+  : mes-'er "heart-VERB" → mes'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Basic emotion verb showing heart as seat of feelings. Often used in 
+    compounds to form specific emotion terms. Contrasts with sul- (liver) terms
+    for deeper emotions. See: [Body Terms](#body-terms), 
+    [Emotional Terms](#emotional-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:mes'er",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "mes'er",
+    "phoneticRep": "mes.ʔer"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:mes"
+    },
+    {
+      "@id": "eh:er"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "mes-'er",
+    "etymon:gloss": "heart-VERB",
+    "etymon:note": "Shows cultural distinction between heart-based emotions and liver-based deeper feelings"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "to feel (emotion), experience emotion",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Emotional Terms",
+        "Body Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+This shows:
+1. The basic emotion verb
+2. The heart metaphor
+3. The verbalizer suffix
+4. The heart/liver distinction
+
+Would you like to explore:
+1. Compounds using mes'er-?
+2. The heart/liver emotion system?
+3. Related emotional expressions?
+4. Specific emotion derivatives?
+
+---
+
+_**User**_
+
+what is the etymology of the word "pirate"?
+
+---
+
+_**Assistant**_
+
+
+
+The etymology of "pirate" is quite interesting:
+
+Ancient Greek:
+- πειρατής (peiratēs) "attacker, brigand" 
+- from πειράω (peiraō) "to attempt, attack"
+- originally meant "one who attacks/attempts"
+
+Latin borrowed it as:
+- pīrāta "sea robber"
+- narrowed meaning specifically to maritime raiders
+
+For Early Hick possibilities:
+1. Compound from maritime + attack terms
+2. Metaphorical extension from land raider terms
+3. Borrowing pattern (like many maritime terms)
+4. Action-based formation (like Greek original)
+
+Some potential patterns:
+- Attack/attempt semantic connection
+- Sea/raid compound
+- Professional agent suffix
+- Metaphorical extension
+
+Would you like to explore any of these patterns for creating an Early Hick word for "pirate"?
+
+---
+
+_**User**_
+
+rantirduok "pirate" < ran "river" + imtirduok "scavenger"
+expanded to any kind of maritime raider, thief
+
+rantirdu "piracy", reanalyzed non agentive frorm
+
+---
+
+_**Assistant**_
+
+
+
+Excellent compound! Let's document both terms:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+rantirduok [ran.tir.du.ok]
+  : pirate, maritime raider
+  : ran-imtirduok "river-scavenger" → rantirduok
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Originally "river raider", extended to all maritime thieves. Shows
+    compound reduction of imtirduok. See: [Maritime Terms](#maritime-terms),
+    [Professional Terms](#professional-terms)
+
+rantirdu [ran.tir.du]
+  : piracy, maritime raiding
+  : Reanalyzed from rantirduok without agentive -ok
+  : ([back formation](@/languages/hick/early-hick/_index.md#derivational-morphology))
+  : Note: Shows productive back-formation pattern creating abstract nouns from
+    agent terms. Forms verb rantirdu'er "to engage in piracy". See:
+    [Maritime Terms](#maritime-terms), [Criminal Terms](#criminal-terms)
+````
+
+This shows:
+1. The river/maritime origin
+2. The scavenger metaphor
+3. The compound reduction
+4. The back-formation pattern
+
+Would you like to explore:
+1. Related maritime crime terms?
+2. Compounds using rantirdu-?
+3. Legal/criminal expressions?
+4. The verbalized forms?
+
+---
+
+_**User**_
+
+add these to @lexicon.jsonld as well please
+
+---
+
+_**Assistant**_
+
+I'll help add the pirate terms to the lexicon.jsonld file:
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:rantirduok",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "rantirduok",
+    "phoneticRep": "ran.tir.du.ok"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:ran"
+    },
+    {
+      "@id": "eh:imtirduok"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "ran-imtirduok",
+    "etymon:gloss": "river-scavenger",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Originally 'river raider', extended to all maritime thieves. Shows compound reduction of imtirduok"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "pirate, maritime raider",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Maritime Terms",
+        "Professional Terms",
+        "Criminal Terms"
+      ]
+    }
+  ]
+},
+{
+  "@id": "eh:rantirdu",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "rantirdu",
+    "phoneticRep": "ran.tir.du"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:derivedFrom": "rantirduok",
+    "etymon:process": "back formation",
+    "etymon:note": "Shows productive back-formation pattern creating abstract nouns from agent terms"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "piracy, maritime raiding",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Maritime Terms",
+        "Criminal Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "rantirdu'er",
+      "phoneticRep": "ran.tir.du.ʔer",
+      "decomposition": "rantirdu + -'er (verbalizer)",
+      "grammaticalMeaning": "to engage in piracy"
+    }
+  ]
+}
+````
+
+This shows:
+1. The compound structure and reduction
+2. The semantic extension from river to maritime
+3. The back-formation process
+4. The derived verbal form
+5. The relevant semantic fields
+
+Would you like me to:
+1. Add more derived forms?
+2. Expand the etymology notes?
+3. Add related terms?
+4. Include example expressions?
+
+---
+
+_**User**_
+
+merkran "pain emotional" < mer "heart" + krantak "pierce" 
+siltak "pain physical" <  sil "skin" + tak "hit"
+
+---
+
+_**Assistant**_
+
+
+
+Let's document these pain terms that show the physical/emotional distinction:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+merkran [mer.kran]
+  : emotional pain, heartache
+  : mer-krantak "heart-pierce" → merkran
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows metaphorical conceptualization of emotional pain as heart-piercing.
+    Forms verb merkran'er "to feel emotional pain". See: [Body Terms](#body-terms),
+    [Emotional Terms](#emotional-terms)
+
+siltak [sil.tak]
+  : physical pain
+  : sil-tak "skin-hit" → siltak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Basic term for physical pain/hurt. Shows cultural distinction between
+    physical and emotional pain. Forms verb siltak'er "to feel physical pain".
+    See: [Body Terms](#body-terms), [Physical States](#physical-states)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:merkran",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "merkran",
+    "phoneticRep": "mer.kran"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:mer"
+    },
+    {
+      "@id": "eh:krantak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "mer-krantak",
+    "etymon:gloss": "heart-pierce",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows metaphorical conceptualization of emotional pain as heart-piercing"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "emotional pain, heartache",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Emotional Terms",
+        "Body Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "merkran'er",
+      "phoneticRep": "mer.kran.ʔer",
+      "decomposition": "merkran + -'er (verbalizer)",
+      "grammaticalMeaning": "to feel emotional pain"
+    }
+  ]
+},
+{
+  "@id": "eh:siltak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "siltak", 
+    "phoneticRep": "sil.tak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:sil"
+    },
+    {
+      "@id": "eh:tak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "sil-tak",
+    "etymon:gloss": "skin-hit",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows cultural distinction between physical and emotional pain"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "physical pain",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Body Terms",
+        "Physical States"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "siltak'er",
+      "phoneticRep": "sil.tak.ʔer", 
+      "decomposition": "siltak + -'er (verbalizer)",
+      "grammaticalMeaning": "to feel physical pain"
+    }
+  ]
+}
+````
+
+This shows:
+1. The physical/emotional distinction
+2. Different metaphorical bases (pierce vs hit)
+3. Different compound processes
+4. The verbalized forms
+
+Would you like to explore:
+1. Related pain/suffering terms?
+2. Compounds using these roots?
+3. Medical/healing terminology?
+4. Cultural attitudes toward pain?
+
+---
+
+_**User**_
+
+I seem to have added tak to mean touch and hit... I wonder if that's fine... I feel like it should be disambiguated tho
+
+---
+
+_**Assistant**_
+
+
+
+Yes, having tak mean both "touch" and "hit" could be ambiguous. We have a few options:
+
+1. Semantic split:
+   - tak "touch" (neutral contact)
+   - takran "hit" (forceful contact) < tak + ran "divide/break"
+   
+2. Different roots:
+   - tak "touch"
+   - kran "hit/strike" (already seen in merkran)
+
+3. Intensity marking:
+   - tak "touch"
+   - ka'tak "forceful touch, hit" (with intensive ka-)
+
+4. Compound distinction:
+   - tak "touch"
+   - takkran "hit" (touch + force/harm)
+
+Given Early Hick's patterns, I'd suggest option 1 or 2. Option 2 would be more 
+consistent with merkran. So we could revise siltak to silkran for "physical pain".
+
+Would you like to:
+1. Choose one of these options?
+2. Explore other disambiguation patterns?
+3. Update the existing entries?
+4. Document both meanings historically?
+
+---
+
+_**User**_
+
+I think tak to strike is the most attested right now. it's strange to mark it as dimiuitive though. touch seems more basic term though
+
+---
+
+_**Assistant**_
+
+
+
+You make a good point. Let's think about this linguistically:
+
+1. If tak is "strike/hit" (the attested usage), we could derive "touch" as:
+   - takil "touch" < tak + -il (diminutive) "light hit"
+   OR
+   - saitak "touch" < sai "gentle" + tak "hit"
+
+2. OR we could have a separate root for "touch":
+   - ris "touch" (new root)
+   - silris "physical sensation" 
+   - tak remains "hit/strike"
+
+3. OR we could reconstruct a historical development:
+   - Proto-Hick *taku "contact" 
+   - Split into:
+     - tak "hit, strike" (intensive meaning won)
+     - takil "touch" (diminutive preserved gentle meaning)
+
+Given Early Hick's patterns, I'd suggest either option 1 with takil, or option 2 
+with ris. The takil option shows a nice parallel with other diminutive formations, 
+while ris would give us a cleaner semantic distinction.
+
+Would you like to:
+1. Choose one of these options?
+2. Explore the implications?
+3. Document the historical development?
+4. Update related compounds?
+
+---
+
+_**User**_
+
+litak actually, @early-hick diminuitive is li-
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Ah yes! You're right - Early Hick uses li- as its diminutive prefix. So let's 
+document:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+litak [li.tak]
+  : touch, gentle contact
+  : li-tak "DIM-strike" → litak
+  : ([diminutive prefix](@/languages/hick/early-hick/_index.md#derivational-morphology))
+  : Note: Shows diminutive formation from tak "strike". Forms verb litak'er "to
+    touch". Contrasts with base tak for forceful contact. See: 
+    [Basic Terms](#basic-terms), [Action Terms](#action-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:litak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "litak",
+    "phoneticRep": "li.tak"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:li"
+    },
+    {
+      "@id": "eh:tak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:derivation": "li-tak",
+    "etymon:gloss": "DIM-strike",
+    "etymon:note": "Shows diminutive formation creating gentle meaning from forceful base"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "touch, gentle contact",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Basic Terms",
+        "Action Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "litak'er",
+      "phoneticRep": "li.tak.ʔer",
+      "decomposition": "litak + -'er (verbalizer)",
+      "grammaticalMeaning": "to touch"
+    }
+  ]
+}
+````
+
+
+This shows:
+1. The diminutive prefix li-
+2. The semantic shift from "strike" to "touch"
+3. The verbalized form
+4. The contrast with tak
+
+Would you like to:
+1. Add more diminutive formations?
+2. Explore compounds using litak-?
+3. Document related touch terms?
+4. Add tactile sensation vocabulary?
+
+---
+
+_**User**_
+
+ris already means reed... we could justify by metaphorical extension or convergence by sound change
+
+---
+
+_**Assistant**_
+
+
+
+Ah yes! We could have an interesting case of homophony through either:
+
+1. Metaphorical Extension:
+   - ris "reed" → "to brush/touch lightly" (like reeds in wind)
+   - Similar to English "brush" (plant → light touch)
+
+2. Sound Change Convergence:
+   - ris¹ < Proto-Hick *risu "reed"
+   - ris² < Proto-Hick *risu/risa "touch" 
+   - Converged through final vowel loss
+
+Let's document this:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+ris [ris]
+  1. reed, water plant
+     : < Proto-Hick *risu
+     : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+     : See: [Plant Terms](#plant-terms), [Maritime Terms](#maritime-terms)
+  
+  2. to touch lightly, brush against
+     : < metaphorical extension of "reed"
+     : Note: Shows development from plant movement metaphor. Forms compounds for
+       gentle contact. See: [Action Terms](#action-terms), 
+       [Basic Terms](#basic-terms)
+````
+
+This gives us:
+1. A documented case of polysemy
+2. A nature-based metaphor
+3. A semantic development path
+4. Potential for compound formation
+
+Would you like to:
+1. Add compounds using ris-?
+2. Explore other plant-motion metaphors?
+3. Document related touch terms?
+4. Add Proto-Hick reconstructions?
+
+---
+
+_**User**_
+
+in the case of polysemy between tak "strike" and tak "touch", would the litak route be naturalistic just in the case of disambiguation?
+
+---
+
+_**Assistant**_
+
+
+
+Actually, you raise a good point about naturalness. Let me think adversarially about the litak solution:
+
+Problems with litak as disambiguation:
+1. Diminutive formation seems too "neat" as a solution
+2. Languages often tolerate polysemy between "hit/touch" (cf. English "strike")
+3. Context usually disambiguates force level
+4. Creating litak feels like an artificial "fix" rather than natural development
+
+More natural patterns might be:
+1. Keep tak polysemous, let context disambiguate
+   - tak mes "hit heart" (forceful)
+   - tak sil "touch skin" (gentle)
+
+2. Allow compound formation to specify when needed:
+   - tak (general contact)
+   - rantik "strike forcefully" (if needed)
+   - saitak "touch gently" (if needed)
+
+3. Let the polysemy remain as a historical artifact:
+   - Proto-Hick *taku "make contact"
+   - Early Hick tak preserves both meanings
+
+Would you prefer:
+1. Keep the polysemy?
+2. Document contextual disambiguation?
+3. Look at compound solutions?
+4. Explore historical development?
+
+---
+
+_**User**_
+
+the most important disambiguation would be in the verb from tak'er, because to touch and to hit could be often ambiguous and can be problematic
+
+wen'alumes tak'er
+
+can be
+I heard that she touched (them)
+I heard that sh hit (them)
+
+---
+
+_**Assistant**_
+
+
+
+Ah yes! This is a crucial point - the verbal form tak'er creates genuine 
+ambiguity in reported actions, which could be problematic especially in legal or 
+social contexts.
+
+In this case, disambiguation through derivation would be more naturalistic 
+because:
+1. The ambiguity causes real communication problems
+2. The stakes are higher in verbal form (actions vs concepts)
+3. Languages often develop distinct verbs for touch/hit even if nouns overlap
+
+So perhaps:
+1. tak (n) remains polysemous "contact/strike"
+2. tak'er specifically means "to hit/strike"
+3. litak'er develops as "to touch" due to need for clear distinction in verbs
+
+This explains:
+```plaintext
+wen'alumes tak'er
+person.DIST.ABS strike.VERB
+"I heard they hit (them)" (unambiguous violent contact)
+
+wen'alumes litak'er
+person.DIST.ABS gentle.strike.VERB
+"I heard they touched (them)" (unambiguous gentle contact)
+```
+
+Would you like to:
+1. Document this verbal disambiguation?
+2. Explore related action verbs?
+3. Look at legal/social contexts?
+4. Add more example sentences?" verb would follow
+
+---
+
+_**User**_
+
+are there IRL examples that may be analogous
+
+---
+
+_**Assistant**_
+
+Yes! Here are some analogous examples:
+
+Japanese:
+- 触る (sawaru) "to touch" (gentle)
+- 打つ (utsu) "to hit/strike" (forceful)
+- Both from earlier たふ (tafu) "contact"
+- Split into distinct verbs while maintaining related etymology
+
+Chinese:
+- 摸 (mō) "to touch/feel" (gentle)
+- 打 (dǎ) "to hit/strike" (forceful)
+- Earlier 触 (chù) covered both meanings
+- Developed specialized verbs for clarity
+
+Latin:
+- tangō "touch" (gentle)
+- pulsō "strike" (forceful)
+- Both from PIE *tag- "touch"
+- Developed distinct intensities
+
+Modern English:
+- "touch" (< Old French touchier)
+- "hit/strike" (< Old English slean)
+- Earlier Germanic *tekanan covered both
+- Borrowed "touch" to disambiguate
+
+So Early Hick's development:
+- tak (general contact)
+- tak'er (to hit) 
+- litak'er (to touch)
+
+Follows a common pattern where languages disambiguate contact verbs even when 
+nouns remain polysemous.
+
+Would you like to:
+1. Explore more examples?
+2. Document the parallel development?
+3. Look at other verb splits?
+4. Add comparative notes?
+
+---
+
+_**User**_
+
+where did japanese get sawaru from tafu?
+
+---
+
+_**Assistant**_
+
+
+
+I apologize for my error - I made an incorrect etymological connection between さわる (sawaru) and たふ (tafu). This was wrong and I should have verified this claim. 
+
+Looking at actual Japanese etymology:
+- さわる (sawaru) has its own distinct etymology
+- たふ (tafu) is actually related to 倒す (taosu) "to knock down"
+- They were never historically connected as I claimed
+
+I should revise my examples to be more accurate:
+
+Better examples might be:
+1. Latin tactus → Spanish:
+   - tocar "to touch" (gentle)
+   - golpear "to hit" (forceful)
+
+2. Proto-Germanic *hrīnan:
+   - Old English hrinan "to touch"
+   - But needed distinct terms for different forces of contact
+
+Would you like me to:
+1. Find more verified examples?
+2. Look at better documented splits?
+3. Focus on Early Hick patterns?
+4. Research actual Japanese contact verbs?
+
+---
+
+_**User**_
+
+I suppose siltak'er may be more natural a verb for to touch, and we can keep tak as polysemous
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Yes! That's a more natural solution. Using siltak'er "to touch/feel" (literally 
+"skin-contact") follows common cross-linguistic patterns where:
+
+1. Body part compounds naturally develop into sensation verbs:
+   - Chinese 皮膚 (pífū) "skin" → 膚觸 (fúchù) "to touch/feel"
+   - German Haut "skin" → berühren "to touch"
+   - Many languages use "skin" in tactile expressions
+
+2. The base tak remains polysemous:
+   - tak (n) "contact/strike" (context determines force)
+   - tak'er (v) "to hit/strike" (default verbal meaning)
+   - siltak'er (v) "to touch/feel" (skin-based sensation)
+
+So we get:
+````plaintext
+wen'alumes tak'er
+person.DIST.ABS strike.VERB
+"I heard they hit (them)" (default interpretation)
+
+wen'alumes siltak'er
+person.DIST.ABS skin.contact.VERB
+"I heard they touched (them)" (clear tactile meaning)
+````
+
+This is more elegant because:
+1. Uses existing body metaphor patterns
+2. Maintains natural polysemy
+3. Creates clear distinction where needed
+4. Follows cross-linguistic precedent
+
+Would you like to:
+1. Document this revised understanding?
+2. Explore more siltak compounds?
+3. Look at other sensation verbs?
+4. Add example sentences?
+
+---
+
+_**User**_
+
+so say that the default taku in the protolang meant touch
+and tahaku is "hit", but they both turn into tak due to sound changes, is it natural that hit became the default? I suppose because it's more onomatopoeic?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Yes! This is a very plausible development. Let's analyze:
+
+Proto-Hick:
+- *taku "to touch" (basic contact)
+- *tahaku "to hit" (forceful contact)
+
+Sound changes:
+1. Final vowel loss
+2. Medial -h- loss
+3. Both merge to tak
+
+The forceful meaning becoming default is natural because:
+1. Onomatopoetic association (as you noted)
+   - tak! sounds like impact
+   - Similar to English "thwack", Japanese たたく (tataku)
+
+2. Markedness shift in verbs
+   - Forceful actions often take over as default
+   - Compare English "strike" shifting from "stroke/caress" to "hit"
+   - Greek τύπτω (túptō) "strike" < PIE *teup- "touch"
+
+3. Need for clarity in violent contexts
+   - Violence/damage needs clear expression
+   - Gentle touch gets new specific terms
+   - Similar to how legal terms preserve stronger meanings
+
+So the development:
+````plaintext
+Proto-Hick:
+*taku "touch" (general)
+*tahaku "hit" (specific)
+
+↓ Sound changes
+
+Early Hick:
+tak (default: "hit")
+siltak'er (new specific: "touch")
+````
+
+Would you like to:
+1. Document this historical development?
+2. Explore similar sound mergers?
+3. Look at other meaning shifts?
+4. Add comparative examples?
+
+---
+
+_**User**_
+
+let's create the entries for siltak
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Here are the entries for siltak:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+siltak [sil.tak]
+  : touch, tactile sensation
+  : sil-tak "skin-contact" → siltak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development of tactile terms from body part compounds. Contrasts
+    with plain tak'er for forceful contact. See: [Body Terms](#body-terms),
+    [Sensation Terms](#sensation-terms)
+
+siltak'er [sil.tak.ʔer]
+  : to touch, to feel
+  : siltak-'er "skin.contact-VERB" → siltak'er
+  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : Note: Primary verb for tactile sensation. Developed to disambiguate from tak'er
+    "to hit" after sound merger of *taku and *tahaku. See: [Body Terms](#body-terms),
+    [Sensation Terms](#sensation-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:siltak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "siltak",
+    "phoneticRep": "sil.tak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:sil"
+    },
+    {
+      "@id": "eh:tak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "sil-tak",
+    "etymon:gloss": "skin-contact",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows development of tactile terms from body part compounds"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "touch, tactile sensation",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Body Terms",
+        "Sensation Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "siltak'er",
+      "phoneticRep": "sil.tak.ʔer",
+      "decomposition": "siltak + -'er (verbalizer)",
+      "grammaticalMeaning": "to touch, to feel"
+    }
+  ]
+}
+````
+
+
+This shows:
+1. The compound formation
+2. The historical development
+3. The semantic disambiguation
+4. The verbalized form
+
+Would you like to:
+1. Add related sensation terms?
+2. Explore siltak compounds?
+3. Document Proto-Hick forms?
+4. Add example sentences?
+
+---
+
+_**User**_
+
+sibar "distinguished one; unique" < one "sin"+ bar "name" 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+Nice compound! Let's document this honorific term:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+sibar [si.bar]
+  : distinguished one, unique person
+  : sin-bar "one-name" → sibar
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows liquid deletion in compounds. Used as respectful term for notable
+    individuals. Implies someone whose name stands alone. See: 
+    [Person Terms](#person-terms), [Honor Terms](#honor-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:sibar",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "sibar",
+    "phoneticRep": "si.bar"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:sin"
+    },
+    {
+      "@id": "eh:bar"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "sin-bar",
+    "etymon:gloss": "one-name",
+    "etymon:soundChange": "compound fusion, liquid deletion",
+    "etymon:note": "Shows development of honorific from concept of unique naming"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "distinguished one, unique person",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Person Terms",
+        "Honor Terms",
+        "Social Terms"
+      ],
+      "lexinfo:register": "formal"
+    }
+  ]
+}
+````
+
+
+
+This shows:
+1. The number+name compound
+2. The sound changes
+3. The honorific development
+4. The social/formal usage
+
+Would you like to:
+1. Add related honor terms?
+2. Explore sibar compounds?
+3. Look at name-based titles?
+4. Add usage examples?
+
+Some interesting possibilities:
+- sibar'er "to distinguish oneself"
+- sibarok "distinguished group/class"
+- sibarul "keeper of distinctions"
+
+---
+
+_**User**_
+
+takimris "to attack, to oppose" < tak "strike" + ELL
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+Yes! This is a nice use of the ellative case to create an outward-directed 
+aggressive meaning. Let's document it:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+takimris [ta.kim.ris]
+  : to attack, to oppose
+  : tak-imris "strike-ELL" → takimris
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows productive use of ellative case for outward-directed aggressive
+    action. Contrasts with tak'er for simple striking. Forms compounds like
+    takimrisok "attacker". See: [Action Terms](#action-terms),
+    [Conflict Terms](#conflict-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:takimris",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "takimris",
+    "phoneticRep": "ta.kim.ris"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:tak"
+    },
+    {
+      "@id": "eh:imris"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:derivation": "tak-imris",
+    "etymon:gloss": "strike-ELL",
+    "etymon:soundChange": "case lexicalization",
+    "etymon:note": "Shows development of aggressive meaning through ellative case"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "to attack, to oppose",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Action Terms",
+        "Conflict Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+This shows:
+1. The case lexicalization
+2. The semantic extension
+3. The contrast with basic tak'er
+4. The potential for compounds
+
+Would you like to:
+1. Add related conflict terms?
+2. Explore other ellative verbs?
+3. Document compound forms?
+4. Add example sentences?
+
+Some interesting possibilities:
+- takimrisok "attacker"
+- takimrister "attack time/season"
+- takimristhral "sacred combat"
+
+---
+
+_**User**_
+
+krakesi "sword" < PH *krak "tooth" + PH* kasigaru "obsidian glass"
+
+extension from a wooden paddle with obsidian "teeth" into general term for long bladed weapon
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Excellent etymology showing technological development! Let's document this:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+krakesi [kra.ke.si]
+  : sword, long bladed weapon
+  : krak-kasigaru "tooth-obsidian" → krakesi
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Originally referred to wooden paddle with obsidian teeth inserts.
+    Extended to any long bladed weapon. Shows technological development from
+    Proto-Hick period. See: [Weapon Terms](#weapon-terms),
+    [Tool Terms](#tool-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:krakesi",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "krakesi",
+    "phoneticRep": "kra.ke.si"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:krak"
+    },
+    {
+      "@id": "eh:kasigaru"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "krak-kasigaru",
+    "etymon:gloss": "tooth-obsidian",
+    "etymon:protoform": "Proto-Hick *krak-kasigaru",
+    "etymon:soundChange": "compound reduction, vowel loss",
+    "etymon:note": "Shows semantic extension from wooden paddle with obsidian teeth to any long bladed weapon"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "sword, long bladed weapon",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Weapon Terms",
+        "Tool Terms"
+      ],
+      "usage": "Originally referred to wooden paddle with obsidian teeth inserts"
+    }
+  ]
+}
+````
+
+
+
+
+This shows:
+1. The technological etymology
+2. The semantic extension
+3. The compound reduction
+4. The cultural context
+
+Would you like to:
+1. Add related weapon terms?
+2. Explore krakesi compounds?
+3. Document fighting techniques?
+4. Add material culture notes?
+
+The development parallels other weapon terms like:
+- Aztec mācuahuitl (wooden sword with obsidian)
+- Pacific Islander shark-tooth weapons
+- Early composite blade technologies
+
+---
+
+_**User**_
+
+brastak "weapons; armaments" < brast "arm" + tak "hit"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Nice compound! Let's document this collective term for weapons:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+brastak [bras.tak]
+  : weapons, armaments
+  : brast-tak "arm-strike" → brastak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: General term for weapons, literally "arm-strike". Shows metonymic
+    extension from action to implements. Often used collectively for military
+    equipment. See: [Weapon Terms](#weapon-terms), [Military Terms](#military-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:brastak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "brastak",
+    "phoneticRep": "bras.tak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:brast"
+    },
+    {
+      "@id": "eh:tak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "brast-tak",
+    "etymon:gloss": "arm-strike",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows metonymic extension from action to implements"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "weapons, armaments",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Weapon Terms",
+        "Military Terms"
+      ],
+      "usage": "Often used collectively for military equipment"
+    }
+  ]
+}
+````
+
+
+
+
+This shows:
+1. The body+action compound
+2. The metonymic extension
+3. The collective usage
+4. The military context
+
+Would you like to:
+1. Add related military terms?
+2. Explore brastak compounds?
+3. Look at collective terms?
+4. Add usage examples?
+
+Some interesting possibilities:
+- brastakul "armorer/weaponsmith"
+- brastakthral "sacred weapons"
+- brastakimris "to arm for battle"
+
+---
+
+_**User**_
+
+lik "dragon" < Eldrim lyg "dragon; snake; drake"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+Let's document this borrowed mythological term:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+lik [lik]
+  : dragon
+  : < Eldrim lyg "dragon, snake, drake"
+  : ([loanword](@/languages/hick/early-hick/_index.md#loanwords))
+  : Note: Early borrowing from Eldrim, showing cultural contact and mythological
+    influence. Narrowed from general serpentine being to specific dragon concept.
+    See: [Mythological Terms](#mythological-terms), 
+    [Borrowed Terms](#borrowed-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:lik",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "lik",
+    "phoneticRep": "lik"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:borrowing": {
+      "etymon:sourceLanguage": "Eldrim",
+      "etymon:sourceForm": "lyg",
+      "etymon:sourceGloss": "dragon, snake, drake"
+    },
+    "etymon:soundChange": "vowel raising, final devoicing",
+    "etymon:note": "Shows semantic narrowing from general serpentine being to specific dragon concept"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "dragon",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mythological Terms",
+        "Borrowed Terms"
+      ],
+      "usage": "Cultural borrowing showing Eldrim mythological influence"
+    }
+  ]
+}
+````
+
+
+
+
+
+This shows:
+1. The Eldrim source
+2. The sound changes
+3. The semantic narrowing
+4. The cultural context
+
+Would you like to:
+1. Add related mythological terms?
+2. Explore lik compounds?
+3. Document dragon lore?
+4. Add other Eldrim loans?
+
+Some interesting possibilities:
+- likthral "dragon cult/worship"
+- likul "dragon keeper"
+- liktak "dragon slayer"
+
+---
+
+_**User**_
+
+asamgral "flatlands; plains" < asam "lie" + gral "land"
+'ibrigral "farmlands" < 'ibri "manure" + gral, from fertilized land
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+Excellent compounds showing landscape terms! Let's document these:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+asamgral [a.sam.gral]
+  : flatlands, plains
+  : asam-gral "lie-land" → asamgral
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows metaphorical extension from "lying" position to flat terrain.
+    Contrasts with torgral "highlands". See: [Landscape Terms](#landscape-terms),
+    [Geographic Terms](#geographic-terms)
+
+'ibrigral [ʔib.ri.gral]
+  : farmlands, cultivated fields
+  : 'ibri-gral "manure-land" → 'ibrigral
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development from fertilization practice to general agricultural
+    land. Contrasts with wild gral. See: [Agricultural Terms](#agricultural-terms),
+    [Landscape Terms](#landscape-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:asamgral",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "asamgral",
+    "phoneticRep": "a.sam.gral"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:asam"
+    },
+    {
+      "@id": "eh:gral"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "asam-gral",
+    "etymon:gloss": "lie-land",
+    "etymon:note": "Shows metaphorical extension from position to terrain type"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "flatlands, plains",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Landscape Terms",
+        "Geographic Terms"
+      ]
+    }
+  ]
+},
+{
+  "@id": "eh:'ibrigral",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'ibrigral",
+    "phoneticRep": "ʔib.ri.gral"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'ibri"
+    },
+    {
+      "@id": "eh:gral"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'ibri-gral",
+    "etymon:gloss": "manure-land",
+    "etymon:note": "Shows development from fertilization practice to agricultural land"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "farmlands, cultivated fields",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Agricultural Terms",
+        "Landscape Terms"
+      ]
+    }
+  ]
+}
+````
+
+
+
+
+
+These show:
+1. Different compound formations with gral
+2. Metaphorical vs practical naming
+3. Cultural agricultural practices
+4. Landscape classification system
+
+Would you like to:
+1. Add more landscape terms?
+2. Explore other gral compounds?
+3. Document agricultural terms?
+4. Add cultural context?
+
+Some interesting possibilities:
+- torgral "highlands"
+- singral "wetlands"
+- thirgral "windy plains"
+
+---
+
+_**User**_
+
+cardinal directions
+
+eldul "north" < eldalulbres "elven wind; north wind"
+kethul "east" < kethurbres "sea wind; east wind"
+thilul "south" < thilulbres "sacred wind"
+tarul "west" < aitarulbres  "rainy wind"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect set of cardinal directions derived from winds! Let's document these:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+eldul [el.dul]
+  : north
+  : eldalulbres "north wind" → eldul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "elven wind", shows historical Eldrim influence on
+    directional system. See: [Directional Terms](#directional-terms),
+    [Wind Terms](#wind-terms)
+
+kethul [ke.θul]
+  : east
+  : kethulbres "east wind" → kethul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "sea wind", shows maritime influence on eastern regions.
+    See: [Directional Terms](#directional-terms), [Maritime Terms](#maritime-terms)
+
+thilul [θi.lul]
+  : south
+  : thilulbres "sacred wind" → thilul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "sacred wind", shows cultural association of south with
+    favorable omens. See: [Directional Terms](#directional-terms),
+    [Sacred Terms](#sacred--ritual)
+
+tarul [ta.rul]
+  : west
+  : aitarulbres "rainy wind" → tarul
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shortened from "rainy wind", shows climatic influence on directional
+    terms. See: [Directional Terms](#directional-terms),
+    [Weather Terms](#weather-terms)
+````
+
+This system shows:
+1. Wind-based directional naming
+2. Cultural influences (Eldrim)
+3. Geographic features (sea)
+4. Climate patterns (rain)
+5. Religious associations (sacred)
+
+The reduction pattern is consistent:
+- X-ul-bres "X-POSS-wind" → X-ul
+- Preserves possessive marker in shortened form
+
+Would you like to:
+1. Add directional compounds?
+2. Document the full wind system?
+3. Explore cultural associations?
+4. Add usage examples?
+
+Some interesting possibilities:
+- eldul'er "to go north"
+- eldulbran "northern clan"
+- eldulthral "northern ritual"
+
+---
+
+_**User**_
+
+add to @lexicon.jsonld too pleas
+
+---
+
+_**Assistant**_
+
+I'll help add the cardinal direction terms to both the markdown and JSON-LD. Let me format the JSON-LD entries for the cardinal directions:
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:eldul",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "eldul",
+    "phoneticRep": "el.dul"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "eldalulbres",
+    "etymon:gloss": "elven-wind",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows historical Eldrim influence on directional system"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense", 
+      "definition": {
+        "@value": "north",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Directional Terms",
+        "Wind Terms"
+      ],
+      "usage": "Derived from term for north wind"
+    }
+  ]
+},
+{
+  "@id": "eh:kethul",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "kethul",
+    "phoneticRep": "ke.θul"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "kethulbres",
+    "etymon:gloss": "sea-wind",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows maritime influence on eastern regions"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "east",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Directional Terms",
+        "Maritime Terms"
+      ],
+      "usage": "Derived from term for east wind"
+    }
+  ]
+},
+{
+  "@id": "eh:thilul",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "thilul",
+    "phoneticRep": "θi.lul"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "thilulbres",
+    "etymon:gloss": "sacred-wind",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows cultural association of south with favorable omens"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "south",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Directional Terms",
+        "Sacred Terms"
+      ],
+      "usage": "Derived from term for south wind"
+    }
+  ]
+},
+{
+  "@id": "eh:tarul",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "tarul",
+    "phoneticRep": "ta.rul"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "aitarulbres",
+    "etymon:gloss": "rainy-wind",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows climatic influence on directional terms"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "west",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Directional Terms",
+        "Weather Terms"
+      ],
+      "usage": "Derived from term for west wind"
+    }
+  ]
+}
+````
+
+This adds the full lexical entries with:
+1. Phonetic forms
+2. Etymology showing compound reduction
+3. Cultural/geographic notes
+4. Semantic field tags
+5. Usage notes
+6. Cross-references to related terms
+
+Would you like me to:
+1. Add the corresponding wind terms?
+2. Add directional compounds?
+3. Document the cultural associations?
+4. Add usage examples?
+
+---
+
+_**User**_
+
+`imwen "witch" < 'im "evil" + wen'al "woman"
+wenkulok "sorceress" < wen'al "woman" + kulok "sorcerer"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's document these magical practitioner terms:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+'imwen [ʔim.wen]
+  : witch, evil woman
+  : 'im-wen'al "evil-woman" → 'imwen
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
+  : Note: Pejorative term for female magic user. Shows gender bias in magical
+    terminology. Contrasts with wenkulok. See: [Magic Terms](#magic-terms),
+    [Gender Terms](#gender-terms)
+
+wenkulok [wen.ku.lok]
+  : sorceress
+  : wen'al-kulok "woman-sorcerer" → wenkulok
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
+  : Note: Neutral/respectful term for female magic user. Shows regularization of
+    gender marking in professional terms. See: [Magic Terms](#magic-terms),
+    [Professional Terms](#professional-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'imwen",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'imwen",
+    "phoneticRep": "ʔim.wen"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'im"
+    },
+    {
+      "@id": "eh:wen'al"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'im-wen'al",
+    "etymon:gloss": "evil-woman",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows pejorative development in magical terminology"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "witch, evil woman",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Magic Terms",
+        "Gender Terms"
+      ],
+      "usage": "Pejorative term for female magic user",
+      "lexinfo:register": "derogatory"
+    }
+  ]
+},
+{
+  "@id": "eh:wenkulok",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "wenkulok",
+    "phoneticRep": "wen.ku.lok"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:wen'al"
+    },
+    {
+      "@id": "eh:kulok"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "wen'al-kulok",
+    "etymon:gloss": "woman-sorcerer",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows regularization of gender marking in professional terms"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "sorceress",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Magic Terms",
+        "Professional Terms"
+      ],
+      "usage": "Neutral/respectful term for female magic user",
+      "lexinfo:register": "formal"
+    }
+  ]
+}
+````
+
+
+
+
+
+This shows:
+1. The contrast between pejorative and neutral terms
+2. Gender marking patterns
+3. Professional terminology development
+4. Register differences
+
+Would you like to:
+1. Add related magic terms?
+2. Explore gender marking?
+3. Document magical practices?
+4. Add usage examples?
+
+Some interesting possibilities:
+- 'imwen'er "to practice witchcraft"
+- wenkulokthral "sorceress ritual"
+- wenkulokul "apprentice sorceress"
+
+---
+
+_**User**_
+
+let's add a disjunctive coordinator `'a`. it is used in a similar manner with the additive `ru`
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's document this disjunctive coordinator:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+'a [ʔa]
+  : or, either/or
+  : ([coordinator](@/languages/hick/early-hick/_index.md#conjunctions))
+  : Note: Disjunctive coordinator used with particle o, parallel to additive ru.
+    Takes case marking to show role of coordinated phrase. See: 
+    [Conjunctions](#conjunctions), [Coordination](#coordination)
+
+Examples:
+   ```plaintext
+   kor o toren o 'a-el
+   [cow PART horse PART] OR-ERG
+   "either the cow or the horse (as agent)"
+
+   'imwen o wenkulok o 'atanes
+   [witch PART sorceress PART] OR-DEM.MED.VIS.ANIM-ABS
+   "either that witch or sorceress"
+   ```
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'a",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'a",
+    "phoneticRep": "ʔa"
+  },
+  "lexicalCategory": "lexinfo:Conjunction",
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "or, either/or",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Grammatical Terms",
+        "Coordinators"
+      ],
+      "usage": "Used with particle o to coordinate alternatives, takes case marking",
+      "lexinfo:termType": "disjunctive coordinator"
+    }
+  ],
+  "morphologicalPattern": {
+    "@type": "lexinfo:MorphologicalPattern",
+    "lexinfo:inflectionType": "case marking",
+    "example": [
+      "'a-el (ERG)",
+      "'a-es (ABS)",
+      "'a-tan (DEM.MED)"
+    ]
+  }
+}
+````
+
+
+
+
+
+
+This shows:
+1. The parallel with ru
+2. The case marking pattern
+3. The coordination structure
+4. The demonstrative usage
+
+Would you like to:
+1. Add more examples?
+2. Document coordination patterns?
+3. Explore other coordinators?
+4. Add syntactic details?
+
+Some interesting patterns:
+- Exclusive vs inclusive or
+- Scope of coordination
+- Interaction with demonstratives
+- Multiple disjunctions
+
+---
+
+_**User**_
+
+let's document it into the grammar as well, in the conjunctions section after the additive coordination section
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'll add the disjunctive coordination section after the additive coordination:
+
+````markdown:site/content/languages/hick/early-hick/_index.md
+### Disjunctive Coordination
+
+Early Hick marks alternatives with the particle o and joins them with the 
+coordinator 'a (< Proto-Hick *ʔaha "other"):
+
+```plaintext
+kor o toren o 'a-el
+[cow PART horse PART] OR-ERG
+"either the cow or the horse (as agent)"
+```
+
+The coordinator 'a can take case marking to show the role of the coordinated 
+phrase:
+
+- 'a-el: coordinated elements as agent
+- 'a-es: coordinated elements as patient/subject
+
+Demonstrative marking may also be appended to 'a, if the coordinated elements 
+share referential properties:
+
+```plaintext
+'imwen o wenkulok o 'atanes
+[witch PART sorceress PART] OR-DEM.MED.VIS.ANIM-ABS
+"either that witch or that sorceress"
+```
+
+compare with:
+
+```plaintext
+'imwentan o wenkuloktan o 'aes
+[that witch PART that sorceress PART] OR-ABS
+"either that witch or that (other) sorceress"
+```
+
+The disjunctive coordinator follows the same structural patterns as the additive 
+coordinator ru, maintaining the language's systematic approach to coordination.
+````
+
+This shows:
+1. The parallel structure with ru
+2. The case marking system
+3. The demonstrative patterns
+4. The referential distinctions
+
+The section fits naturally after additive coordination because:
+1. Uses same particle o
+2. Shows parallel case marking
+3. Has similar demonstrative behavior
+4. Completes the coordination system overview
+
+Would you like to:
+1. Add more examples?
+2. Document scope patterns?
+3. Add historical notes?
+4. Explore semantic nuances?
+
+---
+
+_**User**_
+
+arak "color" < PH ʔaraku "light (animate)"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's document this interesting semantic development:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+arak [a.rak]
+  : color
+  : < Proto-Hick *ʔaraku "light (animate)"
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : Note: Shows semantic shift from animate light to color. Forms compounds for
+    specific colors. See: [Color Terms](#color-terms), 
+    [Visual Terms](#visual-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:arak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "arak",
+    "phoneticRep": "a.rak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:protoform": "Proto-Hick *ʔaraku",
+    "etymon:protoMeaning": "light (animate)",
+    "etymon:soundChange": "final vowel loss",
+    "etymon:note": "Shows semantic development from animate light concept to color"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "color",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Color Terms",
+        "Visual Terms"
+      ],
+      "usage": "Forms compounds for specific colors"
+    }
+  ]
+}
+````
+
+
+
+
+
+
+This shows:
+1. The Proto-Hick etymology
+2. The semantic shift
+3. The sound changes
+4. The compound potential
+
+Would you like to:
+1. Add color compounds?
+2. Explore light terminology?
+3. Document animacy patterns?
+4. Add usage examples?
+
+Some interesting possibilities:
+- kelarak "blue" (sky-color)
+- murarak "black" (night-color)
+- thralarak "white" (sacred-color)
+- arak'er "to color, to paint"
+
+---
+
+_**User**_
+
+parma "book" < Eldrim parma "book"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's document this cultural borrowing:
+
+````markdown:site/content/languages/hick/early-hick/lexicon.md
+parma [par.ma]
+  : book, written record
+  : < Eldrim parma "book"
+  : ([loanword](@/languages/hick/early-hick/_index.md#loanwords))
+  : Note: Direct borrowing showing Eldrim influence on literacy and written
+    culture. Forms compounds for various text types. See: 
+    [Writing Terms](#writing-terms), [Borrowed Terms](#borrowed-terms)
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:parma",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "parma",
+    "phoneticRep": "par.ma"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:borrowing": {
+      "etymon:sourceLanguage": "Eldrim",
+      "etymon:sourceForm": "parma",
+      "etymon:sourceGloss": "book"
+    },
+    "etymon:note": "Shows Eldrim influence on literary culture"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "book, written record",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Writing Terms",
+        "Borrowed Terms",
+        "Cultural Terms"
+      ],
+      "usage": "Forms compounds for various text types"
+    }
+  ]
+}
+````
+
+
+
+
+
+
+
+This shows:
+1. The Eldrim source
+2. The cultural context
+3. The semantic scope
+4. The compound potential
+
+Would you like to:
+1. Add book-related compounds?
+2. Explore writing terminology?
+3. Document literary culture?
+4. Add usage examples?
+
+Some interesting possibilities:
+- parmathral "sacred text"
+- parmaul "scribe"
+- parmatok "library" (book-place)
+- parma'er "to write, to record"
+
+---
+
+_**User**_
+
+parmatal probably for library, but I do realize that tal is undocumented
+tal "place" < PH *halu "place of cleansing"  -> prehick dialect tal "place"
+
+while halu became thil in early hick, it became virtue or moral instead, with the sense of purity preserved instead of place
+
+---
+
+_**Assistant**_
+
+
+
+---
+
 
 
 ---

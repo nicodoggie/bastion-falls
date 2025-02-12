@@ -507,7 +507,7 @@ For detailed discussion of conjunction types and usage, see:
 
 ### Number Marking
 
-Early Hick has three strategies for marking number:
+Early Hick has four strategies for marking number:
 
 1. Plural Prefix ma-
    - Indicates general plurality
@@ -523,7 +523,30 @@ Early Hick has three strategies for marking number:
    - thal-ran-mater "three boats"
    - pil-ran-natlas "five friends"
 
-4. Fractional Marking with ran-
+4. Ordinal Marking with -ter
+   - Forms ordinals from cardinal numbers:
+     - sin → sinter "first"
+     - tir → tirter "second"
+     - thal → thalter "third"
+
+   Can be used in two ways:
+   a. As adjectival/adverbial modifier with ka- prefix:
+
+      ```plaintext
+      kasinter 'ir'er
+      first mover
+      "first one to move"
+      ```
+
+   b. As a prefix in number marking position:
+
+      ```plaintext
+      thaltermateres matir'er
+      third-ship sail-VERB
+      "third ship to sail"
+      ```
+
+5. Fractional Marking with ran-
    The partitive prefix ran- can also mark fractions when used with numbers:
 
    ```plaintext
@@ -929,6 +952,47 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
    - Follows ergative-absolutive alignment
    - Causatives marked by adding ergative agent
 
+### Color Terms
+
+Early Hick forms color terms through two strategies:
+
+1. Basic Adjectival Form
+   - Uses ka- prefix with color source noun
+   - Examples:
+     - kakel "sky-like, blue" < ka-kel "sky-like"
+     - kamar "blood-like, red" < ka-mar "blood-like"
+     - kathral "mist-like, white" < ka-thral "mist-like"
+     - kagral "earth-like, brown" < ka-gral "earth-like"
+
+2. Unambiguous Color Form
+   - Uses -rak suffix (< arak "color") to specify color meaning
+   - Particularly useful when source noun is present
+   - Examples:
+     - kakelrak "blue" (specifically the color)
+     - kamarrak "red" (specifically the color)
+     - kathralrak "white" (specifically the color)
+     - kagralrak "brown" (specifically the color)
+
+Compare:
+
+```plaintext
+kakel kel
+sky-like sky
+"sky-like sky" (could refer to any sky quality)
+
+kakelrak kel
+blue sky
+"blue sky" (specifically about color)
+```
+
+The -rak suffix can also be used in color-changing contexts:
+
+```plaintext
+'al'isel alises arak'er kelel kelrakes
+person.PROX.ERG who.ABS color.VERB sky.ERG blue.ABS
+"I colored the sky blue"
+```
+
 ## Derivational Morphology
 
 ### Similarity Prefix
@@ -1036,6 +1100,7 @@ the performer of the action.
 7. Skin as appearance
 8. Skin, Hair as abstract senses
 9. Stomach, gut as strength
+10. Liver as source of instinct and intuition
 
 ## Affix Order
 
@@ -1757,6 +1822,60 @@ phrase:
 
 - ru-el: coordinated elements as agent
 - ru-es: coordinated elements as patient/subject
+
+Demonstrative marking may also be appedede to ru, if each of the coordinated
+elements are the same referent.
+
+```plaintext
+'imwen o wenkulok o rutanes
+[witch PART sorceress PART] AND-DEM.MED.VIS.ANIM-ABS
+"that witch and sorceress"
+```
+
+compare with:
+
+```plaintext
+'imwentan o wenkuloktan o rues
+[that witch PART that sorceress PART] AND-ABS
+"that witch and that (other) sorceress"
+```
+
+### Disjunctive Coordination
+
+Early Hick marks alternatives with the particle o and joins them with the
+coordinator 'a (< Proto-Hick *ʔaha "other"):
+
+```plaintext
+kor o toren o 'a-el
+[cow PART horse PART] OR-ERG
+"either the cow or the horse (as agent)"
+```
+
+The coordinator 'a can take case marking to show the role of the coordinated
+phrase:
+
+- 'a-el: coordinated elements as agent
+- 'a-es: coordinated elements as patient/subject
+
+Demonstrative marking may also be appended to 'a, if the coordinated elements
+share referential properties:
+
+```plaintext
+'imwen o wenkulok o 'atanes
+[witch PART sorceress PART] OR-DEM.MED.VIS.ANIM-ABS
+"either that witch or that sorceress"
+```
+
+compare with:
+
+```plaintext
+'imwentan o wenkuloktan o 'aes
+[that witch PART that sorceress PART] OR-ABS
+"either that witch or that (other) sorceress"
+```
+
+The disjunctive coordinator follows the same structural patterns as the additive
+coordinator ru, maintaining the language's systematic approach to coordination.
 
 ### Shared Action Coordination
 
