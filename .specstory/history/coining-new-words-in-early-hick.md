@@ -1,0 +1,5097 @@
+## SpecStory
+
+## Coining New Words in Early Hick (2/13/2025, 7:38:52 PM)
+
+_**User**_
+
+let's coin another word
+'ilisal "visit (a place); experience personally; confirm via experiment"< 'ilis "knowledge" + 'al "person" 
+
+---
+
+_**Assistant**_
+
+I'll help craft an entry for 'ilisal that follows the established patterns in the lexicon. Based on the examples, particularly how compounds with 'al work and how knowledge terms are structured, here's the suggested entry:
+
+```markdown
+'ilisal [ʔi.li.sal]
+  : visit (a place); experience personally; confirm via experiment
+  : Proto-Hick 'ilis-'al "knowledge-person" → 'ilisal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows semantic development from "knowledge-person" to active 
+  experiential learning. Forms verb 'ilisal'er "to visit, to experience 
+  firsthand". See: [Mental Terms](#mental-terms), 
+  [Action Terms](#action-terms)
+```
+
+And here's the corresponding JSON-LD entry that would go in the lexicon.jsonld file:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'ilisal",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'ilisal",
+    "phoneticRep": "ʔi.li.sal"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'ilis"
+    },
+    {
+      "@id": "eh:'al"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'ilis-'al",
+    "etymon:gloss": "knowledge-person",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows semantic development from 'knowledge-person' to active experiential learning"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "visit (a place)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Action Terms",
+        "Motion Terms"
+      ]
+    },
+    {
+      "@type": "ontolex:LexicalSense", 
+      "definition": {
+        "@value": "experience personally",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Action Terms"
+      ]
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "confirm via experiment",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Mental Terms",
+        "Action Terms"
+      ]
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "'ilisal'er",
+      "phoneticRep": "ʔi.li.sal.ʔer",
+      "decomposition": "'ilisal + -'er (verbalizer)",
+      "grammaticalMeaning": "to visit, to experience firsthand"
+    }
+  ]
+}
+```
+
+This entry:
+1. Follows the phonological patterns of Early Hick
+2. Uses the established compound formation pattern with 'al
+3. Shows semantic extension from literal meaning to experiential/empirical concepts
+4. Includes both nominal and verbal forms
+5. Links to relevant semantic fields
+6. Maintains consistency with existing knowledge-related terms like 'ilis
+
+The semantic development makes sense given Early Hick's patterns of extending 
+concrete person-compounds into more abstract concepts, similar to how takutakal 
+"rhythm-person" became "language".
+
+---
+
+_**User**_
+
+aiesp "bathe" < ai "water" + -esp SUBE
+
+---
+
+_**Assistant**_
+
+I'll help create entries for this word that follows Early Hick's patterns for case lexicalization and spatial metaphors. Here's the suggested entry:
+
+````markdown
+aiesp [ai.esp]
+  : bathe, immerse in water
+  : ai-esp "water-under" → aiesp
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows lexicalization of subessive case marking into a basic verb. Forms 
+  verb aiesp'er "to bathe". Contrasts with ailas'er "to enter water" (illative) 
+  and aiimris'er "to exit water" (ellative). See: [Water Features](#water-features), 
+  [Motion Terms](#motion-terms)
+````
+
+And here's the corresponding JSON-LD entry:
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:aiesp",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "aiesp",
+    "phoneticRep": "ai.esp"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:ai"
+    },
+    {
+      "@id": "eh:esp"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "ai-esp",
+    "etymon:gloss": "water-under",
+    "etymon:soundChange": "case lexicalization",
+    "etymon:note": "Shows lexicalization of subessive case into basic verb stem"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "bathe",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Water Terms",
+        "Motion Terms",
+        "Body Terms"
+      ],
+      "usage": "Basic term for immersion in water"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "aiesp'er",
+      "phoneticRep": "ai.esp.ʔer",
+      "decomposition": "aiesp + -'er (verbalizer)",
+      "grammaticalMeaning": "to bathe, to immerse in water"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:ailas",
+      "relationshipType": "contrasts with",
+      "note": "enter water (illative case)"
+    },
+    {
+      "@id": "eh:aiimris",
+      "relationshipType": "contrasts with", 
+      "note": "exit water (ellative case)"
+    }
+  ]
+}
+````
+
+This entry:
+1. Shows how spatial cases can lexicalize into verb stems
+2. Maintains the water-motion semantic patterns seen elsewhere
+3. Creates a three-way contrast with other water-motion terms using different cases
+4. Links to relevant semantic domains
+5. Follows Early Hick phonological patterns
+6. Includes both nominal and verbal derivations
+
+The semantic development makes sense given Early Hick's extensive use of spatial 
+cases to express states and actions, particularly with water-related terms.
+
+---
+
+_**User**_
+
+'irai "waterskin; liquid container" < 'irurlis "container" + ai "water"
+
+---
+
+_**Assistant**_
+
+
+
+I'll help create entries for this compound that follows Early Hick's patterns for container terms and compound reduction. Here's the suggested entry:
+
+```markdown
+'irai [ʔi.rai]
+  : waterskin; liquid container
+  : 'irurlis-ai "container-water" → 'irai
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows extreme compound reduction preserving initial and final elements. 
+    Forms compounds for specific liquid containers. Contrasts with 'irurlis for 
+    general containers. See: [Container Terms](#container-terms), 
+    [Material Culture](#material-culture)
+```
+
+And here's the corresponding JSON-LD entry:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'irai",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'irai",
+    "phoneticRep": "ʔi.rai"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'irurlis"
+    },
+    {
+      "@id": "eh:ai"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'irurlis-ai",
+    "etymon:gloss": "container-water",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows extreme reduction preserving initial and final elements"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "waterskin",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Container Terms",
+        "Material Culture",
+        "Water Terms"
+      ],
+      "usage": "Primary term for portable water container"
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "liquid container",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Container Terms",
+        "Material Culture"
+      ],
+      "usage": "Extended meaning for any liquid container"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:'irurlis",
+      "relationshipType": "broader term",
+      "note": "general container term"
+    },
+    {
+      "@id": "eh:tirai",
+      "relationshipType": "related term",
+      "note": "fermented drink container"
+    }
+  ]
+}
+```
+
+This entry:
+1. Shows the common pattern of extreme compound reduction in frequently used terms
+2. Maintains semantic connection to both container and water terminology
+3. Follows Early Hick phonological patterns
+4. Shows specialization from general container to specific liquid container
+5. Links to related container terms
+6. Includes both concrete (waterskin) and general (liquid container) senses
+
+The semantic development makes sense given Early Hick's patterns of compound 
+reduction in common terms and the importance of water containers in material 
+culture. The parallel with tirai "fermented drink" suggests a systematic pattern 
+in liquid container terminology.
+
+---
+
+_**User**_
+
+what's the difference between a cave and a cavern
+
+---
+
+_**Assistant**_
+
+Let me help explain the distinction between caves and caverns in English, 
+which can inform how we might want to handle this in Early Hick.
+
+In English usage:
+
+1. Cave (general term):
+   - Any natural hollow in rock, regardless of size
+   - Can be shallow or deep
+   - May have a single chamber
+   - Often has a visible entrance
+   - More commonly used term
+
+2. Cavern (specific term):
+   - Usually larger than a cave
+   - Typically has multiple chambers/rooms
+   - Often extends deep underground
+   - May have complex networks
+   - More formal/technical term
+   - Often associated with limestone formations
+
+For Early Hick, we might want to capture this distinction. Looking at existing 
+patterns, we could use:
+
+```markdown
+bel'al [bel.ʔal]
+  : cave (lit. "mouth-place")
+  : bel-'al "mouth-place" → bel'al
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Basic term for cave openings, shows metaphorical extension of body parts 
+    to landscape features. See: [Landforms](#landforms), 
+    [Body Terms](#body-terms)
+
+'irurbel [ʔi.rur.bel]
+  : cavern (lit. "hollow-mouth")
+  : 'irur-bel "hollow-mouth" → 'irurbel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Specialized term for large cave systems, contrasts with bel'al for 
+    simple caves. Shows productive use of 'irur- prefix for hollow spaces.
+  : See: [Landforms](#landforms), [Container Terms](#container-terms)
+```
+
+This captures the size/complexity distinction while using Early Hick's existing 
+patterns of:
+- Body part metaphors (bel "mouth")
+- Spatial terms ('al "place")
+- Container/hollow terminology ('irur-)
+- Compound formation patterns
+
+The distinction follows Early Hick's tendency to use basic compounds for common 
+features (bel'al) and more complex compounds for specialized terms ('irurbel).
+
+---
+
+_**User**_
+
+so a cavern is a cave network basically?
+
+---
+
+_**Assistant**_
+
+
+
+Yes, exactly! A cavern is essentially a network or system of connected caves, 
+rather than just a single hollow space. Let me refine those entries to make this 
+distinction clearer:
+
+```markdown
+bel'al [bel.ʔal]
+  : cave (single chamber)
+  : bel-'al "mouth-place" → bel'al
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Basic term for individual cave openings. Shows metaphorical extension 
+    of body parts to landscape features. Contrasts with 'irurbel for connected 
+    systems. See: [Landforms](#landforms), [Body Terms](#body-terms)
+
+'irurbel [ʔi.rur.bel]
+  : cavern (cave network/system)
+  : 'irur-bel "hollow-mouth" → 'irurbel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Term for interconnected cave systems. Shows semantic extension from 
+    container terminology to natural formations. Forms compounds for specific 
+    types of cave networks.
+  : See: [Landforms](#landforms), [Container Terms](#container-terms)
+```
+
+The key distinction is:
+- bel'al = single cave/chamber
+- 'irurbel = network/system of connected caves
+
+This matches how English "cavern" often implies a more complex underground 
+structure, while "cave" can be as simple as a single hollow in a cliff face.
+
+---
+
+_**User**_
+
+I was thinking that we have caverns as 
+
+parduwes "cavern; cave network" < grapar "worm" + duwes "consume"
+
+and 'irurbel could be the word for a singular cave, or at least a cave entrance, with mouth being a common metaphor for an opening, entryway
+
+---
+
+_**Assistant**_
+
+
+
+Ah, that's a brilliant etymology for "cavern"! Using the metaphor of "worm-eaten" 
+to describe cave networks makes perfect sense both linguistically and 
+geologically. And yes, 'irurbel works better as the basic cave term. Let me 
+revise these entries:
+
+```markdown
+'irurbel [ʔi.rur.bel]
+  : cave, cave entrance
+  : 'irur-bel "hollow-mouth" → 'irurbel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Basic term for cave openings. Shows common metaphorical extension of 
+    "mouth" to mean entrance/opening. Forms compounds for specific types of caves.
+  : See: [Landforms](#landforms), [Body Terms](#body-terms)
+
+parduwes [par.du.wes]
+  : cavern, cave network
+  : grapar-duwes "worm-consume" → parduwes
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Literally "worm-eaten," metaphorically extended to describe complex cave 
+    systems. Shows understanding of cave formation through water erosion. 
+    Contrasts with 'irurbel for single caves.
+  : See: [Landforms](#landforms), [Geological Terms](#geological-terms)
+```
+
+This makes more sense because:
+1. It follows the common cross-linguistic pattern of using "mouth" for entrances
+2. The worm-eating metaphor captures how cave networks form through erosion
+3. Shows Early Hick's understanding of geological processes
+4. Maintains the distinction between single caves and complex systems
+5. Uses established patterns of compound reduction in technical terms
+
+The semantic development from "worm-eaten" to "cave network" is particularly 
+elegant as it reflects both the appearance and formation process of karst cave 
+systems.
+
+---
+
+_**User**_
+
+I don't necessarily think that it shows that early hick speakers know about limestone erosion to a large degree. It could just be some lore about how worms eat the bottoms of mountains etc.
+
+I mean, they could perhaps. history may have hidden this understanding, but the word doesn't imply it. 
+
+---
+
+_**Assistant**_
+
+
+
+Ah, you're absolutely right - I was over-interpreting there! Let me revise that 
+entry to better reflect the likely folk understanding rather than implying 
+geological knowledge:
+
+```markdown
+parduwes [par.du.wes]
+  : cavern, cave network
+  : grapar-duwes "worm-consume" → parduwes
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Literally "worm-eaten," reflecting folk belief about cave formation 
+    through the action of great worms eating through mountains. Contrasts with 
+    'irurbel for single caves.
+  : See: [Landforms](#landforms), [Mythological Terms](#mythological-terms)
+```
+
+This version:
+1. Better reflects likely folk explanations
+2. Doesn't assume scientific knowledge
+3. Suggests a richer mythological understanding
+4. Still maintains the practical distinction between single caves and networks
+5. Could hint at interesting cultural beliefs about underground creatures
+
+The word itself just tells us they saw a similarity between worm-eaten patterns 
+and cave networks - any deeper understanding would need historical evidence 
+beyond just the etymology.
+
+---
+
+_**User**_
+
+let's add it into jsonld as well
+
+---
+
+_**Assistant**_
+
+
+
+Here's the JSON-LD entry for parduwes, incorporating the mythological aspect and 
+folk etymology:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:parduwes",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "parduwes",
+    "phoneticRep": "par.du.wes"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:grapar"
+    },
+    {
+      "@id": "eh:duwes"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "grapar-duwes",
+    "etymon:gloss": "worm-consume",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Shows compound reduction of grapar-duwes to parduwes"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "cavern, cave network",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Landforms",
+        "Mythological Terms"
+      ],
+      "usage": "Originally 'worm-eaten,' extended to mean cave networks"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:'irurbel",
+      "relationshipType": "contrasts with",
+      "note": "single cave/entrance vs. network"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "parduwes'er",
+      "phoneticRep": "par.du.wes.ʔer",
+      "decomposition": "parduwes + -'er (verbalizer)",
+      "grammaticalMeaning": "to form cave networks, to hollow out (of mountains)"
+    }
+  ],
+  "note": "Reflects folk belief about cave formation through the action of great worms eating through mountains"
+}
+```
+
+This entry:
+1. Shows the compound reduction process
+2. Links to both landform and mythological semantic fields
+3. Maintains relationship with 'irurbel
+4. Includes verbal derivation
+5. Preserves the folk etymology without implying scientific knowledge
+6. Follows the established patterns for Early Hick compound terms
+
+---
+
+_**User**_
+
+meltek "song" < PH* melu "sweet" + PH* takutaku "rhythm"
+
+---
+
+_**Assistant**_
+
+
+
+Let me help create an entry for this musical term that shows the compound 
+reduction from Proto-Hick:
+
+```markdown
+meltek [mel.tek]
+  : song, melodic rhythm
+  : Proto-Hick *melu-takutaku "sweet-rhythm" → meltek
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows extreme reduction of second element while preserving initial 
+    syllable. Forms verb meltek'er "to sing". Contrasts with takal for speech 
+    rhythm. See: [Music Terms](#music-terms), [Sound Terms](#sound-terms)
+```
+
+
+And here's the corresponding JSON-LD entry:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:meltek",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "meltek",
+    "phoneticRep": "mel.tek"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:protoform": "Proto-Hick *melu-takutaku",
+    "etymon:gloss": "sweet-rhythm",
+    "etymon:soundChange": [
+      "compound reduction",
+      "final vowel loss"
+    ],
+    "etymon:note": "Shows preservation of first syllable of second element in compound reduction"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "song",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Music Terms",
+        "Performance Terms"
+      ],
+      "usage": "Basic term for melodic vocal performance"
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "melodic rhythm",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Music Terms",
+        "Sound Terms"
+      ],
+      "usage": "Technical term for musical patterns"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "meltek'er",
+      "phoneticRep": "mel.tek.ʔer",
+      "decomposition": "meltek + -'er (verbalizer)",
+      "grammaticalMeaning": "to sing"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:takal",
+      "relationshipType": "contrasts with",
+      "note": "speech rhythm vs. melodic rhythm"
+    }
+  ]
+}
+```
+
+
+This entry:
+1. Shows the compound reduction process from Proto-Hick
+2. Maintains connection between music and sweetness
+3. Contrasts with speech-related terms
+4. Includes both concrete (song) and abstract (melodic rhythm) senses
+5. Shows verbal derivation
+6. Links to relevant semantic domains
+
+The semantic development makes sense given Early Hick's patterns of using taste 
+metaphors for aesthetic qualities and the relationship between rhythm and 
+language.
+
+---
+
+_**User**_
+
+vinusak "dog" < vinud "home; dwelling" + sak "wolf"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Let me help create an entry for this compound that shows the relationship between 
+domesticated and wild canines:
+
+```markdown
+vinusak [vi.nu.sak]
+  : dog, domesticated wolf
+  : vinud-sak "home-wolf" → vinusak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural understanding of dogs as domesticated wolves. Forms 
+    compounds for specific dog types/roles. Contrasts with sak for wild wolves. 
+    See: [Animal Terms](#animal-terms), [Domestic Terms](#domestic-terms)
+```
+
+
+
+And here's the corresponding JSON-LD entry:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:vinusak",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "vinusak",
+    "phoneticRep": "vi.nu.sak"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:vinud"
+    },
+    {
+      "@id": "eh:sak"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "vinud-sak",
+    "etymon:gloss": "home-wolf",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows recognition of dogs as domesticated wolves through compound formation"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "dog",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Domestic Animals"
+      ],
+      "usage": "Basic term for domesticated canines"
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "domesticated wolf",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Animal Terms",
+        "Domestic Animals"
+      ],
+      "usage": "Technical/historical sense reflecting origin"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:sak",
+      "relationshipType": "contrasts with",
+      "note": "wild vs. domesticated canine"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "vinusak'er",
+      "phoneticRep": "vi.nu.sak.ʔer",
+      "decomposition": "vinusak + -'er (verbalizer)",
+      "grammaticalMeaning": "to hunt with dogs"
+    }
+  ]
+}
+```
+
+
+
+This entry:
+1. Shows the compound formation process
+2. Reflects early understanding of dog domestication
+3. Maintains clear relationship with wild wolves
+4. Includes both common and technical senses
+5. Shows verbal derivation for hunting practices
+6. Links to relevant semantic domains
+
+The semantic development makes sense given Early Hick's patterns of using 
+location compounds to show domestication/cultivation (compare grasvin "garden" 
+from gras "grass" + vinud "home").
+
+---
+
+_**User**_
+
+rek "bark" < PH *reku onomatopoeic origin
+
+---
+
+_**Assistant**_
+
+
+
+Let me help create an entry for this sound-symbolic word:
+
+```markdown
+rek [rek]
+  : bark (of dog/wolf)
+  : Proto-Hick *reku → rek
+  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : Note: Onomatopoeic origin. Forms verb rek'er "to bark". Common in compounds 
+    describing different types of barks/calls. See: [Sound Terms](#sound-terms), 
+    [Animal Terms](#animal-terms)
+```
+
+And here's the corresponding JSON-LD entry:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:rek",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "rek",
+    "phoneticRep": "rek"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:protoform": "Proto-Hick *reku",
+    "etymon:soundChange": "final vowel loss",
+    "etymon:note": "Shows onomatopoeic origin from sound of canine bark"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "bark (of dog/wolf)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Sound Terms",
+        "Animal Terms"
+      ],
+      "usage": "Basic term for canine vocalization"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "rek'er",
+      "phoneticRep": "rek.ʔer",
+      "decomposition": "rek + -'er (verbalizer)",
+      "grammaticalMeaning": "to bark"
+    },
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "rekrek",
+      "phoneticRep": "rek.rek",
+      "decomposition": "rek + rek (reduplication)",
+      "grammaticalMeaning": "repeated barking"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:vinusak",
+      "relationshipType": "domain",
+      "note": "typical producer of sound"
+    },
+    {
+      "@id": "eh:sak",
+      "relationshipType": "domain",
+      "note": "typical producer of sound"
+    }
+  ]
+}
+```
+
+This entry:
+1. Shows the sound-symbolic origin
+2. Follows regular sound change patterns
+3. Includes verbal derivation
+4. Shows reduplication pattern for repeated action
+5. Links to canine terms
+6. Maintains connection to other sound terms
+
+The word follows Early Hick patterns for onomatopoeic terms and shows typical 
+derivational possibilities (compare tak "impact" → tak'er "to hit", taktak 
+"repeated hitting").
+
+---
+
+_**User**_
+
+'ilistal < 'ilis "knowledge" + tal "place"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Let me help create an entry for this compound meaning "place of knowledge":
+
+```markdown
+'ilistal [ʔi.lis.tal]
+  : library; school; place of learning
+  : 'ilis-tal "knowledge-place" → 'ilistal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development of formal learning spaces. Forms compounds for 
+    specific types of knowledge centers. Contrasts with 'ilisal for experiential 
+    learning. See: [Learning Terms](#learning-terms), 
+    [Building Terms](#building-terms)
+```
+
+
+And here's the corresponding JSON-LD entry:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:'ilistal",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'ilistal",
+    "phoneticRep": "ʔi.lis.tal"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:'ilis"
+    },
+    {
+      "@id": "eh:tal"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "'ilis-tal",
+    "etymon:gloss": "knowledge-place",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Shows development of dedicated learning spaces"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "library",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Learning Terms",
+        "Building Terms"
+      ],
+      "usage": "Place for storing and accessing knowledge"
+    },
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "school",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Learning Terms",
+        "Building Terms"
+      ],
+      "usage": "Place for formal instruction"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:'ilisal",
+      "relationshipType": "contrasts with",
+      "note": "formal vs. experiential learning"
+    },
+    {
+      "@id": "eh:'ilis",
+      "relationshipType": "semantic domain",
+      "note": "knowledge terminology"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "'ilistal'er",
+      "phoneticRep": "ʔi.lis.tal.ʔer",
+      "decomposition": "'ilistal + -'er (verbalizer)",
+      "grammaticalMeaning": "to study formally, to attend school"
+    }
+  ]
+}
+```
+
+
+This entry:
+1. Shows standard compound formation
+2. Reflects development of formal learning institutions
+3. Contrasts with experiential learning term 'ilisal
+4. Includes both storage (library) and teaching (school) senses
+5. Shows verbal derivation for formal study
+6. Links to relevant knowledge/learning terminology
+
+The semantic development makes sense given Early Hick's patterns of using -tal 
+compounds for specialized locations (compare thraltal "temple" from thral 
+"sacred" + tal "place").
+
+---
+
+_**User**_
+
+what are IRL etymologies for daffodils across different language families where the flower is endemic
+
+---
+
+_**Assistant**_
+
+Let me explore some interesting etymologies for daffodils across 
+different language families, focusing on Western Europe where Narcissus 
+pseudonarcissus is native:
+
+Latin/Romance:
+- Latin: narcissus (borrowed from Greek)
+- French: jonquille (from Latin juncus "rush, reed" due to its leaves)
+- Spanish: narciso (from Latin)
+- Portuguese: narciso (from Latin)
+
+Germanic:
+- English: daffodil (likely from Medieval Dutch "affodill", ultimately from 
+  Latin asphodelus, though the 'd' prefix origin is debated)
+- Dutch: narcis (from Latin)
+- German: Narzisse (from Latin)
+- Old English: also used "affodyle"
+
+Celtic:
+- Welsh: cenhinen Bedr ("Peter's leek") 
+- Irish: lus an chromchinn ("bent-head plant")
+- Scots Gaelic: lus a' chromchinn (same meaning as Irish)
+
+The most interesting etymologies here are:
+1. The Celtic descriptive names focusing on physical features
+2. The Dutch/English path showing the 'd' accretion
+3. The French divergence using a reed comparison
+4. The widespread borrowing from Greek narcissus
+
+Most European languages either:
+- Borrowed from Latin/Greek narcissus
+- Created descriptive compounds based on appearance
+- Used metaphorical comparisons to other plants
+
+The Celtic names are particularly interesting as they show independent naming 
+patterns rather than borrowing.
+
+---
+
+_**User**_
+
+so greek narcissus is because of the mythological character? why was the flower named after it? also source of affodil?
+
+---
+
+_**Assistant**_
+
+
+
+The Greek connection to Narcissus is indeed from the mythological character, but 
+there's some debate about which came first - the flower name or the character 
+name. Let me break this down:
+
+Greek Etymology:
+1. νάρκισσος (narkissos) - the flower name
+2. νάρκη (narkē) - "numbness, sleep" 
+   - Source of modern "narcotic"
+   - Some suggest the flower was named for its sedative properties
+   - Others link it to the "drooping" head of the flower
+
+The myth connection could work either way:
+- Flower → Character: Named for how the flower bends toward water, like Narcissus 
+  gazing at his reflection
+- Character → Flower: The flower sprung up where Narcissus died, making the 
+  flower name commemorative
+
+As for "affodil":
+- From Medieval Latin "affodillus"
+- Earlier Latin "asphodelus" 
+- From Greek "ἀσφόδελος" (asphódelos)
+- Originally referred to a different flower (true asphodel)
+- The "d" in "daffodil" might be from Dutch/Anglo-Norman influence
+
+But I should note: I'm not entirely confident about these etymologies without 
+double-checking scholarly sources. The narcotic/numbness connection especially 
+feels like it could be folk etymology rather than historical fact.
+
+The transfer from asphodel → daffodil is particularly interesting as they're 
+different flowers, showing how plant names can shift between species over time.
+
+---
+
+_**User**_
+
+well, can we see why the daffodil was named after the asphodel?
+
+---
+
+_**Assistant**_
+
+
+
+Looking at the historical confusion between asphodels and daffodils:
+
+Asphodels (Asphodelus):
+- Mediterranean plants
+- White or pale pink flowers
+- Tall spikes of star-shaped blooms
+- Ancient cultural significance (Greek "flower of the dead")
+- Lily family (Liliaceae)
+
+Daffodils (Narcissus):
+- Northern European natives
+- Yellow or white flowers
+- Single flowers on stems
+- Amaryllis family (Amaryllidaceae)
+
+The transfer seems puzzling because they're quite different plants! My best 
+guesses for why the name shifted:
+
+1. Medieval botanical confusion:
+   - Limited scientific communication
+   - Reliance on descriptions in texts rather than direct observation
+   - Both are spring-flowering bulbs with pale flowers
+
+2. Cultural/textual transmission:
+   - Classical texts mentioning asphodels were being translated
+   - Translators in northern Europe might have mapped the unfamiliar 
+     Mediterranean asphodel to their familiar daffodil
+
+But I should note: This is speculative without checking historical botanical 
+texts. The actual path of name transfer might be more complex or different 
+entirely.
+
+The key puzzle is that they're not particularly similar plants, suggesting the 
+name transfer was more about textual/cultural transmission than botanical 
+similarity.
+
+---
+
+_**User**_
+
+so perhaps the star pattern of the flowers? I suppose it wasn't originally endemic in england?
+
+---
+
+_**Assistant**_
+
+
+
+Looking at images of both flowers and their history:
+
+Asphodel (Asphodelus):
+- 6-petaled star pattern
+- Multiple flowers on tall spike
+- Native to Mediterranean/Southern Europe
+- Each flower about 2-3cm across
+
+Daffodil (Narcissus):
+- 6 outer petals in star arrangement
+- Central corona/trumpet
+- Native to Northern Europe, including Britain
+- Each flower larger, about 5-7cm across
+
+I need to correct my earlier statement - daffodils (N. pseudonarcissus) are 
+actually native to Western Europe, including Britain! They're found naturally in:
+- England (especially western/southern woodlands)
+- Wales
+- Northern Spain
+- Portugal
+- Western France
+
+So while the name transfer from asphodel is interesting, it's not about the 
+plant being non-native. The similarity in the six-petaled star pattern might 
+indeed have contributed to the name confusion, but given daffodils were already 
+present, it might be more about:
+
+1. Literary/scholarly tradition:
+   - Medieval herbals and botanical works
+   - Translation of classical texts
+   - Attempt to match classical names to known plants
+
+2. Structural similarities:
+   - Both have six-petaled structure
+   - Both are spring-flowering bulbs
+   - Both have ancient cultural significance
+
+But I should note: This is still somewhat speculative without checking medieval 
+botanical sources directly.
+
+---
+
+_**User**_
+
+was there an older english name for the daffodil?
+
+---
+
+_**Assistant**_
+
+
+
+Let me look into Old English and Middle English names for daffodils...
+
+Old English terms:
+- "lencten-lilie" (literally "spring lily" or "Lent lily") - still used in some 
+  British dialects
+- "easter-lillie" - reflecting its spring blooming time
+
+The term "daffodil" emerges in Middle English:
+- "affodille" (circa 1400s)
+- Later "daffodille"
+
+The "Lent lily" name is particularly interesting because:
+1. It's descriptive of blooming time
+2. It shows English speakers recognized it as a distinct flower
+3. It's still used in parts of rural England
+4. It reflects the flower's cultural connection to the Christian calendar
+
+But I should note: I'm not entirely confident about the completeness of Old 
+English terms without checking more comprehensive historical sources. There might 
+be other regional or dialectal terms that were used.
+
+The shift from native descriptive names ("spring/Lent lily") to the borrowed 
+"affodille/daffodil" is interesting - it suggests the classical/scholarly 
+influence overtook the vernacular term, at least in standard English.
+
+---
+
+_**User**_
+
+I suppose it was thought to be related to the lily family of flowers, while greek and the derivatives relate it to the sleepy look of the drooping flower
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Yes, exactly! This shows two completely different naming motivations:
+
+Germanic/English tradition:
+1. "lencten-lilie"/"Lent lily":
+   - Based on appearance (lily-like)
+   - Timing (springs/Lent blooming)
+   - Local cultural context (Christian calendar)
+   - Descriptive/practical naming pattern
+
+Greek/Mediterranean tradition:
+1. "narcissus"/"νάρκισσος":
+   - Based on drooping posture (νάρκη "numbness/sleep")
+   - Or mythological connection
+   - More poetic/metaphorical naming pattern
+
+Modern botanical classification puts them:
+- Daffodils: Amaryllidaceae family
+- True lilies: Liliaceae family
+- But both are monocots with six-petaled flowers
+
+This is a great example of how different cultures can name the same plant based 
+on:
+1. Different observed features
+2. Different cultural contexts
+3. Different naming patterns (practical vs poetic)
+4. Different botanical understandings
+
+The English folk classification as a "lily" makes intuitive sense given the 
+six-petaled structure, even though modern taxonomy places them in different 
+families.
+
+---
+
+_**User**_
+
+asamwen "daffodil" <  asam "rest" + wen "flower"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Perfect! This follows the Greek-style naming motivation (drooping/sleepy flower) 
+rather than the Germanic lily comparison. Let me help create entries for this:
+
+```markdown
+asamwen [a.sam.wen]
+  : daffodil
+  : asam-wen "rest-flower" → asamwen
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Named for characteristic drooping posture of flower head. Forms 
+    compounds for specific varieties and seasonal references. See: 
+    [Flora Terms](#flora-terms), [Spring Terms](#spring-terms)
+```
+
+
+And here's the corresponding JSON-LD entry:
+
+```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:asamwen",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "asamwen",
+    "phoneticRep": "a.sam.wen"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:asam"
+    },
+    {
+      "@id": "eh:wen"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "asam-wen",
+    "etymon:gloss": "rest-flower",
+    "etymon:soundChange": "compound fusion",
+    "etymon:note": "Named for characteristic drooping posture of flower head"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "daffodil",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Flora Terms",
+        "Spring Terms"
+      ],
+      "usage": "Common spring flower, Narcissus species"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:sarespul",
+      "relationshipType": "temporal association",
+      "note": "early spring blooming"
+    },
+    {
+      "@id": "eh:wenthral",
+      "relationshipType": "broader term",
+      "note": "sacred/ritual flowers"
+    }
+  ]
+}
+```
+
+
+This entry:
+1. Shows standard compound formation
+2. Follows similar metaphorical pattern to Greek νάρκισσος
+3. Links to spring/seasonal terminology
+4. Suggests cultural significance through ritual flower connection
+5. Maintains botanical classification patterns
+6. Uses descriptive physical feature for naming
+
+The semantic development makes sense given Early Hick's patterns of naming 
+plants for distinctive physical characteristics (compare graswen "reed" from 
+gras "grass" + wen "flower").
+
+---
+
+_**User**_
+
+what are etymologies and roots for words that mean bile?
+
+---
+
+_**Assistant**_
+
+
+
+Let me explore bile-related etymologies across different language families:
+
+Indo-European:
+1. Greek: χολή (kholē) "bile, gall"
+   - Source of "choleric" temperament
+   - Related to yellow/green color terms
+   - Root *ghel- "yellow, green, bright"
+
+2. Latin: bīlis "bile"
+   - Uncertain etymology
+   - Possibly from *bheid- "to split"
+   - Or related to Greek χολή
+   - Source of English "bile"
+
+3. Germanic:
+   - English "gall" from Old English "gealla"
+   - German "Galle"
+   - From Proto-Germanic *gallōn
+   - Again from *ghel- root
+
+4. Sanskrit:
+   - hari- "yellow, green"
+   - From same *ghel- root
+   - Connected to bile in Ayurvedic medicine
+
+Common themes:
+1. Color association (yellow/green)
+2. Bitterness
+3. Connection to anger/temperament
+4. Association with splitting/burning
+
+But I should note: Some of these connections, especially the *ghel- root, while 
+widely accepted, might have more complexity or debate than I'm showing. The 
+Latin bīlis etymology seems particularly uncertain.
+
+The connection between bile and yellow/green coloring seems to be a common 
+naming motivation across IE languages.
+
+---
+
+_**User**_
+
+can we see words from other language families instead of just indo european, tho it seems to be a very stable root in IE...
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Let me look at bile-related terms in non-IE families:
+
+Sino-Tibetan:
+- Chinese: 胆 (dǎn) "gallbladder/bile"
+  * Also means "courage/bravery"
+  * Ancient character shows vessel/container element
+- Tibetan: མཁྲིས་པ (mkhris pa) "bile"
+  * Related to terms for "hot/sharp"
+
+Afroasiatic:
+- Arabic: مَرَار (marār) "bile"
+  * From root م-ر-ر (m-r-r) "bitter"
+  * Related to مُرّ (murr) "bitter"
+- Hebrew: מרה (marah) "bile"
+  * Same Semitic root as Arabic
+  * Bitterness connection
+
+Austronesian:
+- Malay: hempedu "bile"
+- Indonesian: empedu
+  * Possibly descriptive of taste/effect
+
+Japanese:
+- 胆汁 (tanjū) - Sino-Japanese compound
+- い (i) - native Japanese word
+  * Also means "stomach/digestion"
+
+Common cross-linguistic themes:
+1. Bitterness (especially Semitic)
+2. Connection to courage (Chinese, some others)
+3. Association with heat/sharpness
+4. Container/vessel metaphors
+
+But I should note: I'm less confident about these etymologies than the IE ones, 
+and would need to verify with more authoritative sources. The semantic 
+connections (bile-bitterness, bile-courage) are better documented than the 
+etymological origins in many cases.
+
+The bitterness connection seems as widespread as the yellow/green connection we 
+saw in IE languages.
+
+---
+
+_**User**_
+
+any in philippine languages?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Let me look at bile terms in Philippine languages:
+
+Tagalog:
+- apdo "bile/gall"
+- Also means "bitterness" metaphorically
+- Related forms in other Philippine languages
+
+Cebuano:
+- apdo "bile"
+- Similar metaphorical extensions
+
+Hiligaynon:
+- apdo "bile"
+- Shows stability of form across Visayan
+
+This suggests Proto-Philippine *apdu or similar, but I should note: I'm not 
+entirely confident about the reconstruction without checking authoritative 
+sources.
+
+The pattern seems to be:
+1. Stable form across many Philippine languages
+2. Consistent metaphorical extension to bitterness
+3. Possible connection to Proto-Austronesian but I'd need to verify
+
+But I should emphasize: My knowledge of Philippine historical linguistics is 
+limited. There might be:
+- Other terms I'm missing
+- More complex etymological history
+- Regional variations I'm unaware of
+- Different reconstructions by experts
+
+Would you happen to know more about bile terms in other Philippine languages or 
+their etymological history?
+
+---
+
+_**User**_
+
+where does tagalog mapakla come from?
+
+---
+
+_**Assistant**_
+
+
+
+Let me look at "mapakla" in Tagalog...
+
+Tagalog structure:
+- ma- adjective prefix
+- pakla root meaning "bitter/astringent"
+
+But I should note: I'm not confident about:
+1. The deeper etymology of "pakla"
+2. Whether it's borrowed or native
+3. If it exists in other Philippine languages
+4. Its historical relationship to other taste terms
+
+What I can observe:
+- Different from apdo (bile)
+- Specific kind of bitterness/astringency
+- Used for certain fruits, unripe bananas
+- More specific than "mapait" (general bitter)
+
+But I should be honest: I don't know the etymology with confidence. Would need 
+to:
+1. Check if it appears in other Philippine languages
+2. Look at historical dictionaries
+3. See if there are related forms
+4. Verify if it's borrowed from another language
+
+Would you happen to know more about its history or related forms in other 
+languages?
+
+---
+
+_**User**_
+
+ok, let's do mapait first? even if you're not confident, pleae present what you know, and arguments for them, even if sources are tenuous at best. as the purpose of this is for conlanging anyway, what I want is some inspiration
+
+---
+
+_**Assistant**_
+
+
+
+
+
+Ah, for conlanging inspiration, let's explore "mapait" and its possible 
+connections!
+
+Tagalog mapait:
+1. Structure:
+   - ma- adjective prefix
+   - pait root for "bitter"
+   - Similar pattern across Philippine languages
+
+2. Possible connections (speculative):
+   - Proto-Austronesian *paʔit "bitter"
+   - Found in many Austronesian languages:
+     * Malay/Indonesian pahit
+     * Javanese pait
+     * Cebuano pait
+     * Ilocano pait
+
+3. Semantic extensions:
+   - Literal bitter taste
+   - Emotional bitterness
+   - Difficult experiences
+   - Medicine/herbs
+   - Coffee/strong drinks
+
+4. Interesting patterns for conlanging:
+   - Distinction between types of bitterness:
+     * mapait (general bitter)
+     * mapakla (astringent bitter)
+     * mapanis (fermented/spoiled bitter)
+   - Metaphorical extensions:
+     * Taste → Emotion
+     * Taste → Experience
+     * Taste → Medicine
+   - Stable root across languages but with prefix variations
+
+5. Cultural connections:
+   - Traditional medicine
+   - Food preparation
+   - Emotional expression
+   - Warning system (bitter = potential poison)
+
+For conlanging, this suggests:
+1. Multiple words for bitter based on type/source
+2. Systematic connection between taste and emotion
+3. Medical/botanical terminology patterns
+4. Stable roots with productive affixes
+5. Cultural significance in multiple domains
+
+Even if the etymological details aren't certain, these patterns could inspire 
+interesting conlang development!
+
+---
+
+_**User**_
+
+does pait. pakla, apdo have some meaningful connections in either proto-austronesian
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+Let me try to trace these in Proto-Austronesian (PAN) and related forms, but 
+with many caveats about certainty:
+
+*paʔit (PAN reconstruction):
+1. Widely attested:
+   - Tagalog pait
+   - Malay pahit
+   - Javanese pait
+   - Many Philippine languages
+2. Stable meaning "bitter"
+3. Regular sound correspondences
+4. High confidence reconstruction
+
+*apdu/*qapeju (PAN reconstruction for "gall/bile"):
+1. Widely attested:
+   - Tagalog apdo
+   - Malay hempedu
+   - Various Philippine apdo forms
+2. Stable meaning "bile/gall"
+3. Regular sound changes
+4. Fairly confident reconstruction
+
+pakla:
+1. Less clear origin
+2. Might be more recent
+3. More restricted distribution
+4. Could be:
+   - Local innovation
+   - Borrowed term
+   - Different proto-form I'm not aware of
+
+Interesting patterns:
+1. *paʔit seems most stable/widespread
+2. *apdu/*qapeju shows regular development
+3. pakla might show how new taste terms develop
+
+For conlanging inspiration:
+1. Core taste vocabulary (*paʔit) stays stable
+2. Anatomical terms (*apdu) show regular changes
+3. New terms (pakla) can develop for specific tastes
+4. System might distinguish:
+   - General bitter (pait)
+   - Biological bitter (apdo)
+   - Specific bitter types (pakla)
+
+But I should emphasize: My understanding of PAN reconstruction is limited, and 
+some of these connections might need verification from more authoritative 
+sources.
+
+---
+
+_**User**_
+
+is qapeju atested as gall/bile in other austornesian languages? I know apdo in tagalog is the actual gallbladder
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+Let me look at reflexes of *qapeju/*apdu across Austronesian:
+
+Western Austronesian:
+1. Philippine:
+   - Tagalog: apdo (gallbladder)
+   - Cebuano: apdo (gallbladder)
+   - Hiligaynon: apdo (gallbladder)
+
+2. Western Malayo-Polynesian:
+   - Malay: hempedu (bile/gall)
+   - Indonesian: empedu (bile/gall)
+   - Javanese: amperu (bile/gall)
+
+3. Formosan:
+   - (I don't have confident data for Formosan languages)
+
+Central/Eastern:
+- (I don't have confident data for Oceanic languages)
+
+Semantic patterns:
+1. Philippine: tends toward "gallbladder" (organ)
+2. Western MP: tends toward "bile" (substance)
+3. Both maintain connection to:
+   - Bitterness
+   - Digestive function
+   - Medical/cultural significance
+
+But I should emphasize:
+1. My data is very incomplete
+2. Focused mainly on Western Austronesian
+3. Need verification for Formosan/Oceanic forms
+4. Reconstruction details might vary
+
+For conlanging inspiration though, this suggests:
+1. Possible semantic shift patterns:
+   - substance ↔ container
+   - fluid ↔ organ
+2. Stable anatomical vocabulary
+3. Cultural/medical connections
+
+Would you happen to know about reflexes in other Austronesian languages?
+
+---
+
+_**User**_
+
+are there language that use bile as a color term for yellow?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+Interesting question! Let me explore bile-color connections:
+
+Indo-European shows the reverse pattern:
+- *ghel- "yellow/green" → terms for bile
+- Greek χολή (kholē) from color root
+- But not bile → yellow
+
+Chinese shows partial connection:
+- 胆 (dǎn) "gallbladder/bile"
+- 胆绿 (dànlǜ) "bile green" - a specific color term
+- But it's a compound rather than semantic extension
+
+I'm less confident about, but potentially interesting:
+1. Some Arabic dialects might use marāra (bile) for yellowish-green
+2. Some African languages might have bile→yellow connections but I'd need to 
+verify
+3. Traditional medicine systems often connect bile and yellow:
+   - Ayurvedic pitta (bile) associated with yellow
+   - Chinese medicine links bile and green-yellow colors
+   - Greco-Roman humoral theory: yellow bile
+
+But I should note: I'm not finding clear examples of languages where the word 
+for bile directly becomes the basic color term for yellow. Instead seeing:
+1. Color → bile etymology (IE)
+2. Bile+color compounds (Chinese)
+3. Cultural/medical associations
+4. Possible but unverified extensions
+
+Would you happen to know of any languages that show this semantic development? Frequently borrowed
+3. Often has cultural/symbolic
+
+---
+
+_**User**_
+
+what are more cross linguistic roots, sources for yellow?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Let me explore sources for "yellow" terms across language families:
+
+Natural Sources:
+1. Sun/Light:
+   - Proto-Turkic *siarïg "yellow" → Turkish sarı
+   - Related to "shine/bright"
+   - Japanese ki- (黄) possibly from "shine"
+
+2. Plants/Foods:
+   - Many Chinese varieties: 黃 "yellow" from bamboo shoots
+   - Some African languages: turmeric/saffron terms → yellow
+   - Arabic أصفر (aṣfar) possibly from empty/void (like dry plants)
+
+3. Minerals:
+   - Latin aurum "gold" → Romance or- terms
+   - Some Native American languages: ochre/clay terms → yellow
+
+4. Bodily/Animal:
+   - IE *ghel- (bile/yellow connection)
+   - Some languages: egg yolk → yellow
+   - Urine connections in some languages
+
+Processes:
+1. Ripening/Aging:
+   - Some SE Asian languages connect ripeness and yellow
+   - Autumn/falling leaves in some languages
+
+2. Fading/Bleaching:
+   - Some Semitic roots connect paleness/fading
+   - Sanskrit pāṇḍu- "pale/yellow"
+
+Common patterns:
+1. Sun/brightness is frequent source
+2. Plant sources often from important local species
+3. Mineral sources often from valuable materials
+4. Body substances provide some terms
+5. Natural processes (ripening, fading) contribute
+
+But I should note: This is a mix of well-documented and more speculative 
+etymologies. Would need verification for many specific cases.
+
+For conlanging inspiration:
+1. Multiple possible source domains
+2. Often tied to culturally significant items
+3. Can show environmental influences
+4. May relate to technology (dyes, minerals)
+
+---
+
+_**User**_
+
+how about sulfur for yellow?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Ah yes! Sulfur is a fascinating source for yellow terms:
+
+Indo-European:
+1. Latin sulfur/sulphur:
+   - Uncertain etymology
+   - Possibly from PIE *swelplos
+   - Connected to "burning"
+   - Source of scientific/technical color terms
+
+2. Greek θεῖον (theion):
+   - "divine substance"
+   - Different root but same mineral
+   - Shows religious/ritual connections
+
+Color terms from sulfur:
+1. Technical/Paint:
+   - "sulfur yellow" in many languages
+   - Used in pigment/dye terminology
+   - Often very specific shade
+
+2. Natural description:
+   - Volcanic areas: sulfur springs described
+   - Hot springs terminology
+   - Mineral classification
+
+Cultural connections:
+1. Alchemical:
+   - One of primary elements
+   - Associated with Sun/gold
+   - Yellow principle
+
+2. Religious/Ritual:
+   - Purification
+   - Divine/supernatural
+   - Underworld (sulfurous fumes)
+
+For conlanging inspiration:
+1. Technical vs common terms
+2. Mineral → color development
+3. Religious/magical associations
+4. Natural phenomenon connections
+5. Could develop:
+   - Sacred/profane distinctions
+   - Technical vocabulary
+   - Geographic terminology
+   - Alchemical/magical terms
+
+But I should note: While sulfur is important in technical/scientific color 
+terms, I'm not finding many languages where it became the primary word for 
+yellow - it tends to remain a specific technical or descriptive term.
+
+---
+
+_**User**_
+
+I guess it does make sense that the primary root is something more accessible, like the sun or some plants, than a mineral in volcanic areas...
+
+it would probably be more likely that yellow is used in  a compound naming sulfur... I do have thrakel for sun to be somewhat loaded already... 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+Yes, exactly! Let's think about this from an Early Hick perspective:
+
+Current terms:
+1. thrakel "sun" (thral-kel "sacred-sky")
+   - Already has religious/cultural significance
+   - Primary light/heat source
+   - Could be source for yellow/bright terms
+
+Possible developments:
+1. Color from sun:
+```
+kathrakel [ka.θra.kel]
+  : radiant, beautiful; yellow
+  : ka-thrakel "sun-like" → kathrakel
+  : Shows development: bright → yellow → beautiful
+```
+
+2. Sulfur naming:
+```
+thrakelgar [θra.kel.gar]
+  : sulfur
+  : thrakel-gar "sun-stone" → thrakelgar
+  : Natural description of yellow mineral
+```
+
+Or perhaps:
+```
+kathrakelal [ka.θra.ke.lal]
+  : sulfur
+  : ka-thrakel-al "sun-like-rock" → kathrakelal
+  : Shows compound formation pattern with similarity prefix
+```
+
+This follows natural patterns:
+1. Common experience (sun) → basic color term
+2. Basic color → describes rarer substances
+3. Maintains cultural/religious significance
+4. Uses productive compound patterns
+
+The development sun → yellow → sulfur makes more sense than sulfur → yellow for 
+Early Hick, given:
+1. Limited volcanic activity in their region
+2. Strong solar/religious vocabulary
+3. Existing compound patternsrakel [θra.kel] "sun
+
+---
+
+_**User**_
+
+is suppose kathrakelarak  could be used following adjectival morphology for disambiguating color forms, but that means it isn't a specific color term... hmmm perhaps a variant of a word for sun thrakel from a dialect that didn't take the sound change that made θ...
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+Ah, that's an interesting idea! We could have dialectal variation leading to a 
+specialized color term. Let me explore this:
+
+Original form:
+- thrakel [θra.kel] "sun" (standard dialect)
+  * From thral-kel "sacred-sky"
+  * Shows regular θ development
+
+Dialectal variant:
+- trakel [tra.kel] "sun" (variant dialect)
+  * Preserves original [tr] cluster
+  * Maybe from coastal/river dialects?
+  * Or conservative religious dialect?
+
+This could develop:
+1. Standard dialect:
+   - thrakel = sun (primary meaning)
+   - kathrakel = sun-like, radiant
+
+2. Variant dialect:
+   - trakel = yellow (specialized as color)
+   - kathrakel = sun-like (follows main dialect)
+
+This follows natural patterns:
+1. Dialectal forms specializing in meaning
+2. Original religious term maintains sacred associations
+3. Variant becomes secular/technical term
+4. Both forms can coexist in standard language
+
+So we could have:
+````markdown
+trakel [tra.kel]
+  : yellow (color)
+  : < variant of thrakel "sun" without θ
+  : Note: Specialized color term from dialect variant. Contrasts with kathrakel 
+    "sun-like". Forms compounds for specific yellow shades. See: 
+    [Color Terms](#color-terms)
+````
+
+This gives us:
+1. Clear color term without extra morphology
+2. Interesting etymological story
+3. Maintains connection to sun/sacred
+4. Shows dialect influence
+5. Natural semantic specialization
+
+What do you think about this dialectal approach?
+
+---
+
+_**User**_
+
+hmm we do get arak from PH light 'araku, which had the PH animacy marker... perhaps if we can puzzle out what the inanimate raku was?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+Ah, interesting direction! Let's trace this back:
+
+Proto-Hick forms:
+1. *'araku "light" (animate)
+   - Shows animacy marker *'a-
+   - Becomes Early Hick arak
+   - Maintains "active/living light" sense
+
+2. *raku (inanimate)
+   - Base form without animacy
+   - Could mean:
+     * "brightness/radiance" (static quality)
+     * "yellow/golden" (color aspect)
+     * "daylight" (natural phenomenon)
+
+This could give us:
+````markdown
+rak [rak]
+  : yellow; bright color
+  : Proto-Hick *raku "brightness/radiance"
+  : Note: Contrasts with arak "light (active)". Shows inanimate/quality vs. 
+    animate/active distinction. Forms compounds for yellow shades. See: 
+    [Color Terms](#color-terms), [Light Terms](#light-terms)
+````
+
+This follows Early Hick patterns:
+1. Animacy distinction preserved in meaning
+2. Regular sound changes
+3. Semantic specialization:
+   - arak = active/living light
+   - rak = static color/quality
+
+And gives us:
+1. Clean color etymology
+2. Connection to light terminology
+3. Follows animacy patterns
+4. Natural semantic development
+5. Basis for compounds
+
+What do you think about this reconstruction of *raku and its development?
+
+---
+
+_**User**_
+
+or perhaps 'araku became light through sound changes into PH from an older parent, then the initial 'a was reanalyzed as an animate marking. so the inanimate form became yellow? i think it's more likely
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes, that's a much more elegant solution! Let's trace this development:
+
+Pre-Proto-Hick:
+- *araku "light/radiance" (single unified term)
+
+Proto-Hick reanalysis:
+1. *araku interpreted as *'a-raku
+   - Initial *a- reanalyzed as animacy marker
+   - Created artificial split:
+     * *'araku "active light" (with perceived animacy)
+     * *raku "yellow/radiance" (perceived as base form)
+
+Early Hick outcomes:
+1. arak [a.rak] "light" (< *'araku)
+   - Maintains "active light" meaning
+   - Follows regular sound changes
+   - Treated as animate
+
+2. rak [rak] "yellow" (< *raku)
+   - Develops color meaning
+   - Treated as quality/state
+   - Follows inanimate patterns
+
+````markdown
+rak [rak]
+  : yellow
+  : < artificial split from *araku "light/radiance"
+  : Note: Created through reanalysis of initial *a- as animacy marker. Shows 
+    common pattern of color terms developing from light/radiance terms. Forms 
+    compounds for yellow shades. See: [Color Terms](#color-terms)
+````
+
+This is better because:
+1. Simpler original etymology
+2. Natural reanalysis pattern
+3. Explains both forms elegantly
+4. Follows known grammaticalization paths
+5. Shows how folk etymology can create real splits
+
+The artificial split creating a color term is particularly interesting as a 
+conlanging detail!
+
+---
+
+_**User**_
+
+OR
+
+PH harala sacredness
+PH ʔaraku liɡht
+
+could have some morphology that is yet undocumented that relates the two? aside from the animacy marking
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ooh, fascinating connection! Let's explore possible morphological relationships 
+between these Proto-Hick forms:
+
+Proto-Hick:
+1. *harala "sacredness"
+   - Abstract/sacred domain
+   - h- initial (significant?)
+   - -ala ending (nominalizer?)
+
+2. *ʔaraku "light"
+   - Natural phenomenon
+   - ʔ- initial (from earlier h-?)
+   - -aku ending (different class?)
+
+Possible patterns:
+1. Endings might show noun class system:
+   - *-ala for abstract/sacred concepts
+   - *-aku for natural phenomena
+   - Could explain other pairs?
+
+2. Initial consonant alternation:
+   - *h- vs *ʔ- might be systematic
+   - Could mark sacred vs natural domain
+   - Or earlier prefix that merged?
+
+3. Medial -r- in both:
+   - Could be root indicating "power/force"
+   - *ha-ra-la vs *ʔa-ra-ku
+   - Shows possible older morpheme boundary
+
+This suggests Proto-Hick might have had:
+1. More complex morphology than previously thought
+2. Noun class system shown in endings
+3. Domain marking through initial consonants
+4. Possible tri-consonantal roots like *r-
+
+For conlanging, this opens up:
+1. More complex Proto-Hick morphology
+2. Systematic relationships between sacred/natural terms
+3. Possible reconstruction of older patterns
+4. New ways to create related vocabulary
+
+Want to explore any of these patterns further? Could be a rich source for 
+Proto-Hick reconstruction!
+
+---
+
+_**User**_
+
+presently, thral is both sacredness and day... perhaps because of polysemy, harala held the senses of day, sun and sacredness, which is what motivated the development of a more specific term for the sun haralakelu, which becomes EH thrakel
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! This makes excellent sense - let's trace this semantic development:
+
+Proto-Hick:
+1. *harala 
+   - "sacredness/day/sun" (polysemous)
+   - Primary religious/temporal term
+   - Shows connection sacred↔solar
+
+2. *harala-kelu "sacred-sky" 
+   - Compound specifying "sun"
+   - Disambiguates from general *harala
+   - More specific astronomical term
+
+Development:
+````markdown
+thral [θral]
+  : sacred; day
+  : Proto-Hick *harala "sacredness/day/sun"
+  : Note: Maintains original polysemy of sacred/day. Forms compounds for sacred 
+    concepts and time divisions. See: [Sacred Terms](#sacred-terms), 
+    [Time Terms](#time-terms)
+
+thrakel [θra.kel]
+  : sun
+  : Proto-Hick *harala-kelu "sacred-sky" → thrakel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Specialized from general sacred/day term. Shows development of 
+    specific astronomical vocabulary. See: [Sky Terms](#sky-terms)
+````
+
+This explains:
+1. Why thral maintains both meanings
+2. Why sun needed a new compound
+3. Connection between sacred/solar terminology
+4. Regular sound changes
+5. Natural semantic specialization
+
+The polysemy in *harala creating pressure for a specific sun term is a really 
+nice detail - it shows:
+1. Natural language change
+2. Religious/astronomical connections
+3. Compound formation patterns
+4. Semantic disambiguation
+5. Cultural development
+
+This is much more elegant than previous explanations!
+
+---
+
+_**User**_
+
+so perhaps ʔaraku is some animate form of harala, or at least that potential -ra- root
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! This could show an older morphological system. Let's explore:
+
+Proto-Hick might have had:
+1. Root *ra- "power/force/emanation"
+2. Domain prefixes:
+   - *ha- sacred/divine domain
+   - *ʔa- natural/physical domain
+3. Class suffixes:
+   - *-la abstract/sacred class
+   - *-ku phenomenal/active class
+
+So:
+1. *ha-ra-la 
+   - "divine-power-abstract"
+   - → "sacredness/day"
+   - Shows sacred domain
+
+2. *ʔa-ra-ku
+   - "natural-power-active"
+   - → "light"
+   - Shows physical domain
+
+````markdown
+arak [a.rak]
+  : light (active/living)
+  : Proto-Hick *ʔaraku "natural emanation" < *ʔa-ra-ku
+  : Note: Shows older morphological system with *ra- "power" root. Contrasts 
+    with thral (*ha-ra-la) in domain. See: [Light Terms](#light-terms)
+````
+
+This system suggests:
+1. More complex Proto-Hick morphology
+2. Systematic domain distinctions
+3. Regular class marking
+4. Parallel formations
+5. Cultural categorization
+
+Could we find other pairs showing this pattern? Maybe:
+- Sacred vs natural forces
+- Divine vs physical phenomena
+- Abstract vs active manifestations
+
+This older system could be a rich source for Proto-Hick vocabulary 
+development!
+
+---
+
+_**User**_
+
+I somehow don't like having those kind of suffixation for PH derivational morphology...
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You're right - I was getting carried away with a too-complex system. Let's step 
+back and look at what we know more conservatively:
+
+Proto-Hick:
+1. *harala "sacredness/day/sun"
+   - Clear meaning
+   - Becomes thral
+   - Well-attested development
+
+2. *ʔaraku "light"
+   - Clear meaning
+   - Becomes arak
+   - Well-attested development
+
+The similarity (*-ra-) might just be:
+1. Coincidental
+2. Very ancient (pre-PH) connection
+3. Simple root variation without complex morphology
+
+Better to leave it as:
+- Noted similarity
+- Possible historical connection
+- But not force a complex derivational system
+
+This follows better conlanging practice:
+1. Keep proto-lang reasonable
+2. Don't over-systematize
+3. Allow for natural messiness
+4. Keep attested forms primary
+
+Thanks for the correction - sometimes simpler is better! Want to explore other 
+aspects of these terms that don't require complex proto-morphology?
+
+---
+
+_**User**_
+
+well I'm trying to tease this out to have some source for the word for yellow...
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah right, let's get back to finding a good source for "yellow"! Looking at what 
+we have:
+
+1. *harala → thral "sacred/day"
+2. *ʔaraku → arak "light"
+
+Maybe we could have:
+- *raku as a variant/reduced form of *ʔaraku
+- Used in compounds or specific contexts
+- Specialized to "yellow" while full form kept "light"
+
+````markdown
+rak [rak]
+  : yellow
+  : Proto-Hick *raku (variant of *ʔaraku "light")
+  : Note: Specialized color term from reduced compound form. Shows common 
+    development of color from light terms. Forms compounds for yellow shades. 
+    See: [Color Terms](#color-terms)
+````
+
+This would:
+1. Use attested PH vocabulary
+2. Show natural semantic specialization
+3. Follow common color term development
+4. Not require complex morphology
+5. Explain both terms:
+   - arak = active light
+   - rak = yellow color
+
+The reduced form could have come from:
+1. Compound use
+2. Unstressed positions
+3. Different contexts
+4. Natural variation
+
+What do you think about this simpler derivation?
+
+---
+
+_**User**_
+
+well I guess we don't have to explain it at the moment.. perhaps current scholarship can keep raku as a root in PH and see if there is some protolang that can cover that some other time 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes, exactly! This is a much better approach. Let's document what we know with 
+appropriate scholarly uncertainty:
+
+````markdown
+rak [rak]
+  : yellow
+  : Proto-Hick *raku
+  : Note: Possible connection to *ʔaraku "light", but relationship unclear. 
+    Forms compounds for yellow shades. See: [Color Terms](#color-terms), 
+    [Proto-Hick Roots](#proto-hick-roots)
+````
+
+This:
+1. States what we know (*raku → rak)
+2. Notes possible connections
+3. Leaves pre-PH origins open
+4. Doesn't force complex explanations
+5. Allows for future scholarship
+
+Good historical linguistics practice:
+- Document attested forms
+- Note possible relationships
+- Acknowledge uncertainties
+- Leave room for future research
+- Don't over-explain
+
+Sometimes it's better to leave questions open than force explanations! The 
+relationship between *raku and *ʔaraku can remain an interesting topic for 
+future Proto-Hickic scholars.
+
+---
+
+_**User**_
+
+let's borrow lambe "tongue; language" from quenya (called "Eldrim" in our lexicon to mean "Elven Language" 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, nice! Let's document this borrowing from Eldrim (Quenya) into Early Hick:
+
+````markdown
+lambe [lam.be]
+  : tongue; language
+  : < Eldrim lambe "tongue, language"
+  : Note: Early borrowing from Elven contact. Shows cultural exchange in 
+    linguistic terminology. Forms compounds for types of speech/language. See: 
+    [Speech Terms](#speech-terms), [Body Terms](#body-terms)
+````
+
+
+And the JSON-LD entry:
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:lambe",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "lambe",
+    "phoneticRep": "lam.be"
+  },
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:borrowedFrom": {
+      "@id": "eldrim:lambe",
+      "gloss": "tongue, language",
+      "language": "Eldrim"
+    },
+    "etymon:note": "Early cultural contact with Elven peoples"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "tongue (body part)",
+        "@language": "en"
+      }
+    },
+    {
+      "@type": "ontolex:LexicalSense", 
+      "definition": {
+        "@value": "language, speech",
+        "@language": "en"
+      }
+    }
+  ]
+}
+````
+
+
+This borrowing:
+1. Maintains original meaning
+2. Fits Early Hick phonology
+3. Shows early Elven contact
+4. Provides base for compounds
+5. Documents cultural exchange
+
+The term would be useful for:
+1. Language names
+2. Speech terminology
+3. Body part vocabulary
+4. Cultural/linguistic compounds
+
+Want to explore some possible compounds or derivatives?
+
+---
+
+_**User**_
+
+or perhaps matakulambe for the collective elven languages, from matakutakal lambe? btw this is for the elven languages, not hick
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! Creating a compound for "Elven languages (collectively)" from Early Hick 
+terms for the Eldrim's own languages. Let's document this:
+
+````markdown
+matakulambe [ma.ta.ku.lam.be]
+  : Elven languages (collectively)
+  : matakutakal-lambe "people's.rhythm-tongue" → matakulambe
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Early Hick term for Elven languages as a group, using Eldrim 
+    borrowing lambe. Shows typical compound reduction pattern. Used in 
+    scholarly/diplomatic contexts. See: [Language Terms](#language-terms), 
+    [Eldrim Terms](#eldrim-terms)
+````
+
+This shows:
+1. Natural compound reduction:
+   - matakutakal + lambe
+   - → matakulambe
+2. Cultural significance:
+   - Uses Eldrim's own term
+   - Shows respect for Elven languages
+3. Scholarly usage:
+   - Technical/diplomatic term
+   - Collective reference
+
+The reduction pattern is particularly nice:
+1. Preserves key elements
+2. Follows regular patterns
+3. Creates manageable length
+4. Maintains recognizable parts
+
+This would be a useful term for:
+1. Diplomatic documents
+2. Scholarly works
+3. Cultural references
+4. Historical texts
+
+---
+
+_**User**_
+
+specific terms
+
+torlambe "high elven/quenya"
+wudlambe "wood elven/sindarin"
+takulambe "common elven, lingua franca based on sindarin"
+murlambe "dark elven"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect! Let's document these specific Elven language terms:
+
+````markdown
+torlambe [tor.lam.be]
+  : High Elven (Quenya)
+  : tor-lambe "high-tongue" → torlambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for High Elven language. Shows parallel formation to 
+    toreldal "High Elf". See: [Language Terms](#language-terms), 
+    [Eldrim Terms](#eldrim-terms)
+
+wudlambe [wud.lam.be]
+  : Wood Elven (Sindarin)
+  : wud-lambe "wood-tongue" → wudlambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for Wood Elven language. Parallels edel "Wood Elf". 
+    Most common Elven language in Early Hick contact. See: 
+    [Language Terms](#language-terms)
+
+takulambe [ta.ku.lam.be]
+  : Common Elven (Sindarin-based lingua franca)
+  : taku-lambe "common-tongue" → takulambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for simplified Elven trade language. Shows 
+    development of inter-cultural communication. See: 
+    [Language Terms](#language-terms)
+
+murlambe [mur.lam.be]
+  : Dark Elven (Drow)
+  : mur-lambe "dark-tongue" → murlambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for Dark Elven language. Parallels ithiril "Dark 
+    Elf". Rarely encountered in Early Hick period. See: 
+    [Language Terms](#language-terms)
+````
+
+These show:
+1. Consistent formation pattern
+2. Clear cultural distinctions
+3. Parallel terms to Elf types
+4. Historical contact patterns
+5. Sociolinguistic awareness
+
+The system nicely reflects:
+1. Social hierarchy (tor-)
+2. Geographic association (wud-)
+3. Functional use (taku-)
+4. Cultural distinction (mur-)
+
+---
+
+_**User**_
+
+jsonld entries for the above?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here are the JSON-LD entries for the Elven language terms:
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:torlambe",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "torlambe",
+    "phoneticRep": "tor.lam.be"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:tor"
+    },
+    {
+      "@id": "eh:lambe"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "tor-lambe",
+    "etymon:gloss": "high-tongue",
+    "etymon:note": "Shows parallel formation to toreldal 'High Elf'"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "High Elven (Quenya)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms",
+        "Eldrim Terms"
+      ],
+      "usage": "Formal term for High Elven language"
+    }
+  ]
+},
+{
+  "@id": "eh:wudlambe",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "wudlambe",
+    "phoneticRep": "wud.lam.be"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:wud"
+    },
+    {
+      "@id": "eh:lambe"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "wud-lambe",
+    "etymon:gloss": "wood-tongue",
+    "etymon:note": "Parallels edel 'Wood Elf', most common Elven contact language"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "Wood Elven (Sindarin)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms",
+        "Eldrim Terms"
+      ],
+      "usage": "Common term for Wood Elven language"
+    }
+  ]
+},
+{
+  "@id": "eh:takulambe",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "takulambe",
+    "phoneticRep": "ta.ku.lam.be"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:taku"
+    },
+    {
+      "@id": "eh:lambe"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "taku-lambe",
+    "etymon:gloss": "common-tongue",
+    "etymon:note": "Shows development of inter-cultural trade language"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "Common Elven (Sindarin-based lingua franca)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms",
+        "Trade Terms"
+      ],
+      "usage": "Trade and diplomatic contexts"
+    }
+  ]
+},
+{
+  "@id": "eh:murlambe",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "murlambe",
+    "phoneticRep": "mur.lam.be"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:mur"
+    },
+    {
+      "@id": "eh:lambe"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "mur-lambe",
+    "etymon:gloss": "dark-tongue",
+    "etymon:note": "Parallels ithiril 'Dark Elf', rarely encountered in Early Hick period"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "Dark Elven (Drow)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms",
+        "Eldrim Terms"
+      ],
+      "usage": "Rare term, mainly in historical or scholarly contexts",
+      "lexinfo:register": "formal"
+    }
+  ]
+}
+````
+
+Each entry shows:
+1. Clear compound structure
+2. Cultural/historical context
+3. Usage patterns
+4. Semantic fields
+5. Register where relevant
+
+The entries maintain consistency while capturing the unique aspects of each 
+language variety.
+
+---
+
+_**User**_
+
+what about matakulambe?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here's the JSON-LD entry for matakulambe:
+
+````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+{
+  "@id": "eh:matakulambe",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "matakulambe",
+    "phoneticRep": "ma.ta.ku.lam.be"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:matakutakal"
+    },
+    {
+      "@id": "eh:lambe"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "matakutakal-lambe",
+    "etymon:gloss": "people's.rhythm-tongue",
+    "etymon:soundChange": "compound reduction",
+    "etymon:note": "Uses Eldrim's own term for their languages collectively. Shows typical compound reduction pattern."
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "Elven languages (collectively)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Language Terms",
+        "Eldrim Terms",
+        "Scholarly Terms"
+      ],
+      "usage": "Formal term for all Elven languages as a group",
+      "lexinfo:register": "formal"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:torlambe",
+      "relationshipType": "includes",
+      "note": "High Elven variety"
+    },
+    {
+      "@id": "eh:wudlambe",
+      "relationshipType": "includes",
+      "note": "Wood Elven variety"
+    },
+    {
+      "@id": "eh:takulambe",
+      "relationshipType": "includes",
+      "note": "Common Elven variety"
+    },
+    {
+      "@id": "eh:murlambe",
+      "relationshipType": "includes",
+      "note": "Dark Elven variety"
+    }
+  ]
+}
+````
+
+This entry shows:
+1. Complex compound reduction
+2. Formal/scholarly register
+3. Relationships to specific varieties
+4. Cultural significance
+5. Technical usage
+
+The related terms nicely show how it functions as a collective/umbrella term for 
+the specific Elven language varieties.
+
+---
+
+_**User**_
+
+what are roots/sources for a word that means nod across different language families?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let me explore "nod" etymologies across language families:
+
+Indo-European:
+1. English "nod" < Old English "hnot-" 
+   - Related to "nut" (head as a nut?)
+   - Germanic *hnud- "to bow head"
+
+2. Latin "nuo, nutare"
+   - PIE *neu- "to nod"
+   - Shows head movement
+   - Source of "nutate" (botanical term)
+
+Non-IE sources:
+1. Chinese 点头 (diǎntóu)
+   - Literal "point-head"
+   - Descriptive compound
+   - Focus on downward motion
+
+2. Japanese うなずく (unazuku)
+   - una- "nape/neck"
+   - -zuku "move/thrust"
+   - Physical description
+
+Common patterns:
+1. Head/neck references
+2. Downward motion
+3. Often onomatopoeic
+4. Body part compounds
+5. Metaphorical extensions:
+   - Agreement
+   - Drowsiness
+   - Plant movement
+
+For conlanging inspiration:
+1. Body part + motion
+2. Sound symbolism
+3. Gestural description
+4. Metaphorical potential
+
+But I should note: My knowledge of non-IE etymologies is limited and would need 
+verification.
+
+---
+
+_**User**_
+
+how is there onomatopoiea in the nodding of a head? is there a sound associated with it? this 
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, you're right - I was being imprecise. Looking at it more carefully:
+
+1. There isn't really a sound associated with nodding
+2. The motion itself is silent
+3. Any sound would be incidental (hair/clothing movement)
+
+Better sources for "nod" terms would be:
+1. Physical description:
+   - Head/neck movement (Japanese unazuku)
+   - Directional terms (Chinese diǎntóu)
+   - Body part compounds
+
+2. Motion patterns:
+   - Down-up movement
+   - Repetitive gesture
+   - Controlled motion
+
+For Early Hick sentence 11:
+````plaintext
+karak asamwenes kabranes tel'er
+ADJ.yellow daffodil-ABS ADJ.head COMPL-VERB
+"Yellow daffodils head-like moved"
+````
+
+Or perhaps:
+````plaintext
+karak asamwenes brantel'er
+ADJ.yellow daffodil-ABS head.COMPL-VERB
+"Yellow daffodils head-completed"
+````
+
+The focus should be on:
+1. Motion description
+2. Head/neck reference
+3. Completion aspect
+4. Natural movement
+
+Thanks for catching my error about onomatopoeia!
+
+---
+
+_**User**_
+
+it wasn't a correction tho, I was asking because it might be true
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah! Let me think about possible sound associations with nodding...
+
+Potential sounds:
+1. Neck/joint sounds:
+   - Soft cracking
+   - Subtle popping
+   - Creaking motion
+   - Could inspire onomatopoeic terms
+
+2. Associated movements:
+   - Hair swishing
+   - Clothing rustling
+   - Jewelry jingling
+   - Cultural-specific sounds
+
+3. Drowsy nodding:
+   - Sharp intake of breath
+   - Soft grunt/snort
+   - Sudden movement sound
+   - Could explain some terms
+
+Looking at languages:
+1. Japanese こっくり (kokkuri)
+   - Onomatopoeic for nodding off
+   - Captures jerky motion + sound
+   - Used in こっくりする (kokkuri suru)
+
+2. Some Chinese dialects:
+   - 咯咯 (gege) type sounds
+   - Often with drowsy nodding
+   - Combined with head terms
+
+So you're right - there could be sound associations:
+1. Physical sounds
+2. Cultural additions
+3. Contextual sounds
+4. Especially with sleepy nodding
+
+This opens interesting possibilities for sound-symbolic vocabulary development! 
+Would you like to explore this direction for Early Hick terms?
+
+---
+
+_**User**_
+
+what are documented onomatopoeic word sources where sound symbolism isn't obvious, and what are the documented explanations for them?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a fascinating question! Let me share some less obvious onomatopoeic 
+origins:
+
+1. Japanese ぐるぐる (guru-guru) "spinning/rotating"
+   - Not the sound but the sensation
+   - "Heavy" g- onset suggests weight/mass
+   - Reduplication suggests repetition
+   - Called "phenomimes" in Japanese linguistics
+
+2. Korean 반짝 (banjjak) "sparkle/flash"
+   - Visual phenomenon
+   - Sharp consonants match sharp light
+   - Called "psychomimes" in some literature
+   - Similar forms in other visual terms
+
+3. Japanese むず (muzu) "irritated/itchy feeling"
+   - Internal sensation
+   - Nasal suggests internal state
+   - Called "psychomimes" or "sensory words"
+   - Part of extensive sensory vocabulary
+
+Common explanations:
+1. Sound-motion synesthesia
+2. Cross-modal associations
+3. Embodied experience
+4. Gestural origin theory
+5. Shared sensory mappings
+
+But I should note: Many of these explanations are theoretical and debated. The 
+connection between sound and meaning might be:
+- Cultural
+- Historical accident
+- Post-hoc rationalization
+- Actually more direct than we think
+
+Would you like to explore any particular type of non-obvious sound symbolism?
+
+---
+
+_**User**_
+
+can you explain gestural origin theory?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gestural Origin Theory suggests that certain words originate from the physical 
+gestures or movements made while producing them. Key aspects:
+
+1. Mouth Gestures:
+   - Lip movements mirror described actions
+   - Tongue position reflects spatial concepts
+   - Oral cavity shapes match physical shapes
+   
+2. Examples:
+   - "tiny/small" words often use /i/ (small mouth space)
+   - "round" concepts use rounded vowels
+   - "eat" words often involve mouth movements similar to eating
+
+3. Historical Development:
+   - Gesture and speech evolved together
+   - Some words preserve gesture-sound links
+   - Physical actions become sound patterns
+
+Key researchers:
+- Wallace Chafe: "sound-symbolic gestures"
+- Mary LeCron Foster: "oral-gestural basis"
+- Gordon Hewes: gesture-speech coevolution
+
+But limitations:
+1. Not all words show this pattern
+2. Cultural variations exist
+3. Many counterexamples
+4. Hard to prove historically
+5. Might be confirmation bias
+
+The theory is interesting for conlanging because it:
+1. Suggests natural sound-meaning links
+2. Provides basis for sound symbolism
+3. Connects to physical experience
+4. Offers systematic patterns
+
+Would you like to explore specific examples or applications?
+
+---
+
+_**User**_
+
+there are other similar word origin theories right?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! Here are some major word origin theories that try to explain initial 
+language development:
+
+1. Bow-wow Theory (Onomatopoeia):
+   - Words from imitation of natural sounds
+   - Example: animal sounds → animal names
+   - Limitation: doesn't explain abstract concepts
+
+2. Pooh-pooh Theory (Interjection):
+   - Words from emotional exclamations
+   - Example: pain sounds → pain words
+   - Limitation: too simple for complex language
+
+3. Ding-dong Theory (Sound Symbolism):
+   - Natural correspondence between sounds and meanings
+   - Example: "small" words use small sounds
+   - Limitation: most words are arbitrary
+
+4. Yo-he-ho Theory (Rhythmic Labor):
+   - Words from coordinated work sounds
+   - Example: rowing/lifting rhythms → words
+   - Limitation: too specific
+
+5. La-la Theory (Play/Music):
+   - Language from playful/musical sounds
+   - Example: singing → speech patterns
+   - Limitation: ignores practical needs
+
+6. Ta-ta Theory (Gestural):
+   - Words from mouth mimicking gestures
+   - Example: tongue movements → spatial terms
+   - Limitation: not all words fit pattern
+
+Modern views:
+1. Multiple origins likely
+2. Different mechanisms for different words
+3. Complex interaction of factors
+4. Cultural/social influences important
+5. No single explanation sufficient
+
+These were often dismissed as "just-so stories" but some aspects are being 
+reconsidered in modern linguistics.
+
+---
+
+_**User**_
+
+honestly, I do think that these all play some factors in the early development of language... I think kids show these tendencies...
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes, exactly! Child language acquisition provides fascinating evidence for 
+multiple word-creation strategies:
+
+1. Bow-wow (Sound Imitation):
+   - Early animal sounds ("moo", "woof")
+   - Machine noises ("vroom", "choo-choo")
+   - Natural sounds ("splash", "boom")
+
+2. Pooh-pooh (Emotional):
+   - Pain expressions ("ow", "ouch")
+   - Pleasure sounds ("yum", "mm")
+   - Surprise reactions ("oh!", "ah!")
+
+3. Ding-dong (Sound Symbolism):
+   - Small things = high sounds
+   - Big things = low sounds
+   - Shape-sound matches in play
+
+4. Yo-he-ho (Rhythmic):
+   - Movement games with sounds
+   - Rhythmic play words
+   - Action-sound pairing
+
+5. La-la (Musical/Play):
+   - Babbling patterns
+   - Singing/humming
+   - Word play/rhyming
+
+6. Ta-ta (Gestural):
+   - Mouth shapes with meaning
+   - Point-and-name
+   - Action-word combinations
+
+Child development shows:
+1. Multiple strategies used naturally
+2. Sound-meaning connections explored
+3. Physical-vocal coordination
+4. Emotional-linguistic links
+5. Play as learning tool
+
+This suggests early language might have used similar multiple pathways - not 
+just one "origin theory" but many working together!
+
+---
+
+_**User**_
+
+ba maybe? from PH *baha "bobbing of the head"? 
+
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ooh yes! This could be a nice sound-symbolic/gestural origin word. Let's 
+develop it:
+
+Proto-Hick *baha "bobbing of the head":
+1. Sound symbolism:
+   - /b/ suggests soft bouncing motion
+   - /a/ suggests open/relaxed position
+   - /h/ suggests breath/ease
+2. Gestural connection:
+   - Lips close-open like nodding
+   - Breath pattern matches motion
+   - Natural head movement while saying it
+
+Early Hick ba:
+````markdown
+ba [ba]
+  : nod; agree (by nodding)
+  : Proto-Hick *baha "bobbing of the head"
+  : Note: Shows regular loss of medial -h-. Basic gesture term that develops 
+    agreement sense. Forms compounds for various head movements and gestures. 
+    See: [Gesture Terms](#gesture-terms), [Agreement Terms](#agreement-terms)
+````
+
+Development:
+1. Physical motion → agreement
+2. Simple form suits basic concept
+3. Natural sound symbolism
+4. Easy reduplication (baba for continuous nodding?)
+5. Good for compounds
+
+Could develop:
+1. Aspect forms (completed nod vs continuous)
+2. Social meanings (formal vs casual agreement)
+3. Compound terms (different types of nods)
+4. Extended meanings (agreement, drowsiness)
+
+What do you think about possible compounds or extensions?
+
+---
+
+_**User**_
+
+I was thinking along yoheho here actually
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! The Yo-he-ho theory fits perfectly here - the rhythmic motion of 
+nodding matching the syllable:
+
+Proto-Hick *baha:
+1. Rhythmic basis:
+   - ba = down motion
+   - ha = up motion/breath
+   - Matches natural nodding rhythm
+2. Work/coordination context:
+   - Could be from group agreement gestures
+   - Synchronized movements
+   - Social coordination
+
+Early Hick ba:
+````markdown
+ba [ba]
+  : nod; agree (by nodding)
+  : Proto-Hick *baha "rhythmic head motion"
+  : Note: Shows development from coordinated group gesture. Basic agreement 
+    term that preserves rhythmic origin. Often reduplicated for continuous 
+    motion. See: [Gesture Terms](#gesture-terms), 
+    [Group Terms](#group-terms)
+````
+
+
+This explains:
+1. Simple syllable structure
+2. Natural connection to motion
+3. Social/group context
+4. Easy reduplication
+5. Development into agreement
+
+The rhythmic origin suggests:
+1. Group activities
+2. Ritual contexts
+3. Social coordination
+4. Shared understanding
+
+Really nice application of the Yo-he-ho theory to gesture terms!
+
+---
+
+_**User**_
+
+similarly, maybe
+
+new "shaking of the head" < PH *newe "head swaying"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! Another excellent rhythmic-gestural term:
+
+Proto-Hick *newe "head swaying":
+1. Rhythmic basis:
+   - ne = side motion
+   - we = return motion
+   - Captures left-right swaying
+2. Motion matching:
+   - /n/ suggests negative/resistance
+   - /w/ suggests smooth motion
+   - Syllables match head movement timing
+
+Early Hick new:
+````markdown
+new [new]
+  : shake head (in negation); disagree
+  : Proto-Hick *newe "head swaying"
+  : Note: Shows regular final -e loss. Basic negation gesture that preserves 
+    rhythmic swaying motion. Often with aspect marking for intensity. See: 
+    [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+
+Development pattern:
+1. Physical motion → disagreement
+2. Syllable timing matches gesture
+3. Natural sound-motion link
+4. Group coordination origin
+5. Social signal standardization
+
+Could show:
+1. Different intensities of disagreement
+2. Formal vs informal contexts
+3. Strong vs weak negation
+4. Cultural variations
+
+The ba/new pair makes a nice gestural-origin opposition in Early Hick's basic 
+agreement system!
+
+---
+
+_**User**_
+
+I wonder though... would a language that just dropped tinal vowels have a final w?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, excellent phonological catch! You're right - if Early Hick regularly drops 
+final vowels, a final /w/ would be unusual/marked. Let's revise:
+
+Proto-Hick possibilities:
+1. *newu "head swaying"
+   - Would give EH **new
+   - But problematic final /w/
+
+2. *newa "head swaying"
+   - Would give EH **new
+   - Same problem
+
+Better solution:
+````markdown
+ne [ne]
+  : shake head (in negation); disagree
+  : Proto-Hick *newa "head swaying"
+  - Or *newu?
+  : Note: Shows regular loss of final syllable. Basic negation gesture that 
+    preserves rhythmic origin. Often reduplicated for continuous motion. See: 
+    [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+
+This:
+1. Follows phonological rules
+2. Maintains rhythmic origin
+3. Still works with gesture
+4. Allows reduplication (nene)
+5. More typical EH form
+
+Thanks for catching that phonological inconsistency! Would you prefer *newa or 
+*newu for the Proto-Hick form?
+
+---
+
+_**User**_
+
+I suppose final w would act like a final u, and are affected by the tendency to centralize final vowels after shift to initial stress?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! Looking at the sound changes in the LSC file:
+
+````language:site/content/languages/hick/proto-hick/early-hick.lsc
+final-vowel-centralization:
+  [+high +back] => [-high +mid -back +central] / _ $
+  [+mid +front] => [-low -front +central] / _ $
+````
+
+So for Proto-Hick *newu:
+1. Initial stress shift happens
+2. Final high back vowel /u/ centralizes
+3. Could merge with final /w/ since both are [+back]
+4. Results in final schwa that then deletes
+
+This gives us:
+````markdown
+ne [ne]
+  : shake head (in negation); disagree
+  : Proto-Hick *newu "head swaying"
+  : Note: Shows regular centralization and loss of final -wu. Basic negation 
+    gesture preserving rhythmic origin. Often reduplicated for continuous 
+    motion. See: [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+The development would be:
+1. PH *newu
+2. Stress shift *ˈnewu
+3. Final centralization *ˈnewə
+4. Final deletion *ne
+
+This follows the regular sound changes better! The final /w/ + /u/ sequence 
+gets caught up in the centralization and deletion patterns.
+
+---
+
+_**User**_
+
+hmm we started at newe tho
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes, let's go back to Proto-Hick *newe:
+
+Looking at sound changes:
+1. Initial stress shift
+2. Final mid front /e/ would centralize to schwa
+3. /w/ + schwa sequence in unstressed syllable
+
+From LSC file:
+````language:site/content/languages/hick/proto-hick/early-hick.lsc
+final-vowel-centralization:
+  [+mid +front] => [-low -front +central] / _ $
+````
+
+So development would be:
+1. PH *newe
+2. Stress shift *ˈnewe
+3. Final centralization *ˈnewə
+4. Final deletion *ne
+
+Giving us:
+````markdown
+ne [ne]
+  : shake head (in negation); disagree
+  : Proto-Hick *newe "head swaying"
+  : Note: Shows regular centralization and loss of final -we. Basic negation 
+    gesture preserving rhythmic origin. Often reduplicated for continuous 
+    motion. See: [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+This follows the regular sound changes and maintains our original Proto-Hick 
+form! The /we/ sequence naturally reduces through centralization and deletion.
+
+---
+
+_**User**_
+
+I suppose once schwa is deleted, it would basically be [neu] first right? but since eu isn't an attested diphthong, it reduces to ne?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! Let's trace this more carefully:
+
+Proto-Hick *newe development:
+1. *newe [ne.we]
+2. Stress shift *ˈnewe [ˈne.we]
+3. Final centralization *ˈnewə [ˈne.wə]
+4. Schwa deletion *new [neu]
+5. Non-attested diphthong reduction *ne [ne]
+
+This fits with Early Hick phonotactics from the LSC file:
+````language:site/content/languages/hick/proto-hick/early-hick.lsc
+Class diphthong {ai, ei}
+````
+
+Only /ai/ and /ei/ are attested diphthongs, so [eu] would be reduced.
+
+Let's document this:
+````markdown
+ne [ne]
+  : shake head (in negation); disagree
+  : Proto-Hick *newe "head swaying"
+  : Note: Shows development *newe > *newə > *[neu] > ne, with reduction of 
+    unattested [eu] diphthong. Basic negation gesture preserving rhythmic 
+    origin. Often reduplicated for continuous motion. See: 
+    [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+
+This gives us:
+1. Clear sound change path
+2. Phonotactic motivation
+3. Regular development
+4. Better documentation
+
+Thanks for catching this intermediate step!
+
+---
+
+_**User**_
+
+is this a common repair tacktic? eu > e?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interesting question! Let me explore diphthong repairs cross-linguistically:
+
+Common patterns for [eu] repair:
+1. Monophthongization:
+   - [eu] > [ø] (French development)
+   - [eu] > [o] (some Romance)
+   - [eu] > [e] (less common)
+
+2. Element deletion:
+   - [eu] > [e] (delete second element)
+   - [eu] > [u] (delete first element)
+   - Choice often depends on stress/prominence
+
+3. Element modification:
+   - [eu] > [iu] (raise first element)
+   - [eu] > [eo] (lower second element)
+   - [eu] > [eː] (compensatory lengthening)
+
+Looking at this:
+- [eu] > [e] isn't the most common repair
+- More common to:
+  * Merge to mid-high rounded vowel
+  * Keep second element
+  * Modify one element
+
+Perhaps we should reconsider:
+1. Different repair strategy?
+2. Different intermediate steps?
+3. Other phonotactic constraints?
+
+What do you think would be more naturalistic for Early Hick?
+
+---
+
+_**User**_
+
+neu > nə ?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! That's much more naturalistic! Let's trace the development:
+
+Proto-Hick *newe development:
+1. *newe [ne.we]
+2. Stress shift *ˈnewe [ˈne.we]
+3. Final centralization *ˈnewə [ˈne.wə]
+4. Schwa deletion creates *[neu]
+5. Unstressed [eu] reduces to [ə]
+6. Final [ə] deletes
+
+This gives us:
+````markdown
+nə [nə]
+  : shake head (in negation); disagree
+  : Proto-Hick *newe "head swaying"
+  : Note: Shows development *newe > *newə > *[neu] > nə, with reduction of 
+    unattested [eu] diphthong to schwa. Basic negation gesture preserving 
+    rhythmic origin. Often reduplicated for continuous motion. See: 
+    [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+
+This is better because:
+1. More natural repair strategy
+2. Follows stress patterns
+3. Matches reduction tendencies
+4. Preserves some trace of original sequence
+5. Common cross-linguistic pattern
+
+The [eu] > [ə] reduction makes more sense as:
+- Unstressed position
+- Complex sequence simplification
+- Centralization tendency
+- Natural weakening
+
+Much better solution - thanks!
+
+---
+
+_**User**_
+
+I dunno about unstressed.. it is a single syllable after all...
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, you're right again! Since it's monosyllabic after the final vowel drops, 
+it would carry stress by default. Let's think this through:
+
+Proto-Hick *newe development:
+1. *newe [ne.we]
+2. Stress shift *ˈnewe [ˈne.we]
+3. Final centralization *ˈnewə [ˈne.wə]
+4. Schwa deletion creates *[neu]
+5. [eu] reduces to [ə] (not due to stress, but phonotactics)
+
+So the [eu] > [ə] reduction happens because:
+1. [eu] isn't an allowed diphthong
+2. Regardless of stress position
+3. Simple phonotactic repair
+4. Not a stress-based reduction
+
+This gives us:
+````markdown
+nə [nə]
+  : shake head (in negation); disagree
+  : Proto-Hick *newe "head swaying"
+  : Note: Shows development *newe > *newə > *[neu] > nə, with reduction of 
+    unattested [eu] sequence to schwa. Basic negation gesture preserving 
+    rhythmic origin. Often reduplicated (nənə) for continuous motion. See: 
+    [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+
+Thanks for the correction - it's important to be precise about the motivation 
+for sound changes!
+
+---
+
+_**User**_
+
+linguistically, why would certain diphthongs become "not allowed"?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diphthongs can become "disallowed" through several natural processes:
+
+1. Sonority/Height Distance:
+   - Some languages prefer certain sonority differences
+   - [ai], [au]: maximal height difference (stable)
+   - [ei], [ou]: medium difference (less stable)
+   - [eu]: smaller difference (may be disfavored)
+
+2. Articulatory Path:
+   - Some transitions easier than others
+   - Front-to-back ([eu]) more complex than:
+     * High-to-low ([ai])
+     * Front-to-front ([ei])
+     * Back-to-back ([ou])
+
+3. Historical Development:
+   - Sound changes affect diphthong inventory
+   - Some merge while others remain
+   - Creates gaps in possible combinations
+   - System becomes asymmetric
+
+4. System Pressure:
+   - Languages tend toward symmetry
+   - If [iu] exists but not [ui]
+   - System might reject similar asymmetric pairs
+   - [eu] without [ue] might be unstable
+
+5. Frequency Effects:
+   - Less common combinations may be reanalyzed
+   - Rare diphthongs might merge with common ones
+   - Pattern becomes rule
+
+Would you like to explore which of these might apply to Early Hick's diphthong 
+constraints?
+
+---
+
+_**User**_
+
+so it could just be an early tendency to reduce eu to ə at all because of sonority or prosody?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes! That's a much more elegant explanation - an early systematic tendency 
+rather than a later repair rule. Let's revise:
+
+Proto-Hick tendency:
+1. [eu] sequence naturally reduces to [ə]
+   - Less optimal sonority profile
+   - Complex articulatory path
+   - Prosodically unstable
+
+So development of *newe would be:
+1. *newe [ne.we]
+2. Stress shift *ˈnewe [ˈne.we]
+3. Final centralization *ˈnewə [ˈne.wə]
+4. Schwa deletion creates [eu]
+5. [eu] immediately reduces to [ə] (systematic tendency)
+
+````markdown
+nə [nə]
+  : shake head (in negation); disagree
+  : Proto-Hick *newe "head swaying"
+  : Note: Shows regular [eu] > [ə] reduction (common Proto-Hick tendency) and 
+    final vowel loss. Basic negation gesture preserving rhythmic origin. Often 
+    reduplicated (nənə) for continuous motion. See: 
+    [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
+````
+
+
+
+This is better because:
+1. More systematic explanation
+2. Earlier sound tendency
+3. Natural phonological motivation
+4. Less "repair rule" feeling
+5. More organic development
+
+Thanks - this helps clarify the phonological history!
+
+---
+
+_**User**_
+
+based on our sound changes, where would it most likely arise? right at early hick or maybe before?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's check the sound changes in the LSC file:
+
+````language:site/content/languages/hick/proto-hick/early-hick.lsc
+# Stage 1: Proto-Maritime Hick
+...
+compound-vowel-deletion:
+  @consonant @vowel => @consonant * / _ $$
+  Then: $$ => *
+  Then: s {[fricative], [glide]} => s * / _
+  Then: θ [stop] => θ * / _
+
+# Stage 2: Proto-Seneran Hick
+...
+unstressed-vowel-reduction:
+  [+high +front] => i / [unstressed] _  # /i/ stays /i/
+  [+high +back] => u / [unstressed] _   # /u/ stays /u/
+  [+low] => ə / [unstressed] _ // $ @initialcluster _ <syl> $
+
+final-vowel-centralization:
+  [+high +back] => [-high +mid -back +central] / _ $
+  [+mid +front] => [-low -front +central] / _ $
+````
+
+Looking at these stages:
+1. Proto-Maritime Hick:
+   - Has compound vowel deletion
+   - Deals with compound boundaries
+
+2. Proto-Seneran Hick:
+   - Has vowel reduction rules
+   - Has final vowel centralization
+   - Would be a natural place for [eu] > [ə]
+
+The [eu] > [ə] tendency would fit best in Proto-Seneran Hick because:
+1. Already has vowel reduction processes
+2. Shows centralization patterns
+3. Deals with vowel quality changes
+4. Sets up later developments
+
+This would place it before Early Hick but after Proto-Maritime Hick. Does this 
+timing make sense to you?
+
+---
+
+_**User**_
+
+ok, I'll put it in stage 3 changes then
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes, that makes sense! Let's add it to Stage 3 (Pre-Hick) in the LSC file:
+
+````language:site/content/languages/hick/proto-hick/early-hick.lsc
+# Stage 3: Pre-Hick
+...
+stage-3:
+  * => * # Placeholder for ease of reference
+
+nucleus-repair cleanup:
+  @initialcluster * => @initialcluster ə / $ _ <syl> @consonant
+
+eu-reduction:
+  e u => ə / _  # [eu] sequence reduces to schwa
+  
+initial-glottal-fricative-deletion:
+  [unvoiced glottal fricative] => * / $ _ @vowel&![+high]
+...
+````
+
+This placement:
+1. After earlier vowel changes
+2. Before final simplifications
+3. With other nucleus repairs
+4. Part of Pre-Hick restructuring
+
+The rule shows:
+1. Simple reduction process
+2. Systematic change
+3. Natural phonological development
+4. Clear timing in sequence
+
+Does this look like a good addition to the Stage 3 changes?
+
+---
+
+_**User**_
+
+what do we call the step that turns w to u word finally?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah, we need to name the process that vocalizes /w/ to [u] in word-final 
+position. Common linguistic terms for this would be:
+
+1. Glide Vocalization:
+   - Most precise technical term
+   - /w/ [+glide] → [u] [+vowel]
+   - Common cross-linguistic process
+
+2. Semivowel Vocalization:
+   - Alternative technical term
+   - Same process, different terminology
+
+Let's add it to the LSC file:
+
+````language:site/content/languages/hick/proto-hick/early-hick.lsc
+# Stage 3: Pre-Hick
+...
+stage-3:
+  * => * # Placeholder for ease of reference
+
+glide-vocalization:
+  w => u / _ $  # Final /w/ vocalizes to [u]
+
+eu-reduction:
+  e u => ə / _  # [eu] sequence reduces to schwa
+...
+````
+
+
+This ordering shows:
+1. First /w/ becomes [u]
+2. Then [eu] reduces to [ə]
+3. Natural feeding order
+4. Clear development path
+
+Does this addition and ordering look right to you?
+
+---
+
+_**User**_
+
+applied these
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes, I see it's already there! And with better names too:
+
+1. `final-glide-vocalization`:
+   - Clear it's word-final position
+   - Marked as cleanup rule
+   - Good descriptive name
+
+2. `diphthong-repair`:
+   - Broader than just [eu]
+   - Allows for other repairs
+   - Also marked as cleanup
+
+And the ordering is correct:
+1. First vocalize final glides
+2. Then repair resulting diphthongs
+3. Natural feeding relationship
+
+This explains our *newe development:
+1. *newe > *newə (final centralization)
+2. *newə > *new (schwa deletion)
+3. *new > *neu (final glide vocalization)
+4. *neu > nə (diphthong repair)
+
+Thanks for showing me where these rules already existed!
+
+---
+
+_**User**_
+
+do we have a word for happiness already?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let me check through our Early Hick lexicon... I don't immediately recall a 
+word for "happiness" or "joy". We could develop one from:
+
+1. Existing roots:
+   - ba "nod" → positive feelings?
+   - thral "sacred/day" → blessed state?
+   - arak "light" → bright emotions?
+
+2. Sound symbolic creation:
+   - Light/quick sounds for joy
+   - Reduplicated forms for ongoing state
+   - Rhythmic patterns
+
+3. Gestural/emotional origin:
+   - Like ba/ne for gestures
+   - From natural expressions
+   - Physical manifestations
+
+Some possibilities:
+````markdown
+lala [la.la]
+  : joy, happiness
+  : Reduplicative form suggesting ongoing positive state
+  : Note: Shows la-la pattern common in emotive terms
+
+baba [ba.ba]
+  : happiness (from repeated nodding)
+  : Reduplication of ba "nod"
+  : Note: Shows development from positive gesture to emotion
+````
+
+
+Or perhaps something from Proto-Hick that shows regular development? Would you 
+like to explore any of these directions?
+
+---
+
+_**User**_
+
+I suppose the closest is imeritar? raised spirits?
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes! We have imeritar "raised spirits". Let's look at its components and 
+semantic range:
+
+1. Structure:
+   - i- (up/raised)
+   - mer- (spirit/emotion)
+   - -itar (causative/state)
+   
+2. Current meaning:
+   - "raised spirits"
+   - Elevated emotional state
+   - Could extend to happiness
+
+So perhaps:
+1. imeritar = general elevated mood/spirits
+2. Need specific term for happiness/joy?
+3. Or let imeritar cover both meanings?
+
+Could develop:
+````markdown
+imeritar [i.me.ri.tar]
+  : raised spirits; happiness, joy
+  : < i-mer-itar "up-spirit-CAUS"
+  : Note: General term for positive emotional states. Develops from "raised 
+    spirits" to include happiness. Forms compounds for specific types of joy. 
+    See: [Emotion Terms](#emotion-terms)
+````
+
+
+Would you prefer:
+1. Broaden imeritar to include happiness
+2. Create new specific term for happiness
+3. Have both with different nuances?
+
+---
+
+_**User**_
+
+'u'u "cry" < PH *'uhu-'uhu "cry" onomatopoeic origin
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perfect! A reduplicated onomatopoeic form. Let's document it:
+
+````markdown
+'u'u ['u.'u]
+  : cry (of joy or sorrow)
+  : Proto-Hick *'uhu-'uhu "cry" (onomatopoeic)
+  : Note: Shows regular loss of medial -h-. Preserves glottal stops from PH. 
+    Reduplicated form suggesting continuous action. Can indicate both joyful 
+    and sorrowful crying. See: [Emotion Terms](#emotion-terms), 
+    [Sound Terms](#sound-terms)
+````
+
+
+Development:
+1. PH *'uhu-'uhu (reduplicated cry sound)
+2. Loss of medial -h-
+3. Preserves glottal stops
+4. Maintains reduplication
+
+This is great because it:
+1. Shows natural sound symbolism
+2. Follows regular sound changes
+3. Preserves emotional expressiveness
+4. Works for both positive/negative
+5. Fits "pooh-pooh" theory of word origins
+
+Could develop compounds/derivatives:
+- Intensified forms?
+- Specific emotional contexts?
+- Related sound terms?
+
+What do you think about its semantic range between joy/sorrow?
+
+---
+
+_**User**_
+
+hmm maybe not of joy necessarily
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ah yes, let's narrow that semantic range - crying is more typically associated 
+with sorrow/pain:
+
+````markdown
+'u'u ['u.'u]
+  : cry, weep (in sorrow/pain)
+  : Proto-Hick *'uhu-'uhu "cry" (onomatopoeic)
+  : Note: Shows regular loss of medial -h-. Preserves glottal stops from PH. 
+    Reduplicated form suggesting continuous sobbing/crying. Often intensified 
+    through additional reduplication. See: [Emotion Terms](#emotion-terms), 
+    [Sound Terms](#sound-terms)
+````
+
+
+
+This fits better because:
+1. More specific emotional context
+2. Clearer sound symbolism:
+   - [u] suggests deeper/darker sound
+   - Glottal stops like catch in throat
+   - Reduplication like sobbing
+3. Natural semantic development
+4. Common cross-linguistic pattern
+
+Could have related forms:
+- 'u'u'u for intense crying
+- Compounds for specific types of sorrow
+- Derivatives for
+
+---
+
+_**User**_
+
+also let's add it into @lexicon.jsonld 
+
+---
+
+_**Assistant**_
+
+Yes, let's add the entry for 'u'u to the lexicon. Based on the format of other entries:
+
+````json
+{
+  "@id": "eh:'u'u",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "'u'u",
+    "phoneticRep": "ʔu.ʔu"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:protoform": "Proto-Hick *'uhu-'uhu",
+    "etymon:soundChange": "medial h-loss",
+    "etymon:note": "Onomatopoeic origin from crying/sobbing sound"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "cry, weep (in sorrow/pain)",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Sound Terms",
+        "Emotion Terms",
+        "Body Terms"
+      ],
+      "usage": "Often reduplicated for continuous crying"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "'u'u'er",
+      "phoneticRep": "ʔu.ʔu.ʔer",
+      "decomposition": "'u'u + -'er (verbalizer)",
+      "grammaticalMeaning": "to cry, to weep"
+    }
+  ]
+}
+````
+
+This follows the pattern of other entries with:
+1. Basic identification and form
+2. Etymology showing Proto-Hick origin
+3. Clear semantic field markings
+4. Derived verbal form
+5. Usage notes about reduplication
+
+The entry fits between other emotion/sound terms in the lexicon and follows the 
+established format for Early Hick entries.
+
+---
+
+_**User**_
+
+bresubel "shout" < PH *bresu + PH *belu "mouth"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's add this compound term to the lexicon:
+
+````json
+{
+  "@id": "eh:bresubel",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "bresubel",
+    "phoneticRep": "bre.su.bel"
+  },
+  "lexicalCategory": "lexinfo:Verb",
+  "decomp:subterm": [
+    {
+      "@id": "eh:bresu"
+    },
+    {
+      "@id": "eh:bel"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "bresu-bel",
+    "etymon:gloss": "shout-mouth",
+    "etymon:protoform": "Proto-Hick *bresu-belu",
+    "etymon:soundChange": [
+      "compound fusion",
+      "final vowel loss"
+    ],
+    "etymon:note": "Shows typical compound formation with body part term"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "shout, yell",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Sound Terms",
+        "Body Terms",
+        "Communication Terms"
+      ],
+      "usage": "Basic term for loud vocal expression"
+    }
+  ],
+  "derivedForms": [
+    {
+      "@type": "ontolex:Form",
+      "writtenRep": "bresubel'er",
+      "phoneticRep": "bre.su.bel.ʔer",
+      "decomposition": "bresubel + -'er (verbalizer)",
+      "grammaticalMeaning": "to shout, to yell"
+    }
+  ],
+  "related": [
+    {
+      "@id": "eh:'u'u",
+      "relationshipType": "contrasts with",
+      "note": "loud vs. soft vocal expression"
+    }
+  ]
+}
+````
+
+This entry:
+1. Shows compound formation
+2. Links to body part terminology
+3. Contrasts with 'u'u
+4. Follows sound change patterns
+5. Includes verbal derivation
+
+Does this look like a good representation of the term?
+
+---
+
+_**User**_
+
+@lexicon.md entry too please
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's add bresubel to the lexicon markdown file. It should go in the Speech 
+Terms section, after 'u'u:
+
+````markdown
+bresubel [bre.su.bel]
+  : shout, yell
+  : Proto-Hick *bresu-belu "shout-mouth" → bresubel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows typical compound formation with body part term. Forms verb 
+    bresubel'er "to shout". Contrasts with 'u'u for softer vocalizations. See: 
+    [Sound Terms](#sound-terms), [Body Terms](#body-terms)
+````
+
+This entry:
+1. Shows compound formation
+2. Links to body part terminology
+3. Contrasts with 'u'u
+4. Includes verbal derivation
+5. Cross-references relevant sections
+
+The placement after 'u'u makes sense as they're both vocal/sound terms, with 
+bresubel being the louder counterpart to 'u'u's softer crying sound.
+
+---
+
+
+
+---
+

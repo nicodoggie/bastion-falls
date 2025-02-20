@@ -6,8 +6,9 @@ weight = 0
 _Proto-Hick_ is a hypothetical reconstructed language that represents the
 ancestral language of the Hickic languages.
 
-The current state of its reconstruction is highly speculative, as all evidence
-are from only one line of descent: Early Hick. There are plans to document more
+The current state of its reconstruction is highly speculative, as most concrete
+evidence derive from Early Hick, with some attempts to reconcile lexical items
+from Northern Apgarian Languages and dialects. There are plans to document more
 Seneran dialects to increase the robustness of the reconstruction. There may be
 some evidence that Sanerian languages and dialects may be related to Hickic, but
 more research is needed to confirm this.
@@ -142,7 +143,8 @@ other consonant).
    - \*ahu > au
    - \*grau > gra
 
-4. Compound-Specific Changes 
+4. Compound-Specific Changes
+
    1. Liquid Deletion:
 
    - r → ∅ / \_C in compounds
@@ -150,6 +152,7 @@ other consonant).
    - val-mal → vamal
 
    2. Nasal Deletion:
+
    - N → ∅ / \_C in compounds
    - bram-mal → bramal
    - bran-kel → brakel
@@ -711,4 +714,4 @@ Compound numbers developed in Early Hick:
 
 # Proto-Hick Ablative
 
-lu- 
+lu-

@@ -21,51 +21,246 @@ unearthed, along with a lexicon was found in an unsealed room underneath the
 [Surrey-on-the-Brams](@/locations/surrey-on-the-brams.md). Details in this is a
 modern analysis of that sketch using modern linguistic methods.
 
+Those who spoke Hick, did not call it such, as the term _Hick_ was exonymic, and
+was given by the Kalassarians. The people of Senera called their language
+_takutakal_, which translates to "the people's rhythm". Despite the potential
+connection of the term to music however, the language does not exhibit tonality,
+like languages of peoples beyond Sarebia.
+
 Early Hick shows an ergative-absolutive alignment with rich derivational
 morphology and a sophisticated spatial reference system. Core grammatical
-relations are marked through suffixes, while derivational processes primarily
-use prefixes.
+relations are marked through prefixes and suffixes, and these interact with its
+derivational morphology to form complex compounds.
 
-A reconstruction of a hypothetical Proto-Hick is also provided, inferenced from
-regional dialects and the historical development of Hick.
+A reconstruction of a hypothetical
+[Proto-Hick](@/languages/hick/proto-hick/_index.md) exists, in an incomplete
+state.
 
 # Historical Development
 
-## Pre-Hick Period (before ~600 PF)
+Comparative analysis with other pre-Kalassarian languages in the Western Beteran
+region had wielded a linguistic theory that a number of Northern Apgarian
+languages, Apgarian Isles languages, and the languages of the Seneran Islands
+are related. The proposed Hickic language family purports that the similarity of
+word forms in these languages are more than just an instance of sprachbund
+phenomena, but rather that they are interrelated by common ancestry.
 
-While the exact developments remain unclear, comparison of Early Hick forms with
-remnant vocabulary suggests several possible sound changes:
+## Proto-Hick Period
 
-1. Final vowels begin devoicing in unstressed syllables
+(See: [Proto-Hick](@/languages/hick/proto-hick/_index.md))
 
-   - \*thralu > [ˈθra.lu̥]
-   - \*wardu > [ˈwar.du̥]
-   - \*taku > [ˈta.ku̥]
+It is still highly contested where the Hickic language family diverges from the
+rest of the pre-Kalassarian languages of the region. The Proto-Hick period is
+thus far only tentatively reconstructed. This document, however documents the
+view that the Proto-Hick language was spoken somewhere in the Mayonnaise valleys
+of the northern portion of Central Apgar.
 
-2. Devoiced vowels reduce to schwa
-   - [ˈθra.lu̥] > [ˈθra.lə]
-   - [ˈwar.du̥] > [ˈwar.də]
-   - [ˈta.ku̥] > [ˈta.kə]
+## Proto-Maritime Hick Period
 
-## Early Hick (~600 PF onward)
+As the prehistoric Hickic people expanded westward, their relative distance from
+the Apgarian mainland began to affect their language. These island-bound
+cultures still maintained a close linguistic relationship with each other, but
+had started to diverge from those mainland languages. Languages that are said to
+derive from Proto-Maritime Hick are the extinct Raibonian, Sentimental, and
+Palman.
 
-1. Final schwa deletion
-   - [ˈθra.lə] > [ˈθral]
-   - [ˈwar.də] > [ˈward]
-   - [ˈta.kə] > [ˈtak]
+Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
-- Purely oral tradition
-- Core maritime and nature vocabulary established
-- Complex compound system develops
-- Sacred/ritual terminology crystallizes
+1. Deletion of a liquid in proximity to a glottal fricative:
+
+   ```plaintext
+   h [liquid] => h \*/ \_
+   - [liquid] h => \* h /\_
+   ```
+
+2. Reduction of a liquid cluster ending with the alveolar lateral:
+
+   ```plaintext
+   [liquid] l => l \* / \_
+   ```
+
+3. Change in compound formation phonotactics:
+
+   1. Deletion of an initial vowel in the second element of a compound:
+
+      ```plaintext
+      @consonant @vowel => @consonant \* / \_ $$
+      Then: $$ => \*
+      Then: s {[fricative], [glide]} => s \* / \_
+      Then: θ [stop] => θ \* / \_
+      ```
+
+   2. Deletion of the final nasal in the first element of a compound:
+
+      ```plaintext
+      [nasal] @consonant => @consonant \* / \_ $$
+      Then: $$ => \*
+      ```
+
+4. Reanalysis of initial ha to match changes with sacred terminology:
+
+   ```plaintext
+   ha => θə / $ _ {[stop !glottal], [fricative], [liquid], [glide]}  
+      Else: (
+         haʔ => θ / $ _@vowel \<syl\> \<syl\>
+         Then:
+            l => r / $ θ @vowel \_
+      )
+   ha => θ / $_ \<syl\> \<syl\> Then: l => r / $ θ @vowel \_
+   ```
+
+5. Devoicing of voiced glottal stops in unstressed syllables:
+
+   ```plaintext
+   [voiced glottal] => [unvoiced glottal] / $ \_ @vowel 
+   Then: [unvoiced glottal] => ʔ / $ \_ i # voiced glottals don't trigger animacy deletion
+   Then: [unvoiced glottal] => ʔ / $ \_ a # voiced glottals don't trigger sacred θ
+   ```
+
+6. Stress Shift to initial syllable:
+
+   ```plaintext
+   [primary] => [unstressed] / \_ 
+   Then: [unstressed] => [primary] / $ \_
+   ```
+
+## Proto-Seneran Hick Period
+
+As some of the Maritime Hickic peoples have settled in Senera, the language
+further changed as they were not as accessible. The languages differentiated
+over time, and those Hickic languages spoken within the island remained more
+close. The various dialects of Hick spoken in the Seneran Islands are believed
+to derive from Proto-Seneran Hick.
+
+Sound changes from Proto-Maritime Hick to Proto-Seneran Hick are:
+
+1. Unstressed Vowel Reduction:
+
+   ```plaintext
+   [+high +front] => i / [unstressed] \_
+   [+high +back] => u / [unstressed] \_
+   [+low] => ə / [unstressed] \_
+   ```
+
+2. Fronting of vowels in stressed initial syllables after fricative onsets
+
+   ```plaintext
+   {ə, e} => i / $ [fricative] \_
+   ```
+
+3. Final Vowel Lowering
+
+   ```plaintext
+   [+high +back] => [-high +mid -back +central] / \_ $
+   [+mid +front] => [-low -front +central] / \_ $
+   ```
+
+## Pre-Hick Period (before ~1000 PF)
+
+Research validated some of the Kalassarian language sketches of a number of
+primary Early Hick dialects, and this reconstruction relates these dialects with
+a number of sound changes to the primary dialect spoken in Central and Eastern
+Senera::
+
+1. Initial glottal fricative deletion:
+
+   ```plaintext
+   [unvoiced glottal fricative] => \* / $ \_ @vowel&![+high]
+   ```
+
+2. Initial glottal stop deletion:
+
+   ```plaintext
+   [unvoiced glottal stop] => \* / $ \_ @vowel
+   ```
+
+3. Initial hi reduces to glottal stop, common in animacy-marked compounds:
+
+   ```plaintext
+   hi => ʔ / $ \_ {[+high], @consonant&![glottal stop]} 
+   Else: hi => ʔ / $ \_ [glottal stop] 
+   Else: hi => ʔ / $ \_ @vowel
+   ```
+
+4. Metathesis of dental fricatives:
+
+   ```plaintext
+   θ @vowel => θ \* / $ \_ r @vowel // \_ <syl> $
+   ```
+
+5. Vowel coalescence:
+
+   ```plaintext
+   @vowel {h} => @vowel \* / $ \_ @vowel $
+   @vowel @vowel => @vowel \* / $ \_ @consonant
+   {w} @vowel => \* @vowel / [nasal] \_ @consonant $
+   {w} ə => \* ə / \_ @consonant $
+   ```
+
+6. Metathesis of complex clusters:
+
+   ```plaintext
+   @vowel$1 @consonant$2 => $2 $1 / $ \_ @finalcluster
+   ```
+
+7. First syllable syncope:
+
+   ```plaintext
+   {p,b,k,t,s,θ} @vowel => {p,b,k,t,s,θ} \* / $ \_ {k,t,n,r} <syl> // \_
+     @consonant <syl> @consonant
+   ```
+
+8. Back vowel reduction after velar stop:
+
+   ```plaintext
+   [+back] => \* / $ [velar stop] \_ [nasal]
+   ```
+
+## Early Hick (~1000 PF onward)
+
+- Astronomical terminology development
+- Sacred site naming conventions formalize
+- Initial written forms appear (borrowed script)
+- Borrowed terms from lambe
+
+1. Glottal Devoicing:
+
+   ```plaintext
+   [voiced glottal] => [unvoiced glottal] / $ \_ @vowel 
+   Then: [unvoiced glottal] => ʔ / $ \_ i # voiced glottals don't trigger 
+      animacy deletion
+   Then: [unvoiced glottal] => ʔ / $ \_ a # voiced glottals don't trigger sacred
+      θ
+   ```
+
+2. Cluster Resolution from schwa nucleus deletion:
+
+   ```plaintext
+   {b,t,θ,k}$1 a r => $1 r a / \_ {s,t,k}
+   ə => \* / r _@consonant <syl> // {b,t,k} r_ @consonant <syl>
+   ə => \* / @consonant \_ @consonant r
+   ```
+
+3. Final Vowel Transposition:
+
+   ```plaintext
+   {p,b,k,t,θ}$1 {r,n,t,k}$2 ə => $1 ə $2 / _ $
+   Then: ə => a / _ [fricative] $
+   Then: ə => e / [stop] \_ @consonant
+   ```
+
+4. Final Vowel Reduction:
+
+   ```plaintext
+   h ə => \* ə / _$ // $_ $
+   ə => \* / _$ // $_ $
+   ```
 
 ## Middle Hick (300 PF to 105 AI)
 
 - More consistent contact with pre-Kalassarian traders
 - Maritime trade vocabulary expansion
-- Astronomical terminology development
-- Sacred site naming conventions formalize
-- Initial written forms appear (borrowed script)
+
 
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 
@@ -501,59 +696,69 @@ For detailed discussion of conjunction types and usage, see:
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
      - tomal [to.mal] "great pool, - lake" (tor-mal → tomal, liquid deletion)
-3. Speed Augmentative (tor- -sim)
+3. mentative (tor- -sim)
    - Circumfix combining the argumentative tor- with the translative -sim to
      mean a swift change in speed of the action
 
 ### Number Marking
 
-Early Hick has four strategies for marking number:
+Early Hick has five strategies for marking number:
 
 1. Plural Prefix ma-
+
    - Indicates general plurality
    - ma-mater "boats"
 
-2. Partitive Prefix ran- (< *haranu "divide")
+2. Universal Prefix masin- (< Proto-Hick *masinu "complete")
+
+   - Indicates totality/universality ("all", "every")
+   - masin-mater "all boats"
+   - masin-'al "everyone" (all people)
+   - masin-ter "everything" (all things)
+
+3. Partitive Prefix ran- (< *haranu "divide")
+
    - Indicates "some of" or "part of"
    - ran-mater "some boats"
    - Can develop limiter meaning in context
 
-3. Numerical Marking with ran-
+4. Numerical Marking with ran-
+
    - Links numbers to nouns
    - thal-ran-mater "three boats"
    - pil-ran-natlas "five friends"
 
-4. Ordinal Marking with -ter
+5. Ordinal Marking with -ter
+
    - Forms ordinals from cardinal numbers:
      - sin → sinter "first"
      - tir → tirter "second"
      - thal → thalter "third"
 
-   Can be used in two ways:
-   a. As adjectival/adverbial modifier with ka- prefix:
+   Can be used in two ways: a. As adjectival/adverbial modifier with ka- prefix:
 
-      ```plaintext
-      kasinter 'ir'er
-      first mover
-      "first one to move"
-      ```
+   ```plaintext
+   kasinter 'ir'er
+   first mover
+   "first one to move"
+   ```
 
    b. As a prefix in number marking position:
 
-      ```plaintext
-      thaltermateres matir'er
-      third-ship sail-VERB
-      "third ship to sail"
-      ```
+   ```plaintext
+   thaltermateres matir'er
+   third-ship sail-VERB
+   "third ship to sail"
+   ```
 
-5. Fractional Marking with ran-
-   The partitive prefix ran- can also mark fractions when used with numbers:
+6. Fractional Marking with ran- The partitive prefix ran- can also mark
+   fractions when used with numbers:
 
    ```plaintext
    tirranrakter
    two-PART-league
    "half-league" (league divided in two)
-   
+
    sinranvinuram
    three-PART-yard
    "third of a yard" (yard divided in three)
@@ -573,14 +778,16 @@ Early Hick has four strategies for marking number:
    ```
 
    The interpretation depends on:
+
    - Whether the noun can be meaningfully divided
    - The pragmatic context (counting vs measuring)
    - The register (technical vs general usage)
 
-   This ambiguity becomes particularly relevant in measurement and trade contexts,
-   where both counting and dividing are common.
+   This ambiguity becomes particularly relevant in measurement and trade
+   contexts, where both counting and dividing are common.
 
-4. Exclusivity Marking telran-
+7. Exclusivity Marking telran-
+
    The partitive prefix ran- can combine with tel- to form telran-, marking
    exclusivity:
 
@@ -669,18 +876,16 @@ Multiple ka- adjectives follow this order:
 
 The original and common spoken pattern is direct stacking:
 
-ka-'il ka-keth ka-wud ka-mal mater-es
-ADJ-good ADJ-sea ADJ-wood ADJ-round boat-ABS
-"good sea-worthy wooden round boat"
+ka-'il ka-keth ka-wud ka-mal mater-es ADJ-good ADJ-sea ADJ-wood ADJ-round
+boat-ABS "good sea-worthy wooden round boat"
 
 #### Literary Style
 
 After the introduction of Elven writing (c. 800 PF), a formal coordinated style
 developed based on the "o...ru" nominal coordination pattern:
 
-'il o keth o wud o mal ka-es mater-es
-good PART sea PART wood PART round ADJ-ABS boat-ABS
-"good and sea-worthy and wooden and round boat"
+'il o keth o wud o mal ka-es mater-es good PART sea PART wood PART round ADJ-ABS
+boat-ABS "good and sea-worthy and wooden and round boat"
 
 This literary innovation appears primarily in written texts and formal speech.
 
@@ -719,12 +924,13 @@ This literary innovation appears primarily in written texts and formal speech.
 The possessive suffix -ul marks ownership and possession relationships:
 
 1. Structure
+
    - Suffix -ul attaches to possessor noun
    - Possessed noun follows directly
    - No additional marking on possessed noun
 
    ```plaintext
-   materok-ul rismater 
+   materok-ul rismater
    handler-POSS boat
    "the handler's boat"
    ```
@@ -804,7 +1010,7 @@ modal constructions, see: [Syntactic Mood](#syntactic-mood)
 
 #### Volitional Marker -'arm
 
-The volitional suffix -arm (< Proto-Hick *harmu "willing") marks intention or
+The volitional suffix -arm (< Proto-Hick \*harmu "willing") marks intention or
 willingness. Like other modal suffixes, it replaces the verbalizer -'er:
 
 ```plaintext
@@ -827,11 +1033,12 @@ Common forms:
 
 Note: The volitional often appears in ritual contexts and formal pledges,
 suggesting its historical connection to expressions of sacred duty or
-obligation. See also: [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+obligation. See also:
+[Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
 
 #### Desiderative Marker -nat
 
-The desiderative suffix -nat (< Proto-Hick *gnar-ter "correct-flow") marks
+The desiderative suffix -nat (< Proto-Hick \*gnar-ter "correct-flow") marks
 desire or intention. It replaces the verbalizer -'er and preserves the
 transitivity of the base verb:
 
@@ -957,6 +1164,7 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 Early Hick forms color terms through two strategies:
 
 1. Basic Adjectival Form
+
    - Uses ka- prefix with color source noun
    - Examples:
      - kakel "sky-like, blue" < ka-kel "sky-like"
@@ -1022,7 +1230,7 @@ person.PROX.ERG who.ABS color.VERB sky.ERG blue.ABS
     - kur-tin → kurtin "bronze" (copper-tin)
     - bram-mater → brammater "river vessel" (tide-vessel)
     - thral-kel → thrakel "sun" (sacred-sky)
-  
+
 #### Action Nominal Compounds
 
 Action nominal compounds require the verbalizer -'er as part of the compound
@@ -1033,7 +1241,7 @@ BASE-VERB'er (e.g., mater-tag'er, pel-thren'er)
 Unlike regular compounds, action nominals preserve morphological boundaries and
 resist normal compound phonology:
 
-- mater-tag'er → [ma.ter.tag.ʔer] (not *[ma.te.tag.ʔer])
+- mater-tag'er → [ma.ter.tag.ʔer] (not \*[ma.te.tag.ʔer])
 - pel-thren'er → [pel.θren.ʔer]
 
 This preservation of boundaries:
@@ -1051,12 +1259,14 @@ Compare:
 ##### Restrictions
 
 1. Base Requirements:
+
    - First element must be a concrete noun (*mater-tag'er "boat-making" but
      not*thral-tag'er "sacred-making")
    - Second element must be an action-capable root (tag'er "make", thren'er
-     "watch", but not *sul'er "liver-VERB")
+     "watch", but not \*sul'er "liver-VERB")
 
 2. Semantic Restrictions:
+
    - Must describe culturally recognized activities
    - Cannot form from abstract or metaphorical relationships
    - Maritime and craft terms particularly productive
@@ -1064,8 +1274,8 @@ Compare:
 
 3. Structural Limits:
    - Maximum of one nominal base + one verbal element
-   - Cannot stack multiple actions (*mater-tag-thren'er)
-   - Cannot incorporate case markers (*materel-tag'er)
+   - Cannot stack multiple actions (\*mater-tag-thren'er)
+   - Cannot incorporate case markers (\*materel-tag'er)
 
 Note: For professional or habitual agents, Early Hick uses the agentive suffix
 -ok instead:
@@ -1080,10 +1290,11 @@ performer of the action.
 Note: For professional or habitual agents, Early Hick uses the agentive suffix
 -ok with regular compound formation:
 
-- 'iruvinudok "house cleaner" < 'irur-vinud-ok "hollow-dwelling-AGENT"
-  (with liquid deletion)
+- 'iruvinudok "house cleaner" < 'irur-vinud-ok "hollow-dwelling-AGENT" (with
+  liquid deletion)
 - matagok "boat maker" < mater-tag-ok "boat-make-AGENT" (with liquid deletion)
-- pethrenok "bear watcher" < pel-thren-ok "bear-watch-AGENT" (with liquid deletion)
+- pethrenok "bear watcher" < pel-thren-ok "bear-watch-AGENT" (with liquid
+  deletion)
 
 Action nominals focus on the activity itself and preserve morphological
 boundaries, while agentive forms follow regular compound phonology and indicate
@@ -1107,6 +1318,7 @@ the performer of the action.
 ### Basic Template
 
 1. Root Structure
+
    - (PREFIX*) + ROOT + (SUFFIX*)
    - Maximum of three prefixes and two suffixes
 
@@ -1125,12 +1337,15 @@ Examples:
 ### Prefix Classes
 
 1. Outer Prefixes (first position)
+
    - mo- (NEG): negation
 
 2. Second Position
+
    - ka- (ADJ): adjectivizer
 
 3. Third Position
+
    - ma- (PL): plural
 
 4. Inner Prefixes (closest to root)
@@ -1140,12 +1355,14 @@ Examples:
 ### Suffix Classes
 
 1. Inner Suffixes (closer to root)
+
    - -'er (VERB): verbalizer (See: [Verbal Morphology](#verbal-morphology))
    - -arm (VOL): volitional (See: [Morphological Mood](#morphological-mood))
    - -nat (DES): desiderative (See: [Morphological Mood](#morphological-mood))
    - -ok (AGENT): agentive (See: [Agentive Marking](#agentive-marking))
 
 2. Outer Suffixes (final position)
+
    - -el (ERG): ergative case
    - -es (ABS): absolutive case
    - -imris (ELL): ellative case ("from")
@@ -1160,6 +1377,7 @@ Examples:
 ### Restrictions
 
 1. Co-occurrence
+
    - Only one prefix from each position class
    - Maximum of one case suffix
    - Agent suffix must precede case suffix
@@ -1197,6 +1415,7 @@ main ways:
    ```
 
 3. As Adverbs (modifying verbs)
+
    - Come after the verb they modify
    - Often take the similarity prefix ka-
 
@@ -1343,7 +1562,7 @@ person.MED.ABS person.PROX.ERG [ADJ.give.TRANS flow.VERB water.ERG] teach.VERB
 
 Uses relative clause structure to frame commands as reported speech:
 
-   ```plaintext
+```plaintext
 branum 'al'isel ['alises paket'er imerespes!] galtalimrises
 PAST person.PROX.ERG [who.ABS say.VERB sleep.IMP.ABS!] man.MED.ELL.ABS
 "I who said 'sleep!' to him"
@@ -1361,9 +1580,8 @@ Key features:
 Early Hick marks reflexive relationships primarily through case marking and
 demonstrative agreement:
 
-1. Basic Reflexives
-With transitive verbs, the agent takes ergative case and the reflexive object
-takes illative:
+1. Basic Reflexives With transitive verbs, the agent takes ergative case and the
+   reflexive object takes illative:
 
    ```plaintext
    galtalel tallas hilis'er
@@ -1375,8 +1593,8 @@ takes illative:
    "They spoke among themselves"
    ```
 
-2. Indirect Objects
-For ditransitive verbs, reflexive recipients take illative case:
+2. Indirect Objects For ditransitive verbs, reflexive recipients take illative
+   case:
 
    ```plaintext
    'al'isel 'islas taglas'er 'iruretiles
@@ -1395,9 +1613,8 @@ Key features:
 - Number agreement maintained in plural forms
 - Regular ergative-absolutive alignment for non-reflexive arguments
 
-4. Method/Means Expression
-   Uses the object control construction with ka- prefix and translative -sim to
-   express how an action is performed:
+4. Method/Means Expression Uses the object control construction with ka- prefix
+   and translative -sim to express how an action is performed:
 
    ```plaintext
    'al'isel paketes katenwasim tenwa'er
@@ -1420,10 +1637,10 @@ equivalence marking and relative degree constructions.
 #### Similarity and Equivalence
 
 Early Hick marks similarity through two related constructions derived from
-Proto-Hick *kasu "reflection":
+Proto-Hick \*kasu "reflection":
 
-1. Simple Comparisons
-   Uses the ka- prefix for straightforward comparisons with single nouns:
+1. Simple Comparisons Uses the ka- prefix for straightforward comparisons with
+   single nouns:
 
    ```plaintext
    kamales ward'er
@@ -1431,8 +1648,7 @@ Proto-Hick *kasu "reflection":
    "(It) contains like a pool"
    ```
 
-2. Complex Comparisons
-   Uses kas conjunction for phrases with modifiers:
+2. Complex Comparisons Uses kas conjunction for phrases with modifiers:
 
    ```plaintext
    kas [kameris kethbranes] tagimris'er
@@ -1485,7 +1701,8 @@ man-ABS birth-VERB person-SUBE
 
 ##### Equality
 
-Uses the comparative particle kas (see: [Comparative Markers](#development-of-comparative-markers)):
+Uses the comparative particle kas (see:
+[Comparative Markers](#development-of-comparative-markers)):
 
 ```plaintext
 kas males tores tor'er
@@ -1499,15 +1716,18 @@ LIKE pool-ABS mountain-ABS height-VERB
 The comparative construction shows several important properties:
 
 1. Case Alignment
+
    - Comparable takes absolutive case (-es)
    - Comparator takes spatial case (-itar/-asam)
    - Maintains ergative-absolutive alignment pattern
 
 2. Word Order
+
    - Basic order: COMPARABLE-ABS QUALITY-VERB COMPARATOR-SUPE/SUBE
    - Follows standard clause structure flexibility
 
 3. Multiple Comparators
+
    - Can be coordinated with ru:
 
    ```plaintext
@@ -1528,6 +1748,7 @@ The comparative construction shows several important properties:
    nouns, following Early Hick's general coordination pattern.
 
 4. Negation
+
    - Negates the stative verb with mo-:
 
    ```plaintext
@@ -1537,6 +1758,7 @@ The comparative construction shows several important properties:
    ```
 
 5. Temporal Reference
+
    - Takes standard temporal markers:
 
    ```plaintext
@@ -1578,7 +1800,7 @@ past   handler-ERG guide-VERB
 "The handler guided (in the past)"
 ```
 
-   ```plaintext
+```plaintext
 mulsum materok-el  ward-'er
 future handler-ERG guide-VERB
 "The handler will guide"
@@ -1587,7 +1809,7 @@ future handler-ERG guide-VERB
 In contexts where aesthetic or poetic effect is desired, the marker can be found
 right before the verbal phrase.
 
-   ```plaintext
+```plaintext
 'ales      mulsum barak'er
 person-ABS future walk-VERB
 "The person will walk"
@@ -1601,13 +1823,13 @@ than the main clause, temporal markers may occur after the relativizer. See:
 
 For example:
 
-   ```plaintext
+```plaintext
 'altanel         ['alises branum thren'er] ward'er
 man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 "That man who watches guides"
 ```
 
-   ```plaintext
+```plaintext
 mulsum   'altanel         ['alises branum thren'er] ward'er
 FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 "That man who watches guides"
@@ -1618,7 +1840,7 @@ FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 When clauses are linked by coordinators, each clause may carry its own temporal
 marking to indicate different time frames:
 
-   ```plaintext
+```plaintext
 [clause + temporal marker] coordinator [clause + temporal marker]
 ```
 
@@ -1666,7 +1888,7 @@ PAST   person-ABS walk-VERB flow.DIST
 
 The completive aspect marker `tel` indicates finished actions.
 
-   ```plaintext
+```plaintext
 'ales      barak'er  tel
 person-ABS walk-VERB COMPL
 "The person has walked"
@@ -1685,7 +1907,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 1. Formal/Ritual: -'irur
 
-     ```plaintext
+   ```plaintext
    'ales barak'irur
    person-ABS walk-ITER
    "The person walks repeatedly" (formal/ritual context)
@@ -1693,7 +1915,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 2. Common: -rur
 
-     ```plaintext
+   ```plaintext
    'ales barakrur
    person-ABS walk.ITER
    "The person walks repeatedly" (everyday usage)
@@ -1701,7 +1923,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 3. Colloquial: -ur
 
-     ```plaintext
+   ```plaintext
    'ales barakur
    person-ABS walk.ITER
    "The person walks repeatedly" (casual speech)
@@ -1718,6 +1940,37 @@ Note: The formal register preserves the etymological form with glottal stop,
 while common and colloquial registers show progressive reduction typical of
 grammaticalized elements.
 
+### Repetitive Aspect
+
+The repetitive aspect in Early Hick is formed by combining the iterative suffix
+with the completive marker tel, indicating a single instance of a repeated or
+cyclical action:
+
+```plaintext
+'ales barakrur tel
+person-ABS walk.ITER COMPL
+"The person walked again" (lit. "completed one cycle of repeated walking")
+
+branum 'ilistales barakrur tel
+PAST school-ABS walk.ITER COMPL
+"School began again" (lit. "completed one cycle of repeated starting")
+```
+
+This construction differs from the simple iterative, which marks continuous
+repetition:
+
+```plaintext
+'ales barakrur
+person-ABS walk.ITER
+"The person walks repeatedly"
+```
+
+The repetitive aspect is particularly useful for marking:
+
+- Return to previous states or activities
+- Cyclic events that complete one iteration
+- Repeated actions viewed as single completed instances
+
 ## Mood {#syntactic-mood}
 
 Early Hick expresses some modal meanings through syntactic constructions. For
@@ -1726,8 +1979,8 @@ morphological mood marking, see: [Verbal Mood](#morphological-mood)
 ### Imperative Construction
 
 Early Hick forms imperatives by dropping the verbalizer -'er and adding
-absolutive -es to the verb stem. The construction shows distinct word order
-and case marking from declarative sentences:
+absolutive -es to the verb stem. The construction shows distinct word order and
+case marking from declarative sentences:
 
 ```plaintext
 # Declarative
@@ -1801,15 +2054,15 @@ Early Hick marks exclamations through single-word utterances:
    ```
 
 These exclamatives typically express alarm, sudden realization, or strong
-emotion, contrasting with regular declarative sentences which use full
-argument structure.
+emotion, contrasting with regular declarative sentences which use full argument
+structure.
 
 ## Conjunctions
 
 ### Additive Coordination
 
 Early Hick marks coordinated elements with the particle o and joins them with
-the coordinator ru (< Proto-Hick *storu "grow"):
+the coordinator ru (< Proto-Hick \*storu "grow"):
 
 ```plaintext
 kor o toren o ru-el
@@ -1843,7 +2096,7 @@ compare with:
 ### Disjunctive Coordination
 
 Early Hick marks alternatives with the particle o and joins them with the
-coordinator 'a (< Proto-Hick *ʔaha "other"):
+coordinator 'a (< Proto-Hick \*ʔaha "other"):
 
 ```plaintext
 kor o toren o 'a-el
@@ -1879,22 +2132,22 @@ coordinator ru, maintaining the language's systematic approach to coordination.
 
 ### Shared Action Coordination
 
-Early Hick can mark joint participation using ewes with the enumeration
-particle o:
+Early Hick can mark joint participation using ewes with the enumeration particle
+o:
 
-   ```plaintext
+```plaintext
 'al'is o Mari o ewes-es ward'er
 [person.DEM.PROX.ANIM.VIS PART Mari PART] WITH-ABS travel.VERB
 "I and Mari together travel"
 ```
 
-The coordinator ewes takes case marking and treats the coordinated elements as
-a single unit. This construction emphasizes equal participation in the action,
+The coordinator ewes takes case marking and treats the coordinated elements as a
+single unit. This construction emphasizes equal participation in the action,
 contrasting with the comitative construction where one participant is marked as
 primary. See: [Comitative Construction](#comitative-construction).
 
-Note: ewes (< Proto-Hick _ʔelu-lawes "consume with") shows parallel
-development with the ergative marker -el, both deriving from Proto-Hick_ʔelu.
+Note: ewes (< Proto-Hick _ʔelu-lawes "consume with") shows parallel development
+with the ergative marker -el, both deriving from Proto-Hick_ʔelu.
 
 ### Temporal Coordination
 
@@ -1923,11 +2176,9 @@ Position affects emphasis:
 imris [im.ris] "because" < Proto-Hick \*imeru-ris "towards breath/spirit"
 
 - Functions as a subordinator marking causal relationships
-- Grammaticalized from Proto-Hick compound of *imeru "breath/spirit" +*ris
-  (LAT)
+- Grammaticalized from Proto-Hick compound of *imeru "breath/spirit" +*ris (LAT)
 - Maintains ergative-absolutive alignment in both clauses
-- Can appear clause-initially or between clauses
-Examples:
+- Can appear clause-initially or between clauses Examples:
 
 ```plaintext
 imris torthil, 'al'ises barak'er
@@ -2206,22 +2457,24 @@ This explains:
 
 ## Development of the Ergative Case Marking -el
 
-The Early Hick ergative marker -el derives from Proto-Hick *ʔelu through
+The Early Hick ergative marker -el derives from Proto-Hick \*ʔelu through
 grammaticalization of an instrumental/ablative marker:
 
 1. Sound Changes:
+
    - *ʔelu >*lu (loss of initial glottal in unstressed position)
-   - *lu > -el (vowel change in unstressed position)
+   - \*lu > -el (vowel change in unstressed position)
 
 2. Functional Development:
+
    - Original meaning: instrumental/ablative "by means of/from"
    - Intermediate stage: marks agents as instruments of action
    - Final stage: general ergative marker
 
 3. Parallel Developments:
-   - Preserved in compound forms like *bahu lu-haranu > bran "branch"
+   - Preserved in compound forms like \*bahu lu-haranu > bran "branch"
      (literally "split from father")
-   - Comitative meaning preserved in ewes < *ʔelu-lawes "together with"
+   - Comitative meaning preserved in ewes < \*ʔelu-lawes "together with"
 
 ## Development of the Imperative Construction
 
@@ -2299,20 +2552,20 @@ person.ERG guide.DES
 ```
 
 This pattern of preserving older relative clause constructions in formal
-registers while using grammaticalized forms in colloquial speech appears to be
-a regular feature of Early Hick's historical development. The use of 'alis- as
-a relativizer in these formal constructions follows the standard relative
-clause pattern.
+registers while using grammaticalized forms in colloquial speech appears to be a
+regular feature of Early Hick's historical development. The use of 'alis- as a
+relativizer in these formal constructions follows the standard relative clause
+pattern.
 
 ### Development of Comparative Markers
 
-Proto-Hick *kasu "reflection (on water/mirror surface)" developed into two
-distinct but related markers in Early Hick, with one further developing into
-the general adjective marker.
+Proto-Hick \*kasu "reflection (on water/mirror surface)" developed into two
+distinct but related markers in Early Hick, with one further developing into the
+general adjective marker.
 
 #### kas (Comparative Conjunction)
 
-- Direct development from *kasu
+- Direct development from \*kasu
 - Retains original sense of "mirror/reflection"
 - Grammaticalized as comparative conjunction "like/as"
 - Used with complex noun phrases: kas [NP] VERB
@@ -2328,6 +2581,7 @@ the general adjective marker.
 #### ka- Development Path
 
 1. Early Stage: Comparative Prefix
+
    - Developed from kas through fusion
    - Used in simple noun comparisons
    - No scope beyond single noun
@@ -2340,6 +2594,7 @@ the general adjective marker.
      ```
 
 2. Middle Stage: Similarity Marker
+
    - Semantic broadening from "like X" to "X-like"
    - Used to mark general similarity
    - Examples:
@@ -2351,33 +2606,36 @@ the general adjective marker.
      ```
 
 3. Late Stage: Adjective Marker
+
    - Further grammaticalization into general adjective prefix
    - Marks derived adjectives from nouns
    - Most common use in modern Early Hick
    - Original comparative meaning still visible in some constructions
    - Examples:
 
-      ```plaintext
-      kameris ales
-      ADJ.love person.ABS
-      "beloved person"
-      ```
+     ```plaintext
+     kameris ales
+     ADJ.love person.ABS
+     "beloved person"
+     ```
 
 ### Development of the possession marker -ul
 
 The Early Hick possessive suffix -ul shows a complex development path from
-Proto-Hick *ʔulu:
+Proto-Hick \*ʔulu:
 
 1. Original Proto-Hick (~800 PF):
-   - *ʔulu had three related meanings:
+
+   - \*ʔulu had three related meanings:
      - "thumb" (concrete body part)
      - "grasp" (physical action)
      - "possession" (abstract relation)
 
 2. Late Proto-Hick (~400 PF):
+
    - Semantic split occurs:
      - Bare form ulu: "thumb, possession"
-     - Locative form ulisu: "grasp" (from *ʔulu-isu)
+     - Locative form ulisu: "grasp" (from \*ʔulu-isu)
    - Shows common pattern of using locative case to specify action meanings
 
 3. Early Hick (~100 PF):
@@ -2394,4 +2652,4 @@ This development explains:
 - The parallel development of possession marking in compounds
 
 The pattern parallels other Early Hick grammaticalizations where body parts
-develop into grammatical markers (compare -el ergative < *ʔelu "by means of").
+develop into grammatical markers (compare -el ergative < \*ʔelu "by means of").

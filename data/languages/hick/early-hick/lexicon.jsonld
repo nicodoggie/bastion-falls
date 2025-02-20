@@ -11255,7 +11255,7 @@
           ]
         }
       ]
-    }.
+    },
     {
       "@id": "eh:krakesi",
       "@type": "ontolex:LexicalEntry",
@@ -11745,6 +11745,819 @@
             "Building Terms"
           ],
           "usage": "Institutional term for book repository"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ilisal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisal",
+        "phoneticRep": "ʔi.li.sal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'ilis"
+        },
+        {
+          "@id": "eh:'al"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-'al",
+        "etymon:gloss": "knowledge-person",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic development from 'knowledge-person' to active experiential learning"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "visit (a place)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Action Terms",
+            "Motion Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "experience personally",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Action Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "confirm via experiment",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilisal'er",
+          "phoneticRep": "ʔi.li.sal.ʔer",
+          "decomposition": "'ilisal + -'er (verbalizer)",
+          "grammaticalMeaning": "to visit, to experience firsthand"
+        }
+      ]
+    },
+    {
+      "@id": "eh:aiesp",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "aiesp",
+        "phoneticRep": "ai.esp"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ai"
+        },
+        {
+          "@id": "eh:esp"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ai-esp",
+        "etymon:gloss": "water-under",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Shows lexicalization of subessive case into basic verb stem"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bathe",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Terms",
+            "Motion Terms",
+            "Body Terms"
+          ],
+          "usage": "Basic term for immersion in water"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "aiesp'er",
+          "phoneticRep": "ai.esp.ʔer",
+          "decomposition": "aiesp + -'er (verbalizer)",
+          "grammaticalMeaning": "to bathe, to immerse in water"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:ailas",
+          "relationshipType": "contrasts with",
+          "note": "enter water (illative case)"
+        },
+        {
+          "@id": "eh:aiimris",
+          "relationshipType": "contrasts with",
+          "note": "exit water (ellative case)"
+        }
+      ]
+    },
+    {
+      "@id": "eh:parduwes",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "parduwes",
+        "phoneticRep": "par.du.wes"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:grapar"
+        },
+        {
+          "@id": "eh:duwes"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "grapar-duwes",
+        "etymon:gloss": "worm-consume",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows compound reduction of grapar-duwes to parduwes"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cavern, cave network",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Mythological Terms"
+          ],
+          "usage": "Originally 'worm-eaten,' extended to mean cave networks"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:'irurbel",
+          "relationshipType": "contrasts with",
+          "note": "single cave/entrance vs. network"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "parduwes'er",
+          "phoneticRep": "par.du.wes.ʔer",
+          "decomposition": "parduwes + -'er (verbalizer)",
+          "grammaticalMeaning": "to form cave networks, to hollow out (of mountains)"
+        }
+      ],
+      "note": "Reflects folk belief about cave formation through the action of great worms eating through mountains"
+    },
+    {
+      "@id": "eh:vinusak",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinusak",
+        "phoneticRep": "vi.nu.sak"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:vinud"
+        },
+        {
+          "@id": "eh:sak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "vinud-sak",
+        "etymon:gloss": "home-wolf",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows recognition of dogs as domesticated wolves through compound formation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dog",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Domestic Animals"
+          ],
+          "usage": "Basic term for domesticated canines"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "domesticated wolf",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Domestic Animals"
+          ],
+          "usage": "Technical/historical sense reflecting origin"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:sak",
+          "relationshipType": "contrasts with",
+          "note": "wild vs. domesticated canine"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "vinusak'er",
+          "phoneticRep": "vi.nu.sak.ʔer",
+          "decomposition": "vinusak + -'er (verbalizer)",
+          "grammaticalMeaning": "to hunt with dogs"
+        }
+      ]
+    },
+    {
+      "@id": "eh:meltek",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "meltek",
+        "phoneticRep": "mel.tek"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *melu-takutaku",
+        "etymon:gloss": "sweet-rhythm",
+        "etymon:soundChange": [
+          "compound reduction",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows preservation of first syllable of second element in compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "song",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Music Terms",
+            "Performance Terms"
+          ],
+          "usage": "Basic term for melodic vocal performance"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "melodic rhythm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Music Terms",
+            "Sound Terms"
+          ],
+          "usage": "Technical term for musical patterns"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "meltek'er",
+          "phoneticRep": "mel.tek.ʔer",
+          "decomposition": "meltek + -'er (verbalizer)",
+          "grammaticalMeaning": "to sing"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:takal",
+          "relationshipType": "contrasts with",
+          "note": "speech rhythm vs. melodic rhythm"
+        }
+      ]
+    },
+    {
+      "@id": "eh:rek",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "rek",
+        "phoneticRep": "rek"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *reku",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Shows onomatopoeic origin from sound of canine bark"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bark (of dog/wolf)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Animal Terms"
+          ],
+          "usage": "Basic term for canine vocalization"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "rek'er",
+          "phoneticRep": "rek.ʔer",
+          "decomposition": "rek + -'er (verbalizer)",
+          "grammaticalMeaning": "to bark"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "rekrek",
+          "phoneticRep": "rek.rek",
+          "decomposition": "rek + rek (reduplication)",
+          "grammaticalMeaning": "repeated barking"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:vinusak",
+          "relationshipType": "domain",
+          "note": "typical producer of sound"
+        },
+        {
+          "@id": "eh:sak",
+          "relationshipType": "domain",
+          "note": "typical producer of sound"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'ilistal",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilistal",
+        "phoneticRep": "ʔi.lis.tal"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:'ilis"
+        },
+        {
+          "@id": "eh:tal"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-tal",
+        "etymon:gloss": "knowledge-place",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows development of dedicated learning spaces"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "library",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Learning Terms",
+            "Building Terms"
+          ],
+          "usage": "Place for storing and accessing knowledge"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "school",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Learning Terms",
+            "Building Terms"
+          ],
+          "usage": "Place for formal instruction"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:'ilisal",
+          "relationshipType": "contrasts with",
+          "note": "formal vs. experiential learning"
+        },
+        {
+          "@id": "eh:'ilis",
+          "relationshipType": "semantic domain",
+          "note": "knowledge terminology"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilistal'er",
+          "phoneticRep": "ʔi.lis.tal.ʔer",
+          "decomposition": "'ilistal + -'er (verbalizer)",
+          "grammaticalMeaning": "to study formally, to attend school"
+        }
+      ]
+    },
+    {
+      "@id": "eh:asamwen",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asamwen",
+        "phoneticRep": "a.sam.wen"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:asam"
+        },
+        {
+          "@id": "eh:wen"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "asam-wen",
+        "etymon:gloss": "rest-flower",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Named for characteristic drooping posture of flower head"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "daffodil",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora Terms",
+            "Spring Terms"
+          ],
+          "usage": "Common spring flower, Narcissus species"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:sarespul",
+          "relationshipType": "temporal association",
+          "note": "early spring blooming"
+        },
+        {
+          "@id": "eh:wenthral",
+          "relationshipType": "broader term",
+          "note": "sacred/ritual flowers"
+        }
+      ]
+    },
+    {
+      "@id": "eh:torlambe",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "torlambe",
+        "phoneticRep": "tor.lam.be"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:tor"
+        },
+        {
+          "@id": "eh:lambe"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-lambe",
+        "etymon:gloss": "high-tongue",
+        "etymon:note": "Shows parallel formation to toreldal 'High Elf'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "High Elven (Quenya)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Eldrim Terms"
+          ],
+          "usage": "Formal term for High Elven language"
+        }
+      ]
+    },
+    {
+      "@id": "eh:wudlambe",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wudlambe",
+        "phoneticRep": "wud.lam.be"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:wud"
+        },
+        {
+          "@id": "eh:lambe"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wud-lambe",
+        "etymon:gloss": "wood-tongue",
+        "etymon:note": "Parallels edel 'Wood Elf', most common Elven contact language"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Wood Elven (Sindarin)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Eldrim Terms"
+          ],
+          "usage": "Common term for Wood Elven language"
+        }
+      ]
+    },
+    {
+      "@id": "eh:takulambe",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takulambe",
+        "phoneticRep": "ta.ku.lam.be"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:taku"
+        },
+        {
+          "@id": "eh:lambe"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "taku-lambe",
+        "etymon:gloss": "common-tongue",
+        "etymon:note": "Shows development of inter-cultural trade language"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Common Elven (Sindarin-based lingua franca)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Trade Terms"
+          ],
+          "usage": "Trade and diplomatic contexts"
+        }
+      ]
+    },
+    {
+      "@id": "eh:murlambe",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "murlambe",
+        "phoneticRep": "mur.lam.be"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:mur"
+        },
+        {
+          "@id": "eh:lambe"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mur-lambe",
+        "etymon:gloss": "dark-tongue",
+        "etymon:note": "Parallels ithiril 'Dark Elf', rarely encountered in Early Hick period"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Dark Elven (Drow)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Eldrim Terms"
+          ],
+          "usage": "Rare term, mainly in historical or scholarly contexts",
+          "lexinfo:register": "formal"
+        }
+      ]
+    },
+    {
+      "@id": "eh:matakulambe",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "matakulambe",
+        "phoneticRep": "ma.ta.ku.lam.be"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:matakutakal"
+        },
+        {
+          "@id": "eh:lambe"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "matakutakal-lambe",
+        "etymon:gloss": "people's.rhythm-tongue",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Uses Eldrim's own term for their languages collectively. Shows typical compound reduction pattern."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Elven languages (collectively)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Eldrim Terms",
+            "Scholarly Terms"
+          ],
+          "usage": "Formal term for all Elven languages as a group",
+          "lexinfo:register": "formal"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:torlambe",
+          "relationshipType": "includes",
+          "note": "High Elven variety"
+        },
+        {
+          "@id": "eh:wudlambe",
+          "relationshipType": "includes",
+          "note": "Wood Elven variety"
+        },
+        {
+          "@id": "eh:takulambe",
+          "relationshipType": "includes",
+          "note": "Common Elven variety"
+        },
+        {
+          "@id": "eh:murlambe",
+          "relationshipType": "includes",
+          "note": "Dark Elven variety"
+        }
+      ]
+    },
+    {
+      "@id": "eh:'u'u",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'u'u",
+        "phoneticRep": "ʔu.ʔu"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *'uhu-'uhu",
+        "etymon:soundChange": "medial h-loss",
+        "etymon:note": "Onomatopoeic origin from crying/sobbing sound"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cry, weep (in sorrow/pain)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Emotion Terms",
+            "Body Terms"
+          ],
+          "usage": "Often reduplicated for continuous crying"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'u'u'er",
+          "phoneticRep": "ʔu.ʔu.ʔer",
+          "decomposition": "'u'u + -'er (verbalizer)",
+          "grammaticalMeaning": "to cry, to weep"
+        }
+      ]
+    },
+    {
+      "@id": "eh:bresubel",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bresubel",
+        "phoneticRep": "bre.su.bel"
+      },
+      "lexicalCategory": "lexinfo:Verb",
+      "decomp:subterm": [
+        {
+          "@id": "eh:bresu"
+        },
+        {
+          "@id": "eh:bel"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bresu-bel",
+        "etymon:gloss": "shout-mouth",
+        "etymon:protoform": "Proto-Hick *bresu-belu",
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows typical compound formation with body part term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shout, yell",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Body Terms",
+            "Communication Terms"
+          ],
+          "usage": "Basic term for loud vocal expression"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "bresubel'er",
+          "phoneticRep": "bre.su.bel.ʔer",
+          "decomposition": "bresubel + -'er (verbalizer)",
+          "grammaticalMeaning": "to shout, to yell"
+        }
+      ],
+      "related": [
+        {
+          "@id": "eh:'u'u",
+          "relationshipType": "contrasts with",
+          "note": "loud vs. soft vocal expression"
         }
       ]
     }

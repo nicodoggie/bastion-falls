@@ -44,7 +44,7 @@ Class finalcluster {st, sk, sp, ks, ls, rs}
 Class vowel {i, e, o, a, u, ə}
 Class diphthong {ai, ei}
 
-# Stage 0
+# Stage 0: Proto-Hick
 
 Syllables: 
   {@initialcluster, @consonant} @vowel @consonant? // _ $
@@ -69,7 +69,7 @@ penultimate-stress:
   [unstressed] => [primary] / _ <syl> $
   [primary] => [unstressed] / _ <syl> [primary]
 
-# Stage 1
+# Stage 1: Proto-Maritime Hick
 
 stage-1:
   * => * # Placeholder for ease of reference
@@ -114,7 +114,7 @@ stress-shift cleanup:
   [primary] => [unstressed] / _  # Remove all primary stress
   Then: [unstressed] => [primary] / $ _
 
-# Stage 2
+# Stage 2: Proto-Seneran Hick
 
 stage-2:
   * => * # Placeholder for ease of reference
@@ -130,11 +130,11 @@ final-vowel-repair:
 initial-fricative-vowel-fronting:
   {ə, e} => i / $ [fricative] _
 
-final-vowel-lowering:
+final-vowel-centralization:
   [+high +back] => [-high +mid -back +central] / _ $
   [+mid +front] => [-low -front +central] / _ $
 
-# Stage 3
+# Stage 3: Pre-Hick
 Syllables:
   @consonant @vowel @consonant? @consonant?
   @consonant @vowel @vowel? @consonant?
@@ -146,6 +146,12 @@ obligatory-onset:
 
 stage-3:
   * => * # Placeholder for ease of reference
+
+final-glide-vocalization cleanup:
+  w => u / _ $
+
+diphthong-repair cleanup:
+  eu => ə / _
 
 nucleus-repair cleanup:
   @initialcluster * => @initialcluster ə / $ _ <syl> @consonant
@@ -196,7 +202,7 @@ back-vowel-reduction-after-velar-stop:
 vowel-coalescence:
   off
 
-# Stage 4
+# Stage 4: Early Hick
 stage-4:
   * => * # Placeholder for ease of reference
 

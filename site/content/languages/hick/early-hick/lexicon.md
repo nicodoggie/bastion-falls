@@ -86,6 +86,25 @@ siltak'er [sil.tak.ʔer]
     "to hit" after sound merger of *taku and*tahaku. See: [Body Terms](#body-terms),
     [Sensation Terms](#sensation-terms)
 
+'ilisal [ʔi.li.sal]
+  : visit (a place); experience personally; confirm via experiment
+  : Proto-Hick 'ilis-'al "knowledge-person" → 'ilisal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows semantic development from "knowledge-person" to active
+  experiential learning. Forms verb 'ilisal'er "to visit, to experience
+  firsthand". See: [Mental Terms](#mental-terms),
+  [Action Terms](#action-terms)
+
+aiesp [ai.esp]
+  : bathe, immerse in water
+  : ai-esp "water-under" → aiesp
+  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : Note: Shows lexicalization of subessive case marking into a basic verb. Forms
+    verb aiesp'er "to bathe". Contrasts with ailas'er "to enter water" (illative)
+    and aiimris'er "to exit water" (ellative).
+  : See: [Water Features](#water-features),
+    [Motion Terms](#motion-terms)
+
 ### Perceptual Actions
 
 thren [θren]
@@ -234,6 +253,13 @@ murvinuiter [mur.vi.nu.i.ter]
   : mur + vinuiter → murvinuiter
   : ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Literally "from night-birth"
+bresubel [bre.su.bel]
+  : shout, yell
+  : Proto-Hick *bresu-belu "shout-mouth" → bresubel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows typical compound formation with body part term. Forms verb
+    bresubel'er "to shout". Contrasts with 'u'u for softer vocalizations. See:
+    [Sound Terms](#sound-terms), [Body Terms](#body-terms)
 
 ### Consumption Actions
 
@@ -366,10 +392,18 @@ imlisitar [im.li.si.tar]
   : Note: Shows development of superessive case to indicate sudden upward motion
   : See: [Motion Verbs](#motion-verbs), [Case System](#case-system)
 
+'u'u ['u.'u]
+  : cry, weep (in sorrow/pain)
+  : Proto-Hick *'uhu-'uhu "cry" (onomatopoeic)
+  : Note: Shows regular loss of medial -h-. Preserves glottal stops from PH.
+    Reduplicated form suggesting continuous sobbing/crying. Often intensified
+    through additional reduplication. See: [Emotion Terms](#emotion-terms),
+    [Sound Terms](#sound-terms)
+
 ### Construction/Dwelling Actions
 
 vinud [vi.nud]
-  : building, dwelling
+  : building, dwelling; home
   : Proto-Hick \*venu-wudu → vinud
   : ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From 'burden' + 'wood', forms verb vinud'er "to build, to dwell"
@@ -638,6 +672,16 @@ kakrak [kak.rak]
   : < ADJ-krak "tooth"
   : Shows typical adjectival reduplication pattern
   : See: [Body Parts](#body-parts)
+
+#### Gestural Terms
+
+ba [ba]
+  : nod; agree (by nodding)
+  : Proto-Hick *baha "rhythmic head motion"
+  : Note: Shows development from coordinated group gesture. Basic agreement
+    term that preserves rhythmic origin. Often reduplicated for continuous
+    motion. See: [Gesture Terms](#gesture-terms),
+    [Group Terms](#group-terms)
 
 #### Derived Terms
 
@@ -1346,10 +1390,12 @@ bris [bris]
 
 brises [bri.ses]
   : light, illumination
+  : discover, explore
   : Proto-Hick *brisu-wesu "heat-enclose" → brises
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows metaphorical extension of "embraced heat" to light/illumination.
-    Forms verb brises'er "to shine"
+    Forms verb brises'er "to shine", further extended of illumination to
+    discovery and exploration
   : See: [Natural Terms](#natural-terms), [Sacred Terms](#sacred-terms)
 
 dup [dup]
@@ -1478,6 +1524,23 @@ grasgral [gras.gral]
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows productive compound formation pattern of flora + landform
   : See: [Flora & Agriculture](#flora--agriculture), [Agricultural Terms](#agricultural-terms)
+
+'irurbel [ʔi.rur.bel]
+  : cave, cave entrance
+  : 'irur-bel "hollow-mouth" → 'irurbel
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Basic term for cave openings. Shows common metaphorical extension of
+    "mouth" to mean entrance/opening. Forms compounds for specific types of caves.
+  : See: [Landforms](#landforms), [Body Terms](#body-terms)
+
+parduwes [par.du.wes]
+  : cavern, cave network
+  : grapar-duwes "worm-consume" → parduwes
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Literally "worm-eaten," reflecting folk belief about cave formation
+    through the action of great worms eating through mountains. Contrasts with
+    'irurbel for single caves.
+  : See: [Landforms](#landforms), [Mythological Terms](#mythological-terms)
 
 #### Precipitation
 
@@ -1608,6 +1671,14 @@ marwud [mar.wud]
   : red wood
   : mar-wud "red-wood" → marwud
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+
+asamwen [a.sam.wen]
+  : daffodil
+  : asam-wen "rest-flower" → asamwen
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Named for characteristic drooping posture of flower head. Forms
+    compounds for specific varieties and seasonal references. See:
+    [Flora Terms](#flora-terms), [Spring Terms](#spring-terms)
 
 #### Agricultural Terms
 
@@ -1768,7 +1839,7 @@ thur [θur]
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 bran [bran]
-  : dawn
+  : dawn; beginning, start
   : Proto-Hick \*branu → bran
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
@@ -1893,6 +1964,25 @@ krakiger [krak.i.ger]
   : Note: Names the material for its sharp, tooth-like qualities, following a
     common cross-linguistic pattern for naming this stone type
   : See: [Material Terms](#material-terms)
+
+#### Container Terms
+
+'irurlis [ʔi.rur.lis]
+  : gourd; container
+  : 'irur-lis "hollow-fruit" → 'irurlis
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Combines the concepts of hollowness and fruit, reflecting the physical
+    characteristics of gourds
+
+'irai [ʔi.rai]
+  : waterskin; liquid container
+  : 'irurlis-ai "container-water" → 'irai
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows extreme compound reduction preserving initial and final elements.
+    Forms compounds for specific liquid containers. Contrasts with 'irurlis for
+    general containers.
+  : See: [Container Terms](#container-terms),
+    [Material Culture](#material-culture)
 
 ### Geographical Terms
 
@@ -2211,6 +2301,13 @@ imtirduok [im.tir.du.ok]
   : Note: Shows formation pattern of "carrion-eater" common across languages.
     Applies to both animals and birds. See: [Animal Terms](#animal-terms)
 
+rek [rek]
+  : bark (of dog/wolf)
+  : Proto-Hick *reku → rek
+  : Note: Onomatopoeic origin. Forms verb rek'er "to bark". Common in compounds
+    describing different types of barks/calls. See: [Sound Terms](#sound-terms),
+    [Animal Terms](#animal-terms)
+
 #### Animals
 
 nes [nes]
@@ -2363,6 +2460,13 @@ lik [lik]
     See: [Mythological Terms](#mythological-terms),
     [Borrowed Terms](#borrowed-terms)
 
+vinusak [vi.nu.sak]
+  : dog, domesticated wolf
+  : vinud-sak "home-wolf" → vinusak
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows cultural understanding of dogs as domesticated wolves. Forms
+    compounds for specific dog types/roles. Contrasts with sak for wild wolves.
+    See: [Animal Terms](#animal-terms), [Domestic Terms](#domestic-terms)
 #### Bird Terms (Nocturnal)
 
 murmer [mur.mer]
@@ -2690,7 +2794,16 @@ thir [θir]
 nal [nal]
   : black
   : Proto-Hick \*nalu → nal
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel
+  loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+
+rak [rak]
+  : yellow
+  : Proto-Hick \*raku
+  : Note: Possible connection to \*ʔaraku "light", but relationship unclear.
+    Forms compounds for yellow shades.
+  : See: [Color Terms](#color-terms),
+    [Proto-Hick Roots](#proto-hick-roots)
 
 sar [sar]
   : leaf
@@ -3680,6 +3793,14 @@ takutek [ˈta.ku.tek]
   : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
   : Note: Shows reduplication of root \*heru "action"
 
+meltek [mel.tek]
+  : song, melodic rhythm
+  : Proto-Hick *melu-takutaku "sweet-rhythm" → meltek
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Shows extreme reduction of second element while preserving initial
+    syllable. Forms verb meltek'er "to sing". Contrasts with takal for speech
+    rhythm. See: [Musical Terms](#musical-terms), [Sound Terms](#sound-terms)
+
 #### Instruments
 
 'irurtak [ʔi.rur.tak]
@@ -3879,6 +4000,49 @@ takal [ta.kal]
   : Note: Metaphorical extension from takutakal, conceptualizing word as single
     unit of language rhythm. See: [Language Terms](#language-terms)
 
+#### Eldrim Terms
+
+matakulambe [ma.ta.ku.lam.be]
+  : Elven languages (collectively)
+  : matakutakal-lambe "people's.rhythm-tongue" → matakulambe
+  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : Note: Early Hick term for Elven languages as a group, using Eldrim
+    borrowing lambe. Shows typical compound reduction pattern. Used in
+    scholarly/diplomatic contexts. See: [Language Terms](#language-terms),
+    [Eldrim Terms](#eldrim-terms)
+
+torlambe [tor.lam.be]
+  : High Elven (Quenya)
+  : tor-lambe "high-tongue" → torlambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for High Elven language. Shows parallel formation to
+    toreldal "High Elf". See: [Language Terms](#language-terms),
+    [Eldrim Terms](#eldrim-terms)
+
+wudlambe [wud.lam.be]
+  : Wood Elven (Sindarin)
+  : wud-lambe "wood-tongue" → wudlambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for Wood Elven language. Parallels edel "Wood Elf".
+    Most common Elven language in Early Hick contact. See:
+    [Language Terms](#language-terms)
+
+takulambe [ta.ku.lam.be]
+  : Common Elven (Sindarin-based lingua franca)
+  : taku-lambe "common-tongue" → takulambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for simplified Elven trade language. Shows
+    development of inter-cultural communication. See:
+    [Language Terms](#language-terms)
+
+murlambe [mur.lam.be]
+  : Dark Elven (Drow)
+  : mur-lambe "dark-tongue" → murlambe
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Early Hick term for Dark Elven language. Parallels ithiril "Dark
+    Elf". Rarely encountered in Early Hick period. See:
+    [Language Terms](#language-terms)
+
 ### Political Terms
 
 #### Basic Terms
@@ -4068,7 +4232,7 @@ merkran [mer.kran]
     Forms verb merkran'er "to feel emotional pain". See: [Body Terms](#body-terms),
     [Emotional Terms](#emotional-terms)
 
-### Exchanges
+#### Exchanges
 
 'iruretil [ʔi.ru.re.til]
   : gift
@@ -4082,7 +4246,20 @@ merkran [mer.kran]
   : Proto-Hick 'irur-sibris "hollow-love" → 'irursibris
   : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Used for significant life events and marriage gifts. Shows cultural
-  formalization of gift-giving. See: [Sacred Terms](#sacred--ritual)
+  formalizatio
+  
+### Learning Terms
+
+#### Institutional Terms
+
+'ilistal [ʔi.lis.tal]
+  : library; school; place of learning
+  : 'ilis-tal "knowledge-place" → 'ilistal
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows development of formal learning spaces. Forms compounds for
+    specific types of knowledge centers. Contrasts with 'ilisal for experiential
+    learning. See: [Learning Terms](#learning-terms),
+    [Building Terms](#building-terms)
 
 ### Conflict Terms
 
