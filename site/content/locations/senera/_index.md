@@ -62,11 +62,11 @@ transportation networks (enabled by [Ritma](@/world-novelty/ritma.md)) and
 conventional maritime routes.
 
 The decline of Ritma from the 3rd century (~200s) onward reshaped this
-relationship. While other imperial regions struggled with the loss of
+relationship. While other imperial regions struggled with the gradual decay of
 magically-enhanced logistics and communication, Senera's established maritime
 infrastructure allowed it to maintain relatively stable governance.
 
-When [Kalassus](@/locations/kalassus.md) fell in 466, Senera was uniquely
+When [Kalassus](@/locations/kalassus.md) fell in 466 AI, Senera was uniquely
 positioned to transition smoothly into independence, only formally declaring
 itself a kingdom after the fall of the
 [Potol region](@/locations/tanduaria.md#kalassarian-potol) to the
@@ -152,21 +152,27 @@ distinct natural regions:
 
 ### The Ranterg Range
 
-(from Hick "thrantorgral" - "thousand peaks")
+The [Ranterg Mountain Range](@/locations/ranterg-mountains.md), its name, from
+Hick "thrantorgral", meaning "thousand peaks", divides Western from Eastern
+Senera. It is also the direct dominion of the Crown, and as such, the highest
+peaks are home to the Royal Palace.
 
 - Central spine running north-south
 - Source of the Brams River
 - Divides eastern and western watersheds
-- Highest peak: Mount Thraltr (4,200 ft)
+- Highest peak: [Mount Thraltor](@/locations/mt-thraltor.md) (4,200 ft)
 
 ### The Maltreks
 
-(from Hick "mal-threk" - "pool-heights")
+[The Maltreks](@/locations/the-maltreks.md), are actually comprised of two
+geologically distinct ranges that are connected at the northwestern corner of
+the island. The Western Maltreks are a limestone-basalt formation, while the
+Northern Maltreks are a basalt-silica formation.
 
 - Northwestern highlands
 - Numerous sacred pools and springs
 - Ancient Hick astronomical sites
-- Peak: Sinitar (3,100 ft)
+- Peak: [Mt Sinitar](@/locations/mt-sinitar.md) (3,100 ft)
 
 ### The Kethren Hills
 
@@ -518,6 +524,13 @@ systematic and complete, with traditional practices strictly outlawed.
 - Festival calendar
 - Public penances
 - Communal rituals
+
+#### Bishoprics
+
+- The Bishop of Rannek
+- The Bishop of Surrey
+- The Bishop of Skelmark
+- The Bishop of the Meridies
 
 # Feudal Hierarchy
 

@@ -54,6 +54,7 @@ each with 30 days.
 | 889 AI  | Narmaya was turned                                                     |
 | 910 AI  | Town of Hama sinks                                                     |
 | 955 AI  | Apgarian History: The First Anasaian-Estregan War                      |
+| 960 AI  | Estrega claims the archipelago that would be named L'Illes Apgarie     |
 | 968 AI  | Apgarian History: The Second Anasaian-Estregan War                     |
 | 970 AI  | Mauricia was renamed Raibon; Rainoso was founded                       |
 | 970 AI  | Narmaya was imprisoned                                                 |
