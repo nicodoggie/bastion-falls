@@ -5091,6 +5091,270 @@ bresubel being the louder counterpart to 'u'u's softer crying sound.
 
 ---
 
+_**User**_
+
+dupgral "hills" < dup "lump" + gral "land"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's add this compound landform term to both lexicon files:
+
+For lexicon.jsonld:
+````json
+{
+  "@id": "eh:dupgral",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "dupgral",
+    "phoneticRep": "dup.gral"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:dup"
+    },
+    {
+      "@id": "eh:gral"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "dup-gral",
+    "etymon:gloss": "lump-land",
+    "etymon:note": "Shows typical landform compound formation"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "hills, hilly terrain",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Landforms",
+        "Geographic Terms"
+      ],
+      "usage": "General term for hilly landscapes"
+    }
+  ]
+}
+````
+
+
+For lexicon.md (under Landforms section):
+````markdown
+dupgral [dup.gral]
+  : hills, hilly terrain
+  : dup-gral "lump-land" → dupgral
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows typical landform compound formation. Contrasts with tor "peak" 
+    and gral "flat land". See: [Landforms](#landforms), 
+    [Geographic Terms](#geographic-terms)
+````
+
+
+This shows:
+1. Clear compound formation
+2. Semantic development
+3. Relationship to other landform terms
+4. Geographic terminology patterns
+
+Does this look like a good representation of the term?
+
+---
+
+_**User**_
+
+airur "karst" < ai "water" + 'irur "'hollow"
+
+---
+
+_**Assistant**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Let's add this water-landform compound to both lexicon files:
+
+For lexicon.jsonld:
+````json
+{
+  "@id": "eh:airur",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "airur",
+    "phoneticRep": "ai.rur"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:ai"
+    },
+    {
+      "@id": "eh:'irur"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "ai-'irur",
+    "etymon:gloss": "water-hollow",
+    "etymon:soundChange": "glottal stop loss in compounds",
+    "etymon:note": "Shows water-landform compound pattern common in geographic terms"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "karst, water-carved limestone terrain",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Landforms",
+        "Water Features",
+        "Geographic Terms"
+      ],
+      "usage": "Describes limestone regions shaped by water erosion"
+    }
+  ]
+}
+````
+
+
+
+For lexicon.md (under Landforms section):
+````markdown
+airur [ai.rur]
+  : karst, water-carved limestone terrain
+  : ai-'irur "water-hollow" → airur
+  : ([compound fusion, glottal stop loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows water-landform compound pattern. Describes regions shaped by 
+    water erosion, especially limestone areas with caves and sinkholes. See: 
+    [Landforms](#landforms), [Water Features](#water-features)
+````
+
+
+
+This entry:
+1. Shows compound formation
+2. Notes glottal stop loss
+3. Links water and landform terms
+4. Provides geological context
+5. Cross-references relevant sections
+
+Does this capture the term's meaning and formation well?
+
+---
+
+_**User**_
+
+@lexicon.jsonld for airur please
+
+---
+
+_**Assistant**_
+
+
+
+Looking at the current lexicon.jsonld file, I see the entry for airur is already there. Here's what it contains:
+
+````json
+{
+  "@id": "eh:airur",
+  "@type": "ontolex:LexicalEntry",
+  "canonicalForm": {
+    "@type": "ontolex:Form",
+    "writtenRep": "airur",
+    "phoneticRep": "ai.rur"
+  },
+  "lexicalCategory": "lexinfo:Noun",
+  "decomp:subterm": [
+    {
+      "@id": "eh:ai"
+    },
+    {
+      "@id": "eh:'irur"
+    }
+  ],
+  "etymology": {
+    "@type": "etymon:Etymology",
+    "etymon:compound": "ai-'irur",
+    "etymon:gloss": "water-hollow",
+    "etymon:soundChange": "glottal stop loss in compounds",
+    "etymon:note": "Shows water-landform compound pattern common in geographic terms"
+  },
+  "sense": [
+    {
+      "@type": "ontolex:LexicalSense",
+      "definition": {
+        "@value": "karst, water-carved limestone terrain",
+        "@language": "en"
+      },
+      "lexinfo:semanticField": [
+        "Landforms",
+        "Water Features",
+        "Geographic Terms"
+      ],
+      "usage": "Describes limestone regions shaped by water erosion"
+    }
+  ]
+}
+````
+
+The entry looks complete and accurate, matching our discussion. No changes needed!
+
+---
+
 
 
 ---
