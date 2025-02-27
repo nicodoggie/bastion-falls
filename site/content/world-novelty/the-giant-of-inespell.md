@@ -66,7 +66,7 @@ And on that day, we taught them of iron and the fire of our rage
 
 # In'isbelul tor'ales
 
-branrum 'aterbran ma'alul branes  
+branrum 'aterbran mator'alul branes  
 branrum 'ilis'er grasedel ma'ales  
 branrum 'ilis'er tiraiel ma'ales
 

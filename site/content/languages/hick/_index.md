@@ -16,11 +16,39 @@ Seneran Hick considered the typifying language of the Hick family. The languages
 of the Seneran Hick family are spoken in the main Seneran Island, and are the
 substrates of the modern Seneran language.
 
-## Straits Hick
+## Maritime/Straits Hick
 
 This sub-family are a variety of languages spoken in the islands of the Princely
 Straits. They include Palman, the language of Racos Palma, Sentimental Island
 and Shagnery, and Moreaux.
+
+As the prehistoric Hickic people expanded westward, their relative distance from
+the Apgarian mainland began to affect their language. These island-bound
+cultures still maintained a close linguistic relationship with each other, but
+had started to diverge from those mainland languages. Languages that are said to
+derive from Proto-Maritime Hick are the extinct Raibonian, Sentimental, and
+Palman.
+
+Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
+
+1. Deletion of a liquid in proximity to a glottal fricative:
+
+   ```plaintext
+   h [liquid] => h \*/ \_
+   - [liquid] h => \* h /\_
+   ```
+
+2. Reanalysis of initial ha to match changes with sacred terminology:
+
+   ```plaintext
+   ha => θə / $ _ {[stop !glottal], [fricative], [liquid], [glide]}  
+   ```
+
+   This change may explain why Kalassarian sources sometimes transcribe Hausi as
+   "Mausi/Mauri" - the heavily aspirated initial /h/ in Maritime Hick dialects
+   likely had strong nasalization, leading Kalassarian speakers to perceive it
+   as /m/. This is particularly evident in coastal varieties where contact was
+   most frequent.
 
 ## Apgarian Hick
 

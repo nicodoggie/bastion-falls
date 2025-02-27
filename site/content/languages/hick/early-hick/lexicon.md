@@ -1359,7 +1359,7 @@ kel [kel]
 
 thir [θir]
   : air, wind
-  : Proto-Hick \*thiru → thir
+  : Proto-Hick \*haru → thir
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Colors](#colors)
 
@@ -1541,6 +1541,22 @@ parduwes [par.du.wes]
     through the action of great worms eating through mountains. Contrasts with
     'irurbel for single caves.
   : See: [Landforms](#landforms), [Mythological Terms](#mythological-terms)
+
+dupgral [dup.gral]
+  : hills, hilly terrain
+  : dup-gral "lump-land" → dupgral
+  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows typical landform compound formation. Contrasts with tor "peak"
+    and gral "flat land".
+  : See: [Landforms](#landforms)
+
+airur [ai.rur]
+  : karst, water-carved limestone terrain
+  : ai-'irur "water-hollow" → airur
+  : ([compound fusion, glottal stop loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : Note: Shows water-landform compound pattern. Describes regions shaped by
+    water erosion, especially limestone areas with caves and sinkholes.
+  : See: [Landforms](#landforms), [Water Features](#water-features)
 
 #### Precipitation
 
@@ -2786,7 +2802,7 @@ kel [kel]
 
 thir [θir]
   : white
-  : Proto-Hick \*thiru → thir
+  : Proto-Hick \*haru → thir
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Same as "air"
   : See: [Elements](#elements)
@@ -3168,7 +3184,7 @@ lis [lis]
 
 thir [θir]
   : hair, fur
-  : Proto-Hick \*thiru → thir
+  : Proto-Hick \haru → thir
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Colors](#colors), [Animal Terms](#flora--fauna)
 
@@ -3671,7 +3687,7 @@ miral [mi.ral]
 
 thir [θir]
   : warm, warming
-  : Proto-Hick \*thiru → thir
+  : Proto-Hick \*haru → thir
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Colors](#colors), [Sacred Terms](#sacred--ritual)
 
@@ -4303,7 +4319,7 @@ mer [mer]
 
 thir [θir]
   : elder
-  : Proto-Hick \*thiru → thir (metaphorical extension from
+  : Proto-Hick \*haru → thir (metaphorical extension from
   "air/white")
 
 lis [lis]

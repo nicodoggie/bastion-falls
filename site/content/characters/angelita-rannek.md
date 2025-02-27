@@ -10,8 +10,8 @@ pronouns = "She/Her"
 date_of_birth = "1264-11-05"
 [taxonomies]
 families = ["Rannek"]
-parents = ["Marquess Uther of Rannek", "Marchioness Maria of Rannek"]
-siblings = ["Merlin Rannek", "Lance Rannek", "Laudine Rannek", "Gwyniviere Rannek"]
+parents = ["Marquess Uther of Rannek", "Marchioness Maria of Rannek nee Thralbel"]
+siblings = ["Merlin Rannek", "Lance Rannek", "Laudine Maidenfeld nee Rannek", "Gwyniviere Rannek"]
 religions = ["Orthodox Divine Masochism"]
 organizations = ["Legally Bare"]
 ethnicities = ["Seneran"]

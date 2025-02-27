@@ -12560,6 +12560,86 @@
           "note": "loud vs. soft vocal expression"
         }
       ]
+    },
+    {
+      "@id": "eh:airur",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "airur",
+        "phoneticRep": "ai.rur"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ai"
+        },
+        {
+          "@id": "eh:'irur"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ai-'irur",
+        "etymon:gloss": "water-hollow",
+        "etymon:soundChange": "glottal stop loss in compounds",
+        "etymon:note": "Shows water-landform compound pattern common in geographic terms"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "karst, water-carved limestone terrain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Water Features",
+            "Geographic Terms"
+          ],
+          "usage": "Describes limestone regions shaped by water erosion"
+        }
+      ]
+    },
+    {
+      "@id": "eh:airur",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "airur",
+        "phoneticRep": "ai.rur"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
+        {
+          "@id": "eh:ai"
+        },
+        {
+          "@id": "eh:'irur"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ai-'irur",
+        "etymon:gloss": "water-hollow",
+        "etymon:soundChange": "glottal stop loss in compounds",
+        "etymon:note": "Shows water-landform compound pattern common in geographic terms"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "karst, water-carved limestone terrain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Water Features",
+            "Geographic Terms"
+          ],
+          "usage": "Describes limestone regions shaped by water erosion"
+        }
+      ]
     }
   ]
 }

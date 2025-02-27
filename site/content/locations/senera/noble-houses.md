@@ -96,9 +96,9 @@ Marquess, but also commands the Eastern Fleet as Lord High Admiral of the Realm.
 
 ## Western Provinces (Hick-dominant names)
 
-### The Maltrek Thanedom
+### The Maltrek Duchy
 
-- Capital: Malterburgh
+- Capital: Tregar
 - Major settlements:
   - Bramwick (< Hick bram-vik "tide bay")
   - Thralmal (< Hick thral-mal "sacred pool")
