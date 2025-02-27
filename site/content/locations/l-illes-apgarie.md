@@ -2,11 +2,9 @@
 slug = "l-illes-apgarie"
 title = "L' Illes Apgarie"
 [taxonomies]
-location_type = ["island chain"]
+location_type = ["archipelago"]
 parent_location = ["Sanery","Apgarian Confederacy"]
 +++
-
-{{ stub() }}
 
 {{ map(asset="locations/l-illes-apgarie.jpg", width=500) }}
 
@@ -44,8 +42,15 @@ pirates and other threats.
 
 ### Silver Kingdom Period
 
-The destruction of the Town of Hama in 910 AI was shrouded in mystery. It,
-however opened the region up to the influence of the kingdoms of the
+The destruction of the Town of Hama in 910 AI was shrouded in mystery. One of
+the major theories of its destruction is an extreme seismic event that occurred
+at the time, causing the bedrock to fracture and fall into the sea. The creation
+of many islets to the east of Raibon Island, called
+[Hama's Tears](@/locations/hama-s-tears.md) led credence to this theory.
+
+Its destruction, however, and the loss of prominence of the
+[White Witches](@/organizations/hags-of-hama.md) that led it, opened the region
+up to the influence of the kingdoms of the
 [Silver Kingdom Period](@/events/silver-kingdoms.md) of Apgar. The kingdoms of
 Anasai, Estrega and Sanery, at some point, have all claimed the islands, with
 the islands being held by Estrega after the

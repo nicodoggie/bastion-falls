@@ -7,14 +7,14 @@ location_type = ["island"]
 parent_location = ["L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
 +++
 
-{{ outofdate() }}
+{{ incomplete() }}
 
 # Raibon Island
 
 {{ map(asset="locations/raibon-island.png", width=500) }}
 
-Raibon Island is the largest and most populous island in the
-[L' Illes Apgarie](@/locations/l-illes-apgarie.md) island chain. Its governance,
+_Raibon Island_ is the largest and most populous island in the
+[L' Illes Apgarie](@/locations/l-illes-apgarie.md) archipelago. Its governance,
 nominally, is part of the [Sanery](@/locations/sanery.md) region, but enjoys a
 special status due to the [Treaty of Turain](@/events/treaty-of-turain.md). Its
 defacto government is split between its major settlements: most of recent
@@ -22,24 +22,38 @@ history, this meant [Port Rainoso](@/locations/port-rainoso.md) and
 [Port Tressemer](@/locations/port-tressemer.md).
 
 The Treaty of Turain designates the island, along with the surrounding waters of
-L'Ille Apgarie as a demilitarized zone. A consequence of this, along with
-Raibon's geographical features made its most prominent port, Port Rainoso, an
-attractive home to a number of maritime companies.
+the northernmost islands of L'Ille Apgarie as a demilitarized zone. This and its
+already prominent position as a major port that links the
+[Sarmatian Sea](@/locations/sarmatian-sea.md) trade routes with Northwestern
+Betera, has made it a major economic center for the region. Most of the economic
+wealth created, however, is controlled by the many criminal organizations that
+are based in the island.
 
 ## History
 
-Surviving Kalassarian documents record the name of the island as Mauricia,
-however there are very little evidence of ln
-[Fall of the Kalassarian Empire](@/events/fall-of-the-kalassarian-empire.md).
-Many of the Kalassarian-era records disappeared along with the destruction or
-otherwise repurposing of Kalassarian government buildings.
-The island was once named Mauricia by the Kalassarian Empire when it was settled
-in the 111 AI. Not many records of Kalassarian administration survived due to
-the Sinking of the Town of Hama in 910 AI. It is unknown why the Kalassarians
-were not able to settle the area in and around the Sound. Its strategic
-advantages were numerous, and would have been a logical choice. However, the
-land was empty when Rainoso was founded by Estregan explorers under the auspices
-of King Raibon I of Estrega almost 800 years later.
+### Pre-History
+
+Recent archaeological and linguistic evidence has suggested that the island was
+populated by Hickic speakers who came from Western Betera, in areas that are
+parts of Mayonne and Estrega. They developed seafaring traditions and settled
+across the [L'Ille Apgarie](@/locations/l-illes-apgarie.md) archipelago,
+including Raibon Island. The people who settled the island called themselves the
+_Hausi_. Surviving Kalassarian documents record the name of the island as
+_Mausia_ mentioning that it was derived from the name of the native people. The
+discrepancy may have been due to heavy aspiration of the initial /h/ in Hausi
+dialects at the time. Some scribes may have incorrectly transcribed the name of
+this island, while others transcribed the name of the people differently.
+Certain Straits languages have developed nasalized variants of /h/, which
+provides this possible explanation.
+
+The Hausi were a matrilineal society and were led by wise women known as the
+
+### Hausi
+
+The Hausi were once the native people of the island. When the island was
+discovered by Kalassarian explorers, the people were described as
+"unsophisticated and barbaric, but capable of performing incredible feats of
+magic".
 
 ### Hama
 
@@ -95,16 +109,18 @@ Sinking of the Town of Hama, the Hausi have lamented its loss, and had become a
 part of their local lexicon as swear words and curses.
 
 In the ensuing years, the Hausi and their descendants have come to ascribe
-religious and cultural importance to theTurbiere de Hubar. The Hags of Hama
+religious and cultural importance to the Turbiere de Hubar. The Hags of Hama
 themselves were said to have begun to reside in the Bog. Offerings and prayers
 are directed toward it, in addition to the Hags themselves. Their dead is laid
 to rest in the waters in and around it. They also place a general reverence upon
 the site, promulgating a set of legends and stories about the Bog and the Hags
 of Hama, including the lore surrounding the Frogmen and the Deep Lore.
 
-## Locations
+## Geography
 
 ### Heimann Sound
+
+## Locations
 
 ### Port Rainoso
 
