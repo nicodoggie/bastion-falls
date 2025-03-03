@@ -1,0 +1,29 @@
+families:
+  - house: Caxton
+    parents: [Milton, Maya]
+    children: [Preston]
+    families:
+      - parents: [Preston, Belinda]
+        children:
+          - Dalton
+          - Mason
+          - Johan
+          - Ginny
+people:
+  Milton:
+    fullname: Milton Caxton
+  Maya:
+    fullname: Maya Albrecht
+  Preston:
+    fullname: Preston Caxton
+  Belinda:
+    fullname: Belinda Bright
+  Dalton:
+    fullname: Dalton Caxton
+  Mason:
+    fullname: Mason Caxton
+  Johan:
+    fullname: Johan Caxton
+  Ginny:
+    fullname: Bougainvillea Caxton
+    nickname: Ginny

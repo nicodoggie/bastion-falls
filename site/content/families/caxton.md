@@ -1,7 +1,0 @@
-+++
-slug = "caxton"
-title = "Caxton"
-
-+++
-
-

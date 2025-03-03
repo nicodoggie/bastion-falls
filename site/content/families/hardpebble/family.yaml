@@ -1,0 +1,74 @@
+families:
+  - house: Hardpebble
+    parents: [Hendrik I, Antonia]
+    children: 
+      - Hendrik II
+      - Henrietta
+      - Antonina
+    families:
+      - parents: [Hendrik II, Katya]
+        children: [Lobellia, Louisa, Hendrik III]
+        families:
+          - parents: [Hendrik III, Maria]
+            children: [Hank, Mary]
+            families:
+              - parents: [Hank, Alice]
+                children: [Henry, Ophelia, Patton, Bismuth, Dahlia, Robert, Petunia]
+          - parents: [Mary, Obel]
+      - parents: [Antonina, Hunter]
+        children: [Henry Solomon, Katalina]
+      
+
+people:
+  [Hendrik I]:
+    fullname: Hendrik Hardpebble I
+  Antonia:
+    fullname: Antonia Partridge
+  [Hendrik II]:
+    fullname: Hendrik Hardpebble II
+  Henrietta:
+    fullname: Henrietta Partridge Hardpebble
+  Antonina:
+    fullname: Antonina Partridge Hardpebble
+  Hunter:
+    fullname: Hunter Solomon
+  Katya:
+    fullname: Katya Anduri
+  Lobellia:
+    fullname: Lobellia Hardpebble
+  Louisa:
+    fullname: Louisa Hardpebble
+  [Hendrik III]:
+    fullname: Hendrik Hardpebble III
+  [Henry Solomon]:
+    fullname: Henry Hardpebble Solomon
+  Katalina:
+    fullname: Katalina Solomon Siviskaya
+  Maria:
+    fullname: Maria Alturas
+  [Hank]:
+    fullname: Hendrick Hardpebble IV
+  Alice:
+    fullname: Alice Hardpebble
+  Mary:
+    fullname: Mary Hardpebble
+  Obel:
+    fullname: Obel Trent
+  John:
+    fullname: Hendrick Hardpebble V
+  Patton:
+    fullname: Patton Hardpebble
+  Bismuth:
+    fullname: Bismuth Hardpebble
+  Robert:
+    fullname: Robert Hardpebble
+  Kid:
+    fullname: Carmine "Kid" Hardpebble
+  Ophelia:
+    fullname: Ophelia Hardpebble
+  Mundus:
+    fullname: Mundus Sicarius
+  Dahlia:
+    fullname: Dahlia Hardpebble
+  Petunia:
+    fullname: Petunia Hardpebble
