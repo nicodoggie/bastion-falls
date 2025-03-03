@@ -46,5 +46,16 @@ cargo = 100
 
 +++
 
-The *Principium* was an a galley working under [La Camaraderie de la Mer](@/location/la-camaraderie.md), and was its "flagship" in that it was led by the organization's
-Grand Master. On paper, it was 
+The _Principium_ was a galley working under
+[La Camaraderie de la Mer](@/location/la-camaraderie.md), and was its "flagship"
+in that it was led by the organization's Grand Master. On paper, it was a cargo
+ship that hauled iron from [Raibon Island](@/locations/raibon-island.md) to
+[Estrega](@/locations/estrega.md).
+
+## Crew
+
+### Captain
+
+The Captain of the _Principium_ was always the Grand Master of La Camaraderie
+de la Mer. At the time of its sinking, the captain was
+[Jethro Duvague](@/characters/jethro-duvague.md).

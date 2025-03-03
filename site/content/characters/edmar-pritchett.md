@@ -2,8 +2,8 @@
 title = "Edmar Pritchett"
 [extra.cha]
 age = ""
-sex = ""
-pronouns = ""
+sex = "Male"
+pronouns = "He/Him"
 date_of_birth = ""
 date_of_death = ""
 married_to = ""
@@ -13,9 +13,10 @@ families = []
 parents = []
 children = []
 siblings = []
-religions = []
-organizations = []
-ethnicities = []
-species = []
+religions = ["Orthodox Divine Masochism"]
+organizations = ["Seneran Royal Diplomatic Corps"]
+ethnicities = ["Seneran"]
+species = ["Human"]
 +++
 
+{{ stub() }}

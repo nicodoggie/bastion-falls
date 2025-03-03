@@ -23,7 +23,8 @@ religions = ["Orthodox Divine Masochist"]
 character_type = ["PC"]
 +++
 
-_Hedwig Rosa Rosenkrantz_ is the only daughter of [Bain](@/characters/bain-rosenkrantz.md) and
+_Hedwig Rosa Rosenkrantz_ is the only daughter of
+[Bain](@/characters/bain-rosenkrantz.md) and
 [Karen](@/characters/karen-guildenstern.md) Rosenkrantz, a noble family of
 landowners in [Sacily, Nura](@/locations/salicy.md), Her mother Karen (née
 [Guildenstern](@/families/guildenstern.md)) came from a family of dramatists,

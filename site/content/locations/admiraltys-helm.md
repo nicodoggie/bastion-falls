@@ -374,7 +374,7 @@ represent a significant investment in infrastructure and remain crucial to the
 district's daily operations. The labor required to operate them constitutes a
 major portion of the prison's work detail assignments.
 
-## Prison Complex
+## The Splits
 
 The notorious Admiralty Prison, known colloquially as "The Splits," dominates
 the southwestern quarter of the plateau. Its substantial size reflects both its
