@@ -1,0 +1,568 @@
+## SpecStory
+
+## Extracting Text from Image to Notes (3/2/2025, 8:28:55 PM)
+
+_**User**_
+
+can you extract the text in this image into @01-notes.md >
+
+---
+
+_**Assistant**_
+
+I'll extract the text from the image into the notes file. The image appears to contain handwritten notes about a fantasy setting with concepts related to magic and a story outline.
+
+---
+
+_****_
+
+```diff
+  +++
+  
++ # Origin
++ 
++ ## Concept
++ 
++ - Magic is new, about 10 years since it's been unlocked
++ - The thing that made magic is slowly eating the cosmos, also
++   people are attempting to either gain more power, & or tap/use
++   the magical origin to save the world
++ - ~~Earth~~
++ - ~~magical origin is a rift into a magical world before
++   ours~~
++ 
++ ## What is the Magical Origin?
++ 
++ - It is a growing mass of pure chaos
++ - It is a growing mass of pure chaos
++ - In the very center is an alchemical symbol that represents the
++   world, surrounded by transmutation formulae to transmute the world
++   to the past.
++ 
++ ## What are implications of the "Magic" Origin?
++ 
++ - It is growing at a rate of 1km per year
++ - At this point, it's been growing for about 50 years already
++ - The origin is believed to be "Beneath the Dim Celestial Cathedral" of a major
++   religion of the world, which people start believing/seeing as a sure sign of the
++   apocalypse.
++ - People begin to mutate as they draw power from the origin, no positive
++ - People are born with various abilities of magical strength and varieties
++ - Mental Influence
++   - Some are born with various physical deformities
++ - Storms occasionally spawn from the origin, when storms pass, strange occurrences happen.
++   Sometimes entire towns disappear, get displaced, or are replaced by some strange town form.
++ - Religions are treated differently in different towns
++ - Some countries are taking advantage of this situation by creating stronger towers, castle walls and
++   fortresses, somewhat with spells that don't extend.
++ - A new religion formed based on worship of the magical origin. There are a couple of designated "prophets".
++   The prophet is a woman who had entered the origin, transformed into an "angel"
++ 
++ ## Where we begin
++ 
++ - A small village, ~200 miles away from the origin suddenly
++   disappears and is replaced by an entirely different village of
++   what seem to be survivors of one of the storms.
++ 
++ ## Episode 1: Refugees
++ 
++ - Town of Broken Court, in the outskirts of the rapidly widening of Origin Terminus, is a
++   primarily agricultural one. There are 4 homesteads that surround a little tavern that provides ample
++   supplies to the many fields.
++ 
++ - Near the center of the village, where the roads meet, is a low and wide square of market age
++   where a general store, an inn and a small kitchen garden are located.
++ 
++ - Beyond this little village is a wood a couple of acres large. The trees are large enough to transport lumber
++   through, so a road from the village runs directly through the woods into a small lumberyard.
++ 
++ - Some loggers sometimes stay in the cabin by the yard in exchange for a small fee.
+  
+```
+
+---
+
+_****_
+
+
+
+I've extracted the text from the handwritten notes into the markdown file. The content includes:
+
+1. A concept section describing a relatively new magical phenomenon that's been around for about 10 years
+2. Details about the "Magical Origin" - a growing mass of pure chaos with an alchemical symbol at its center
+3. Implications of this magical origin, including:
+   - Its growth rate and history
+   - Religious interpretations
+   - Effects on people (mutations, abilities, deformities)
+   - Environmental effects like magical storms
+   - Political and religious responses
+
+4. The setting for the story - a village that's been replaced by refugees from magical storms
+5. Details about "Episode 1: Refugees" describing the town of Broken Court
+
+The text has been formatted with proper markdown headings and list structures to maintain readability while preserving the original content. The crossed-out sections from the original notes have been maintained with markdown strikethrough formatting.
+
+---
+
+_**User**_
+
+can you extract the text of this image and add them into @01-refugees.md please? current contents may provide some context
+
+---
+
+_**Assistant**_
+
+I'll extract the text from this image and add it to the 01-refugees.md file. The image appears to contain character descriptions related to the village of Brown Carrot.
+
+---
+
+_****_
+
+```diff
+  Some loggers sometimes stay in the cabins by the yard in exchange for a small
+  fee.
++ 
++ ## Notable Residents
++ 
++ Recently, a storm had come into town to take a toll on the small outpost. The body of a young boy, youngest son of the Hardpebble family, one of the four rich families of Brown Carrot.
++ 
++ The little boy, Kid Hardpebble, was missing for a week and was already thought to be dead, so this in itself was not a surprise. The surprise was how. They found him bound tightly by his wrists that seem to have grown from inside his own body, his eyes seem to have been removed from their sockets.
++ 
++ Of course, the Hardpebble family pushed for the culprit for their son's death be found, no matter the method used, and hired a freelance Acquirer, and perhaps even a Ritualist, to help: daughter, Petunia.
++ 
++ ### Frederick "Hank" Hardpebble IV
++ 
++ The patriarch of the family Hardpebble, he is constantly attempting to secure his place in the upper echelon. Paying his wealth in a line of successful merchants, he hopes to cement his family legacy by marrying one of his 3 daughters to a man who already established noble families.
++ 
++ His newest aspiration, after the death of his son (lovingly called "Kid" by his family), is centered upon an arranged marriage to the daughter of an impoverished noble house. From Acqua Termina, Hank is convinced that the patriarch of the Caxton House, and Lord of the Brown Carrot had something to do with his son's death.
++ 
++ ### Carmine "Kid" Hardpebble
++ 
++ A recent target enjoyed by plants and mushrooms, found by a traveler in the Purple Wood. The youngest of Hank Hardpebble's sons, destined to disappear. Benefactor of Acqua Termina, was always one to explore the woods and caves around Brown Carrot. It was typical for him to disappear for a day or two, but never longer than that, and usually with one or two cohorts in tow. So when he disappeared this time, none were too concerned. Until three. After four days, however, his mother had ordered Hank to find him. After 7 days, his body was found.
++ 
++ Kid, 11 years old, was very small and well-liked by everyone in the village. Kind. There was that one time that broke it got rich with the Hardpebble family Teacettle, no one enjoyed his presence. So much so that the young daughter of Brown Carrot, Petunia Hardpebble, fell in love with him, supposedly. Their romance was strictly dictated by the family's standards. The romance was an attempt to fuse Hardpebble power to that of a puppet of securing their family to a much more important noble house. Hank had put the little brother play out for the moment, while he secured a betrothal with an established noble daughter. Kid was promised at the onset he was given proper by his older brother to cool his appetite to their fortune.
++ 
++ ### Petunia Hardpebble
++ 
++ Youngest of the three Hardpebble daughters, and youngest sibling to Kid, Petunia is typically dismissed as a "child." Through the right of name, yet still being aged prior to the right of her womanhood, she is treated as one. It is the right of childhood that denies connection with being a child.
++ 
++ She dislikes being told to play with the children outside, to read her books with her sisters reading books in school, or learning embroidery from her mother. She particularly despises the advances of would-be suitors as well as sycophants who only pay her heed to get in the good graces of her father.
++ 
++ The sudden death of her brother had caused her much despair. They were once very close and were often seen playing together. The siblings changed when Kid met Carmine/Kira. Caxton became increasingly unclear. Carmine/Kira returned with many letters under the same time with the minister of the Church of the Divine Caxton. They're rumored to be lovers, and Petunia had learned about, perhaps for her older companion. She feels quite now the resemblance of her brother.
++ 
++ On the day her brother's body was found, rumors were beginning to her body as well. The rumors suggest she begins to possess magical abilities.
++ 
++ ### Lord Ruston Caxton
++ 
++ Patriarch of the minor noble house of Caxton, Lord Ruston is an ambitious nobleman who longs for the station of his house to be power glory and then some. A fit is the fourth generation since the Caxton house was forced to exile their eldest son to the merchant Hardpebble.
++ 
++ Ruston travels to town all he can about how markets worked and how best to expand their wealth. He has learned to be a savvy trader, putting money into ventures that had paid to be a stable source of income. Though Ruston has leadership, his crown love had remained nearly half of the lands major lot. He had funded the construction of a lumberyard in the nearby forest which pays dividends in the Acqua markets.
++ 
++ While Lord Ruston typically is disinterested in local affairs, he does this with to negotiate bonds tied to the Hardpebbles as a matter of family pride. As such
+  
+```
+
+---
+
+_****_
+
+
+
+I've extracted the text from the image and added it to the 01-refugees.md file. The content includes character profiles of notable residents in Brown Carrot:
+
+1. A brief introduction about a storm and the discovery of Kid Hardpebble's body
+2. Character profiles for:
+   - Frederick "Hank" Hardpebble IV - the patriarch of the Hardpebble family
+   - Carmine "Kid" Hardpebble - the deceased young son
+   - Petunia Hardpebble - Kid's sister who may be developing magical abilities
+   - Lord Ruston Caxton - an ambitious nobleman with connections to the Hardpebbles
+
+The text appears to be setting up a mystery surrounding Kid Hardpebble's death, with family politics, noble aspirations, and hints of magical elements. There are some passages that seem a bit unclear in the handwriting, which I've transcribed as faithfully as possible.
+
+Note that the last paragraph for Lord Ruston Caxton appears to be cut off mid-sentence in the image. Would you like me to make any adjustments to the formatting or content?
+
+---
+
+_**User**_
+
+corrected some issues with the transcription. Ruston should be Preston etc. 
+
+
+
+---
+
+_**Assistant**_
+
+I see that you've already made corrections to the transcription, including changing Ruston to Preston for Lord Caxton's name and fixing several other details in the character descriptions. The file now contains more accurate and coherent character profiles with additional details that weren't clear in the handwritten notes.
+
+The current version in the file is much improved and includes:
+
+1. Better clarity on Kid Hardpebble's age (13 instead of 11)
+2. More details about the relationships between characters
+3. The correct name for Lord Preston Caxton (instead of Ruston)
+4. Additional information about Petunia's feelings toward Bougainvillea
+5. Clearer descriptions of the family dynamics and conflicts
+
+The file appears to be in good shape now with these corrections. The last paragraph about Lord Preston Caxton still seems to be cut off mid-sentence. Would you like me to help complete that paragraph or make any other adjustments to the file?
+
+---
+
+_**User**_
+
+@762612414.396298.jpg let's add this page that continues the document into @01-refugees.md 
+
+---
+
+_**Assistant**_
+
+I'll extract the text from this new image and add it to the 01-refugees.md file, continuing from where the previous content left off.
+
+---
+
+_****_
+
+```diff
+  While Lord Preston typically is disinterested in local affairs, he does this with
+  to negotiate bonds tied to the Hardpebbles as a matter of family pride. As such
++ 
++ his youngest daughter had formed romantic aspirations with a Hardpebble, he tolerated the affection, hoping to find some way to take advantage of it. Knowing how most Hardpebble wealth was nothing more to him.
++ 
++ What Lord Preston is concerned with, however, is the sudden growth of strange activity in the region from the capital lands. There have been reports that there, somewhere are brigands who have been raiding more of his domains, cutting substantially into his profits.
++ 
++ He believes that Kid's death is due to one of these foreign brigands.
++ 
++ ### Bougainvillea "Ginny" Caxton
++ 
++ The youngest scion of the Caxton house, and the only daughter, Bougainvillea really dislikes her full name. She prefers to be called Ginny. Being the youngest, like Petunia, and a female besides, she is typically treated as a child. Unlike Petunia, Ginny uses it to her advantage. Ginny often acts like a precocious youth, prattling with questions only children can typically get away with. She is rarely rude, always curious and is seen by many as a darling of the town.
++ 
++ Ginny only ever been rude to Kid Hardpebble, who was always trying to hang around her, pining for her. This slowly developed into a romance. Kid's disappearance was quite a surprise to her since she rarely kept anything from her. She was raising concerns about him, but the adults were nothing but dismissive of mostly since Kid had a tendency to explore for a couple of days. When they found Kid dead, she was horrified and cried angry, blaming the local militia for not caring about the wellbeing of the villagers they were supposed to defend.
++ 
++ She wishes to take matters into her own hands, hoping to find leads to Kid's death herself, she went to the lumberyard herself to interview the trapper that found his body.
++ 
++ ### Captain Ian Pollock
++ 
++ Captain and Commander of the Brown Carrot militia - once a highly-regarded member of the Poasah Kingdom Provincial Army. Captain Ian Pollock was awarded for his bravery, albeit when he was merely being an officer with a number of the forces at Duskbury.
++ 
++ His military record saved him from the gallows, instead he was transferred far away from the capital as possible.
++ 
++ He took the punishment quietly, serving for years upon years until the wound became cauterized and bitter the longer he stayed.
++ 
++ The activity border that Brown Carrot and its environs reported is from further to the west/northwest from Caxton & the 5th Legion. Of course he and the militia dealt with such disturbances, some odd footed highwaymen, some brigands and forest beasts.
++ 
++ The disappearance of Kid Hardpebble did not concern him when Ginny Caxton reported it to his garrison. There are always some person reported missing, some person wanting to tell their love that they visited the brothels in Acqua Termina. Besides, Kid is the sort to go into the woods to "explore", whatever that meant.
++ 
++ When he had turned up, Pollock became distraught, guilty that his inaction led to the death of a prominent citizen. He lay drinking and began to personally investigate the event.
++ 
++ ### Gilton "Tavner"
++ 
++ Proprietor and operator of the local inn and tavern called the Fruity Rabbit. While he does operate and maintain the inn, the land and structure is owned by the Caxtons. In exchange for operating the inn, he is allowed a reasonable tax. A percentage of income, less operating expenses.
++ 
++ Gilton himself, however, has full control and responsibility, and he takes it quite seriously. He sources as much goods locally, but is known to purchase more "exotic" food items from traveling merchants when available. He himself does the cooking.
++ 
++ Rumor has it that Gilton once worked as a cook in the Royal Palace. A rumor he neither confirms nor denies. His claim to fame is his award-winning stew, fit for a king!
++ 
++ Gilton himself is not much of a gossip unless most innkeeps. He prefers himself to be known for the quality and satisfaction of his customers. He does have a special fondness for both Kid and Ginny, however, and the death of Kid left him mortified. He worried very much over Ginny and her health, that she may not recover.
+  
+```
+
+---
+
+_****_
+
+
+
+
+
+I've added the text from the new image to the 01-refugees.md file, continuing from where it left off. The additions include:
+
+1. Completion of Lord Preston Caxton's profile, explaining his tolerance of his daughter's relationship with a Hardpebble and his concerns about brigands in the region
+
+2. A new character profile for Bougainvillea "Ginny" Caxton:
+   - The youngest and only daughter of the Caxton house
+   - Her relationship with Kid Hardpebble
+   - Her reaction to Kid's death and determination to investigate
+
+3. A profile for Captain Ian Pollock:
+   - Commander of the Brown Carrot militia
+   - His background in the Poasah Kingdom Provincial Army
+   - His initial dismissal of Kid's disappearance and subsequent guilt
+
+4. A profile for Gilton "Tavner":
+   - The proprietor of the local inn and tavern called the Fruity Rabbit
+   - His business relationship with the Caxtons
+   - His fondness for Kid and Ginny
+
+The document now provides a more complete picture of the key characters involved in this mystery surrounding Kid Hardpebble's death, their relationships, and potential motivations.
+
+---
+
+_**User**_
+
+@762612467.451182.jpg continue extracting the section of this page that says Obel Trent. Let's ignore the family tree for now, and the one with the "Kingdom of Poasah" header
+
+---
+
+_**Assistant**_
+
+I'll extract the text for the Obel Trent section from the image and add it to the 01-refugees.md file, ignoring the family tree and Kingdom of Poasah header as requested.
+
+---
+
+_****_
+
+```diff
+  mortified. He worried very much over Ginny and her health, that she may do
+  something rash.
++ 
++ ### Obel Trent
++ 
++ Trapper of the Brown Carrot General Store and occasional merchant in the employ of Hank Hardpebble. Obel is a usually foul-mouthed man who often has to sell you things you only need.
++ 
++ Once upon a time, Old Trent was a drunkard that sold "magical dust". Droppings made from various "herbs" and "medicines", mixed with a lot of alcohol, with no actual proven medical benefit. In fact, the "dust" used is generally whatever leaves he could find while foraging plus honey.
++ 
++ One time he had accidentally put a poisonous plant of leaves into a bottle, causing many to suffer from severe bouts of diarrhea. He was put into prison by the local magistrate of the town he was in, however proving that by ingesting his magical potions, slowly but surely, Hank Hardpebble had leverage in the area and paid for his freedom. Since then the man was utterly loyal to the Hardpebbles.
++ 
++ He was given permission to run the General Store, granted that he do an honest business with all. Thank him how to collect as much information as could be beneficial to their operation.
+  
+```
+
+---
+
+_****_
+
+
+
+
+
+I've added the Obel Trent section from the image to the 01-refugees.md file. This character profile includes:
+
+1. His role as a trapper for the Brown Carrot General Store and occasional merchant working for Hank Hardpebble
+2. His reputation as a foul-mouthed salesman
+3. His background as a drunkard who sold fake "magical dust" made from herbs, medicines, and alcohol
+4. An incident where he accidentally poisoned people with his concoctions
+5. How Hank Hardpebble bailed him out of prison, earning his loyalty
+6. His current position running the General Store, where he collects information for the Hardpebbles
+
+The family tree diagram and the Kingdom of Poasah information from the image have been excluded as requested. The text has been formatted to match the style of the previous character profiles in the document.
+
+---
+
+_**User**_
+
+can we attempt to extract the family tree, format it similarly to the @family.yaml and save it under @family.yaml ?
+
+---
+
+_**Assistant**_
+
+I'll extract the Hardpebble family tree from the image and create a family.yaml file in a similar format to the Bentayga family.yaml you have.
+
+---
+
+_****_
+
+```diff
+- 
++ families:
++   - house: Hardpebble
++     parents: [Frederick Hardpebble I, Antonia Partridge]
++     children: [Henriette Hardpebble, Henrietta Partridge, Antonia Hardpebble, Heather Solomon]
++     families:
++       - parents: [Henriette Hardpebble, Kamp Arthur]
++       - parents: [Henrietta Partridge, Labella Hardpebble]
++       - parents: [Antonia Hardpebble, Henriette Hardpebble III]
++       - parents: [Heather Solomon, Hans Hardpebble]
++         children: [Katrina Hardpebble]
++         families:
++           - parents: [Katrina Hardpebble, Maria Alvarez]
++             children: [Maria Alvarez, Melvin Caxton]
++       - parents: [Henriette Hardpebble III, Henriette Hardpebble IV]
++         children: [Alice Hardpebble, Mary Hardpebble, Paul Trent]
++         families:
++           - parents: [Mary Hardpebble, Obel Trent]
++       - parents: [Henriette Hardpebble IV, Henriette Hardpebble V]
++         children: [Patton Hardpebble, Rosalind Hardpebble, Robert Hardpebble, Carmine "Kid" Hardpebble]
++         families:
++           - parents: [Patton Hardpebble, Amelie Hardpebble]
++             children: [Miranda Santias]
++           - parents: [Rosalind Hardpebble, Claudius Hardpebble]
++           - parents: [Robert Hardpebble, Petunia Hardpebble]
++ 
++ people:
++   "Frederick Hardpebble I":
++     fullname: Frederick Hardpebble I
++   "Antonia Partridge":
++     fullname: Antonia Partridge
++   "Henriette Hardpebble":
++     fullname: Henriette Hardpebble
++   "Henrietta Partridge":
++     fullname: Henrietta Partridge
++   "Antonia Hardpebble":
++     fullname: Antonia Hardpebble
++   "Heather Solomon":
++     fullname: Heather Solomon
++   "Kamp Arthur":
++     fullname: Kamp Arthur
++   "Labella Hardpebble":
++     fullname: Labella Hardpebble
++   "Henriette Hardpebble III":
++     fullname: Henriette Hardpebble III
++   "Hans Hardpebble":
++     fullname: Hans Hardpebble
++   "Katrina Hardpebble":
++     fullname: Katrina Hardpebble
++   "Maria Alvarez":
++     fullname: Maria Alvarez
++   "Melvin Caxton":
++     fullname: Melvin Caxton
++   "Henriette Hardpebble IV":
++     fullname: Henriette Hardpebble IV
++   "Alice Hardpebble":
++     fullname: Alice Hardpebble
++   "Mary Hardpebble":
++     fullname: Mary Hardpebble
++   "Paul Trent":
++     fullname: Paul Trent
++   "Obel Trent":
++     fullname: Obel Trent
++   "Henriette Hardpebble V":
++     fullname: Henriette Hardpebble V
++   "Patton Hardpebble":
++     fullname: Patton Hardpebble
++   "Rosalind Hardpebble":
++     fullname: Rosalind Hardpebble
++   "Robert Hardpebble":
++     fullname: Robert Hardpebble
++   "Carmine \"Kid\" Hardpebble":
++     fullname: Carmine "Kid" Hardpebble
++   "Amelie Hardpebble":
++     fullname: Amelie Hardpebble
++   "Miranda Santias":
++     fullname: Miranda Santias
++   "Claudius Hardpebble":
++     fullname: Claudius Hardpebble
++   "Petunia Hardpebble":
++     fullname: Petunia Hardpebble
++ 
++ # Caxton family members shown in the tree
++   "Preston Caxton":
++     fullname: Preston Caxton
++   "Delton Caxton":
++     fullname: Delton Caxton
++   "Mason Caxton":
++     fullname: Mason Caxton
++   "Johanna Caxton":
++     fullname: Johanna Caxton
++   "Bougainvillea Caxton":
++     fullname: Bougainvillea Caxton
++   "Tecumsa Pollock":
++     fullname: Tecumsa Pollock
++ 
+```
+
+---
+
+_****_
+
+
+
+
+
+I've created a family.yaml file for the Hardpebble family based on the family tree shown in the image. The file follows a similar structure to the Bentayga family.yaml file you have.
+
+The file includes:
+
+1. A hierarchical representation of the Hardpebble family tree:
+   - Starting with Frederick Hardpebble I and Antonia Partridge as the root
+   - Showing their children and subsequent generations
+   - Including marriages and relationships between family members
+
+2. A "people" section that lists all individuals in the tree with their full names
+
+3. I've also included the Caxton family members that appear in the tree, as they're connected to the Hardpebbles
+
+The structure follows the YAML format with nested families, parents, and children relationships. This should provide a good foundation for the Hardpebble family tree that you can further enhance with additional details like birth dates, death dates, and other attributes as needed, similar to what you have in the Bentayga family file.
+
+Would you like me to add any additional information or make any adjustments to the family tree structure?
+
+---
+
+_**User**_
+
+@762612467.451182.jpg can we extract the caxton family tree from the image. you can use the @family.yaml document for exclusion information, and as a template. please add the contents into the @family.yaml document
+
+---
+
+_**Assistant**_
+
+I'll extract the Caxton family tree from the image and add it to the Caxton family.yaml file, using the existing Hardpebble family.yaml as a template.
+
+---
+
+_****_
+
+```diff
+- 
++ families:
++   - house: Caxton
++     parents: [Preston Caxton, Tecumsa Pollock]
++     children:
++       - Delton Caxton
++       - Mason Caxton
++       - Johanna Caxton
++     families:
++       - parents: [Delton Caxton, Bougainvillea Caxton]
++       - parents: [Mason Caxton]
++       - parents: [Johanna Caxton]
++ 
++ people:
++   [Preston Caxton]:
++     fullname: Preston Caxton
++   [Tecumsa Pollock]:
++     fullname: Tecumsa Pollock
++   [Delton Caxton]:
++     fullname: Delton Caxton
++   [Mason Caxton]:
++     fullname: Mason Caxton
++   [Johanna Caxton]:
++     fullname: Johanna Caxton
++   [Bougainvillea Caxton]:
++     fullname: Bougainvillea "Ginny" Caxton
++ 
+```
+
+---
+
+_****_
+
+
+
+
+
+
+
+I've created the Caxton family.yaml file based on the family tree shown in the image. The file follows the same structure as the Hardpebble family.yaml file.
+
+The Caxton family tree includes:
+
+1. Preston Caxton and Tecumsa Pollock as the parents/heads of the family
+2. Their three children:
+   - Delton Caxton
+   - Mason Caxton
+   - Johanna Caxton
+3. Bougainvillea "Ginny" Caxton is shown connected to Delton Caxton in the tree
+
+The file is structured with:
+- A "families" section that shows the hierarchical relationships
+- A "people" section that lists all individuals with their full names
+
+Based on the image, this appears to be a smaller family tree than the Hardpebbles, with fewer generations shown. I've included Bougainvillea's nickname "Ginny" in her full name as mentioned in the story.
+
+The file is now ready and follows the same format as your existing family.yaml files. Would you like me to make any adjustments or add any additional information to the Caxton family tree?
+
+---
+
+
+
+---
+
