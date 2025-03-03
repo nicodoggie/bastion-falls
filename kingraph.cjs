@@ -6,19 +6,19 @@ const { writeFileSync } = require("fs");
 
 // Empty Script so we don't actually run anything.
 nodemon({
-  script: "empty.sh",
-  ext: "yaml",
-  watch: ["content/**/family.yaml"],
+  script: 'empty.js',
+  ext: 'yaml',
+  watch: ['site/content/**/family.yaml'],
 })
-  .on("start", () => {
-    console.log("Starting");
+  .on('start', () => {
+    console.log('Starting');
   })
-  .on("restart", (files) => {
+  .on('restart', files => {
     for (const file of files) {
       console.log(`Processing ${file}.`);
       const output = execSync(`pnpm kingraph ${file} -F svg`);
-      writeFileSync(file.replace(/\.ya?ml/, ".svg"), output.toString("utf-8"), {
-        encoding: "utf-8",
+      writeFileSync(file.replace(/\.ya?ml/, '.svg'), output.toString('utf-8'), {
+        encoding: 'utf-8',
       });
       console.log(`Done.`);
     }

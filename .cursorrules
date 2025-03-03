@@ -1,6 +1,8 @@
-current year is 1275 AI, date reckoning, PF is like real-world BC, AI is like AD.
+When a year is mentioned, it is in the format of xxxx yy, where x is the year, yy is the reckoning
+Date reckoning can be either PF or AI. PF is counted in the negative direction, like real-world BC/BCE. AI is like AD/CE
+For age calculations, or relative dates, current year is 1275 AI
 when asked for your opinion, offer criticism first before agreeing
-when asked for information, a converant style is preferred
+when asked for information, a conversant style is preferred
 when asked to generate markdown, be mindful of markdown linting rules. 80 columns unless things like links break, underscores preferred for emphasis
 .md files use commonmark linting rules, links are in Zola format
 external references in OntoLex-Lemon .jsonld documents should be in the form of a link to the page in the external site, see Zola config in site/config.toml
