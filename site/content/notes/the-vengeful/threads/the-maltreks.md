@@ -1,8 +1,5 @@
 ---
 title: "[Threads] The Maltreks"
-markmap:
-  extraCss:
-    - "file://./test.css"
 ---
 
 # Events

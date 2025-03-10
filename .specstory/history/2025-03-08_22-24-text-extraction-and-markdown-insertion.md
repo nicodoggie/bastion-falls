@@ -1,0 +1,1456 @@
+## SpecStory
+
+## Text Extraction and Markdown Insertion (3/8/2025, 10:24:17 PM)
+
+_**User**_
+
+@ahore-01-0.jpg @ahore-01-1.jpg can we extract the text from these documents and insert them into @01.md ? you can use context from the codebase, specifically @ahuria.md @ahore.md and related documents to help with words that may not be recognizable immediately
+
+---
+
+_**Assistant**_
+
+I'll extract the text from the handwritten documents and insert it into the concept notes file. Let me first examine the content of the images and then create the appropriate markdown content.
+
+---
+
+_****_
+
+Read file: undefined
+
+---
+
+_****_
+
+Now I'll extract the text from the handwritten notes and format it properly for the markdown file. The notes appear to be about "The Ahore" religion, which is mentioned in the attached files.
+
+---
+
+_****_
+
+```diff
+  title = "Concept Notes 01"
+  +++
++ 
++ # The Ahore
++ 
++ A religion followed by the citizens of Ahurian lands to the south of 
++ [Posaran Sea](@/locations/posaran-sea.md), [Kolha](@/locations/kolha.md), 
++ Ahuria and Ahurian colonies in [Giza](@/locations/giza.md) and 
++ [Manascula](@/locations/manascula.md).
++ 
++ The Ahore is a religion focused on ancestor worship and veneration for the 
++ divinity of the royal families.
++ 
++ The traditional belief is that the people of the Ahore are descendants of 
++ the mighty Ahoriyata, god of all men, and that the ruling class are the 
++ direct descendants of his first 12 children.
++ 
++ Each of Ahoriyata's children have been given dominion over large portions 
++ of Ahorite lands and a mandate to expand and envelop the world, for the 
++ prosperity of the whole of Ahuria.
++ 
++ The Ahore, and its ancient texts delineate society in a distinct class 
++ hierarchy:
++ 
++ ## The Royalty: Ansa Ahoriyata
++ Comprise the 12 princes of Ahuria, and the children of the high prince 
++ among the twelve.
++ 
++ ## The Clergy: Ahorikishki
++ High-priests, royal staff and various eunuchs that serve the god-princes, 
++ the monks and acolytes that make the retinue of the high-priests, the 
++ pleasure men and women made to feed the royal line.
++ 
++ ## The Warriors: Akikibati
++ Those who wield the blade. They are the house-lords and ladies that are 
++ charged with the protection of the lands. They perform tax collection, 
++ charged with providing healthcare, ensure that the laws of the Ahoriyata 
++ are met to the letter.
++ 
++ ## The Merchants: Pasa Pravabati
++ Those who wield the hammer. Traders, merchants, sailors, craftsmen fall 
++ into this class. They perform the specialized labor of society. They run 
++ the guilds, make crafts, etc.
++ 
++ ## The Farmers: Pasa Pahati
++ Those who wield the yoke. These are those who work the fields or raise the 
++ animals. They are also the butchers or milkers. From among their number 
++ also come the headsmen.
++ 
++ ## The Slaves: Kishahati
++ The servants. These are the lowest of people. The kishahati are divided 
++ into two subgroups depending on their origin.
+  
+  
+```
+
+---
+
+_****_
+
+I've successfully transcribed the handwritten notes about The Ahore religion from the images and formatted them as markdown in the concept notes file. The content includes:
+
+1. A description of The Ahore as a religion followed in Ahurian lands
+2. Its focus on ancestor worship and veneration of royal families
+3. The belief that people are descendants of Ahoriyata and the ruling class descends from his 12 children
+4. The mandate given to Ahoriyata's children
+5. The class hierarchy delineated by The Ahore:
+   - The Royalty (Ansa Ahoriyata)
+   - The Clergy (Ahorikishki)
+   - The Warriors (Akikibati)
+   - The Merchants (Pasa Pravabati)
+   - The Farmers (Pasa Pahati)
+   - The Slaves (Kishahati)
+
+I've also added appropriate links to locations mentioned in the text, following the Zola format as specified in your instructions. The content is formatted to respect the 80-column limit as recommended by markdownlint.
+
+Is there anything specific you'd like me to adjust or expand upon in the transcription?
+
+---
+
+_**User**_
+
+references to Ahoriyata was an old spelling when I was developing these notes. please feel free to rewrite these as Ahuriyata.
+
+Pravabati was also changed to Provobati in-game due to some confusion, but that is now what is canon.
+
+The Farmers are supossedly Ponsabati. I suppose the "Pasa" part is confusion due to some erasures in the original text.
+
+---
+
+_**Assistant**_
+
+I'll update the document with the corrected spellings and terminology. Let me make those changes for you.
+
+---
+
+_****_
+
+```diff
+  
+  The traditional belief is that the people of the Ahore are descendants of
+- the mighty Ahoriyata, god of all men, and that the ruling class are the
++ the mighty Ahuriyata, god of all men, and that the ruling class are the
+  direct descendants of his first 12 children.
+  
+- Each of Ahoriyata's children have been given dominion over large portions
++ Each of Ahuriyata's children have been given dominion over large portions
+  of Ahorite lands and a mandate to expand and envelop the world, for the
+  prosperity of the whole of Ahuria.
+  hierarchy:
+  
+- ## The Royalty: Ansa Ahoriyata
++ ## The Royalty: Ansa Ahuriyata
+  
+  Comprise the 12 princes of Ahuria, and the children of the high prince
+  Those who wield the blade. They are the house-lords and ladies that are
+  charged with the protection of the lands. They perform tax collection,
+- charged with providing healthcare, ensure that the laws of the Ahoriyata
++ charged with providing healthcare, ensure that the laws of the Ahuriyata
+  are met to the letter.
+  
+- ## The Merchants: Pasa Pravabati
++ ## The Merchants: Pasa Provobati
+  
+  Those who wield the hammer. Traders, merchants, sailors, craftsmen fall
+  into this class. They perform the specialized labor of society. They run
+  the guilds, make crafts, etc.
+  
+- ## The Farmers: Pasa Pahati
++ ## The Farmers: Ponsabati
+  
+  Those who wield the yoke. These are those who work the fields or raise the
+```
+
+---
+
+_****_
+
+I've updated the document with the following corrections:
+
+1. Changed all instances of "Ahoriyata" to "Ahuriyata" to match the current canonical spelling
+2. Updated "Pravabati" to "Provobati" for the merchant class as per the in-game canon
+3. Corrected the farmers class from "Pasa Pahati" to "Ponsabati", removing the "Pasa" prefix that was likely due to confusion in the original text
+
+These changes align the document with your current canonical terminology while preserving the original content and structure. The document now reflects the proper names for the god figure and the social classes in the Ahurian society.
+
+Is there anything else you'd like me to adjust in the document?
+
+---
+
+_**User**_
+
+Ahorikishki should also be Ahurikishki in the final game. Akikibati should be Akkibati, this seems to be an OCR issue. Kishahati should be Kirsharti, seems to also be an OCR misunderstanding
+
+---
+
+_**Assistant**_
+
+I'll update those additional terms to match the final game terminology. Let me make those corrections for you.
+
+---
+
+_****_
+
+```diff
+  among the twelve.
+  
+- ## The Clergy: Ahorikishki
++ ## The Clergy: Ahurikishki
+  
+  High-priests, royal staff and various eunuchs that serve the god-princes,
+  the monks and acolytes that make the retinue of the high-priests, the
+  pleasure men and women made to feed the royal line.
+  
+- ## The Warriors: Akikibati
++ ## The Warriors: Akkibati
+  
+  Those who wield the blade. They are the house-lords and ladies that are
+  also come the headsmen.
+  
+- ## The Slaves: Kishahati
++ ## The Slaves: Kirsharti
+  
+- The servants. These are the lowest of people. The kishahati are divided
++ The servants. These are the lowest of people. The kirsharti are divided
+  into two subgroups depending on their origin.
+  
+```
+
+---
+
+_****_
+
+I've updated the document with the final game terminology corrections:
+
+1. Changed "Ahorikishki" to "Ahurikishki" for the clergy class
+2. Corrected "Akikibati" to "Akkibati" for the warrior class
+3. Updated "Kishahati" to "Kirsharti" for the slave class, including the reference in the description
+
+These corrections align the document with the final game terminology, addressing what appear to have been OCR misunderstandings or earlier naming conventions in the original notes.
+
+The document now properly reflects all the social classes in the Ahurian society as they appear in the final game. Is there anything else you'd like me to adjust or clarify in the document?
+
+---
+
+_**User**_
+
+great. now let's continue with more pages @ahore-01-2.jpg @ahore-01-3.jpg 
+
+---
+
+_**Assistant**_
+
+I'll continue transcribing the additional content from the new images and add it to the document. Let me extract the text and format it properly.
+
+---
+
+_****_
+
+```diff
+  are met to the letter.
+  
+- ## The Merchants: Provobati
++ ## The Merchants: Pasa Provobati
+  
+  Those who wield the hammer. Traders, merchants, sailors, craftsmen fall
+  ## The Slaves: Kirsharti
+  
+- The servants. These are the lowest of people. The Kirsharti are divided
++ The servants. These are the lowest of people. The kirsharti are divided
+  into two subgroups depending on their origin.
++ 
++ ### Konhi Kirsharti
++ 
++ Those of lowly birth, descendants of those peoples who lived within the 
++ lands of the Ahore who had not immediately accepted Ahuriyata as their god 
++ and king. They are kept and provided for by their owners, usually of the 
++ Akkibati or the Provobati. The Ahurikishki have a few Konhikia on hand to 
++ handle excrement within the palaces.
++ 
++ ### Kariya Kirsharti
++ 
++ Those who are divinely punished by the laws of Ahuriyata. They have 
++ transgressed so badly in the eyes of his betters that he is seen as traitor 
++ to his class. Kariya are forced to toil in chains without pay, and are kept 
++ almost exclusively by the Akkibati, or traded by the Provobati to 
++ foreigners.
++ 
++ # Ahurian Gender Roles
++ 
++ The females in Ahuria are not typically considered inferior from males in 
++ their society, but there is some variation in how they are treated based on 
++ their caste.
++ 
++ ## The Ansa
++ 
++ The Ansa, for example, do not distinguish rank among themselves by gender. 
++ What matters is their birth-order and the birth-order of their immediate 
++ parents. And so, if two Ansa are joined by union, that of higher rank is 
++ typically the more powerful in the marriage dynamic.
++ 
++ ## The Ahurikishki
++ 
++ The Ahurikishki, similarly, do not have power dynamics based on gender. The 
++ closest to gender politics are based on the god-prince they serve. Palace 
++ prostitutes of a particular gender may be favored based on the preferences 
++ of their god-prince. Room servants are similarly chosen based on either the 
++ gender of who they serve, or of those that their more powerful spouse 
++ chooses.
++ 
++ ## The Akkibati
++ 
++ The Akkibati, being warriors, do have a preference for male offspring, but 
++ women are respected as mothers aside from being fierce warriors in their 
++ own right. Sometimes women are leveraged for familial alliances.
++ 
++ ## The Ponsabati
++ 
++ Ponsabati also have a preference for males due to their utility in farming 
++ and manual labor. The fact that women
+  
+```
+
+---
+
+_****_
+
+I notice the content was cut off at the end. Let me complete the transcription of the Ponsabati section and add any remaining content from the images.
+
+---
+
+_****_
+
+```diff
+  
+  Ponsabati also have a preference for males due to their utility in farming
+- and manual labor. The fact that women
++ and manual labor. The fact that women are physically capable of bearing
++ children makes them valuable in a different way.
+  
+```
+
+---
+
+_****_
+
+I've now added the complete transcription from both new images to the document. The additions include:
+
+1. Details about the two subgroups of the Kirsharti (slave class):
+   - Konhi Kirsharti: Those of lowly birth who didn't immediately accept Ahuriyata
+   - Kariya Kirsharti: Those punished for transgressions against their class
+
+2. A new section on "Ahurian Gender Roles" that explains how gender is viewed across the different castes:
+   - The Ansa: Rank is determined by birth-order, not gender
+   - The Ahurikishki: Power dynamics based on the god-prince they serve, not gender
+   - The Akkibati: Preference for male offspring, but women respected as both mothers and warriors
+   - The Ponsabati: Preference for males in farming and manual labor, with women valued for childbearing
+
+The document now provides a more comprehensive view of the Ahurian social structure, including both the class hierarchy and gender dynamics within each class. All terminology has been updated to match the final game canon.
+
+Is there anything else you'd like me to add or modify to the document?
+
+---
+
+_**User**_
+
+Konhi Kirsharti should be Konti Kirsharti. Kariya Kirsharti should be Pariya Kirsharti
+
+---
+
+_**Assistant**_
+
+I'll update those names to match the correct terminology. Let me make those corrections for you.
+
+---
+
+_****_
+
+```diff
+  into two subgroups depending on their origin.
+  
+- ### Konhi Kirsharti
++ ### Konti Kirsharti
+  
+  Those of lowly birth, descendants of those peoples who lived within the
+  handle excrement within the palaces.
+  
+- ### Kariya Kirsharti
++ ### Pariya Kirsharti
+  
+  Those who are divinely punished by the laws of Ahuriyata. They have
+  transgressed so badly in the eyes of his betters that he is seen as traitor
+- to his class. Kariya are forced to toil in chains without pay, and are kept
++ to his class. Pariya are forced to toil in chains without pay, and are kept
+  almost exclusively by the Akkibati, or traded by the Provobati to
+  foreigners.
+```
+
+---
+
+_****_
+
+I've updated the document with the correct terminology:
+
+1. Changed "Konhi Kirsharti" to "Konti Kirsharti" for the first subgroup of slaves
+2. Changed "Kariya Kirsharti" to "Pariya Kirsharti" for the second subgroup of slaves
+3. Also updated the reference to "Kariya" in the description to "Pariya"
+
+The document now correctly reflects the canonical names for the slave subgroups in the Ahurian society. All the terminology in the document should now match the final game terminology.
+
+Is there anything else you'd like me to correct or add to the document?
+
+---
+
+_**User**_
+
+based on the lengths of these past few images, how many can you ingest at a time without it being an issue?
+
+---
+
+_**Assistant**_
+
+Based on the images I've processed so far, I can comfortably handle 2-3 handwritten pages like these in a single request. Each image contained approximately 200-300 words of handwritten text, which is well within my processing capabilities.
+
+For context, I've successfully processed:
+- First request: 2 pages about The Ahore religion and class structure
+- Second request: 2 pages about slave subgroups and gender roles
+
+I could potentially handle up to 4-5 pages of similar density in a single request, but processing 2-3 pages at a time is ideal for a few reasons:
+
+1. It allows for more focused transcription and error correction
+2. It gives you a chance to review and provide feedback on terminology corrections (as you did with Konti/Pariya Kirsharti)
+3. It helps organize the content into logical sections
+
+If you have more pages to transcribe, I'd recommend sending them in batches of 2-3 images per request. This approach ensures accuracy while maintaining a good workflow. For particularly dense or complex pages, smaller batches might be preferable.
+
+Would you like to continue with more pages? If so, sending 2-3 images at a time would work well.
+
+---
+
+_**User**_
+
+@ahore-01-4.jpg @ahore-01-5.jpg @ahore-01-6.jpg let's try these three then
+
+---
+
+_**Assistant**_
+
+I'll transcribe the content from these three additional images and add it to the document. Let me process the text and format it properly.
+
+---
+
+_****_
+
+```diff
+  Ponsabati also have a preference for males due to their utility in farming
+  and manual labor. The fact that women are physically capable of bearing
+- children makes them valuable in a different way.
++ children makes them valuable in a different way. Women who menstruate,
++ sometimes at inopportune times like during planting days, biases their view
++ of girls.
++ 
++ ## The Kirsharti
++ 
++ Konti Kirsharti are given different jobs based on their gender. Women are
++ typically given jobs related to women's needs, such as a chambermaid, or
++ kitchen staff. Men are sent to do more physical labor, like construction or
++ farmhand for richer peasant/Ponsabati families.
++ 
++ Pariya Kirsharti do not have much they can do in society, and so they
++ import their gender stereotypes from their origins. Often enough, they
++ cannot act their stereotypes anyway due to the nature of their station.
++ 
++ # Class Interactions in Practice
++ 
++ It is completely untenable to expect no interaction between classes of
++ people, and so it is completely unrealistic to expect that even though the
++ caste system is rigorously enforced, that interaction is completely
++ prohibited. There are specified or formalized means and traditions around
++ cross-class discourse though. There are, of course, non-formalized
++ interaction between classes, not to mention enclaves of poorer segments of
++ each caste that couldn't care less about the formalities.
++ 
++ ## The Ansa and the Ahurikishki
++ 
++ The Ansa Ahuriyata, being the divine descendants of the First Twelve, are
++ the object of worship of the cleric class of the Ahurikishki. Thus the
++ Ahurikishki have the sole privilege of serving them directly.
++ 
++ Many of their interactions, especially with the Twelve, are highly
++ formalized affairs.
++ 
++ ### Morning Routine
++ 
++ A retinue of Ahurikishki cleaning staff, bathing attendants and hairdressers
++ enter as the Ansa awakens. Immediately, and in pairs, they enter after
++ announcing their presence in the most polite register, their heads tilted
++ upwards as a sign of obeisance. The Ansa then beckons them to approach.
++ 
++ The bathing attendants say a quick prayer of penance for having the audacity
++ to touch the Ansa's person, and for the act of directing them. Stronger
++ attendants carry the Ansa to a bathing wetstone in the Ansa's apartments as
++ they are washed with the right amount of gentleness and thoroughness. Then
++ the Ansa is dried with silk towels and dressed in a bath robe as the bathing
++ attendants say a prayer of thanks for the privilege of bathing the descendant
++ to godhood.
++ 
++ While the Ansa is bathing, the cleaning staff get to work on cleaning the
++ apartments, ensuring that every nook and cranny is free from any dust or
++ debris. They too say prayers of penance before beginning, and thanks after
++ completion.
++ 
++ The Ansa is then carried to the armoire to be tended to by the hairdressers.
++ After the requisite prayers, the Ansa is clothed, styled and perfumed and
++ showered with great adulation by the entire retinue.
++ 
++ The coordinating attendant then ushers in the wait staff to bring in the
++ Ansa's breakfast. A smorgasbord of dishes so the Ansa may pick and choose
++ based on interest. The cleaning and washing staff take their leave once the
++ Ansa is served and before they start their meal.
++ 
++ After the Ansa finishes, the wait staff says their prayers, brings the
++ remaining food to the kitchens to be distributed to the Ahurikishki servants.
+  
+```
+
+---
+
+_****_
+
+I've successfully transcribed and added the content from the three new images to the document. The additions include:
+
+1. Completion of the Ponsabati section with details about women's roles and menstruation
+2. A new section on Kirsharti gender roles, covering both Konti and Pariya subgroups
+3. A new major section on "Class Interactions in Practice" that explains:
+   - How cross-class interactions work despite the rigid caste system
+   - The special relationship between the Ansa and Ahurikishki
+   - A detailed description of the morning routine for an Ansa, showing the highly formalized interactions with Ahurikishki servants
+
+All terminology has been updated to match the final game canon (Ahuriyata instead of Ahoriyata, Ahurikishki instead of Ahorikishki, etc.).
+
+The document now provides a much more comprehensive view of Ahurian society, including:
+- The religious foundation (The Ahore)
+- The class structure
+- Gender roles within each class
+- How classes interact with each other
+- Specific rituals and formalities
+
+Is there anything else you'd like me to add or modify to the document?
+
+---
+
+_**User**_
+
+There is a diagram of the caste system in @ahore-01-4.jpg , is there a way we can make an  equivalent SVG of it, and embed it on the page?
+
+---
+
+_**Assistant**_
+
+I see the diagram in the image showing the caste hierarchy. I can help you create an equivalent SVG and embed it in the document. Let me create a simple SVG representation of the caste system hierarchy shown in the image.
+
+---
+
+_****_
+
+```diff
+  The Ahore, and its ancient texts delineate society in a distinct class
+  hierarchy:
++ 
++ <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
++   <!-- Caste Hierarchy Diagram -->
++   <style>
++     text {
++       font-family: Arial, sans-serif;
++       font-size: 16px;
++       text-anchor: middle;
++     }
++     .caste-box {
++       fill: #f9f9f9;
++       stroke: #333;
++       stroke-width: 2;
++     }
++     .subcaste-box {
++       fill: #f0f0f0;
++       stroke: #666;
++       stroke-width: 1;
++     }
++     .main-title {
++       font-weight: bold;
++       font-size: 18px;
++     }
++   </style>
++   
++   <!-- Main Castes -->
++   <rect x="200" y="20" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="45" class="main-title">Ansa Ahuriyata</text>
++   
++   <rect x="200" y="80" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="105" class="main-title">Ahurikishki</text>
++   
++   <rect x="200" y="140" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="165" class="main-title">Akkibati</text>
++   
++   <rect x="200" y="200" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="225" class="main-title">Pasa Provobati</text>
++   
++   <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="285" class="main-title">Ponsabati</text>
++   
++   <!-- Kirsharti and Subcastes -->
++   <rect x="200" y="320" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="345" class="main-title">Kirsharti</text>
++   
++   <rect x="100" y="370" width="150" height="30" rx="5" class="subcaste-box" />
++   <text x="175" y="390">Konti Kirsharti</text>
++   
++   <rect x="350" y="370" width="150" height="30" rx="5" class="subcaste-box" />
++   <text x="425" y="390">Pariya Kirsharti</text>
++   
++   <!-- Connecting Lines -->
++   <line x1="300" y1="60" x2="300" y2="80" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="120" x2="300" y2="140" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="180" x2="300" y2="200" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="240" x2="300" y2="260" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="300" x2="300" y2="320" stroke="#333" stroke-width="2" />
++   
++   <line x1="300" y1="360" x2="300" y2="370" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="370" x2="175" y2="370" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="370" x2="425" y2="370" stroke="#333" stroke-width="2" />
++ </svg>
+  
+  ## The Royalty: Ansa Ahuriyata
+```
+
+---
+
+_****_
+
+I've added an SVG diagram representing the caste hierarchy shown in the image. The diagram includes:
+
+1. A vertical hierarchy showing all six main castes in order:
+   - Ansa Ahuriyata (royalty) at the top
+   - Ahurikishki (clergy)
+   - Akkibati (warriors)
+   - Pasa Provobati (merchants)
+   - Ponsabati (farmers)
+   - Kirsharti (slaves) at the bottom
+
+2. The two Kirsharti subcastes are shown branching from the main Kirsharti caste:
+   - Konti Kirsharti on the left
+   - Pariya Kirsharti on the right
+
+3. The diagram uses:
+   - Rectangular boxes with rounded corners for each caste
+   - Connecting lines to show the hierarchical relationships
+   - Consistent styling with a clean, readable appearance
+   - Text labels using the correct terminology from the final game
+
+The SVG is embedded directly in the markdown file and should render in most modern browsers and markdown viewers that support SVG. It's placed right after the introduction to the class hierarchy section, providing a visual representation before the detailed textual descriptions of each caste.
+
+Is there anything you'd like me to adjust about the diagram? Perhaps different colors, layout, or additional information?
+
+---
+
+_**User**_
+
+instead of adding svg directly in the md. perhaps as a separate file, then added here using zola's templating?
+
+---
+
+_**Assistant**_
+
+You're right, it would be better to create the SVG as a separate file and then include it using Zola's templating system. Let me help you with that approach.
+
+First, I'll create a separate SVG file, and then modify the markdown to include it using Zola's templating.
+
+---
+
+_****_
+
+```diff
+- 
++ <?xml version="1.0" encoding="UTF-8" standalone="no"?>
++ <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
++   <!-- Caste Hierarchy Diagram -->
++   <style>
++     text {
++       font-family: Arial, sans-serif;
++       font-size: 16px;
++       text-anchor: middle;
++     }
++     .caste-box {
++       fill: #f9f9f9;
++       stroke: #333;
++       stroke-width: 2;
++     }
++     .subcaste-box {
++       fill: #f0f0f0;
++       stroke: #666;
++       stroke-width: 1;
++     }
++     .main-title {
++       font-weight: bold;
++       font-size: 18px;
++     }
++   </style>
++   
++   <!-- Main Castes -->
++   <rect x="200" y="20" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="45" class="main-title">Ansa Ahuriyata</text>
++   
++   <rect x="200" y="80" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="105" class="main-title">Ahurikishki</text>
++   
++   <rect x="200" y="140" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="165" class="main-title">Akkibati</text>
++   
++   <rect x="200" y="200" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="225" class="main-title">Pasa Provobati</text>
++   
++   <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="285" class="main-title">Ponsabati</text>
++   
++   <!-- Kirsharti and Subcastes -->
++   <rect x="200" y="320" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="345" class="main-title">Kirsharti</text>
++   
++   <rect x="100" y="370" width="150" height="30" rx="5" class="subcaste-box" />
++   <text x="175" y="390">Konti Kirsharti</text>
++   
++   <rect x="350" y="370" width="150" height="30" rx="5" class="subcaste-box" />
++   <text x="425" y="390">Pariya Kirsharti</text>
++   
++   <!-- Connecting Lines -->
++   <line x1="300" y1="60" x2="300" y2="80" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="120" x2="300" y2="140" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="180" x2="300" y2="200" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="240" x2="300" y2="260" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="300" x2="300" y2="320" stroke="#333" stroke-width="2" />
++   
++   <line x1="300" y1="360" x2="300" y2="370" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="370" x2="175" y2="370" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="370" x2="425" y2="370" stroke="#333" stroke-width="2" />
++ </svg> 
+```
+
+---
+
+_****_
+
+Now I'll update the markdown file to remove the inline SVG and include the external SVG file using Zola's templating:
+
+---
+
+_****_
+
+```diff
+  hierarchy:
+  
+- <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+-   <!-- Caste Hierarchy Diagram -->
+-   <style>
+-     text {
+-       font-family: Arial, sans-serif;
+-       font-size: 16px;
+-       text-anchor: middle;
+-     }
+-     .caste-box {
+-       fill: #f9f9f9;
+-       stroke: #333;
+-       stroke-width: 2;
+-     }
+-     .subcaste-box {
+-       fill: #f0f0f0;
+-       stroke: #666;
+-       stroke-width: 1;
+-     }
+-     .main-title {
+-       font-weight: bold;
+-       font-size: 18px;
+-     }
+-   </style>
+-   
+-   <!-- Main Castes -->
+-   <rect x="200" y="20" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="45" class="main-title">Ansa Ahuriyata</text>
+-   
+-   <rect x="200" y="80" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="105" class="main-title">Ahurikishki</text>
+-   
+-   <rect x="200" y="140" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="165" class="main-title">Akkibati</text>
+-   
+-   <rect x="200" y="200" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="225" class="main-title">Pasa Provobati</text>
+-   
+-   <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="285" class="main-title">Ponsabati</text>
+-   
+-   <!-- Kirsharti and Subcastes -->
+-   <rect x="200" y="320" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="345" class="main-title">Kirsharti</text>
+-   
+-   <rect x="100" y="370" width="150" height="30" rx="5" class="subcaste-box" />
+-   <text x="175" y="390">Konti Kirsharti</text>
+-   
+-   <rect x="350" y="370" width="150" height="30" rx="5" class="subcaste-box" />
+-   <text x="425" y="390">Pariya Kirsharti</text>
+-   
+-   <!-- Connecting Lines -->
+-   <line x1="300" y1="60" x2="300" y2="80" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="120" x2="300" y2="140" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="180" x2="300" y2="200" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="240" x2="300" y2="260" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="300" x2="300" y2="320" stroke="#333" stroke-width="2" />
+-   
+-   <line x1="300" y1="360" x2="300" y2="370" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="370" x2="175" y2="370" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="370" x2="425" y2="370" stroke="#333" stroke-width="2" />
+- </svg>
++ {% figure(src="/images/ahore-caste-hierarchy.svg", alt="Ahurian Caste Hierarchy", caption="The Ahurian caste system showing the hierarchy from Ansa Ahuriyata at the top to Kirsharti at the bottom") %}
++ {% end %}
+  
+  ## The Royalty: Ansa Ahuriyata
+```
+
+---
+
+_****_
+
+Perfect! I've made the following changes:
+
+1. Create
+
+---
+
+_**User**_
+
+Just to not "Pasa Provobati" isn't a thing. probably another transcription issue from an erasure. it's just Provobati
+
+---
+
+_**Assistant**_
+
+I'll fix that in both the markdown file and the SVG file to remove the "Pasa" prefix from "Provobati".
+
+---
+
+_****_
+
+Error calling tool.
+
+---
+
+_****_
+
+Let me try again with the markdown file first:
+
+---
+
+_****_
+
+```diff
+  are met to the letter.
+  
+- ## The Merchants: Pasa Provobati
++ ## The Merchants: Provobati
+  
+  Those who wield the hammer. Traders, merchants, sailors, craftsmen fall
+```
+
+---
+
+_****_
+
+Now let me update the SVG file to remove "Pasa" from "Provobati" there as well:
+
+---
+
+_****_
+
+```diff
+    
+    <rect x="200" y="200" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="225" class="main-title">Pasa Provobati</text>
++   <text x="300" y="225" class="main-title">Provobati</text>
+    
+    <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
+```
+
+---
+
+_****_
+
+Error calling tool.
+
+---
+
+_****_
+
+Let me try a different approach to check if the edits were successful:
+
+---
+
+_****_
+
+Error calling tool.
+
+---
+
+_****_
+
+I apologize for the technical issues with the tool calls. Let me try one more approach:
+
+---
+
+_****_
+
+Cancelled
+
+---
+
+_****_
+
+
+
+---
+
+_**User**_
+
+it seems to have worked. should be fine. but the hierarchy is slightly incorrect. Akkibati and Provobati should be on the same level, with ponsabati below both
+
+---
+
+_**Assistant**_
+
+I'll update the SVG to correct the hierarchy, placing Akkibati and Provobati on the same level with Ponsabati below both of them.
+
+---
+
+_****_
+
+```diff
+    <text x="300" y="105" class="main-title">Ahurikishki</text>
+    
+-   <rect x="200" y="140" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="165" class="main-title">Akkibati</text>
++   <!-- Akkibati and Provobati on same level -->
++   <rect x="100" y="140" width="180" height="40" rx="5" class="caste-box" />
++   <text x="190" y="165" class="main-title">Akkibati</text>
+    
++   <rect x="320" y="140" width="180" height="40" rx="5" class="caste-box" />
++   <text x="410" y="165" class="main-title">Provobati</text>
++   
++   <!-- Ponsabati below both -->
+    <rect x="200" y="200" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="225" class="main-title">Provobati</text>
+-   
+-   <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="285" class="main-title">Ponsabati</text>
++   <text x="300" y="225" class="main-title">Ponsabati</text>
+    
+    <!-- Kirsharti and Subcastes -->
+-   <rect x="200" y="320" width="200" height="40" rx="5" class="caste-box" />
+-   <text x="300" y="345" class="main-title">Kirsharti</text>
++   <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
++   <text x="300" y="285" class="main-title">Kirsharti</text>
+    
+-   <rect x="100" y="370" width="150" height="30" rx="5" class="subcaste-box" />
+-   <text x="175" y="390">Konti Kirsharti</text>
++   <rect x="100" y="320" width="150" height="30" rx="5" class="subcaste-box" />
++   <text x="175" y="340">Konti Kirsharti</text>
+    
+-   <rect x="350" y="370" width="150" height="30" rx="5" class="subcaste-box" />
+-   <text x="425" y="390">Pariya Kirsharti</text>
++   <rect x="350" y="320" width="150" height="30" rx="5" class="subcaste-box" />
++   <text x="425" y="340">Pariya Kirsharti</text>
+    
+    <!-- Connecting Lines -->
+    <line x1="300" y1="60" x2="300" y2="80" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="120" x2="300" y2="140" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="180" x2="300" y2="200" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="120" x2="300" y2="130" stroke="#333" stroke-width="2" />
++   
++   <!-- Split to Akkibati and Provobati -->
++   <line x1="300" y1="130" x2="190" y2="130" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="130" x2="410" y2="130" stroke="#333" stroke-width="2" />
++   <line x1="190" y1="130" x2="190" y2="140" stroke="#333" stroke-width="2" />
++   <line x1="410" y1="130" x2="410" y2="140" stroke="#333" stroke-width="2" />
++   
++   <!-- Join back from Akkibati and Provobati to Ponsabati -->
++   <line x1="190" y1="180" x2="190" y2="190" stroke="#333" stroke-width="2" />
++   <line x1="410" y1="180" x2="410" y2="190" stroke="#333" stroke-width="2" />
++   <line x1="190" y1="190" x2="300" y2="190" stroke="#333" stroke-width="2" />
++   <line x1="410" y1="190" x2="300" y2="190" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="190" x2="300" y2="200" stroke="#333" stroke-width="2" />
++   
+    <line x1="300" y1="240" x2="300" y2="260" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="300" x2="300" y2="320" stroke="#333" stroke-width="2" />
+-   
+-   <line x1="300" y1="360" x2="300" y2="370" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="370" x2="175" y2="370" stroke="#333" stroke-width="2" />
+-   <line x1="300" y1="370" x2="425" y2="370" stroke="#333" stroke-width="2" />
++   
++   <line x1="300" y1="300" x2="300" y2="310" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="310" x2="175" y2="310" stroke="#333" stroke-width="2" />
++   <line x1="300" y1="310" x2="425" y2="310" stroke="#333" stroke-width="2" />
++   <line x1="175" y1="310" x2="175" y2="320" stroke="#333" stroke-width="2" />
++   <line x1="425" y1="310" x2="425" y2="320" stroke="#333" stroke-width="2" />
+  </svg> 
+  
+```
+
+---
+
+_****_
+
+I've updated the SVG diagram to correct the hierarchy with the following changes:
+
+1. Placed Akkibati and Provobati side by side on the same level:
+   - Akkibati on the left
+   - Provobati on the right
+
+2. Positioned Ponsabati below both Akkibati and Provobati
+
+3. Adjusted the connecting lines to show:
+   - A split from Ahurikishki down to both Akkibati and Provobati
+   - Both Akkibati and Provobati converging down to Ponsabati
+   - Ponsabati connecting down to Kirsharti
+
+4. Adjusted the vertical spacing to maintain the overall height of the diagram
+
+5. Repositioned the Kirsharti subcastes (Konti and Pariya) accordingly
+
+The diagram now correctly represents the hierarchy with Akkibati and Provobati at the same level in the social structure, followed by Ponsabati below them, and then Kirsharti at the bottom.
+
+The SVG file has been updated, and when viewed through Zola's templating system in the markdown file, it will display the corrected hierarchy.
+
+---
+
+_**User**_
+
+perfect. now can we please continue @ahore-01-7.jpg @ahore-01-8.jpg @ahore-01-9.jpg 
+
+---
+
+_**Assistant**_
+
+I'll continue transcribing the content from these three new images and add it to the document. Let me process the text and format it properly.
+
+---
+
+_****_
+
+```diff
+  After the Ansa finishes, the wait staff says their prayers, brings the
+  remaining food to the kitchens to be distributed to the Ahurikishki servants.
++ 
++ ### The Morning Briefing
++ 
++ Depending on the Ansa, this may be dispensed of. Most do, however, keep the 
++ briefing as a means of keeping tabs on other Ansa, or to the affairs of their 
++ lands and estates.
++ 
++ The Ansa's high-priests, sometimes accompanied by a high-ranking member of 
++ the Akkibati and Provobati, followed by scribes accompany the god-prince to 
++ his meeting chamber. Of course, after going through a dance of prayer, 
++ absolution, permission and magnanimity.
++ 
++ Upon arrival, the highest-ranking scribe gives the high-priest a scroll 
++ containing the day's news items. They then read and contextualize the entries 
++ as the Ansa listens and asks questions. If the Akkibati or Provobati have 
++ some pertinent information to add during this phase, they may interject after 
++ a short phase of penance.
++ 
++ After the news, the high-priest is handed a scroll with the Ansa's itinerary, 
++ which the Ansa may update according to their will. Invited guests of lower 
++ station are most times, ushered out at this point.
++ 
++ The Ansa may choose to go through the tasks listed on the itinerary at this 
++ point. If they do, they are accompanied by the high-priest, scribes and as 
++ soon as they leave the apartments, are joined by Akkibati honor guards.
++ 
++ ## Educating the young Ansa
++ 
++ Ahurikishki scholars are tasked with the education and rearing of a young 
++ Ansa Ahuriyata. It is rare that either parent give time to such a pursuit, 
++ but indeed there are notable instances. Most of the time, a priest is 
++ selected by the ranking Ansa in the household to take charge in the child's 
++ education. Oftentimes, the priest is chosen by his charge as high-priest when 
++ they come of age; again, there are notable exceptions to this.
++ 
++ In order to establish authority, the parents explicitly absolve the mentor of 
++ impiety at the beginning of every mentorship. They usually give a blanket 
++ statement giving authority to the priest to do what he must with the promise 
++ to ensure the wellbeing of the yet-to-be-ascended fragment of divinity. To 
++ reinforce the temporary ascendance of the mentor, the title of Ansa is 
++ rescinded during lessons, and is never uttered by the mentor to refer to 
++ their student, for the duration of the mentorship.
++ 
++ While lessons are ongoing, the student's effective caste is below that of a 
++ Provobati, but above the Kirsharti. After the day's lessons are over, the 
++ student is effectively a low-ranked Ahurikishki to their mentor.
++ 
++ ## The High-priest and their Lord Ansa Ahuriyata
++ 
++ As is typical, momentum, even in social contexts requires some work to 
++ counteract. So most Ansa, as they grow into their own, retain their mentor 
++ priests as their primary advisors and chief stewards. They act also as the 
++ prime conduit between the divine and their people in their role as high-priest 
++ of their people.
++ 
++ Most Ansa and their high-priests have a very casual connection in that they 
++ typically use the familial register when in more relaxed contexts. It is not 
++ unprecedented that in private, a high-priest can get away with speaking in a 
++ familiar register with their prince.
++ 
++ ## The Ansa and the Akkibati
++ 
++ A member of the Ansa cannot typically leave their palace without a cadre of 
++ loyal Akkibati guards. As the only caste permitted to carry weapons and learn 
++ the martial arts, their expertise is required to effectively protect the royal 
++ and divine Ansa from peril. Aside from his personal guard, higher ranking 
++ Ansa typically have a good working relationship with their generals and their 
++ mentors on military tactics and strategy.
+  
+```
+
+---
+
+_****_
+
+I've successfully transcribed and added the content from the three new images to the document. The additions include:
+
+1. **The Morning Briefing** - A continuation of the Ansa's daily routine, describing:
+   - How the Ansa receives news and updates
+   - The protocol for high-priests, Akkibati, and Provobati members during briefings
+   - The itinerary review process
+
+2. **Educating the young Ansa** - Details about:
+   - The role of Ahurikishki scholars in educating young royalty
+   - The authority structure between mentor and student
+   - How the student's caste status changes during education
+   - The formal absolution of impiety for mentors
+
+3. **The High-priest and their Lord Ansa Ahuriyata** - Information about:
+   - The ongoing relationship between Ansa and their former mentors
+   - The casual connection and use of familial register in private
+   - The high-priest's role as conduit between the divine and the people
+
+4. **The Ansa and the Akkibati** - Details about:
+   - The requirement for Akkibati guards when an Ansa leaves the palace
+   - The Akkibati's exclusive right to carry weapons and learn martial arts
+   - The working relationship between high-ranking Ansa and their generals
+
+All terminology has been updated to match the final game canon (Ahuriyata, Ahurikishki, Akkibati, Provobati, etc.).
+
+The document now provides an even more comprehensive view of Ahurian society, particularly focusing on the interactions between the Ansa and other castes, as well as the education and daily routines of the royal class.
+
+Is there anything else you'd like me to add or modify to the document?
+
+---
+
+_**User**_
+
+@ahore-01-10.jpg @ahore-01-12.jpg @ahore-01-11.jpg  can we continue extracting text here please?
+
+---
+
+_**Assistant**_
+
+I'll continue transcribing the content from these three new images and add it to the document. Let me process the text and format it properly.
+
+---
+
+_****_
+
+```diff
+  Ansa typically have a good working relationship with their generals and their
+  mentors on military tactics and strategy.
++ 
++ ### The March on a Royal Parade
++ 
++ A royal parade is not the only time a high-ranking Ansa leaves the palace, 
++ but it is the most spectacular. It is also the time when the full cadre of 
++ their Royal Guard is in full view.
++ 
++ An Ahurikishki overseer coordinates the procession's initial formation as 
++ their Ansa is dressed. The royal performers come first, some of the very few 
++ Provobati on the regular employ of the Ansa palace.
++ 
++ Behind them are the Ahurikishki Elementalists. Priests whose devotion lie in 
++ the practice of "magic". Their hair is dyed blonde and eyes adorned with 
++ golden eye shadow.
++ 
++ They are then followed by the priestly chanters—those that chant the ancient 
++ sutras.
++ 
++ The Akkibati guard then form ranks, escorting the entirety of the parade, 
++ flanking them. Providing a barrier between the parade and the common folk.
++ 
++ The elite guard surround the high-priest, their scribes, and the Ansa 
++ themself, at the tail end of the procession.
++ 
++ ### A Royal Visit
++ 
++ Sometimes an Ansa would like to come visit. Most of the lower-ranking ones 
++ may easily, comparatively, travel without too large an entourage.
++ 
++ Enough then, would be their honor guard. Trusted Akkibati men or women, 
++ usually chosen by the Ansa or their high-priest from the larger household 
++ guard.
++ 
++ In most cases, there are always at least two or three directly around the 
++ Ansa's person, with 5 or 6 in more conspicuous clothing scouting for 
++ potential problems.
++ 
++ ## The General and their Prince
++ 
++ High-ranking Ansa are typically given leadership of a large army. The Ansa 
++ is usually then advised by a high martial or general depending on the 
++ position of said Ansa.
++ 
++ Typically, this high martial or general is an apprentice. A mentor of the 
++ Ansa's during childhood, or one undergoing similar leadership training at 
++ the time of the Ansa's formative years. As such, they have similar bonds of 
++ familiarity as one with a high-prince, but one with a larger power-differential.
+  
+```
+
+---
+
+_****_
+
+I've successfully transcribed and added the content from the three new images to the document. The additions include:
+
+1. **The March on a Royal Parade** - Details about:
+   - The spectacle of a royal parade when an Ansa leaves the palace
+   - The order of the procession, starting with royal performers
+   - The role of Ahurikishki Elementalists with their distinctive appearance
+   - The priestly chanters who recite ancient sutras
+   - The Akkibati guards forming ranks around the parade
+   - The elite guard surrounding the high-priest, scribes, and the Ansa
+
+2. **A Royal Visit** - Information about:
+   - How lower-ranking Ansa can travel with smaller entourages
+   - The composition of the honor guard of trusted Akkibati
+   - The security arrangement with guards directly around the Ansa and others scouting
+
+3. **The General and their Prince** - Details about:
+   - High-ranking Ansa leading large armies
+   - The advisory role of high martials or generals
+   - The relationship between the Ansa and their military advisors
+   - How these relationships often stem from childhood mentorship
+   - The power dynamics between them
+
+All terminology has been updated to match the final game canon (Ahuriyata, Ahurikishki, Akkibati, Provobati, etc.).
+
+The document now provides an even more comprehensive view of Ahurian society, particularly focusing on the public appearances of the Ansa, their security arrangements, and their military leadership roles.
+
+Is there anything else you'd like me to add or modify to the document?
+
+---
+
+_**User**_
+
+@ahore-01-13.jpg @ahore-01-14.jpg @ahore-01-15.jpg  extract text here as well
+
+---
+
+_**Assistant**_
+
+I'll continue transcribing the content from these three new images and add it to the document. Let me process the text and format it properly.
+
+---
+
+_****_
+
+```diff
+  the time of the Ansa's formative years. As such, they have similar bonds of
+  familiarity as one with a high-prince, but one with a larger power-differential.
++ 
++ The general or high-martial only has final say if the Ansa gives the explicit 
++ command to do so in a special rite. It is equally common that the Ansa keep 
++ supreme military command or to relinquish such a command to the highest 
++ ranking Akkibati in their court.
++ 
++ ## The Ansa and their Tradesmen
++ 
++ There is little interaction between an Ansa and a member of the Provobati. 
++ Indeed, there are more chances for a Konti Kirsharti to interact with a 
++ prince than that of a Provobati merchant. There are certain exceptions of 
++ course, and some common interactions when some counsel is necessary.
++ 
++ ### The Entertainers
++ 
++ Most Ansa households of rank hold enough social functions as to have a 
++ permanent troupe of Provobati performers and artists on staff. They typically 
++ supplement the performances of the Ahurikishki Elementalists.
++ 
++ As they are permanent staff members, they are usually on the Ansa's beck and 
++ call, even when there are no important gatherings or events.
++ 
++ Smaller Ansa households have no use for, or money to maintain a permanent 
++ troupe in their retinue. So they have to hire a free troupe. Free troupes are 
++ those without a permanent patron, and accept commissions from prominent 
++ Akkibati and mercantile Provobati.
++ 
++ Different occasions or different tastes call for different types of 
++ entertainment. Troupes often offer juggling, drama, music or animal pageantry 
++ to cover a wide taste range.
++ 
++ ### Portraits of an Artist
++ 
++ Most Ansa portraiture are performed by Ahurikishki artists whose sole 
++ devotion is to depict their lord. However, not all Ansa households are lucky 
++ enough to have one on staff. In such occasions, the household may want to 
++ hire an itinerant artist. Oftentimes foreigners are sought, especially ones 
++ of great renown.
++ 
++ Of course, the typical artist goes through a purification rite, as would any 
++ person of the lower castes are required when they are to meet an Ansa.
+  
+```
+
+---
+
+_****_
+
+I've successfully transcribed and added the content from the three new images to the document. The additions include:
+
+1. **Military Command Structure** - Additional details about:
+   - The general or high-martial's authority being granted through a special rite
+   - The Ansa's options to either maintain supreme military command or delegate it
+
+2. **The Ansa and their Tradesmen** - Information about:
+   - The limited interaction between Ansa and Provobati
+   - How Konti Kirsharti might have more interaction with royalty than merchants
+   - Exceptions for necessary counsel
+
+3. **The Entertainers** - Details about:
+   - Permanent troupes of Provobati performers in wealthy Ansa households
+   - How they supplement Ahurikishki Elementalists' performances
+   - Smaller households hiring "free troupes" without permanent patrons
+   - The variety of entertainment offered (juggling, drama, music, animal pageantry)
+
+4. **Portraits of an Artist** - Information about:
+   - Ahurikishki artists dedicated to depicting their Ansa lords
+   - The hiring of itinerant artists, often foreigners of renown
+   - The purification rite required for lower caste individuals meeting an Ansa
+
+All terminology has been maintained consistently with the previous sections, using the correct terms (Ahuriyata, Ahurikishki, Akkibati, Provobati, etc.).
+
+The document now provides an even more comprehensive view of Ahurian society, particularly focusing on the relationships between the Ansa and various other castes, as well as the cultural aspects of entertainment and art in Ahurian society.
+
+Is there anything else you'd like me to add or modify to the document?
+
+---
+
+_**User**_
+
+@ahore-01-16.jpg @ahore-01-17.jpg  continue with these
+
+---
+
+_**Assistant**_
+
+I'll continue transcribing the content from these two new images and add it to the document. Let me process the text and format it properly.
+
+---
+
+_****_
+
+```diff
+  Of course, the typical artist goes through a purification rite, as would any
+  person of the lower castes are required when they are to meet an Ansa.
++ 
++ ## The Ansa and the Farmers
++ 
++ The Ansa have even less reason to interact with the Ponsabati caste than most 
++ the others, with the exception of the stablemasters that care for their mounts. 
++ Even then, the Ansa do not have the horse culture that Northern nobility of 
++ Kalassarian descent display. Even with horses. Mostly, if an Ansa has some 
++ interest in horses, they're probably Kolhan.
++ 
++ ### The Kolhan Ansa and his Horse-Hands
++ 
++ Due to their very close interactions with Poasah, the Kolhan Ansa and the 
++ small splinter kingdoms had developed a love of equines, and the culture that 
++ surrounds it, like hunting or horse-racing. Jousting, however, is still out 
++ of the question for them however, as the Ansa are forbidden to draw human 
++ blood with metal or wood.
++ 
++ The palace employs a staff of Ponsabati stablehands since handling live 
++ animals are forbidden to even the Ahurikishki.
++ 
++ Most Ansa from the mainland frown upon equestrianism, as Ansa are typically 
++ not supposed to handle animals. Kolhans justify the practice by having 
++ elaborate bandings separating the Ansa from the horse.
++ 
++ Due to this restriction, however, they do not feed the horse themselves, or 
++ personally groom their mounts. The horsehands do these while the Ansa 
++ maintains eye-contact to give the illusion that they are the one caring for 
++ the horse in order to simulate bonding with them. Of course, due to concerns 
++ regarding the animal bond, stablemasters often only give Ansa very docile, 
++ obedient animals.
++ 
++ In years past, stablehands were not to speak directly to their Ansa lords, 
++ but practicality dictated that this change, and recently the stablemaster is 
++ given a ritual cleansing before the Ansa makes his way to the stables. 
++ Ahurikishki servants dissolve the stablemaster and is very thoroughly washed 
++ with a ritually-made soap while chanting prayers of penance. The stablemaster 
++ is taught the correct responses to the litany of praise that follows. The 
++ other hands do not do these rituals, and are thus not allowed to directly 
++ interact with the Ansa, unless directly referred to.
+  
+```
+
+---
+
+_****_
+
+I've successfully transcribed and added the content from the two new images to the document. The additions include:
+
+1. **The Ansa and the Farmers** - Details about:
+   - The limited interaction between Ansa and Ponsabati
+   - The exception of stablemasters who care for royal mounts
+   - The contrast with Northern nobility of Kalassarian descent regarding horse culture
+   - The Kolhan Ansa's particular interest in horses
+
+2. **The Kolhan Ansa and his Horse-Hands** - Information about:
+   - The Kolhan Ansa's love of equines due to proximity to Poasah
+   - Their interest in hunting and horse-racing, but prohibition from jousting
+   - The religious restriction against Ansa drawing human blood with metal or wood
+   - The employment of Ponsabati stablehands since even Ahurikishki cannot handle animals
+   - The elaborate rituals and workarounds to allow Ansa to interact with horses
+   - The eye-contact technique to simulate bonding with horses
+   - The ritual cleansing of stablemasters before Ansa visits
+   - The strict protocols for who can directly interact with the Ansa
+
+All terminology has been maintained consistently with the previous sections, using the correct terms (Ahuriyata, Ahurikishki, Akkibati, Provobati, Ponsabati, etc.).
+
+The document now provides an even more comprehensive view of Ahurian society, particularly focusing on the relationship between the Ansa and the Ponsabati caste, with special attention to the unique horse culture that developed among the Kolhan Ansa.
+
+Is there anything else you'd like me to add or modify to the document?
+
+---
+
+_**User**_
+
+@ahore-01-18.jpg @ahore-01-19.jpg continue with these please
+
+---
+
+_**Assistant**_
+
+
+
+---
+
+
+
+---
+

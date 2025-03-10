@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Caste Hierarchy Diagram -->
+  <style>
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      text-anchor: middle;
+    }
+    .caste-box {
+      fill: #f9f9f9;
+      stroke: #333;
+      stroke-width: 2;
+    }
+    .subcaste-box {
+      fill: #f0f0f0;
+      stroke: #666;
+      stroke-width: 1;
+    }
+    .main-title {
+      font-weight: bold;
+      font-size: 18px;
+    }
+  </style>
+  
+  <!-- Main Castes -->
+  <rect x="200" y="20" width="200" height="40" rx="5" class="caste-box" />
+  <text x="300" y="45" class="main-title">Ansa Ahuriyata</text>
+  
+  <rect x="200" y="80" width="200" height="40" rx="5" class="caste-box" />
+  <text x="300" y="105" class="main-title">Ahurikishki</text>
+  
+  <!-- Akkibati and Provobati on same level -->
+  <rect x="100" y="140" width="180" height="40" rx="5" class="caste-box" />
+  <text x="190" y="165" class="main-title">Akkibati</text>
+  
+  <rect x="320" y="140" width="180" height="40" rx="5" class="caste-box" />
+  <text x="410" y="165" class="main-title">Provobati</text>
+  
+  <!-- Ponsabati below both -->
+  <rect x="200" y="200" width="200" height="40" rx="5" class="caste-box" />
+  <text x="300" y="225" class="main-title">Ponsabati</text>
+  
+  <!-- Kirsharti and Subcastes -->
+  <rect x="200" y="260" width="200" height="40" rx="5" class="caste-box" />
+  <text x="300" y="285" class="main-title">Kirsharti</text>
+  
+  <rect x="100" y="320" width="150" height="30" rx="5" class="subcaste-box" />
+  <text x="175" y="340">Konti Kirsharti</text>
+  
+  <rect x="350" y="320" width="150" height="30" rx="5" class="subcaste-box" />
+  <text x="425" y="340">Pariya Kirsharti</text>
+  
+  <!-- Connecting Lines -->
+  <line x1="300" y1="60" x2="300" y2="80" stroke="#333" stroke-width="2" />
+  <line x1="300" y1="120" x2="300" y2="130" stroke="#333" stroke-width="2" />
+  
+  <!-- Split to Akkibati and Provobati -->
+  <line x1="300" y1="130" x2="190" y2="130" stroke="#333" stroke-width="2" />
+  <line x1="300" y1="130" x2="410" y2="130" stroke="#333" stroke-width="2" />
+  <line x1="190" y1="130" x2="190" y2="140" stroke="#333" stroke-width="2" />
+  <line x1="410" y1="130" x2="410" y2="140" stroke="#333" stroke-width="2" />
+  
+  <!-- Join back from Akkibati and Provobati to Ponsabati -->
+  <line x1="190" y1="180" x2="190" y2="190" stroke="#333" stroke-width="2" />
+  <line x1="410" y1="180" x2="410" y2="190" stroke="#333" stroke-width="2" />
+  <line x1="190" y1="190" x2="300" y2="190" stroke="#333" stroke-width="2" />
+  <line x1="410" y1="190" x2="300" y2="190" stroke="#333" stroke-width="2" />
+  <line x1="300" y1="190" x2="300" y2="200" stroke="#333" stroke-width="2" />
+  
+  <line x1="300" y1="240" x2="300" y2="260" stroke="#333" stroke-width="2" />
+  
+  <line x1="300" y1="300" x2="300" y2="310" stroke="#333" stroke-width="2" />
+  <line x1="300" y1="310" x2="175" y2="310" stroke="#333" stroke-width="2" />
+  <line x1="300" y1="310" x2="425" y2="310" stroke="#333" stroke-width="2" />
+  <line x1="175" y1="310" x2="175" y2="320" stroke="#333" stroke-width="2" />
+  <line x1="425" y1="310" x2="425" y2="320" stroke="#333" stroke-width="2" />
+</svg> 

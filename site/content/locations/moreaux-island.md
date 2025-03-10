@@ -4,7 +4,7 @@ title = "Moreaux Island"
 population = "~150 (as of 1269 AI)"
 [taxonomies]
 location_type = ["island"]
-parent_locations = ["L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
+parent_location = ["L'Illes Apgarie", "Sanery", "Apgarian Confederacy"]
 +++
 
 An island within L'Illes Apgarie, _Moreaux Island_ was made famous by reports of
