@@ -42,7 +42,7 @@ jobs:
         name: CHANGELOG.md
         path: site/content/changelog.md
     - name: Build Zola
-      uses: shalzz/zola-deploy-action@v0.18.0
+      uses: shalzz/zola-deploy-action@v0.20.0
       env: 
         BUILD_DIR: site
         BUILD_ONLY: true
