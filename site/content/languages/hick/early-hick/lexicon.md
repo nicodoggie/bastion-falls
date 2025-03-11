@@ -3493,7 +3493,6 @@ meltek [mel.tek]
   : person
   : Proto-Hick hi- animacy marker + Proth-Hick \*ʔalu
   "person" → 'al
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
   : See:
   [Political Terms](#political-terms)
 
@@ -3558,8 +3557,8 @@ imasamok [i.ma.sa.mok]
   : coward
   : Proto-Hick imasam-ok "cower-AGENT" → imasamok
   : ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
-  Note: Literally "one who cowers". Shows productive use of agentive suffix with
-  compound base.
+  : Note: Literally "one who cowers". Shows productive use of agentive suffix with
+    compound base.
   : See: [Person Terms](#person-terms)
 
 toreldal [to.rel.dal]
