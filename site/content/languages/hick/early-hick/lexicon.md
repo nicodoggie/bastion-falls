@@ -76,14 +76,14 @@ siltak [sil.tak]
   : sil-tak "skin-contact" → siltak
   : Note: Shows development of tactile terms from body part compounds. Contrasts
     with plain tak'er for forceful contact.
-  : See: [Body Terms](#body-terms)
+  : See: [Body Parts](#body-parts)
 
 siltak'er [sil.tak.ʔer]
   : to touch, to feel
   : siltak-'er "skin.contact-VERB" → siltak'er
   : Note: Primary verb for tactile sensation. Developed to disambiguate from tak'er
     "to hit" after sound merger of *taku and*tahaku.
-  : See: [Body Terms](#body-terms)
+  : See: [Body Parts](#body-parts)
 
 'ilisal [ʔi.li.sal]
   : visit (a place); experience personally; confirm via experiment
@@ -179,7 +179,7 @@ dak [dak]
 norath [no.raθ]
   : to ride (a mount)
   : Eldrim nortʰa "to make run" → norath
-  : ([borrowed term](@/languages/hick/early-hick/_index.md#elder-borrowings))
+  : ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
   : Note: Early borrowing from Eldrim, shows cultural contact predating
     widespread horse domestication.
   : See: [Animal Terms](#animals), [Motion Actions](#motion-actions)
@@ -203,14 +203,14 @@ par [par]
   : Note: Shows semantic development from "belly-motion" to general "crawl".
     Forms compounds like parlis "crawler" (child/baby).
   : See:
-    [Motion Terms](#motion-terms), [Body Terms](#body-terms)
+    [Motion Terms](#motion-terms), [Body Parts](#body-parts)
 taglas [tag.las]
   : take, receive
   : tag-las "hand-ILL" → taglas
   : Note: Shows common pattern of illative case marking motion into hand.
     Contrasts with tagimris "give".
   : See: [Motion Terms](#motion-terms),
-    [Body Terms](#body-terms)
+    [Body Parts](#body-parts)
 
 tagimris [tag.im.ris]
   : give
@@ -218,7 +218,7 @@ tagimris [tag.im.ris]
   : Note: Shows common pattern of ellative case marking motion from hand.
     Contrasts with taglas "take".
   : See: [Motion Terms](#motion-terms),
-    [Body Terms](#body-terms)
+    [Body Parts](#body-parts)
 
 ### Bodily/Life Actions
 
@@ -243,7 +243,7 @@ bresubel [bre.su.bel]
   : Note: Shows typical compound formation with body part term. Forms verb
     bresubel'er "to shout". Contrasts with 'u'u for softer vocalizations.
   : See:
-    [Sound Terms](#sound-terms), [Body Terms](#body-terms)
+    [Sound Terms](#sound-terms), [Body Parts](#body-parts)
 
 ### Consumption Actions
 
@@ -298,7 +298,7 @@ sibris [si.bris]
   : romantic love
   : Proto-Hick \*hibrisu "fire" → sibris
   : Note: Metaphorical extension from "fire" to "passion/love"
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 meris [me.ris]
   : unconditional love
@@ -418,13 +418,12 @@ imwes [im.wes]
 haran [ha.ran]
   : split, divide
   : Proto-Hick \*haranu → haran
-  : ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
   : See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick/_index.md#phonological-processes)
 
 ward [ward]
   : direct, guide; travel with
   : Proto-Hick \*wardu → ward
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 tak [tak]
   : strike, impact;
@@ -439,7 +438,7 @@ stor [stor]
   : Proto-Hick \*storu → stor
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
   : Note: Mathematical sense developed from basic meaning "grow"
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 'imer [ʔi.mer]
   : life
@@ -450,18 +449,18 @@ temer [te.mer]
   : death
   : Proto-Hick \*telu-himeru → temer
   : Note: Literally "end of life"
-  : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
+  : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred)
 
 istor [is.tor]
   : growth (living)
   : Proto-Hick \*hi-storu → istor
   : ([initial sibilant loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 gnar [gnar]
   : correct
   : Proto-Hick \*gnaru → gnar
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 etil [e.til]
   : thing
@@ -480,14 +479,14 @@ maetil [ma.e.til]
   : living thing
   : Proto-Hick \*hi-etilu → 'etil
   : Note: Shows animacy marking through glottal prefix
-  : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
+  : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred)
 
 'il [ʔil]
   : good, kind
   : Proto-Hick \*hi-halu → 'il
   : ([initial fricative change, vowel coalescence](@/languages/hick/early-hick/_index.md#historical-development))
   : Note: Shows archaic animacy marking through glottal prefix
-  : See: [Sacred Terms](#sacred--ritual), [Basic Terms](#basic-terms)
+  : See: [Sacred Terms](#sacred), [Basic Terms](#basic-terms)
 
 ven [ven]
   : yoke, burden
@@ -499,7 +498,7 @@ vin [vin]
   : Proto-Hick \*venu "yoke" → vinu
   : Inland dialects use vinused < \*venu-sedu "burden-seed"
   : See:
-  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#bodily-functions), [Sacred Terms](#sacred)
 
 pak [pak]
   : poke
@@ -573,7 +572,7 @@ impal [im.pal]
   : im-pal "ill-belly" → impal
   : Note: Source of adjective kaimpal "weak". Shows metaphorical extension of
   belly/gut health to general strength.
-  : See: [Body Terms](#body-terms),
+  : See: [Body Parts](#body-parts),
   [Basic Terms](#basic-terms)
   
 eltek [el.tek]
@@ -658,7 +657,7 @@ venuiter [vi.nu.i.ter]
   : venu-itar "pregnancy-ELL" → venuiter
   : ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
   : Note: Lexicalized from ellative case of "pregnancy"
-  : See: [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
+  : See: [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred)
 
 kabrast [ka.brast]
   : skilled with hands
@@ -776,7 +775,7 @@ thil [θil]
   : virtue, moral; purity
   : Proto-Hick \*halu → thil
   : Note: Abstract sense developed from basic meaning
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 tal [tal]
   : place, location
@@ -797,14 +796,14 @@ imurud [i.mu.rud]
   : imur-wudu "evil-path" → imurud
   : Note: Shows semantic extension from physical to abstract meaning.
   : See:
-  [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 im'ir [im.ʔir]
   : ill intent, malice
   : im-'ir "evil-action" → im'ir
   : Note: Shows metaphorical extension of negative prefix with action root.
   : See:
-  [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 torthil [tor.θil]
   : arrogance, haughtiness
@@ -820,7 +819,7 @@ torthil [tor.θil]
   : stand; firmness; truth
   : Proto-Hick \*hi-reku → 'irek
   : Note: Shows archaic animacy prefix. Semantic extension from physical firmness to abstract truth
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 'it [ʔit]
   : knot (in wood); falsehood
@@ -835,7 +834,7 @@ torthil [tor.θil]
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : See: [Bodily Functions](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  : See: [Bodily Functions](#bodily-functions), [Sacred Terms](#sacred)
 
 mulisthral [mu.lis.θral]
   : prophetic dream
@@ -852,13 +851,13 @@ sibris [si.bris]
   : romantic love
   : Proto-Hick \*hibrisu "fire" → sibris
   : Note: Metaphorical extension from "fire" to "passion/love"
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 dakisa [da.ki.sa]
   : infatuation
   : Proto-Hick \*daluku-isa-hihasa → dakisa
   : Note: Literally "snake in the gut"; metaphorical extension for intense desire
-  : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  : See: [Body Parts](#bodily-functions), [Sacred Terms](#sacred)
 
 etilsim [e.til.sim]
   : everything changes/transforms (with resignation)
@@ -875,13 +874,13 @@ etilsim [e.til.sim]
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+  : See: [Body Parts](#body-parts), [Sacred Terms](#sacred)
 
 his [his]
   : see
   : reintroduced Proto-Hick \*hisu "visible/in sight"
   : Note: Reintroduced to maintain distinction from demonstrative -is
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 'ilis [ʔi.lis]
   : knowledge
@@ -892,7 +891,7 @@ his [his]
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 hisimris [hi.sim.ris]
   : show
@@ -948,7 +947,7 @@ krantak [kran.tak]
   : Note: Basic term for physical pain/hurt. Shows cultural distinction between
     physical and emotional pain. Forms verb siltak'er "to feel physical pain".
 
-  : See: [Body Terms](#body-terms), [Physical States](#physical-states)
+  : See: [Body Parts](#body-parts), [Physical States](#physical-states)
 
 #### Taste Perception
 
@@ -997,18 +996,18 @@ takimer [ˈta.ki.mɛr]
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+  : See: [Body Parts](#body-parts), [Sacred Terms](#sacred)
 
 his [his]
   : sight
   : Proto-Hick \*hi-lisu → his
   : [liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 #### Derived Terms
 
@@ -1085,7 +1084,7 @@ tir'er [tir.ʔer]
   : Note: Shows connection between taste sensation and involuntary response, as
     well as the process of fermentation
   : See: [Taste Terms](#taste-terms),
-    [Bodily Functions](#bodily-functions--states),
+    [Bodily Functions](#bodily-functions),
     [Process Terms](#process-terms)
 
 imtir [im.tir]
@@ -1226,7 +1225,7 @@ tir'er [tir.ʔer]
   : Note: Shows connection between taste sensation and involuntary response, as
     well as the process of fermentation
   : See: [Taste Terms](#taste-terms),
-    [Bodily Functions](#bodily-functions--states),
+    [Bodily Functions](#bodily-functions),
     [Process Terms](#process-terms)
 
 ### Natural World
@@ -1247,7 +1246,7 @@ gral [gral]
 kel [kel]
   : sky
   : Proto-Hick \*kelu → kel
-  : See: [Time Terms](#time--celestial), [Colors](#colors)
+  : See: [Time Terms](#time), [Colors](#colors)
 
 thir [θir]
   : air, wind
@@ -1257,12 +1256,10 @@ thir [θir]
 al [al]
   : natural rock
   : Proto-Hick \*xalu → halu → al
-  : ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 gar [gar]
   : stone, hardness
   : Proto-Hick \*garu → gar
-  :([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for stone extends to abstract hardness. Forms gal "man"
     through metaphorical extension ("hard person").
   : See: [Landscape Terms](#landforms), [Person Terms](#person-terms)
@@ -1291,7 +1288,7 @@ dup [dup]
   : Proto-Hick *dupu "pearl" → dup
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass"
-  : See: [Body Terms](#body-terms), [Medical Terms](#medical-terms)
+  : See: [Body Parts](#body-parts), [Medical Terms](#medical-terms)
 
 #### Derived Terms
 
@@ -1300,7 +1297,7 @@ dup [dup]
   : Proto-Hick \*hi-brisu → 'ibris
   : Note: Shows archaic animacy marking through glottal prefix, reflecting
     cultural view of fire as animate force
-  : See: [Sacred Terms](#sacred--ritual), [Elements](#elements)
+  : See: [Sacred Terms](#sacred), [Elements](#elements)
 
 kagar [ka.gar]
   : hard
@@ -1328,7 +1325,7 @@ ran [ran]
 bram [bram]
   : tide, tidal water
   : Proto-Hick \*bramu → bram
-  : See: [Maritime Terms](#maritime-terms), [Time Terms](#time--celestial)
+  : See: [Maritime Terms](#maritime-terms), [Time Terms](#time)
 
 bramal [bra.mal]
   : tidal pool
@@ -1400,7 +1397,7 @@ grasgral [gras.gral]
   : 'irur-bel "hollow-mouth" → 'irurbel
   : Note: Basic term for cave openings. Shows common metaphorical extension of
     "mouth" to mean entrance/opening. Forms compounds for specific types of caves.
-  : See: [Landforms](#landforms), [Body Terms](#body-terms)
+  : See: [Landforms](#landforms), [Body Parts](#body-parts)
 
 parduwes [par.du.wes]
   : cavern, cave network
@@ -1610,7 +1607,7 @@ kabran [ka.bran]
     expression kabran 'irek'er "to lean" (lit. "stand crookedly").
   :See: [Position/Stance Actions](#positionstance-actions)
 
-### Sacred & Ritual
+### Sacred & Ritual {#sacred}
 
 #### Basic Terms
 
@@ -1625,7 +1622,7 @@ thral [θral]
   : day; sacred, ritual
   : Proto-Hick \*harala → thral
   : Note: Resists vowel reduction in compounds
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 thren [θren]
   : watch, observe (ritual)
@@ -1659,19 +1656,19 @@ imthral [im.θral]
   : evil deity
   : im-thral "evil-sacred" → imthral
   : (compound fusion, maintains second element due to sacred term)
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 imurthral [i.mur.θral]
   : cursed day/time
   : imur-thral "evil.force-sacred" → imurthral
   : (compound fusion, maintains second element due to sacred term)
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
   : (compound reduction, final vowel loss)
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 #### Time & Light
 
@@ -1711,7 +1708,7 @@ kathrakel [ka.θra.kel]
   : ka-thrakel "sun-like" → kathrakel
   : Note: From metaphorical extension of thrakel "sun". Shows cultural
     association between beauty and radiance.
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 ### Material Culture
 
@@ -2114,7 +2111,7 @@ mer [mer]
   : bird
   : Proto-Hick \*meru → mer
   : Note: Cultural connection between birds and parenting roles
-  : See: [Sacred Terms](#sacred--ritual), [Kinship Terms](#kinship-terms)
+  : See: [Sacred Terms](#sacred), [Kinship Terms](#kinship-terms)
 
 pel [pel]
   : bear
@@ -2296,7 +2293,7 @@ thral [θral]
   : day; sacred, ritual
   : Proto-Hick \*harala → thral
   : Note: Resists vowel reduction in compounds
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 thren [θren]
   : watch, observe (ritual)
@@ -2330,19 +2327,19 @@ imthral [im.θral]
   : evil deity
   : im-thral "evil-sacred" → imthral
   : (compound fusion, maintains second element due to sacred term)
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 imurthral [i.mur.θral]
   : cursed day/time
   : imur-thral "evil.force-sacred" → imurthral
   : (compound fusion, maintains second element due to sacred term)
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
   : (compound reduction, final vowel loss)
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 #### Time & Light
 
@@ -2382,7 +2379,7 @@ kathrakel [ka.θra.kel]
   : ka-thrakel "sun-like" → kathrakel
   : Note: From metaphorical extension of thrakel "sun". Shows cultural
     association between beauty and radiance.
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 ### Material Culture
 
@@ -2530,8 +2527,6 @@ thir [θir]
 nal [nal]
   : black
   : Proto-Hick \*nalu → nal
-  : ([final vowel
-  loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 rak [rak]
   : yellow
@@ -2562,7 +2557,7 @@ arak [a.rak]
 kul [kul]
   : magic, sorcery
   : Eldrim \*curu "skill; craft" → kul
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 #### Derived Terms
 
@@ -2574,13 +2569,13 @@ malthrenok [mal.θre.nok]
   : pool-watcher, diviner
   : mal-thren-ok "pool-watch-AGENT" → malthrenok
   : Note: One who divines through watching pools/water
-  : See: [Water Features](#water-features), [Sacred Terms](#sacred--ritual)
+  : See: [Water Features](#water-features), [Sacred Terms](#sacred)
 
 imurkulok [i.mur.ku.lok]
   : necromancer
   : imur-kul-ok "evil-magic-AGENT" → imurkulok
   : Note: Literally "evil magic worker"
-  : See: [Sacred Terms](#sacred--ritual), [Magical Terms](#magical-terms)
+  : See: [Sacred Terms](#sacred), [Magical Terms](#magical-terms)
 
 'imwen [ʔim.wen]
   : witch, evil woman
@@ -2600,14 +2595,14 @@ wenkulok [wen.ku.lok]
   : See: [Magic Terms](#magic-terms),
     [Professional Terms](#professional-terms)
 
-### Time & Celestial
+### Time & Celestial {#time}
 
 #### Basic Terms
 
 thral [θral]
   : sacred, ritual; day
   : Proto-Hick \*thralu → thral
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 ter [ter]
   : flow, time
@@ -2630,13 +2625,13 @@ takuter [ta.ku.ter]
   : harmony, attunement
   : 3-ter "rhythm-flow" → takuter
   : Note: Shows reduction of reduplicated base through compound simplification
-  : See: [Basic Terms](#basic-terms), [Sacred Terms](#sacred--ritual)
+  : See: [Basic Terms](#basic-terms), [Sacred Terms](#sacred)
 
 'atelbran [ʔa.tel.bran]
   : before (when-dawn)
   : 'aka-tel-bran → 'akatelbran → 'atelbran
   : Note: Shows temporal metaphor of dawn/past, derived from interrogative
-  : See: [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
+  : See: [Time Terms](#time), [Interrogatives](#interrogatives)
 
 #### Time Terms
 
@@ -2645,14 +2640,14 @@ terlas [ter.las]
   : ter-las "flow-ILL" → terlas
   : Note: Shows conceptualization of past as flow inward. Contrasts with terimris.
 
-  : See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+  : See: [Time Terms](#time), [Motion Terms](#motion-terms)
 
 terimris [te.rim.ris]
   : next
   : ter-imris "flow-ELL" → terimris
   : Note: Shows conceptualization of future as flow outward. Contrasts with
     terlas.
-  : See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+  : See: [Time Terms](#time), [Motion Terms](#motion-terms)
 
 eter [e.ter]
   : flow of things; correct ordering, sorting
@@ -2685,7 +2680,7 @@ lithar [li.θar]
   : li-tharala "DIM-deity" → lithar
   : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows loss of -ala in compound. Stars conceptualized as lesser deities
-  : See: [Celestial Terms](#time--celestial),
+  : See: [Celestial Terms](#time),
     [Sacred Terms](#sacred-terms),
     [Diminutive Formation](#diminutive-formation)
 
@@ -2701,7 +2696,7 @@ bel [bel]
 kan [kan]
   : head
   : Proto-Hick \*kanu → kan
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 tel [tel]
   : tail, end
@@ -2711,7 +2706,7 @@ tel [tel]
 gar [gar]
   : bone
   : Proto-Hick \*garu → gar
-  : See: [Landscape Terms](#landforms), [Sacred Terms](#sacred--ritual)
+  : See: [Landscape Terms](#landforms), [Sacred Terms](#sacred)
 
 sil [sil]
   : skin, hide
@@ -2730,7 +2725,7 @@ kran [kran]
 mar [mar]
   : blood, life-fluid
   : Proto-Hick \*maru → mar
-  : See: [Colors](#colors), [Sacred Terms](#sacred--ritual)
+  : See: [Colors](#colors), [Sacred Terms](#sacred)
 
 ter [ter]
   : flow, fluid
@@ -2753,7 +2748,7 @@ mes [mes]
   : Proto-Hick \*melisu → mes
   : Note: Core term for emotional center, used in compounds for feelings
   : See:
-  [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#body-parts), [Sacred Terms](#sacred)
 
 dak [dak]
   : stomach, gut
@@ -2763,7 +2758,6 @@ dak [dak]
 bedek [be.dek]
   : tongue
   : be-dak → bedek
-  : ([vowel harmony](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Literally "mouth-snake", metaphorical compound
 
 pir [pir]
@@ -2807,7 +2801,6 @@ ret [ret]
 trask [trask]
   : leg
   : Proto-Hick \*tarasaku → trask
-  : ([syncope, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts)
 
 wak [wak]
@@ -2855,21 +2848,21 @@ krakrak [kra.krak]
   : ([nasal deletion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows nasal deletion in compound. Contrasts with general term krak
   "tooth".
-  : See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
+  : See: [Body Parts](#body-parts), [Animal Terms](#animal-terms)
 
 imtirdu [im.tir.du]
   : rotting meat; cadaver
   : imtir-du "rot-meat" → imtirdu
   : Note: Shows semantic extension from rotting meat to cadaver. Contrasts with
     du for fresh meat.
-  : See: [Body Terms](#body-terms), [Death Terms](#death-terms)
+  : See: [Body Parts](#body-parts), [Death Terms](#death-terms)
 
 #### Face Terms
 
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : See: [Sacred Terms](#sacred--ritual), [Bird Terms](#bird-terms-nocturnal)
+  : See: [Sacred Terms](#sacred), [Bird Terms](#bird-terms-nocturnal)
 
 thir [θir]
   : hair, fur
@@ -2890,7 +2883,7 @@ bran [bran]
 kir [kir]
   : chest, front
   : Proto-Hick \*esgiru → kir
-  : See: [Sacred Terms](#sacred--ritual), [Person Terms](#person-terms)
+  : See: [Sacred Terms](#sacred), [Person Terms](#person-terms)
 
 dor [dor]
   : back, behind
@@ -2900,7 +2893,7 @@ dor [dor]
 pal [pal]
   : belly, center
   : Proto-Hick \*palu → pal
-  : See: [Sacred Terms](#sacred--ritual), [Landscape Terms](#landforms)
+  : See: [Sacred Terms](#sacred), [Landscape Terms](#landforms)
 
 thal [θal]
   : side, flank
@@ -2949,7 +2942,7 @@ brast [brast]
 mar [mar]
   : blood, life-fluid
   : Proto-Hick \*maru → mar
-  : See: [Colors](#colors), [Sacred Terms](#sacred--ritual), [Metals](#metals)
+  : See: [Colors](#colors), [Sacred Terms](#sacred), [Metals](#metals)
 
 ter [ter]
   : flow, fluid
@@ -2980,7 +2973,7 @@ vinlas [vin.las]
   : vin-las "pregnancy-ILL" → vinlas
   : Note: Shows lexicalization of illative case marking location within.
   : See:
-  [Person Terms](#person-terms), [Body Terms](#body-terms)
+  [Person Terms](#person-terms), [Body Parts](#body-parts)
 
 #### Derived Terms
 
@@ -2992,7 +2985,7 @@ kawak [ka.wak]
   : See:
   [Body Parts](#body-parts), [Abstract Concepts](#abstract-concepts)
 
-### Bodily Functions & States
+### Bodily Functions & States {#bodily-functions}
 
 #### Basic Terms
 
@@ -3005,7 +2998,7 @@ duwes [du.wes]
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
+  : See: [Sacred Terms](#sacred), [Abstract Concepts](#abstract-concepts)
 
 hilis [hi.lis]
   : sight
@@ -3017,10 +3010,10 @@ vin [vin]
   : Proto-Hick \*venu "yoke" → vinu
   : Inland dialects use vinused < \*venu-sedu "burden-seed"
   : See:
-  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual) Note:
+  [Body Parts](#bodily-functions), [Sacred Terms](#sacred) Note:
   From "burden-seed"; shows vowel harmony in compound reduction
   : See:
-  [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#bodily-functions), [Sacred Terms](#sacred)
 
 imeresp [i.me.resp]
   : sleep
@@ -3035,8 +3028,8 @@ imeresp [i.me.resp]
   : Note: Euphemistic term derived from 'ilibris "passion". Shows cultural
     preference for metaphors of warmth/fire in intimate contexts. Contrasts with
     more direct terms.
-  : See: [Body Terms](#body-terms),
-    [Sacred Terms](#sacred--ritual)
+  : See: [Body Parts](#body-parts),
+    [Sacred Terms](#sacred)
 
 #### Derived Terms
 
@@ -3046,7 +3039,7 @@ vinuimris [vi.nu.im.ris]
   : ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
   : Note: Lexicalized from ellative case of "pregnancy"
   : See:
-  [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
+  [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred)
 
 murvinuiter [mur.vi.nu.i.ter]
   : abortion
@@ -3054,7 +3047,7 @@ murvinuiter [mur.vi.nu.i.ter]
   : ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
   Uses ellative case to indicate "from/out of stillbirth"
   : See:
-  [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#body-parts), [Sacred Terms](#sacred)
 
 pakupak [ˈpa.ku.pək]
   : tickle
@@ -3068,14 +3061,14 @@ gralimris [gra.lim.ris]
   : gral-imris "soil-ELL" → gralimris
   : Note: Formal/medical term derived from ellative case of "soil".
   : See:
-  [Medical Terms](#medical-terms), [Body Terms](#body-terms)
+  [Medical Terms](#medical-terms), [Body Parts](#body-parts)
 
 murvinu [mur.vi.nu]
   : stillbirth
   : mur-vinu "night-pregnancy" → murvinu
   : Note: Uses mur- "darkness" metaphorically for death
   : See:
-  [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+  [Body Parts](#body-parts), [Sacred Terms](#sacred)
 
 mulislas [mu.lis.las]
   : dream-state
@@ -3099,7 +3092,7 @@ gralimris [gra.lim.ris]
   : gral-imris "soil-ELL" → gralimris
   : Note: Formal/medical term derived from ellative case of "soil".
   : See:
-  [Medical Terms](#medical-terms), [Body Terms](#body-terms)
+  [Medical Terms](#medical-terms), [Body Parts](#body-parts)
 
 ### Speech Terms
 
@@ -3131,7 +3124,7 @@ imbris [im.bris]
   : Proto-Hick \*im-bris → imbris
   : Note: Shows productive use of im- prefix for negative conditions.
   : See:
-  [Medical Terms](#medical-terms), [Body States](#bodily-functions--states),
+  [Medical Terms](#medical-terms), [Body States](#bodily-functions),
   [Illness Terms](#illness-terms)
 
 arsil [ar.sil]
@@ -3147,7 +3140,7 @@ dup [dup]
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass".
   : See:
-  [Body Terms](#body-terms), [Medical Terms](#medical-terms)
+  [Body Parts](#body-parts), [Medical Terms](#medical-terms)
 
 #### Injury Terms
 
@@ -3155,7 +3148,7 @@ dudup [du.dup]
   : swollen muscle
   : Proto-Hick \*du-dup → dudup
   : Note: Specific term for muscular swelling.
-  : See: [Body Terms](#body-terms)
+  : See: [Body Parts](#body-parts)
 
 kandup [kan.dup]
   : head lump, bump on head
@@ -3250,7 +3243,7 @@ barakter [ba.rak.ter]
   used for distance measurement. Often shortened to rakter in colloquial speech.
 
   : See: [Measurement Terms](#measurement-terms), [Distance Terms](#distance-terms),
-  [Time Terms](#time--celestial)
+  [Time Terms](#time)
 
 ### Vehicular Terms
 
@@ -3320,7 +3313,7 @@ thilul [θi.lul]
   : Note: Shortened from "sacred wind", shows cultural association of south with
     favorable omens.
   : See: [Directional Terms](#directional-terms),
-    [Sacred Terms](#sacred--ritual)
+    [Sacred Terms](#sacred)
 
 tarul [ta.rul]
   : west
@@ -3330,7 +3323,7 @@ tarul [ta.rul]
   : See: [Directional Terms](#directional-terms),
     [Weather Terms](#weather-terms)
 
-### Climate & Weather
+### Climate & Weather {#climate}
 
 #### Cold Terms
 
@@ -3340,7 +3333,7 @@ mirik [mi.rik]
   : Shows dramatic simplification common in basic terms
   : Note: Exemplifies metaphorical extension from sensation of extreme cold to
     the substance itself
-  : See: [Climate & Weather](#climate--weather)
+  : See: [Climate & Weather](#climate)
 aimirik [ai.mi.rik]
   : slush, partially melted snow/ice
   : < ai-mirik "water-ice"
@@ -3358,17 +3351,17 @@ kaken [ka.ken]
 mir [mir]
   : cold, cooling
   : Proto-Hick \*miru → mir
-  : See: [Water Features](#water-features), [Time Terms](#time--celestial)
+  : See: [Water Features](#water-features), [Time Terms](#time)
 
 miral [mi.ral]
   : cold water, winter pool
   : Proto-Hick \*mir-mal → miral (lit. "cold-pool")
-  : See: [Sacred Terms](#sacred--ritual), [Water Features](#water-features)
+  : See: [Sacred Terms](#sacred), [Water Features](#water-features)
 
 thir [θir]
   : warm, warming
   : Proto-Hick \*haru → thir
-  : See: [Colors](#colors), [Sacred Terms](#sacred--ritual)
+  : See: [Colors](#colors), [Sacred Terms](#sacred)
 
 thiral [θi.ral]
   : warm water, summer pool
@@ -3388,7 +3381,7 @@ bressim [bres.sim]
   : Note: Shows lexicalization of translative case marking, conceptualizing weather
     as "becoming like wind". Forms verb bressim'er "to change (of weather)".
   : See:
-    [Wind Terms](#wind-terms), [Climate Terms](#climate--weather)
+    [Wind Terms](#wind-terms), [Climate Terms](#climate)
 
 #### Cardinal Winds
 
@@ -3438,29 +3431,29 @@ libres [li.bres]
 mirthral [mir.θral]
   : winter
   : Proto-Hick \*mir-thral → mirthral (lit. "cold-day")
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 thirthral [θir.θral]
   : summer
   : Proto-Hick \*thir-thral → thirthral (lit. "warm-day")
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 branthral [bran.θral]
   : spring
   : Proto-Hick \*bran-thral → branthral (lit. "dawn-day")
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 thurthral [θur.θral]
   : autumn
   : Proto-Hick \*thur-thral → thurthral (lit. "dusk-day")
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 thranal [θra.nal]
   : seasons
   : Proto-Hick \*thran-thral → thranal
   : Note: Shows cyclical time through metaphor of countless sacred days
   : See:
-  [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
+  [Time Terms](#time), [Sacred Terms](#sacred)
 
 ### Musical Terms
 
@@ -3507,7 +3500,7 @@ meltek [mel.tek]
 kir [kir]
   : body, physical form
   : Proto-Hick \*kiru → kir
-  : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
+  : See: [Body Parts](#body-parts), [Sacred Terms](#sacred)
 
 kiris [ki.ris]
   : outsider
@@ -3536,7 +3529,7 @@ wen'al [wen.ʔal]
   : Proto-Hick elda+'al "elf-person" → 'eldal
   Note: Borrowing from Sindarin eldrim with native person marker
   : See:
-  [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
+  [Person Terms](#person-terms), [Sacred Terms](#sacred)
 
 'eldalok [ʔel.da.lok]
   : elven people
@@ -3544,7 +3537,7 @@ wen'al [wen.ʔal]
   : ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
   Note: Collective form using agentive suffix to mark social group
   : See:
-  [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
+  [Person Terms](#person-terms), [Sacred Terms](#sacred)
 
 ma'alok [ma.ʔa.lok]
   : community member
@@ -3576,20 +3569,17 @@ toreldal [to.rel.dal]
 edel [e.del]
   : Wood Elf
   : Sindarin eðel + pre-Early Hick ʔal → edel
-  : ([dental fricative stopping, suffix integration](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 ithiril [i.θi.ril]
   : Dark Elf
   : Drow Ilythiiri + pre-Early Hick ʔal → ithiril
-  : ([initial syllable loss, vowel reduction, suffix
-  integration](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   
 #### Spirit Terms
 
 imer [i.mer]
   : breath, soul
   : Proto-Hick \*imeru → imer
-  : See: [Sacred Terms](#sacred--ritual)
+  : See: [Sacred Terms](#sacred)
 
 imerlas [i.mer.las]
   : inspiration
@@ -3612,7 +3602,7 @@ vinlas [vin.las]
   : Proto-Hick vin-las "pregnancy-ILL" → vinlas
   : Note: Shows lexicalization of illative case marking location within.
   : See:
-  [Person Terms](person-terms), [Body Terms](#body-terms) 1
+  [Person Terms](person-terms), [Body Parts](#body-parts) 1
 
 ### Name & Identity Terms
 
@@ -3739,7 +3729,7 @@ im'irok [im.ʔi.rok]
   : Proto-Hick im'ir-ok "ill.intent-AGENT" → im'irok
   Note: Shows productive use of agentive suffix with abstract concepts.
   : See:
-  [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
+  [Person Terms](#person-terms), [Sacred Terms](#sacred)
 
 ### Communication Terms
 
@@ -3755,7 +3745,7 @@ tenwa [ten.wa]
   : Eldrim tengwa "letter" → tenwa
   : Note: Shows semantic extension from basic writing to magical inscription.
   : See:
-  [Communication Terms](#communication-terms), [Sacred Terms](#sacred--ritual)
+  [Communication Terms](#communication-terms), [Sacred Terms](#sacred)
 
 tenwa'er [ten.wa.ʔer]
   : to write; to make spells
@@ -3797,7 +3787,7 @@ natlas [nat.las]
   : Note: Shows cultural conceptualization of peace as harmonious rhythm. Often
     used in diplomatic contexts. Forms verb 'iltakutak'er "to make peace".
   : See:
-    [Social Terms](#social-terms), [Sacred Terms](#sacred--ritual)
+    [Social Terms](#social-terms), [Sacred Terms](#sacred)
 
 #### Love Terms
 
@@ -3824,7 +3814,7 @@ dakisa [da.ki.sa]
   : Proto-Hick \*daluku-isa-hihasa → dakisa
   Note: Literally "snake in the gut"; metaphorical extension for intense desire
 
-  : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+  : See: [Body Parts](#bodily-functions), [Sacred Terms](#sacred)
 
 brismer [bris.mer]
   : passionate lover
@@ -3840,7 +3830,7 @@ storbran [stor.bran]
   : Note: Shows formalization of marriage as union between family lines during
   Early Hick period. Forms verb storbran'er "to marry".
   : See:
-  [Family Terms](#family-terms), [Social Terms](#social-terms)
+  [Kinship Terms](#kinship-terms), [Social Terms](#social-terms)
 
 #### Emotion Terms
 
@@ -3856,14 +3846,14 @@ storbran [stor.bran]
   : 'il-'ibris "good-burn" → 'ilibris
   : Note: Shows positive metaphorical extension of burning sensation.
   : See:
-  [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
+  [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred)
 
 imibris [im.i.bris]
   : rage, anger; wrath
   : 'im-'ibris "ill-burn" → 'imibris
   : Note: Shows negative metaphorical extension of burning sensation.
   : See:
-  [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
+  [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred)
 
 kasai [kas.əi]
   : introspectiveness
@@ -3872,7 +3862,7 @@ kasai [kas.əi]
   : Note: From ancient practice of water-gazing meditation. Shows metaphorical
   extension from physical reflection to mental contemplation.
   : See:
-  [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
+  [Mental Terms](#mental-terms), [Sacred Terms](#sacred)
 
 sai [sai]
   : sense of self; inner voice
@@ -3880,7 +3870,7 @@ sai [sai]
   : Note: Originally part of kasai "introspection", reanalyzed as adjectival
   compound leading to extraction of sai as independent term.
   : See:
-  [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
+  [Mental Terms](#mental-terms), [Sacred Terms](#sacred)
 
 'ilsul [ʔil.sul]
   : happiness, joy
@@ -3888,7 +3878,7 @@ sai [sai]
   : Note: Shows cultural conceptualization of liver as seat of emotions,
     particularly positive ones. Forms verb 'ilsul'er "to be happy". Often appears
     in well-wishing expressions.
-  : See: [Body Terms](#body-terms),
+  : See: [Body Parts](#body-parts),
     [Emotional Terms](#emotional-terms)
 mes'er [mes.ʔer]
   : to feel (emotion), experience emotion
@@ -3896,14 +3886,14 @@ mes'er [mes.ʔer]
   : Note: Basic emotion verb showing heart as seat of feelings. Often used in
     compounds to form specific emotion terms. Contrasts with sul- (liver) terms
     for deeper emotions.
-  : See: [Body Terms](#body-terms),
+  : See: [Body Parts](#body-parts),
     [Emotional Terms](#emotional-terms)
 merkran [mer.kran]
   : emotional pain, heartache
   : mer-krantak "heart-pierce" → merkran
   : Note: Shows metaphorical conceptualization of emotional pain as heart-piercing.
     Forms verb merkran'er "to feel emotional pain".
-  : See: [Body Terms](#body-terms),
+  : See: [Body Parts](#body-parts),
     [Emotional Terms](#emotional-terms)
 
 #### Exchanges
@@ -3968,7 +3958,7 @@ mer [mer]
   : parent
   : Proto-Hick \*meru → mer
 
-  : See: [Bird Terms](#bird-terms-nocturnal), [Sacred Terms](#sacred--ritual),
+  : See: [Bird Terms](#bird-terms-nocturnal), [Sacred Terms](#sacred),
   [Animals](#animals) Note: Metaphorical extension from bird terminology
   reflecting cultural values
 
@@ -4049,7 +4039,7 @@ kethbran [keθ.bran]
   : Proto-Hick keth-bran "hundred-lineage" → kethbran
   Note: Shows metaphorical extension of "hundred lineages" to mean extended family/kin.
 
-  : See: [Family Terms](#family-terms), [Social Terms](#social-terms)
+  : See: [Kinship Terms](#kinship-terms), [Social Terms](#social-terms)
 
 storbran [stor.bran]
   : marriage, family union
@@ -4057,7 +4047,7 @@ storbran [stor.bran]
   : Note: Shows formalization of marriage as union between family lines during
   Early Hick period. Forms verb storbran'er "to marry".
   : See:
-  [Family Terms](#family-terms), [Social Terms](#social-terms)
+  [Kinship Terms](#kinship-terms), [Social Terms](#social-terms)
 
 ### Usage Examples
 
@@ -4170,7 +4160,7 @@ imurthral [i.mur.θral]
   : cursed day/time
   : imur-thral → imurthral
   : Note: Maintains second element due to sacred term
-  : See: [Time Terms](#time--celestial)
+  : See: [Time Terms](#time)
 
 imurai [i.mu.rai]
   : stinky
@@ -4210,7 +4200,7 @@ mir [mir]
   : Feywild
   : 'eldal "elf" + -gral "earth" → 'eldegral
   : Note: Shows vowel reduction in middle syllable and sacred earth metaphor
-  : See: [Sacred Terms](#sacred--ritual), [Landforms](#landforms)
+  : See: [Sacred Terms](#sacred), [Landforms](#landforms)
 
 ## Demonstratives
 
@@ -4326,7 +4316,7 @@ kalis [ka.lis]
   : agent
   :Proto-Hick \*oku → ok
 
-## Common Phrases & Expressions
+## Common Phrases & Expressions {#common-phrases}
 
 ### Greetings & Well-Wishes
 
@@ -4343,7 +4333,7 @@ kalis [ka.lis]
     semantic extension from "upon life" to "raised breath/soul" through
     reanalysis with imer "breath/soul" + superessive -itar. Common usage leads
     to simplified form imritares
-  : See: [Spirit Terms](#spirit-terms), [Common Phrases](#common-phrases--expressions)
+  : See: [Spirit Terms](#spirit-terms), [Common Phrases](#common-phrases)
 
 'ilitar sarespes [ʔi.li.tar sa.res.pes]
   : Happy New Year
@@ -4351,9 +4341,9 @@ kalis [ka.lis]
   : Note: Traditional New Year greeting exchanged on sinthir sarespul thrales.
     Shows cultural link between agricultural cycles and well-wishing. The formal
     construction with superessive -itar reflects the blessing's ritual nature
-  : See: [Time Terms](#time--celestial),
-    [Sacred Terms](#sacred--ritual),
-    [Common Phrases](#common-phrases--expressions)
+  : See: [Time Terms](#time),
+    [Sacred Terms](#sacred),
+    [Common Phrases](#common-phrases)
 
 ### Cultural Practices
 
@@ -4363,7 +4353,7 @@ kalis [ka.lis]
   : Note: Cultural practice of giving filled gourds as gifts during harvest
     festivals, metaphorically described as "feeding the gourd"
   : See: [Food Terms](#food-terms), [Common
-  Phrases](#common-phrases--expressions)
+  Phrases](#common-phrases)
 
 sinthir sarespul thrales [ˈsin.θir sa.ˈres.pul ˈθra.les]
   : New Year's Day; first day of spring
@@ -4372,8 +4362,8 @@ sinthir sarespul thrales [ˈsin.θir sa.ˈres.pul ˈθra.les]
     the cultural significance of plant growth cycles in Early Hick timekeeping.
     The use of animate ordinal (-thir) reflects the personification of the first
     sprout as an active participant in the yearly cycle
-  : See: [Time Terms](#time--celestial),
-    [Sacred Terms](#sacred--ritual),
+  : See: [Time Terms](#time),
+    [Sacred Terms](#sacred),
     [Flora & Agriculture](#flora--agriculture)
 
 ### Idioms
@@ -4394,7 +4384,7 @@ imtirokul matakalel ka'irurlislas'er 'alrumul pirul grapares
     - Scavengers/conmen as sources of harmful words
     - Earth-crawling motion suggesting insidious infiltration
   : See: [Speech Terms](#speech-terms), [Animal Terms](#animal-terms),
-    [Body Terms](#body-terms)
+    [Body Parts](#body-parts)
 
 ## Sound Changes in Compounds
 
@@ -4420,19 +4410,19 @@ See: [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-si
 - Water terminology appears in:
   - [Natural Elements](#natural-world)
   - [Maritime Terms](#maritime-terms)
-  - [Sacred Terms](#sacred--ritual)
+  - [Sacred Terms](#sacred)
 - Height terminology relates to:
   - [Augmentatives](#augmentativediminutive)
-  - [Sacred Terms](#sacred--ritual)
+  - [Sacred Terms](#sacred)
   - [Landscape Features](#landforms)
 - Time concepts connect to:
-  - [Sacred Terms](#sacred--ritual)
-  - [Celestial Bodies](#time--celestial)
+  - [Sacred Terms](#sacred)
+  - [Celestial Bodies](#time)
   - [Bird Terms](#bird-terms-nocturnal)
 - Color terms derive from:
   - [Natural Elements](#natural-world)
   - [Metals](#metals)
-  - [Time Concepts](#time--celestial)
+  - [Time Concepts](#time)
 
 ## Example Sentences
 
