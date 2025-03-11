@@ -19,10 +19,12 @@ For grammatical information and language overview, see
 
 ## Historical Sound Changes
 
-For Proto-Hick vowel harmony and its development into Early Hick, see:
-[Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+For Proto-Hick vowel harmony and its development into Early Hick,
+  : see:
+[Proto-Hick Phonological Processes](@/languages/hick/proto-hick/_index.md#phonological-processes)
 
-For stress-related vowel changes, see:
+For stress-related vowel changes,
+  : see:
 [Vowel Allophony](@/languages/hick/early-hick/_index.md#vowel-allophony)
 
 ## Usage Notes
@@ -46,9 +48,9 @@ For stress-related vowel changes, see:
 tag'er [tag.ʔer]
   : to make, to craft
   : tag-'er "hand-VERB" → tag'er
-  :([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows concrete development from manual action to general creation.
-  Contrasts with abstract 'ir'er "to do". See: [Body Parts](#body-parts)
+  Contrasts with abstract 'ir'er "to do".
+  : See: [Body Parts](#body-parts)
 
 ### Physical Actions
 
@@ -61,30 +63,35 @@ tak [tak]
 krantak [kran.tak]
   : to pierce, stab
   : kran-tak "spike-strike" → krantak
-  : Note: Shows instrumental compound formation - striking with a spike. See:
+  : Note: Shows instrumental compound formation - striking with a spike.
+  : See:
   [Basic Actions](#basic-actions), [Weapon Terms](#weapon-terms)
 
 krak'er [krak.ʔer]
-  : to bite < krak-'er "tooth-VERB" → krak'er
+  : to bite
+  : krak-'er "tooth-VERB" → krak'er
 
 siltak [sil.tak]
   : touch, tactile sensation
   : sil-tak "skin-contact" → siltak
   : Note: Shows development of tactile terms from body part compounds. Contrasts
-    with plain tak'er for forceful contact. See: [Body Terms](#body-terms)
+    with plain tak'er for forceful contact.
+  : See: [Body Terms](#body-terms)
 
 siltak'er [sil.tak.ʔer]
   : to touch, to feel
   : siltak-'er "skin.contact-VERB" → siltak'er
   : Note: Primary verb for tactile sensation. Developed to disambiguate from tak'er
-    "to hit" after sound merger of *taku and*tahaku. See: [Body Terms](#body-terms)
+    "to hit" after sound merger of *taku and*tahaku.
+  : See: [Body Terms](#body-terms)
 
 'ilisal [ʔi.li.sal]
   : visit (a place); experience personally; confirm via experiment
   : Proto-Hick 'ilis-'al "knowledge-person" → 'ilisal
   : Note: Shows semantic development from "knowledge-person" to active
   experiential learning. Forms verb 'ilisal'er "to visit, to experience
-  firsthand". See: [Mental Terms](#mental-terms),
+  firsthand".
+  : See: [Mental Terms](#mental-terms),
   [Action Terms](#action-terms)
 
 aiesp [ai.esp]
@@ -107,20 +114,21 @@ hilis [hi.lis]
   : sight, active vision
   : Proto-Hick \*hilisu → hilis
   : Note: Forms two contrasting verbs:
-  : - hilis'er "to look" (active/
-  ntional seeing)
+  : - hilis'er "to look" (active/intentional seeing)
   : - his'er "to see" (passive/unintentional perception)
 
 pir'er [pir.ʔer]
   : to listen
   : pir-'er "ear-VERB" → pir'er
-  : Note: Active perception verb. See: [Body Parts](#body-parts)
+  : Note: Active perception verb.
+  : See: [Body Parts](#body-parts)
 
 pirlas'er [pir.las.ʔer]
   : to hear
   : pir-las-'er "ear-ILL-VERB" → pirlas'er
   : Note: Passive perception verb using illative to mark reception of sound.
-    Contrasts with active pir'er "listen". See: [Body Parts](#body-parts)
+    Contrasts with active pir'er "listen".
+  : See: [Body Parts](#body-parts)
 
 kar'er [kar.ʔer]
   : to smell
@@ -154,12 +162,14 @@ barak [ba.rak]
 mabarak [ma.ba.rak]
   : march, collective walking
   : ma-barak → mabarak
-  : Note: From plural marker + "walk", forms verb mabarak'er "to march". See also barak "walk"
+  : Note: From plural marker + "walk", forms verb mabarak'er "to march". 
+  : See also barak "walk"
 
 sin [sin]
   : floating
   : Proto-Hick \*senu → sin
-  : Note: Forms verb sin'er "to float". See also [Maritime Terms](#maritime-terms)
+  : Note: Forms verb sin'er "to float". 
+  : See also [Maritime Terms](#maritime-terms)
 
 dak [dak]
   : snake
@@ -191,20 +201,23 @@ par [par]
   : crawl
   : Proto-Hick *paru-heru "belly-motion" → par
   : Note: Shows semantic development from "belly-motion" to general "crawl".
-    Forms compounds like parlis "crawler" (child/baby). See:
+    Forms compounds like parlis "crawler" (child/baby).
+  : See:
     [Motion Terms](#motion-terms), [Body Terms](#body-terms)
 taglas [tag.las]
   : take, receive
   : tag-las "hand-ILL" → taglas
   : Note: Shows common pattern of illative case marking motion into hand.
-    Contrasts with tagimris "give". See: [Motion Terms](#motion-terms),
+    Contrasts with tagimris "give".
+  : See: [Motion Terms](#motion-terms),
     [Body Terms](#body-terms)
 
 tagimris [tag.im.ris]
   : give
   : tag-imris "hand-ELL" → tagimris
   : Note: Shows common pattern of ellative case marking motion from hand.
-    Contrasts with taglas "take". See: [Motion Terms](#motion-terms),
+    Contrasts with taglas "take".
+  : See: [Motion Terms](#motion-terms),
     [Body Terms](#body-terms)
 
 ### Bodily/Life Actions
@@ -228,7 +241,8 @@ bresubel [bre.su.bel]
   : shout, yell
   : Proto-Hick *bresu-belu "shout-mouth" → bresubel
   : Note: Shows typical compound formation with body part term. Forms verb
-    bresubel'er "to shout". Contrasts with 'u'u for softer vocalizations. See:
+    bresubel'er "to shout". Contrasts with 'u'u for softer vocalizations.
+  : See:
     [Sound Terms](#sound-terms), [Body Terms](#body-terms)
 
 ### Consumption Actions
@@ -352,7 +366,8 @@ imlisitar [im.li.si.tar]
   : Proto-Hick *'uhu-'uhu "cry" (onomatopoeic)
   : Note: Shows regular loss of medial -h-. Preserves glottal stops from PH.
     Reduplicated form suggesting continuous sobbing/crying. Often intensified
-    through additional reduplication. See: [Emotion Terms](#emotion-terms),
+    through additional reduplication.
+  : See: [Emotion Terms](#emotion-terms),
     [Sound Terms](#sound-terms)
 
 ### Construction/Dwelling Actions
@@ -404,7 +419,7 @@ haran [ha.ran]
   : split, divide
   : Proto-Hick \*haranu → haran
   : ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
-  : See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  : See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick/_index.md#phonological-processes)
 
 ward [ward]
   : direct, guide; travel with
@@ -429,7 +444,6 @@ stor [stor]
 'imer [ʔi.mer]
   : life
   : Proto-Hick \*hi-mer → 'imer
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
   : See: [Spirit Terms](#spirit-terms)
 
 temer [te.mer]
@@ -458,13 +472,13 @@ maetil [ma.e.til]
   : many things; everything
   : ma-etil "PLURAL-thing" → maetil
   : Note: Shows semantic extension from plural marker to universal quantifier.
-  Forms compounds like maetiltak "all-strike" (complete action). See:
+  Forms compounds like maetiltak "all-strike" (complete action).
+  : See:
   [Basic Terms](#basic-terms), [Quantifiers](#quantifiers)
 
 'etil [ʔe.til]
   : living thing
   : Proto-Hick \*hi-etilu → 'etil
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
   : Note: Shows animacy marking through glottal prefix
   : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 
@@ -529,7 +543,8 @@ ul [ul]
   : Note: Original root*ʔulu (~800 PF) had meanings "thumb/grasp/possession". By
   Late Proto-Hick (~400 PF), bare form ulu specialized to "thumb/possession",
   while locative form ulisu took on "grasp" meaning. Early Hick ul preserves
-  "thumb" meaning and grammaticalizes into possessive suffix -ul. See:
+  "thumb" meaning and grammaticalizes into possessive suffix -ul.
+  : See:
   [Body Parts](#body-parts), [Grammatical Terms](#grammatical-terms)
 
 ul'er [ul.ʔer]
@@ -543,7 +558,8 @@ us [us]
   : Proto-Hick *ʔulu-isu → ulisu → us
   : Note: Developed from locative form of*ʔulu (~400 PF) specializing in
   "grasp" meaning. By Early Hick (~100 PF), us maintains both concrete "grasp"
-  and abstract "possession" meanings. Forms verb us'er "to grasp, to own". See:
+  and abstract "possession" meanings. Forms verb us'er "to grasp, to own".
+  : See:
   [Basic Terms](#basic-terms)
 
 us'er [us.ʔer]
@@ -556,14 +572,16 @@ impal [im.pal]
   : weakness, frailty (lit. "ill-belly")
   : im-pal "ill-belly" → impal
   : Note: Source of adjective kaimpal "weak". Shows metaphorical extension of
-  belly/gut health to general strength. See: [Body Terms](#body-terms),
+  belly/gut health to general strength.
+  : See: [Body Terms](#body-terms),
   [Basic Terms](#basic-terms)
   
 eltek [el.tek]
   : compacted, condensed (esp. of soil); shaped from loose material
   : Proto-Hick *ʔelu-taku → eltek
   : Note: From phrase "grale 'elu taku" (soil together hit). Shows semantic
-  development from physical action to resultant state. See:
+  development from physical action to resultant state.
+  : See:
   [Basic Terms](#basic-terms), [Earth Terms](#earth-terms)
 
 #### Basic Properties
@@ -586,13 +604,15 @@ kapal [ka.pal]
   : ka-pal "like-belly" → kapal
   : Note: Shows metaphorical extension of belly/gut health to general strength.
   Contrasts with kaimpal "weak". Forms compounds like kapaltak "strong-strike"
-  (forceful action). See: [Body Parts](#body-parts), [Basic Terms](#basic-terms)
+  (forceful action).
+  : See: [Body Parts](#body-parts), [Basic Terms](#basic-terms)
 
 kaimpal [ka.im.pal]
   : weak, feeble (lit. "ill-bellied")
   : ka-im-pal "like-ill-belly" → kaimpal
   : Note: Shows metaphorical extension of belly/gut health to general strength.
-  Contrasts with kapal "strong" (lit. "healthy-bellied"). See:
+  Contrasts with kapal "strong" (lit. "healthy-bellied").
+  : See:
   [Body Parts](#body-parts), [Basic Terms](#basic-terms)
 
 kakrak [kak.rak]
@@ -608,7 +628,8 @@ ba [ba]
   : Proto-Hick *baha "rhythmic head motion"
   : Note: Shows development from coordinated group gesture. Basic agreement
     term that preserves rhythmic origin. Often reduplicated for continuous
-    motion. See: [Gesture Terms](#gesture-terms),
+    motion.
+  : See: [Gesture Terms](#gesture-terms),
     [Group Terms](#group-terms)
 
 #### Derived Terms
@@ -617,7 +638,8 @@ temerok [te.me.rok]
   : killer, murderer; predator
   : temer-ok "death-AGENT" → temerok
   : Note: Literally "death-bringer". Primary sense of killer/murderer extends to
-  predatory animals. See: [Basic Terms](#basic-terms),
+  predatory animals.
+  : See: [Basic Terms](#basic-terms),
   [Animal Terms](#animal-terms)
 
 ven'er [ven.ʔer]
@@ -762,7 +784,8 @@ tal [tal]
   : ([dialectal borrowing](@/languages/hick/early-hick/_index.md#dialectal-variation))
   : Note: Borrowed from Pre-Hick dialect where *halu developed spatial meaning.
     Contrasts with thil "virtue" from same root. Forms many location compounds.
-    See: [Spatial Terms](#spatial-terms), [Basic Terms](#basic-terms)
+
+  : See: [Spatial Terms](#spatial-terms), [Basic Terms](#basic-terms)
 
 thid [θid]
   : truth
@@ -772,20 +795,23 @@ thid [θid]
 imurud [i.mu.rud]
   : falsehood
   : imur-wudu "evil-path" → imurud
-  : Note: Shows semantic extension from physical to abstract meaning. See:
+  : Note: Shows semantic extension from physical to abstract meaning.
+  : See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 im'ir [im.ʔir]
   : ill intent, malice
   : im-'ir "evil-action" → im'ir
-  : Note: Shows metaphorical extension of negative prefix with action root. See:
+  : Note: Shows metaphorical extension of negative prefix with action root.
+  : See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 torthil [tor.θil]
   : arrogance, haughtiness
   : tor-thil "great-virtue" → torthil
   : Note: Shows ironic compound formation - excessive virtue becoming a flaw. Forms
-  verb torthil'er "to be arrogant". See: [Abstract Concepts](#abstract-concepts),
+  verb torthil'er "to be arrogant".
+  : See: [Abstract Concepts](#abstract-concepts),
   [Emotional Terms](#emotional-terms)
 
 #### Logical Terms
@@ -912,7 +938,8 @@ takimris [ta.kim.ris]
   : tak-imris "strike-ELL" → takimris
   : Note: Shows productive use of ellative case for outward-directed aggressive
     action. Contrasts with tak'er for simple striking. Forms compounds like
-    takimrisok "attacker". See: [Action Terms](#action-terms),
+    takimrisok "attacker".
+  : See: [Action Terms](#action-terms),
     [Conflict Terms](#conflict-terms)
 
 krantak [kran.tak]
@@ -920,7 +947,8 @@ krantak [kran.tak]
   : kran-tak "pierce-hit" → krantak
   : Note: Basic term for physical pain/hurt. Shows cultural distinction between
     physical and emotional pain. Forms verb siltak'er "to feel physical pain".
-    See: [Body Terms](#body-terms), [Physical States](#physical-states)
+
+  : See: [Body Terms](#body-terms), [Physical States](#physical-states)
 
 #### Taste Perception
 
@@ -1064,7 +1092,8 @@ imtir [im.tir]
   : rot, decay
   : im-tir "NEG-ferment" → imtir
   : Note: Shows metaphorical extension of fermentation process to negative
-  outcome. Forms verb imtir'er "to rot". See: [Process Terms](#process-terms),
+  outcome. Forms verb imtir'er "to rot".
+  : See: [Process Terms](#process-terms),
   [Food Terms](#food--consumption-terms)
 
 ### Food & Consumption Terms
@@ -1188,7 +1217,6 @@ murduwes [mur.du.wes]
 kaduwes [ka.du.wes]
   : edible
   : ka-duwes "like-food" → kaduwes
-  : ([similarity prefix](@/languages/hick/early-hick/_index.md#similarity-prefix))
   : Note: General term for anything that can be eaten. Shows productive use of
     ka- prefix for potential/capability
 
@@ -1270,7 +1298,6 @@ dup [dup]
 'ibris [ʔi.bris]
   : fire
   : Proto-Hick \*hi-brisu → 'ibris
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
   : Note: Shows archaic animacy marking through glottal prefix, reflecting
     cultural view of fire as animate force
   : See: [Sacred Terms](#sacred--ritual), [Elements](#elements)
@@ -1318,7 +1345,8 @@ bramulis [bra.mu.lis]
   : vortex, whirlpool
   : bram-ul-lis "tide-POSS-eye" → bramulis
   : Note: Literally "tide's eye". Shows coda simplification where final -l of
-  bramul merges with initial l- of lis. See: [Maritime Terms](#maritime-terms),
+  bramul merges with initial l- of lis.
+  : See: [Maritime Terms](#maritime-terms),
   [Water Features](#water-features)
 
 #### Landforms
@@ -1481,7 +1509,8 @@ imtirlis [im.tir.lis]
   : mushroom
   : imtir-lis "rot-fruit" → imtirlis
   : Note: Shows cultural understanding of mushrooms as fruits of decay. Forms
-    compounds for edible vs poisonous varieties. See: [Flora Terms](#flora-terms),
+    compounds for edible vs poisonous varieties.
+  : See: [Flora Terms](#flora-terms),
     [Food Terms](#food--consumption-terms)
 
 #### Cultivated Plants
@@ -1510,7 +1539,8 @@ asamwen [a.sam.wen]
   : daffodil
   : asam-wen "rest-flower" → asamwen
   : Note: Named for characteristic drooping posture of flower head. Forms
-    compounds for specific varieties and seasonal references. See:
+    compounds for specific varieties and seasonal references.
+  : See:
     [Flora Terms](#flora-terms), [Spring Terms](#spring-terms)
 
 #### Agricultural Terms
@@ -1539,7 +1569,8 @@ graswad [gras.wad]
   : excrement, manure
   : Proto-Hick *'ibari → 'ibri
   : ([vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
-  : Note: Basic term for excrement. Forms compounds for agricultural uses. See:
+  : Note: Basic term for excrement. Forms compounds for agricultural uses.
+  : See:
   : [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
 
 #### Garden Terms
@@ -1593,7 +1624,8 @@ tharala [θa.ra.la]
 thral [θral]
   : day; sacred, ritual
   : Proto-Hick \*harala → thral
-  : Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
+  : Note: Resists vowel reduction in compounds
+  : See: [Time Terms](#time--celestial)
 
 thren [θren]
   : watch, observe (ritual)
@@ -1727,7 +1759,8 @@ grakur [gra.kur]
 brismal [bris.mal]
   : forge
   : bris-mal "heat-pool" → brismal
-  : Note: Native term for forge. See: [Tool Terms](#tool-terms)
+  : Note: Native term for forge.
+  : See: [Tool Terms](#tool-terms)
 
 tamin [ta.min]
   : forge, smithy
@@ -1751,7 +1784,8 @@ togar [to.gar], toriger [to.ri.ger]
 asatogar [a.sa.to.gar]
   : travertine (lit. "vine limestone")
   : asa-togar "vine-limestone" → asatogar
-  : Note: Named for its flowing, vine-like mineral formations. See:
+  : Note: Named for its flowing, vine-like mineral formations.
+  : See:
     [Material Terms](#material-terms), [Natural World](#natural-world)
 
 krakiger [krak.i.ger]
@@ -1785,14 +1819,16 @@ asamgral [a.sam.gral]
   : flatlands, plains
   : asam-gral "lie-land" → asamgral
   : Note: Shows metaphorical extension from "lying" position to flat terrain.
-    Contrasts with torgral "highlands". See: [Landscape Terms](#landscape-terms),
+    Contrasts with torgral "highlands".
+  : See: [Landscape Terms](#landscape-terms),
     [Geographic Terms](#geographic-terms)
 
 'ibrigral [ʔib.ri.gral]
   : farmlands, cultivated fields
   : 'ibri-gral "manure-land" → 'ibrigral
   : Note: Shows development from fertilization practice to general agricultural
-    land. Contrasts with wild gral. See: [Agricultural Terms](#agricultural-terms),
+    land. Contrasts with wild gral.
+  : See: [Agricultural Terms](#agricultural-terms),
     [Landscape Terms](#landscape-terms)
 
 ### Maritime Terms
@@ -1800,8 +1836,8 @@ asamgral [a.sam.gral]
 mater [ma.ter]
   : vessel, boat
   : Proto-Hick \*mataru-heru → mater
-  : Note: From "vehicle-action", specialized for water transport. Unrelated to 
-    tre/matre despite similar form. 
+  : Note: From "vehicle-action", specialized for water transport. Unrelated to
+    tre/matre despite similar form.
   : See: [Maritime Terms](#maritime-terms)
 
 materok [ma.te.rok]
@@ -1832,7 +1868,8 @@ bramulis [bra.mu.lis]
   : vortex, whirlpool
   : bram-ul-lis "tide-POSS-eye" → bramulis
   : Note: Literally "tide's eye". Shows coda simplification where final -l of
-  bramul merges with initial l- of lis. See: [Maritime Terms](#maritime-terms),
+  bramul merges with initial l- of lis.
+  : See: [Maritime Terms](#maritime-terms),
   [Water Features](#water-features)
 
 matir [ma.tir]
@@ -1840,21 +1877,24 @@ matir [ma.tir]
   : mater-'ir "vessel-motion" → matir
   : Note: General term for water vessel movement, neutral regarding means of
     propulsion. Contrasts with specific terms for sailing, rowing, etc. Forms
-    basis for maritime motion compounds. See: [Maritime Terms](#maritime-terms),
+    basis for maritime motion compounds.
+  : See: [Maritime Terms](#maritime-terms),
     [Motion Terms](#motion-terms)
 
 rantirduok [ran.tir.du.ok]
   : pirate, maritime raider
   : ran-imtirduok "river-scavenger" → rantirduok
   : Note: Originally "river raider", extended to all maritime thieves. Shows
-    compound reduction of imtirduok. See: [Maritime Terms](#maritime-terms),
+    compound reduction of imtirduok.
+  : See: [Maritime Terms](#maritime-terms),
     [Professional Terms](#professional-terms)
 
 rantirdu [ran.tir.du]
   : piracy, maritime raiding
   : Reanalyzed from rantirduok without agentive -ok
   : Note: Shows productive back-formation pattern creating abstract nouns from
-    agent terms. Forms verb rantirdu'er "to engage in piracy". See:
+    agent terms. Forms verb rantirdu'er "to engage in piracy".
+  : See:
     [Maritime Terms](#maritime-terms), [Criminal Terms](#criminal-terms)
 
 #### Tool Terms
@@ -2006,7 +2046,8 @@ graswad [gras.wad]
   : excrement, manure
   : Proto-Hick *'ibari → 'ibri
   : ([vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
-  : Note: Basic term for excrement. Forms compounds for agricultural uses. See:
+  : Note: Basic term for excrement. Forms compounds for agricultural uses.
+  : See:
   : [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
 
 #### Garden Terms
@@ -2043,20 +2084,23 @@ aniko [a.ni.ko]
   : animal (general term)
   : Proto-Hick *xani-kostu → aniko
   : Note: Literally "four-legged". Shows semantic extension from descriptive
-  compound to general term. See: [Animal Terms](#animal-terms),
+  compound to general term.
+  : See: [Animal Terms](#animal-terms),
   [Basic Terms](#basic-terms)
 
 imtirduok [im.tir.du.ok]
   : scavenger
   : imtirdu-ok "cadaver-AGENT" → imtirduok
   : Note: Shows formation pattern of "carrion-eater" common across languages.
-    Applies to both animals and birds. See: [Animal Terms](#animal-terms)
+    Applies to both animals and birds.
+  : See: [Animal Terms](#animal-terms)
 
 rek [rek]
   : bark (of dog/wolf)
   : Proto-Hick *reku → rek
   : Note: Onomatopoeic origin. Forms verb rek'er "to bark". Common in compounds
-    describing different types of barks/calls. See: [Sound Terms](#sound-terms),
+    describing different types of barks/calls.
+  : See: [Sound Terms](#sound-terms),
     [Animal Terms](#animal-terms)
 
 #### Animals
@@ -2177,7 +2221,8 @@ grapar [gra.par]
   : gral-par "earth-crawl" → grapar
   : ([liquid deletion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows descriptive compound formation based on movement. Contrasts with
-    other crawling creatures. See: [Animals](#animals),
+    other crawling creatures.
+  : See: [Animals](#animals),
     [Earth Terms](#earth-terms)
 lik [lik]
   : dragon
@@ -2185,7 +2230,8 @@ lik [lik]
   : ([loanword](@/languages/hick/early-hick/_index.md#loanwords))
   : Note: Early borrowing from Eldrim, showing cultural contact and mythological
     influence. Narrowed from general serpentine being to specific dragon concept.
-    See: [Mythological Terms](#mythological-terms),
+
+  : See: [Mythological Terms](#mythological-terms),
     [Borrowed Terms](#borrowed-terms)
 
 vinusak [vi.nu.sak]
@@ -2193,7 +2239,9 @@ vinusak [vi.nu.sak]
   : vinud-sak "home-wolf" → vinusak
   : Note: Shows cultural understanding of dogs as domesticated wolves. Forms
     compounds for specific dog types/roles. Contrasts with sak for wild wolves.
-    See: [Animal Terms](#animal-terms), [Domestic Terms](#domestic-terms)
+
+  : See: [Animal Terms](#animal-terms), [Domestic Terms](#domestic-terms)
+
 #### Bird Terms (Nocturnal)
 
 murmer [mur.mer]
@@ -2247,7 +2295,8 @@ tharala [θa.ra.la]
 thral [θral]
   : day; sacred, ritual
   : Proto-Hick \*harala → thral
-  : Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
+  : Note: Resists vowel reduction in compounds
+  : See: [Time Terms](#time--celestial)
 
 thren [θren]
   : watch, observe (ritual)
@@ -2381,7 +2430,8 @@ grakur [gra.kur]
 brismal [bris.mal]
   : forge
   : bris-mal "heat-pool" → brismal
-  : Note: Native term for forge. See: [Tool Terms](#tool-terms)
+  : Note: Native term for forge.
+  : See: [Tool Terms](#tool-terms)
 
 tamin [ta.min]
   : forge, smithy
@@ -2395,7 +2445,8 @@ tamin [ta.min]
 mater [ma.ter]
   : vessel, boat
   : Proto-Hick \*mataru-heru → mater
-  : Note: From "vehicle-action", specialized for water transport. Unrelated to tre/matre despite similar form. See: [Maritime Terms](#maritime-terms)
+  : Note: From "vehicle-action", specialized for water transport. Unrelated to tre/matre despite similar form.
+  : See: [Maritime Terms](#maritime-terms)
 
 materok [ma.te.rok]
   : vessel-guide, boatman
@@ -2434,11 +2485,13 @@ reed.vessel-PROX-ELL sea-ABS direct-to "The boatman takes the reed boat to sea"
 
 - rok [rok] "horse" < Sindarin roch → rok
   ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
-  Note: Shows elvish introduction of horses See: [Animal Terms](#animal-terms)
+  Note: Shows elvish introduction of horses
+  : See: [Animal Terms](#animal-terms)
 - norath [no.raθ] "to ride (a mount)" < Eldrim nortʰa "to make run" → norath
   ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
   Note: Early borrowing from Eldrim, shows cultural contact predating widespread
-  horse domestication. See: [Animal Terms](#animals),
+  horse domestication.
+  : See: [Animal Terms](#animals),
   [Motion Actions](#motion-actions)
 
 ### Colors
@@ -2498,7 +2551,8 @@ arak [a.rak]
   : < Proto-Hick *ʔaraku "light (animate)"
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
   : Note: Shows semantic shift from animate light to color. Forms compounds for
-    specific colors. See: [Color Terms](#color-terms),
+    specific colors.
+  : See: [Color Terms](#color-terms),
     [Visual Terms](#visual-terms)
 
 ### Magical Terms
@@ -2533,7 +2587,8 @@ imurkulok [i.mur.ku.lok]
   : 'im-wen'al "evil-woman" → 'imwen
   : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
   : Note: Pejorative term for female magic user. Shows gender bias in magical
-    terminology. Contrasts with wenkulok. See: [Magic Terms](#magic-terms),
+    terminology. Contrasts with wenkulok.
+  : See: [Magic Terms](#magic-terms),
     [Gender Terms](#gender-terms)
 
 wenkulok [wen.ku.lok]
@@ -2541,7 +2596,8 @@ wenkulok [wen.ku.lok]
   : wen'al-kulok "woman-sorcerer" → wenkulok
   : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
   : Note: Neutral/respectful term for female magic user. Shows regularization of
-    gender marking in professional terms. See: [Magic Terms](#magic-terms),
+    gender marking in professional terms.
+  : See: [Magic Terms](#magic-terms),
     [Professional Terms](#professional-terms)
 
 ### Time & Celestial
@@ -2588,19 +2644,22 @@ terlas [ter.las]
   : previous
   : ter-las "flow-ILL" → terlas
   : Note: Shows conceptualization of past as flow inward. Contrasts with terimris.
-    See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+
+  : See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
 
 terimris [te.rim.ris]
   : next
   : ter-imris "flow-ELL" → terimris
   : Note: Shows conceptualization of future as flow outward. Contrasts with
-    terlas. See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
+    terlas.
+  : See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
 
 eter [e.ter]
   : flow of things; correct ordering, sorting
   : etil-ter "things-flow" → eter
   : Note: Shows metaphorical extension of flow to proper arrangement. Forms verb
-    eter'er "to sort, arrange". See: [Abstract Terms](#abstract-concepts),
+    eter'er "to sort, arrange".
+  : See: [Abstract Terms](#abstract-concepts),
     [Motion Terms](#motion-terms)
 
 #### Celestial Bodies
@@ -2686,12 +2745,14 @@ kost [kost]
 tag [tag]
   : hand
   : Proto-Hick \*tagu → tag
-  : Note: Forms verb tag'er "to make". See: [Basic Actions](#basic-actions)
+  : Note: Forms verb tag'er "to make".
+  : See: [Basic Actions](#basic-actions)
 
 mes [mes]
   : heart
   : Proto-Hick \*melisu → mes
-  : Note: Core term for emotional center, used in compounds for feelings See:
+  : Note: Core term for emotional center, used in compounds for feelings
+  : See:
   [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 dak [dak]
@@ -2758,7 +2819,8 @@ wak'eth [wak.ʔeθ]
   : breastfeeding
   : waka-ethe "breast-ABL" → wak'eth
   : ([compound formation, glottal stop insertion](@/languages/hick/early-hick/_index.md#compound-formation))
-  : Note: Nominal form reanalyzed from ablative case See:
+  : Note: Nominal form reanalyzed from ablative case
+  : See:
   [Body Parts](#body-parts), [Basic Actions](#basic-actions)
 
 wakat [wa.kat]
@@ -2776,27 +2838,31 @@ wak'ai [wak.ʔai]
 kanmil [kan.mil]
   : brain
   : kan-mil "head-fat" Note: Reflects early anatomical
-  understanding of brain tissue as a fatty substance See:
+  understanding of brain tissue as a fatty substance
+  : See:
   [Food & Consumption Terms](#food--consumption-terms)
 
 sat [sat]
   : appendage; penis
   : Proto-Hick \*satu → sat
   : Note: Basic term for appendages, with anatomical extension. Forms compounds
-  for specific body parts. See: [Body Parts](#body-parts)
+  for specific body parts.
+  : See: [Body Parts](#body-parts)
 
 krakrak [kra.krak]
   : fang
   : kran-krak "horn-tooth" → krakrak
   : ([nasal deletion](@/languages/hick/early-hick/_index.md#compound-formation))
   : Note: Shows nasal deletion in compound. Contrasts with general term krak
-  "tooth". See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
+  "tooth".
+  : See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
 
 imtirdu [im.tir.du]
   : rotting meat; cadaver
   : imtir-du "rot-meat" → imtirdu
   : Note: Shows semantic extension from rotting meat to cadaver. Contrasts with
-    du for fresh meat. See: [Body Terms](#body-terms), [Death Terms](#death-terms)
+    du for fresh meat.
+  : See: [Body Terms](#body-terms), [Death Terms](#death-terms)
 
 #### Face Terms
 
@@ -2844,25 +2910,29 @@ thal [θal]
 vinusam [vi.nu.sam]
   : shoulder
   : PH \*vinu xasamu "yoke rest" Note: Names
-  shoulder for its function as resting place for burdens See:
+  shoulder for its function as resting place for burdens
+  : See:
   [Body Parts](#body-parts)
 
 dorgar [dor.gər]
   : spine
   : dor-gar "back-bone" Note: Transparent descriptive
-  compound See: [Body Parts](#body-parts)
+  compound
+  : See: [Body Parts](#body-parts)
 
 kir'irur [kir.ʔi.rur]
   : ribcage
   : kir-'irur "chest-container" Note:
   Conceptualizes ribcage as a container/basket, parallel to 'irurlis
-  "gourd/container" See: [Food & Consumption Terms](#food--consumption-terms)
+  "gourd/container"
+  : See: [Food & Consumption Terms](#food--consumption-terms)
   for 'irurlis
 
 kirgar [kir.gər]
   : rib
   : kir-gar "chest-bone" Note: Single bone of the
-  ribcage; plural makirgar for full set of ribs See: [Body Parts](#body-parts),
+  ribcage; plural makirgar for full set of ribs
+  : See: [Body Parts](#body-parts),
   kir'irur "ribcage"
 
 brast [brast]
@@ -2871,7 +2941,8 @@ brast [brast]
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: Specifically refers to dominant arm, contrasting with ret "arm
   (general)". Forms verb brast'er "to reach". Cultural link to tak "right
-  (direction)". See: [Body Parts](#body-parts)
+  (direction)".
+  : See: [Body Parts](#body-parts)
 
 #### Internal
 
@@ -2888,7 +2959,8 @@ ter [ter]
 mel [mel]
   : tallow, animal fat
   : PH melu "liquid" Note: Shows semantic
-  narrowing from general liquid to specifically animal fat See:
+  narrowing from general liquid to specifically animal fat
+  : See:
   [Body Parts](#body-parts)
 
 kirmel [kir.mel]
@@ -2900,12 +2972,14 @@ du [du]
   : meat
   : Proto-Hick \*duha → du
   : Note: Basic term for animal flesh as food. Forms compounds with other food
-  terms See: [Body Parts](#body-parts) for muscle/flesh meanings
+  terms
+  : See: [Body Parts](#body-parts) for muscle/flesh meanings
 
 vinlas [vin.las]
   : fetus, unborn child
   : vin-las "pregnancy-ILL" → vinlas
-  : Note: Shows lexicalization of illative case marking location within. See:
+  : Note: Shows lexicalization of illative case marking location within.
+  : See:
   [Person Terms](#person-terms), [Body Terms](#body-terms)
 
 #### Derived Terms
@@ -2914,7 +2988,8 @@ kawak [ka.wak]
   : soft
   : ka-wak "breast-like" → kawak
   : Note: From metaphorical extension of wak "breast". Shows cultural association
-  between softness and nurturing. Forms natural contrast with kagar "hard". See:
+  between softness and nurturing. Forms natural contrast with kagar "hard".
+  : See:
   [Body Parts](#body-parts), [Abstract Concepts](#abstract-concepts)
 
 ### Bodily Functions & States
@@ -2940,23 +3015,27 @@ hilis [hi.lis]
 vin [vin]
   : pregnancy
   : Proto-Hick \*venu "yoke" → vinu
-  : Inland dialects use vinused < \*venu-sedu "burden-seed" See:
+  : Inland dialects use vinused < \*venu-sedu "burden-seed"
+  : See:
   [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual) Note:
-  From "burden-seed"; shows vowel harmony in compound reduction See:
+  From "burden-seed"; shows vowel harmony in compound reduction
+  : See:
   [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
 imeresp [i.me.resp]
   : sleep
   : Proto-Hick \*imer-esp → imeresp
   : Note: Shows metaphorical extension of breath/spirit sinking to indicate sleep
-  See: [Spirit Terms](#spirit-terms), [Body Parts](#body-parts)
+
+  : See: [Spirit Terms](#spirit-terms), [Body Parts](#body-parts)
 
 'ilibris'er [ʔi.li.bris.ʔer]
   : (euphemistic) to make love, have sexual intercourse
   : 'ilibris-'er "passion-VERB" → 'ilibris'er
   : Note: Euphemistic term derived from 'ilibris "passion". Shows cultural
     preference for metaphors of warmth/fire in intimate contexts. Contrasts with
-    more direct terms. See: [Body Terms](#body-terms),
+    more direct terms.
+  : See: [Body Terms](#body-terms),
     [Sacred Terms](#sacred--ritual)
 
 #### Derived Terms
@@ -2965,32 +3044,37 @@ vinuimris [vi.nu.im.ris]
   : to give birth
   : Proto-Hick \*vinu-imris → vinuimris
   : ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
-  : Note: Lexicalized from ellative case of "pregnancy" See:
+  : Note: Lexicalized from ellative case of "pregnancy"
+  : See:
   [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
 
 murvinuiter [mur.vi.nu.i.ter]
   : abortion
   : murvinu-imris "stillbirth-ELL" → murvinuiter
   : ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
-  Uses ellative case to indicate "from/out of stillbirth" See:
+  Uses ellative case to indicate "from/out of stillbirth"
+  : See:
   [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 pakupak [ˈpa.ku.pək]
   : tickle
   : Proto-Hick \*pakupaku → pakupak
   : Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
-  See: [Basic Terms](#basic-terms)
+
+  : See: [Basic Terms](#basic-terms)
 
 gralimris [gra.lim.ris]
   : excrement
   : gral-imris "soil-ELL" → gralimris
-  : Note: Formal/medical term derived from ellative case of "soil". See:
+  : Note: Formal/medical term derived from ellative case of "soil".
+  : See:
   [Medical Terms](#medical-terms), [Body Terms](#body-terms)
 
 murvinu [mur.vi.nu]
   : stillbirth
   : mur-vinu "night-pregnancy" → murvinu
-  : Note: Uses mur- "darkness" metaphorically for death See:
+  : Note: Uses mur- "darkness" metaphorically for death
+  : See:
   [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 mulislas [mu.lis.las]
@@ -3007,12 +3091,14 @@ sinibel [si.ni.bel]
   : taste
   : sin-ibel "float-tongue" → sinibel
   : Note: Shows metaphorical extension of floating motion to sensory perception
-  See: [Taste Terms](#taste-terms), [Body Parts](#body-parts)
+
+  : See: [Taste Terms](#taste-terms), [Body Parts](#body-parts)
 
 gralimris [gra.lim.ris]
   : excrement
   : gral-imris "soil-ELL" → gralimris
-  : Note: Formal/medical term derived from ellative case of "soil". See:
+  : Note: Formal/medical term derived from ellative case of "soil".
+  : See:
   [Medical Terms](#medical-terms), [Body Terms](#body-terms)
 
 ### Speech Terms
@@ -3023,7 +3109,8 @@ imbel [im.bel]
   : bad language, swear words
   : Proto-Hick \*im-bel → imbel
   : Note: Shows metaphorical extension of "evil tongue" to refer to taboo speech.
-  See: [Body Parts](#body-parts), [Speech Terms](#speech-terms)
+
+  : See: [Body Parts](#body-parts), [Speech Terms](#speech-terms)
 
 #### Taboo Terms
 
@@ -3032,7 +3119,8 @@ saw [saw]
   : Eldrim saw "filth, putrescence" → saw
   : ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
   : Note: Strong vulgar term, borrowed from Eldrim term of extreme disgust. Shows
-  cultural intensification of borrowed insult. See: [Taboo Terms](#taboo-terms)
+  cultural intensification of borrowed insult.
+  : See: [Taboo Terms](#taboo-terms)
 
 ### Medical Terms
 
@@ -3041,21 +3129,24 @@ saw [saw]
 imbris [im.bris]
   : fever, harmful heat
   : Proto-Hick \*im-bris → imbris
-  : Note: Shows productive use of im- prefix for negative conditions. See:
+  : Note: Shows productive use of im- prefix for negative conditions.
+  : See:
   [Medical Terms](#medical-terms), [Body States](#bodily-functions--states),
   [Illness Terms](#illness-terms)
 
 arsil [ar.sil]
   : open wound, cut
   : Proto-Hick \*ar-sil → arsil
-  : Note: Basic term for visible wounds. Forms verb arsil'er "to wound". See:
+  : Note: Basic term for visible wounds. Forms verb arsil'er "to wound".
+  : See:
   [Medical Terms](#medical-terms), [Body Terms](#body-parts)
 
 dup [dup]
   : pearl; lump, mass; sphere
   : Proto-Hick *dupu "pearl" → dup
   : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
-  : Note: Shows semantic extension from "pearl" to general "rounded mass". See:
+  : Note: Shows semantic extension from "pearl" to general "rounded mass".
+  : See:
   [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 
 #### Injury Terms
@@ -3063,12 +3154,14 @@ dup [dup]
 dudup [du.dup]
   : swollen muscle
   : Proto-Hick \*du-dup → dudup
-  : Note: Specific term for muscular swelling. See: [Body Terms](#body-terms)
+  : Note: Specific term for muscular swelling.
+  : See: [Body Terms](#body-terms)
 
 kandup [kan.dup]
   : head lump, bump on head
   : Proto-Hick \*kan-dup → kandup
-  : Note: Specific term for cranial swelling. See: [Medical Terms](#medical-terms)
+  : Note: Specific term for cranial swelling.
+  : See: [Medical Terms](#medical-terms)
 
 ### Tool Terms
 
@@ -3079,7 +3172,8 @@ krakesi [kra.ke.si]
   : krak-kasigaru "tooth-obsidian" → krakesi
   : Note: Originally referred to wooden paddle with obsidian teeth inserts.
     Extended to any long bladed weapon. Shows technological development from
-    Proto-Hick period. See: [Weapon Terms](#weapon-terms),
+    Proto-Hick period.
+  : See: [Weapon Terms](#weapon-terms),
     [Tool Terms](#tool-terms)
 
 brastak [bras.tak]
@@ -3087,7 +3181,8 @@ brastak [bras.tak]
   : brast-tak "arm-strike" → brastak
   : Note: General term for weapons, literally "arm-strike". Shows metonymic
     extension from action to implements. Often used collectively for military
-    equipment. See: [Weapon Terms](#weapon-terms), [Military Terms](#military-terms)
+    equipment.
+  : See: [Weapon Terms](#weapon-terms), [Military Terms](#military-terms)
 
 ### Architecture
 
@@ -3125,7 +3220,8 @@ arasud [a.ra.sud]
   : knot (in wood); falsehood
   : Proto-Hick \*xitu → 'it
   : Note: Primary meaning refers to natural knots in wood/lumber. Abstract meaning
-  "falsehood" derives from concept of deviation in wood grain. See:
+  "falsehood" derives from concept of deviation in wood grain.
+  : See:
   [Construction Terms](#construction--dwelling),
   [Abstract Concepts](#abstract-concepts)
 
@@ -3135,14 +3231,16 @@ uran [u.rən]
   : inch (unit of length, approximately thumb-width)
   : Proto-Hick *ulu-haranu → uran
   : Note: Shows development of measurement system from body parts. Compound of
-  *ulu "thumb" + *haranu "length". Compare ul "thumb". See: [Measurement Terms](#measurement-terms),
+  *ulu "thumb" + *haranu "length". Compare ul "thumb".
+  : See: [Measurement Terms](#measurement-terms),
   [Body Parts](#body-parts)
 
 brastran [bras.tran]
   : foot (unit of length, approximately arm-length)
   : brast-ran "arm-length" → brastran
   : Note: Shows development of -ran as measurement suffix from*haranu "length".
-  Compare uran "inch". See: [Measurement Terms](#measurement-terms),
+  Compare uran "inch".
+  : See: [Measurement Terms](#measurement-terms),
   [Body Parts](#body-parts)
 
 barakter [ba.rak.ter]
@@ -3150,7 +3248,8 @@ barakter [ba.rak.ter]
   : barak-ter "walk-time" → barakter
   : Note: Distance measure based on one hour's walking time. Shows temporal suffix
   used for distance measurement. Often shortened to rakter in colloquial speech.
-  See: [Measurement Terms](#measurement-terms), [Distance Terms](#distance-terms),
+
+  : See: [Measurement Terms](#measurement-terms), [Distance Terms](#distance-terms),
   [Time Terms](#time--celestial)
 
 ### Vehicular Terms
@@ -3160,20 +3259,23 @@ barakter [ba.rak.ter]
 tre [tre]
   : wagon, cart
   : Proto-Hick \*mataru → matre → tre
-  : Note: Back-formed from matre through reanalysis of ma- as plural prefix. See:
+  : Note: Back-formed from matre through reanalysis of ma- as plural prefix.
+  : See:
   [Vehicle Terms](#vehicle-terms)
 
 matre [ma.tre]
   : caravan
   : Proto-Hick \*mataru → matre
   : Note: Original form from \*mataru, reanalyzed as plural compound leading to
-  back-formation of tre. See: [Vehicle Terms](#vehicle-terms)
+  back-formation of tre.
+  : See: [Vehicle Terms](#vehicle-terms)
 
 mater [ma.ter]
   : vessel, boat
   : Proto-Hick \*mataru-heru → mater
   : Note: From "vehicle-action", specialized for water transport. From same root
-  \*mataru as tre/matre but with different development. See:
+  \*mataru as tre/matre but with different development.
+  : See:
   [Maritime Terms](#maritime-terms)
 
 ### Derived Terms
@@ -3182,7 +3284,8 @@ matre [ma.tre]
   : caravan
   : Proto-Hick \*mataru → matre
   : Note: Original form from \*mataru, reanalyzed as plural compound leading to
-  back-formation of tre. See: [Vehicle Terms](#vehicle-terms)
+  back-formation of tre.
+  : See: [Vehicle Terms](#vehicle-terms)
 
 ### Household Terms
 
@@ -3200,27 +3303,31 @@ eldul [el.dul]
   : north
   : eldalulbres "north wind" → eldul
   : Note: Shortened from "elven wind", shows historical Eldrim influence on
-    directional system. See: [Directional Terms](#directional-terms),
+    directional system.
+  : See: [Directional Terms](#directional-terms),
     [Wind Terms](#wind-terms)
 
 kethul [ke.θul]
   : east
   : kethulbres "east wind" → kethul
   : Note: Shortened from "sea wind", shows maritime influence on eastern regions.
-    See: [Directional Terms](#directional-terms), [Maritime Terms](#maritime-terms)
+
+  : See: [Directional Terms](#directional-terms), [Maritime Terms](#maritime-terms)
 
 thilul [θi.lul]
   : south
   : thilulbres "sacred wind" → thilul
   : Note: Shortened from "sacred wind", shows cultural association of south with
-    favorable omens. See: [Directional Terms](#directional-terms),
+    favorable omens.
+  : See: [Directional Terms](#directional-terms),
     [Sacred Terms](#sacred--ritual)
 
 tarul [ta.rul]
   : west
   : aitarulbres "rainy wind" → tarul
   : Note: Shortened from "rainy wind", shows climatic influence on directional
-    terms. See: [Directional Terms](#directional-terms),
+    terms.
+  : See: [Directional Terms](#directional-terms),
     [Weather Terms](#weather-terms)
 
 ### Climate & Weather
@@ -3279,7 +3386,8 @@ bressim [bres.sim]
   : weather (conditions)
   : bres-sim "wind-TRANS" → bressim
   : Note: Shows lexicalization of translative case marking, conceptualizing weather
-    as "becoming like wind". Forms verb bressim'er "to change (of weather)". See:
+    as "becoming like wind". Forms verb bressim'er "to change (of weather)".
+  : See:
     [Wind Terms](#wind-terms), [Climate Terms](#climate--weather)
 
 #### Cardinal Winds
@@ -3288,7 +3396,8 @@ torulbres [to.rul.bres]
   : north wind
   : Proto-Hick \*tor-ul-bres → torulbres
   : Note: Literally "mountain's wind". Later replaced by eldalulbres in many
-  regions after Eldrim contact. See: [Landforms](#landforms)
+  regions after Eldrim contact.
+  : See: [Landforms](#landforms)
 
 eldalulbres [el.da.lul.bres]
   : north wind
@@ -3299,7 +3408,8 @@ eldalulbres [el.da.lul.bres]
 kethulbres [ke.θul.bres]
   : east wind
   : Proto-Hick \*keth-ul-bres → kethulbres
-  : Note: Common in eastern coastal regions. See:
+  : Note: Common in eastern coastal regions.
+  : See:
   [Maritime Terms](#maritime-terms)
 
 thilulbres [θi.lul.bres]
@@ -3312,7 +3422,8 @@ aitarulbres [ai.ta.rul.bres]
   : west wind
   : Proto-Hick \*aitar-ul-bres → aitarulbres
   : Note: Primarily used in coastal regions, associated with rainfall patterns.
-  Inland regions often used libres. See: [Water Terms](#water-features)
+  Inland regions often used libres.
+  : See: [Water Terms](#water-features)
 
 #### Regional Variations
 
@@ -3347,7 +3458,8 @@ thurthral [θur.θral]
 thranal [θra.nal]
   : seasons
   : Proto-Hick \*thran-thral → thranal
-  : Note: Shows cyclical time through metaphor of countless sacred days See:
+  : Note: Shows cyclical time through metaphor of countless sacred days
+  : See:
   [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
 
 ### Musical Terms
@@ -3369,7 +3481,8 @@ meltek [mel.tek]
   : Proto-Hick *melu-takutaku "sweet-rhythm" → meltek
   : Note: Shows extreme reduction of second element while preserving initial
     syllable. Forms verb meltek'er "to sing". Contrasts with takal for speech
-    rhythm. See: [Musical Terms](#musical-terms), [Sound Terms](#sound-terms)
+    rhythm.
+  : See: [Musical Terms](#musical-terms), [Sound Terms](#sound-terms)
 
 #### Instruments
 
@@ -3387,7 +3500,8 @@ meltek [mel.tek]
   : person
   : Proto-Hick hi- animacy marker + Proth-Hick \*ʔalu
   "person" → 'al
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : See:
   [Political Terms](#political-terms)
 
 kir [kir]
@@ -3398,13 +3512,15 @@ kir [kir]
 kiris [ki.ris]
   : outsider
   : Proto-Hick \*kiru-ʔisu "body-out" → kiris
-  : Note: Shows archaic directional suffix. See: [Person Terms](#person-terms)
+  : Note: Shows archaic directional suffix.
+  : See: [Person Terms](#person-terms)
 
 kiriter [ki.ri.ter]
   : foreigner, stranger
   : Inland Hick kir-iter "body-ELL"
   Note: Borrowed from inland dialects with productive ellative suffix -iter (vs
-  coastal -imris). Contrasts with archaic kiris. See:
+  coastal -imris). Contrasts with archaic kiris.
+  : See:
   [Person Terms](#person-terms), [Directional Terms](#directional-terms)
 
 gal [gal]
@@ -3418,27 +3534,31 @@ wen'al [wen.ʔal]
 'eldal [ʔl.dal]
   : elf (individual)
   : Proto-Hick elda+'al "elf-person" → 'eldal
-  Note: Borrowing from Sindarin eldrim with native person marker See:
+  Note: Borrowing from Sindarin eldrim with native person marker
+  : See:
   [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 
 'eldalok [ʔel.da.lok]
   : elven people
   : Proto-Hick 'eldal-ok "elf-AGENT" → 'eldalok
   : ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
-  Note: Collective form using agentive suffix to mark social group See:
+  Note: Collective form using agentive suffix to mark social group
+  : See:
   [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 
 ma'alok [ma.ʔa.lok]
   : community member
   : Proto-Hick ma'al-ok "community-AGENT" → ma'alok
   Note: Shows productive use of agentive suffix with collective terms. Compare
-  ma'al "community" and 'al "person". See: [Person Terms](#person-terms),
+  ma'al "community" and 'al "person".
+  : See: [Person Terms](#person-terms),
   [Political Terms](#political-terms)
 
 vinok [vi.nok]
   : baby, infant
   : Proto-Hick vin-ok "pregnancy-AGENT" → vinok
-  Note: Shows semantic extension from agentive to resultative meaning. See:
+  Note: Shows semantic extension from agentive to resultative meaning.
+  : See:
   [Person Terms](#person-terms), [Kinship Terms](#kinship-terms)
 
 imasamok [i.ma.sa.mok]
@@ -3446,7 +3566,8 @@ imasamok [i.ma.sa.mok]
   : Proto-Hick imasam-ok "cower-AGENT" → imasamok
   : ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
   Note: Literally "one who cowers". Shows productive use of agentive suffix with
-  compound base. See: [Person Terms](#person-terms)
+  compound base.
+  : See: [Person Terms](#person-terms)
 
 toreldal [to.rel.dal]
   : High Elf
@@ -3489,7 +3610,8 @@ ma'al [ma.ʔal]
 vinlas [vin.las]
   : fetus, unborn child
   : Proto-Hick vin-las "pregnancy-ILL" → vinlas
-  : Note: Shows lexicalization of illative case marking location within. See:
+  : Note: Shows lexicalization of illative case marking location within.
+  : See:
   [Person Terms](person-terms), [Body Terms](#body-terms) 1
 
 ### Name & Identity Terms
@@ -3541,13 +3663,15 @@ takutakal [ta.ku.ta.kal]
   : language
   : takutak-'al "rhythm-person" → takutakal
   : Note: Shows conceptual link between rhythm and language. Forms basis for
-    word formation takal. See: [Language Terms](#language-terms),
+    word formation takal.
+  : See: [Language Terms](#language-terms),
     [Sound Terms](#sound-terms)
 takal [ta.kal]
   : word
   : tak-'al "strike-person" → takal
   : Note: Metaphorical extension from takutakal, conceptualizing word as single
-    unit of language rhythm. See: [Language Terms](#language-terms)
+    unit of language rhythm.
+  : See: [Language Terms](#language-terms)
 
 #### Eldrim Terms
 
@@ -3556,35 +3680,40 @@ matakulambe [ma.ta.ku.lam.be]
   : matakutakal-lambe "people's.rhythm-tongue" → matakulambe
   : Note: Early Hick term for Elven languages as a group, using Eldrim
     borrowing lambe. Shows typical compound reduction pattern. Used in
-    scholarly/diplomatic contexts. See: [Language Terms](#language-terms),
+    scholarly/diplomatic contexts.
+  : See: [Language Terms](#language-terms),
     [Eldrim Terms](#eldrim-terms)
 
 torlambe [tor.lam.be]
   : High Elven (Quenya)
   : tor-lambe "high-tongue" → torlambe
   : Note: Early Hick term for High Elven language. Shows parallel formation to
-    toreldal "High Elf". See: [Language Terms](#language-terms),
+    toreldal "High Elf".
+  : See: [Language Terms](#language-terms),
     [Eldrim Terms](#eldrim-terms)
 
 wudlambe [wud.lam.be]
   : Wood Elven (Sindarin)
   : wud-lambe "wood-tongue" → wudlambe
   : Note: Early Hick term for Wood Elven language. Parallels edel "Wood Elf".
-    Most common Elven language in Early Hick contact. See:
+    Most common Elven language in Early Hick contact.
+  : See:
     [Language Terms](#language-terms)
 
 takulambe [ta.ku.lam.be]
   : Common Elven (Sindarin-based lingua franca)
   : taku-lambe "common-tongue" → takulambe
   : Note: Early Hick term for simplified Elven trade language. Shows
-    development of inter-cultural communication. See:
+    development of inter-cultural communication.
+  : See:
     [Language Terms](#language-terms)
 
 murlambe [mur.lam.be]
   : Dark Elven (Drow)
   : mur-lambe "dark-tongue" → murlambe
   : Note: Early Hick term for Dark Elven language. Parallels ithiril "Dark
-    Elf". Rarely encountered in Early Hick period. See:
+    Elf". Rarely encountered in Early Hick period.
+  : See:
     [Language Terms](#language-terms)
 
 ### Political Terms
@@ -3593,20 +3722,23 @@ murlambe [mur.lam.be]
 
 ma'al [ma.ʔal]
   : community, tribe
-  : Proto-Hick ma-'al "COLL-person" → ma'al See:
+  : Proto-Hick ma-'al "COLL-person" → ma'al
+  : See:
   [Person Terms](#person-terms)
 
 ma'alok [ma.ʔa.lok]
   : community member
   : Proto-Hick ma'al-ok "community-AGENT" → ma'alok
   Note: Shows productive use of agentive suffix with collective terms. Compare
-  ma'al "community" and 'al "person". See: [Person Terms](#person-terms),
+  ma'al "community" and 'al "person".
+  : See: [Person Terms](#person-terms),
   [Political Terms](#political-terms)
 
 im'irok [im.ʔi.rok]
   : enemy, adversary
   : Proto-Hick im'ir-ok "ill.intent-AGENT" → im'irok
-  Note: Shows productive use of agentive suffix with abstract concepts. See:
+  Note: Shows productive use of agentive suffix with abstract concepts.
+  : See:
   [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 
 ### Communication Terms
@@ -3614,19 +3746,22 @@ im'irok [im.ʔi.rok]
 paket [pa.ket]
   : talk
   : Proto-Hick \*pakata → paket
-  : Note: Forms verb paket'er "to speak, to talk" See:
+  : Note: Forms verb paket'er "to speak, to talk"
+  : See:
   [Social Terms](#social-terms)
   
 tenwa [ten.wa]
   : writing; spellcraft
   : Eldrim tengwa "letter" → tenwa
-  : Note: Shows semantic extension from basic writing to magical inscription. See:
+  : Note: Shows semantic extension from basic writing to magical inscription.
+  : See:
   [Communication Terms](#communication-terms), [Sacred Terms](#sacred--ritual)
 
 tenwa'er [ten.wa.ʔer]
   : to write; to make spells
   : tenwa + -'er → tenwa'er
-  : Note: Maintains dual meaning of base noun in verbal form. See:
+  : Note: Maintains dual meaning of base noun in verbal form.
+  : See:
   [Communication Terms](#commun
 
 ### Social Terms
@@ -3636,14 +3771,16 @@ tenwa'er [ten.wa.ʔer]
 paket [pa.ket]
   : talk
   : Proto-Hick \*pakata → paket
-  : Note: Forms verb paket'er "to speak, to talk" See:
+  : Note: Forms verb paket'er "to speak, to talk"
+  : See:
   [Communication Terms](#communication-terms)
 
 ma'alok [ma.ʔa.lok]
   : community member
   : Proto-Hick ma'al-ok "community-AGENT" → ma'alok
   Note: Shows productive use of agentive suffix with collective terms. Compare
-  ma'al "community" and 'al "person". See: [Person Terms](#person-terms),
+  ma'al "community" and 'al "person".
+  : See: [Person Terms](#person-terms),
   [Political Terms](#political-terms)
 
 natlas [nat.las]
@@ -3651,13 +3788,15 @@ natlas [nat.las]
   : Proto-Hick gnater-las "desire-ILL" → natlas
   : Note: Shows cluster simplification and case lexicalization. From "one in a
   state of desire/affection" to "friend". Compare grammaticalized desiderative
-  -nat. See: [Social Terms](#social-terms), [Case System](#case-system)
+  -nat.
+  : See: [Social Terms](#social-terms), [Case System](#case-system)
 
 'iltakutak [ʔil.ta.ku.tak]
   : peace, harmony
   : 'il-takutak "good-rhythm" → 'iltakutak
   : Note: Shows cultural conceptualization of peace as harmonious rhythm. Often
-    used in diplomatic contexts. Forms verb 'iltakutak'er "to make peace". See:
+    used in diplomatic contexts. Forms verb 'iltakutak'er "to make peace".
+  : See:
     [Social Terms](#social-terms), [Sacred Terms](#sacred--ritual)
 
 #### Love Terms
@@ -3668,34 +3807,39 @@ sibris [si.bris]
   sibris
   ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
   Note: From "skin-fire", metaphorical extension to passionate but potentially
-  fleeting emotion. Contrasts with meris "enduring love". See:
+  fleeting emotion. Contrasts with meris "enduring love".
+  : See:
   [Abstract Concepts](#abstract-concepts)
 
 meris [me.ris]
   : unconditional love
   : Proto-Hick \*meru-risu → meris
   Note: From "heart-towards", metaphorical extension to deep, lasting emotional
-  bond. Shows archaic lative case usage. See:
+  bond. Shows archaic lative case usage.
+  : See:
   [Abstract Concepts](#abstract-concepts), [Case System](#case-system)
 
 dakisa [da.ki.sa]
   : infatuation
   : Proto-Hick \*daluku-isa-hihasa → dakisa
   Note: Literally "snake in the gut"; metaphorical extension for intense desire
-  See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
+
+  : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
 brismer [bris.mer]
   : passionate lover
   : bris-mer "fire-parent/heart" → brismer
   : Note: Shows ambiguous compound analysis between "passionate-parent" and
-  "fire-heart", typical of Early Hick love poetry. See: [Love Terms](#love-terms),
+  "fire-heart", typical of Early Hick love poetry.
+  : See: [Love Terms](#love-terms),
   [Person Terms](#person-terms)
 
 storbran [stor.bran]
   : marriage, family union
   : stor-bran "join-lineage" → storbran
   : Note: Shows formalization of marriage as union between family lines during
-  Early Hick period. Forms verb storbran'er "to marry". See:
+  Early Hick period. Forms verb storbran'er "to marry".
+  : See:
   [Family Terms](#family-terms), [Social Terms](#social-terms)
 
 #### Emotion Terms
@@ -3703,19 +3847,22 @@ storbran [stor.bran]
 'ibris'er [ʔi.bris.ʔer]
   : to burn
   : 'ibris-'er "burn-VERB" → 'ibris'er
-  : Note: Base form for metaphorical extensions to passion and anger. See:
+  : Note: Base form for metaphorical extensions to passion and anger.
+  : See:
   [Basic Terms](#basic-terms), [Fire Terms](#fire-terms)
 
 'ilibris [ʔi.li.bris]
   : passion; inspire fervor
   : 'il-'ibris "good-burn" → 'ilibris
-  : Note: Shows positive metaphorical extension of burning sensation. See:
+  : Note: Shows positive metaphorical extension of burning sensation.
+  : See:
   [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
 
 imibris [im.i.bris]
   : rage, anger; wrath
   : 'im-'ibris "ill-burn" → 'imibris
-  : Note: Shows negative metaphorical extension of burning sensation. See:
+  : Note: Shows negative metaphorical extension of burning sensation.
+  : See:
   [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
 
 kasai [kas.əi]
@@ -3723,14 +3870,16 @@ kasai [kas.əi]
   : introspection, self-reflection
   : kasu-ai "reflection-water" → kasai
   : Note: From ancient practice of water-gazing meditation. Shows metaphorical
-  extension from physical reflection to mental contemplation. See:
+  extension from physical reflection to mental contemplation.
+  : See:
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
 
 sai [sai]
   : sense of self; inner voice
   : Back-formation from kasai, reanalyzed as ka-sai "ADJ-self"
   : Note: Originally part of kasai "introspection", reanalyzed as adjectival
-  compound leading to extraction of sai as independent term. See:
+  compound leading to extraction of sai as independent term.
+  : See:
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
 
 'ilsul [ʔil.sul]
@@ -3738,20 +3887,23 @@ sai [sai]
   : 'il-sul "good-liver" → 'ilsul
   : Note: Shows cultural conceptualization of liver as seat of emotions,
     particularly positive ones. Forms verb 'ilsul'er "to be happy". Often appears
-    in well-wishing expressions. See: [Body Terms](#body-terms),
+    in well-wishing expressions.
+  : See: [Body Terms](#body-terms),
     [Emotional Terms](#emotional-terms)
 mes'er [mes.ʔer]
   : to feel (emotion), experience emotion
   : mes-'er "heart-VERB" → mes'er
   : Note: Basic emotion verb showing heart as seat of feelings. Often used in
     compounds to form specific emotion terms. Contrasts with sul- (liver) terms
-    for deeper emotions. See: [Body Terms](#body-terms),
+    for deeper emotions.
+  : See: [Body Terms](#body-terms),
     [Emotional Terms](#emotional-terms)
 merkran [mer.kran]
   : emotional pain, heartache
   : mer-krantak "heart-pierce" → merkran
   : Note: Shows metaphorical conceptualization of emotional pain as heart-piercing.
-    Forms verb merkran'er "to feel emotional pain". See: [Body Terms](#body-terms),
+    Forms verb merkran'er "to feel emotional pain".
+  : See: [Body Terms](#body-terms),
     [Emotional Terms](#emotional-terms)
 
 #### Exchanges
@@ -3760,7 +3912,8 @@ merkran [mer.kran]
   : gift
   : Proto-Hick 'irur-etil "hollow-thing" → 'iruretil
   Note: Shows cultural link between containers and proper gifts. Always
-  inanimate. See: [Material Culture](#material-culture)
+  inanimate.
+  : See: [Material Culture](#material-culture)
 
 'irursibris [ʔi.rur.sib.ris]
   : ceremonial gift, dowry
@@ -3777,7 +3930,8 @@ merkran [mer.kran]
   : 'ilis-tal "knowledge-place" → 'ilistal
   : Note: Shows development of formal learning spaces. Forms compounds for
     specific types of knowledge centers. Contrasts with 'ilisal for experiential
-    learning. See: [Learning Terms](#learning-terms),
+    learning.
+  : See: [Learning Terms](#learning-terms),
     [Building Terms](#building-terms)
 
 ### Conflict Terms
@@ -3788,12 +3942,14 @@ imwes [im.wes]
   : invade, encroach upon
   : Proto-Hick \*im-wes → imwes
   Note: Shows productive use of im- prefix for harmful actions. Forms verb imwes'er.
-  See: [Action Terms](#action-terms), [Conflict Terms](#conflict-terms)
+
+  : See: [Action Terms](#action-terms), [Conflict Terms](#conflict-terms)
 harabran [ha.ra.bran]
   : conflict, grievance (especially between families/clans)
   : haran-bran "divide-lineage" → harabran
   : Note: Shows cultural conceptualization of conflict as family/clan division.
-    Forms verb harabran'er "to feud". See: [Social Terms](#social-terms),
+    Forms verb harabran'er "to feud".
+  : See: [Social Terms](#social-terms),
     [Conflict Terms](#conflict-terms)
 
 ### Kinship Terms
@@ -3811,7 +3967,8 @@ nai [nai]
 mer [mer]
   : parent
   : Proto-Hick \*meru → mer
-  See: [Bird Terms](#bird-terms-nocturnal), [Sacred Terms](#sacred--ritual),
+
+  : See: [Bird Terms](#bird-terms-nocturnal), [Sacred Terms](#sacred--ritual),
   [Animals](#animals) Note: Metaphorical extension from bird terminology
   reflecting cultural values
 
@@ -3824,7 +3981,8 @@ lis [lis]
   : child
   : Proto-Hick \*li-su → lis (lit. "little one")
   Note: Semantic d\lopment parallels diminutive formations (see lines 627-630)
-  See: [Kinship Terms](#kinship-terms),
+
+  : See: [Kinship Terms](#kinship-terms),
   [Diminutive Formation](#augmentativediminutive)
 
 #### Compound Terms
@@ -3882,20 +4040,23 @@ linai [li.nai]
 vinok [vi.nok]
   : baby, infant
   : Proto-Hick vin-ok "pregnancy-AGENT" → vinok
-  Note: Shows semantic extension from agentive to resultative meaning. See:
+  Note: Shows semantic extension from agentive to resultative meaning.
+  : See:
   [Person Terms](#person-terms), [Kinship Terms](#kinship-terms)
 
 kethbran [keθ.bran]
   : kin, extended family
   : Proto-Hick keth-bran "hundred-lineage" → kethbran
   Note: Shows metaphorical extension of "hundred lineages" to mean extended family/kin.
-  See: [Family Terms](#family-terms), [Social Terms](#social-terms)
+
+  : See: [Family Terms](#family-terms), [Social Terms](#social-terms)
 
 storbran [stor.bran]
   : marriage, family union
   : stor-bran "join-lineage" → storbran
   : Note: Shows formalization of marriage as union between family lines during
-  Early Hick period. Forms verb storbran'er "to marry". See:
+  Early Hick period. Forms verb storbran'er "to marry".
+  : See:
   [Family Terms](#family-terms), [Social Terms](#social-terms)
 
 ### Usage Examples
