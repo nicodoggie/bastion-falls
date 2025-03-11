@@ -68,14 +68,14 @@ Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
 1. Deletion of a liquid in proximity to a glottal fricative:
 
-   ```plaintext
+   ```txt
    h [liquid] => h \*/ \_
    - [liquid] h => \* h /\_
    ```
 
 2. Reduction of a liquid cluster ending with the alveolar lateral:
 
-   ```plaintext
+   ```txt
    [liquid] l => l \* / \_
    ```
 
@@ -83,7 +83,7 @@ Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
    1. Deletion of an initial vowel in the second element of a compound:
 
-      ```plaintext
+      ```txt
       @consonant @vowel => @consonant \* / \_ $$
       Then: $$ => \*
       Then: s {[fricative], [glide]} => s \* / \_
@@ -92,14 +92,14 @@ Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
    2. Deletion of the final nasal in the first element of a compound:
 
-      ```plaintext
+      ```txt
       [nasal] @consonant => @consonant \* / \_ $$
       Then: $$ => \*
       ```
 
 4. Reanalysis of initial ha to match changes with sacred terminology:
 
-   ```plaintext
+   ```txt
    ha => θə / $ _ {[stop !glottal], [fricative], [liquid], [glide]}  
       Else: (
          haʔ => θ / $ _@vowel \<syl\> \<syl\>
@@ -111,7 +111,7 @@ Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
 5. Devoicing of voiced glottal stops in unstressed syllables:
 
-   ```plaintext
+   ```txt
    [voiced glottal] => [unvoiced glottal] / $ \_ @vowel 
    Then: [unvoiced glottal] => ʔ / $ \_ i # voiced glottals don't trigger animacy deletion
    Then: [unvoiced glottal] => ʔ / $ \_ a # voiced glottals don't trigger sacred θ
@@ -119,7 +119,7 @@ Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
 6. Stress Shift to initial syllable:
 
-   ```plaintext
+   ```txt
    [primary] => [unstressed] / \_ 
    Then: [unstressed] => [primary] / $ \_
    ```
@@ -136,7 +136,7 @@ Sound changes from Proto-Maritime Hick to Proto-Seneran Hick are:
 
 1. Unstressed Vowel Reduction:
 
-   ```plaintext
+   ```txt
    [+high +front] => i / [unstressed] \_
    [+high +back] => u / [unstressed] \_
    [+low] => ə / [unstressed] \_
@@ -144,13 +144,13 @@ Sound changes from Proto-Maritime Hick to Proto-Seneran Hick are:
 
 2. Fronting of vowels in stressed initial syllables after fricative onsets
 
-   ```plaintext
+   ```txt
    {ə, e} => i / $ [fricative] \_
    ```
 
 3. Final Vowel Lowering
 
-   ```plaintext
+   ```txt
    [+high +back] => [-high +mid -back +central] / \_ $
    [+mid +front] => [-low -front +central] / \_ $
    ```
@@ -164,19 +164,19 @@ Senera::
 
 1. Initial glottal fricative deletion:
 
-   ```plaintext
+   ```txt
    [unvoiced glottal fricative] => \* / $ \_ @vowel&![+high]
    ```
 
 2. Initial glottal stop deletion:
 
-   ```plaintext
+   ```txt
    [unvoiced glottal stop] => \* / $ \_ @vowel
    ```
 
 3. Initial hi reduces to glottal stop, common in animacy-marked compounds:
 
-   ```plaintext
+   ```txt
    hi => ʔ / $ \_ {[+high], @consonant&![glottal stop]} 
    Else: hi => ʔ / $ \_ [glottal stop] 
    Else: hi => ʔ / $ \_ @vowel
@@ -184,13 +184,13 @@ Senera::
 
 4. Metathesis of dental fricatives:
 
-   ```plaintext
+   ```txt
    θ @vowel => θ \* / $ \_ r @vowel // \_ <syl> $
    ```
 
 5. Vowel coalescence:
 
-   ```plaintext
+   ```txt
    @vowel {h} => @vowel \* / $ \_ @vowel $
    @vowel @vowel => @vowel \* / $ \_ @consonant
    {w} @vowel => \* @vowel / [nasal] \_ @consonant $
@@ -199,20 +199,20 @@ Senera::
 
 6. Metathesis of complex clusters:
 
-   ```plaintext
+   ```txt
    @vowel$1 @consonant$2 => $2 $1 / $ \_ @finalcluster
    ```
 
 7. First syllable syncope:
 
-   ```plaintext
+   ```txt
    {p,b,k,t,s,θ} @vowel => {p,b,k,t,s,θ} \* / $ \_ {k,t,n,r} <syl> // \_
      @consonant <syl> @consonant
    ```
 
 8. Back vowel reduction after velar stop:
 
-   ```plaintext
+   ```txt
    [+back] => \* / $ [velar stop] \_ [nasal]
    ```
 
@@ -225,7 +225,7 @@ Senera::
 
 1. Glottal Devoicing:
 
-   ```plaintext
+   ```txt
    [voiced glottal] => [unvoiced glottal] / $ \_ @vowel 
    Then: [unvoiced glottal] => ʔ / $ \_ i # voiced glottals don't trigger 
       animacy deletion
@@ -235,7 +235,7 @@ Senera::
 
 2. Cluster Resolution from schwa nucleus deletion:
 
-   ```plaintext
+   ```txt
    {b,t,θ,k}$1 a r => $1 r a / \_ {s,t,k}
    ə => \* / r _@consonant <syl> // {b,t,k} r_ @consonant <syl>
    ə => \* / @consonant \_ @consonant r
@@ -243,7 +243,7 @@ Senera::
 
 3. Final Vowel Transposition:
 
-   ```plaintext
+   ```txt
    {p,b,k,t,θ}$1 {r,n,t,k}$2 ə => $1 ə $2 / _ $
    Then: ə => a / _ [fricative] $
    Then: ə => e / [stop] \_ @consonant
@@ -251,7 +251,7 @@ Senera::
 
 4. Final Vowel Reduction:
 
-   ```plaintext
+   ```txt
    h ə => \* ə / _$ // $_ $
    ə => \* / _$ // $_ $
    ```
@@ -291,7 +291,7 @@ Senera::
 
 # Proto-Hick Reconstruction
 
-See: [Proto-Hick](@/languages/hick/proto-hick.md)
+See: [Proto-Hick](@/languages/hick/proto-hick/_index.md)
 
 ## Overview
 
@@ -353,8 +353,6 @@ See: [Vowel Allophony](#vowel-allophony) for positional variants
 | ------- | --------------- | ---------------- |
 | Common  | /-st, -sk, -sp/ | mest, risk, lisp |
 | Limited | /-ks, -ls, -rs/ | teks, mals, tors |
-
-See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
 
 ### Vowel Sequences
 
@@ -461,9 +459,7 @@ The vowel /a/ surfaces as [ə]:
 3. In grammatical prefixes:
 
    - /ka-/ → [kə-] (similarity prefix)
-   - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
-
+   - /ma-/ → [mə-] (plural prefix)
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
    - /ranar/ → [rənər] "flowing"
@@ -490,7 +486,7 @@ The vowel /a/ surfaces as [ə]:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred)
 
 ### Consonant Allophony
 
@@ -513,7 +509,7 @@ the "object" of a transitive verb. This "object" or "patient" referent is marked
 with the _absolutive_ case marker -es. The "subject" or "agent" referent is
 marked with the _ergative_ case marker -el.
 
-```plaintext
+```txt
 materokel 'al-es venitar
 handler-ERG person-ABS burden.SUP
 "The handler carries the person"
@@ -523,7 +519,7 @@ In the above example, the handler _materok_ is the agent of the verb "to carry"
 and is marked with the ergative case marker -el. The person _'al_ is the patient
 of the verb and is marked with the absolutive case marker -es.
 
-```plaintext
+```txt
 'ales barak'er
 person-ABS walk-VERB
 "The person walks"
@@ -556,7 +552,7 @@ See: [Verbal Morphology](#verbal-morphology) for details on:
 Early Hick has no true verb class. Verbs are formed from nouns and property
 concepts and are marked with the verbalizer affix _-'er_.
 
-```plaintext
+```txt
 'al'isel ven'er 'ales
 person.PROX.ERG yoke.VERB person.ABS
 this person carries a person
@@ -570,7 +566,7 @@ means "to carry".
 While some words, such as _barak_ "walk", semantically denote actions, the
 verbalizer affix _-'er_ is still applied in most instances.
 
-```plaintext
+```txt
 'ales barak'er
 person-ABS walk-VERB
 "The person walks."
@@ -596,7 +592,7 @@ direction an action is performed. When used with transitive verbs, the spatial
 cases indicate the direction of the action done by the agent, in relation to the
 patient.
 
-```plaintext
+```txt
 branum galel belaes rismateres
 PAST man-ERG entrance-ILL reed boat-ABS
 The man inward-entrance the reed boat.
@@ -607,7 +603,7 @@ The above example shows the man _gal_ entering the boat _rismater_. There is
 another way to express this sentence using the spatial case marker, removing the
 explicit verbal word _bel_ "entrance".
 
-```plaintext
+```txt
 branum gales rismater-aes
 PAST man-ABS reed boat-ILL
 The man entered the reed boat.
@@ -632,21 +628,21 @@ the time of the action.
 | branrum      | far past |
 | mulsum       | future   |
 
-```plaintext
+```txt
 branum 'ales venitar
 PAST person-ABS yoke-SUPE
 PAST person lift
 "The person lifted."
 ```
 
-```plaintext
+```txt
 branrum 'ales venitar
 FAR PAST person-ABS yoke-SUPE
 FAR PAST person lifted
 "The person lifted long ago."
 ```
 
-```plaintext
+```txt
 mulsum 'ales venitar
 FUT person-ABS yoke-SUPE
 "The person will lift."
@@ -737,7 +733,7 @@ Early Hick has five strategies for marking number:
 
    Can be used in two ways: a. As adjectival/adverbial modifier with ka- prefix:
 
-   ```plaintext
+   ```txt
    kasinter 'ir'er
    first mover
    "first one to move"
@@ -745,7 +741,7 @@ Early Hick has five strategies for marking number:
 
    b. As a prefix in number marking position:
 
-   ```plaintext
+   ```txt
    thaltermateres matir'er
    third-ship sail-VERB
    "third ship to sail"
@@ -754,7 +750,7 @@ Early Hick has five strategies for marking number:
 6. Fractional Marking with ran- The partitive prefix ran- can also mark
    fractions when used with numbers:
 
-   ```plaintext
+   ```txt
    tirranrakter
    two-PART-league
    "half-league" (league divided in two)
@@ -767,7 +763,7 @@ Early Hick has five strategies for marking number:
    Note that this creates ambiguity with numerical marking, as number-ran-noun
    can mean either "X number of nouns" or "1/X of a noun" depending on context:
 
-   ```plaintext
+   ```txt
    tirranlis
    two-PART-child
    "two children" (numerical marking)
@@ -794,7 +790,7 @@ Early Hick has five strategies for marking number:
    These markers are mutually exclusive in the same position class:
    (NEG)-(ADJ)-(PLURAL/PART/NUM-PART)-(SIZE)-ROOT
 
-   ```plaintext
+   ```txt
    telran-materok
    EXCL.PART-handler
    "only the handlers" (specifically excluding non-handlers)
@@ -840,7 +836,7 @@ had applied to a wide range of concepts, becoming a general adjectivizer.
 
    a. Intransitive use (spontaneous change):
 
-   ```plaintext
+   ```txt
    mes-es kames-sim
    heart-ABS heart.like-TRANS
    "The heart becomes emotional" (lit. "becomes heart-like")
@@ -848,7 +844,7 @@ had applied to a wide range of concepts, becoming a general adjectivizer.
 
    b. Transitive use (caused change):
 
-   ```plaintext
+   ```txt
    sibris-el mes-es kames-sim
    love-ERG heart-ABS heart.like-TRANS
    "Love makes the heart emotional" (lit. "love makes heart become heart-like")
@@ -929,7 +925,7 @@ The possessive suffix -ul marks ownership and possession relationships:
    - Possessed noun follows directly
    - No additional marking on possessed noun
 
-   ```plaintext
+   ```txt
    materok-ul rismater
    handler-POSS boat
    "the handler's boat"
@@ -945,18 +941,17 @@ The possessive suffix -ul marks ownership and possession relationships:
 
 ### Verbalizer
 
-- -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+- -'er ['er]: creates verbs from nouns and property concepts
 - If -'er is preceded by a plosive, it surfaces as [er]
 
-```plaintext
+```txt
 mulis-'er [mulis.ʔer] "dreaminɡ"
 tak-er [tak.er] "strike"
 ```
 
 #### Active verbs (from action/motion concepts)
 
-```plaintext
+```txt
 ai-es ter-'er
 water-ABS flow-VERB
 "Water flows"
@@ -971,7 +966,7 @@ Examples:
 - ter-'er "to flow" (See:
   [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
 - thren-'er "to watch" (See:
-  [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+  [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred))
 - ward-'er "to guide"
 
 #### Stative verbs (from property concepts)
@@ -980,7 +975,7 @@ Stative verbs are formed from property concepts using the verbalizer -ʔer. In
 order to disambiguate from active verbs, in most cases, the adjectivizer prefix
 ka- is prepended to the verb.
 
-```plaintext
+```txt
 tor-thir-es kathral-'er
 peak-KNOWN.ANIM-ABS ADJ-sacred-VERB
 "The known peak is sacred"
@@ -993,7 +988,7 @@ sky-ABS ADJ-red-VERB
 Examples:
 
 - thral-'er "to be sacred" (See:
-  [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+  [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred))
 - mar-'er "to be red" (See:
   [Colors](@/languages/hick/early-hick/lexicon.md#colors))
 
@@ -1013,7 +1008,7 @@ modal constructions, see: [Syntactic Mood](#syntactic-mood)
 The volitional suffix -arm (< Proto-Hick \*harmu "willing") marks intention or
 willingness. Like other modal suffixes, it replaces the verbalizer -'er:
 
-```plaintext
+```txt
 # Intransitive
 'al'ises wardarm
 person.DEM.PROX.ANIM.VIS-ABS guide.VOL
@@ -1034,7 +1029,7 @@ Common forms:
 Note: The volitional often appears in ritual contexts and formal pledges,
 suggesting its historical connection to expressions of sacred duty or
 obligation. See also:
-[Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+[Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred)
 
 #### Desiderative Marker -nat
 
@@ -1044,7 +1039,7 @@ transitivity of the base verb:
 
 1. With intransitive verbs:
 
-   ```plaintext
+   ```txt
    'al'ises imerespnat
    person.DEM.PROX.ANIM.VIS-ABS sleep.DES.VERB
    "I want to sleep"
@@ -1054,7 +1049,7 @@ transitivity of the base verb:
 
 2. With transitive verbs:
 
-   ```plaintext
+   ```txt
    'al'isel hilisnat 'altales
    person.DEM.PROX.ANIM.VIS-ERG look.DES.VERB person.DEM.MED.VIS.ANIM-ABS
    "I want to see you"
@@ -1081,7 +1076,7 @@ causation.
 
 2. Directional Usage
 
-   ```plaintext
+   ```txt
    materok-el rismater-las
    handler-ERG reed.boat-ILL
    "The handler enters the reed boat"
@@ -1104,7 +1099,7 @@ causation.
    - Spatial cases extend to mark state changes
    - See: [Adjectival System](#adjectival-morphology) for full details
 
-   ```plaintext
+   ```txt
    kamar kel-es kakel-las
    red sky-ABS blue-ILL
    "red sky turns blue"
@@ -1125,7 +1120,7 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
    - Uses verbalizer -ʔer
    - Takes absolutive argument Examples:
 
-   ```plaintext
+   ```txt
    kel-es kakel-ʔer
    sky-ABS blue-VERB
    "The sky is blue"
@@ -1139,7 +1134,7 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 
    1. Translative (-sim):
 
-      ```plaintext
+      ```txt
       kel-es kakel-sim
       sky.ABS blue.TRANS
       "sky becomes blue"
@@ -1147,7 +1142,7 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 
    2. Directional Cases (-las/-imris):
 
-      ```plaintext
+      ```txt
       kamar kel-es kakel-las
       red sky-ABS blue-ILL
       "red sky turns blue"
@@ -1183,7 +1178,7 @@ Early Hick forms color terms through two strategies:
 
 Compare:
 
-```plaintext
+```txt
 kakel kel
 sky-like sky
 "sky-like sky" (could refer to any sky quality)
@@ -1195,7 +1190,7 @@ blue sky
 
 The -rak suffix can also be used in color-changing contexts:
 
-```plaintext
+```txt
 'al'isel alises arak'er kelel kelrakes
 person.PROX.ERG who.ABS color.VERB sky.ERG blue.ABS
 "I colored the sky blue"
@@ -1324,7 +1319,7 @@ the performer of the action.
 
 2. Order of Elements
 
-```plaintext
+```txt
 (NEG)-(ADJ)-(PLURAL)-(SIZE)-ROOT-(AGENT)-(CASE)
 ```
 
@@ -1400,7 +1395,7 @@ main ways:
 
    - Come before the noun they modify
 
-   ```plaintext
+   ```txt
    'irek litor-es etal
    firm hill-ABS that.MED
    "that firm hill" (like English "the tall tree")
@@ -1408,7 +1403,7 @@ main ways:
 
 2. As Predicate Adjectives (with verb marking)
 
-   ```plaintext
+   ```txt
    litor-es ka'irek'er
    hill-ABS ADJ-firm-VERB
    "The hill is firm" (like English "The tree is tall")
@@ -1419,7 +1414,7 @@ main ways:
    - Come after the verb they modify
    - Often take the similarity prefix ka-
 
-   ```plaintext
+   ```txt
    wen'altanes 'irek'er ka'irek
    woman.MED.VIS.ANIM-ABS stand-VERB firm-SIM
    "She stands firmly" (like English "-ly" adverbs)
@@ -1444,7 +1439,7 @@ an adjective (before nouns) or an adverb (after verbs).
    - Final position: new information or emphasis
    - Examples:
 
-     ```plaintext
+     ```txt
      branum bramisimris kethes
      past    river-ELL    sea-ABS
      "In the past, the river flowed to the sea" (temporal frame first)
@@ -1458,7 +1453,7 @@ an adjective (before nouns) or an adverb (after verbs).
 
    - Verbs can occur in different positions based on aspect:
 
-     ```plaintext
+     ```txt
      materok-el rismater-es ward tel
      handler-ERG reed.boat-ABS guide COMPL
      "The handler has guided the reed boat" (completed action)
@@ -1470,7 +1465,7 @@ an adjective (before nouns) or an adverb (after verbs).
 
    - Directional constructions allow goal prominence:
 
-     ```plaintext
+     ```txt
      keth-aes materok-el rismater-es
      sea-ILL  handler-ERG reed.boat-ABS
      "To sea the handler (takes) the reed boat"
@@ -1484,7 +1479,7 @@ an adjective (before nouns) or an adverb (after verbs).
      - Final: neutral narrative position
    - Examples:
 
-     ```plaintext
+     ```txt
      branum materok-el ward-ʔer  # Frame-setting
      past    handler-ERG guide-VERB
      "In the past, the handler guided"
@@ -1510,7 +1505,7 @@ See: [Tense](#tense) and [Aspect](#aspect) for a complete description of:
 Early Hick marks accompaniment through the particle ewes, which precedes an
 absolutive-marked participant:
 
-```plaintext
+```txt
 'al'isel ewes Maries ward'er
 person.DEM.PROX.ANIM.VIS-ERG WITH Mari-ABS travel.VERB
 "I travel with Mari"
@@ -1530,7 +1525,7 @@ to do Z"):
 Uses the adjectival prefix ka- with translative -sim to show caused state (See:
 [Adjectival Marking](#adjectival-marking)):
 
-```plaintext
+```txt
 branum 'al'isel kaimerespsim galtales
 PAST person.PROX.ERG ADJ-sleep-TRANS man.MED.ABS
 "I made him sleep" (lit. "I made him become sleep-like")
@@ -1539,7 +1534,7 @@ PAST person.PROX.ERG ADJ-sleep-TRANS man.MED.ABS
 The construction maintains ergative-absolutive alignment, with the causer marked
 ergative and the causee marked absolutive.
 
-```plaintext
+```txt
 ma'altalel 'al'ises 'ilisimris'er [katagsim wen'er wenel]
 PL.person.MED.ERG person.PROX.ABS teach.VERB [ADJ.give.TRANS bloom.VERB flower.ERG]
 "They taught us to make flowers bloom"
@@ -1552,7 +1547,7 @@ person.PROX.ERG person.MED.ABS teach.VERB [ADJ.give.TRANS flow.VERB water.ERG]
 The embedded causative maintains its fixed [AUX VERB SUBJ] order even with
 multiple verbs, while the matrix clause remains flexible:
 
-```plaintext
+```txt
 altales 'al'isel [katagsim sul'er aiel] 'ilisimris'er
 person.MED.ABS person.PROX.ERG [ADJ.give.TRANS flow.VERB water.ERG] teach.VERB
 "Them, I taught to make the water flow"
@@ -1562,7 +1557,7 @@ person.MED.ABS person.PROX.ERG [ADJ.give.TRANS flow.VERB water.ERG] teach.VERB
 
 Uses relative clause structure to frame commands as reported speech:
 
-```plaintext
+```txt
 branum 'al'isel ['alises paket'er imerespes!] galtalimrises
 PAST person.PROX.ERG [who.ABS say.VERB sleep.IMP.ABS!] man.MED.ELL.ABS
 "I who said 'sleep!' to him"
@@ -1583,7 +1578,7 @@ demonstrative agreement:
 1. Basic Reflexives With transitive verbs, the agent takes ergative case and the
    reflexive object takes illative:
 
-   ```plaintext
+   ```txt
    galtalel tallas hilis'er
    person.MED.ERG MED.ILL look.VERB
    "He looked at himself"
@@ -1596,7 +1591,7 @@ demonstrative agreement:
 2. Indirect Objects For ditransitive verbs, reflexive recipients take illative
    case:
 
-   ```plaintext
+   ```txt
    'al'isel 'islas taglas'er 'iruretiles
    person.PROX.ERG PROX.ILL give.ITER.VERB gift.ABS
    "I gave myself a gift"
@@ -1616,7 +1611,7 @@ Key features:
 4. Method/Means Expression Uses the object control construction with ka- prefix
    and translative -sim to express how an action is performed:
 
-   ```plaintext
+   ```txt
    'al'isel paketes katenwasim tenwa'er
    person.PROX.ERG speech.ABS ADJ.write.TRANS write.VERB
    "I wrote the speech through writing"
@@ -1642,7 +1637,7 @@ Proto-Hick \*kasu "reflection":
 1. Simple Comparisons Uses the ka- prefix for straightforward comparisons with
    single nouns:
 
-   ```plaintext
+   ```txt
    kamales ward'er
    ADJ.pool.ABS contain.VERB
    "(It) contains like a pool"
@@ -1650,7 +1645,7 @@ Proto-Hick \*kasu "reflection":
 
 2. Complex Comparisons Uses kas conjunction for phrases with modifiers:
 
-   ```plaintext
+   ```txt
    kas [kameris kethbranes] tagimris'er
    LIKE [ADJ.love kin.ABS] give.VERB
    "As beloved kin give"
@@ -1671,7 +1666,7 @@ two arguments:
 
 Uses the superessive case (-itar "upon/above"):
 
-```plaintext
+```txt
 tores tor'er malitar
 mountain-ABS height-VERB pool-SUPE
 "The mountain is taller than the pool"
@@ -1687,7 +1682,7 @@ person-ABS birth-VERB man-SUPE
 
 Uses the subessive case (-asam "under/below"):
 
-```plaintext
+```txt
 males tor'er torasam
 pool-ABS height-VERB mountain-SUBE
 "The pool is less tall than the mountain"
@@ -1704,7 +1699,7 @@ man-ABS birth-VERB person-SUBE
 Uses the comparative particle kas (see:
 [Comparative Markers](#development-of-comparative-markers)):
 
-```plaintext
+```txt
 kas males tores tor'er
 LIKE pool-ABS mountain-ABS height-VERB
 "The pool is as tall as the mountain"
@@ -1730,7 +1725,7 @@ The comparative construction shows several important properties:
 
    - Can be coordinated with ru:
 
-   ```plaintext
+   ```txt
    tores tor'er [mal o keth ruitar]
    mountain-ABS height-VERB [pool PART sea AND-SUPE]
    "The mountain is taller than both the pool and sea"
@@ -1738,7 +1733,7 @@ The comparative construction shows several important properties:
 
    - Similarly for subessive comparisons:
 
-     ```plaintext
+     ```txt
      males tor'er [tor o keth ruasam]
      pool-ABS height-VERB [mountain PART sea AND-SUBE]
      "The pool is shorter than both the mountain and sea"
@@ -1751,7 +1746,7 @@ The comparative construction shows several important properties:
 
    - Negates the stative verb with mo-:
 
-   ```plaintext
+   ```txt
    males motor'er torasam
    pool-ABS NEG-height-VERB mountain-SUBE
    "The pool is not less tall than the mountain"
@@ -1761,7 +1756,7 @@ The comparative construction shows several important properties:
 
    - Takes standard temporal markers:
 
-   ```plaintext
+   ```txt
    branum 'ales vinu'er 'altanitar
    PAST person-ABS birth-VERB man-SUPE
    "The person was older than the man"
@@ -1774,7 +1769,7 @@ These unmarked clauses can indicate either simple present ("walks") or present
 progressive ("is walking") readings, with the specific interpretation determined
 by context and predicate semantics. For example:
 
-```plaintext
+```txt
 'ales      barak'er
 person-ABS walk-VERB
 "The person walks/is walking"
@@ -1794,13 +1789,13 @@ markers that operate at the clause level:
 In a simple clause, the temporal tense marker can be typically found in the
 beginning or end of the clause.
 
-```plaintext
+```txt
 branum materok-el  ward-'er
 past   handler-ERG guide-VERB
 "The handler guided (in the past)"
 ```
 
-```plaintext
+```txt
 mulsum materok-el  ward-'er
 future handler-ERG guide-VERB
 "The handler will guide"
@@ -1809,7 +1804,7 @@ future handler-ERG guide-VERB
 In contexts where aesthetic or poetic effect is desired, the marker can be found
 right before the verbal phrase.
 
-```plaintext
+```txt
 'ales      mulsum barak'er
 person-ABS future walk-VERB
 "The person will walk"
@@ -1823,13 +1818,13 @@ than the main clause, temporal markers may occur after the relativizer. See:
 
 For example:
 
-```plaintext
+```txt
 'altanel         ['alises branum thren'er] ward'er
 man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 "That man who watches guides"
 ```
 
-```plaintext
+```txt
 mulsum   'altanel         ['alises branum thren'er] ward'er
 FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 "That man who watches guides"
@@ -1840,7 +1835,7 @@ FUT      man-MED.VIS.ANIM [WHO-ABS PAST watch.VERB] guide.VERB
 When clauses are linked by coordinators, each clause may carry its own temporal
 marking to indicate different time frames:
 
-```plaintext
+```txt
 [clause + temporal marker] coordinator [clause + temporal marker]
 ```
 
@@ -1874,7 +1869,7 @@ progressive aspect marker `terum` (< `ter` "flow" + `-rum`) can be used. These
 aspect markers may be used in conjunction with the temporal markers to indicate
 different time frames.
 
-```plaintext
+```txt
 'ales      barak'er  terum
 person-ABS walk-VERB flow.DIST
 "The person is walking"
@@ -1888,7 +1883,7 @@ PAST   person-ABS walk-VERB flow.DIST
 
 The completive aspect marker `tel` indicates finished actions.
 
-```plaintext
+```txt
 'ales      barak'er  tel
 person-ABS walk-VERB COMPL
 "The person has walked"
@@ -1907,7 +1902,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 1. Formal/Ritual: -'irur
 
-   ```plaintext
+   ```txt
    'ales barak'irur
    person-ABS walk-ITER
    "The person walks repeatedly" (formal/ritual context)
@@ -1915,7 +1910,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 2. Common: -rur
 
-   ```plaintext
+   ```txt
    'ales barakrur
    person-ABS walk.ITER
    "The person walks repeatedly" (everyday usage)
@@ -1923,7 +1918,7 @@ three register-dependent forms, all deriving from Proto-Hick \*heru-heru
 
 3. Colloquial: -ur
 
-   ```plaintext
+   ```txt
    'ales barakur
    person-ABS walk.ITER
    "The person walks repeatedly" (casual speech)
@@ -1946,7 +1941,7 @@ The repetitive aspect in Early Hick is formed by combining the iterative suffix
 with the completive marker tel, indicating a single instance of a repeated or
 cyclical action:
 
-```plaintext
+```txt
 'ales barakrur tel
 person-ABS walk.ITER COMPL
 "The person walked again" (lit. "completed one cycle of repeated walking")
@@ -1959,7 +1954,7 @@ PAST school-ABS walk.ITER COMPL
 This construction differs from the simple iterative, which marks continuous
 repetition:
 
-```plaintext
+```txt
 'ales barakrur
 person-ABS walk.ITER
 "The person walks repeatedly"
@@ -1982,7 +1977,7 @@ Early Hick forms imperatives by dropping the verbalizer -'er and adding
 absolutive -es to the verb stem. The construction shows distinct word order and
 case marking from declarative sentences:
 
-```plaintext
+```txt
 # Declarative
 'al'isel tor ward'er
 person.ERG mountain guide.VERB
@@ -2007,7 +2002,7 @@ forms.
 
 Examples with different modifiers:
 
-```plaintext
+```txt
 mes   thral  threndes!
 heart sacred watch.IMP.ABS
 "watch the heart sacredly!"
@@ -2019,7 +2014,7 @@ boat    ADJ.good guide.IMP.ABS
 The pattern appears in both formal and informal contexts, including ritual
 expressions:
 
-```plaintext
+```txt
 'ilitar   venuiteres!
 good.SUPE birth.IMP.ABS
 "(let) birth be raised in goodness!"
@@ -2031,7 +2026,7 @@ Early Hick marks exclamations through single-word utterances:
 
 1. For actions/verbs, the regular verb form is used:
 
-   ```plaintext
+   ```txt
    imris'er!
    flee.VERB!
    "(they're) fleeing!"
@@ -2043,7 +2038,7 @@ Early Hick marks exclamations through single-word utterances:
 
 2. For entities/participants, absolutive marking is used:
 
-   ```plaintext
+   ```txt
    im'etiles!
    monster.ABS!
    "a monster!"
@@ -2064,7 +2059,7 @@ structure.
 Early Hick marks coordinated elements with the particle o and joins them with
 the coordinator ru (< Proto-Hick \*storu "grow"):
 
-```plaintext
+```txt
 kor o toren o ru-el
 [cow PART horse PART] AND-ERG
 "the cow and horse (as agent)"
@@ -2079,7 +2074,7 @@ phrase:
 Demonstrative marking may also be appedede to ru, if each of the coordinated
 elements are the same referent.
 
-```plaintext
+```txt
 'imwen o wenkulok o rutanes
 [witch PART sorceress PART] AND-DEM.MED.VIS.ANIM-ABS
 "that witch and sorceress"
@@ -2087,7 +2082,7 @@ elements are the same referent.
 
 compare with:
 
-```plaintext
+```txt
 'imwentan o wenkuloktan o rues
 [that witch PART that sorceress PART] AND-ABS
 "that witch and that (other) sorceress"
@@ -2098,7 +2093,7 @@ compare with:
 Early Hick marks alternatives with the particle o and joins them with the
 coordinator 'a (< Proto-Hick \*ʔaha "other"):
 
-```plaintext
+```txt
 kor o toren o 'a-el
 [cow PART horse PART] OR-ERG
 "either the cow or the horse (as agent)"
@@ -2113,7 +2108,7 @@ phrase:
 Demonstrative marking may also be appended to 'a, if the coordinated elements
 share referential properties:
 
-```plaintext
+```txt
 'imwen o wenkulok o 'atanes
 [witch PART sorceress PART] OR-DEM.MED.VIS.ANIM-ABS
 "either that witch or that sorceress"
@@ -2121,7 +2116,7 @@ share referential properties:
 
 compare with:
 
-```plaintext
+```txt
 'imwentan o wenkuloktan o 'aes
 [that witch PART that sorceress PART] OR-ABS
 "either that witch or that (other) sorceress"
@@ -2135,7 +2130,7 @@ coordinator ru, maintaining the language's systematic approach to coordination.
 Early Hick can mark joint participation using ewes with the enumeration particle
 o:
 
-```plaintext
+```txt
 'al'is o Mari o ewes-es ward'er
 [person.DEM.PROX.ANIM.VIS PART Mari PART] WITH-ABS travel.VERB
 "I and Mari together travel"
@@ -2160,7 +2155,7 @@ Temporal relationships between clauses use specialized coordinators:
 
 Dependent clauses use nominalized verbs:
 
-```plaintext
+```txt
 [kor o toren o] gras'er-es 'aterimris
 [cow PART horse PART] graze-ABS after-ELL
 "after the cow and horse grazed"
@@ -2180,7 +2175,7 @@ imris [im.ris] "because" < Proto-Hick \*imeru-ris "towards breath/spirit"
 - Maintains ergative-absolutive alignment in both clauses
 - Can appear clause-initially or between clauses Examples:
 
-```plaintext
+```txt
 imris torthil, 'al'ises barak'er
 CAUS haughtiness, person.PROX.ABS walk.VERB
 "Because of haughtiness, I walk"
@@ -2201,7 +2196,7 @@ las [las] "despite/for all" < Early Hick illative case -las "into"
 
 Examples:
 
-```plaintext
+```txt
 las imerlas, 'al'ises tel'es branum
 CONC inspiration, person.PROX.ABS empty.ABS PAST
 "Despite/For all inspiration, I was empty"
@@ -2226,7 +2221,7 @@ Conjunctions interact with Early Hick's information structure:
 
 Examples:
 
-```plaintext
+```txt
 imris toranes ter'er, 'ales barak'er
 SUB   river-ABS flow-VERB person-ABS walk-VERB
 "Because the river flows, the person walks"
@@ -2239,7 +2234,7 @@ person-ABS walk-VERB SUB river-ABS flow-VERB
 Both imris and las can appear clause-finally, especially in literary contexts
 and natural conversation:
 
-```plaintext
+```txt
 'al'ises tel'es branum, imerlas las
 person.PROX.ABS empty.ABS PAST, inspiration CONC
 "I was empty, despite inspiration"
@@ -2281,7 +2276,7 @@ subordination.
 
 4. Usage Examples
 
-   ```plaintext
+   ```txt
    'alis-el materok-es ward-'er?
    who.PROX-ERG boat-ABS guide-VERB
    "Who (that we can see) guides the boat?"
@@ -2314,7 +2309,7 @@ based on their syntactic role within the relative clause.
 
 1. Basic Structure
 
-   ```plaintext
+   ```txt
    ['alisel tiraies ter'er] barak'erimris vinudes
    [who.ERG ale.ABS drink.VERB] walk.VERB-ELL dwelling.ABS
    "Who drinks the ale walks home"
@@ -2333,7 +2328,7 @@ based on their syntactic role within the relative clause.
    - Relativizer takes case based on its role in the relative clause
    - Main clause maintains independent case marking
 
-   ```plaintext
+   ```txt
    'altanel [alises thren'er] ward'er
    man-MED.VIS.ANIM [who.ABS watch.VERB] guide.VERB
    "That man who watches guides"
@@ -2345,7 +2340,7 @@ based on their syntactic role within the relative clause.
    - Medial (-eth): sensed but not seen referents
    - Distal (-um): unknown/general referents
 
-   ```plaintext
+   ```txt
    ['alumel materokes ward'er] thren'er
    [who.DIST.ERG boat.ABS guide.VERB] watch.VERB
    "Who(ever) guides the boat watches"
@@ -2370,7 +2365,7 @@ older forms preserved away from maritime contact. This explains forms like:
 
 This dialectal variation is preserved in the formal birthday greeting:
 
-```plaintext
+```txt
 'ilitar venuiteres
 good-SUPER birth-ELL.DIAL-ABS
 "blessings upon your birth"
@@ -2483,7 +2478,7 @@ with an embedded clause:
 
 1. Original Construction:
 
-   ```plaintext
+   ```txt
    'al'isel 'alises command'er [tores threnes] talimris
    person.PROX.ERG who.ABS command.VERB [mountain.ABS watch.ABS] MED.ELL
    "I who command [mountain watching] to you"
@@ -2491,7 +2486,7 @@ with an embedded clause:
 
 2. Modern Imperative:
 
-   ```plaintext
+   ```txt
    tor threndes!
    mountain watch.IMP.ABS
    "watch the mountain!"
@@ -2519,7 +2514,7 @@ clauses (see: [Relative Clauses](#relative-clauses)):
 
 Formal/Literary:
 
-```plaintext
+```txt
 'al'isel ['alises command'er tores threnes] talimris
 person.ERG [who.ABS command.VERB mountain.ABS watch.ABS] MED.ELL
 "I who command mountain-watching to you"
@@ -2527,7 +2522,7 @@ person.ERG [who.ABS command.VERB mountain.ABS watch.ABS] MED.ELL
 
 Colloquial:
 
-```plaintext
+```txt
 tor threndes!
 mountain watch.IMP.ABS
 "watch the mountain!"
@@ -2537,7 +2532,7 @@ mountain watch.IMP.ABS
 
 Formal/Literary:
 
-```plaintext
+```txt
 'al'isel ['alises gnar'er ward'er] talimris
 person.ERG [who.ABS correct.VERB guide.VERB] MED.ELL
 "I who intend guiding to you"
@@ -2545,7 +2540,7 @@ person.ERG [who.ABS correct.VERB guide.VERB] MED.ELL
 
 Colloquial:
 
-```plaintext
+```txt
 'al'isel wardnat
 person.ERG guide.DES
 "I want to guide"
@@ -2572,7 +2567,7 @@ general adjective marker.
 - Maintains clear scope over entire phrases
 - Examples:
 
-  ```plaintext
+  ```txt
   kas [kameris kethbranes] tagimris'er
   LIKE [ADJ.love kin.ABS] give.VERB
   "As beloved kin give"
@@ -2587,7 +2582,7 @@ general adjective marker.
    - No scope beyond single noun
    - Examples:
 
-     ```plaintext
+     ```txt
      kamales ward'er
      ADJ.pool.ABS contain.VERB
      "(It) contains like a pool"
@@ -2599,7 +2594,7 @@ general adjective marker.
    - Used to mark general similarity
    - Examples:
 
-     ```plaintext
+     ```txt
      kakethbran ma'altales
      ADJ.kin person.MED.ABS
      "kin-like people"
@@ -2613,7 +2608,7 @@ general adjective marker.
    - Original comparative meaning still visible in some constructions
    - Examples:
 
-     ```plaintext
+     ```txt
      kameris ales
      ADJ.love person.ABS
      "beloved person"
