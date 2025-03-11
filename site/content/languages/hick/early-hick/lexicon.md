@@ -4241,13 +4241,11 @@ imtirokul matakalel ka'irurlislas'er 'alrumul pirul grapares
 
 tor-mal → tomal "lake"
 thral-gral → thragral "sacred earth"
-See: [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 
 ### Nasal Deletion
 
 bram-mal → bramal "tidal pool"
 bran-kel → brakel "morning sky"
-See: [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
 
 ### Compound Simplification
 
