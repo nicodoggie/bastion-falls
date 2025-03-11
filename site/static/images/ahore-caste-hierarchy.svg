@@ -6,15 +6,16 @@
       font-family: Arial, sans-serif;
       font-size: 16px;
       text-anchor: middle;
+      fill:#dfdfdf;
     }
     .caste-box {
-      fill: #f9f9f9;
-      stroke: #333;
+      fill: #333;
+      stroke: #dfdfdf;
       stroke-width: 2;
     }
     .subcaste-box {
-      fill: #f0f0f0;
-      stroke: #666;
+      fill: #333333;
+      stroke: #dfdfdf;
       stroke-width: 1;
     }
     .main-title {

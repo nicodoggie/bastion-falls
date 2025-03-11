@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "zola -r site serve --fast",
+    "dev:slow": "zola -r site serve",
     "dev:template": "concurrently \"zola -r site serve\" \"pnpm --dir zola/themes/bastion-react dev\"",
     "dev:container": "zola -r site serve --interface 0.0.0.0 --port 8000",
     "dev:codespace": "zola -r site serve --fast --interface 0.0.0.0 --port 8000 --base-url / --no-port-append",
