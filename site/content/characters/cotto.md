@@ -2,23 +2,39 @@
 title = "Cotto"
 [extra]
 ddb = "https://www.dndbeyond.com/characters/61017558"
+[extra.image]
+url = "/characters/cotto.jpg"
+attribution = "🔪Emma🔪 on X.com"
+attribution_url = "https://x.com/Snartles/status/991123848153088000"
 [extra.cha]
 age = "24"
 pronouns = "He/Him"
 sex = "Male"
+height = "5ft 10in"
+weight = "210 lbs"
+penis_length = "12"
+penis_girth = "4"
 species = "Cornups"
 [taxonomies]
 organizations = ["La Camaraderie","Rozenmaiden","Ministry of the Occult"]
 +++
 
-*Cotto* is a deckhand serving in the
-[Rozenmaiden](@/organizations/rozenmaiden.md), and a member of [La
-Camaraderie](@/organizations/la-camaraderie.md). Born in a homestead in the
-north-western reaches of [Carmar](@/locations/carmar.md), his
-identity as a [Cornups](@/species/cornups.md) had always branded him as an
-outcast, but as he'd found himself with the crew of the Rozenmaiden, he'd
-finally begin to understand what it meant to be comfortable with himself and
-others.
+_Cotto_ is a deckhand serving in the
+[Rozenmaiden](@/organizations/rozenmaiden.md), and a member of
+[La Camaraderie](@/organizations/la-camaraderie.md). Born in a homestead in the
+north-western reaches of [Carmar](@/locations/carmar.md), his identity as a
+[Cornups](@/species/cornups.md) had always branded him as an outcast, but as
+he'd found himself with the crew of the Rozenmaiden, he'd finally begin to
+understand what it meant to be comfortable with himself and others.
+
+# Appearance
+
+Cotto, being a Cornups has a devilish appearance with bright red skin and legs
+like a goat. Before the infernal assault on the Feywild town of Armscor, he used
+to cut and rasp off his horns to a fine nub. However, after that event, his
+horns and wings grew out, and he'd come to terms with these features he'd once
+become ashamed of. Now, standing proud at 5ft 10in, he now has confidence in
+wearing nothing but a cloak over his body.
 
 # History
 
@@ -66,7 +82,7 @@ the [Faustine Forest] bordering Carmar and [Sartoria](@/locations/sartoria.md).
 Cold and alone, Cotto tried to find his way out of the forest, with little
 success. His attempts to catch small prey, such as rabbits, were unsuccessful.
 Cotto was able to find shelter in a small cave formed under the roots of a
-massive maple tree, called the *Mother Maple* by local woodsmen. The sweet sap
+massive maple tree, called the _Mother Maple_ by local woodsmen. The sweet sap
 from the maple was barely able to sustain him. The harsh Carmarian winter of
 1167 brought the poor boy to the brink of death.
 
@@ -75,9 +91,9 @@ compelling him to crawl deeper into the small cave. He began to crawl in his
 enfeebled state until he found himself in front of a frozen throne. A man,
 probably 14 feet tall sat imperiously upon the throne, his face concealed by a
 shroud of darkness. Within his mind, the red-skinned man who introduced himself
-as *Erasmus* offered Cotto a deal. Cotto would be given the power to survive on
+as _Erasmus_ offered Cotto a deal. Cotto would be given the power to survive on
 his own if he would agree to serve his master. In desperation, the child agreed
-to the deal, making him a warlock of the mysterious *Mephistopheles*.
+to the deal, making him a warlock of the mysterious _Mephistopheles_.
 
 He would awaken in the morning, under the small nook underneath the Mother
 Maple, with no sign of the crawlspace that had led him to Erasmus' throne. As he
