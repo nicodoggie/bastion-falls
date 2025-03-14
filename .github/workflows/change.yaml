@@ -16,7 +16,7 @@ jobs:
       env:
         ENV: ci
       with:
-        version: 9
+        version: 10
         run_install: |
           - recursive: true
             args: [--frozen-lockfile]
@@ -36,6 +36,11 @@ jobs:
             changelog += `${message.replaceAll(/\]\s+\(/gi, "](")}\n\n`;
           }
           fs.writeFileSync('site/content/changelog.md', changelog);
+    - name: Build Lexicon Pages
+      run: |
+        pnpm run build-lexicon \
+          data/languages/hick/early-hick/lexicon.jsonld \
+          site/content/languages/hick/early-hick/
     - name: Upload changelog as artifact
       uses: actions/upload-artifact@v4
       with:
