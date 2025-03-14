@@ -2,15 +2,13 @@
   "@context": {
     "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
     "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
-    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
     "decomp": "http://www.w3.org/ns/lemon/decomp#",
     "etymon": "http://www.lexinfo.net/lemon/etymon#",
     "skos": "http://www.w3.org/2004/02/skos/core#",
     "lime": "http://www.w3.org/ns/lemon/lime#",
     "lexvo": "http://lexvo.org/id/",
-    "dc": "http://purl.org/dc/elements/1.1/",
-    "dbr": "http://dbpedia.org/resource/",
-    "dcterms": "http://purl.org/dc/terms/"
+    "dc": "http://purl.org/dc/elements/1.1/"
   },
   "@id": "lexicon:EarlyHick",
   "@type": "lime:Lexicon",
@@ -27,7 +25,10 @@
   "@graph": [
     {
       "@id": "eh:ai",
-      "@type": "ontolex:LexicalEntry",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:CommonNoun"
+      ],
       "canonicalForm": {
         "@type": "ontolex:Form",
         "writtenRep": "ai",
@@ -47,7 +48,10 @@
             "@language": "en"
           },
           "usage": "See Maritime Terms, Water Features",
-          "lexinfo:semanticField": "Natural World"
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
         }
       ]
     },
@@ -104,7 +108,10 @@
             "@value": "earth, soil",
             "@language": "en"
           },
-          "lexinfo:semanticField": "Natural World"
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
         }
       ]
     },
@@ -134,11 +141,23 @@
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "sacred earth",
+            "@value": "Site or location of veneration or sacred ritual",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Locations",
+            "Sacred"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "garden",
             "@language": "en"
           },
           "lexinfo:semanticField": [
             "Landforms",
+            "Horticultural Terms",
             "Garden Terms"
           ]
         }
@@ -165,7 +184,10 @@
             "@value": "sky",
             "@language": "en"
           },
-          "lexinfo:semanticField": "Natural World"
+          "lexinfo:semanticField": [
+            "Celestial Terms",
+            "Natural World"
+          ]
         },
         {
           "@type": "ontolex:LexicalSense",
@@ -208,7 +230,7 @@
           },
           "lexinfo:semanticField": [
             "Celestial Bodies",
-            "Sacred Terms"
+            "Sacred"
           ]
         }
       ]
@@ -272,7 +294,8 @@
           },
           "lexinfo:semanticField": [
             "Time Terms",
-            "Sacred Terms"
+            "Natural World",
+            "Temporal States"
           ]
         }
       ]
@@ -307,7 +330,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Bird Terms",
+            "Birds",
+            "Animals",
             "Nocturnal Animals"
           ]
         }
@@ -3282,8 +3306,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         }
       ]
@@ -3309,8 +3333,9 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Timber Terms",
+            "Plant Terms"
           ]
         }
       ]
@@ -3337,8 +3362,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         }
       ]
@@ -3365,8 +3390,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         }
       ]
@@ -3393,8 +3418,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         }
       ]
@@ -3421,8 +3446,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         }
       ]
@@ -3449,8 +3474,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         }
       ]
@@ -3478,7 +3503,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Flora",
+            "Place Terms",
             "Cultivated Plants"
           ]
         }
@@ -3507,7 +3533,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Flora",
+            "Plant Terms",
             "Cultivated Plants"
           ]
         }
@@ -3536,7 +3563,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Flora",
+            "Plant Terms",
             "Cultivated Plants"
           ]
         }
@@ -3565,7 +3593,9 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Flora",
+            "Plant Terms",
+            "Timber Terms",
             "Cultivated Plants"
           ]
         }
@@ -3594,7 +3624,9 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Flora",
+            "Plant Terms",
+            "Timber Terms",
             "Cultivated Plants"
           ]
         }
@@ -3623,7 +3655,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Plant Terms",
             "Agricultural Terms"
           ]
         }
@@ -3652,7 +3684,10 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Flora",
+            "Plant Terms",
+            "Rituals",
+            "Seasonal Terms",
             "Agricultural Terms"
           ]
         }
@@ -3681,8 +3716,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Agricultural Terms"
+            "Agricultural Terms",
+            "Storage Terms"
           ]
         }
       ]
@@ -3710,7 +3745,6 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
             "Agricultural Terms",
             "Occupations"
           ]
@@ -3740,7 +3774,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
+            "Pasture Terms",
             "Agricultural Terms"
           ]
         }
@@ -3865,7 +3899,6 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
             "Basic Terms"
           ]
         },
@@ -3877,8 +3910,9 @@
           },
           "usage": "Extended metaphorical meaning",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Abstract Terms"
+            "Sacred",
+            "Philosophical Terms",
+            "Abstract Concepts"
           ]
         }
       ]
@@ -3907,8 +3941,7 @@
           },
           "usage": "Both literal processional paths and metaphorical spiritual journeys",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Sacred Compounds",
+            "Sacred",
             "Spatial Terms"
           ]
         }
@@ -3938,8 +3971,8 @@
           },
           "usage": "The proper sequence of ritual actions or ceremonies",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Sacred Compounds",
+            "Sacred",
+            "Sacred Terms",
             "Time Terms"
           ],
           "lexinfo:register": "lexinfo:technicalRegister"
@@ -3965,13 +3998,13 @@
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "sacred earth",
+            "@value": "sacred earth; Consecrated ground used for rituals or burials",
             "@language": "en"
           },
           "usage": "Consecrated ground used for rituals or burials",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Sacred Compounds",
+            "Sacred",
+            "Sacred Terms",
             "Landforms"
           ],
           "lexinfo:register": "lexinfo:religiousRegister"
@@ -3997,13 +4030,12 @@
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "sacred sky",
+            "@value": "The celestial home of the gods",
             "@language": "en"
           },
           "usage": "The celestial realm in religious context",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Sacred Compounds",
+            "Sacred",
             "Celestial Terms"
           ],
           "lexinfo:register": "lexinfo:religiousRegister"
@@ -4034,9 +4066,9 @@
           },
           "usage": "The act of watching or performing religious ceremonies",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
-            "Sacred Compounds",
-            "Ritual Actions"
+            "Sacred",
+            "Rituals",
+            "Action Terms"
           ],
           "lexinfo:register": "lexinfo:religiousRegister"
         }
@@ -4064,7 +4096,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
+            "Sacred",
             "Negation"
           ],
           "lexinfo:register": "lexinfo:religiousRegister"
@@ -4097,7 +4129,7 @@
           },
           "usage": "Used for abstract concepts of evil/negativity",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
+            "Sacred",
             "Negation",
             "Abstract Concepts"
           ],
@@ -4132,7 +4164,7 @@
           },
           "lexinfo:semanticField": [
             "Perception",
-            "Sacred & Ritual",
+            "Sacred",
             "Abstract Concepts"
           ]
         }
@@ -4235,7 +4267,7 @@
           "usage": "Base nominal form",
           "lexinfo:semanticField": [
             "Basic Terms",
-            "Sacred & Ritual"
+            "Sacred"
           ]
         }
       ],
@@ -4280,7 +4312,7 @@
           },
           "usage": "Used in ritual contexts",
           "lexinfo:semanticField": [
-            "Sacred & Ritual",
+            "Sacred",
             "Abstract Concepts"
           ]
         }
@@ -4541,6 +4573,25 @@
         "writtenRep": "haran",
         "phoneticRep": "ha.ran"
       },
+      "lexicalCategory": "lexinfo:Noun",
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "split, separate",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Action Terms"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "divide (numbers)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number System"
+        }
+      ],
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *haranu",
@@ -4563,6 +4614,16 @@
         "writtenRep": "tornes",
         "phoneticRep": "tor.nes"
       },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "whale",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Animals"
+        }
+      ],
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "tor-nes",
@@ -4655,7 +4716,17 @@
         "writtenRep": "ru",
         "phoneticRep": "ru"
       },
-      "lexicalCategory": "lexinfo:Noun"
+      "lexicalCategory": "lexinfo:Conjunction",
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "and",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Conjunction"
+        }
+      ]
     },
     {
       "@id": "eh:kost",
@@ -6011,7 +6082,7 @@
             "@language": "en"
           },
           "usage": "Shows semantic extension through size metaphor",
-          "lexinfo:semanticField": "Animal Terms"
+          "lexinfo:semanticField": "Animals"
         }
       ]
     },
@@ -6037,7 +6108,7 @@
             "@language": "en"
           },
           "usage": "Early borrowing showing cultural contact with Iutlandish herders",
-          "lexinfo:semanticField": "Animal Terms"
+          "lexinfo:semanticField": "Animals"
         }
       ]
     },
@@ -6064,7 +6135,7 @@
             "@language": "en"
           },
           "usage": "Shows compound reduction and metaphorical extension through agentive marking",
-          "lexinfo:semanticField": "Animal Terms"
+          "lexinfo:semanticField": "Animals"
         }
       ]
     },
@@ -6167,7 +6238,7 @@
           "usage": "Shows typical development of infrastructure terms from natural materials",
           "lexinfo:semanticField": [
             "Infrastructure",
-            "Construction"
+            "Construction Terms"
           ]
         }
       ]
@@ -7896,9 +7967,9 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Landforms",
-            "Agricultural Terms"
+            "Flora",
+            "Pastoral Terms",
+            "Landforms"
           ]
         }
       ]
@@ -7935,7 +8006,7 @@
           },
           "usage": "Shows metaphorical extension linking goats to mountains and paternal authority",
           "lexinfo:semanticField": [
-            "Flora & Fauna",
+            "Fauna",
             "Animals",
             "Pastoral Terms"
           ]
@@ -8605,8 +8676,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora & Agriculture",
-            "Basic Plant Terms"
+            "Flora",
+            "Plant Terms"
           ]
         },
         {
@@ -8846,7 +8917,7 @@
           },
           "lexinfo:semanticField": [
             "Emotional Terms",
-            "Mental States"
+            "Mental Terms"
           ]
         }
       ]
@@ -8876,7 +8947,7 @@
           },
           "lexinfo:semanticField": [
             "Emotional Terms",
-            "Mental States"
+            "Mental Terms"
           ]
         }
       ]
@@ -9362,7 +9433,6 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Celestial Terms",
             "Sacred Terms"
           ]
         }
@@ -9896,6 +9966,7 @@
           },
           "lexinfo:semanticField": [
             "Basic Terms",
+            "Elemental Terms",
             "Fire Terms"
           ]
         }
@@ -10038,7 +10109,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Animal Terms",
+            "Animals",
             "Basic Terms"
           ]
         }
@@ -10075,7 +10146,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Animal Terms",
+            "Animals",
             "Basic Terms"
           ]
         }
@@ -10395,7 +10466,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora Terms",
+            "Flora",
             "Food Terms"
           ]
         }
@@ -10512,7 +10583,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Animal Terms",
+            "Animals",
             "Earth Terms"
           ]
         }
@@ -11965,7 +12036,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Animal Terms",
+            "Animals",
             "Domestic Animals"
           ],
           "usage": "Basic term for domesticated canines"
@@ -11977,7 +12048,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Animal Terms",
+            "Animals",
             "Domestic Animals"
           ],
           "usage": "Technical/historical sense reflecting origin"
@@ -12224,7 +12295,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora Terms",
+            "Flora",
+            "Flower Names",
             "Spring Terms"
           ],
           "usage": "Common spring flower, Narcissus species"

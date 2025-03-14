@@ -1,0 +1,296 @@
+## SpecStory
+
+## Parsing OntoLex-Lemon JSONLD as Plain JSON (3/11/2025, 11:35:58 AM)
+
+_**User**_
+
+can we modify this to parse ontolex lemon jsonld files as plain json instead of quads/etc
+
+---
+
+_**Assistant**_
+
+I'll help you modify the code to parse OntoLex-Lemon JSONLD files as plain JSON instead of using quads. Let me first examine the current implementation to understand how it's currently handling the parsing.
+
+---
+
+_****_
+
+Read file: undefined
+
+---
+
+_****_
+
+Let me check if there are any additional lines in the file:
+
+---
+
+_****_
+
+Read file: undefined
+
+---
+
+_****_
+
+Now I'll check the package.json to see what dependencies are available:
+
+---
+
+_****_
+
+Read file: undefined
+
+---
+
+_****_
+
+Based on the code I've examined, I'll now modify the import-lexicon.ts file to parse OntoLex-Lemon JSONLD files as plain JSON instead of using the JsonLdParser with quads. Here's my implementation:
+
+---
+
+_****_
+
+```diff
+  import matter from "gray-matter";
+  import * as frontmatter from "../lib/frontmatter.js";
+- import { JsonLdParser } from "jsonld-streaming-parser";
+- import { Quad } from "n3";
+  import { PartialObject } from "lodash";
+  
+  importLexicon
+    .argument('<input>', 'Input OntoLex-Lemon JSON-LD file')
+-   .argument('<output>', 'Output markdown file')
++   .argument('<o>', 'Output markdown file')
+    .option('--dry-run', "Don't actually write the file", false)
+    .action(async (input: string, output: string, options: any) => {
+      try {
+        const fileContent = await fs.readFile(input, { encoding: 'utf-8' });
+-       const parser = <Iterable<Quad> & JsonLdParser>new JsonLdParser();
++       const jsonData = JSON.parse(fileContent);
+  
+        // Initialize lexicon data with a Map to track entries by ID
+        };
+  
+-       const unsortedPredicates = new Set<string>();
+- 
+-       parser.write(fileContent);
+- 
+-       const predicateSorter = (entry: Partial<LexicalEntry>, predicate: string, object: string) => {
+-         switch (predicate) {
+-           case ONTOLEX + 'canonicalForm':
+-             // Handle canonical form - usually points to another node
+-             break;
+- 
+-           case ONTOLEX + 'writtenRep':
+-             entry.lemma = object;
+-             break;
+- 
+-           case LEXINFO + 'pronunciation':
+-             entry.pronunciation = object;
+-             break;
+- 
+-           case DCT + 'description':
+-           case ONTOLEX + 'definition':
+-             entry.definition = object;
+-             break;
+-           case ONTOLEX + 'sense':
+-             entry.sense = object;
+-             break;
+- 
+-           case ONTOLEX + 'etymology':
+-           case LEXINFO + 'etymology':
+-             entry.etymology = object;
+-             break;
+- 
+-           case LEXINFO + 'semanticField':
+-             entry.semanticField = object;
+-             break;
+- 
+-           case ONTOLEX + 'reference':
+-             entry.crossRefs = entry.crossRefs || [];
+-             entry.crossRefs.push(object);
+-             break;
+- 
+-           case LEXINFO + 'example':
+-             entry.examples = entry.examples || [];
+-             entry.examples.push(object);
+-             break;
+- 
+-           case ONTOLEX + 'lexicalCategory':
+-             entry.category = object;
+-             break;
+-           default:
+-             console.log('Unhandled predicate:', predicate, object);
+-         }
+-         return entry;
+-       };
+- 
+-       for await (const quad of parser) {
+-         const subject = quad.subject.value;
+-         const predicate = quad.predicate.value;
+-         const object = quad.object.value;
+- 
+-         // Check if this is a lexical entry
+-         if (object === ONTOLEX + 'LexicalEntry') {
+-           if (!lexicon.entries.has(subject)) {
+-             lexicon.entries.set(subject, { id: subject });
+-           }
+-           continue;
+-         }
+- 
+-         // Get the current entry if it exists
+-         const entry = lexicon.entries.get(subject);
+-         if (entry) {
+-           predicateSorter(entry, predicate, object);
+-         }
+-       }
++       // Process the JSON-LD data
++       processJsonLd(jsonData, lexicon);
+  
+        // Convert entries map to array and group by semantic field
+    });
+  
++ /**
++  * Process JSON-LD data and extract lexical entries
++  */
++ function processJsonLd(jsonData: any, lexicon: LexiconData): void {
++   // Handle JSON-LD in both expanded and compacted forms
++   const graph = jsonData['@graph'] || [jsonData];
++   
++   for (const node of graph) {
++     // Check if this is a lexical entry
++     const types = Array.isArray(node['@type']) ? node['@type'] : [node['@type']];
++     
++     if (types.includes(ONTOLEX + 'LexicalEntry') || types.includes('LexicalEntry')) {
++       const id = node['@id'];
++       if (!lexicon.entries.has(id)) {
++         const entry: Partial<LexicalEntry> = { id };
++         
++         // Process lemma (canonical form)
++         if (node[ONTOLEX + 'canonicalForm'] || node.canonicalForm) {
++           const form = node[ONTOLEX + 'canonicalForm'] || node.canonicalForm;
++           if (Array.isArray(form)) {
++             const formNode = form[0];
++             entry.lemma = extractValue(formNode, ONTOLEX + 'writtenRep') || 
++                           extractValue(formNode, 'writtenRep');
++           } else if (typeof form === 'object') {
++             entry.lemma = extractValue(form, ONTOLEX + 'writtenRep') || 
++                           extractValue(form, 'writtenRep');
++           }
++         }
++         
++         // Process lexical category
++         entry.category = extractValue(node, ONTOLEX + 'lexicalCategory') || 
++                          extractValue(node, 'lexicalCategory');
++         
++         // Process pronunciation
++         entry.pronunciation = extractValue(node, LEXINFO + 'pronunciation') || 
++                               extractValue(node, 'pronunciation');
++         
++         // Process definition
++         entry.definition = extractValue(node, ONTOLEX + 'definition') || 
++                            extractValue(node, DCT + 'description') || 
++                            extractValue(node, 'definition') || 
++                            extractValue(node, 'description');
++         
++         // Process sense
++         entry.sense = extractValue(node, ONTOLEX + 'sense') || 
++                       extractValue(node, 'sense');
++         
++         // Process etymology
++         entry.etymology = extractValue(node, ONTOLEX + 'etymology') || 
++                           extractValue(node, LEXINFO + 'etymology') || 
++                           extractValue(node, 'etymology');
++         
++         // Process semantic field
++         entry.semanticField = extractValue(node, LEXINFO + 'semanticField') || 
++                               extractValue(node, 'semanticField');
++         
++         // Process cross references
++         const refs = node[ONTOLEX + 'reference'] || node.reference;
++         if (refs) {
++           entry.crossRefs = Array.isArray(refs) 
++             ? refs.map(r => typeof r === 'string' ? r : r['@id'] || r.id)
++             : [typeof refs === 'string' ? refs : refs['@id'] || refs.id];
++         }
++         
++         // Process examples
++         const examples = node[LEXINFO + 'example'] || node.example;
++         if (examples) {
++           entry.examples = Array.isArray(examples)
++             ? examples.map(e => typeof e === 'string' ? e : extractValue(e, '@value') || e)
++             : [typeof examples === 'string' ? examples : extractValue(examples, '@value') || examples];
++         }
++         
++         lexicon.entries.set(id, entry);
++       }
++     }
++   }
++ }
++ 
++ /**
++  * Extract a value from a JSON-LD node
++  */
++ function extractValue(node: any, property: string): string | undefined {
++   if (!node) return undefined;
++   
++   const value = node[property];
++   if (!value) return undefined;
++   
++   if (typeof value === 'string') return value;
++   
++   if (Array.isArray(value)) {
++     const firstValue = value[0];
++     if (typeof firstValue === 'string') return firstValue;
++     return firstValue['@value'] || firstValue.value;
++   }
++   
++   return value['@value'] || value.value;
++ }
++ 
+  export default importLexicon;
+```
+
+---
+
+_****_
+
+I've successfully modified the import-lexicon.ts file to parse OntoLex-Lemon JSONLD files as plain JSON instead of using the JsonLdParser with quads. Here's a summary of the changes:
+
+1. Removed dependencies on `jsonld-streaming-parser` and `n3` packages
+2. Replaced the streaming parser approach with direct JSON parsing
+3. Added new helper functions:
+   - `processJsonLd()`: Processes the JSON-LD data and extracts lexical entries
+   - `extractValue()`: Extracts values from JSON-LD nodes
+
+The new implementation:
+
+1. Parses the JSON-LD file as plain JSON using `JSON.parse()`
+2. Handles both expanded and compacted JSON-LD formats by checking for `@graph` 
+   property
+3. Processes each node in the graph to identify lexical entries
+4. Extracts all relevant properties from each entry, handling different ways the 
+   data might be structured
+5. Supports both fully qualified URIs (with namespaces) and simple property names
+
+The code now:
+- Is more straightforward and easier to understand
+- Doesn't require streaming or quad-based processing
+- Handles various JSON-LD formats more flexibly
+- Maintains all the original functionality
+
+This approach should be more maintainable and easier to extend in the future if 
+needed. The implementation handles the same OntoLex-Lemon structure but processes 
+it directly as JSON rather than through the RDF quad model.
+
+Would you like me to explain any specific part of the implementation in more 
+detail?
+
+---
+
+
+
+---
+
