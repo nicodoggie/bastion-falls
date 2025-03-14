@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v4
       with:
-        node-version: 20
+        node-version: 22
     - name: PNPM Install
       uses: pnpm/action-setup@v3
       env:
@@ -38,7 +38,7 @@ jobs:
           fs.writeFileSync('site/content/changelog.md', changelog);
     - name: Build Lexicon Pages
       run: |
-        pnpm run build-lexicon \
+        pnpm bf import-lexicon \
           data/languages/hick/early-hick/lexicon.jsonld \
           site/content/languages/hick/early-hick/
     - name: Upload changelog as artifact
