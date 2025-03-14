@@ -293,6 +293,7 @@ table.taxonomy-list {
   li {
     list-style-type: none;
     text-indent: 1rem;
+    text-justify: none;
   }
 
   dt {
@@ -556,6 +557,68 @@ table.taxonomy-list {
       &:last-child {
         margin-bottom: 0;
       }
+    }
+  }
+}
+
+.lexical-entry {
+  .lexical-entry-word {
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+  .lexical-entry-word-phonetic {
+    font-size: 1.5rem;
+  }
+  
+  .lexical-category {
+    font-size: 0.8rem;
+    font-style: italic;
+  }
+  .sense-definition {
+    font-style: italic;
+    display: list-item;
+    list-style: inside none disc;
+  }
+  .sense-usage {
+    font-size: 0.8rem;
+    font-style: italic;
+  }
+  .sense-fields {
+    font-size: 0.8rem;
+    font-style: italic;
+    
+  }
+  .etymology-protoform {
+    font-size: 0.8rem;
+    font-style: italic;
+
+    &::before {
+      content: "from ";
+    }
+  }
+  .etymology-note {
+    font-size: 0.8rem;
+
+    &::before {
+      content: "Note: ";
+    }
+  }
+  .derived-form {
+    line-height: 1.5;
+    
+  }
+  .derived-form-definition {
+    font-style: italic;
+    display: list-item;
+    list-style: inside none disc;
+  }
+  .derived-form-decomposition {
+    font-size: 0.8rem;
+    font-style: italic;
+
+    &::before {
+      content: "from ";
     }
   }
 }

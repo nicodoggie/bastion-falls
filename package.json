@@ -11,7 +11,8 @@
     "build": "zola -r site build",
     "serve": "concurrently \"pnpm family\" \"pnpm dev\"",
     "deploy": "wrangler pages deploy site/public --project-name bastion-falls",
-    "family": "./kingraph.cjs"
+    "family": "./kingraph.cjs",
+    "build-lexicon": "nodemon --config nodemon-build-lexicon.json"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",

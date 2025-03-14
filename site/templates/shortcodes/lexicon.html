@@ -1,0 +1,76 @@
+{% set lexdata = load_data(path=path, format=format) %}
+{% if lexdata | safe %}
+{% for id, lexitem in lexdata.lexicon %}
+
+<dl id="{{ id }}" class="lexical-entry">
+  <dt class="lexical-entry-word">
+    <span class="lexical-entry-word-written">{{ lexitem.writtenForm }}</span>
+    <span class="lexical-entry-word-phonetic">/{{ lexitem.phoneticForm }}/</span>
+    {% if lexitem.lexicalCategory -%}
+    <span class="lexical-category">&lpar;
+    {%- if lexitem.lexicalCategory == "lexinfo:Noun" -%}
+    noun
+    {%- elif lexitem.lexicalCategory == "lexinfo:Verb" -%}
+    verb
+    {%- elif lexitem.lexicalCategory == "lexinfo:Adjective" -%}
+    adjective
+    {%- elif lexitem.lexicalCategory == "lexinfo:Adverb" -%}
+    adverb
+    {%- elif lexitem.lexicalCategory == "lexinfo:Interjection" -%}
+    interjection
+    {%- elif lexitem.lexicalCategory == "lexinfo:Pronoun" -%}
+    pronoun
+    {%- elif lexitem.lexicalCategory == "lexinfo:Preposition" -%}
+    preposition
+    {%- elif lexitem.lexicalCategory == "lexinfo:Conjunction" -%}
+    conjunction
+    {%- elif lexitem.lexicalCategory == "lexinfo:Determiner" -%}
+    determiner
+    {%- elif lexitem.lexicalCategory == "lexinfo:Particle" -%}
+    particle
+    {%- elif lexitem.lexicalCategory == "lexinfo:Interrogative" -%}
+    interrogative
+    {%- elif lexitem.lexicalCategory == "lexinfo:Numeral" -%}
+    numeral
+    {%- elif lexitem.lexicalCategory == "lexinfo:Suffix" -%}
+    suffix
+    {%- endif -%}
+    &rpar;</span>
+    {%- endif -%}
+
+  </dt>
+
+  {% if lexitem.senses %}
+  {% for sense in lexitem.senses %}
+  <dd class="sense-definition">{{ sense.definition }}</dd>
+
+  {% if sense.usage %}
+  <dd class="sense-usage">{{ sense.usage }}</dd>
+  {% endif %}
+  {% if sense.semanticField %}
+  <dd class="sense-fields">{{ sense.semanticField | join(sep=", ") }}</dd>
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+
+  {% if lexitem.protoform %}
+  <dd class="etymology-protoform">{{ lexitem.protoform }}</dd>
+  {% endif %}
+  {% if lexitem.note %}
+  <dd class="etymology-note">{{ lexitem.note }}</dd>
+  {% endif %}
+</dl>
+{% if lexitem.derivedForms %}
+{% for derivedForm in lexitem.derivedForms %}
+<dl class="lexical-entry derived-form">
+  <dt class="lexical-entry-word derived-form-word">
+    <span class="lexical-entry-word-written derived-form-word">{{ derivedForm.writtenForm }}</span>
+    <span class="lexical-entry-word-phonetic derived-form-phonetic">/{{ derivedForm.phoneticForm }}/</span>
+  </dt>
+  <dd class="derived-form-definition">{{ derivedForm.grammaticalMeaning }}</dd>
+  <dd class="derived-form-decomposition">{{ derivedForm.decomposition }}</dd>
+</dl>
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% endif %}

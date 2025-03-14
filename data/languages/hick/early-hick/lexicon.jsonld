@@ -3180,6 +3180,7 @@
         "writtenRep": "aitar",
         "phoneticRep": "ai.tar"
       },
+      "lexicalCategory": "lexinfo:Noun",
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "ai-tar",
@@ -4984,6 +4985,7 @@
         "writtenRep": "'etil",
         "phoneticRep": "ʔe.til"
       },
+      "lexicalCategory": "lexinfo:Noun",
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *hi-etilu",
@@ -10883,43 +10885,39 @@
       ]
     },
     {
-      "@graph": [
+      "@id": "eh:aimirik",
+      "@type": "ontolex:LexicalEntry",
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "aimirik",
+        "phoneticRep": "ai.mi.rik"
+      },
+      "lexicalCategory": "lexinfo:Noun",
+      "decomp:subterm": [
         {
-          "@id": "eh:aimirik",
-          "@type": "ontolex:LexicalEntry",
-          "canonicalForm": {
-            "@type": "ontolex:Form",
-            "writtenRep": "aimirik",
-            "phoneticRep": "ai.mi.rik"
+          "@id": "eh:ai"
+        },
+        {
+          "@id": "eh:mirik"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ai-mirik",
+        "etymon:gloss": "water-ice",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Describes mixture state between water and ice"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "slush, partially melted snow/ice",
+            "@language": "en"
           },
-          "lexicalCategory": "lexinfo:Noun",
-          "decomp:subterm": [
-            {
-              "@id": "eh:ai"
-            },
-            {
-              "@id": "eh:mirik"
-            }
-          ],
-          "etymology": {
-            "@type": "etymon:Etymology",
-            "etymon:compound": "ai-mirik",
-            "etymon:gloss": "water-ice",
-            "etymon:soundChange": "compound fusion",
-            "etymon:note": "Describes mixture state between water and ice"
-          },
-          "sense": [
-            {
-              "@type": "ontolex:LexicalSense",
-              "definition": {
-                "@value": "slush, partially melted snow/ice",
-                "@language": "en"
-              },
-              "lexinfo:semanticField": [
-                "Weather Terms",
-                "States of Matter"
-              ]
-            }
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "States of Matter"
           ]
         }
       ]
