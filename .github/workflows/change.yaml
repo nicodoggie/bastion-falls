@@ -57,7 +57,9 @@ jobs:
       run: pnpm run deploy --commit-hash ${{ github.sha }}
       working-directory: site
     - name: Save CHANGELOG.md as an artifact and link it on Discord
-      run: echo -ne "${{ github.event.commits[0].message }}" > site/content/changelog.md
+      run: echo -ne "${{ github.event.commits[0].message }}" > site/content/changelog.md  
+      timeout-minutes: 5
+      continue-on-error: true
     - name: Discord notification
       env:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
