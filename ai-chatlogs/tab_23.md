@@ -14,14 +14,14 @@ how would we construct congratulations on your birth?
 Let me help construct this phrase by analyzing the relevant lexical items and grammar. Let me reference the key parts from the lexicon:
 
 
-```77:80:site/content/languages/hick/early-hick/lexicon.md
+```77:80:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Basic Terms
 ```
 
 Here we have 'il meaning "good, kind"
 
 
-```692:702:site/content/languages/hick/early-hick/lexicon.md
+```692:702:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Basic Terms
 ```
 
@@ -60,7 +60,7 @@ the lu marker isn't early hick tho. that's from proto-hick and isn't extant
 You're absolutely right about the -lu marker - I apologize for the confusion. Looking at the lexicon and grammar more carefully:
 
 
-```487:493:site/content/languages/hick/early-hick/_index.md
+```487:493:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Possession
    - -ul [ul]: possessive suffix Examples:
@@ -100,7 +100,7 @@ then the name of the person is the ergative?
 Looking at the case system in Early Hick:
 
 
-````309:324:site/content/languages/hick/early-hick/_index.md
+````309:324:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Primary Cases
 
    - -el [el] (ERG): marks agent of transitive verbs
@@ -149,7 +149,7 @@ perfect! thanks! let's document this in the language notes please
 I'll help document this birthday greeting construction. Here's where we should add it in 
 the lexicon file:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Common Phrases & Expressions
 
 #### Greetings & Well-Wishes
@@ -197,7 +197,7 @@ languages.
 Looking at Early Hick's case system:
 
 
-````309:324:site/content/languages/hick/early-hick/_index.md
+````309:324:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Primary Cases
 
    - -el [el] (ERG): marks agent of transitive verbs
@@ -220,7 +220,7 @@ Looking at Early Hick's case system:
 And its spatial cases:
 
 
-```327:334:site/content/languages/hick/early-hick/_index.md
+```327:334:site/@/languages/hickic/seneran/early-hick/_index.md
    - Spatial cases mark the goal of the motion verb, supplanting the use of the
      ergative case in those contexts.
      - -aes (ILL): "inward, into"
@@ -258,7 +258,7 @@ I found an error in the lexicon though, I meant for birth to be vinuiter, for th
 Looking at the lexicon entry:
 
 
-```95:98:site/content/languages/hick/early-hick/lexicon.md
+```95:98:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu-itar "pregnancy-ELL" → vinuiter
   ([ellative case](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Lexicalized from ellative case of "pregnancy"
@@ -284,7 +284,7 @@ The construction maintains Early Hick's ergative-absolutive alignment and case s
 shown in:
 
 
-````309:324:site/content/languages/hick/early-hick/_index.md
+````309:324:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Primary Cases
 
    - -el [el] (ERG): marks agent of transitive verbs
@@ -319,7 +319,7 @@ so 'ilitar is acting as the verb here with right? and the vinuitar construction 
 Looking at the relevant grammar sections:
 
 
-````602:619:site/content/languages/hick/early-hick/_index.md
+````602:619:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Adjectival Morphology
 
 Early Hick has no true adjective class. Quality concepts are expressed through:
@@ -345,7 +345,7 @@ Early Hick has no true adjective class, and qualities are expressed through stat
 And looking at the spatial cases:
 
 
-```557:564:site/content/languages/hick/early-hick/_index.md
+```557:564:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Spatial Cases
 
    - -aes (ILL): "inward, into"
@@ -385,7 +385,7 @@ and since our word order is not strict, we can bring focus to the name by reorde
 Yes! Looking at the word order rules:
 
 
-```748:755:site/content/languages/hick/early-hick/_index.md
+```748:755:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
 
    - Core arguments marked by case, allowing flexible word order
@@ -401,7 +401,7 @@ Early Hick has flexible word order with case marking, where word order signals p
 functions rather than grammatical roles. And:
 
 
-```757:760:site/content/languages/hick/early-hick/_index.md
+```757:760:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - Initial position: topic/focus or temporal frame
    - Final position: new information or emphasis
@@ -431,7 +431,7 @@ let's add mes as heart
 
 I'll help add "mes" (heart) to the lexicon. Based on the structure shown in the Basic Terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - mes [mes] "heart" < Proto-Hick *mesu → mes 
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings
@@ -441,7 +441,7 @@ I'll help add "mes" (heart) to the lexicon. Based on the structure shown in the 
 This should be added in the Basic Terms section, and we should also update the Body 
 Metaphors section to reflect this addition:
 
-```672:680:site/content/languages/hick/early-hick/_index.md
+```672:680:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Breath as the soul
 2. Liver as source of life
 3. Heart (mes) as source of emotion
@@ -469,7 +469,7 @@ mes as heart, and then sibris as love ,from proto hick mesu "heart" and "hibrisu
 
 I'll help add both terms to the lexicon. Based on the structure shown in the Basic Terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Body Parts
 
 #### Basic Terms
@@ -873,7 +873,7 @@ Based on the existing patterns in the lexicon, I'll help add these terms. Lookin
 compounds (lines 265-334) and sacred terms (lines 338-370), we can structure these new 
 entries following similar patterns:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual
 
 #### Birth & Death Terms
@@ -912,7 +912,7 @@ I don't think we should necessarily add these to Sacred & Ritual. I think they f
 
 You're right - these terms would fit better under Bodily Functions & States. Looking at the lexicon structure and existing patterns, I'll help add these entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
@@ -928,7 +928,7 @@ You're right - these terms would fit better under Bodily Functions & States. Loo
 
 This follows the patterns shown in:
 
-```82:87:site/content/languages/hick/early-hick/lexicon.md
+```82:87:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ven [ven] "yoke, burden" < Proto-Hick \*venu → ven
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
@@ -940,7 +940,7 @@ This follows the patterns shown in:
 
 And uses the established sound changes for mur- compounds shown in:
 
-```371:385:site/content/languages/hick/early-hick/lexicon.md
+```371:385:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thur [θur] "dusk" < Proto-Hick \*thuru → thur
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - bran [bran] "dawn" < Proto-Hick \*branu → bran
@@ -979,7 +979,7 @@ sorry instead of muivinuiter, I meant murvinuiter
 Let me help add these terms to the Bodily Functions section. Based on the patterns shown in 
 lines 81-87 and 371-375, here's how they should be structured:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
@@ -995,7 +995,7 @@ lines 81-87 and 371-375, here's how they should be structured:
 
 This follows established patterns from:
 
-```81:87:site/content/languages/hick/early-hick/lexicon.md
+```81:87:site/@/languages/hickic/seneran/early-hick/lexicon.md
   [Sacred Terms](#sacred--ritual), [Basic Terms](#basic-terms)
 - ven [ven] "yoke, burden" < Proto-Hick \*venu → ven
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
@@ -1008,7 +1008,7 @@ This follows established patterns from:
 
 And uses the mur- prefix pattern shown in:
 
-```371:375:site/content/languages/hick/early-hick/lexicon.md
+```371:375:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thur [θur] "dusk" < Proto-Hick \*thuru → thur
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - bran [bran] "dawn" < Proto-Hick \*branu → bran
@@ -1035,7 +1035,7 @@ murvinuiter should be glossed ass murvinu-ELL
 Based on the patterns shown in the lexicon and morphology sections, let me help correct 
 the gloss for murvinuiter:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
@@ -1052,7 +1052,7 @@ the gloss for murvinuiter:
 This follows the patterns shown in:
 
 
-```558:565:site/content/languages/hick/early-hick/_index.md
+```558:565:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - -aes (ILL): "inward, into"
    - -imris (ELL): "outward, from"
@@ -1067,7 +1067,7 @@ This follows the patterns shown in:
 And matches the ellative case usage shown in:
 
 
-```573:575:site/content/languages/hick/early-hick/_index.md
+```573:575:site/@/languages/hickic/seneran/early-hick/_index.md
    handler-ERG reed.boat-ELL
    "The handler exits the reed boat"
    handler-ERG reed.boat-ELL
@@ -1174,7 +1174,7 @@ I'll help add the entries for murvinu and murvinuiter to the lexicon.jsonld file
 
 This follows the patterns shown in:
 
-```558:565:site/content/languages/hick/early-hick/_index.md
+```558:565:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - -aes (ILL): "inward, into"
    - -imris (ELL): "outward, from"
@@ -1188,7 +1188,7 @@ This follows the patterns shown in:
 
 And the compound formation patterns shown in:
 
-```663:672:site/content/languages/hick/early-hick/_index.md
+```663:672:site/@/languages/hickic/seneran/early-hick/_index.md
 
 - Basic Pattern: modifier-head
 - Sound changes:

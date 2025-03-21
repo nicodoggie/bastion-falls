@@ -204,7 +204,7 @@ You're right. Let's systematically organize the sound changes from Proto-Hick to
 This reconstruction is based on evidence from:
 
 
-```32:52:site/content/languages/hick/early-hick/_index.md
+```32:52:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Pre-Hick Period (before ~600 PF)
 
@@ -232,7 +232,7 @@ remnant vocabulary suggests several possible sound changes:
 And compound changes from:
 
 
-```663:672:site/content/languages/hick/early-hick/_index.md
+```663:672:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Compound Formation
 

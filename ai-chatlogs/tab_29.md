@@ -14,7 +14,7 @@ Let me analyze this step by step using the provided code blocks.
 From the lexicon and grammar files, I can see that Early Hick underwent several key sound changes from Proto-Hick, including:
 
 
-```32:37:site/content/languages/hick/early-hick/_index.md
+```32:37:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Early Hick (prehistory to ~300 PF)
 
 - Purely oral tradition
@@ -27,9 +27,9 @@ From the lexicon and grammar files, I can see that Early Hick underwent several 
 And:
 
 
-```47:49:site/content/languages/hick/early-hick/lexicon.md
+```47:49:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick)) See:
      [Colors](#colors)
 ```
 
@@ -65,7 +65,7 @@ I'll analyze "sterum thiru" as a compound lexical item in Early Hick, using the 
 From the lexicon and grammar files:
 
 
-```197:215:site/content/languages/hick/early-hick/_index.md
+```197:215:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Compound Phonology
 
 ### Sound Changes in Compounds
@@ -91,22 +91,22 @@ From the lexicon and grammar files:
 And:
 
 
-```624:638:site/content/languages/hick/early-hick/lexicon.md
+```624:638:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 1. Liquid Deletion
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
    - thral-gral → thragral "sacred earth" See:
-     [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
+     [Late Hick Sound Changes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 2. Nasal Deletion
    - bram-mal → bramal "tidal pool"
    - bran-kel → brakel "morning sky" See:
-     [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+     [Sound Changes in Compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds)
 3. Compound Simplification
    - tor-mur-mer → tomur "great owl"
    - thur-mur-mer → thurmur "dusk owl"
    - li-mur-mer → limur "small owl" See:
-     [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+     [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification)
 ```
 
 
@@ -148,20 +148,20 @@ Let me analyze "sterumes thiru" as a compound using the lexicon and sound change
 From these relevant sections:
 
 
-```626:639:site/content/languages/hick/early-hick/lexicon.md
+```626:639:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
    - thral-gral → thragral "sacred earth" See:
-     [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
+     [Late Hick Sound Changes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 2. Nasal Deletion
    - bram-mal → bramal "tidal pool"
    - bran-kel → brakel "morning sky" See:
-     [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+     [Sound Changes in Compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds)
 3. Compound Simplification
    - tor-mur-mer → tomur "great owl"
    - thur-mur-mer → thurmur "dusk owl"
    - li-mur-mer → limur "small owl" See:
-     [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+     [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification)
 
 ```
 
@@ -169,7 +169,7 @@ From these relevant sections:
 And:
 
 
-```51:63:site/content/languages/hick/early-hick/_index.md
+```51:63:site/@/languages/hickic/seneran/early-hick/_index.md
 - Initial sound changes:
   - Unstressed vowel reduction begins
   - Compound simplification starts
@@ -236,9 +236,9 @@ The word would remain as "hameru" since the rule's conditioning environment is n
 For reference, this type of sound change appears to be similar to patterns we see in Early Hick, as shown in:
 
 
-```50:51:site/content/languages/hick/early-hick/lexicon.md
+```50:51:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
-     ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([initial fricative loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick))
 ```
 
 
@@ -267,9 +267,9 @@ hameru > θumeru
 This is similar to other sound changes we see in Early Hick, such as in:
 
 
-```50:51:site/content/languages/hick/early-hick/lexicon.md
+```50:51:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
-     ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([initial fricative loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick))
 ```
 
 
@@ -291,7 +291,7 @@ Looking at the sound changes documented in the files, let's trace hameru from Pr
 From the lexicon and grammar files, we can see relevant sound changes:
 
 
-```51:63:site/content/languages/hick/early-hick/_index.md
+```51:63:site/@/languages/hickic/seneran/early-hick/_index.md
 - Initial sound changes:
   - Unstressed vowel reduction begins
   - Compound simplification starts
@@ -311,13 +311,13 @@ From the lexicon and grammar files, we can see relevant sound changes:
 And:
 
 
-```26:34:site/content/languages/hick/early-hick/lexicon.md
+```26:34:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
   [Compound Formation](#compound-formation)
 - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
   Note: Used for both physical guidance and metaphorical direction/instruction
   Note: Used for both physical guidance and metaphorical direction/instruction
@@ -502,7 +502,7 @@ hmmm that glottal stop + dental fricative cluster would not be allowed tho... wh
 Looking at the phonotactic constraints in Early Hick:
 
 
-```124:138:site/content/languages/hick/early-hick/_index.md
+```124:138:site/@/languages/hickic/seneran/early-hick/_index.md
 #### Initial Clusters
 
 | Type    | Clusters                            | Examples         |
@@ -537,12 +537,12 @@ This follows Early Hick's general phonotactic patterns and preserves the morphol
 This is similar to how other illegal clusters are simplified in Early Hick, as seen in compound simplification examples:
 
 
-```634:638:site/content/languages/hick/early-hick/lexicon.md
+```634:638:site/@/languages/hickic/seneran/early-hick/lexicon.md
 3. Compound Simplification
    - tor-mur-mer → tomur "great owl"
    - thur-mur-mer → thurmur "dusk owl"
    - li-mur-mer → limur "small owl" See:
-     [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+     [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification)
 ```
 
 
@@ -560,18 +560,18 @@ would ha ever become θu naturally?
 Looking at the sound changes documented in Early Hick and Proto-Hick, particularly:
 
 
-```160:171:site/content/languages/hick/early-hick/lexicon.md
+```160:171:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
    - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - wad [wad] "path, way" < Proto-Hick \*wadu → wad
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 ```
 
@@ -579,21 +579,21 @@ Looking at the sound changes documented in Early Hick and Proto-Hick, particular
 And:
 
 
-```625:638:site/content/languages/hick/early-hick/lexicon.md
+```625:638:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Liquid Deletion
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
    - thral-gral → thragral "sacred earth" See:
-     [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
+     [Late Hick Sound Changes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 2. Nasal Deletion
    - bram-mal → bramal "tidal pool"
    - bran-kel → brakel "morning sky" See:
-     [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+     [Sound Changes in Compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds)
 3. Compound Simplification
    - tor-mur-mer → tomur "great owl"
    - thur-mur-mer → thurmur "dusk owl"
    - li-mur-mer → limur "small owl" See:
-     [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+     [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification)
 ```
 
 
@@ -631,7 +631,7 @@ From a naturalistic linguistic perspective, the change *ha > θu would be typolo
 2. Looking at the Early Hick sound changes documented in:
 
 
-```230:237:site/content/languages/hick/early-hick/_index.md
+```230:237:site/@/languages/hickic/seneran/early-hick/_index.md
 
 The vowel /a/ surfaces as [ə]:
 
@@ -648,13 +648,13 @@ We see that /a/ only naturally reduces to [ə], and only in specific unstressed 
 3. From the lexicon examples:
 
 
-```26:34:site/content/languages/hick/early-hick/lexicon.md
+```26:34:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
   [Compound Formation](#compound-formation)
 - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
   Note: Used for both physical guidance and metaphorical direction/instruction
   Note: Used for both physical guidance and metaphorical direction/instruction
@@ -691,7 +691,7 @@ Yes, ha > θə would be more natural as a two-step process, and this is supporte
 Looking at the documented patterns:
 
 
-```232:252:site/content/languages/hick/early-hick/_index.md
+```232:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. After sibilants and affricates:
 
@@ -707,7 +707,7 @@ Looking at the documented patterns:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -725,9 +725,9 @@ We see that /a/ regularly reduces to [ə] in unstressed positions, especially:
 And from the sacred terminology:
 
 
-```77:79:site/content/languages/hick/early-hick/lexicon.md
+```77:79:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
      See: [Garden Terms](#garden-terms)
 ```
 
@@ -757,7 +757,7 @@ would the ə eventually lower in environments where it is followed by a consonan
 Looking at Early Hick's documented sound changes and phonological patterns:
 
 
-```239:252:site/content/languages/hick/early-hick/_index.md
+```239:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - /karan/ → [kərən] "stream"
    - /tamal/ → [təmal] "pool-like"
@@ -766,7 +766,7 @@ Looking at Early Hick's documented sound changes and phonological patterns:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -784,7 +784,7 @@ We see that /a/ > [ə] occurs in specific environments, particularly in unstress
 Looking at the stress patterns:
 
 
-```254:276:site/content/languages/hick/early-hick/_index.md
+```254:276:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. In Compounds:
 
@@ -806,7 +806,7 @@ Looking at the stress patterns:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
   - Recent compounds See:
 ```
 
@@ -836,7 +836,7 @@ Looking at Early Hick's phonological patterns, there are a few environments wher
 
 From the vowel allophony section:
 
-```230:252:site/content/languages/hick/early-hick/_index.md
+```230:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
 The vowel /a/ surfaces as [ə]:
 
@@ -854,7 +854,7 @@ The vowel /a/ surfaces as [ə]:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -865,7 +865,7 @@ The vowel /a/ surfaces as [ə]:
 
 And stress patterns:
 
-```254:276:site/content/languages/hick/early-hick/_index.md
+```254:276:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. In Compounds:
 
@@ -887,7 +887,7 @@ And stress patterns:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
   - Recent compounds See:
 ```
 
@@ -927,9 +927,9 @@ right, I was thinking if there were a pathway for ha to become θu
 Yes, ha > θa would be a natural change, as we see examples of h > θ in sacred/ritual contexts in Early Hick:
 
 
-```77:79:site/content/languages/hick/early-hick/lexicon.md
+```77:79:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
      See: [Garden Terms](#garden-terms)
 ```
 
@@ -941,11 +941,11 @@ The pathway would be:
 2. Preservation of /a/ in sacred terms (also attested, as shown in the exceptions):
 
 
-```272:276:site/content/languages/hick/early-hick/_index.md
+```272:276:site/@/languages/hickic/seneran/early-hick/_index.md
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
   - Recent compounds See:
 ```
 
@@ -976,9 +976,9 @@ Yes, that sequence would be typologically natural! Let's analyze each step:
 This is attested in Early Hick sacred/ritual terms, as seen in:
 
 
-```161:164:site/content/languages/hick/early-hick/lexicon.md
+```161:164:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
    - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
 ```
@@ -990,21 +990,21 @@ Where we see θral from earlier forms with h-.
 This follows the regular unstressed vowel reduction pattern seen in:
 
 
-```239:252:site/content/languages/hick/early-hick/lexicon.md
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+```239:252:site/@/languages/hickic/seneran/early-hick/lexicon.md
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Bird Terms](#bird-terms-nocturnal)
    - pel [pel] "bear" < Proto-Hick \*pelu → pel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - sak [sak] "wolf" < Proto-Hick \*saku → sak
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - ren [ren] "deer" < Proto-Hick \*renu → ren
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - belnes [bel.nes] "mouthed fish" < bel-nes "mouth-fish" → belnes
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-formation))
    - kranren [kran.ren] "horned deer" < kran-ren "horn-deer" → kranren
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-formation))
    - venmer [ven.mer] "wing bird" < ven-mer "wing-bird" → venmer
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-formation))
 ```
 
 
@@ -1012,21 +1012,21 @@ This follows the regular unstressed vowel reduction pattern seen in:
 This is a natural assimilation where the schwa raises to [u] before a syllable containing [u], which is a common type of vowel harmony. We see similar patterns of vowel conditioning in compounds like:
 
 
-```268:282:site/content/languages/hick/early-hick/lexicon.md
+```268:282:site/@/languages/hickic/seneran/early-hick/lexicon.md
      mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
    - tomur [to.mur] "great owl, eagle owl" < Proto-Hick \*toru-muru-meru
      "great-night-bird" → tor-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
      → tor-mur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification))
      → tomur
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
    - thurmur [θur.mur] "dusk owl" < Proto-Hick \*thuru-muru-meru
      "dusk-night-bird" → thur-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
      → thurmur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification))
    - limur [li.mur] "small night-bird, small owl" < Proto-Hick \*li-muru-meru
 ```
 
@@ -1060,7 +1060,7 @@ Yes, we could document ha > θu as a single sound change in Proto-Hick reconstru
 Looking at the documented sound changes in Early Hick:
 
 
-```239:252:site/content/languages/hick/early-hick/_index.md
+```239:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - /karan/ → [kərən] "stream"
    - /tamal/ → [təmal] "pool-like"
@@ -1069,7 +1069,7 @@ Looking at the documented sound changes in Early Hick:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -1081,11 +1081,11 @@ Looking at the documented sound changes in Early Hick:
 And:
 
 
-```272:276:site/content/languages/hick/early-hick/_index.md
+```272:276:site/@/languages/hickic/seneran/early-hick/_index.md
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
   - Recent compounds See:
 ```
 
@@ -1126,7 +1126,7 @@ so considering vowel harmony, if the vowel following that C is more of a close f
 Yes, that would be a very natural development! Looking at the vowel patterns in Early Hick:
 
 
-```107:111:site/content/languages/hick/early-hick/_index.md
+```107:111:site/@/languages/hickic/seneran/early-hick/_index.md
 | ---- | ----- | ------- | ---- |
 | High | i     |         | u    |
 | Mid  | e     | ə       | o    |
@@ -1140,7 +1140,7 @@ We see the basic vowel inventory includes /i/ as a front high vowel.
 And looking at the documented sound changes:
 
 
-```232:252:site/content/languages/hick/early-hick/_index.md
+```232:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. After sibilants and affricates:
 
@@ -1156,7 +1156,7 @@ And looking at the documented sound changes:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -1197,7 +1197,7 @@ and likely, front mid is even more likely?
 Yes, fronting to [e] would be even more natural! Looking at Early Hick's vowel inventory:
 
 
-```107:111:site/content/languages/hick/early-hick/_index.md
+```107:111:site/@/languages/hickic/seneran/early-hick/_index.md
 | ---- | ----- | ------- | ---- |
 | High | i     |         | u    |
 | Mid  | e     | ə       | o    |
@@ -1220,7 +1220,7 @@ This is especially natural because:
 3. We see evidence of vowel harmony effects in compounds:
 
 
-```152:155:site/content/languages/hick/early-hick/_index.md
+```152:155:site/@/languages/hickic/seneran/early-hick/_index.md
    - /kei-aes/ → [ke.es] "sky flow"
    - /thrai-aes/ → [thraes] "sacred flow"
    - /brai-aes/ → [braes] "swift flow"
@@ -1250,7 +1250,7 @@ if the environment is _Ce, would it still occur?
 Looking at Early Hick's vowel patterns and environments for reduction:
 
 
-```239:252:site/content/languages/hick/early-hick/_index.md
+```239:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - /karan/ → [kərən] "stream"
    - /tamal/ → [təmal] "pool-like"
@@ -1259,7 +1259,7 @@ Looking at Early Hick's vowel patterns and environments for reduction:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -1271,11 +1271,11 @@ Looking at Early Hick's vowel patterns and environments for reduction:
 And the exceptions:
 
 
-```272:276:site/content/languages/hick/early-hick/_index.md
+```272:276:site/@/languages/hickic/seneran/early-hick/_index.md
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
   - Recent compounds See:
 ```
 
@@ -1289,7 +1289,7 @@ The ha > θe / _Ce environment would be less likely to trigger the change becaus
 We see this pattern of vowel stability before [e] in compounds:
 
 
-```152:155:site/content/languages/hick/early-hick/_index.md
+```152:155:site/@/languages/hickic/seneran/early-hick/_index.md
    - /kei-aes/ → [ke.es] "sky flow"
    - /thrai-aes/ → [thraes] "sacred flow"
    - /brai-aes/ → [braes] "swift flow"
@@ -1361,16 +1361,16 @@ This revision captures the more nuanced understanding of vowel loss patterns, sh
 The examples are drawn from attested forms in Early Hick, as seen in:
 
 
-```41:50:site/content/languages/hick/early-hick/lexicon.md
+```41:50:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin
 ```
 
@@ -1378,7 +1378,7 @@ The examples are drawn from attested forms in Early Hick, as seen in:
 And:
 
 
-```239:252:site/content/languages/hick/early-hick/_index.md
+```239:252:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - kur-tin → kurtin "bronze" (copper-tin)
    - mal-ter → mater "stream" (pool-flow)
@@ -1408,7 +1408,7 @@ now, as these reductions were partially motivated by devoicing due to stress shi
 Yes! Looking at the historical development section:
 
 
-```32:52:site/content/languages/hick/early-hick/_index.md
+```32:52:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Pre-Hick Period (before ~600 PF)
 
 While the exact developments remain unclear, comparison of Early Hick forms with
@@ -1438,7 +1438,7 @@ We see that final vowel devoicing was a key step in Pre-Hick. Since this devoici
 This is supported by the stress patterns shown in:
 
 
-```273:288:site/content/languages/hick/early-hick/_index.md
+```273:288:site/@/languages/hickic/seneran/early-hick/_index.md
 #### Stress-Dependent Reduction
 
 1. In Compounds:
@@ -1492,13 +1492,13 @@ in those contexts you mention, what exemptions can be made with devoicing the fi
 Looking at the Early Hick documentation, we can identify contexts where onset devoicing would be blocked, based on:
 
 
-```290:296:site/content/languages/hick/early-hick/_index.md
+```290:296:site/@/languages/hickic/seneran/early-hick/_index.md
 
 - Maintains [a] in:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
 
 ```
 
@@ -1508,30 +1508,30 @@ These show exceptions for sacred/formal terms and recent compounds.
 And from the lexicon:
 
 
-```61:85:site/content/languages/hick/early-hick/lexicon.md
+```61:85:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis See:
   [Bodily Functions](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 - mulisthral [mu.lis.θral] "prophetic dream" < mulis-thral → mulisthral
   (compound fusion, maintains second element due to sacred term)
 - mulisim [mu.li.sim] "nightmare" < mulis-im → mulisim
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 ### Sensory Terms
 
 #### Visual Perception
 
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 - his [his] "sight" < Proto-Hick \*hi-lisu → his
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
-  [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds),
+  [vowel coalescence](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
 - hilis [hi.lis] "to see (animate)" < Proto-Hick \*hi-lisu → hilis
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 ```
@@ -1553,7 +1553,7 @@ So onset devoicing would be blocked in:
 3. Stressed syllables (as shown in stress patterns):
 
 
-```274:288:site/content/languages/hick/early-hick/_index.md
+```274:288:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. In Compounds:
 
@@ -1599,7 +1599,7 @@ Looking at the phonotactic patterns in Early Hick, we can identify several envir
 
 From the consonant inventory:
 
-```109:114:site/content/languages/hick/early-hick/_index.md
+```109:114:site/@/languages/hickic/seneran/early-hick/_index.md
 | ---------- | ------ | ------ | -------- | ----- | ------- |
 | Stops      | p b    |        | t d      | k g   | '       |
 | Fricatives | f      | θ      | s        |       | h       |
@@ -1611,7 +1611,7 @@ From the consonant inventory:
 
 And the syllable structure:
 
-```139:141:site/content/languages/hick/early-hick/_index.md
+```139:141:site/@/languages/hickic/seneran/early-hick/_index.md
 - Special Pattern: (C)(C)VV for permitted diphthongs
 - Stress: Initial syllable unless marked
 - Special Pattern: (C)(C)VV for permitted diphthongs
@@ -1638,16 +1638,16 @@ The devoicing of final syllable onsets would be blocked in:
 
 This matches the attested forms we see in:
 
-```41:50:site/content/languages/hick/early-hick/lexicon.md
+```41:50:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin
 ```
 
@@ -1668,7 +1668,7 @@ I suppose also in the case of -u deletion, since there was no intermediate devoi
 Yes, exactly! Looking at the Pre-Hick period documentation:
 
 
-```37:45:site/content/languages/hick/early-hick/_index.md
+```37:45:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Final vowels begin devoicing in unstressed syllables
    - \*thralu > [ˈθra.lu̥]
    - \*wardu > [ˈwar.du̥]
@@ -1686,16 +1686,16 @@ We see that final *-u underwent devoicing before deletion. However, in cases whe
 This is supported by the lexical evidence:
 
 
-```41:50:site/content/languages/hick/early-hick/lexicon.md
+```41:50:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin
 ```
 
@@ -1732,13 +1732,13 @@ what motivates the devoicing / loss of final vowel in the case of 1 syllable wor
 Looking at the lexical evidence, there's an interesting pattern in monosyllabic words. Let's examine:
 
 
-```392:398:site/content/languages/hick/early-hick/lexicon.md
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+```392:398:site/@/languages/hickic/seneran/early-hick/lexicon.md
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Maintains [e] in compounds
 - sak [sak] "wolf" < Proto-Hick \*saku → sak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 - ren [ren] "deer" < Proto-Hick \*renu → ren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 - belnes [bel.nes] "mouthed fish" < bel-nes "mouth-fish" → belnes
 ```
 
@@ -1746,22 +1746,22 @@ Looking at the lexical evidence, there's an interesting pattern in monosyllabic 
 Words like 'pel', 'sak', 'ren' show final vowel loss despite being monosyllabic. And:
 
 
-```471:485:site/content/languages/hick/early-hick/lexicon.md
-  ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
+```471:485:site/@/languages/hickic/seneran/early-hick/lexicon.md
+  ([vowel sequences](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#vowel-sequences))
   See: [Metals](#metals)
 - mar [mar] "red" < Proto-Hick \*maru → mar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Metals](#metals)
 - kel [kel] "blue" < Proto-Hick \*kelu → kel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Same as "sky", See: [Elements](#elements)
 - thir [θir] "white" < Proto-Hick \*thiru → thir
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Same as "air", See: [Elements](#elements)
 - nal [nal] "black" < Proto-Hick \*nalu → nal
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Same as "river"
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 
@@ -1781,11 +1781,11 @@ The process likely went:
 This is supported by exceptions we see in:
 
 
-```274:279:site/content/languages/hick/early-hick/lexicon.md
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+```274:279:site/@/languages/hickic/seneran/early-hick/lexicon.md
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Maintains [e] in unstressed positions
 - wad [wad] "path, way" < Proto-Hick \*wadu → wad
 ```
@@ -1807,7 +1807,7 @@ in cases of reconstruction of a proto language, there would be no evidence of th
 Yes, exactly! Looking at the Early Hick documentation:
 
 
-```26:29:site/content/languages/hick/early-hick/_index.md
+```26:29:site/@/languages/hickic/seneran/early-hick/_index.md
 use prefixes.
 A reconstruction of a hypothetical Proto-Hick is also provided, inferenced from
 regional dialects and the historical development of Hick.
@@ -1825,16 +1825,16 @@ Without comparative evidence from related dialects or languages, we wouldn't be 
 The lexical entries show this limitation:
 
 
-```41:50:site/content/languages/hick/early-hick/lexicon.md
+```41:50:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin
 ```
 

@@ -118,7 +118,7 @@ _**Assistant**_
 
 Here’s a proposed set of terms for the grinding process, based on the structure and etymology of Early Hick:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 gasam [ga.sam]

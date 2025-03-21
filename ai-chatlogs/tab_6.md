@@ -122,7 +122,7 @@ For example, using "sinas" (meaning "drift, passage") from the lexicon, you coul
 
 Here's how you might document this in the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Volitional Mood Suffix
 
 - -arm [arm]: indicates volitional mood, suggesting intention or willingness to perform an action.
@@ -145,7 +145,7 @@ let's add -arm in the @_index.md documentation in the verbal morphology section 
 
 To add the "-arm" suffix as a volitional marker in the Early Hick documentation, you can include it in the verbal morphology section of the `_index.md` file. Here's how you might document this addition:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Verbal Morphology
 
 Early Hick verbs are formed from nouns and property concepts using the verbalizer affix _-'er_. To express volition or intention, the suffix _-arm_ can be used, replacing _-'er_.

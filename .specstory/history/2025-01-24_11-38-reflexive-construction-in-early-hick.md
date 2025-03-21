@@ -199,7 +199,7 @@ _**Assistant**_
 
 Yes, let's document both constructions while noting that the object control construction is more common and idiomatic. Here's how we could add this to the documentation:
 
-````site/content/languages/hick/early-hick/_index.md
+````site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Method/Means Expression
@@ -260,7 +260,7 @@ _**Assistant**_
 
 Yes, that's a better approach - let's add it to the existing Reflexive Constructions section since it's related to how Early Hick expresses relationships between actions and their means:
 
-````site/content/languages/hick/early-hick/_index.md
+````site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Reflexive Constructions

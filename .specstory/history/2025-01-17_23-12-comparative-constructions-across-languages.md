@@ -358,7 +358,7 @@ _**Assistant**_
 
 Yes, let's document the comparative structure in Early Hick! I'll draft a section that could fit into the grammar documentation:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ## Comparative Constructions
@@ -500,7 +500,7 @@ _**Assistant**_
 
 Yes, integrating them under a single "Comparative Constructions" section would be better! It would show how Early Hick handles all types of comparison systematically. Here's a proposed organization:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Comparative Constructions
 
 Early Hick has two primary strategies for expressing comparisons: similarity/
@@ -579,7 +579,7 @@ _**Assistant**_
 
 Ah, that's a great observation! Early Hick does have that formal coordination pattern with `o...ru`. Let me add this literary variant to the Syntactic Properties section:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 3. Multiple Comparators
@@ -620,7 +620,7 @@ Ah yes! That's a really good point. Like Japanese も (mo) or とか (toka), thi
 
 Let's revise that section to show this as the basic pattern:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 3. Multiple Comparators
@@ -721,7 +721,7 @@ This fits well with Early Hick's context because:
 
 We could add a note about this to the historical development section:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 The "o...ru" coordination pattern, originally a formal structure used in ritual 

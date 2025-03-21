@@ -863,7 +863,7 @@ Here's how you might conceptualize this:
 
 Here's a simple example of how you might document this in your lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - lis [lis] "child; fruit" < Proto-Hick *li-su → lis
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Metaphorical extension from "child" to "fruit," reflecting cultural views
@@ -897,7 +897,7 @@ To create a word for "tree berries" in your conlang using the metaphor of "child
 
 Here's how you might document this in your lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - branlis [bran.lis] "tree berries" < bran-lis "branch-child" → branlis
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries," reflecting cultural view
@@ -921,7 +921,7 @@ To create a word for "tree berries" and "fruits" in your conlang, we can use the
 
 For "tree berries," we can use the compound "branlis," combining "bran" (lineage, family branch) with "lis" (child):
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - branlis [bran.lis] "tree berries" < bran-lis "branch-child" → branlis
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries," reflecting cultural view
@@ -932,7 +932,7 @@ For "tree berries," we can use the compound "branlis," combining "bran" (lineage
 
 For "fruits," you might want to use a more general term that reflects the outcome or result of growth. You could use "stor" (grow) as a base and combine it with "lis" to emphasize the result of growth:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - storlis [stor.lis] "fruits" < stor-lis "grow-child" → storlis
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "fruits," emphasizing the result of
@@ -952,7 +952,7 @@ I meant I wanted to add the sense of fruit to branlis
 
 To add the sense of "fruit" to the word "branlis" in your conlang, you can update the lexicon entry to reflect this expanded meaning. Here's how you might document it:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - branlis [bran.lis] "tree berries; fruit" < bran-lis "branch-child" → branlis
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries" and "fruit," reflecting
@@ -1004,7 +1004,7 @@ To create a more natural and varied lexicon in your conlang, you might consider 
 
 Here's an example of how you might document a word for "gourd" using a metaphorical extension:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - asathir [a.sa.θir] "gourd" < asa-thir "vine-elder" → asathir
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "elder" to "gourd," reflecting the cultural
@@ -1038,7 +1038,7 @@ To create a word for "container" derived from a word for "gourd" in your conlang
 
 Here's how you might document this:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gor [gor] "gourd" < Proto-Hick \*gordu → gor
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used for storage and as a metaphor for containment.
@@ -1075,7 +1075,7 @@ To create a word for "container" derived from "gourd" in your conlang without it
 
 Here's how you might document this:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - kor [kor] "gourd" < Proto-Hick \*kordu → kor
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used for storage and as a metaphor for containment.
@@ -1113,7 +1113,7 @@ To create a word for "hollow" in Early Hick from the Proto-Hick phrase \*heru lu
 
 Here's how you might document this in your lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'irur [ʔi.rur] "hollow" < Proto-Hick \*heru-lumuru → 'irur
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Derived from "act of emptying," reflecting the concept of hollowness.
@@ -1132,7 +1132,7 @@ now we can do a word for gourd 'irurlis, hollow fruit
 
 To create a word for "gourd" using the concept of "hollow fruit" in your conlang, you can combine the words for "hollow" ('irur) and "fruit" (lis). Here's how you might document this in your lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'irurlis [ʔi.rur.lis] "gourd" < 'irur-lis "hollow-fruit" → 'irurlis
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Combines the concepts of hollowness and fruit, reflecting the physical
@@ -1152,7 +1152,7 @@ duwesimris to mean "feed" from duwes+ELL
 
 To create the word "duwesimris" meaning "feed" from "duwes" with the ellative suffix "-imris," you can document it in your lexicon as follows:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - duwesimris [du.we.sim.ris] "feed" < duwes-imris "food-ELL" → duwesimris
   ([case lexicalization](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Derived from "duwes" (food) with the ellative case, indicating the act
@@ -1172,7 +1172,7 @@ now I want to call the act of gift giving to be "'irurlises duwesimris" literall
 
 To create the phrase "'irurlises duwesimris" meaning "feeding the gourd" in the context of gift-giving during a harvest festival, you can document it in your lexicon as follows:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'irurlises duwesimris [ʔi.rur.lis.es du.we.sim.ris] "gift-giving" < 'irur-lis-es
   duwes-imris "hollow-fruit-ABS feed-ELL" → 'irurlises duwesimris
   Note: Cultural practice of giving filled gourds as gifts during harvest
@@ -1220,7 +1220,7 @@ To create a word for "leftovers" in your conlang, you might consider using a met
 
 Here's how you might document this in your lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - murduwes [mur.du.wes] "leftovers" < mur-duwes "night-eat" → murduwes
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Refers to food set aside for fermentation or preservation, metaphorically
@@ -1241,7 +1241,7 @@ tir'er souring for fermentation
 
 To create the word "tir'er" meaning "souring for fermentation" in your conlang, you can document it in your lexicon as follows:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tir'er [tir.ʔer] "souring for fermentation" < tir-'er "sour-VERB" → tir'er
   Note: Refers to the process of souring as part of fermentation, using the
   verbalizer suffix to denote action.
@@ -1260,7 +1260,7 @@ sorry. to clarify, it should mean "fermentation" with a metaphorical extension f
 
 To create the word "tir'er" meaning "fermentation" with a metaphorical extension from "sour" + VERB, you can document it in your lexicon as follows:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tir'er [tir.ʔer] "fermentation" < tir-'er "sour-VERB" → tir'er
   Note: Metaphorical extension from "sour" to describe the process of
   fermentation, using the verbalizer suffix to denote action.
@@ -1279,7 +1279,7 @@ murai bad+air to mean stinky
 
 To create the word "murai" meaning "stinky" from "bad" + "air," you can document it in your lexicon as follows:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - murai [mu.rai] "stinky" < mur-ai "bad-air" → murai
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Describes an unpleasant smell, metaphorically derived from the concept
@@ -1299,7 +1299,7 @@ changed it to imurai instead
 
 To document the word "imurai" meaning "stinky" in your lexicon, you can update the entry as follows:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - imurai [i.mu.rai] "stinky" < imur-ai "bad-air" → imurai
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Describes an unpleasant smell, metaphorically derived from the concept
@@ -1470,7 +1470,7 @@ To address the multiple entries for "tir'er" in both the `lexicon.md` and `lexic
 
 You can update the entry for "tir'er" to include both senses and cross-reference them:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tir'er [tir.ʔer] "to wince; fermentation" < tir-'er "sour/wince-VERB" → tir'er
   ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#verbal-morphology))
   Note: Shows connection between taste sensation and involuntary response, as

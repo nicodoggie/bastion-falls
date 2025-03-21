@@ -168,7 +168,7 @@ endLine: 2007
 
 Let me propose documenting the development of -imris in the Proto-Hick section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Directional System Development
 
 1. Ellative (-imris)

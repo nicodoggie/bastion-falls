@@ -135,7 +135,7 @@ _**Assistant**_
 Yes, this would be a good addition to document! Let me suggest an edit to add this 
 to the Maritime Hick section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 ## Maritime/Straits Hick Period
 

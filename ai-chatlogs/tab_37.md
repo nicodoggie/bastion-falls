@@ -14,7 +14,7 @@ Let me analyze this based on the provided code blocks.
 Looking at the Early Hick spatial demonstratives and case system:
 
 
-```426:438:site/content/languages/hick/early-hick/_index.md
+```426:438:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Functional Development:
 ```
 
@@ -22,7 +22,7 @@ Looking at the Early Hick spatial demonstratives and case system:
 And the spatial case system:
 
 
-```513:527:site/content/languages/hick/early-hick/_index.md
+```513:527:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Functional Development:
 ```
 
@@ -47,7 +47,7 @@ The impact of requiring null codas in Proto-Hick would be significant:
 3. **Historical Development**:
    - Early Hick shows a pattern of final vowel loss:
 
-```321:324:site/content/languages/hick/early-hick/_index.md
+```321:324:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Sound Changes:
 
    - \*mela > \*mel (final vowel loss)
@@ -61,7 +61,7 @@ The impact of requiring null codas in Proto-Hick would be significant:
      final vowels
    - This matches the documented sound changes:
 
-```49:54:site/content/languages/hick/early-hick/_index.md
+```49:54:site/@/languages/hickic/seneran/early-hick/_index.md
 # Core Grammar
 
 ## Case System
@@ -95,7 +95,7 @@ Based on the provided code blocks, I'll help update the Proto-Hick document. Her
 1. **Final Vowel Evidence**
 From the lexicon, we see consistent patterns of final vowel loss:
 
-```101:111:site/content/languages/hick/early-hick/lexicon.md
+```101:111:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Plant Terms
 
    - ris [ris] "reed" < Proto-Hick \*risu → ris
@@ -113,7 +113,7 @@ From the lexicon, we see consistent patterns of final vowel loss:
 2. **Case System Development**
 Looking at Early Hick's spatial cases:
 
-```307:314:site/content/languages/hick/early-hick/_index.md
+```307:314:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Spatial Cases (See: [Spatial Case System](#spatial-case-system))
    - Spatial cases mark the goal of the motion verb, supplanting the use of the
@@ -159,7 +159,7 @@ Original reconstructions should be updated to:
 This pattern is supported by the extensive evidence of final vowel loss seen in 
 Early Hick:
 
-```474:484:site/content/languages/hick/early-hick/lexicon.md
+```474:484:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ### Person Terms
 

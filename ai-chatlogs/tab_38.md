@@ -12,7 +12,7 @@
 Based on the provided code snippets, I can analyze the Early Hick verbalizer -'er and its potential origins. Looking at the historical development sections:
 
 
-```32:46:site/content/languages/hick/early-hick/_index.md
+```32:46:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Early Hick (prehistory to ~300 PF)
 
 - Purely oral tradition
@@ -36,7 +36,7 @@ This shows Early Hick had a period of contact with pre-Kalassarian traders and d
 The verbalizer -'er appears to be a grammaticalized element, as shown in:
 
 
-```441:445:site/content/languages/hick/early-hick/_index.md
+```441:445:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
@@ -83,7 +83,7 @@ that would be the case even if early hick is basically NOUN-'er?
 Yes, even with Early Hick's NOUN-'er pattern, there's strong evidence for an earlier particle form. Here's why:
 
 
-````441:456:site/content/languages/hick/early-hick/_index.md
+````441:456:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
@@ -106,7 +106,7 @@ Yes, even with Early Hick's NOUN-'er pattern, there's strong evidence for an ear
 This section shows the verbalizer -'er creating both active and stative verbs from nouns. The pattern suggests grammaticalization from a free particle.
 
 
-```777:778:site/content/languages/hick/early-hick/lexicon.md
+```777:778:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
      ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
@@ -151,7 +151,7 @@ Looking at the provided lexical and grammatical data, 'heru' would be a plausibl
 
 1. From the phonological patterns shown here:
 
-```85:96:site/content/languages/hick/early-hick/_index.md
+```85:96:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Consonants
 
@@ -171,7 +171,7 @@ The form 'heru' would fit Proto-Hick phonotactics, with a simple CV.CV structure
 
 2. Looking at the verbalizer examples:
 
-````441:456:site/content/languages/hick/early-hick/_index.md
+````441:456:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
@@ -195,7 +195,7 @@ The -'er suffix creates both active and stative verbs, suggesting an earlier gen
 
 3. The lexicon shows similar historical developments:
 
-```765:778:site/content/languages/hick/early-hick/lexicon.md
+```765:778:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
@@ -290,7 +290,7 @@ The current state of its reconstruction is highly speculative, as all evidence
 Shows Proto-Hick as the ancestor language.
 
 
-````441:456:site/content/languages/hick/early-hick/_index.md
+````441:456:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
@@ -381,7 +381,7 @@ Yes, we can document *heru as a postpositional verbalizer particle in Proto-Hick
 This reconstruction is supported by several patterns in the existing documentation:
 
 
-````467:477:site/content/languages/hick/early-hick/_index.md
+````467:477:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Active verbs (from action/motion concepts):
    ```plaintext
    ```plaintext
@@ -399,7 +399,7 @@ This reconstruction is supported by several patterns in the existing documentati
 Shows the fully grammaticalized verbalizer in Early Hick.
 
 
-```777:778:site/content/languages/hick/early-hick/lexicon.md
+```777:778:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
      ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```

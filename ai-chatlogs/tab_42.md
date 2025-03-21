@@ -608,7 +608,7 @@ please format it to fit with @lexicon.md and ontolex lemon @lexicon.jsonld
 I'll help add `ma'al` to both the markdown lexicon and JSON-LD files. Here are the 
 additions:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... after 'al entry in Basic Terms section ...
 
 - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
@@ -678,7 +678,7 @@ I think it should be in Person Terms instead
 
 Yes, you're right! Let's move it to the Person Terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon
 
 ## User:
 
@@ -694,7 +694,7 @@ and perhaps we add a new semantic grouping called "Political Terms"?
 Yes! That's a great idea since `ma'al` bridges both person terms and political 
 organization. Here's the revised entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Person Terms
 
 - 'al [ʔal] "person" < Proto-Hick *ʔalu → 'al

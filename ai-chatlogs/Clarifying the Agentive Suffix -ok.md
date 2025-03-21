@@ -16,7 +16,7 @@ The linguistic term you're looking for is "agentive nominalizer" or simply "agen
 
 Let's fix this inconsistency in the documentation. Here's how we should update the relevant sections:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Agentive Marking
@@ -59,7 +59,7 @@ The suffix -er in Early Hick appears to form nouns that describe someone/somethi
 
 Let's revise this section to be more precise:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Agentive Marking
 
 1. Primary Markers
@@ -95,7 +95,7 @@ Let's revise this. In Early Hick, -ok could have been the general agentive suffi
 
 Here's how we could rewrite this section:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Agentive Marking
 
 1. Primary Marker
@@ -127,7 +127,7 @@ old dane is referred to as Old Iutlandish because I didn't want to actually work
 
 Ah, thank you for the correction! Yes, that makes more sense - Old Iutlandish would be the more appropriate name. Let me revise that suggestion:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Agentive Marking
 
 1. Primary Marker
@@ -157,7 +157,7 @@ yes please, let's document these in @middle-hick.md and @late-hick.md
 
 I'll help draft the sections documenting the evolution of the agentive suffixes across Middle and Late Hick. Here are the suggested additions:
 
-````markdown:site/content/languages/hick/middle-hick.md
+````markdown:site/@/languages/hickic/seneran/middle-hick.md
 ## Agentive Marking
 
 ### Early Period (300-200 PF)
@@ -369,7 +369,8 @@ Yes! Many Native American ergative-absolutive languages have interesting interac
   - Remote/abstract
 
 Looking at Early Hick's existing demonstrative system:
-````markdown:site/content/languages/hick/early-hick/_index.md
+
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Demonstrative System
 
 1. Visible/Known
@@ -386,6 +387,7 @@ Looking at Early Hick's existing demonstrative system:
 ````
 
 We could develop a possessive system that interacts with these demonstratives. For example:
+
 - Possessor marked with -ul/-el (similar to ergative)
 - Can combine with demonstratives:
   - mater-ul-is "this boatman's (visible thing)"
@@ -404,13 +406,11 @@ hmmm can this also lead into evidentials?
 
 ### AI (claude-3.5-sonnet)
 
-
-
-Absolutely! This is a brilliant connection. Many ergative languages (especially in the Americas and Tibeto-Burman) combine demonstratives, possession, and evidentiality into interconnected systems. 
+Absolutely! This is a brilliant connection. Many ergative languages (especially in the Americas and Tibeto-Burman) combine demonstratives, possession, and evidentiality into interconnected systems.
 
 Looking at Early Hick's existing demonstrative system, we could extend it into evidentials:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Demonstrative-Evidential System
 
 1. Direct Evidence/Visible
@@ -443,6 +443,7 @@ Looking at Early Hick's existing demonstrative system, we could extend it into e
 ````
 
 This system would:
+
 1. Mark possession with -ul
 2. Indicate source of knowledge about the possessed thing
 3. Maintain animate/inanimate distinctions
@@ -459,8 +460,6 @@ is this particular implementation naturalistic?
 ---
 
 ### AI (claude-3.5-sonnet)
-
-
 
 Looking at it critically, no - this implementation isn't very naturalistic. Here's why:
 
@@ -503,22 +502,23 @@ perhaps it would be better to have evidentials evolve from proto-hick from archa
 
 ### AI (claude-3.5-sonnet)
 
-
-
 Yes! That's a much more naturalistic path. Let me think this through:
 
 In Proto-Hick, we might have had:
-- A stative verb *ula "to be/exist/remain" 
+
+- A stative verb *ula "to be/exist/remain"
 - Used in constructions like "[thing] *ula [possessor]" ("thing exists-at possessor")
 - Grammaticalized to -ul as a possession marker
 
 Then the demonstratives could have separate origins:
+
 - *is- perhaps from a deictic root meaning "here/visible"
 - *eth- maybe from a perception verb ("to sense/know")
 - *um- possibly from a distance marker
 
 So in Early Hick we'd see:
-````markdown:site/content/languages/hick/early-hick/_index.md
+
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Possession Marking
 
 The possessive suffix -ul derives from Proto-Hick stative *ula:
@@ -558,7 +558,7 @@ Yes! That's a really naturalistic path for evidential development. Let me think 
 
 In Proto-Hick, we might have had case markings on the stative verb *ula that indicated source/location of the "existing":
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Proto-Hick Origins
 
 The stative verb *ula ("to be/exist") took various case markings:
@@ -662,7 +662,7 @@ Early Hick transition:
 
 So in Early Hick we'd see:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial and Demonstrative Development
 
 1. Directional System (New Spatial Cases)
@@ -700,7 +700,7 @@ what would those suffixes look like if we reconstructed them with the reconstruc
 
 Let me check the Proto-Hick reconstruction rules from the Early Hick documentation:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Initial *h Development
    - *hi- > i- / _i
    - *hi- > ʔ- (elsewhere)
@@ -773,7 +773,7 @@ Rule sequence:
 
 So applying this to our reconstructions:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Weak Initial Vowel Drop and Syllable Reanalysis
@@ -905,7 +905,7 @@ it does actually. how does this affect our current form of early hick?
 
 Let me check how this would affect our current Early Hick documentation. We'd need to revise several sections:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial th- Development
@@ -997,7 +997,7 @@ let's first document the new sound changes into @_index.md Proto-Hick Reconstruc
 
 Yes, let's add these new sound changes to the Proto-Hick reconstruction section. I'll integrate them with the existing changes:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Development
@@ -1060,7 +1060,7 @@ Vt.hV_ #> t.hV_# > thV._#> θV._#
 
 Ah yes! That's a more naturalistic path. Let's document this sound change sequence:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Development
@@ -1118,7 +1118,7 @@ where H is a high vowel
 
 Ah yes! That's a perfect environment for the aspiration path. Let's document this split development:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Dental Fricative Development
    a. Before non-high vowels - fusion path:
    - Vt.hV > t.hV > thV > θV
@@ -1687,7 +1687,7 @@ endLine: 1336
 
 Let's add this to the Proto-Hick reconstruction section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Proto-Hick Features
 
 ### Animacy Marking
@@ -1731,7 +1731,7 @@ let's go with the proto-hick spatials and how they become demonstratives
 
 Looking at the chat logs, let's document the development from Proto-Hick spatial terms to demonstratives:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Proto-Hick Spatial System
 
 ### Original Spatial Terms
@@ -1787,7 +1787,7 @@ so tel would mean a generic "place" here, right? do we have words with similar r
 Yes, looking at the lexicon, I can find some related terms with *tel "place":
 
 
-```1:50:site/content/languages/hick/early-hick/lexicon.md
+```1:50:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -1884,7 +1884,7 @@ how about words with is eth or um, either in the initial position, or final
 
 Looking at the lexicon, I can find a few words with these elements, but let's systematically document them:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Demonstrative Elements in Compounds
 
 1. Initial Position:
@@ -1939,7 +1939,7 @@ Ah, I see! Let's look through the lexicon for words that might share roots with 
 
 From the lexicon:
 
-```1:490:site/content/languages/hick/early-hick/lexicon.md
+```1:490:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -2470,7 +2470,7 @@ I don't see any of those words in lexicon.md
 You're right - let me check what's actually documented in the lexicon. Looking at the code blocks:
 
 
-```571:584:site/content/languages/hick/early-hick/lexicon.md
+```571:584:site/@/languages/hickic/seneran/early-hick/lexicon.md
 2. Augmentative/Diminutive
    - tor- prefix for "great": tornes "whale" < tor-nes "great-fish" → tornes
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))

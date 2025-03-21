@@ -1071,7 +1071,7 @@ yes please
 I'll add these morphological patterns to the Early Hick documentation. Here's what 
 I'll add under the Morphology section:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Agentive Suffix
 
 <dl>
@@ -1124,7 +1124,7 @@ yes please, and perhaps how the possessive may interact with the Directional aff
 
 I'll add those interactions to the Early Hick documentation:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Directional Affixes
 
 <dl>
@@ -1254,7 +1254,7 @@ can we make a separate prepositional marker of the possessive in middle hick? pe
 Yes! We could add a prepositional possessive marker borrowed from Iutlandish in 
 Middle Hick. Looking at our attested Iutlandish borrowing patterns:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 ### Possessive Markers
 
 #### Inherited Early Hick Suffix
@@ -1432,7 +1432,7 @@ yes please
 
 I'll add this section to the Early Hick documentation:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Demonstrative Suffixes
 
 <dl>
@@ -1538,7 +1538,7 @@ in the past, we've mentioned that a proto-hick language may have marked animacy 
 Yes! Let's develop this animacy distinction in demonstratives. We could show how 
 Proto-Hick animacy marking evolved into Early Hick's demonstrative system:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Demonstrative System
 
 Early Hick preserves an animacy distinction in its demonstrative suffixes, derived 

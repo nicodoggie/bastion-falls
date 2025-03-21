@@ -88,7 +88,7 @@ A fitting compound would be "palthrenmal" [pal.θren.mal] meaning literally "dee
 This follows Early Hick compound formation patterns shown here:
 
 
-```504:512:site/content/languages/hick/early-hick/lexicon.md
+```504:512:site/@/languages/hickic/seneran/early-hick/lexicon.md
 3. tor-thir-es thral-ʔer peak-KNOWN.ANIM-ABS sacred-ACT "The known peak is
 1. Compound Formation
    - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
@@ -104,7 +104,7 @@ This follows Early Hick compound formation patterns shown here:
 And follows the three-element compound stress pattern described here:
 
 
-```224:236:site/content/languages/hick/early-hick/_index.md
+```224:236:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Stress Patterns
    - Primary stress falls on first syllable of simple words
    - In compounds:

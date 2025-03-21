@@ -187,7 +187,7 @@ That's a very good point! The spatial markers are indeed quite loaded already wi
 
 Let's look at how we could document this pattern. I'd suggest adding it under the Aspect section, perhaps after the current iterative documentation:
 
-````markdown:site/content/languages/hick/early-hick/analysis-sentences.md
+````markdown:site/@/languages/hickic/seneran/early-hick/analysis-sentences.md
 ### Iterative-Completive Interaction
 
 When the completive marker tel follows an iterative-marked verb, it indicates a 
@@ -242,7 +242,7 @@ In aspectual terminology, this function is most commonly called "repetitive" or 
 
 So we could revise the header to:
 
-````markdown:site/content/languages/hick/early-hick/analysis-sentences.md
+````markdown:site/@/languages/hickic/seneran/early-hick/analysis-sentences.md
 ### Repetitive Aspect
 
 The repetitive aspect in Early Hick is formed by combining the iterative suffix 

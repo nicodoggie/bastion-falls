@@ -391,7 +391,7 @@ _**Assistant**_
 
 Yes, I'll help add asatogar "travertine" to both files. Here are the edits:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 ### Material Terms
 

@@ -57,7 +57,7 @@ _**Assistant**_
 
 That's a clever and linguistically sound derivation! Let me help flesh this out as an entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 bressim [bres.sim]
@@ -99,7 +99,7 @@ _**Assistant**_
 Ah, my apologies! Yes, that makes even more sense - using the translative case to 
 express "becoming/changing like wind". Let me revise the entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 bressim [bres.sim]
@@ -245,7 +245,7 @@ indifference/concessive marker. Here's the lexicon.jsonld entry:
 
 And for the markdown lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 etilsim [e.til.sim]
@@ -328,7 +328,7 @@ rather than a concessive marker. Let me revise those entries:
 }
 ```
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 etilsim [e.til.sim]
@@ -408,7 +408,7 @@ me revise again:
 ```
 
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 etilsim [e.til.sim]

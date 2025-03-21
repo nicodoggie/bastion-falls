@@ -18,7 +18,7 @@ Let me analyze the provided Early Hick lexicon and phonological patterns to crea
 
 Looking at the sound changes and patterns shown in:
 
-```71:109:site/content/languages/hick/early-hick/_index.md
+```71:109:site/@/languages/hickic/seneran/early-hick/_index.md
 
 
 1. Final Vowel Loss (Pre-Early Hick)
@@ -62,7 +62,7 @@ Looking at the sound changes and patterns shown in:
 
 And the existing vocabulary patterns in:
 
-```1:100:site/content/languages/hick/early-hick/lexicon.md
+```1:100:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 
    - ris [ris] "reed" < Proto-Hick \*risu → ris
@@ -159,7 +159,7 @@ diversity while maintaining semantic connections. They're also consistent with
 existing patterns shown in:
 
 
-```74:109:site/content/languages/hick/early-hick/_index.md
+```74:109:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Final Vowel Loss (Pre-Early Hick)
    - \*-u > ∅ / \_#
@@ -203,7 +203,7 @@ The semantic development follows attested patterns of metaphorical extension see
 in:
 
 
-```124:129:site/content/languages/hick/early-hick/_index.md
+```124:129:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Core Vocabulary
    - \*thralu "sacred" → thral "sacred; day"
@@ -230,7 +230,7 @@ Based on the existing sound changes section in the file, I'll add the new sound
 changes. Looking at:
 
 
-```71:84:site/content/languages/hick/early-hick/_index.md
+```71:84:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Final Vowel Loss (Pre-Early Hick)
@@ -250,7 +250,7 @@ changes. Looking at:
 
 I'll expand this section to include our new changes. Here's the updated version:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Final Vowel Loss (Pre-Early Hick)
@@ -330,7 +330,7 @@ We can see that Proto-Hick *hi- had two developments:
 
 Let's add this sound change to the Proto-Hick reconstruction section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Developments
@@ -378,7 +378,7 @@ endLine: 2190
 And:
 
 
-```73:84:site/content/languages/hick/early-hick/_index.md
+```73:84:site/@/languages/hickic/seneran/early-hick/_index.md
 
 
 1. Final Vowel Loss (Pre-Early Hick)
@@ -445,7 +445,7 @@ This gives us some interesting minimal pairs:
 
 Let's add this to the sound changes section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Development
@@ -494,7 +494,7 @@ endLine: 6908
 We could revise the sound changes to include this intermediate stage. Here's a 
 proposed update:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Development (Pre-Early Hick)
@@ -560,7 +560,7 @@ implications:
 
 Let's add this to the sound changes section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Medial *h Development
@@ -630,7 +630,7 @@ The medial glottalization seems less typologically natural. Instead, we could ha
 
 Let's update the sound changes section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Medial *h Loss
@@ -696,7 +696,7 @@ We could propose additional sources for glottal stops:
 
 Let's add this to the sound changes section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Glottal Stop Development
@@ -757,7 +757,7 @@ We could propose that Proto-Hick *sC clusters developed in two ways:
 
 Let's add this to the sound changes:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial Cluster Simplification
@@ -867,7 +867,7 @@ phonemically and confirm that our current lexicon doesn't have problematic sC
 clusters. Looking at:
 
 
-```227:270:site/content/languages/hick/early-hick/lexicon.md
+```227:270:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - ren [ren] "deer" < Proto-Hick \*renu → ren
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -918,7 +918,7 @@ clusters. Looking at:
 The only relevant form is [is.kel], which as you note is already valid syllable 
 structure. Let's formalize this in our sound changes:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial Cluster Simplification
@@ -972,7 +972,7 @@ Early Hick resyllabification:
 This pattern would be consistent with:
 
 
-```389:393:site/content/languages/hick/early-hick/lexicon.md
+```389:393:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 1. Basic Terms
    - iskel [is.kel] "window" < is-kel "out-sky" → iskel
@@ -1013,7 +1013,7 @@ perhaps we can explore if other sibilants/fricatives used to exist in proto-hick
 Yes! Let's update the Proto-Hick Reconstruction section with these new sound changes and explore other possible fricatives. Looking at:
 
 
-```71:109:site/content/languages/hick/early-hick/_index.md
+```71:109:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Development
@@ -1058,7 +1058,7 @@ Yes! Let's update the Proto-Hick Reconstruction section with these new sound cha
 
 Let's add these changes:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial Cluster Simplification
@@ -1106,7 +1106,7 @@ I suppose in sections where we're concerned with phonetics, we can retain the sy
 Yes, we can use that distinction! Looking at the current file:
 
 
-```215:222:site/content/languages/hick/early-hick/_index.md
+```215:222:site/@/languages/hickic/seneran/early-hick/_index.md
      - /ei-ae/ → [e.e]
      - /ai-ae/ → [ae]
    - No three-vowel sequences
@@ -1120,7 +1120,7 @@ Yes, we can use that distinction! Looking at the current file:
 
 Let's update the consonant inventory section and add a note about notation:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Consonants
 
 |            | Labial | Dental | Alveolar | Velar | Glottal |
@@ -1164,7 +1164,7 @@ consistently. Let's keep [h] for now but mark where it appears. From the current
 lexicon:
 
 
-```469:473:site/content/languages/hick/early-hick/lexicon.md
+```469:473:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 1. Basic Terms
 
@@ -1177,7 +1177,7 @@ We see words like "nai" from *nahi showing h-loss with vowel coalescence. But we
 also have:
 
 
-```74:86:site/content/languages/hick/early-hick/_index.md
+```74:86:site/@/languages/hickic/seneran/early-hick/_index.md
    a. Animacy marker *hi-:
 1. Final Vowel Loss (Pre-Early Hick)
    - \*-u > ∅ / \_#
@@ -1230,7 +1230,7 @@ I could see how 'iter/ter may develop a nice pair with semantic connections thou
 You're right! Looking at the lexicon:
 
 
-```39:41:site/content/languages/hick/early-hick/lexicon.md
+```39:41:site/@/languages/hickic/seneran/early-hick/lexicon.md
      [Colors](#colors)
    - gar [gar] "stone" < Proto-Hick \*garu → gar ([final vowel loss])
    - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral ([final vowel loss])
@@ -1240,7 +1240,7 @@ You're right! Looking at the lexicon:
 We have *garu > gar for "stone" and:
 
 
-```48:51:site/content/languages/hick/early-hick/lexicon.md
+```48:51:site/@/languages/hickic/seneran/early-hick/lexicon.md
      See: [Maritime Terms](#maritime-terms)
    - ran [ran] "stream, flowing water" < Proto-Hick \*ranu → ran
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -1289,7 +1289,7 @@ for now let's apply these changes to @_index.md  and let's add the new words and
 Let's systematically update these files. First, let's update `_index.md` with the 
 corrected directional system and animacy marking:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Directional System
 
 1. Basic Directionals
@@ -1318,7 +1318,7 @@ corrected directional system and animacy marking:
 
 For the lexicon updates, I'll reference the existing entries and add new ones:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Directional Terms
 
 1. Basic Terms
@@ -1356,7 +1356,7 @@ You're right - let me focus on just updating the Proto-Hick roots and their deve
 From the current `_index.md`, we have these sound changes:
 
 
-```129:145:site/content/languages/hick/early-hick/_index.md
+```129:145:site/@/languages/hickic/seneran/early-hick/_index.md
    - \*toru "height" → tor- augmentative prefix
    - \*muru "night" → base for owl terminology
    
@@ -1379,7 +1379,7 @@ From the current `_index.md`, we have these sound changes:
 
 Let's systematically add these roots and their developments to the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Motion and Flow Terms
 
 1. Basic Terms

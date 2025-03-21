@@ -15,7 +15,7 @@ _**Assistant**_
 
 I'll help you add this entry to the lexicon. Based on the existing entries, we should include both the basic noun form and its verbal derivation, with appropriate semantic fields and etymological information.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing code ...
 
 tenwa [ten.wa]
@@ -123,7 +123,7 @@ with Early Hick's increasing social complexity.
 
 Here's a suggested entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 storbran [stor.bran]
   : marriage, family union
   : stor-bran "join-lineage" → storbran
@@ -206,7 +206,7 @@ _**Assistant**_
 
 Yes! Let's develop some informal/intimate bond terms that would coexist with the formal `storbran`. Here are some suggestions:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 mesmer [mes.mer]
   : life-partner, beloved
   : mes-mer "heart-parent" → mesmer
@@ -380,7 +380,7 @@ Ah yes, `brismer` works better! It's more elegant and has that nice double meani
 
 Let's revise the entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 brismer [bris.mer]
   : passionate lover
   : bris-mer "fire-parent/heart" → brismer
@@ -460,7 +460,7 @@ Some examples:
 
 For Early Hick, we could create entries like:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 lis [lis]
   : finger
   : Proto-Hick *lisu → lis
@@ -497,7 +497,7 @@ Ah, you make a good point! Looking at the lexicon, `lis` is already doing a lot 
 
 Let's create a distinct root for fingers. Perhaps something like:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 sul [sul]
   : finger
   : Proto-Hick *sulu → sul
@@ -528,7 +528,7 @@ _**Assistant**_
 
 Ah, that's a clever connection! Using the number "one" as a basis for "finger" makes great etymological sense - fingers being the basic counting unit. Let's work with that:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 sin [sin]
   : finger; one
   : Proto-Hick *sinu → sin
@@ -581,7 +581,7 @@ You raise a good point. I was too quick to assume the "parent-finger" pattern (I
 
 For Early Hick, perhaps we could create something more functionally motivated:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 sin [sin]
   : finger; one
   : Proto-Hick *sinu → sin
@@ -625,7 +625,7 @@ The compound "thumb-finger" pattern is less common, though it appears in some
 technical/anatomical contexts. This suggests we might want separate roots for
 Early Hick:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 sin [sin]
   : finger (excluding thumb)
   : Proto-Hick *sinu → sin
@@ -659,7 +659,7 @@ Yes, that's an elegant solution! It creates a nice semantic connection between "
 
 Let's revise the entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ul [ul]
   : thumb; grasp
   : Proto-Hick *ʔulu → ul
@@ -697,7 +697,7 @@ _**Assistant**_
 
 Yes, exactly! The case system could help disambiguate different types of grasping actions. Here are some examples we could add to the entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ul [ul]
   : thumb; grasp
   : Proto-Hick *ʔulu → ul
@@ -737,7 +737,7 @@ _**Assistant**_
 Ah, that's a really elegant solution! This kind of semantic split through
 locative specification is quite naturalistic. Let's revise the etymology:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ul [ul]
   : thumb
   : Proto-Hick *ʔulu → ul
@@ -792,7 +792,7 @@ _**Assistant**_
 
 Yes, this is a very naturalistic semantic development path! Let me formalize this chronology:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ul [ul]
   : thumb
   : Proto-Hick *ʔulu → ul
@@ -837,7 +837,7 @@ _**Assistant**_
 
 Yes! Let's revise that section to reflect this more detailed etymological development:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Development of the possession marker -ul
 
 The Early Hick possessive suffix -ul shows a complex development path from 
@@ -1097,7 +1097,7 @@ Ah, brilliant! Creating a length measure from "thumb-length" is very naturalisti
 
 Let's develop this:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 uran [u.rən]
   : inch (unit of length, approximately thumb-width)
   : Proto-Hick *ulu-haranu → uran
@@ -1168,7 +1168,7 @@ _**Assistant**_
 
 Yes! This shows a nice pattern where `-ran` has been reanalyzed from *haranu into a measurement suffix. Let's add this entry:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 brastran [bras.tran]
   : foot (unit of length, approximately arm-length)
   : brast-ran "arm-length" → brastran
@@ -1626,7 +1626,7 @@ _**Assistant**_
 
 Yes! Let's add this to the Number Marking section:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Number Marking
 
 Early Hick has three strategies for marking number:
@@ -1729,7 +1729,7 @@ _**Assistant**_
 
 Here's the lexicon entry for `barakter`:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 barakter [ba.rak.ter]
   : league (distance walkable in one hour, roughly 3-4 miles)
   : barak-ter "walk-time" → barakter
@@ -1762,7 +1762,7 @@ _**Assistant**_
 
 Here are the entries in both formats:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 maetil [ma.e.til]
   : many things; everything
   : ma-etil "PLURAL-thing" → maetil
@@ -1878,7 +1878,7 @@ _**Assistant**_
 Yes! That's a great parallel construction. If `kapal` represents strength
 (healthy-bellied), then `kaimpal` (ill-bellied) would be its natural opposite:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kaimpal [ka.im.pal]
   : weak, feeble (lit. "ill-bellied")
   : ka-im-pal "like-ill-belly" → kaimpal
@@ -1954,7 +1954,7 @@ _**Assistant**_
 
 Yes! That's a nice derivation - the compound becomes lexicalized as a noun:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 impal [im.pal]
   : weakness, frailty (lit. "ill-belly")
   : im-pal "ill-belly" → impal
@@ -2028,7 +2028,7 @@ _**Assistant**_
 
 Yes, let's document the positive term in this metaphorical pair:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kapal [ka.pal]
   : strong, vigorous (lit. "healthy-bellied")
   : ka-pal "like-belly" → kapal
@@ -2543,7 +2543,7 @@ _**Assistant**_
 
 Here are the markdown entries:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'ibris'er [ʔi.bris.ʔer]
   : to burn
   : 'ibris-'er "burn-VERB" → 'ibris'er
@@ -2588,7 +2588,7 @@ _**Assistant**_
 Ah yes, you're absolutely right! Only the base form `'ibris` and the positive
 prefix `'il-` have glottal stops. Let me fix those entries:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'ibris'er [ʔi.bris.ʔer]
   : to burn
   : 'ibris-'er "burn-VERB" → 'ibris'er
@@ -2627,7 +2627,7 @@ _**Assistant**_
 
 Yes! This is a nice derivation from a verbal phrase. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 eltek [el.tek]
   : compacted, condensed (esp. of soil); shaped from loose material
   : Proto-Hick *ʔelu-taku → eltek
@@ -2708,7 +2708,7 @@ _**Assistant**_
 
 Ah, that's a lovely compound with phonological simplification! Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 bramulis [bra.mu.lis]
   : vortex, whirlpool
   : bram-ul-lis "tide-POSS-eye" → bramulis
@@ -2787,7 +2787,7 @@ _**Assistant**_
 
 Yes! A negated bird becomes a flightless bird - that's a clever derivation:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 momer [mo.mer]
   : chicken
   : mo-mer "NEG-bird" → momer
@@ -2857,7 +2857,7 @@ _**Assistant**_
 Yes! That's a very naturalistic development - using "four-legged" as a general
 term for animal. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 aniko [a.ni.ko]
   : animal (general term)
   : Proto-Hick *xani-kostu → aniko
@@ -3009,7 +3009,7 @@ _**Assistant**_
 
 Ah! Of course - "death-bringer"! That's a much more elegant etymology. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 temerok [te.me.rok]
   : predator
   : temer-ok "death-AGENT" → temerok
@@ -3076,7 +3076,7 @@ _**Assistant**_
 Yes! The term would naturally apply to both animal predators and killers in
 general. Let's update the entries:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 temerok [te.me.rok]
   : killer, murderer; predator
   : temer-ok "death-AGENT" → temerok
@@ -3230,7 +3230,7 @@ _**Assistant**_
 Yes! A compound verb from "spike-strike" meaning "pierce" - that's very natural.
 Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 krantak [kran.tak]
   : to pierce, stab
   : kran-tak "spike-strike" → krantak
@@ -3301,7 +3301,7 @@ _**Assistant**_
 Ah yes! That's a perfect formation - "horn-tooth" with phonological
 simplification. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 krakrak [kra.krak]
   : fang
   : kran-krak "horn-tooth" → krakrak
@@ -3853,7 +3853,7 @@ _**Assistant**_
 Yes! That's a perfect formation - "reflection-stone" preserving the technological
 history. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kasger [kas.ger]
   : mirror (esp. polished stone mirror)
   : kasu-garu "reflection-stone" → kasger
@@ -3929,7 +3929,7 @@ _**Assistant**_
 Yes! A beautiful compound preserving the ancient practice of water-gazing for
 reflection/meditation. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kasai [kas.əi]
   : introspection, self-reflection
   : kasu-ai "reflection-water" → kasai
@@ -4002,7 +4002,7 @@ _**Assistant**_
 
 Ah yes! A beautiful example of folk etymology/reanalysis. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 sai [sai]
   : sense of self; inner voice
   : Back-formation from kasai, reanalyzed as ka-sai "ADJ-self"
@@ -4078,7 +4078,7 @@ _**Assistant**_
 Perfect - using the negative prefix with fermentation to create "bad
 fermentation". Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 imtir [im.tir]
   : rot, decay
   : im-tir "NEG-ferment" → imtir
@@ -4156,7 +4156,7 @@ _**Assistant**_
 Brilliant! "Rot-fruit" for mushrooms - capturing their association with decay.
 Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 imtirlis [im.tir.lis]
   : mushroom
   : imtir-lis "rot-fruit" → imtirlis
@@ -4233,7 +4233,7 @@ _**Assistant**_
 
 Yes! A compound for decaying flesh/cadaver. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 imtirdu [im.tir.du]
   : rotting meat; cadaver
   : imtir-du "rot-meat" → imtirdu
@@ -4319,7 +4319,7 @@ _**Assistant**_
 
 Perfect! A literal "cadaver-eater" for scavenger. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 imtirduok [im.tir.du.ok]
   : scavenger
   : imtirdu-ok "cadaver-AGENT" → imtirduok
@@ -4395,7 +4395,7 @@ _**Assistant**_
 Ah, a nice compound reduction showing the connection between belly and crawling
 motion. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 par [par]
   : crawl
   : Proto-Hick *paru-heru "belly-motion" → par
@@ -4465,7 +4465,7 @@ _**Assistant**_
 Perfect! A compound describing the worm by its motion through earth. Let's
 document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 grapar [gra.par]
   : earthworm
   : gral-par "earth-crawl" → grapar
@@ -4547,7 +4547,7 @@ _**Assistant**_
 Brilliant derivation showing the connection between rhythm, language, and single
 beats! Let's document both:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 takutakal [ta.ku.ta.kal]
   : language
   : takutak-'al "rhythm-person" → takutakal
@@ -4715,7 +4715,7 @@ _**Assistant**_
 
 Yes! Let's add it to the expressions section:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Common Phrases & Expressions
 
 imtirokul matakalel ka'irurlislas'er 'alrumul pirul grapares
@@ -4846,7 +4846,7 @@ _**Assistant**_
 
 Yes! Let's document this euphemism:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'ilibris'er [ʔi.li.bris.ʔer]
   : (euphemistic) to make love, have sexual intercourse
   : 'ilibris-'er "passion-VERB" → 'ilibris'er
@@ -4924,7 +4924,7 @@ _**Assistant**_
 Perfect - a compound showing how social division is conceptualized through family
 splits. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 harabran [ha.ra.bran]
   : conflict, grievance (especially between families/clans)
   : haran-bran "divide-lineage" → harabran
@@ -5004,7 +5004,7 @@ _**Assistant**_
 
 Yes, let's document these important verbs formed with case suffixes:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 taglas [tag.las]
   : take, receive
   : tag-las "hand-ILL" → taglas
@@ -5129,7 +5129,7 @@ _**Assistant**_
 Perfect! A compound showing peace conceptualized as "good rhythm". Let's document
 it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'iltakutak [ʔil.ta.ku.tak]
   : peace, harmony
   : 'il-takutak "good-rhythm" → 'iltakutak
@@ -5211,7 +5211,7 @@ _**Assistant**_
 
 Excellent set of temporal/ordering terms! Let's document them:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 terlas [ter.las]
   : previous
   : ter-las "flow-ILL" → terlas
@@ -5281,7 +5281,7 @@ _**Assistant**_
 
 Let me help add this to the Number Marking section in the grammar. I'll show the edits needed:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Number Marking
@@ -5352,7 +5352,7 @@ _**Assistant**_
 
 Yes! Let's add the ordinal section before the fractional marking:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Number Marking
@@ -5439,7 +5439,7 @@ _**Assistant**_
 
 Let's document this maritime motion term:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 matir [ma.tir]
   : (of vessels) to move through water, travel by water
   : mater-'ir "vessel-motion" → matir
@@ -5563,7 +5563,7 @@ _**Assistant**_
 
 Ah yes! Using the liver as a seat of emotions is a very attested pattern cross-linguistically (like Ancient Greek ἧπαρ/hêpar). Let's document this:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'ilsul [ʔil.sul]
   : happiness, joy
   : 'il-sul "good-liver" → 'ilsul
@@ -5680,7 +5680,7 @@ _**Assistant**_
 
 Let's document this psychological term:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'imsai [ʔim.sai]
   : self-doubt, anxiety
   : 'im-sai "negative-introspection" → 'imsai
@@ -5766,7 +5766,7 @@ _**Assistant**_
 
 Let's document this basic emotion verb:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 mes'er [mes.ʔer]
   : to feel (emotion), experience emotion
   : mes-'er "heart-VERB" → mes'er
@@ -5885,7 +5885,7 @@ _**Assistant**_
 
 Excellent compound! Let's document both terms:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 rantirduok [ran.tir.du.ok]
   : pirate, maritime raider
   : ran-imtirduok "river-scavenger" → rantirduok
@@ -6037,7 +6037,7 @@ _**Assistant**_
 
 Let's document these pain terms that show the physical/emotional distinction:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 merkran [mer.kran]
   : emotional pain, heartache
   : mer-krantak "heart-pierce" → merkran
@@ -6256,7 +6256,7 @@ _**Assistant**_
 Ah yes! You're right - Early Hick uses li- as its diminutive prefix. So let's
 document:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 litak [li.tak]
   : touch, gentle contact
   : li-tak "DIM-strike" → litak
@@ -6352,7 +6352,7 @@ Ah yes! We could have an interesting case of homophony through either:
 
 Let's document this:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ris [ris]
   1. reed, water plant
      : < Proto-Hick *risu
@@ -6688,7 +6688,7 @@ _**Assistant**_
 
 Here are the entries for siltak:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 siltak [sil.tak]
   : touch, tactile sensation
   : sil-tak "skin-contact" → siltak
@@ -6782,7 +6782,7 @@ _**Assistant**_
 
 Nice compound! Let's document this honorific term:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 sibar [si.bar]
   : distinguished one, unique person
   : sin-bar "one-name" → sibar
@@ -6868,7 +6868,7 @@ _**Assistant**_
 Yes! This is a nice use of the ellative case to create an outward-directed
 aggressive meaning. Let's document it:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 takimris [ta.kim.ris]
   : to attack, to oppose
   : tak-imris "strike-ELL" → takimris
@@ -6954,7 +6954,7 @@ _**Assistant**_
 
 Excellent etymology showing technological development! Let's document this:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 krakesi [kra.ke.si]
   : sword, long bladed weapon
   : krak-kasigaru "tooth-obsidian" → krakesi
@@ -7040,7 +7040,7 @@ _**Assistant**_
 
 Nice compound! Let's document this collective term for weapons:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 brastak [bras.tak]
   : weapons, armaments
   : brast-tak "arm-strike" → brastak
@@ -7124,7 +7124,7 @@ _**Assistant**_
 
 Let's document this borrowed mythological term:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 lik [lik]
   : dragon
   : < Eldrim lyg "dragon, snake, drake"
@@ -7205,7 +7205,7 @@ _**Assistant**_
 
 Excellent compounds showing landscape terms! Let's document these:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 asamgral [a.sam.gral]
   : flatlands, plains
   : asam-gral "lie-land" → asamgral
@@ -7337,7 +7337,7 @@ _**Assistant**_
 
 Perfect set of cardinal directions derived from winds! Let's document these:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 eldul [el.dul]
   : north
   : eldalulbres "north wind" → eldul
@@ -7564,7 +7564,7 @@ _**Assistant**_
 
 Let's document these magical practitioner terms:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'imwen [ʔim.wen]
   : witch, evil woman
   : 'im-wen'al "evil-woman" → 'imwen
@@ -7697,7 +7697,7 @@ _**Assistant**_
 
 Let's document this disjunctive coordinator:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 'a [ʔa]
   : or, either/or
   : ([coordinator](@/languages/hickic/early-hick/_index.md#conjunctions))
@@ -7787,7 +7787,7 @@ _**Assistant**_
 
 I'll add the disjunctive coordination section after the additive coordination:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Disjunctive Coordination
 
 Early Hick marks alternatives with the particle o and joins them with the 
@@ -7859,7 +7859,7 @@ _**Assistant**_
 
 Let's document this interesting semantic development:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 arak [a.rak]
   : color
   : < Proto-Hick *ʔaraku "light (animate)"
@@ -7936,7 +7936,7 @@ _**Assistant**_
 
 Let's document this cultural borrowing:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 parma [par.ma]
   : book, written record
   : < Eldrim parma "book"
@@ -8019,7 +8019,7 @@ _**Assistant**_
 
 Excellent etymology showing semantic split! Let's document both:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 tal [tal]
   : place, location
   : < Pre-Hick dialect *tal < Proto-Hick *halu "place of cleansing"

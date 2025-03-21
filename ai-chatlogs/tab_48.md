@@ -15,7 +15,7 @@ Starting form: toritar-rises [to.ri.tar.ri.ses]
 
 1. Early Hick to Middle Hick:
 
-```71:95:site/content/languages/hick/early-hick/_index.md
+```71:95:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Sound Changes from Proto-Hick to Early Hick
 
 1. Initial *h Development a. Animacy marker *hi-:
@@ -62,7 +62,7 @@ Starting form: toritar-rises [to.ri.tar.ri.ses]
 # See Also
 
 - [Early Hick](@/languages/hickic/early-hick.md)
-- [Middle Hick](@/languages/hick/middle-hick.md)
+- [Middle Hick](@/languages/hickic/seneran/middle-hick.md)
 ```
 
 - Unstressed vowel reduction begins
@@ -157,7 +157,7 @@ Starting form: tor-itar-rises [tor.i.tar.ri.ses]
 
 1. Early Hick compound formation rules (referencing lexicon.md):
 
-```563:570:site/content/languages/hick/early-hick/lexicon.md
+```563:570:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Compound Formation
    - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
      ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
@@ -173,7 +173,7 @@ Starting form: tor-itar-rises [tor.i.tar.ri.ses]
 
 2. Middle Hick changes:
 
-```89:101:site/content/languages/hick/middle-hick.md
+```89:101:site/@/languages/hickic/seneran/middle-hick.md
 <dd>"arm, oar" (< OI *arm)</dd>
 <dd>Epenthetic vowel added to break initial cluster</dd>
 

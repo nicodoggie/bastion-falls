@@ -1083,7 +1083,7 @@ Yes, `tor'imerok` would be a very plausible word for "goat" in Early Hick! Let m
 down why based on the provided grammar:
 
 
-```464:473:site/content/languages/hick/early-hick/_index.md
+```464:473:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Agentive Marking
 
@@ -1138,7 +1138,7 @@ Hick! Let me explain why this works well linguistically:
 
 From the lexicon and grammar:
 
-```1161:1166:site/content/languages/hick/early-hick/lexicon.md
+```1161:1166:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
@@ -1156,7 +1156,7 @@ The compound would follow these patterns:
 
 This follows Early Hick's compound formation rules:
 
-```728:735:site/content/languages/hick/early-hick/_index.md
+```728:735:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: modifier-head
 - Sound changes:
   - Liquid deletion: tor-mal → tomal

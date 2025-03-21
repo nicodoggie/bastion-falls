@@ -123,31 +123,31 @@ Let me check the file to identify and convert entries that need updating.
 
 | File | Lines |
 |------|-------|
-| `site/content/languages/hick/early-hick/lexicon.md` | L1395-1396 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1450-1451 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1-28 |
-| `site/content/languages/hick/early-hick/_index.md` | L1-27 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L361-391 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L158-178 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1452-1485 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1260-1276 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1544-1563 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1214-1235 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L499-516 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1941-1965 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L301-317 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1313-1331 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L2105-2130 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1429-1449 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1898-1913 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1236-1259 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L439-459 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1072-1087 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1350-1363 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L2075-2104 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L1168-1190 |
-| `site/content/languages/hick/early-hick/lexicon.md` | L698-701 |
-| `site/content/languages/hick/early-hick/_index.md` | L28-70 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1395-1396 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1450-1451 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1-28 |
+| `site/@/languages/hickic/seneran/early-hick/_index.md` | L1-27 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L361-391 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L158-178 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1452-1485 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1260-1276 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1544-1563 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1214-1235 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L499-516 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1941-1965 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L301-317 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1313-1331 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L2105-2130 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1429-1449 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1898-1913 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1236-1259 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L439-459 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1072-1087 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1350-1363 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L2075-2104 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L1168-1190 |
+| `site/@/languages/hickic/seneran/early-hick/lexicon.md` | L698-701 |
+| `site/@/languages/hickic/seneran/early-hick/_index.md` | L28-70 |
 
 </details>
 
@@ -258,8 +258,8 @@ I see the issue now - the file content is more complex than initially shown. Let
 | `file:///home/ensu/Projects/bastion-falls/ai-chatlogs/Lexicon%20Consistency%20and%20Rule%20Violation%20Analysis.md` | L14931 | `- thren [θren] "watch, observe (ritual)"` |
 | `file:///home/ensu/Projects/bastion-falls/ai-chatlogs/Lexicon%20Consistency%20and%20Rule%20Violation%20Analysis.md` | L15106 | `- thren [θren] "watch, observe (ritual)"` |
 | `file:///home/ensu/Projects/bastion-falls/ai-chatlogs/Clarifying%20the%20Agentive%20Suffix%20-ok.md` | L2091 | `- thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren` |
-| `file:///home/ensu/Projects/bastion-falls/site/content/languages/hick/early-hick/lexicon.md` | L67 | `thren [θren]` |
-| `file:///home/ensu/Projects/bastion-falls/site/content/languages/hick/early-hick/lexicon.md` | L67 | `thren [θren]` |
+| `file:///home/ensu/Projects/bastion-falls/site/@/languages/hickic/seneran/early-hick/lexicon.md` | L67 | `thren [θren]` |
+| `file:///home/ensu/Projects/bastion-falls/site/@/languages/hickic/seneran/early-hick/lexicon.md` | L67 | `thren [θren]` |
 
 </details>
 
@@ -269,7 +269,7 @@ I see. Let me try to read the exact content around this entry to make sure we ge
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -855,7 +855,7 @@ I notice that we're having some issues with the edits. Let me try a different ap
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -863,7 +863,7 @@ I apologize for the confusion. Let me try reading a different section of the fil
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -1447,7 +1447,7 @@ I see that the entries are already in the correct colon-based format. Let me che
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -2094,7 +2094,7 @@ I'll continue converting entries from the Sensory Terms section to the colon-bas
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -2102,7 +2102,7 @@ Let me continue reading to find the Sensory Terms section:
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -2110,7 +2110,7 @@ Let me continue reading to find the Sensory Terms section:
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -2312,7 +2312,7 @@ I'll continue converting the existing Sound Terms section to the new format, wit
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -2496,7 +2496,7 @@ I apologize for the continued timeouts. It seems we're still having issues with 
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -2841,7 +2841,7 @@ Let me continue with more entries from the Natural World section:
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -3284,7 +3284,7 @@ I notice we're having trouble with the edit_file tool. Let me try reading the cu
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -3476,7 +3476,7 @@ I notice that the Derived Terms section might already be in the correct format. 
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -3496,7 +3496,7 @@ I notice that the file might be in a different state than what we're seeing. Let
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -3510,7 +3510,7 @@ I notice that we're having trouble with the edit_file tool. Let me try a differe
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -3539,7 +3539,7 @@ I notice that we're having trouble with the edit_file tool. Let me check if the 
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 
@@ -3622,7 +3622,7 @@ I notice we're having persistent issues with the edit_file tool. Let me check th
 
 ---
 
-Read file: site/content/languages/hick/early-hick/lexicon.md
+Read file: site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ---
 

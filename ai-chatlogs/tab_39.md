@@ -284,7 +284,7 @@ process of grammaticalizing from a demonstrative to a true definite article.
 
 And for Early Hick:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Development of Early Hick -el
 
 The Early Hick ergative marker -el derives from Proto-Hick *mela through parallel 

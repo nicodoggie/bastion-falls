@@ -23,7 +23,7 @@ _**Assistant**_
 
 I'll help add a subsection about color terms under the Adjectival Morphology section. Here's the suggested addition:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Color Terms

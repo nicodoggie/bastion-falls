@@ -12,7 +12,7 @@ _**Assistant**_
 
 Let me suggest a more comprehensive and clearer way to describe the possessive marking system. Here's a revised version:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Possession Marking
 
 Early Hick marks possession through the suffix -ul, which derives from Proto-Hick 
@@ -79,7 +79,7 @@ _**Assistant**_
 
 Looking at the lexical entry and its relationship to possession marking, I can suggest a clearer way to document this important grammaticalization path:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Possession Marking
 
 The possessive suffix -ul derives from Proto-Hick *ʔulu "grasp, hold":
@@ -136,7 +136,7 @@ _**Assistant**_
 
 I'll split this into two sections - the functional description and the historical development:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Possession Marking
 
 The possessive suffix -ul marks ownership and possession relationships:
@@ -301,7 +301,7 @@ _**Assistant**_
 
 I'll add this usage to the Number Marking section. Here's how we can integrate it:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Number Marking
 
 Early Hick has three strategies for marking number:

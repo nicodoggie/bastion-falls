@@ -13,7 +13,7 @@ I'll help create a new "Sensory Terms" semantic category by analyzing the existi
 
 Here's a proposed new section for the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sensory Terms
 
 1. Visual Perception
@@ -46,7 +46,7 @@ Here's a proposed new section for the lexicon:
 The following terms should be cross-referenced from their existing locations in the lexicon:
 
 
-```776:785:site/content/languages/hick/early-hick/lexicon.md
+```776:785:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
@@ -61,7 +61,7 @@ The following terms should be cross-referenced from their existing locations in 
 
 
 
-```740:754:site/content/languages/hick/early-hick/lexicon.md
+```740:754:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 1. Basic Terms
@@ -98,7 +98,8 @@ what sensory/perception words might we be missing?
 Based on analyzing the existing lexicon and common sensory domains in natural languages, here are some sensory/perception terms that appear to be missing from Early Hick:
 
 1. **Auditory Terms**
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sensory Terms
 
 4. Auditory Perception
@@ -157,7 +158,7 @@ Based on analyzing the existing lexicon, here are the key sensory categories tha
 1. **Visual Perception**
 Currently has:
 
-```50:61:site/content/languages/hick/early-hick/lexicon.md
+```50:61:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
      ([initial fricative loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - gar [gar] "stone" < Proto-Hick \*garu → gar ([final vowel loss])
@@ -180,7 +181,7 @@ Missing:
 2. **Auditory Perception**
 Currently has:
 
-```63:67:site/content/languages/hick/early-hick/lexicon.md
+```63:67:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - toran [to.ran] "river, flowing water" < Proto-Hick \*ranu → ran
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 3. Landforms
@@ -197,7 +198,7 @@ Missing:
 3. **Tactile Perception**
 Currently has:
 
-```69:74:site/content/languages/hick/early-hick/lexicon.md
+```69:74:site/@/languages/hickic/seneran/early-hick/lexicon.md
      See: [Augmentative Prefix](#augmentativediminutive)
    - thrantor [θran.tor] "mountain range" < thran-tor "thousand peaks" →
      thrantor
@@ -215,7 +216,7 @@ Missing:
 4. **Gustatory Perception**
 Currently has:
 
-```99:101:site/content/languages/hick/early-hick/lexicon.md
+```99:101:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Plant Terms
    - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
    - ris [ris] "reed" < Proto-Hick \*risu → ris
@@ -274,7 +275,7 @@ Theme: Focus on reception rather than production
 Based on Early Hick's existing lexicon and patterns, I see relevant entries:
 
 
-```597:604:site/content/languages/hick/early-hick/lexicon.md
+```597:604:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - imer [i.mer] "breath, soul" < Proto-Hick \*imeru → imer
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Sacred Terms](#sacred--ritual)
@@ -289,7 +290,7 @@ Based on Early Hick's existing lexicon and patterns, I see relevant entries:
 The word "imer" (breath/soul) could be a good base for sound terminology, given the breath/voice pattern seen in natural languages.
 
 
-```434:437:site/content/languages/hick/early-hick/lexicon.md
+```434:437:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - bel [bel] "mouth, opening" < Proto-Hick \*belu → bel
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
@@ -339,7 +340,7 @@ Looking at less typical etymologies for "sound" across languages reveals some fa
 Looking at Early Hick's existing patterns:
 
 
-```62:66:site/content/languages/hick/early-hick/lexicon.md
+```62:66:site/@/languages/hickic/seneran/early-hick/lexicon.md
 2. Auditory Perception
    - kamer [ka.mer] "bird-like sound" < ka-mer "like-bird" → kamer
      ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
@@ -351,7 +352,7 @@ Looking at Early Hick's existing patterns:
 We see animal-sound compounds, and:
 
 
-```69:73:site/content/languages/hick/early-hick/lexicon.md
+```69:73:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thir [θir] "air, wind" < Proto-Hick *thiru → thir
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
      See: [Natural World](#natural-world), [Colors](#colors)
@@ -398,7 +399,7 @@ Looking at Early Hick's structure, particularly its nominal basis (referenced in
 
 For "tak" (strike), here's a suggested entry that fits Early Hick's patterns:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
@@ -432,7 +433,7 @@ let's add tak, I don't quite like your other additions too much. let's workshop 
 
 Based on the existing patterns in Early Hick, particularly its nominal base and compound system, here's a proposal for "tak":
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
@@ -467,7 +468,7 @@ takutak as rhythm
 
 Yes, let's add a derived compound for rhythm! Looking at the existing patterns for compounds (referenced in lines 624-633) and the established semantic domains, here's a proposal:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
@@ -505,7 +506,7 @@ takutaku, then only word final u is removed
 
 Ah, I understand - let's correct the entry to reflect the proper sound change pattern:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
@@ -542,7 +543,7 @@ You're right - looking at the Proto-Hick patterns shown in the lexicon (lines 31
 
 Let's revise the entry to reflect this:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
@@ -573,7 +574,7 @@ let's remove the ritual nature of tak, it's a general term, I think the fact tha
 
 You're right - the onomatopoeic nature alone is sufficient explanation for tak's preservation. Let's revise the entries to be simpler:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak

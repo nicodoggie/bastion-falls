@@ -781,7 +781,7 @@ please use the format in @lexicon.md already
 
 Based on the format shown in the Early Hick Lexicon markdown file, here's how we should add the entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Construction/Dwelling Actions
 
 - asad [a.sad] "bridge" < Proto-Hick *hasa-wadu → asad
@@ -794,7 +794,7 @@ Based on the format shown in the Early Hick Lexicon markdown file, here's how we
 This follows the established patterns shown in:
 
 
-```1090:1120:site/content/languages/hick/early-hick/lexicon.md
+```1090:1120:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - tormer [tor.mer] "ancestor" < tor-mer "great-parent" → tormer
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
@@ -851,7 +851,7 @@ as I said, I think this should go into Architecture
 
 Yes, let's add it to the Architecture section following the existing format in the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Architecture and Infrastructure
 
 ### asad [a.sad] "bridge" < Proto-Hick *hasa-wadu
@@ -1047,7 +1047,7 @@ demonstrative or deictic marker. Its usage patterns suggest it was still in the
 
 Here's the entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Place Names
 
 ### 'eldegralen asadimris
@@ -1083,7 +1083,7 @@ when I ask for this, please use the format established in @lexicon.md as that is
 Yes, I'll add the entry following the format in the Early Hick Lexicon. Based on the established patterns in:
 
 
-```1180:1184:site/content/languages/hick/early-hick/lexicon.md
+```1180:1184:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Usage Examples
 
 - imur-thir-es thral-ʔer evil-KNOWN.ANIM-ABS sacred-ACT "The known evil one is
@@ -1094,7 +1094,7 @@ Yes, I'll add the entry following the format in the Early Hick Lexicon. Based on
 
 Here's the entry for the Place Names section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Place Names
 
 - 'eldegralen asadimris [ʔel.də.gra.len a.sa.dim.ris] "The Elven Bridge" < 'eldegral-en asad-imris

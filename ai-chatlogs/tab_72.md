@@ -15,7 +15,7 @@ I'll help generate more Early Hick terms for plants and agriculture, following t
 patterns seen in the lexicon. I'll reference the existing plant terms from lines 146-153 and 
 maintain consistency with the established phonological and morphological patterns.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Flora & Agriculture
 
 1. Basic Plant Terms
@@ -91,14 +91,14 @@ Yes, we can create cross-references between the religious and agricultural meani
 "thragral". Looking at the lexicon file, I can see the term appears in two places:
 
 
-```63:64:site/content/languages/hick/early-hick/lexicon.md
+```63:64:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
      ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ```
 
 and
 
-```123:124:site/content/languages/hick/early-hick/lexicon.md
+```123:124:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thragral [θra.gral] "garden" < thral-gral "sacred-earth" → thragral
      ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ```
@@ -138,7 +138,7 @@ I'll trace the evolution of "thragral" through the historical stages using the s
 changes documented in the provided files. I'll reference the relevant sections:
 
 
-```27:67:site/content/languages/hick/early-hick/_index.md
+```27:67:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Early Hick (prehistory to ~300 PF)
 
 - Purely oral tradition
@@ -286,7 +286,7 @@ reference the relevant sound changes from the files:
 
 
 
-```42:50:site/content/languages/hick/early-hick/_index.md
+```42:50:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 
 - Kalassarian settlement period begins
@@ -351,7 +351,7 @@ Let me analyze this based on the morphological structure and sound changes. I'll
 the relevant sections from the provided files:
 
 
-```223:238:site/content/languages/hick/early-hick/_index.md
+```223:238:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Stress Patterns
    - Primary stress falls on first syllable of simple words
@@ -431,7 +431,7 @@ Yes, looking at the sound change patterns, particularly in Late Hick, we would
 expect similar treatment. Let me reference the relevant patterns:
 
 
-```318:332:site/content/languages/hick/early-hick/_index.md
+```318:332:site/@/languages/hickic/seneran/early-hick/_index.md
 #### Stress-Dependent Reduction
 
 1. In Compounds:

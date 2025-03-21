@@ -194,7 +194,7 @@ implications for several areas:
 
 1. In the lexicon (referencing):
 
-```33:43:site/content/languages/hick/early-hick/lexicon.md
+```33:43:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
@@ -214,7 +214,7 @@ Words like "haran" and "ward" would have been repaired differently based on thei
 
 2. In compound formation (referencing):
 
-```823:829:site/content/languages/hick/early-hick/lexicon.md
+```823:829:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
@@ -230,7 +230,7 @@ The harmony would affect how compounds were formed when final vowels were lost:
 
 3. Most significantly in morphological processes (referencing):
 
-```378:410:site/content/languages/hick/early-hick/_index.md
+```378:410:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Nominal Morphology
 
@@ -288,7 +288,7 @@ Proto-Hick's vowel harmony might weaken or partially disappear:
 
 1. Compound Formation (referencing):
 
-```823:829:site/content/languages/hick/early-hick/lexicon.md
+```823:829:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
@@ -304,7 +304,7 @@ system.
 
 2. Sound Changes (referencing):
 
-```51:54:site/content/languages/hick/early-hick/_index.md
+```51:54:site/@/languages/hickic/seneran/early-hick/_index.md
 - Initial sound changes:
   - Unstressed vowel reduction begins
   - Compound simplification starts
@@ -317,7 +317,7 @@ harmony rules.
 
 3. Contact Effects:
 
-```41:45:site/content/languages/hick/early-hick/_index.md
+```41:45:site/@/languages/hickic/seneran/early-hick/_index.md
 - More consistent contact with pre-Kalassarian traders
 - Maritime trade vocabulary expansion
 - Astronomical terminology development
@@ -356,7 +356,7 @@ Yes! The stress shift would be a significant factor in weakening vowel harmony. 
 at the evidence in Early Hick:
 
 
-```156:181:site/content/languages/hick/early-hick/_index.md
+```156:181:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Weight Distribution Constraints
 
 1. Stress Patterns
@@ -401,7 +401,7 @@ This shift would naturally weaken vowel harmony because:
 2. In compounds, we see evidence of this in the lexicon:
 
 
-```823:829:site/content/languages/hick/early-hick/lexicon.md
+```823:829:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
@@ -421,7 +421,7 @@ The compounds show stress-based vowel reduction rather than harmony:
    harmony system:
 
 
-```238:252:site/content/languages/hick/early-hick/_index.md
+```238:252:site/@/languages/hickic/seneran/early-hick/_index.md
 2. After voiceless stops in unstressed syllables:
 
    - /karan/ → [kərən] "stream"
@@ -466,7 +466,7 @@ front/back vowel harmony system's breakdown. Here's how we can modify the entrie
 
 For lexicon.md, we should add a note about vowel harmony in the historical development:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Historical Sound Changes
 
 ### Proto-Hick Vowel Harmony Loss
@@ -523,7 +523,7 @@ Yes, you're right. Instead of duplicating the information about vowel harmony
 loss, we should reference the Proto-Hick article. For lexicon.md, we can modify the 
 etymological notes to be more concise:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Historical Sound Changes
 
 For Proto-Hick vowel harmony and its development into Early Hick, see: 
@@ -536,7 +536,7 @@ having a single source of truth for the vowel harmony system's development.
 The relevant sections we need to modify in lexicon.md are:
 
 
-```31:43:site/content/languages/hick/early-hick/lexicon.md
+```31:43:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Basic Terms
 
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
@@ -573,7 +573,7 @@ yes please, ensure no lexicon data is lost
 I'll help update the lexicon while preserving all data. Let's start with the 
 Historical Sound Changes section in lexicon.md:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Historical Sound Changes
 
 For Proto-Hick vowel harmony and its development into Early Hick, see:
@@ -586,7 +586,7 @@ For stress-related vowel changes, see:
 For the lexical entries, we should update etymologies to reference both sound 
 changes. For example:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - haran [ha.ran] "split, divide" < Proto-Hick *haranu → haran
@@ -625,7 +625,7 @@ This maintains all the lexical information while:
 3. Preserving the connection to stress patterns (referencing):
 
 
-```156:181:site/content/languages/hick/early-hick/_index.md
+```156:181:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Weight Distribution Constraints
 
 1. Stress Patterns
@@ -671,7 +671,7 @@ yes please
 I'll help update specific entries in both files. For lexicon.md, let's start with 
 the Basic Terms section, referencing the stress patterns and sound changes:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - haran [ha.ran] "split, divide" < Proto-Hick *haranu → haran
@@ -717,7 +717,7 @@ both Proto-Hick and Early Hick changes:
 
 This maintains consistency with the stress patterns shown in:
 
-```156:181:site/content/languages/hick/early-hick/_index.md
+```156:181:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Weight Distribution Constraints
 
 1. Stress Patterns
@@ -749,7 +749,7 @@ This maintains consistency with the stress patterns shown in:
 
 And the vowel reduction patterns shown in:
 
-```238:252:site/content/languages/hick/early-hick/_index.md
+```238:252:site/@/languages/hickic/seneran/early-hick/_index.md
 2. After voiceless stops in unstressed syllables:
 
    - /karan/ → [kərən] "stream"
@@ -787,7 +787,7 @@ relevant sections from the input files.
 For lexicon.md, let's update the Sacred & Ritual terms first, since they show 
 important stress and reduction patterns:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual
 
 #### Basic Terms
@@ -836,7 +836,7 @@ For the JSON-LD, let's update these entries with detailed sound change reference
 These updates reflect the patterns shown in:
 
 
-```156:181:site/content/languages/hick/early-hick/_index.md
+```156:181:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Weight Distribution Constraints
 
 1. Stress Patterns
@@ -869,7 +869,7 @@ These updates reflect the patterns shown in:
 And the exceptions for sacred terms shown in:
 
 
-```238:252:site/content/languages/hick/early-hick/_index.md
+```238:252:site/@/languages/hickic/seneran/early-hick/_index.md
 2. After voiceless stops in unstressed syllables:
 
    - /karan/ → [kərən] "stream"
@@ -902,7 +902,7 @@ yes
 Let's continue updating the lexicon entries, focusing on the Animals section 
 since it shows interesting patterns of compound formation and stress effects:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Animals
 
 - nes [nes] "fish" < Proto-Hick *nesu → nes
@@ -962,7 +962,7 @@ For the JSON-LD version:
 These updates reflect the patterns shown in:
 
 
-```255:267:site/content/languages/hick/early-hick/_index.md
+```255:267:site/@/languages/hickic/seneran/early-hick/_index.md
 1. In Compounds:
 
    - First element maintains stress: 'tor-mal → ['tor.məl]
@@ -982,7 +982,7 @@ These updates reflect the patterns shown in:
 And the exceptions for sacred/maritime terms shown in:
 
 
-```271:275:site/content/languages/hick/early-hick/_index.md
+```271:275:site/@/languages/hickic/seneran/early-hick/_index.md
 - Maintains [a] in:
   - Stressed syllables
   - Sacred/formal terms
@@ -1005,7 +1005,7 @@ yes
 Let's continue with the morphological affixes section, since it shows important 
 patterns of stress and reduction:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Morphological Affixes
 
 #### Augmentative/Diminutive
@@ -1037,7 +1037,7 @@ patterns of stress and reduction:
 These updates reflect the stress and reduction patterns shown in:
 
 
-```255:267:site/content/languages/hick/early-hick/_index.md
+```255:267:site/@/languages/hickic/seneran/early-hick/_index.md
 1. In Compounds:
 
    - First element maintains stress: 'tor-mal → ['tor.məl]
@@ -1057,7 +1057,7 @@ These updates reflect the stress and reduction patterns shown in:
 And the exceptions for sacred/maritime terms shown in:
 
 
-```271:275:site/content/languages/hick/early-hick/_index.md
+```271:275:site/@/languages/hickic/seneran/early-hick/_index.md
 - Maintains [a] in:
   - Stressed syllables
   - Sacred/formal terms
@@ -1107,7 +1107,7 @@ is it naturalistic to have all final vowels to disappear? probably some intermed
 You raise a good point. Looking at the historical development section:
 
 
-```32:55:site/content/languages/hick/early-hick/_index.md
+```32:55:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Early Hick (prehistory to ~300 PF)
 
 - Purely oral tradition
@@ -1163,7 +1163,7 @@ This would better explain why certain compounds preserve traces of the original
 vowels, as seen in:
 
 
-```834:841:site/content/languages/hick/early-hick/lexicon.md
+```834:841:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
@@ -1191,7 +1191,7 @@ You're right - I apologize for misinterpreting the compound evidence.
 Looking at the historical development section:
 
 
-```32:54:site/content/languages/hick/early-hick/_index.md
+```32:54:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Early Hick (prehistory to ~300 PF)
 
 - Purely oral tradition
@@ -1221,7 +1221,7 @@ Looking at the historical development section:
 We should add an intermediate stage between Proto-Hick and Early Hick showing the 
 gradual process of final vowel weakening. Here's a proposed update:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Historical Development
 
 ### Pre-Hick Stage 1 (~1000-800 PF)
@@ -1264,7 +1264,7 @@ Looking at the historical development, we can make this more naturalistic.
 Currently we have:
 
 
-```32:56:site/content/languages/hick/early-hick/_index.md
+```32:56:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Pre-Hick Stage 1 (~1000-800 PF)
 
 - Final vowels begin devoicing in unstressed syllables
@@ -1315,7 +1315,7 @@ detailed proposal:
 This explains several patterns in the data:
 
 
-```272:289:site/content/languages/hick/early-hick/lexicon.md
+```272:289:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
@@ -1343,7 +1343,7 @@ process was gradual and affected different social registers differently.
 This also aligns with the Middle Hick period showing:
 
 
-```75:82:site/content/languages/hick/early-hick/_index.md
+```75:82:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Middle Seneran (400 AI to 900 AI)
 See: [Proto-Hick](@/languages/hick/proto-hick.md)
 - Major sound changes:
@@ -1372,7 +1372,7 @@ Pre-Hick stages and leave room for dialectal variation and sister languages.
 
 Here's a proposed revision:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 # Historical Development
 
 ## Pre-Hick Period (before ~600 PF)
@@ -1419,7 +1419,7 @@ I would remove references to attestation in this document, to reflect some sembl
 You're right. We should revise the document to maintain the scholarly conceit. Let's focus on the key sections that need updating:
 
 
-```12:20:site/content/languages/hick/early-hick/_index.md
+```12:20:site/@/languages/hickic/seneran/early-hick/_index.md
 The Hick language was the primary tongue of pre-Kalassarian Senera. While no
 longer spoken, it survives in place names, maritime terminology, and religious
 traditions throughout modern Senera.
@@ -1453,7 +1453,7 @@ region.
 Similarly, in the lexicon document:
 
 
-```12:15:site/content/languages/hick/early-hick/lexicon.md
+```12:15:site/@/languages/hickic/seneran/early-hick/lexicon.md
 The Early Hick lexicon, as attested, consists of mostly noun forms. These nouns
 can represent a wide range of meanings, including actions, properties, or
 relationships, which are traditionally the domain of verbs, adjectives, and
@@ -1491,7 +1491,7 @@ beginning to develop historical linguistics as a field.
 In that case, we should revise the Pre-Hick section to be more tentative. Looking at:
 
 
-```27:44:site/content/languages/hick/early-hick/_index.md
+```27:44:site/@/languages/hickic/seneran/early-hick/_index.md
 A reconstruction of a hypothetical Proto-Hick is also provided, inferenced from
 regional dialects and the historical development of Hick.
 

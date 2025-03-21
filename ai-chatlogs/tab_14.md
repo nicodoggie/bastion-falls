@@ -277,7 +277,7 @@ Based on the provided code, I'll help analyze how to apply the name/reputation/c
 system to Early Hick. Looking at the relevant sections:
 
 
-````381:421:site/content/languages/hick/early-hick/_index.md
+````381:421:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Spatial Case System
 
@@ -359,7 +359,7 @@ This fits Early Hick's existing patterns because:
 4. It aligns with the cultural implications shown in:
 
 
-```1062:1111:site/content/languages/hick/early-hick/lexicon.md
+```1062:1111:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 #### Basic Terms
 
@@ -441,7 +441,7 @@ _index.md)
 This fits Early Hick phonotactics and follows similar patterns to other core 
 vocabulary items like:
 
-```116:129:site/content/languages/hick/early-hick/_index.md
+```116:129:site/@/languages/hickic/seneran/early-hick/_index.md
 Note: The glottal stop is written as <'> in phonemic transcription and [ʔ] in
 phonetic transcription.
 
@@ -488,7 +488,7 @@ I'll help add the name-related terms to the lexicon following the established fo
 Based on the lexicon structure shown in:
 
 
-```1:35:site/content/languages/hick/early-hick/lexicon.md
+```1:35:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -614,7 +614,7 @@ I'll help add the derived forms to the JSON-LD structure, following the patterns
 reference the relevant sections:
 
 
-```389:395:site/content/languages/hick/early-hick/_index.md
+```389:395:site/@/languages/hickic/seneran/early-hick/_index.md
 The spatial cases are:
 
 - -aes (ILL): "inward, into"
@@ -719,7 +719,7 @@ Yes! This is a great observation about formal vs colloquial naming patterns. Loo
 interrogative and demonstrative patterns in Early Hick:
 
 
-```210:222:site/content/languages/hick/early-hick/lexicon.md
+```210:222:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person) Note: Used for
   heard/sensed but not seen referents
 - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)

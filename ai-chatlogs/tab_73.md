@@ -69,7 +69,7 @@ I've searched through the provided chat logs but don't see the specific discussi
 
 Let's add this to the morphology section:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Tense and Aspect Marking
 
 Early Hick uses clause-final particles for tense marking, likely derived from 
@@ -132,7 +132,7 @@ You're right - "branum" should be analyzed as:
 
 This makes more sense semantically and follows the established pattern of demonstrative suffixes. Let me suggest how to document this in the tense marking section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Tense and Aspect Marking
 
 Early Hick grammaticalized demonstratives into tense markers:

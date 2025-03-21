@@ -126,7 +126,7 @@ _tor-mal_)
 
 We could add an entry to the lexicon like:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 togar [to.gar]
   : limestone, mountain rock
   : tor-gar "mountain-bone/rock" → togar
@@ -225,7 +225,7 @@ krakiger [krak.i.ger] "flint" < PH *kraku "tooth" + PH *garu "rock"
 
 We could add these to the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kakrak [kak.rak]
   : sharp, pointed
   : < ADJ-krak "tooth"
@@ -476,7 +476,7 @@ formation)
 
 We could add to the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ken [ken]
   : snow
   : < PH *kenu
@@ -527,7 +527,7 @@ The semantic development makes perfect sense because:
 
 We could add to the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 mirik [mi.rik]
   : ice
   : < PH *mirikrakhar "biting cold" (cold+tooth+action) → *miriku → mirik
@@ -562,7 +562,7 @@ _**Assistant**_
 Ah yes, sorry about that! Let me revise the lexicon entry to stay within the
 world's context:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 mirik [mi.rik]
   : ice
   : < PH *mirikrakhar "biting cold" (cold+tooth+action) → *miriku → mirik
@@ -1068,7 +1068,7 @@ _**Assistant**_
 Yes! Let's add the snow and ice terms to the lexicon.md file in the appropriate sections (probably
 under Weather Terms):
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ken [ken]
   : snow
   : < Proto-Hick *kenu

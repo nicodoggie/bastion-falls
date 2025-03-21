@@ -170,7 +170,7 @@ Let's analyze the poem through Early Hick grammar and lexicon patterns. I'll bre
 
 ### Proposed New Lexicon Entries
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing fire terms ...
 
 dupi [du.pi]
@@ -251,7 +251,7 @@ Let me re-analyze the compounds with these corrections:
 **Line 1:**  
 `grales atales sibris'er kabrisimris dupibrisesp`  
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing fire terms ...
 
 dupibris [du.pi.bris]
@@ -266,7 +266,7 @@ dupibris [du.pi.bris]
 **Line 4:**  
 `'aterter thrakeles mo'ibrissim mulsum`  
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing celestial terms ...
 
 thrakel [θra.kel]
@@ -327,7 +327,7 @@ You're correct to identify potential ambiguity in spatial case usage. Let me ana
 **1. Lexicalized vs. Productive Case Usage**  
 Lexicalized forms (e.g., _pirlas'er_ "hear" < ear-ILL-VERB) vs. productive spatials (e.g., _mal-esp_ "under pool") require different parsing strategies:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing case system section ...
 
 ### Disambiguation Strategies
@@ -386,7 +386,7 @@ This stratification matches [grammaticalization clines](@/languages/hickic/early
 
 **4. Proposed Clarification in Documentation**  
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing case section ...
 
 ## Case Ambiguity Resolution
@@ -466,7 +466,7 @@ You're absolutely right to highlight this crucial distinction. Let me clarify th
 
 ### Key Documentation from Consonant Inventory
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Consonants
 |            | Glottal |
 |------------|---------|
@@ -522,7 +522,7 @@ The glottal stop creates a syllable boundary that resists prefix-induced vowel r
 
 ### Proposed Grammar Clarification
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing stress section ...
 
 ## Glottal Stop Effects
@@ -671,7 +671,7 @@ Gloss: "Before the flow, the sun will become unburning"
 
 ### Proposed Lexicon Additions
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing elemental terms ...
 
 gral [gɾal]

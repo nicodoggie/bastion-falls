@@ -22,7 +22,7 @@ Let me help analyze and correct this sentence construction based on the Early Hi
 From the lexicon and grammar files, I can see several relevant entries:
 
 
-```169:173:site/content/languages/hick/early-hick/lexicon.md
+```169:173:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - dakisa [da.ki.sa] "infatuation" < Proto-Hick \*daluku-isa-hihasa → dakisa
   ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
   ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
@@ -33,7 +33,7 @@ From the lexicon and grammar files, I can see several relevant entries:
 Shows "dakisa" means "infatuation" (literally "snake in the gut")
 
 
-```766:769:site/content/languages/hick/early-hick/lexicon.md
+```766:769:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - pakupak [ˈpa.ku.pək] "tickle" < Proto-Hick \*pakupaku → pakupak
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
@@ -44,7 +44,7 @@ Shows "pakupak" means "tickle" with reduplication
 
 Based on the grammar:
 
-````494:505:site/content/languages/hick/early-hick/_index.md
+````494:505:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Verbalizer
 
@@ -91,7 +91,7 @@ liwen would be a girl from DIM.wen'al
 Yes, I can help construct this sentence more accurately. Let me analyze the relevant parts:
 
 
-```857:859:site/content/languages/hick/early-hick/lexicon.md
+```857:859:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gal [gal] "man" < karal + ʔalu
 - wen'al [wen.ʔal] "woman" < wen-'al "flower person" → wen'al
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
@@ -100,7 +100,7 @@ Yes, I can help construct this sentence more accurately. Let me analyze the rele
 Shows wen'al means "woman" (literally "flower person")
 
 
-```412:419:site/content/languages/hick/early-hick/_index.md
+```412:419:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Diminutive (li-)
 
    - Prefix meaning "small, lesser"
@@ -145,7 +145,7 @@ so just an implied first person? what if I want to have an explicit reference to
 Looking at the grammar documentation, Early Hick doesn't have explicit personal pronouns. Let me analyze the relevant sections:
 
 
-```471:476:site/content/languages/hick/early-hick/_index.md
+```471:476:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Personal Reference
 
 1. Spatial Demonstratives
@@ -200,7 +200,7 @@ that's why I had "'al'is" this person
 Ah yes! Looking at the interrogatives section:
 
 
-```871:879:site/content/languages/hick/early-hick/_index.md
+```871:879:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Forms
 
@@ -218,7 +218,7 @@ Shows that 'alis is derived from 'aka-'al-is meaning "who" (what-person-PROX.ANI
 And looking at the personal reference system:
 
 
-```471:476:site/content/languages/hick/early-hick/_index.md
+```471:476:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Personal Reference
 
 1. Spatial Demonstratives
@@ -260,7 +260,7 @@ no no, that is an interrogative. 'al'is is literally person.DEM.PROX.ANIM
 Ah, you're right! Looking at the demonstrative system:
 
 
-```459:469:site/content/languages/hick/early-hick/_index.md
+```459:469:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Visible/Known
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
@@ -309,7 +309,7 @@ person.PROX.ANIM.ABS infatuation.ELL.ABS tickle.VERB SIM.sun girl.ERG
 Let me analyze this construction by checking the relevant grammar sections:
 
 
-```557:564:site/content/languages/hick/early-hick/_index.md
+```557:564:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Spatial Cases
 
    - -aes (ILL): "inward, into"
@@ -323,7 +323,7 @@ Let me analyze this construction by checking the relevant grammar sections:
 Shows the spatial cases, including -aes (ILL) for "inward, into" and -imris (ELL) for "outward, from"
 
 
-```439:447:site/content/languages/hick/early-hick/_index.md
+```439:447:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Similarity Marking
 
 1. Similarity Prefix (ka-)
@@ -369,7 +369,7 @@ it's not a double absolutive tho
 You're right - looking at the case system:
 
 
-```557:564:site/content/languages/hick/early-hick/_index.md
+```557:564:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Spatial Cases
 
    - -aes (ILL): "inward, into"
@@ -413,7 +413,7 @@ kathakel would not reduce because of morpheme boundaries in the present language
 Ah yes, looking at the compound phonology rules:
 
 
-```219:235:site/content/languages/hick/early-hick/_index.md
+```219:235:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Sound Changes in Compounds
 
 1. Liquid Deletion
@@ -437,7 +437,7 @@ Ah yes, looking at the compound phonology rules:
 Shows that liquid deletion and nasal deletion occur in compounds, but ka- as a prefix maintains morpheme boundaries:
 
 
-```439:447:site/content/languages/hick/early-hick/_index.md
+```439:447:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Similarity Marking
 
 1. Similarity Prefix (ka-)
@@ -481,7 +481,7 @@ what's with the thirel? why hidder but not sensed? instead lf tan, visible anima
 Looking at the demonstrative system:
 
 
-```459:469:site/content/languages/hick/early-hick/_index.md
+```459:469:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Visible/Known
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)

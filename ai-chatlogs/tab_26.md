@@ -16,7 +16,7 @@ Let me help derive a word for "addition/union" in Early Hick based on Proto-Hick
 Looking at the relevant sections:
 
 
-```527:534:site/content/languages/hick/early-hick/lexicon.md
+```527:534:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
      ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - bran [bran] "lineage, family branch" < Proto-Hick \*bahu lu-haranu → bran
@@ -75,7 +75,7 @@ joining of two families? right? so perhaps we need a word for family first. what
 Looking at the lexicon, I notice several relevant patterns for family-related terms:
 
 
-```527:554:site/content/languages/hick/early-hick/lexicon.md
+```527:554:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - bran [bran] "lineage, family branch" < Proto-Hick \*bahu lu-haranu → bran
@@ -184,7 +184,7 @@ is alu an attested word for group?
 Looking through the provided code snippets, I don't see *alu directly attested as "group". The closest reference I can find is in this section:
 
 
-```598:599:site/content/languages/hick/early-hick/lexicon.md
+```598:599:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - ma-thal [ma.θal] "group (of people)" < ma-thal "PL-three" → mathal
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 ```
@@ -206,7 +206,7 @@ hmm perhaps the use of ma'al for tribe? can that also be a word for family?
 Looking at the relevant sections:
 
 
-```496:499:site/content/languages/hick/early-hick/lexicon.md
+```496:499:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   See: [Political Terms](#political-terms)
@@ -235,7 +235,7 @@ For "joining of families" we could then use:
 
 This follows the attested pattern seen in:
 
-```733:735:site/content/languages/hick/early-hick/lexicon.md
+```733:735:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
      See: [Directional System](#directional-system)
@@ -256,7 +256,7 @@ would it be common that the older form of "family" become the word for community
 Looking at the lexicon entries, we can see that `ma'al` is already established as "community, tribe":
 
 
-```496:499:site/content/languages/hick/early-hick/lexicon.md
+```496:499:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   See: [Political Terms](#political-terms)
@@ -276,7 +276,7 @@ So it would make more sense for Early Hick to have:
 Looking at the kinship terminology and compound patterns:
 
 
-```509:554:site/content/languages/hick/early-hick/lexicon.md
+```509:554:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - bao [ba.o] "father" < Proto-Hick \*bahu → bao
      ([vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -355,7 +355,7 @@ I don't know if I do like that mer is a metaphorical extension of bird. doesn't 
 You make a good point. Looking at the kinship terminology, we can see that `mer` is a fundamental root for "parent" that appears in many compounds:
 
 
-```527:554:site/content/languages/hick/early-hick/lexicon.md
+```527:554:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - bran [bran] "lineage, family branch" < Proto-Hick \*bahu lu-haranu → bran
@@ -418,7 +418,7 @@ Yes, that makes much more sense! Looking at the patterns in Early Hick, we could
 - Shows regular final vowel loss
 - Appears in many core kinship compounds:
 
-```527:540:site/content/languages/hick/early-hick/lexicon.md
+```527:540:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - bran [bran] "lineage, family branch" < Proto-Hick \*bahu lu-haranu → bran
@@ -464,7 +464,7 @@ I suppose we can construct hickic folklore that connects parenthood and birds
 Yes! Looking at the bird terminology and kinship sections:
 
 
-```266:290:site/content/languages/hick/early-hick/lexicon.md
+```266:290:site/@/languages/hickic/seneran/early-hick/lexicon.md
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
      mur-mer
@@ -503,7 +503,7 @@ We see a rich vocabulary around nocturnal birds, particularly owls, with compoun
 And in the kinship terms:
 
 
-```509:523:site/content/languages/hick/early-hick/lexicon.md
+```509:523:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - bao [ba.o] "father" < Proto-Hick \*bahu → bao
      ([vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -557,7 +557,7 @@ as for links with child and one who percieves, I think that could be a coinciden
 You're right about `lis` - looking at the relevant sections:
 
 
-```763:774:site/content/languages/hick/early-hick/lexicon.md
+```763:774:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
 
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
@@ -578,7 +578,7 @@ We see `lis` means "eye" in Proto-Hick (*lisu), and the animate prefix *hi- give
 Looking at the diminutive prefix usage:
 
 
-```405:423:site/content/languages/hick/early-hick/_index.md
+```405:423:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Visible/Known
 ### Similarity Marking
    - -ʔis [ʔis] "this" (animate)
@@ -625,7 +625,7 @@ let's continue with talking about mer first. perhaps the nurture word may have b
 Yes! Looking at the sacred terminology and bird sections:
 
 
-```267:291:site/content/languages/hick/early-hick/lexicon.md
+```267:291:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
      mur-mer
      ([vowel loss in compounds](@/languages/hickic/seneran/early-hickck/_index.md#phonotactic-constraints))
@@ -657,7 +657,7 @@ Yes! Looking at the sacred terminology and bird sections:
 We see a rich vocabulary around nocturnal birds, particularly owls. And in the sacred terms:
 
 
-```161:172:site/content/languages/hick/early-hick/lexicon.md
+```161:172:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
@@ -714,7 +714,7 @@ let's say that thimer means something along the lines of "spiritual nurturing, p
 Yes! Looking at the sacred terminology and spirit terms:
 
 
-```487:496:site/content/languages/hick/early-hick/lexicon.md
+```487:496:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - imer [i.mer] "breath, soul" < Proto-Hick \*imeru → imer
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Sacred Terms](#sacred--ritual)
@@ -780,7 +780,7 @@ Yes, this sequence makes perfect sense! Let's break it down:
 2. Proto-Hick *ha-meru "sacred-nurture" > Early Hick `thimer`
    - Sound changes:
 
-```161:166:site/content/languages/hick/early-hick/lexicon.md
+```161:166:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
@@ -795,7 +795,7 @@ Yes, this sequence makes perfect sense! Let's break it down:
 3. Proto-Hick *meru "bird/parent"
    - Cultural connection through bird behavior, especially owls:
 
-```267:282:site/content/languages/hick/early-hick/lexicon.md
+```267:282:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
      mur-mer
      ([vowel loss in compounds](@/languages/hickic/seneran/early-hickck/_index.md#phonotactic-constraints))
@@ -1004,7 +1004,7 @@ I'll help document the new Early Hick words. Let's add them to both files.
 
 For lexicon.md, we'll add under Sacred & Ritual:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual
 
 1. Basic Terms
@@ -1102,7 +1102,7 @@ For lexicon.jsonld, we'll add:
 This documentation references existing patterns from:
 
 
-```161:172:site/content/languages/hick/early-hick/lexicon.md
+```161:172:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
@@ -1233,7 +1233,7 @@ can we also add cross-references from the other semantic fields for mer?
 
 Yes! Looking at the semantic fields, we should add cross-references for `mer` in several sections. Here's how to update them:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Body Parts
 
 1. Basic Terms
@@ -1243,7 +1243,7 @@ Yes! Looking at the semantic fields, we should add cross-references for `mer` in
      Note: Metaphorical extension to "parent" through cultural association
 ```
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Spirit Terms
    - imer [i.mer] "breath, soul" < Proto-Hick *imeru → imer
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -1251,7 +1251,7 @@ Yes! Looking at the semantic fields, we should add cross-references for `mer` in
      Note: Related to mer "nurture" through sacred compounds
 ```
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual
    - thimer [θi.mer] "spiritual nurturing, penitence" < Proto-Hick *ha-meru → thimer
      ([vowel reduction](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -1263,7 +1263,7 @@ Yes! Looking at the semantic fields, we should add cross-references for `mer` in
 This follows the cross-referencing patterns seen in:
 
 
-```346:372:site/content/languages/hick/early-hick/lexicon.md
+```346:372:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
    - kan [kan] "head" < Proto-Hick \*kanu → kan
@@ -1297,7 +1297,7 @@ This follows the cross-referencing patterns seen in:
 And the format for compound terms seen in:
 
 
-```447:472:site/content/languages/hick/early-hick/lexicon.md
+```447:472:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - braibres [brai.bres] "sea wind, ocean breeze" < bram-bres → braibres (lit.
@@ -1342,7 +1342,7 @@ Ah, I apologize for the confusion! You're right - looking at the lexicon entries
 
 Let me revise the cross-references to remove that incorrect connection:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual
    - thimer [θi.mer] "spiritual nurturing, penitence" < Proto-Hick *ha-meru → thimer
      ([vowel reduction](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -1350,7 +1350,7 @@ Let me revise the cross-references to remove that incorrect connection:
      Note: Preserves original nurturing sense in sacred context
 ```
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Person Terms
    - mer [mer] "parent; bird" < Proto-Hick *meru → mer
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -1389,7 +1389,7 @@ you're forgetting to cross reference mer in animal terms and in kinship terms to
 
 Ah yes! We need to add cross-references in those sections too. Looking at lines 243-255 for Animals and the Bird Terms section (lines 275-285), let's add proper cross-references:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Animals
    - mer [mer] "bird" < Proto-Hick *meru → mer
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -1400,7 +1400,7 @@ Ah yes! We need to add cross-references in those sections too. Looking at lines 
 
 And in the Kinship Terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Kinship Terms
 1. Basic Terms
    - mer [mer] "parent" < Proto-Hick *meru → mer
@@ -1413,7 +1413,7 @@ And in the Kinship Terms section:
 This follows the cross-referencing patterns seen in:
 
 
-```161:171:site/content/languages/hick/early-hick/lexicon.md
+```161:171:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
@@ -1431,7 +1431,7 @@ This follows the cross-referencing patterns seen in:
 And matches the semantic field connections shown in:
 
 
-```650:666:site/content/languages/hick/early-hick/lexicon.md
+```650:666:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - Time concepts connect to:
 - Water terminology appears in:
   - [Natural Elements](#natural-world)
@@ -1464,7 +1464,7 @@ could the word for one [sin] come from proto-hick [su] for one? then lisu meanin
 Yes, that's a plausible etymology! Looking at the number system and kinship terms:
 
 
-```235:255:site/content/languages/hick/early-hick/lexicon.md
+```235:255:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - wud [wud] "wood, tree" < Proto-Hick \*wudu → wud
@@ -1500,7 +1500,7 @@ We can reconstruct:
    - Matches pattern of perception terms:
 
 
-```776:786:site/content/languages/hick/early-hick/lexicon.md
+```776:786:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
@@ -1587,7 +1587,7 @@ This explains:
 We can see this pattern in the number system section:
 
 
-```577:603:site/content/languages/hick/early-hick/lexicon.md
+```577:603:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Number System
    - sek [sek] "six" < Proto-Hick \*seku → sek
 1. Basic Numbers
@@ -1625,7 +1625,7 @@ This reconstruction also helps explain why Early Hick developed new compound num
 The loss of the counting/basic number distinction matches other Early Hick simplifications seen in:
 
 
-```397:404:site/content/languages/hick/early-hick/_index.md
+```397:404:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Number Marking
 
 1. Plural Prefix (ma-)
@@ -1678,7 +1678,7 @@ This system would naturally fossilize into Early Hick's mixed system where:
 
 This matches the phonological patterns seen in:
 
-```81:85:site/content/languages/hick/early-hick/_index.md
+```81:85:site/@/languages/hickic/seneran/early-hick/_index.md
 Proto-Hick, with significant changes occurring mainly in compound formation and
 unstressed syllables. See: [Historical Development](#historical-development)
 Proto-Hick, with significant changes occurring mainly in compound formation and
@@ -1689,7 +1689,7 @@ Proto-Hick, with significant changes occurring mainly in compound formation and
 
 And follows similar historical developments shown in:
 
-```32:38:site/content/languages/hick/early-hick/_index.md
+```32:38:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Early Hick (prehistory to ~300 PF)
 ## Early Hick (prehistory to ~300 PF)
 - Purely oral tradition
@@ -1702,7 +1702,7 @@ And follows similar historical developments shown in:
 
 The loss of this distinction fits with Early Hick's general pattern of system simplification seen in:
 
-```47:55:site/content/languages/hick/early-hick/_index.md
+```47:55:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 - Kalassarian settlement period begins
@@ -1757,7 +1757,7 @@ pil, sek). The counting suffix *-in is preserved in larger numbers like thran
 
 Then update the number etymologies in lexicon.md:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Number System
 
 1. Basic Numbers
@@ -1816,7 +1816,7 @@ please completely generate for all numbers on both lexicon formats
 
 I'll update both formats for all numbers. First, the lexicon.md section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Number System
 
 1. Basic Numbers
@@ -1850,7 +1850,7 @@ I suppose the counting suffix should be -inu because we need vowel final
 
 Yes, you're right! The Proto-Hick counting suffix should be *-inu to match the language's phonotactics. Here's the updated lexicon.md number section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Number System
 
 1. Basic Numbers
@@ -1895,7 +1895,7 @@ yes please, and also the documentation in proto-hick article
 I'll help update all three locations. For the JSON-LD entries, I'll reference:
 
 
-```576:605:site/content/languages/hick/early-hick/lexicon.md
+```576:605:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - pil [pil] "five" < Proto-Hick \*pilu → pil
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - sek [sek] "six" < Proto-Hick \*seku → sek
@@ -2042,7 +2042,7 @@ ok, now let's update the etymology of lis meaning child
 
 Looking at the lexicon.md entries (lines 777-787), we can see the pattern for perception terms. Let's update the etymology of `lis` "child" to reflect its development from Proto-Hick *lisu "eye".
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - lis [lis] "child" < Proto-Hick \*lisu → lis
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Note: Semantic development from "eye" > "one who sees/perceives" > "learner" > "child"
@@ -2070,7 +2070,7 @@ li-su < Proto-Hick DIM-*su -> lis
 
 Looking at the lexicon entries (lines 383-399 for face terms, lines 777-787 for perception terms), we should update the etymology of "lis" to reflect its development from the diminutive prefix li- and the basic number *su "one".
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - lis [lis] "child" < Proto-Hick \*li-su → lis (lit. "little one")
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Note: Semantic development parallels diminutive formations (see lines 627-630)
@@ -2146,7 +2146,7 @@ This looks plausible! Let's analyze how it fits with existing patterns:
 
 1. Sound changes match documented patterns:
 
-```32:52:site/content/languages/hick/early-hick/_index.md
+```32:52:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Pre-Hick Period (before ~600 PF)
 
 While the exact developments remain unclear, comparison of Early Hick forms with
@@ -2173,7 +2173,7 @@ remnant vocabulary suggests several possible sound changes:
 
 2. The augmentative tor- follows the pattern shown in:
 
-```420:426:site/content/languages/hick/early-hick/_index.md
+```420:426:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Augmentative (tor-)
    - Prefix meaning "great, mighty" (from "height, peak")
    - Examples:
@@ -2186,7 +2186,7 @@ remnant vocabulary suggests several possible sound changes:
 
 3. The hi- prefix pattern matches:
 
-```76:82:site/content/languages/hick/early-hick/lexicon.md
+```76:82:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - his [his] "sight" < Proto-Hick \*hi-lisu → his
   ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds),
   [vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -2236,7 +2236,7 @@ just to note, tor meaning mountain comes from the root toru, and as of now, is n
 Ah, I apologize for conflating those etymologies. You're right - looking at the lexicon entries:
 
 
-```194:196:site/content/languages/hick/early-hick/lexicon.md
+```194:196:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - thalgral [θal.gral] "hillside" < thal-gral "side-earth" → thalgral
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
@@ -2247,7 +2247,7 @@ We can see that `tor` "height, peak" has its own etymology from Proto-Hick *toru
 
 Let me revise the entries to keep these distinct:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - tor [tor] "height, peak" < Proto-Hick *toru → tor
@@ -2285,7 +2285,7 @@ this is incorrect. there is a separate lexeme
 Ah, you're right. Looking at the lexicon entries, I can see that there are two distinct lexemes:
 
 
-```194:196:site/content/languages/hick/early-hick/lexicon.md
+```194:196:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - thalgral [θal.gral] "hillside" < thal-gral "side-earth" → thalgral
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
@@ -2295,7 +2295,7 @@ Shows `tor` "height, peak" < Proto-Hick *toru
 
 And separately, we should add the new entries for the *storu root:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - stor [stor] "grow" < Proto-Hick *storu → stor
@@ -2328,7 +2328,7 @@ yes plese
 
 Looking at the lexicon entries, I'll update the entries for the *storu root and its derivatives. The pattern follows other basic terms (lines 37-51) and compounds (lines 662-672).
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 - stor [stor] "grow" < Proto-Hick *storu → stor

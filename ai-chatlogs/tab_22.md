@@ -43,7 +43,7 @@ what.ABS  happen   AUX
 
 For Early Hick, based on the existing grammar shown in:
 
-```308:326:site/content/languages/hick/early-hick/_index.md
+```308:326:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 ```
 
@@ -96,7 +96,7 @@ Common sources for interrogative roots include:
 - Words for "see/look" or "hear" becoming question words
 - From the lexicon, Early Hick has:
 
-```140:146:site/content/languages/hick/early-hick/lexicon.md
+```140:146:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -112,7 +112,7 @@ Common sources for interrogative roots include:
 - Words for "place/location" becoming "where"
 - From the lexicon, Early Hick has 'keth' ("sea") which could work:
 
-```231:233:site/content/languages/hick/early-hick/lexicon.md
+```231:233:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -123,7 +123,7 @@ Common sources for interrogative roots include:
 - Words for "person/being" becoming "who"
 - From the lexicon:
 
-```796:798:site/content/languages/hick/early-hick/lexicon.md
+```796:798:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ```
 
@@ -139,7 +139,7 @@ Suggestion for Early Hick interrogative etymologies:
 
 This uses the existing similarity prefix *ka-* shown in:
 
-```529:532:site/content/languages/hick/early-hick/lexicon.md
+```529:532:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 With context, the word itself would be enough to mean the color, however to
 disambiguate from other meanings, the
@@ -182,7 +182,7 @@ what COM-ABS-ERG-buy the woman
 For Early Hick, we could adapt these patterns while maintaining consistency with:
 
 
-```229:234:site/content/languages/hick/early-hick/lexicon.md
+```229:234:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 #### Water Features
 
@@ -256,7 +256,7 @@ Let me explain some real-world etymologies for interrogative words:
 Looking at Early Hick's lexicon, relevant semantic fields include:
 
 
-```40:80:site/content/languages/hick/early-hick/lexicon.md
+```40:80:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Basic Terms
 
 
@@ -323,7 +323,7 @@ so we can have a "question" root plus a demonstrative affix like ʔaka-?al-ʔis
 Yes! That's a clever way to build interrogatives that fits with Early Hick's morphology. Looking at the demonstrative system shown in:
 
 
-```458:469:site/content/languages/hick/early-hick/_index.md
+```458:469:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Visible/Known
    - -is [is] "this" (inanimate)
@@ -368,7 +368,7 @@ This system:
 - Follows the language's prefix-root-suffix pattern shown in:
 
 
-````686:696:site/content/languages/hick/early-hick/_index.md
+````686:696:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Root Structure
 
    - (PREFIX*) + ROOT + (SUFFIX*)
@@ -395,7 +395,7 @@ I suppose that they were simplified due to the amount of use of interrogatives i
 Yes, exactly! Frequent use tends to lead to phonological simplification, which is a common pattern across languages. Looking at Early Hick's phonological patterns:
 
 
-```249:272:site/content/languages/hick/early-hick/_index.md
+```249:272:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Vowel Allophony
 
 The vowel /a/ surfaces as [ə]:
@@ -433,7 +433,7 @@ They would likely undergo:
 
 1. Vowel reduction in unstressed syllables:
 
-```251:267:site/content/languages/hick/early-hick/_index.md
+```251:267:site/@/languages/hickic/seneran/early-hick/_index.md
 The vowel /a/ surfaces as [ə]:
 
 1. After sibilants and affricates:
@@ -456,7 +456,7 @@ The vowel /a/ surfaces as [ə]:
 
 2. Compound simplification similar to:
 
-```1012:1017:site/content/languages/hick/early-hick/lexicon.md
+```1012:1017:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Compound Simplification
 
 - tor-mur-mer → tomur "great owl"
@@ -483,7 +483,7 @@ derivations:
 
 1. "what" derivation:
 
-```69:71:site/content/languages/hick/early-hick/lexicon.md
+```69:71:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
@@ -494,7 +494,7 @@ derivations:
 
 2. "who" derivation:
 
-```795:797:site/content/languages/hick/early-hick/lexicon.md
+```795:797:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'al [ʔal] "person" < Proto-Hick \*ʔalu → 'al
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick)) See:
   [Political Terms](#political-terms)
@@ -505,7 +505,7 @@ derivations:
 
 3. "where" derivation:
 
-```345:347:site/content/languages/hick/early-hick/lexicon.md
+```345:347:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - wad [wad] "path, way" < Proto-Hick \*wadu → wad
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms)
@@ -516,7 +516,7 @@ derivations:
 
 4. "when" derivation:
 
-```339:341:site/content/languages/hick/early-hick/lexicon.md
+```339:341:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
@@ -529,7 +529,7 @@ derivations:
 
 This follows the phonological processes shown in:
 
-```249:272:site/content/languages/hick/early-hick/_index.md
+```249:272:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Vowel Allophony
 
 The vowel /a/ surfaces as [ə]:
@@ -559,7 +559,7 @@ The vowel /a/ surfaces as [ə]:
 
 And the compound simplification patterns shown in:
 
-```1012:1017:site/content/languages/hick/early-hick/lexicon.md
+```1012:1017:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Compound Simplification
 
 - tor-mur-mer → tomur "great owl"
@@ -603,7 +603,7 @@ This is a great analysis! Let me break down why this works well with Early Hick'
 
 1. Follows compound phonology rules shown in:
 
-```218:236:site/content/languages/hick/early-hick/_index.md
+```218:236:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Compound Phonology
 
@@ -628,7 +628,7 @@ This is a great analysis! Let me break down why this works well with Early Hick'
 
 2. Uses the demonstrative system consistently:
 
-```460:470:site/content/languages/hick/early-hick/_index.md
+```460:470:site/@/languages/hickic/seneran/early-hick/_index.md
    - -is [is] "this" (inanimate)
 1. Visible/Known
    - -is [is] "this" (inanimate)
@@ -645,7 +645,7 @@ This is a great analysis! Let me break down why this works well with Early Hick'
 
 3. Follows affix ordering template:
 
-````686:696:site/content/languages/hick/early-hick/_index.md
+````686:696:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Basic Template
 
 1. Root Structure
@@ -688,7 +688,7 @@ can we document it in the early hick doc first? what section would fit this best
 Yes, let's add this under the Syntax section. Based on the document structure shown in:
 
 
-````745:773:site/content/languages/hick/early-hick/_index.md
+````745:773:site/@/languages/hickic/seneran/early-hick/_index.md
 
 # Syntax
 
@@ -781,7 +781,7 @@ I wonder if we would want to make medial and distal interrogative constructions
 Yes! Looking at the demonstrative system:
 
 
-```460:470:site/content/languages/hick/early-hick/_index.md
+```460:470:site/@/languages/hickic/seneran/early-hick/_index.md
    - -is [is] "this" (inanimate)
 1. Visible/Known
    - -is [is] "this" (inanimate)
@@ -824,7 +824,7 @@ We can extend the interrogative system to include medial and distal forms follow
 This follows the phonological patterns shown in:
 
 
-```249:272:site/content/languages/hick/early-hick/_index.md
+```249:272:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Allophonic Rules
 
 ### Vowel Allophony
@@ -855,7 +855,7 @@ The vowel /a/ surfaces as [ə]:
 And maintains the animacy distinctions consistent with:
 
 
-```673:681:site/content/languages/hick/early-hick/_index.md
+```673:681:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Body Metaphors
 2. Liver as source of life
@@ -882,7 +882,7 @@ I suppose by default, like asking questions for gaining new info, we use the dis
 Yes, this is quite naturalistic! Looking at the demonstrative system:
 
 
-```460:470:site/content/languages/hick/early-hick/_index.md
+```460:470:site/@/languages/hickic/seneran/early-hick/_index.md
    - -is [is] "this" (inanimate)
 1. Visible/Known
    - -is [is] "this" (inanimate)
@@ -933,7 +933,7 @@ This three-way distinction in interrogatives matches Early Hick's general emphas
 perception and knowledge status, as shown in:
 
 
-```673:681:site/content/languages/hick/early-hick/_index.md
+```673:681:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Body Metaphors
 2. Liver as source of life
@@ -1012,7 +1012,7 @@ Yes, I'll expand the interrogatives section to include all forms. Here's the rev
 
 This follows the phonological patterns shown in:
 
-```218:236:site/content/languages/hick/early-hick/_index.md
+```218:236:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Compound Phonology
 
@@ -1037,7 +1037,7 @@ This follows the phonological patterns shown in:
 
 And the demonstrative system shown in:
 
-```460:470:site/content/languages/hick/early-hick/_index.md
+```460:470:site/@/languages/hickic/seneran/early-hick/_index.md
    - -is [is] "this" (inanimate)
 1. Visible/Known
    - -is [is] "this" (inanimate)
@@ -1064,7 +1064,7 @@ so just to clarify, we're using the medial to mean questions that we heard by ou
 Yes, exactly! The medial forms encode evidentiality through sensory/indirect evidence. Looking at the demonstrative system:
 
 
-```465:467:site/content/languages/hick/early-hick/_index.md
+```465:467:site/@/languages/hickic/seneran/early-hick/_index.md
    - -tan [tan] "that" (animate)
 2. Hidden but Sensed
    - -eth [eθ] "this/that" (inanimate)
@@ -1092,7 +1092,7 @@ when.MED handler-ERG flow-VERB
 
 This fits naturally with Early Hick's emphasis on perception and knowledge status shown in:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 startLine: 673
 endLine: 681
 ```
@@ -1116,7 +1116,7 @@ ohhh I like the use of the latives here too. I do like that it modifies the ques
 Yes! The lative cases integrate naturally with the interrogative system. Looking at:
 
 
-```558:565:site/content/languages/hick/early-hick/_index.md
+```558:565:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Spatial Cases
    - -imris (ELL): "outward, from"
@@ -1147,7 +1147,7 @@ where.DIST-SUPE handler-ERG guide-VERB
 This follows the same pattern shown in the basic directional usage:
 
 
-````566:583:site/content/languages/hick/early-hick/_index.md
+````566:583:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Directional Usage
    materok-el rismater-aes
@@ -1174,7 +1174,7 @@ maintaining Early Hick's preference for nominal morphology over verbal morpholog
 shown in:
 
 
-```22:25:site/content/languages/hick/early-hick/_index.md
+```22:25:site/@/languages/hickic/seneran/early-hick/_index.md
 Early Hick shows an ergative-absolutive alignment with rich derivational
 Early Hick shows an ergative-absolutive alignment with rich derivational
 morphology and a sophisticated spatial reference system. Core grammatical
@@ -1196,7 +1196,7 @@ let's also add these interrogative words into the @lexicon.md and the @lexicon.j
 
 I'll help add the interrogative words to both files. Let's start with the markdown lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Interrogatives
 
 #### Basic Forms
@@ -1302,7 +1302,7 @@ do we not add the ' in the id? we should right, since early hick does have some 
 Yes, you're absolutely right! Early Hick does have glottal stop minimal pairs, as shown in:
 
 
-```69:73:site/content/languages/hick/early-hick/lexicon.md
+```69:73:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
@@ -1393,7 +1393,7 @@ Looking at the JSON-LD schema, using apostrophes in IDs is actually valid. The I
 Looking at the lexicon entries:
 
 
-```69:76:site/content/languages/hick/early-hick/lexicon.md
+```69:76:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
@@ -1440,7 +1440,7 @@ Yes, you're right. Since Early Hick has phonemic glottal stops that create minim
 Let's proceed with using the glottal stops in the IDs. If we need to change it later, we can do a systematic replacement. The important patterns to follow are shown in:
 
 
-```114:140:site/content/languages/hick/early-hick/lexicon.md
+```114:140:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'aka [ʔa.ka] "what" < Proto-Hick \*haka → 'aka
   ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Basic question root, shows archaic animacy marking
@@ -1474,7 +1474,7 @@ Let's proceed with using the glottal stops in the IDs. If we need to change it l
 And the demonstrative system it's based on:
 
 
-```459:468:site/content/languages/hick/early-hick/_index.md
+```459:468:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Visible/Known
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
@@ -1502,7 +1502,7 @@ yes please
 I'll continue with the JSON-LD entries for the interrogatives, following the patterns shown in:
 
 
-````871:916:site/content/languages/hick/early-hick/_index.md
+````871:916:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Forms
 
@@ -1751,7 +1751,7 @@ let's continue sequentially
 I'll continue with the JSON-LD entries for the interrogatives sequentially. Let's add the remaining proximal forms first, following the pattern shown in:
 
 
-```874:878:site/content/languages/hick/early-hick/_index.md
+```874:878:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'aka [ʔa.ka] "what" (basic question root)
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
    - 'atal [ʔa.tal] < 'aka-tal-is "where" (what-place-PROX.INAN)
@@ -1835,7 +1835,7 @@ yes please
 I'll continue with the medial forms, following the pattern shown in:
 
 
-```882:885:site/content/languages/hick/early-hick/_index.md
+```882:885:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
    - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
    - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
@@ -1916,7 +1916,7 @@ yes please
 I'll continue with the remaining medial forms, following the pattern shown in:
 
 
-```884:885:site/content/languages/hick/early-hick/_index.md
+```884:885:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
    - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
 ```
@@ -1995,7 +1995,7 @@ yes please
 I'll continue with the distal forms, following the pattern shown in:
 
 
-```890:893:site/content/languages/hick/early-hick/_index.md
+```890:893:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
    - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
@@ -2077,7 +2077,7 @@ yes please
 I'll continue with the remaining medial forms ('eteleth and 'akereth), following the pattern shown in:
 
 
-```885:886:site/content/languages/hick/early-hick/_index.md
+```885:886:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
    - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
 ```
@@ -2156,7 +2156,7 @@ weren't we supposed to be doing distal forms already?
 You're absolutely right - let's continue with the distal forms, following the pattern shown in:
 
 
-```889:893:site/content/languages/hick/early-hick/_index.md
+```889:893:site/@/languages/hickic/seneran/early-hick/_index.md
 3. Distal Forms (Out of Sight/Unknown)
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
    - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person)
@@ -2238,7 +2238,7 @@ let's double check if we have the interrogatives propery in the @lexicon.jsonld
 Let me check the interrogative entries we need against what's in the lexicon.jsonld file. From the documentation:
 
 
-```874:893:site/content/languages/hick/early-hick/_index.md
+```874:893:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Forms
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
    - 'aka [ʔa.ka] "what" (basic question root)
@@ -2466,7 +2466,7 @@ I actually see the basic form. but some proximal forms 'atal in particular is mi
 You're right. Let me add the missing proximal form 'atal and fix those naming inconsistencies. Looking at:
 
 
-```877:879:site/content/languages/hick/early-hick/_index.md
+```877:879:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
    - 'atal [ʔa.tal] < 'aka-tal-is "where" (what-place-PROX.INAN)
    - 'atel [ʔa.tel] < 'aka-tel-is "when" (what-time-PROX.INAN)
@@ -2479,7 +2479,7 @@ The proximal forms should be:
 And from:
 
 
-```885:886:site/content/languages/hick/early-hick/_index.md
+```885:886:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
    - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
 ```
@@ -2491,7 +2491,7 @@ The medial form should be:
 And from:
 
 
-```892:893:site/content/languages/hick/early-hick/_index.md
+```892:893:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
    - 'etelum [ʔe.te.lum] < 'aka-tel-um "when" (unknown time)
 ```
@@ -2546,7 +2546,7 @@ yes please
 Looking at the documentation, I'll update the entries for 'ateleth and 'atelum to fix the naming inconsistencies. From:
 
 
-```885:886:site/content/languages/hick/early-hick/_index.md
+```885:886:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
    - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
 ```
@@ -2625,7 +2625,7 @@ let's check the existence of the interrogatives again
 Let me check the interrogatives we need against the documentation in lines:
 
 
-```873:893:site/content/languages/hick/early-hick/_index.md
+```873:893:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Forms
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
@@ -2689,7 +2689,7 @@ yes please
 Let me check the interrogatives we need against the documentation in:
 
 
-````873:917:site/content/languages/hick/early-hick/_index.md
+````873:917:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Forms
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
@@ -2811,7 +2811,7 @@ continue please
 Looking at the interrogative forms in:
 
 
-```873:893:site/content/languages/hick/early-hick/_index.md
+```873:893:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Forms
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
@@ -2909,7 +2909,7 @@ yes please
 I'll continue with the remaining interrogative entries, referencing the documentation from:
 
 
-```873:893:site/content/languages/hick/early-hick/_index.md
+```873:893:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Forms
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
@@ -3090,7 +3090,7 @@ we're good. thanks!
 Thanks for the clarification! Based on our review of the interrogatives in:
 
 
-```111:141:site/content/languages/hick/early-hick/lexicon.md
+```111:141:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ### Abstract Concepts
 
@@ -3148,7 +3148,7 @@ can you give me an example of a proximal use of our "where" analogue
 Looking at the documentation in:
 
 
-````872:916:site/content/languages/hick/early-hick/_index.md
+````872:916:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Forms
 
    - 'aka [ʔa.ka] "what" (basic question root)
@@ -3224,7 +3224,7 @@ so "where is the store" would use the distal form?
 Actually, for "where is the store" we would likely use the proximal form 'atal if the store is a known, established location in the community, even if we can't see it at the moment of speaking. This follows from the semantic notes in:
 
 
-```912:914:site/content/languages/hick/early-hick/_index.md
+```912:914:site/@/languages/hickic/seneran/early-hick/_index.md
    - Proximal forms: Used for visible/known referents and confirmation
    - Medial forms: Used for sensed but not seen referents (sounds, smells, etc.)
    - Distal forms: Default information-seeking questions about unknowns
@@ -3261,7 +3261,7 @@ I was thinking that copula is null? why is atal using the absolutive?
 Ah, you're right! Looking at:
 
 
-```321:323:site/content/languages/hick/early-hick/_index.md
+```321:323:site/@/languages/hickic/seneran/early-hick/_index.md
    ʔal-es ter-ʔer
    person-ABS move-ACT
    "The person moves"
@@ -3300,7 +3300,7 @@ I think we have null copula but will still have abs erg markings. I'm just askin
 Ah, looking at the case marking examples in:
 
 
-````311:324:site/content/languages/hick/early-hick/_index.md
+````311:324:site/@/languages/hickic/seneran/early-hick/_index.md
    - -el [el] (ERG): marks agent of transitive verbs
    - -es [es] (ABS): marks patient of transitive & sole argument of intransitive
    - -el [el] (ERG): marks agent of transitive verbs
@@ -3339,7 +3339,7 @@ where.DIST store
 The interrogative words and their referents in copular constructions should appear without case marking, while still maintaining case marking in non-copular constructions as shown in the examples in:
 
 
-````896:908:site/content/languages/hick/early-hick/_index.md
+````896:908:site/@/languages/hickic/seneran/early-hick/_index.md
    ```plaintext
    'alis-el materok-es ward-'er?
    who.PROX-ERG boat-ABS guide-VERB
@@ -3399,7 +3399,7 @@ store would be matiltel "place of many things"
 Looking at the case marking rules in:
 
 
-````311:323:site/content/languages/hick/early-hick/_index.md
+````311:323:site/@/languages/hickic/seneran/early-hick/_index.md
    - -el [el] (ERG): marks agent of transitive verbs
    - -es [es] (ABS): marks patient of transitive & sole argument of intransitive
    - -el [el] (ERG): marks agent of transitive verbs
@@ -3419,7 +3419,7 @@ Looking at the case marking rules in:
 And the interrogative examples in:
 
 
-````896:908:site/content/languages/hick/early-hick/_index.md
+````896:908:site/@/languages/hickic/seneran/early-hick/_index.md
    ```plaintext
    'alis-el materok-es ward-'er?
    who.PROX-ERG boat-ABS guide-VERB
@@ -3458,7 +3458,7 @@ ok, so it's unlikely to use an ergative markel‽ like 'atalel matilteles"?
 Looking at the case marking rules and examples:
 
 
-````311:324:site/content/languages/hick/early-hick/_index.md
+````311:324:site/@/languages/hickic/seneran/early-hick/_index.md
    - -el [el] (ERG): marks agent of transitive verbs
    - -es [es] (ABS): marks patient of transitive & sole argument of intransitive
    - -el [el] (ERG): marks agent of transitive verbs
@@ -3479,7 +3479,7 @@ Looking at the case marking rules and examples:
 And the interrogative examples:
 
 
-````896:908:site/content/languages/hick/early-hick/_index.md
+````896:908:site/@/languages/hickic/seneran/early-hick/_index.md
    ```plaintext
    'alis-el materok-es ward-'er?
    who.PROX-ERG boat-ABS guide-VERB
@@ -3524,7 +3524,7 @@ can we add dak as stomach,gut from protohick daluku
 Yes, we can add "dak" following the pattern of other body part terms shown in:
 
 
-```640:709:site/content/languages/hick/early-hick/lexicon.md
+```640:709:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Body Parts
 - kost [kost] "foot" < Proto-Hick \*kostu → kost
 #### Basic Terms
@@ -3624,7 +3624,7 @@ pak for "poke", pakupak "tickle"
 Looking at the reduplication pattern in:
 
 
-```106:108:site/content/languages/hick/early-hick/lexicon.md
+```106:108:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - takutak [ˈta.ku.tək] "rhythm" < Proto-Hick \*takutaku → takutak
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication
@@ -3634,7 +3634,7 @@ Looking at the reduplication pattern in:
 And the compound formation patterns in:
 
 
-```998:1006:site/content/languages/hick/early-hick/lexicon.md
+```998:1006:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Compound Formation
 ## Sound Changes in Compounds
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
@@ -3677,7 +3677,7 @@ where to categorize these?
 Looking at the lexicon structure, we have several relevant sections:
 
 
-```724:738:site/content/languages/hick/early-hick/lexicon.md
+```724:738:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
   Note: Uses mur- "darkness" metaphorically for death See:
 #### Basic Terms
@@ -3699,7 +3699,7 @@ Looking at the lexicon structure, we have several relevant sections:
 Shows "Bodily Functions & States" section, and:
 
 
-```41:108:site/content/languages/hick/early-hick/lexicon.md
+```41:108:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
@@ -3831,7 +3831,7 @@ then "asa" for vine,  from hasa, non-sacred ha
 Yes, looking at the patterns in:
 
 
-```308:327:site/content/languages/hick/early-hick/lexicon.md
+```308:327:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - ris [ris] "reed" < Proto-Hick \*risu → ris
 #### Agricultural Terms
@@ -3858,7 +3858,7 @@ Yes, looking at the patterns in:
 For basic plant terms, and the pattern of initial h- loss shown in:
 
 
-```256:257:site/content/languages/hick/early-hick/lexicon.md
+```256:257:site/@/languages/hickic/seneran/early-hick/lexicon.md
   See: [Garden Terms](#garden-terms)
 - kirtor [kir.tor] "cliff face" < kir-tor "chest-height" → kirtor
 ```
@@ -3889,7 +3889,7 @@ dakisa meaning "infatuation" from "daluku-isa hihasa" protohick gut-LOC snake
 Looking at the compound formation patterns in:
 
 
-```663:672:site/content/languages/hick/early-hick/_index.md
+```663:672:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Compound Formation
 - Sound changes:
@@ -3906,7 +3906,7 @@ Looking at the compound formation patterns in:
 And the sound changes in:
 
 
-```220:236:site/content/languages/hick/early-hick/_index.md
+```220:236:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Sound Changes in Compounds
 
@@ -3946,7 +3946,7 @@ This follows the established patterns:
 This would fit best in the Bodily Functions & States section, as shown in:
 
 
-```724:738:site/content/languages/hick/early-hick/lexicon.md
+```724:738:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death See:
   [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)

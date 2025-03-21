@@ -28,7 +28,7 @@ Common etymological sources for "truth" concepts:
 For Early Hick, looking at the existing lexicon and patterns:
 
 
-```161:163:site/content/languages/hick/early-hick/lexicon.md
+```161:163:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Kinship Terms
 ```
 
@@ -36,7 +36,7 @@ For Early Hick, looking at the existing lexicon and patterns:
 We see "thren" meaning "watch, observe (ritual)" - this could be a good root for truth concepts, following the "that which is seen/clear" pattern.
 
 
-```511:517:site/content/languages/hick/early-hick/lexicon.md
+```511:517:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Kinship Terms
 ```
 
@@ -52,7 +52,7 @@ Proposed Early Hick truth/falsehood terminology:
 
 2. Falsehood concepts:
 
-```641:643:site/content/languages/hick/early-hick/_index.md
+```641:643:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Outer Prefixes (first position)
    - mo- (NEG): negation
    - ma- (PL): plural
@@ -86,7 +86,7 @@ Looking at the Early Hick documentation, I notice it already has a strong
 connection between truth/observation and the root "thren" (watch/observe):
 
 
-```161:162:site/content/languages/hick/early-hick/lexicon.md
+```161:162:site/@/languages/hickic/seneran/early-hick/lexicon.md
      See: [Time Terms](#time--celestial)
    - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
 ```
@@ -113,7 +113,7 @@ For Early Hick, I'd suggest:
 
 3. Inferred Evidence (using ka- similarity prefix):
 
-```465:468:site/content/languages/hick/early-hick/_index.md
+```465:468:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Similarity Prefix (ka-)
    - Prefix meaning "like, similar to"
@@ -126,7 +126,7 @@ For Early Hick, I'd suggest:
 
 4. False/Deceptive (using mo- negation):
 
-```504:508:site/content/languages/hick/early-hick/_index.md
+```504:508:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Basic Negation
    - mo- [mo]: general negation prefix Examples:
@@ -160,7 +160,7 @@ in the early hick lexicon, we have examples of an existing use of 'ward' but it 
 Let me check the existing uses of 'ward' in the lexicon. I found these references:
 
 
-````302:304:site/content/languages/hick/early-hick/_index.md
+````302:304:site/@/languages/hickic/seneran/early-hick/_index.md
    ```plaintext
    materok-el ʔal-es ward-ter
    handler-ERG person-ABS direct-to
@@ -169,7 +169,7 @@ Let me check the existing uses of 'ward' in the lexicon. I found these reference
 Here we see "ward-ter" meaning "direct-to" in an example sentence.
 
 
-```505:508:site/content/languages/hick/early-hick/_index.md
+```505:508:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Negation
    - mo- [mo]: general negation prefix Examples:
      - mo-thral "non-sacred, profane"
@@ -179,7 +179,7 @@ Here we see "ward-ter" meaning "direct-to" in an example sentence.
 And here we see "mo-ward" meaning "misdirect, lead astray" in the negation examples.
 
 
-```325:327:site/content/languages/hick/early-hick/_index.md
+```325:327:site/@/languages/hickic/seneran/early-hick/_index.md
      active) Examples:
    - materok "boatman" < mater-ok "vessel-AGENT" (one who works with vessels)
    - wardok "guide" < ward-ok "direct-AGENT" (one who directs)
@@ -226,7 +226,7 @@ Looking at the lexicon data, I'll help document the 'ward' root in the lexicon f
 First, let's check the existing usage in the markdown:
 
 
-```324:326:site/content/languages/hick/early-hick/_index.md
+```324:326:site/@/languages/hickic/seneran/early-hick/_index.md
    - materok "boatman" < mater-ok "vessel-AGENT" (one who works with vessels)
    - wardok "guide" < ward-ok "direct-AGENT" (one who directs)
    - threnok "watcher" < thren-ok "watch-AGENT" (one who watches)
@@ -348,7 +348,7 @@ Looking at the lexicon, I see 'wad' (path, way) documented but not 'ward'. Let's
 'ward' properly to the lexicon. From the grammar examples, we can see it's used in:
 
 
-```504:507:site/content/languages/hick/early-hick/_index.md
+```504:507:site/@/languages/hickic/seneran/early-hick/_index.md
    - mo- [mo]: general negation prefix Examples:
      - mo-thral "non-sacred, profane"
      - mo-ter "not flowing, stagnant"
@@ -359,7 +359,7 @@ Looking at the lexicon, I see 'wad' (path, way) documented but not 'ward'. Let's
 And:
 
 
-```324:326:site/content/languages/hick/early-hick/_index.md
+```324:326:site/@/languages/hickic/seneran/early-hick/_index.md
    - materok "boatman" < mater-ok "vessel-AGENT" (one who works with vessels)
    - wardok "guide" < ward-ok "direct-AGENT" (one who directs)
    - threnok "watcher" < thren-ok "watch-AGENT" (one who watches)
@@ -378,7 +378,7 @@ Here's the proposed lexicon entry for 'ward' in the markdown format:
 This should be added to the Basic Terms section of the lexicon, near:
 
 
-```156:164:site/content/languages/hick/early-hick/lexicon.md
+```156:164:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -415,7 +415,7 @@ You're right on both counts. Looking at the structure:
 
 
 
-```24:29:site/content/languages/hick/early-hick/lexicon.md
+```24:29:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 ### Basic Terms
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
@@ -429,7 +429,7 @@ Shows the Basic Terms section where 'ward' should go, with 'haran'.
 
 
 
-```203:211:site/content/languages/hick/early-hick/lexicon.md
+```203:211:site/@/languages/hickic/seneran/early-hick/lexicon.md
 2. Maritime Terms
    - mater [ma.ter] "vessel" < mal-ter "pool-flow" → mater
      ([liquid deletion](@/languages/hickic/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
@@ -468,7 +468,7 @@ yes please
 Looking at the lexicon data, I'll create the ontolex-lemon entry for 'ward'. We can see its usage in:
 
 
-```664:665:site/content/languages/hick/early-hick/lexicon.md
+```664:665:site/@/languages/hickic/seneran/early-hick/lexicon.md
 2. mal-thir-el ai-es ward-ter  
    pool-KNOWN.ANIM-ERG water-ABS contain-to  
 ```
@@ -476,7 +476,7 @@ Looking at the lexicon data, I'll create the ontolex-lemon entry for 'ward'. We 
 showing "ward-ter" meaning "contain/direct-to", and:
 
 
-```503:507:site/content/languages/hick/early-hick/lexicon.md
+```503:507:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
      See: [Person Terms](#person-terms)
@@ -561,7 +561,7 @@ hmmm I think it's a bit strange that it would come from wardu from proto-hick. p
 Looking at the lexicon, we can see 'wad' is from Proto-Hick *wadu:
 
 
-```156:164:site/content/languages/hick/early-hick/lexicon.md
+```156:164:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
 ### Sacred & Ritual

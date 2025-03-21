@@ -362,7 +362,7 @@ could engineer this change through language contact and natural processes.
 Here's how I'd suggest editing the spatial case section to show the start of 
 this change:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ## Spatial Case System
@@ -413,7 +413,7 @@ natural stepping stone toward nominative-accusative alignment.
 
 Here's how we could document this change:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ## Historical Development
@@ -473,7 +473,7 @@ Yes, exactly! This is a very natural grammaticalization path. The absolutive
 marker -es could evolve into an objective/accusative marker, especially during 
 intensive language contact. Here's how we could document this transition:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Late Hick/Early Seneran (105 AI to 400 AI)
@@ -541,7 +541,7 @@ _**Assistant**_
 Absolutely! This kind of major typological shift would create a rich dialect 
 continuum. Here's how we could document this complex transitional period:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Late Hick/Early Seneran Dialect Continuum (105 AI to 400 AI)
@@ -629,7 +629,7 @@ Yes! This is a great observation. Isolated or culturally conservative regions
 often preserve older language features. Let's document these "Old Hickic" 
 holdouts:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Modern Dialect Preservation (900 AI - Present)

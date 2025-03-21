@@ -22,7 +22,7 @@ endLine: 1384
 This suggests we should add a section about negation development to the Proto-Hick 
 Reconstruction section in `_index.md`:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Proto-Hick Reconstruction
 
 ### Negation System Development
@@ -65,7 +65,7 @@ I suppose let's lay this out similar to the Direction System Development subsect
 Let me help add the metal terminology development. First, let's add bronze age 
 metals to Early Hick:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Metal Terms
 
 1. Basic Metals
@@ -84,7 +84,7 @@ metals to Early Hick:
 
 Then for Middle Hick, let's add the Iutlandish borrowings:
 
-```markdown:site/content/languages/hick/middle-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/middle-hick/_index.md
 ### Metal Trade Terms
 
 1. Iutlandish Borrowings
@@ -135,7 +135,7 @@ endLine: 1384
 
 Let's add this reconstruction to the Proto-Hick section in `_index.md`:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Proto-Hick Reconstruction
 
 ### Negation System Development
@@ -181,7 +181,7 @@ endLine: 1384
 
 Let's add this development to the Proto-Hick Reconstruction section in `_index.md`:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Initial *h Development
 
 1. Animacy marker *hi-:
@@ -288,7 +288,7 @@ ah right having it as darkness/absence first is definitely better. let's add thi
 Let me add the negation development to the document, incorporating the darkness/absence 
 etymology:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Negation System Development
 
 1. Proto-Hick Stage:
@@ -337,7 +337,7 @@ Looking at the code blocks, we can see the translative marker -sim is mentioned 
 two places:
 
 
-```234:236:site/content/languages/hick/early-hick/_index.md
+```234:236:site/@/languages/hickic/seneran/early-hick/_index.md
    - Metaphorical extension: darkness → absence → negation
 
 # Phonology
@@ -347,7 +347,7 @@ two places:
 And:
 
 
-```262:264:site/content/languages/hick/early-hick/_index.md
+```262:264:site/@/languages/hickic/seneran/early-hick/_index.md
 - /ma'er/ [maʔer] "spirit-breath"
 
 ### Vowels
@@ -609,7 +609,7 @@ endLine: 683
 And in the morphology section:
 
 
-```234:264:site/content/languages/hick/early-hick/_index.md
+```234:264:site/@/languages/hickic/seneran/early-hick/_index.md
    - Metaphorical extension: darkness → absence → negation
 
 # Phonology

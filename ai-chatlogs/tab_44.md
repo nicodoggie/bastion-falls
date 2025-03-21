@@ -12,7 +12,7 @@
 Based on the provided documentation, I can help suggest alternatives for marking stress while preserving ' for glottal stops. Looking at the relevant sections:
 
 
-```156:176:site/content/languages/hick/early-hick/_index.md
+```156:176:site/@/languages/hickic/seneran/early-hick/_index.md
    - Primary stress falls on first syllable of simple words
    - In compounds:
      - a. First element maintains primary stress
@@ -72,7 +72,7 @@ I suppose this would be fine especially for phonetic transcriptions. actual writ
 Yes, you're right. Looking at the documentation:
 
 
-```76:92:site/content/languages/hick/early-hick/_index.md
+```76:92:site/@/languages/hickic/seneran/early-hick/_index.md
 
 Early Hick shows a relatively conservative phonological system inherited from
 Proto-Hick, with significant changes occurring mainly in compound formation and
@@ -124,7 +124,7 @@ preserving the orthographic distinction of the glottal stop.
 Yes, exactly. Looking at the stress patterns in Early Hick:
 
 
-```156:175:site/content/languages/hick/early-hick/_index.md
+```156:175:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - Primary stress falls on first syllable of simple words
    - In compounds:
@@ -179,7 +179,7 @@ Based on the documentation, we should update the stress marking in both files. H
 For `_index.md`, we should update the examples around:
 
 
-```170:175:site/content/languages/hick/early-hick/_index.md
+```170:175:site/@/languages/hickic/seneran/early-hick/_index.md
 
    Examples:
 
@@ -202,7 +202,7 @@ Examples:
 For `lexicon.md`, we need to update phonetic transcriptions throughout, particularly in sections like:
 
 
-```26:29:site/content/languages/hick/early-hick/lexicon.md
+```26:29:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -218,7 +218,7 @@ Change to:
 And similar entries like:
 
 
-```467:476:site/content/languages/hick/early-hick/lexicon.md
+```467:476:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ```
 
@@ -251,7 +251,7 @@ I'll help update both files. Let's make these changes systematically:
 
 1. In `_index.md`, we need to update the stress marking examples (lines 170-175):
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
    Examples:
 
    - tor-mal → [ˈto.məl] "great pool"
@@ -262,7 +262,7 @@ I'll help update both files. Let's make these changes systematically:
 
 2. Update stress patterns section (lines 181-187):
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Primary Stress
    - Falls on first syllable of root in isolation
    - Maintained in prefixation: ma-tor → [ˈma.tor]
@@ -274,7 +274,7 @@ I'll help update both files. Let's make these changes systematically:
 
 3. For `lexicon.md`, we need to update all phonetic transcriptions. Here are some examples:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - gransed [ˈgran.sed] "grain" < gras-sed "grass-seed" → gransed
    - malris [ˈmal.ris] "water reed" < mal-ris "pool-reed" → malris
    - ranris [ˈran.ris] "river reed" < ran-ris "stream-reed" → ranris
@@ -302,7 +302,7 @@ and we're keeping the . for splitting at syllable boundaries? is there a transcr
 Yes, we're keeping the period [.] for syllable boundaries. Looking at the current transcription system:
 
 
-```172:175:site/content/languages/hick/early-hick/_index.md
+```172:175:site/@/languages/hickic/seneran/early-hick/_index.md
 
    - 'tor-mal → ['to.məl] "great pool"
    - 'thral-kel → ['θral.kel] "sacred sky" (no reduction - sacred term)
@@ -334,7 +334,7 @@ For example:
 This is especially relevant for sections like:
 
 
-```634:637:site/content/languages/hick/early-hick/_index.md
+```634:637:site/@/languages/hickic/seneran/early-hick/_index.md
 Examples:
 
 - mo-tor-el (NEG-height-ERG) "not the height (as agent)"
@@ -358,7 +358,7 @@ perhaps it would be good to just also add them in a separate line using interlin
 Yes, that's a good solution! We can keep the phonetic transcription with syllable boundaries [.] and add a separate morphological gloss line. Looking at:
 
 
-```634:637:site/content/languages/hick/early-hick/_index.md
+```634:637:site/@/languages/hickic/seneran/early-hick/_index.md
 Examples:
 
 - mo-tor-el (NEG-height-ERG) "not the height (as agent)"
@@ -381,7 +381,7 @@ We could update examples like this:
 And for compounds with sound changes:
 
 
-```197:202:site/content/languages/hick/early-hick/_index.md
+```197:202:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Liquid Deletion
 
@@ -422,7 +422,7 @@ this looks good. let's apply them to the lexicon. would we need to also update @
 Looking at the lexicon entries, we need to update both formats. For the markdown lexicon, we need to update entries like:
 
 
-```219:227:site/content/languages/hick/early-hick/lexicon.md
+```219:227:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 1. Plants
    - ris [ris] "reed" < Proto-Hick \*risu → ris
@@ -444,7 +444,7 @@ To show both stress and syllable boundaries:
 
 For compound terms like:
 
-```326:333:site/content/languages/hick/early-hick/lexicon.md
+```326:333:site/@/languages/hickic/seneran/early-hick/lexicon.md
 2. Celestial Bodies
    - thrakel [θra.kel] "sun" < thral-kel "sacred-sky" → thrakel
      ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))

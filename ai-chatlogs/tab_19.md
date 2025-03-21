@@ -12,7 +12,7 @@ can you suggest ways on doing relative clauses in @early-hick ?
 Based on the provided documentation, I can suggest a few ways to implement relative clauses in Early Hick that would be consistent with its attested features. Let me analyze the relevant sections:
 
 
-````307:338:site/content/languages/hick/early-hick/_index.md
+````307:338:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Ergative-Absolutive Alignment
 
@@ -49,7 +49,7 @@ absolutive case marker -es is used to mark the referent.
 
 
 
-```185:213:site/content/languages/hick/early-hick/lexicon.md
+```185:213:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Basic Forms
 
 - 'aka [ʔa.ka] "what" < Proto-Hick \*haka → 'aka
@@ -153,7 +153,7 @@ in this case, could we do like thren 'al-el materokes ward'er?
 Based on the provided documentation, particularly these sections:
 
 
-````811:844:site/content/languages/hick/early-hick/_index.md
+````811:844:site/@/languages/hickic/seneran/early-hick/_index.md
 
 Early Hick uses property words (like English adjectives and adverbs) in three
 main ways:
@@ -194,7 +194,7 @@ an adjective (before nouns) or an adverb (after verbs).
 And:
 
 
-````356:382:site/content/languages/hick/early-hick/_index.md
+````356:382:site/@/languages/hickic/seneran/early-hick/_index.md
 
 See: [Verbal Morphology](#verbal-morphology) for details on:
 
@@ -274,7 +274,7 @@ however, I fear that such a relative clause structure may force the language to 
 Yes, this is actually quite naturalistic! Let me explain by referencing the relevant sections:
 
 
-```847:854:site/content/languages/hick/early-hick/_index.md
+```847:854:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
 
    - Core arguments marked by case, allowing flexible word order
@@ -339,7 +339,7 @@ watch-VERB-ERG person-ERG guide-VERB handler-ABS
 Looking at the relevant sections about verbal morphology and case marking:
 
 
-````356:382:site/content/languages/hick/early-hick/_index.md
+````356:382:site/@/languages/hickic/seneran/early-hick/_index.md
 
 See: [Verbal Morphology](#verbal-morphology) for details on:
 
@@ -373,7 +373,7 @@ person-ABS walk-VERB
 And ergative-absolutive alignment:
 
 
-````308:338:site/content/languages/hick/early-hick/_index.md
+````308:338:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -454,7 +454,7 @@ I suppose this still frees up word order somewhat, with the exception of perhaps
 Yes, exactly! Looking at the documentation about word order and information structure:
 
 
-````843:865:site/content/languages/hick/early-hick/_index.md
+````843:865:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
 
    - Core arguments marked by case, allowing flexible word order
@@ -611,7 +611,7 @@ we want to specify "walking" here, because if we wanted to just imply motion tow
 Yes, good point! Looking at the relevant sections about motion verbs and case marking:
 
 
-```58:61:site/content/languages/hick/early-hick/lexicon.md
+```58:61:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -661,7 +661,7 @@ barak'er isn't necessarily intransitive though. also if there were a verb, the v
 Ah yes, you're right! Looking at these sections:
 
 
-````308:333:site/content/languages/hick/early-hick/_index.md
+````308:333:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -694,7 +694,7 @@ person-ABS walk-VERB
 And:
 
 
-```58:61:site/content/languages/hick/early-hick/lexicon.md
+```58:61:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
@@ -776,7 +776,7 @@ so there would be no latitude to do tirai-es-el so that we mark that it's the ab
 Looking at the relevant sections about case marking and morphology:
 
 
-```782:794:site/content/languages/hick/early-hick/_index.md
+```782:794:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Suffix Classes
 
 1. Inner Suffixes (closer to root)
@@ -796,7 +796,7 @@ Looking at the relevant sections about case marking and morphology:
 And:
 
 
-```796:802:site/content/languages/hick/early-hick/_index.md
+```796:802:site/@/languages/hickic/seneran/early-hick/_index.md
 
 1. Co-occurrence
 
@@ -837,7 +837,7 @@ this exploration is for us to see if we can update that
 Looking at the documentation, particularly these key sections:
 
 
-````308:338:site/content/languages/hick/early-hick/_index.md
+````308:338:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -875,7 +875,7 @@ absolutive case marker -es is used to mark the referent.
 And:
 
 
-```782:802:site/content/languages/hick/early-hick/_index.md
+```782:802:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Suffix Classes
 
 1. Inner Suffixes (closer to root)
@@ -937,7 +937,7 @@ natural languages like Korean and Kayardild.
 Looking at these sections:
 
 
-````308:338:site/content/languages/hick/early-hick/_index.md
+````308:338:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -975,7 +975,7 @@ absolutive case marker -es is used to mark the referent.
 And:
 
 
-```782:802:site/content/languages/hick/early-hick/_index.md
+```782:802:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Suffix Classes
 
 1. Inner Suffixes (closer to root)
@@ -1112,7 +1112,7 @@ Arguments against your proposal:
 
 1. Looking at Early Hick's morphological template:
 
-```758:759:site/content/languages/hick/early-hick/_index.md
+```758:759:site/@/languages/hickic/seneran/early-hick/_index.md
 (NEG)-(SIZE)-(SIM)-ROOT-(AGENT)-(CASE)
 
 ```
@@ -1125,7 +1125,8 @@ The language has a clear single-case suffix position.
    case alignment across clause types.
 
 3. The existing system already handles complex clauses through:
-```plaintext:site/content/languages/hick/early-hick/_index.md
+
+```plaintext:site/@/languages/hickic/seneran/early-hick/_index.md
 startLine: 845
 endLine: 849
    - Core arguments marked by case, allowing flexible word order
@@ -1160,7 +1161,7 @@ relative clauses.
 
 The interrogative forms show:
 
-```969:973:site/content/languages/hick/early-hick/_index.md
+```969:973:site/@/languages/hickic/seneran/early-hick/_index.md
    - 'aka [ʔa.ka] "what" (basic question root)
    - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM)
    - 'atal [ʔa
@@ -1260,7 +1261,7 @@ to specify that that man (a pseudo pronoun to refer to that person I see)
 Looking at the relevant sections about demonstratives and interrogatives:
 
 
-```523:542:site/content/languages/hick/early-hick/_index.md
+```523:542:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Visible/Known
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
@@ -1287,7 +1288,7 @@ Looking at the relevant sections about demonstratives and interrogatives:
 And case marking:
 
 
-````308:338:site/content/languages/hick/early-hick/_index.md
+````308:338:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs

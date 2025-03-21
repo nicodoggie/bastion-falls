@@ -353,7 +353,7 @@ Derived from Kalassarian "hiccus" [hik.kus] meaning "local, native":
 # See Also
 
 - [Early Hick](@/languages/hickic/early-hick.md)
-- [Middle Hick](@/languages/hick/middle-hick.md)
+- [Middle Hick](@/languages/hickic/seneran/middle-hick.md)
 - [Seneran](@/languages/seneran.md)
 
 ## Agentive Marking Development

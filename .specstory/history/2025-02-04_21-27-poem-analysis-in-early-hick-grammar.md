@@ -167,7 +167,7 @@ Let's analyze the poem through Early Hick grammar and lexicon patterns. I'll bre
 
 ### Proposed New Lexicon Entries
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing fire terms ...
 
 dupi [du.pi]
@@ -244,7 +244,8 @@ Let me re-analyze the compounds with these corrections:
 
 **Line 1:**  
 `grales atales sibris'er kabrisimris dupibrisesp`  
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing fire terms ...
 
 dupibris [du.pi.bris]
@@ -258,7 +259,8 @@ dupibris [du.pi.bris]
 
 **Line 4:**  
 `'aterter thrakeles mo'ibrissim mulsum`  
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 // ... existing celestial terms ...
 
 thrakel [θra.kel]
@@ -279,23 +281,25 @@ thrakel [θra.kel]
    - Regular glottal deletion per [compound rules](#compound-phonology)
 
 2. **Thrakel Validation**  
-   - Sacred compound pattern: *thral-X → thraX*  
-   - Parallel to *thral-mer → thramer* "sacred-person → priest"  
-   - Maintains [vowel coalescence](#vowel-coalescence) rules: *a-e → a*  
+   - Sacred compound pattern: _thral-X → thraX_  
+   - Parallel to _thral-mer → thramer_ "sacred-person → priest"  
+   - Maintains [vowel coalescence](#vowel-coalescence) rules: _a-e → a_  
 
 ---
 
 ### Morphosyntactic Validation
 
 **Case Stacking in dupibrisesp**  
+
 - Base: dupibris (N) + -esp (SUBE)  
 - Follows [spatial case stacking](#spatial-case-system) rules for derived nouns  
 - Contrasts with simple SUBE marking on underived nouns  
 
 **Sacred Term Formation**  
-- *thrakel* follows [ritual compounding](#sacred--ritual) requiring:  
-  1. Sacred root (*thral*) + natural feature (*kel*)  
-  2. Liquid deletion (*thral-kel → thrakel*)  
+
+- _thrakel_ follows [ritual compounding](#sacred--ritual) requiring:  
+  1. Sacred root (_thral_) + natural feature (_kel_)  
+  2. Liquid deletion (_thral-kel → thrakel_)  
   3. No ka- prefix (reserved for secular comparisons)  
 
 This maintains consistency with Early Hick's sacred language register constraints.
@@ -315,9 +319,9 @@ _**Assistant**_
 You're correct to identify potential ambiguity in spatial case usage. Let me analyze this through Early Hick's grammatical patterns:
 
 **1. Lexicalized vs. Productive Case Usage**  
-Lexicalized forms (e.g., *pirlas'er* "hear" < ear-ILL-VERB) vs. productive spatials (e.g., *mal-esp* "under pool") require different parsing strategies:
+Lexicalized forms (e.g., _pirlas'er_ "hear" < ear-ILL-VERB) vs. productive spatials (e.g., _mal-esp_ "under pool") require different parsing strategies:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing case system section ...
 
 ### Disambiguation Strategies
@@ -345,10 +349,12 @@ Lexicalized forms (e.g., *pirlas'er* "hear" < ear-ILL-VERB) vs. productive spati
 
 a. **Ambiguous Form**  
 `kabrisimris`  
+
 - Lexicalized: "like fire" (ka-bris-imris)  
 - Productive: "from fire's vicinity" (kabris-imris)  
 
 b. **Disambiguation Through Syntax**  
+
 ```plaintext
 Lexicalized:  
 grales kabrisimris dupibrisesp  
@@ -373,7 +379,8 @@ The language shows three distinct layers of case usage:
 This stratification matches [grammaticalization clines](@/languages/hickic/early-hick/_index.md#grammaticalization-patterns) observed in other ergative languages.
 
 **4. Proposed Clarification in Documentation**  
-````markdown:site/content/languages/hick/early-hick/_index.md
+
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing case section ...
 
 ## Case Ambiguity Resolution
@@ -404,7 +411,7 @@ Example contrast:
 // ... existing examples ...
 ````
 
-This systematic differentiation maintains case functionality while allowing poetic license in compounds like your poem's *dupibrisesp*.
+This systematic differentiation maintains case functionality while allowing poetic license in compounds like your poem's _dupibrisesp_.
 
 ---
 
@@ -440,6 +447,7 @@ I need to ensure that in my explanations, I distinguish between the glottal stop
 Additionally, when the user corrected "dupibrisesp" to include "dup" (pearl) + "'ibris" (fire) with the glottal stop elided in the compound, it's important to note that the glottal stop's deletion follows the compound formation rules, but the stress would remain on the first element "dup" in the compound "dupibris."
 
 In summary, the key points are:
+
 1. Apostrophe represents a glottal stop consonant, not stress.
 2. Stress is generally on the first syllable of the root, regardless of glottal stops.
 3. Glottal stops may be elided in compounds, affecting pronunciation but not stress placement.
@@ -450,8 +458,9 @@ By incorporating these points, the analysis will correctly handle the glottal st
 
 You're absolutely right to highlight this crucial distinction. Let me clarify the relationship between glottal stops and stress patterns based on the documented grammar:
 
-### Key Documentation from Consonant Inventory:
-````markdown:site/content/languages/hick/early-hick/_index.md
+### Key Documentation from Consonant Inventory
+
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Consonants
 |            | Glottal |
 |------------|---------|
@@ -468,6 +477,7 @@ adjacent vowel quality.
 
 1. **Word-Initial Glottals**  
    Maintain initial stress but cause vowel fortition:
+
    ```plaintext
    /'al/ → [ˈʔal] "person" (stress remains initial)
    /'el/ → [ˈʔel] "speaker" 
@@ -475,12 +485,14 @@ adjacent vowel quality.
 
 2. **Medial Glottals**  
    Create syllable breaks without stress shift:
+
    ```plaintext
    /ka'ibris/ → [kə.ˈʔi.bɾis] "like fire" 
    ```
 
 3. **Final Glottals**  
    Prevent final vowel reduction:
+
    ```plaintext
    /thra'/ → [θɾaʔ] "sacred" (cf. thra → [θɾə] when final)
    ```
@@ -490,6 +502,7 @@ adjacent vowel quality.
 ### Poem-Specific Analysis
 
 **Line 2:** `ka'ibris`  
+
 ````plaintext
 Phonemic: /ka.'i.bris/
 Phonetic: [kə.ˈʔi.bɾis]
@@ -502,7 +515,8 @@ The glottal stop creates a syllable boundary that resists prefix-induced vowel r
 ---
 
 ### Proposed Grammar Clarification
-````markdown:site/content/languages/hick/early-hick/_index.md
+
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing stress section ...
 
 ## Glottal Stop Effects

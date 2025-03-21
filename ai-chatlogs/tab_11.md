@@ -11,56 +11,56 @@ can we add a semantic field for taste terms in @lexicon.md for @early-hick
 
 I'll help create a new semantic field for taste terms that follows the established patterns in the lexicon. Based on the existing structure and patterns shown in the lexicon file, here's a suggested addition:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Taste Terms
 
 #### Basic Tastes
 
 - mel [mel] "sweet" < Proto-Hick *melu → mel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Associated with ripeness and edibility
 
 - kras [kras] "bitter" < Proto-Hick *krasu → kras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used for both taste and metaphorical bitterness
 
 - sak [sak] "salty" < Proto-Hick *saku → sak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Related to sea terms, shows maritime influence
 
 - thir [θir] "sour" < Proto-Hick *thiru → thir
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Also means "sharp, biting"; related to air/wind terms
 
 #### Derived Terms
 
 - melter [mel.ter] "honey" < mel-ter "sweet-flow" → melter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Literally "sweet flow", primary sweetener in Early Hick culture
 
 - krasim [kra.sim] "poison" < kras-im "bitter-evil" → krasim
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows connection between bitter taste and danger
 
 - sakmal [sak.mal] "brine pool" < sak-mal "salt-pool" → sakmal
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   See: [Water Features](#water-features)
 
 #### Intensity Terms
 
 - tormel [tor.mel] "very sweet" < tor-mel "great-sweet" → tormel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 - limel [li.mel] "slightly sweet" < li-mel "small-sweet" → limel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 #### Usage Examples
 
 - mel-'er [mel.ʔer] "to sweeten" < mel-'er "sweet-VERB" → mel'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 
 - kras-'er [kras.ʔer] "to embitter" < kras-'er "bitter-VERB" → kras'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 ```
 
 This addition:
@@ -83,20 +83,20 @@ let's use a different root for sour, perhaps we can share roots with a word that
 
 Based on the lexicon patterns and sound changes shown, I'll help modify the taste term for "sour" to share roots with "wince" using *tilmuru. Here's the revised entry for the taste terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tir [tir] "sour; wince" < Proto-Hick *tilmuru → tilru → tiru → tir
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Shows semantic connection between taste sensation and facial response
 ```
 
 This follows the established patterns seen in:
 
-```209:214:site/content/languages/hick/early-hick/lexicon.md
+```209:214:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - thil [θil] "virtue, moral" < Proto-Hick \*halu → thil
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Abstract sense developed from basic meaning See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
@@ -105,12 +105,12 @@ This follows the established patterns seen in:
 
 And uses compound reduction patterns similar to:
 
-```1127:1131:site/content/languages/hick/early-hick/lexicon.md
+```1127:1131:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 - tor-mur-mer → tomur "great owl"
 - thur-mur-mer → thurmur "dusk owl"
 - li-mur-mer → limur "small owl" See:
-  [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+  [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification)
 ```
 
 
@@ -132,16 +132,16 @@ let's add tir'er "to wince"
 
 Based on the patterns shown in the lexicon and verbal morphology sections, I'll help add the verbal form of "tir" (to wince). This should be added in the Action Terms section, specifically under Bodily/Life Actions around line 64.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tir'er [tir.ʔer] "to wince" < tir-'er "sour/wince-VERB" → tir'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   Note: Shows connection between taste sensation and involuntary response
   See: [Taste Terms](#taste-terms), [Bodily Functions](#bodily-functions--states)
 ```
 
 This follows the verbal formation patterns shown in:
 
-````559:614:site/content/languages/hick/early-hick/_index.md
+````559:614:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
@@ -168,9 +168,9 @@ tak-er [tak.er] "strike"
    Examples:
 
    - ter-'er "to flow" (See:
-     [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
+     [Water Features](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/lexicon.md#water-features))
    - thren-'er "to watch" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/lexicon.md#sacred--ritual))
    - ward-'er "to guide"
 
 2. Stative verbs (from property concepts):
@@ -188,28 +188,28 @@ tak-er [tak.er] "strike"
    Examples:
 
    - thral-'er "to be sacred" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/lexicon.md#sacred--ritual))
    - mar-'er "to be red" (See:
-     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+     [Colors](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/lexicon.md#colors))
 
 Note: Interpretation depends on base word semantics:
 
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred") (See:
-  [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+  [Basic Terms](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/lexicon.md#basic-terms))
 
 ````
 
 
 And matches other bodily action verbs like:
 
-```65:71:site/content/languages/hick/early-hick/lexicon.md
+```65:71:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred term for childbirth
 
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
 ```
 
@@ -231,9 +231,9 @@ it seems we already use sak for wolf. perhaps kaketh? SIM.sea, tastes like the s
 
 Looking at the lexicon, you're right - "sak" appears to be used for "wolf". The suggestion to use "kaketh" (SIM-sea) follows the established patterns for both similarity marking and compound formation. Here's how we should modify the taste terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - kaketh [ka.keθ] "salty" < ka-keth "sea-like" → kaketh
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Literally "sea-like", shows maritime influence on taste terminology
   See: [Maritime Terms](#maritime-terms), [Water Features](#water-features)
 ```
@@ -272,9 +272,9 @@ These show that "salty" terms often derive from:
 For Early Hick, we can see from the lexicon:
 
 
-```384:386:site/content/languages/hick/early-hick/lexicon.md
+```384:386:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms)
 ```
 
@@ -282,7 +282,7 @@ For Early Hick, we can see from the lexicon:
 That "keth" means "sea". The similarity prefix "ka-" is well established:
 
 
-```503:519:site/content/languages/hick/early-hick/_index.md
+```503:519:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Similarity Mar
 
 1. Similarity Prefix (ka-)
@@ -321,19 +321,19 @@ can we update the derived taste terms using kaketh instead of sak?
 
 Yes, we should update the derived terms section to use kaketh instead of sak. Looking at the lexicon patterns (lines 312-322), here's the revised section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Derived Terms
 
 - melter [mel.ter] "honey" < mel-ter "sweet-flow" → melter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Literally "sweet flow", primary sweetener in Early Hick culture
 
 - krasim [kra.sim] "poison" < kras-im "bitter-evil" → krasim
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows connection between bitter taste and danger
 
 - kakethmal [ka.keθ.mal] "brine pool" < kaketh-mal "salty-pool" → kakethmal
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   See: [Water Features](#water-features)
 ```
 
@@ -511,7 +511,7 @@ would it be natural for a word for ale to be derived from tir and ai? sour water
 Yes, that would be a natural derivation! Looking at the compound formation patterns shown in:
 
 
-```728:734:site/content/languages/hick/early-hick/_index.md
+```728:734:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: modifier-head
 - Sound changes:
   - Liquid deletion: tor-mal → tomal
@@ -525,7 +525,7 @@ Yes, that would be a natural derivation! Looking at the compound formation patte
 And the basic template for compounds:
 
 
-```750:753:site/content/languages/hick/early-hick/_index.md
+```750:753:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Root Structure
 
    - (PREFIX*) + ROOT + (SUFFIX*)
@@ -535,9 +535,9 @@ And the basic template for compounds:
 
 We could create "tirai" [ti.rai] meaning "ale" (literally "sour-water"). Here's how we could add it to both lexicon files:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tirai [ti.rai] "ale, fermented drink" < tir-ai "sour-water" → tirai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows cultural knowledge of fermentation process
   See: [Taste Terms](#taste-terms), [Drink Terms](#drink-terms)
 ```
@@ -596,41 +596,41 @@ I think we could sort drink terms as a subsectohi within Food and Consumption Te
 
 Yes, let's add a "Drink Terms" subsection within Food and Consumption Terms. Following the lexicon's established structure, here's how we could organize it:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Food & Consumption Terms
 
 #### Basic Terms
 
 - ter [ter] "flow, pour" < Proto-Hick *teru → ter
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Basic term for liquid movement See: [Water Features](#water-features)
 
 #### Drink Terms
 
 - tirai [ti.rai] "ale, fermented drink" < tir-ai "sour-water" → tirai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows cultural knowledge of fermentation process
   See: [Taste Terms](#taste-terms)
 
 - melter [mel.ter] "mead" < mel-ter "sweet-flow" → melter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Sweet fermented drink, distinct from honey
   See: [Taste Terms](#taste-terms)
 
 #### Derived Terms
 
 - terok [te.rok] "drinker" < ter-ok "flow-AGENT" → terok
-  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
+  ([agentive suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#agentive-suffix))
   Note: One who drinks (professionally or habitually)
 ```
 
 This follows the patterns shown in:
 
-```1156:1164:site/content/languages/hick/early-hick/lexicon.md
+```1156:1164:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Agentive Suffix
 2. mal-thir-el ai-es ward-ter  
 - -ok [-ok] "agent" < Proto-Hick \*-oku → -ok
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Examples:
   - materok [ˈma.te.ˌrok] "boatman" < mater-ok "vessel-AGENT"
   - wardok [ˈwar.dok] "guide" < ward-ok "direct-AGENT" Note: Receives secondary
@@ -641,7 +641,7 @@ This follows the patterns shown in:
 
 And the compound formation rules from:
 
-```728:734:site/content/languages/hick/early-hick/_index.md
+```728:734:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: modifier-head
 - Sound changes:
   - Liquid deletion: tor-mal → tomal
@@ -667,23 +667,23 @@ melter is already "honey" though
 
 Ah yes, you're right! Looking at lines 314-316, melter is already established as "honey". Let's revise the Drink Terms section to be more consistent with the existing lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Drink Terms
 
 - tirai [ti.rai] "ale, fermented drink" < tir-ai "sour-water" → tirai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows cultural knowledge of fermentation process
   See: [Taste Terms](#taste-terms)
 
 - melterai [mel.te.rai] "mead" < melter-ai "honey-water" → melterai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Fermented honey drink
   See: [Food Terms](#food--consumption-terms)
 
 #### Derived Terms
 
 - terok [te.rok] "drinker" < ter-ok "flow-AGENT" → terok
-  ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
+  ([agentive suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#agentive-suffix))
   Note: One who drinks (professionally or habitually)
 ```
 
@@ -710,10 +710,10 @@ Yes! Looking at the interrogative formation patterns (lines 185-207) and tempora
 
 Here's how we could add it:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'atelbran [ʔa.tel.bran] "before (when-dawn)" < 'aka-tel-bran → 'akatelbran → 
   'atelbran
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   Note: Shows temporal metaphor of dawn/past, derived from interrogative
   See: [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
 ```
@@ -740,11 +740,11 @@ yes please
 
 Looking at the interrogative patterns (lines 936-944) and temporal terms (lines 888-910), here's how we could add 'atelbran to both lexicon files:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Temporal Terms
 
 - 'atelbran [ʔa.tel.bran] "before" < 'aka-tel-bran → 'akatelbran → 'atelbran
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   Note: Temporal metaphor using interrogative "when" + "dawn"
   See: [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
 ```
@@ -810,9 +810,9 @@ let's add maren as a word for horse
 
 Looking at the sound patterns and compound formation rules (lines 147-160), and the historical development section (lines 30-54), we can add "maren" as "horse". This would follow Early Hick phonotactic patterns with permitted final clusters.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - maren [ma.ren] "horse" < Proto-Hick *marenu → maren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Shows early domestication influence
   See: [Animal Terms](#animal-terms)
 ```
@@ -865,9 +865,9 @@ sorry, I meant toren. from AUG.deer
 
 Ah yes! Looking at the augmentative prefix pattern (lines 774-775) and compound formation rules (lines 728-734), we can add "toren" as "horse" (literally "great-deer"). This follows the established pattern of semantic extension through size augmentation.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - toren [to.ren] "horse" < tor-ren "great-deer" → toren
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows semantic extension through size metaphor
   See: [Animal Terms](#animal-terms)
 ```
@@ -912,7 +912,7 @@ Ah yes! Looking at the augmentative prefix pattern (lines 774-775) and compound 
 
 This follows the patterns shown in:
 
-```728:734:site/content/languages/hick/early-hick/_index.md
+```728:734:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: modifier-head
 - Sound changes:
   - Liquid deletion: tor-mal → tomal
@@ -924,7 +924,7 @@ This follows the patterns shown in:
 
 and
 
-```774:775:site/content/languages/hick/early-hick/_index.md
+```774:775:site/@/languages/hickic/seneran/early-hick/_index.md
    - tor- (AUG): augmentative
    - li- (DIM): diminutive
 ```
@@ -941,9 +941,9 @@ let's add the word "kor" to mean cow, early borrowing from old iutlandish
 
 Looking at the phonotactic patterns (lines 136-160) and lexicon structure (lines 1-35), we can add "kor" as a borrowed term. Here's how we could add it:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - kor [kor] "cow" < Old Iutlandish *koru → kor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Early borrowing showing typical final vowel loss pattern
   See: [Animal Terms](#animal-terms)
 ```
@@ -996,7 +996,7 @@ it was never koru, it's a borrowing contemporary with early hick
 
 Ah, you're right! Looking at the Early Hick period (lines 48-59) and phonotactic patterns (lines 136-160), we can add "kor" as a direct borrowing:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - kor [kor] "cow" < Old Iutlandish kor
   Note: Early borrowing showing cultural contact with Iutlandish herders
   See: [Animal Terms](#animal-terms)
@@ -1049,9 +1049,9 @@ let's add sumerok to mean goat from gras + 'imer + ok
 
 Looking at the compound formation rules (lines 1172-1178) and agentive marking patterns (lines 464-473), we can create "sumerok" as a compound of "grass" + "life" + "agent" meaning "goat" (literally "grass-life-agent" or "one who lives on grass").
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - sumerok [su.me.rok] "goat" < gras-'imer-ok "grass-life-AGENT" → sumerok
-  ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   Note: Shows compound reduction and metaphorical extension through agentive marking
   See: [Animal Terms](#animal-terms), [Consumption Terms](#consumption-actions)
 ```
@@ -1115,9 +1115,9 @@ let's add `thralal` as a word for seasons
 
 Looking at the compound formation patterns (lines 1175-1183) and sacred terminology (lines 121-137), we can create "thralal" as "sacred-rock" to mean "seasons" - showing the cultural connection between sacred cycles and natural elements.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thralal [θra.lal] "season" < thral-al "sacred-rock" → thralal
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows metaphorical extension of sacred cycles to natural time periods
   See: [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
 ```
@@ -1165,36 +1165,36 @@ Looking at the compound formation patterns (lines 1175-1183) and sacred terminol
 
 This follows patterns shown in:
 
-```1175:1183:site/content/languages/hick/early-hick/lexicon.md
+```1175:1183:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Compound Formation
   - materok [ˈma.te.ˌrok] "boatman" < mater-ok "vessel-AGENT"
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
   brammater
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 ```
 
 and
 
-```121:137:site/content/languages/hick/early-hick/lexicon.md
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) Note:
+```121:137:site/@/languages/hickic/seneran/early-hick/lexicon.md
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick)) Note:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   Note: Literally "end of life" See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - istor [is.tor] "growth (living)" < Proto-Hick \*hi-storu → istor
-  ([initial sibilant loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([initial sibilant loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   See: [Sacred Terms](#sacred--ritual)
 - gnar [gnar] "correct" < Proto-Hick \*gnaru → gnar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
 ```
@@ -1260,9 +1260,9 @@ mathral is PLURAL.thral to mean all seasons
 
 Ah, looking at the plural formation patterns (lines 518-521) and sacred terminology (lines 541-545), we can create mathral as "ma-thral" (PLURAL-sacred) to mean "seasons" - showing the sacred cyclical nature of time through plural marking.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - mathral [ma.θral] "seasons" < ma-thral "PLURAL-sacred" → mathral
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows sacred cyclical nature of time through plural marking
   See: [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
 ```
@@ -1311,20 +1311,20 @@ Ah, looking at the plural formation patterns (lines 518-521) and sacred terminol
 
 This follows patterns shown in:
 
-```518:524:site/content/languages/hick/early-hick/lexicon.md
+```518:524:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Maintains [e] in unstressed positions
 ```
 
 
 And:
 
-```541:545:site/content/languages/hick/early-hick/lexicon.md
+```541:545:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - imthral [im.θral] "evil deity" < im-thral "evil-sacred" → imthral (compound
   fusion, maintains second element due to sacred term) See:
   [Sacred Terms](#sacred--ritual)
@@ -1348,9 +1348,9 @@ hmmm, I think I prefer to use thran "thousand" + thral > thranal
 
 Ah yes, looking at the compound formation patterns (lines 422-423) where we see thran "thousand" used in compounds like thrantor "mountain range", we can create thranal as "thousand-sacred" to mean "seasons" - showing the cyclical nature through the metaphor of countless sacred days.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thranal [θra.nal] "seasons" < thran-thral "thousand-sacred" → thranal
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   Note: Shows cyclical time through metaphor of countless sacred days
   See: [Time Terms](#time--celestial), [Sacred Terms](#sacred--ritual)
 ```
@@ -1398,27 +1398,27 @@ Ah yes, looking at the compound formation patterns (lines 422-423) where we see 
 
 This follows the patterns shown in:
 
-```422:429:site/content/languages/hick/early-hick/lexicon.md
+```422:429:site/@/languages/hickic/seneran/early-hick/lexicon.md
   See: [Augmentative Prefix](#augmentativediminutive)
 - thrantor [θran.tor] "mountain range" < thran-tor "thousand peaks" → thrantor
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 - val [val] "valley, water-cut lowland" < Proto-Hick \*valu → val
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 - nagral [na.gral] "black earth" < nal-gral "black-earth" → nagral
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
 ```
 
 
 And the sacred terminology patterns in:
 
-```518:524:site/content/languages/hick/early-hick/lexicon.md
+```518:524:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   Note: Maintains [e] in unstressed positions
 ```
 
@@ -1438,14 +1438,14 @@ let's add 'eldal as a word for a single elf in early hick, from sindarin eldrim 
 
 Looking at the compound formation patterns (lines 117-167) and person terms (lines 150-157), we can create 'eldal and 'eldalok following Early Hick phonological rules:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'eldal [ʔel.dal] "elf (individual)" < eldrim-'al "elf-person" → 'eldal
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   Note: Borrowing from Sindarin eldrim with native person marker
   See: [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 
 - 'eldalok [ʔel.da.lok] "elven people" < 'eldal-ok "elf-AGENT" → 'eldalok
-  ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+  ([agentive marking](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#agentive-marking))
   Note: Collective form using agentive suffix to mark social group
   See: [Person Terms](#person-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -1472,9 +1472,9 @@ let's add 'eldegral [ʔeldəɡral]  < Sindarin eldrim + gral meaning feywild
 
 Looking at the compound formation patterns (lines 496-508) and sacred earth terminology (lines 511-515), we can create 'eldegral as a compound of eldrim (elven) + gral (earth) to mean "feywild":
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'eldegral [ʔel.də.gral] "feywild" < eldrim-gral "elf-earth" → 'eldegral
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   Note: Shows vowel reduction in middle syllable and sacred earth metaphor
   See: [Sacred Terms](#sacred--ritual), [Landforms](#landforms)
 ```
@@ -1509,9 +1509,9 @@ let's add sinibel to mean "taste"
 
 Looking at the taste terminology patterns (lines 315-362) and compound formation rules (lines 67-70), we can create sinibel as a compound of sin "floating" + ibel "tongue" to mean "taste" - showing the metaphorical connection between floating/movement and sensory perception.
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - sinibel [si.ni.bel] "taste" < sin-ibel "float-tongue" → sinibel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows metaphorical extension of floating motion to sensory perception
   See: [Taste Terms](#taste-terms), [Body Terms](#body-terms)
 ```
@@ -1560,48 +1560,48 @@ Looking at the taste terminology patterns (lines 315-362) and compound formation
 
 This follows patterns shown in:
 
-```315:362:site/content/languages/hick/early-hick/lexicon.md
+```315:362:site/@/languages/hickic/seneran/early-hick/lexicon.md
   Note: Associated with ripeness and edibility
 - kras [kras] "bitter" < Proto-Hick \*krasu → kras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used for both taste and metaphorical bitterness
 - kaketh [ka.keθ] "salty" < ka-keth "sea-like" → kaketh
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Literally "sea-like", shows maritime influence on taste terminology See:
   [Maritime Terms](#maritime-terms), [Water Features](#water-features)
 - tir [tir] "sour; wince" < Proto-Hick \*tilmuru → tilru → tiru → tir
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Shows semantic connection between taste sensation and facial response
 
 #### Derived Terms
 
 - melter [mel.ter] "honey" < mel-ter "sweet-flow" → melter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Literally "sweet flow", primary sweetener in Early Hick culture
 - krasim [kra.sim] "poison" < kras-im "bitter-evil" → krasim
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows connection between bitter taste and danger
 - kakethmal [ka.keθ.mal] "brine pool" < kaketh-mal "salty-pool" → kakethmal
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   See: [Water Features](#water-features)
 
 #### Intensity Terms
 
 - tormel [tor.mel] "very sweet" < tor-mel "great-sweet" → tormel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 - limel [li.mel] "slightly sweet" < li-mel "small-sweet" → limel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 #### Usage Examples
 
 - mel-'er [mel.ʔer] "to sweeten" < mel-'er "sweet-VERB" → mel'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 - kras-'er [kras.ʔer] "to embitter" < kras-'er "bitter-VERB" → kras'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 - tir'er [tir.ʔer] "to wince" < tir-'er "sour/wince-VERB" → tir'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   Note: Shows connection between taste sensation and involuntary response See:
   [Taste Terms](#taste-terms), [Bodily Functions](#bodily-functions--states)
 
@@ -1614,7 +1614,7 @@ This follows patterns shown in:
 
 And compound formation patterns in:
 
-```67:70:site/content/languages/hick/early-hick/lexicon.md
+```67:70:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 ### Bodily/Life Actions
 

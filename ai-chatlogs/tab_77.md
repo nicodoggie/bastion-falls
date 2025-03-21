@@ -231,7 +231,7 @@ pelase apply the corrected forms into the document
 I'll show the necessary edits to maintain consistency with compound formation 
 rules. Here are the key changes needed:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 // ... existing code ...
 
 #### Common Compounds
@@ -306,7 +306,7 @@ please add derivation steps in the definition lists
 
 I'll add derivation steps to show the compound formation processes:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 // ... existing code ...
 
 #### Common Compounds
@@ -388,7 +388,7 @@ Would you like me to:
 I'll systematically go through all compounds, adding derivation steps and 
 checking for rule consistency. Let me start with the first set of corrections:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Sacred and Celestial Terms
 
 <dl>
@@ -493,7 +493,7 @@ let's add a small explainer in the "Specific Owl Types" section about the simpli
 Yes, I'll add an explanation about the compound simplification pattern in owl 
 terminology:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 #### Specific Owl Types
 
 These terms demonstrate compound simplification, where the general term 'mer' 
@@ -544,7 +544,7 @@ simplification?
 
 Continuing with the remaining compounds:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Related Terms
 
 <dl>
@@ -645,7 +645,7 @@ Would you like me to:
 Let me check for any remaining compounds, particularly in the similarity prefix 
 and size/intensity marker sections:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 #### Similarity Prefix Examples
 
 <dl>
@@ -857,7 +857,7 @@ modern seneran (extensive contact with apgarian kingdoms): 900s AI to present da
 Let me revise the historical development timeline and its implications for 
 sound changes:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 # Historical Development
 
 ## Early Hick (prehistory to ~300 PF)
@@ -1069,7 +1069,7 @@ I like it. let's do the following:
 
 I'll help revise the content for middle-hick.md:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 +++
 title = "Middle Hick"
 weight = 2
@@ -1185,7 +1185,7 @@ Would you like me to:
 
 I'll add more Old Iutlandish (OI) borrowings, grouped by semantic domains:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 // ... existing content ...
 
 ### Additional Maritime Borrowings
@@ -1279,7 +1279,7 @@ can we also add words for bronze age metals in early hick? then iron age metals 
 Yes! Let's add native metal terms to Early Hick and borrowed iron-working 
 terms in Middle Hick:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Metal Terms
 
 <dl>
@@ -1300,7 +1300,7 @@ terms in Middle Hick:
 </dl>
 ```
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 ### Metal-Working Terms
 
 <dl>
@@ -2648,8 +2648,8 @@ Derived from Kalassarian "hiccus" [hik.kus] meaning "local, native":
 - Further shortened in common speech to "hick"
 
 # See Also
-- [Early Hick](@/languages/hick/early-hick.md)
-- [Middle Hick](@/languages/hick/middle-hick.md)
+- [Early Hick](@/languages/hickic/early-hick.md)
+- [Middle Hick](@/languages/hickic/seneran/middle-hick.md)
 - [Seneran](@/languages/seneran.md)
 ```
 
@@ -3239,7 +3239,7 @@ hmm that's odd. trying to add it again now
 
 Now I can see the file! Let's revise some of these terms to consistently apply our repair strategies. Here are some key changes needed:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 # Lexicon
 
 ## Maritime Borrowings
@@ -6117,7 +6117,7 @@ let's develop a negation marker for @early-hick.md , perhaps as a cognate of [mu
 
 Yes! We can develop a negation system from the 'mur' ("night, darkness, absence") root. This would be semantically natural and fits well with the existing phonological patterns:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Negation System
 
 #### Basic Negator
@@ -6213,7 +6213,7 @@ do any of these make sense?
 
 Yes! This is a very naturalistic development path. Let's detail it:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of Negation from Proto-Hick *hi-mur
 
 #### Historical Stages
@@ -6305,7 +6305,7 @@ let's integrate the early hick words and affixes to the appropriate sections of 
 
 I'll help integrate these elements into the document. Let's focus on the negation system first, as it's a significant development. Here's how we can organize it:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Negation System
 
 #### Historical Development
@@ -6547,7 +6547,7 @@ how would a th develop from proto-hick? could there have been a case for a denta
 
 Yes! We could derive the Early Hick /θ/ from Proto-Hick through dental articulation of /t/. Here's a possible development path:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of Dental Fricative /θ/
 
 #### Proto-Hick to Early Hick
@@ -6643,7 +6643,7 @@ ok from this, what would `thral` be in protohick?
 
 Based on the sound changes we established, Proto-Hick *tral would develop into Early Hick θral. Let's trace this:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of *tral > θral
 
 1. Proto-Hick Form:
@@ -6711,7 +6711,7 @@ ok so let's derive the word for "good" as hi.tral [ANIM.tral] and develop it int
 
 Yes! Let's trace how Proto-Hick *hi-tral would develop, following our established patterns for both animacy marking and the dental fricative:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of *hi-tral "good, blessed"
 
 #### Proto-Hick Stage
@@ -6795,7 +6795,7 @@ do we have a lot of word initial glottal fricatives in our early hick?
 
 Looking at our Early Hick inventory, we should probably be consistent with how we handle word-initial /h/. Let's examine the patterns we've established:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of Initial /h/
 
 #### Proto-Hick Animacy Prefix *hi-
@@ -6868,7 +6868,7 @@ what are our cases for choosing any of those 3 options? that last one seems inco
 
 You're right - the pitch-based Pattern 3 doesn't fit well with our established phonological inventory. Let's analyze the merits of each pattern:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Analysis of *hi- Development Patterns
 
 #### Pattern 1: hi.CV > ʔV
@@ -6951,7 +6951,7 @@ let's do pattern 1. also, it seems like we're mostly removing word-initial h. is
 
 You raise a good point. If we're systematically removing word-initial /h/ and don't have /h/ codas, we should probably reconsider having /h/ in our phonological inventory at all. Let's analyze this:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Distribution of /h/ in Early Hick
 
 #### Word-Initial Position
@@ -7038,7 +7038,7 @@ let's show 2 so that we can say for sure. I do like having h in the modern sener
 
 Yes! Let's trace both the Proto-Hick loss of /h/ and its later reintroduction in Seneran:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Proto-Hick *h Development
 
 #### Word-Initial Loss
@@ -7245,7 +7245,7 @@ any middle hick pathways from iutlandish?
 
 Yes! Iutlandish influence during the Middle Hick period could provide additional pathways for /h/, especially in maritime vocabulary:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 ### Iutlandish Influence on Middle Hick /h/
 
 #### From Iutlandish Initial /h/
@@ -7783,7 +7783,7 @@ let's document ethral as "good" in early hick, add "ka-ethral" as good-like, the
 
 Yes! Let's trace this development through all stages:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of 'Good/Goodness'
 
 #### Early Hick Forms
@@ -8258,7 +8258,7 @@ I do like the name "the Narrows". if we derived it from an early hick word.. wha
 
 Let's develop this! We could create a natural derivation for "Narrows" from Early Hick. Here are some possibilities:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Spatial Narrowing/Widening
 
 #### Proto-Hick Root
@@ -8349,7 +8349,7 @@ so would a nerimris imply a widening? or would it be moner?
 
 Ah, interesting question! Let's think about the directionality. Given our established patterns:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Directional Oppositions
 
 1. Basic Pattern:
@@ -8571,7 +8571,7 @@ first time a verbal form is mentioned. let's discuss that in a bit. for now can 
 
 Yes! Let's add these directional terms to both documents. Here's how I'd structure it:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Directional Terms
 
 #### Basic Directionals
@@ -9957,7 +9957,7 @@ btw let's integrate the Verbal System into the Morphology section of @early-hick
 
 Yes, that sentence structure works well! Let's add the Verbal System to the Morphology section:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Verbal System
 
 #### Basic Verbalizer
@@ -12940,7 +12940,7 @@ I think we should make it clear in the morphology section of this document our e
 
 You're absolutely right. We should clarify the ergative-absolutive alignment and ensure consistency. Let's update the morphology section:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ## Morphology
 
 ### Case System
@@ -13192,7 +13192,8 @@ But examples show variations:
 - Need to clarify if they're the same system or separate
 
 4. **Suggested Revision**:
-````markdown:site/content/languages/hick/early-hick.md
+
+````markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Case and Reference System
 
 #### Core Cases
@@ -13664,7 +13665,7 @@ Here's how you might structure this:
 ````markdown
 # Lexicon
 
-For a comprehensive list of Early Hick vocabulary, see the [Early Hick Lexicon](@/languages/hick/early-hick-lexicon.md).
+For a comprehensive list of Early Hick vocabulary, see the [Early Hick Lexicon](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck-lexicon.md).
 
 Key semantic fields include:
 - Natural World (water, land features)
@@ -13689,7 +13690,7 @@ tags = ["languages", "pre-kalassarian", "senera", "lexicon", "vocabulary"]
 
 # Early Hick Lexicon
 
-This document contains the known vocabulary of Early Hick, organized by semantic fields. For grammatical information and language overview, see [Early Hick](@/languages/hick/early-hick.md).
+This document contains the known vocabulary of Early Hick, organized by semantic fields. For grammatical information and language overview, see [Early Hick](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck.md).
 
 ## Core Semantic Fields
 
@@ -13718,7 +13719,7 @@ please generate the early hick lexicon from @_index.md to @lexicon.md  ensure th
 
 I'll help create a new `lexicon.md` file with all lexical content from `_index.md`, organized according to our agreed structure. First, let me confirm the structure:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -13730,7 +13731,7 @@ tags = ["languages", "pre-kalassarian", "senera", "lexicon", "vocabulary"]
 
 # Early Hick Lexicon
 
-For grammatical information and language overview, see [Early Hick](@/languages/hick/early-hick/_index.md).
+For grammatical information and language overview, see [Early Hick](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md).
 
 ## Core Semantic Fields
 
@@ -13769,7 +13770,7 @@ Would you like me to:
 
 Perfect, let me demonstrate how to handle those aspects first, then we'll organize the full lexicon:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -13781,7 +13782,7 @@ tags = ["languages", "pre-kalassarian", "senera", "lexicon", "vocabulary"]
 
 # Early Hick Lexicon
 
-For grammatical information and language overview, see [Early Hick](@/languages/hick/early-hick/_index.md).
+For grammatical information and language overview, see [Early Hick](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md).
 
 ## Usage Notes
 
@@ -13862,7 +13863,7 @@ please proceed with the complete lexicon
 
 I'll start organizing the complete lexicon. Given the length, I'll break it into manageable sections. Here's the first part:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -13874,7 +13875,7 @@ tags = ["languages", "pre-kalassarian", "senera", "lexicon", "vocabulary"]
 
 # Early Hick Lexicon
 
-For grammatical information and language overview, see [Early Hick](@/languages/hick/early-hick/_index.md).
+For grammatical information and language overview, see [Early Hick](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md).
 
 ## Usage Notes
 
@@ -14588,8 +14589,8 @@ Yes! Let's add cross-references to the relevant rules in the _index.md file:
 For the actual lexicon.md file, we'd use full paths:
 
 ````markdown
-   → mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-   → tor-mur ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+   → mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+   → tor-mur ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
 ````
 
 
@@ -14615,23 +14616,23 @@ Ah yes, for Zola we need to use the correct internal link format. Here's the cor
 ### Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" 
      < Proto-Hick \*muru-meru "night-bird"
-     → mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     → mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
    
    - tomur [to.mur] "great owl, eagle owl" 
      < Proto-Hick \*toru-muru-meru "great-night-bird"
-     → tor-mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → tor-mur ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
-     → tomur ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
+     → tor-mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → tor-mur ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
+     → tomur ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
    
    - thurmur [θur.mur] "dusk owl" 
      < Proto-Hick \*thuru-muru-meru "dusk-night-bird"
-     → thur-mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → thurmur ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     → thur-mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → thurmur ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
    
    See also:
-   - [Size and Intensity Markers](@/languages/hick/early-hick/_index.md#size-and-intensity-markers)
-   - [Time Terms](@/languages/hick/early-hick/_index.md#time-terms)
-   - [Compound Formation](@/languages/hick/early-hick/_index.md#compound-formation)
+   - [Size and Intensity Markers](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#size-and-intensity-markers)
+   - [Time Terms](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#time-terms)
+   - [Compound Formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation)
 ````
 
 This uses Zola's `@/` prefix for internal links. Would you like me to:
@@ -14660,28 +14661,28 @@ I'll start applying the full derivational history, sound changes, and cross-refe
 1. Elements
    - ai [ai] "water" 
      < Proto-Hick \*ahi
-     → ai ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     → ai ([vowel coalescence](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
      See: [Maritime Terms](#maritime-terms), [Water Features](#water-features)
 
    - gral [gral] "earth, soil" 
      < Proto-Hick \*gralu
-     → gral ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → gral ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Landscape Terms](#landscape-terms)
 
 2. Water Features
    - mal [mal] "pool, standing water" 
      < Proto-Hick \*malu
-     → mal ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mal ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 
    - mater [ma.ter] "stream" 
      < mal-ter "pool-flow"
-     → mater ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
+     → mater ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
 
    - bramal [bra.mal] "tidal pool" 
      < Proto-Hick \*bramu-malu
-     → bram-mal ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → bramal ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → bram-mal ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → bramal ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 ````
 
 
@@ -14715,72 +14716,72 @@ I'll continue systematically, making sure to preserve every entry while adding t
 3. Landforms
    - tor [tor] "height, peak" 
      < Proto-Hick \*toru
-     → tor ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → tor ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Augmentative Prefix](#augmentativediminutive)
 
    - thrantor [θran.tor] "mountain range" 
      < Proto-Hick \*thranu-toru "thousand peaks"
-     → thran-tor ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → thrantor ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → thran-tor ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → thrantor ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - val [val] "valley" 
      < Proto-Hick \*valu
-     → val ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → val ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - nagral [na.gral] "black earth" 
      < nal-gral "black-earth"
-     → nagral ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → nagral ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - thragral [θra.gral] "sacred earth" 
      < thral-gral "sacred-earth"
-     → thragral ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → thragral ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 ### Sacred & Ritual
 
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" 
      < Proto-Hick \*thralu
-     → thral ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thral ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
 
    - thren [θren] "watch, observe (ritual)" 
      < Proto-Hick \*threnu
-     → thren ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thren ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - wad [wad] "path, way" 
      < Proto-Hick \*wadu
-     → wad ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → wad ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 
 2. Time & Light
    - mur [mur] "night, darkness" 
      < Proto-Hick \*muru
-     → mur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Bird Terms](#bird-terms-nocturnal)
 
    - thur [θur] "dusk" 
      < Proto-Hick \*thuru
-     → thur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - bran [bran] "dawn" 
      < Proto-Hick \*branu
-     → bran ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → bran ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - thrakel [θra.kel] "sun" 
      < thral-kel "sacred-sky"
-     → thrakel ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → thrakel ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - murkel [mur.kel] "night sky" 
      < mur-kel "night-sky"
-     → murkel ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → murkel ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - thurkel [θur.kel] "evening sky" 
      < thur-kel "dusk-sky"
-     → thurkel ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → thurkel ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - brakel [bra.kel] "morning sky" 
      < bran-kel "dawn-sky"
-     → brakel ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → brakel ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 ````
 
 Would you like me to:
@@ -14814,53 +14815,53 @@ You're right - let me check against the original lexicon and start from the top,
 1. Elements
    - ai [ai] "water" 
      < Proto-Hick \*ahi
-     → ai ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     → ai ([vowel coalescence](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
      See: [Maritime Terms](#maritime-terms), [Water Features](#water-features)
 
    - gral [gral] "earth, soil" 
      < Proto-Hick \*gralu
-     → gral ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → gral ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Landscape Terms](#landscape-terms)
 
    - kel [kel] "sky" 
      < Proto-Hick \*kelu
-     → kel ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → kel ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial), [Colors](#colors)
 
    - thir [θir] "air, wind" 
      < Proto-Hick \*thiru
-     → thir ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thir ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Colors](#colors)
 
 2. Water Features
    - mal [mal] "pool, standing water" 
      < Proto-Hick \*malu
-     → mal ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mal ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 
    - mater [ma.ter] "stream" 
      < mal-ter "pool-flow"
-     → mater ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
+     → mater ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
 
    - bram [bram] "tide, tidal movement" 
      < Proto-Hick \*bramu
-     → bram ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → bram ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - keth [keθ] "sea, ocean" 
      < Proto-Hick \*kethu
-     → keth ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → keth ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - bramal [bra.mal] "tidal pool" 
      < bram-mal "tide-pool"
-     → bramal ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → bramal ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - vamal [va.mal] "spirit pool" 
      < val-mal "spirit-pool"
-     → vamal ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → vamal ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - tomal [to.mal] "lake" 
      < tor-mal "great-pool"
-     → tomal ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → tomal ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 ````
 
 Would you like me to:
@@ -14889,71 +14890,71 @@ Yes, continuing with Landforms and Sacred & Ritual, preserving all entries:
 3. Landforms
    - tor [tor] "height, peak" 
      < Proto-Hick \*toru
-     → tor ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → tor ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Augmentative Prefix](#augmentativediminutive)
 
    - thrantor [θran.tor] "mountain range" 
      < thran-tor "thousand peaks"
-     → thrantor ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → thrantor ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - val [val] "valley" 
      < Proto-Hick \*valu
-     → val ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → val ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - nagral [na.gral] "black earth" 
      < nal-gral "black-earth"
-     → nagral ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → nagral ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - thragral [θra.gral] "sacred earth" 
      < thral-gral "sacred-earth"
-     → thragral ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → thragral ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 ### Sacred & Ritual
 
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" 
      < Proto-Hick \*thralu
-     → thral ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thral ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
 
    - thren [θren] "watch, observe (ritual)" 
      < Proto-Hick \*threnu
-     → thren ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thren ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - wad [wad] "path, way" 
      < Proto-Hick \*wadu
-     → wad ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → wad ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 
 2. Time & Light
    - mur [mur] "night, darkness" 
      < Proto-Hick \*muru
-     → mur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Bird Terms](#bird-terms-nocturnal)
 
    - thur [θur] "dusk" 
      < Proto-Hick \*thuru
-     → thur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - bran [bran] "dawn" 
      < Proto-Hick \*branu
-     → bran ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → bran ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - thrakel [θra.kel] "sun" 
      < thral-kel "sacred-sky"
-     → thrakel ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → thrakel ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - murkel [mur.kel] "night sky" 
      < mur-kel "night-sky"
-     → murkel ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → murkel ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - thurkel [θur.kel] "evening sky" 
      < thur-kel "dusk-sky"
-     → thurkel ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → thurkel ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - brakel [bra.kel] "morning sky" 
      < bran-kel "dawn-sky"
-     → brakel ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → brakel ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 ````
 
 Shall I continue with Material Culture next? I'm making sure to:
@@ -14985,50 +14986,50 @@ Continuing with Material Culture:
 1. Metals
    - kur [kur] "copper" 
      < Proto-Hick \*kuru
-     → kur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → kur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - tin [tin] "tin" 
      < Proto-Hick \*tinu
-     → tin ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → tin ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - kurtin [kur.tin] "bronze" 
      < kur-tin "copper-tin"
-     → kurtin ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → kurtin ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - mar [mar] "red metal" 
      < Proto-Hick \*maru
-     → mar ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mar ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Colors](#colors)
 
    - grakur [gra.kur] "grey copper" 
      < gra-kur "grey-copper"
-     → grakur ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → grakur ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 2. Maritime Terms
    - mater [ma.ter] "vessel" 
      < mal-ter "pool-flow"
-     → mater ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
+     → mater ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
 
    - materok [ma.te.rok] "vessel-guide, boatman" 
      < mater-ok "vessel-AGENT"
-     → materok ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → materok ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
      See: [Agentive Suffix](#agentive-suffix)
 
    - rismater [ris.ma.ter] "reed-vessel" 
      < ris-mater "reed-vessel"
-     → rismater ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → rismater ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - wudmater [wud.ma.ter] "wood-vessel" 
      < wud-mater "wood-vessel"
-     → wudmater ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → wudmater ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - brammater [bram.ma.ter] "river-vessel" 
      < bram-mater "tide-vessel"
-     → brammater ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → brammater ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - kethmater [keθ.ma.ter] "sea-vessel" 
      < keth-mater "sea-vessel"
-     → kethmater ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → kethmater ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 Example:
 materok-el rismater-im-ris keth-es ward-ter
@@ -15068,68 +15069,68 @@ Continuing with Flora & Fauna:
 1. Plants
    - ris [ris] "reed" 
      < Proto-Hick \*risu
-     → ris ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → ris ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 
    - wud [wud] "wood, tree" 
      < Proto-Hick \*wudu
-     → wud ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → wud ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 
    - gras [gras] "grass" 
      < Proto-Hick \*grasu
-     → gras ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → gras ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Animals
    - nes [nes] "fish" 
      < Proto-Hick \*nesu
-     → nes ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → nes ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - mer [mer] "bird" 
      < Proto-Hick \*meru
-     → mer ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mer ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Bird Terms](#bird-terms-nocturnal)
 
    - pel [pel] "bear" 
      < Proto-Hick \*pelu
-     → pel ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → pel ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - sak [sak] "wolf" 
      < Proto-Hick \*saku
-     → sak ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → sak ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - ren [ren] "deer" 
      < Proto-Hick \*renu
-     → ren ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → ren ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" 
      < Proto-Hick \*muru-meru "night-bird"
-     → mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     → mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
    
    - tomur [to.mur] "great owl, eagle owl" 
      < Proto-Hick \*toru-muru-meru "great-night-bird"
-     → tor-mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → tor-mur ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
-     → tomur ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → tor-mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → tor-mur ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
+     → tomur ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
    
    - thurmur [θur.mur] "dusk owl" 
      < Proto-Hick \*thuru-muru-meru "dusk-night-bird"
-     → thur-mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → thurmur ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     → thur-mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → thurmur ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
    
    - limur [li.mur] "small night-bird, small owl"
      < Proto-Hick \*li-muru-meru "small-night-bird"
-     → li-mur-mer ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
-     → limur ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     → li-mur-mer ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
+     → limur ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
 
    - murlis [mur.lis] "night-eye" 
      < mur-lis "night-eye"
-     → murlis ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → murlis ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - murkran [mur.kran] "night-horn" 
      < mur-kran "night-horn"
-     → murkran ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → murkran ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 ````
 
 
@@ -15165,27 +15166,27 @@ Continuing with Colors and Time & Celestial:
 ### Colors
    - gra [gra] "grey" 
      < Proto-Hick \*grau
-     → gra ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     → gra ([vowel coalescence](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
      See: [Metals](#metals)
 
    - mar [mar] "red" 
      < Proto-Hick \*maru
-     → mar ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mar ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Metals](#metals)
 
    - kel [kel] "blue" 
      < Proto-Hick \*kelu
-     → kel ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → kel ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Same as "sky", See: [Elements](#elements)
 
    - thir [θir] "white" 
      < Proto-Hick \*thiru
-     → thir ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thir ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Same as "air", See: [Elements](#elements)
 
    - nal [nal] "black" 
      < Proto-Hick \*nalu
-     → nal ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → nal ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Same as "river"
 
 ### Time & Celestial
@@ -15193,38 +15194,38 @@ Continuing with Colors and Time & Celestial:
 1. Time Periods
    - thral [θral] "day" 
      < Proto-Hick \*thralu
-     → thral ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thral ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Same as "sacred", See: [Sacred & Ritual](#sacred--ritual)
 
    - mur [mur] "night" 
      < Proto-Hick \*muru
-     → mur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → mur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Same as "darkness", See: [Bird Terms](#bird-terms-nocturnal)
 
    - bran [bran] "dawn" 
      < Proto-Hick \*branu
-     → bran ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → bran ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
    - thur [θur] "dusk" 
      < Proto-Hick \*thuru
-     → thur ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     → thur ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Celestial Bodies
    - thrakel [θra.kel] "sun" 
      < thral-kel "sacred-sky"
-     → thrakel ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → thrakel ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
    - murkel [mur.kel] "night sky" 
      < mur-kel "night-sky"
-     → murkel ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → murkel ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - thurkel [θur.kel] "evening sky" 
      < thur-kel "dusk-sky"
-     → thurkel ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → thurkel ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - brakel [bra.kel] "morning sky" 
      < bran-kel "dawn-sky"
-     → brakel ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     → brakel ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 ````
 
 
@@ -15265,29 +15266,29 @@ Continuing with Derivational Patterns:
 1. Compound Formation
    - Element + Element: 
      kurtin "bronze" < kur-tin "copper-tin"
-     → kurtin ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → kurtin ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - Descriptor + Element: 
      grakur "grey copper" < gra-kur "grey-copper"
-     → grakur ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → grakur ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - Location + Base: 
      brammater "river-vessel" < bram-mater "tide-vessel"
-     → brammater ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → brammater ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 2. Augmentative/Diminutive
    - tor- prefix for "great": 
      tornes "whale" < tor-nes "great-fish"
-     → tornes ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → tornes ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
    - li- prefix for "small": 
      limal "pond" < li-mal "small-pool"
-     → limal ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → limal ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 3. Agentive Suffix
    - -ok suffix for person/agent: 
      materok "boatman" < mater-ok "vessel-AGENT"
-     → materok ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     → materok ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 ## Sound Changes in Compounds
 
@@ -15295,18 +15296,18 @@ Continuing with Derivational Patterns:
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
    - thral-gral → thragral "sacred earth"
-   See: [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
+   See: [Late Hick Sound Changes](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 
 2. Nasal Deletion
    - bram-mal → bramal "tidal pool"
    - bran-kel → brakel "morning sky"
-   See: [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+   See: [Sound Changes in Compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds)
 
 3. Compound Simplification
    - tor-mur-mer → tomur "great owl"
    - thur-mur-mer → thurmur "dusk owl"
    - li-mur-mer → limur "small owl"
-   See: [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+   See: [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification)
 ````
 
 
@@ -15688,7 +15689,7 @@ See: [Vowel Allophony](#vowel-allophony) for positional variants
 - Basic Pattern: (C)(C)V(C)(C)
 - Special Pattern: (C)(C)VV for permitted diphthongs
 - Stress: Initial syllable unless marked
-See: [Stress Patterns](@/languages/hick/early-hick/prosody.md)
+See: [Stress Patterns](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/prosody.md)
 
 ### Consonant Clusters
 
@@ -15705,7 +15706,7 @@ See: [Stress Patterns](@/languages/hick/early-hick/prosody.md)
 | Common  | /-st, -sk, -sp/ | mest, risk, lisp |
 | Limited | /-ks, -ls, -rs/ | teks, mals, tors |
 
-See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)
+See: [Sound Changes in Compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/compounds.md)
 
 ### Vowel Sequences
 1. Permitted Diphthongs:
@@ -15736,7 +15737,7 @@ The vowel /a/ surfaces as [ə]:
 3. In grammatical prefixes:
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix)
-   See: [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+   See: [Morphological Prefixes](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/morphology.md#prefixes)
 
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -15747,7 +15748,7 @@ The vowel /a/ surfaces as [ə]:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds
-  See: [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+  See: [Sacred Terminology](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/lexicon.md#sacred--ritual)
 
 ### Consonant Allophony
 [Section to be added]
@@ -16744,22 +16745,22 @@ there seems to be a mistake. there is no imur prefix. there is an imur word that
 
 Ah yes, you're right! Let me help add the missing imur- related terms to the lexicon. We should add them under a new "Negation and Opposition" section:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
    - imur [i.mur] "evil, negative force" < Proto-Hick *imuru → imur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - mo [mo] "not, negative" < Proto-Hick *moʔ → mo
-     ([glottal loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([glottal loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Compound Terms
    - imurmal [i.mur.mal] "evil pool, dangerous waters" < imur-mal → imurmal
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurtor [i.mur.tor] "evil peak, forbidden mountain" < imur-tor → imurtor
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurwad [i.mur.wad] "evil path, dangerous route" < imur-wad → imurwad
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 3. Usage Examples
    - imur-thir-es thral-ʔer evil-KNOWN.ANIM-ABS sacred-ACT 
@@ -16785,26 +16786,26 @@ sure, but we're also missing imurthral and mothral
 
 Ah yes, you're right! Let me add those terms to the Negation and Opposition section in the lexicon:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
    - imur [i.mur] "evil, negative force" < Proto-Hick *imuru → imur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - mo [mo] "not, negative" < Proto-Hick *moʔ → mo
-     ([glottal loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([glottal loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Compound Terms
    - imurmal [i.mur.mal] "evil pool, dangerous waters" < imur-mal → imurmal
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurtor [i.mur.tor] "evil peak, forbidden mountain" < imur-tor → imurtor
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurwad [i.mur.wad] "evil path, dangerous route" < imur-wad → imurwad
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurthral [i.mur.θral] "evil day, cursed time" < imur-thral → imurthral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - mothral [mo.θral] "non-sacred, profane" < mo-thral → mothral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 3. Usage Examples
    - imur-thir-es thral-ʔer evil-KNOWN.ANIM-ABS sacred-ACT 
@@ -16892,37 +16893,37 @@ Would you like me to:
 
 Looking at the commit, let me help add the missing `imur` terms and clarify the semantic relationships for `thir` and `kel`:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
    - imur [i.mur] "evil, negative force" < Proto-Hick *imuru → imur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      See: [Sacred Terms](#sacred--ritual)
    - mo [mo] "not, negative" < Proto-Hick *moʔ → mo
-     ([glottal loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([glottal loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Compound Terms with imur-
    - imurmal [i.mur.mal] "evil pool, cursed waters" < imur-mal → imurmal
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurtor [i.mur.tor] "evil peak, forbidden mountain" < imur-tor → imurtor
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurwad [i.mur.wad] "evil path, dangerous route" < imur-wad → imurwad
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurthral [i.mur.θral] "evil day, cursed time" < imur-thral → imurthral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 ````
 
 And for the Elements section, clarifying the primary meanings:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Elements
    - thir [θir] "air, wind" < Proto-Hick *thiru → thir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Also means "white" by semantic extension, See: [Colors](#colors)
 
    - kel [kel] "sky" < Proto-Hick *kelu → kel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Also means "blue" by semantic extension, See: [Colors](#colors)
 ````
 
@@ -16944,22 +16945,22 @@ Ah, you're right! `mo-` is an affix, not a standalone word. It should be documen
 
 So in the lexicon, we should only have `imur` and its compounds:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
    - imur [i.mur] "evil, negative force" < Proto-Hick *imuru → imur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Compound Terms
    - imurmal [i.mur.mal] "evil pool, cursed waters" < imur-mal → imurmal
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurtor [i.mur.tor] "evil peak, forbidden mountain" < imur-tor → imurtor
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurwad [i.mur.wad] "evil path, dangerous route" < imur-wad → imurwad
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
    - imurthral [i.mur.θral] "evil day, cursed time" < imur-thral → imurthral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 ````
 
 The `mo-` prefix should be documented in _index.md with the other grammatical affixes. Would you like me to:
@@ -16999,7 +17000,7 @@ yes let's fix the negation system and continue
 
 Looking at _index.md, we should correct the Negation System section to remove `imur` (since it's a lexical item) and properly document `mo-` as an affix:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Negation System
 1. Basic Negation
    - mo- [mo]: general negation prefix
@@ -17029,7 +17030,7 @@ The goal is to ensure we have a clear distinction between grammatical elements i
 
 Looking at _index.md, let's continue with the morphology sections. After the Negation System, we should document any remaining nominal morphology patterns:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Negation System
 1. Basic Negation
    - mo- [mo]: general negation prefix
@@ -17074,7 +17075,7 @@ wait, sorry. I don't believe we specified locative markings. istel, ethtel and u
 
 Ah yes, you're right! Let me help clarify the Locative Marking section in _index.md. We should remove the incorrect `-tel` suffix and document the actual locative markers:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
 
 1. Basic Spatial Markers
@@ -17109,7 +17110,7 @@ removed section for locative marking. let's continue with generation
 
 Yes, you're right. Looking at _index.md, let's continue documenting the morphology sections, keeping in mind that locatives are part of the spatial reference system:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
 
 1. Basic Spatial Markers
@@ -17183,7 +17184,7 @@ The goal is to maintain a clear distinction between grammatical elements (in _in
 
 Looking at the commit, we should continue documenting the remaining morphological sections in _index.md. After the Negation System, we have:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbal Morphology
 
 1. Basic Verbalizer
@@ -17231,7 +17232,7 @@ Would you like me to:
 
 Looking at the commit, let's continue with the morphological sections in _index.md. After the Verbal Morphology section, we should have:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbal Morphology
 
 1. Basic Verbalizer
@@ -17307,7 +17308,7 @@ Derivational Morphology
 
 You're absolutely right! Let me help reorganize the sections in _index.md according to the outline:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 # Core Grammar
 
 ## Case System
@@ -17350,7 +17351,7 @@ we;re in the Derivational Morphology section already actually
 
 Ah, you're right! Looking at the commit and outline, we're in the Derivational Morphology section. Let's continue documenting the remaining parts:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Derivational Morphology
 
 1. Similarity Prefix (ka-)
@@ -17396,7 +17397,7 @@ you seem to have incorrectly applied headings for @_index.md
 
 You're right - looking at the commit, the headings in _index.md should follow the outline structure:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Derivational Morphology
 
 1. Similarity Prefix

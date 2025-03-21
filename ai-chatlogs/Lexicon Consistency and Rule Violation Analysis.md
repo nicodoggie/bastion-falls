@@ -238,7 +238,7 @@ pelase apply the corrected forms into the document
 I'll show the necessary edits to maintain consistency with compound formation 
 rules. Here are the key changes needed:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 // ... existing code ...
 
 #### Common Compounds
@@ -314,7 +314,7 @@ please add derivation steps in the definition lists
 
 I'll add derivation steps to show the compound formation processes:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 // ... existing code ...
 
 #### Common Compounds
@@ -397,7 +397,7 @@ Would you like me to:
 I'll systematically go through all compounds, adding derivation steps and 
 checking for rule consistency. Let me start with the first set of corrections:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Sacred and Celestial Terms
 
 <dl>
@@ -503,7 +503,7 @@ let's add a small explainer in the "Specific Owl Types" section about the simpli
 Yes, I'll add an explanation about the compound simplification pattern in owl 
 terminology:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 #### Specific Owl Types
 
 These terms demonstrate compound simplification, where the general term 'mer' 
@@ -555,7 +555,7 @@ simplification?
 
 Continuing with the remaining compounds:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Related Terms
 
 <dl>
@@ -657,7 +657,7 @@ Would you like me to:
 Let me check for any remaining compounds, particularly in the similarity prefix 
 and size/intensity marker sections:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 #### Similarity Prefix Examples
 
 <dl>
@@ -872,7 +872,7 @@ modern seneran (extensive contact with apgarian kingdoms): 900s AI to present da
 Let me revise the historical development timeline and its implications for 
 sound changes:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 # Historical Development
 
 ## Early Hick (prehistory to ~300 PF)
@@ -1087,7 +1087,7 @@ I like it. let's do the following:
 
 I'll help revise the content for middle-hick.md:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 +++
 title = "Middle Hick"
 weight = 2
@@ -1204,7 +1204,7 @@ Would you like me to:
 
 I'll add more Old Iutlandish (OI) borrowings, grouped by semantic domains:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 // ... existing content ...
 
 ### Additional Maritime Borrowings
@@ -1299,7 +1299,7 @@ can we also add words for bronze age metals in early hick? then iron age metals 
 Yes! Let's add native metal terms to Early Hick and borrowed iron-working 
 terms in Middle Hick:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Metal Terms
 
 <dl>
@@ -1320,7 +1320,7 @@ terms in Middle Hick:
 </dl>
 ```
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 ### Metal-Working Terms
 
 <dl>
@@ -2682,7 +2682,7 @@ Derived from Kalassarian "hiccus" [hik.kus] meaning "local, native":
 
 # See Also
 - [Early Hick](@/languages/hickic/early-hick.md)
-- [Middle Hick](@/languages/hick/middle-hick.md)
+- [Middle Hick](@/languages/hickic/seneran/middle-hick.md)
 - [Seneran](@/languages/seneran.md)
 ```
 
@@ -3281,7 +3281,7 @@ hmm that's odd. trying to add it again now
 
 Now I can see the file! Let's revise some of these terms to consistently apply our repair strategies. Here are some key changes needed:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 # Lexicon
 
 ## Maritime Borrowings
@@ -6189,7 +6189,7 @@ let's develop a negation marker for @early-hick.md , perhaps as a cognate of [mu
 
 Yes! We can develop a negation system from the 'mur' ("night, darkness, absence") root. This would be semantically natural and fits well with the existing phonological patterns:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Negation System
 
 #### Basic Negator
@@ -6286,7 +6286,7 @@ do any of these make sense?
 
 Yes! This is a very naturalistic development path. Let's detail it:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of Negation from Proto-Hick *hi-mur
 
 #### Historical Stages
@@ -6379,7 +6379,7 @@ let's integrate the early hick words and affixes to the appropriate sections of 
 
 I'll help integrate these elements into the document. Let's focus on the negation system first, as it's a significant development. Here's how we can organize it:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Negation System
 
 #### Historical Development
@@ -6624,7 +6624,7 @@ how would a th develop from proto-hick? could there have been a case for a denta
 
 Yes! We could derive the Early Hick /θ/ from Proto-Hick through dental articulation of /t/. Here's a possible development path:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of Dental Fricative /θ/
 
 #### Proto-Hick to Early Hick
@@ -6721,7 +6721,7 @@ ok from this, what would `thral` be in protohick?
 
 Based on the sound changes we established, Proto-Hick *tral would develop into Early Hick θral. Let's trace this:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of *tral > θral
 
 1. Proto-Hick Form:
@@ -6790,7 +6790,7 @@ ok so let's derive the word for "good" as hi.tral [ANIM.tral] and develop it int
 
 Yes! Let's trace how Proto-Hick *hi-tral would develop, following our established patterns for both animacy marking and the dental fricative:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of *hi-tral "good, blessed"
 
 #### Proto-Hick Stage
@@ -6875,7 +6875,7 @@ do we have a lot of word initial glottal fricatives in our early hick?
 
 Looking at our Early Hick inventory, we should probably be consistent with how we handle word-initial /h/. Let's examine the patterns we've established:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of Initial /h/
 
 #### Proto-Hick Animacy Prefix *hi-
@@ -6949,7 +6949,7 @@ what are our cases for choosing any of those 3 options? that last one seems inco
 
 You're right - the pitch-based Pattern 3 doesn't fit well with our established phonological inventory. Let's analyze the merits of each pattern:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Analysis of *hi- Development Patterns
 
 #### Pattern 1: hi.CV > ʔV
@@ -7033,7 +7033,7 @@ let's do pattern 1. also, it seems like we're mostly removing word-initial h. is
 
 You raise a good point. If we're systematically removing word-initial /h/ and don't have /h/ codas, we should probably reconsider having /h/ in our phonological inventory at all. Let's analyze this:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Distribution of /h/ in Early Hick
 
 #### Word-Initial Position
@@ -7121,7 +7121,7 @@ let's show 2 so that we can say for sure. I do like having h in the modern sener
 
 Yes! Let's trace both the Proto-Hick loss of /h/ and its later reintroduction in Seneran:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Proto-Hick *h Development
 
 #### Word-Initial Loss
@@ -7330,7 +7330,7 @@ any middle hick pathways from iutlandish?
 
 Yes! Iutlandish influence during the Middle Hick period could provide additional pathways for /h/, especially in maritime vocabulary:
 
-```markdown:site/content/languages/hick/middle-hick.md
+```markdown:site/@/languages/hickic/seneran/middle-hick.md
 ### Iutlandish Influence on Middle Hick /h/
 
 #### From Iutlandish Initial /h/
@@ -7873,7 +7873,7 @@ let's document ethral as "good" in early hick, add "ka-ethral" as good-like, the
 
 Yes! Let's trace this development through all stages:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Development of 'Good/Goodness'
 
 #### Early Hick Forms
@@ -8354,7 +8354,7 @@ I do like the name "the Narrows". if we derived it from an early hick word.. wha
 
 Let's develop this! We could create a natural derivation for "Narrows" from Early Hick. Here are some possibilities:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Spatial Narrowing/Widening
 
 #### Proto-Hick Root
@@ -8446,7 +8446,7 @@ so would a nerimris imply a widening? or would it be moner?
 
 Ah, interesting question! Let's think about the directionality. Given our established patterns:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Directional Oppositions
 
 1. Basic Pattern:
@@ -8671,7 +8671,7 @@ first time a verbal form is mentioned. let's discuss that in a bit. for now can 
 
 Yes! Let's add these directional terms to both documents. Here's how I'd structure it:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Directional Terms
 
 #### Basic Directionals
@@ -10075,7 +10075,7 @@ btw let's integrate the Verbal System into the Morphology section of @early-hick
 
 Yes, that sentence structure works well! Let's add the Verbal System to the Morphology section:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Verbal System
 
 #### Basic Verbalizer
@@ -13099,7 +13099,7 @@ I think we should make it clear in the morphology section of this document our e
 
 You're absolutely right. We should clarify the ergative-absolutive alignment and ensure consistency. Let's update the morphology section:
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ## Morphology
 
 ### Case System
@@ -13354,7 +13354,8 @@ But examples show variations:
 - Need to clarify if they're the same system or separate
 
 4. **Suggested Revision**:
-````markdown:site/content/languages/hick/early-hick.md
+
+````markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Case and Reference System
 
 #### Core Cases
@@ -13887,7 +13888,7 @@ please generate the early hick lexicon from @_index.md to @lexicon.md  ensure th
 
 I'll help create a new `lexicon.md` file with all lexical content from `_index.md`, organized according to our agreed structure. First, let me confirm the structure:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -13939,7 +13940,7 @@ Would you like me to:
 
 Perfect, let me demonstrate how to handle those aspects first, then we'll organize the full lexicon:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -14033,7 +14034,7 @@ please proceed with the complete lexicon
 
 I'll start organizing the complete lexicon. Given the length, I'll break it into manageable sections. Here's the first part:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 +++
 title = "Early Hick Lexicon"
 description = "Comprehensive vocabulary of Early Hick, with etymologies and semantic relationships"
@@ -16962,7 +16963,7 @@ there seems to be a mistake. there is no imur prefix. there is an imur word that
 
 Ah yes, you're right! Let me help add the missing imur- related terms to the lexicon. We should add them under a new "Negation and Opposition" section:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
@@ -17004,7 +17005,7 @@ sure, but we're also missing imurthral and mothral
 
 Ah yes, you're right! Let me add those terms to the Negation and Opposition section in the lexicon:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
@@ -17114,7 +17115,7 @@ Would you like me to:
 
 Looking at the commit, let me help add the missing `imur` terms and clarify the semantic relationships for `thir` and `kel`:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
@@ -17137,7 +17138,7 @@ Looking at the commit, let me help add the missing `imur` terms and clarify the 
 
 And for the Elements section, clarifying the primary meanings:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Elements
    - thir [θir] "air, wind" < Proto-Hick *thiru → thir
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -17167,7 +17168,7 @@ Ah, you're right! `mo-` is an affix, not a standalone word. It should be documen
 
 So in the lexicon, we should only have `imur` and its compounds:
 
-````markdown:site/content/languages/hick/early-hick/lexicon.md
+````markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
@@ -17224,7 +17225,7 @@ yes let's fix the negation system and continue
 
 Looking at _index.md, we should correct the Negation System section to remove `imur` (since it's a lexical item) and properly document `mo-` as an affix:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Negation System
 1. Basic Negation
    - mo- [mo]: general negation prefix
@@ -17255,7 +17256,7 @@ The goal is to ensure we have a clear distinction between grammatical elements i
 
 Looking at _index.md, let's continue with the morphology sections. After the Negation System, we should document any remaining nominal morphology patterns:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Negation System
 1. Basic Negation
    - mo- [mo]: general negation prefix
@@ -17301,7 +17302,7 @@ wait, sorry. I don't believe we specified locative markings. istel, ethtel and u
 
 Ah yes, you're right! Let me help clarify the Locative Marking section in _index.md. We should remove the incorrect `-tel` suffix and document the actual locative markers:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
 
 1. Basic Spatial Markers
@@ -17337,7 +17338,7 @@ removed section for locative marking. let's continue with generation
 
 Yes, you're right. Looking at _index.md, let's continue documenting the morphology sections, keeping in mind that locatives are part of the spatial reference system:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
 
 1. Basic Spatial Markers
@@ -17413,7 +17414,7 @@ The goal is to maintain a clear distinction between grammatical elements (in _in
 
 Looking at the commit, we should continue documenting the remaining morphological sections in _index.md. After the Negation System, we have:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbal Morphology
 
 1. Basic Verbalizer
@@ -17462,7 +17463,7 @@ Would you like me to:
 
 Looking at the commit, let's continue with the morphological sections in _index.md. After the Verbal Morphology section, we should have:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbal Morphology
 
 1. Basic Verbalizer
@@ -17539,7 +17540,7 @@ Derivational Morphology
 
 You're absolutely right! Let me help reorganize the sections in _index.md according to the outline:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 # Core Grammar
 
 ## Case System
@@ -17583,7 +17584,7 @@ we;re in the Derivational Morphology section already actually
 
 Ah, you're right! Looking at the commit and outline, we're in the Derivational Morphology section. Let's continue documenting the remaining parts:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Derivational Morphology
 
 1. Similarity Prefix (ka-)
@@ -17630,7 +17631,7 @@ you seem to have incorrectly applied headings for @_index.md
 
 You're right - looking at the commit, the headings in _index.md should follow the outline structure:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Derivational Morphology
 
 1. Similarity Prefix

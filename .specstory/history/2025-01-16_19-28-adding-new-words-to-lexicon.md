@@ -18,7 +18,7 @@ I'll help you add the entry for "rok" in both formats. Based on the existing ent
 
 For lexicon.md, it should go in the Animals section (around line 1035):
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - rok [rok] "horse" < Sindarin roch → rok
   ([borrowed term](@/languages/hickic/early-hick/_index.md#eldrim-borrowings))
   Note: Shows elvish introduction of horses See: [Animal Terms](#animal-terms)
@@ -81,7 +81,7 @@ _**Assistant**_
 
 I'll help add the compound word "sinthir" in both formats. Based on the existing entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - sinthir [sin.θir] "fly" < sin-thir "float-air" → sinthir
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of floating motion to aerial movement. See: 
@@ -155,7 +155,7 @@ _**Assistant**_
 
 I'll help add the word "ul" in both formats. Since it's a basic term that's also the source of a grammatical marker, it should be formatted carefully:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ul [ul] "grasp; possess, own" < Proto-Hick *ʔulu → ul
   ([initial glottal loss, final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Source of possessive suffix -ul through grammaticalization. Forms verb 
@@ -246,7 +246,7 @@ _**Assistant**_
 
 I'll help add "hisimris" in both formats, following the pattern of other case-derived terms:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - hisimris [hi.sim.ris] "show" < his-imris "sight-ELL" → hisimris
   ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Shows productive use of ellative case for causative meanings. Forms verb 
@@ -332,7 +332,7 @@ Yes, we could add a compound prefix telran- to specifically indicate "only" by c
 
 Let's add this to both files:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - telran- [tel.ran] "only" < tel-ran "end-PART" → telran
   ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Specialized compound prefix disambiguating "only" meaning from general 

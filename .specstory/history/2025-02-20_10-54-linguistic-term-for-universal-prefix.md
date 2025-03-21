@@ -20,7 +20,7 @@ This type of prefix would be called a "universal quantifier" or "universal marke
 
 Let me help add this to the document. I'll add it under the Number Marking section:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 ### Number Marking
@@ -70,7 +70,7 @@ _**Assistant**_
 
 For universal quantifiers like masin-, the Leipzig Glossing Rules use "UNIV" (universal) as the standard abbreviation. Here's how we can add glossed examples:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 // ... existing code ...
 
 2. Universal Prefix masin- (< Proto-Hick *masinu "complete")

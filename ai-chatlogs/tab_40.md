@@ -19,7 +19,7 @@ Based on the available documentation, I notice several patterns that could help 
 
 2. I suggest adding a new section in `early-hick/_index.md` after the Morphology section:
 
-```markdown:site/content/languages/hick/early-hick/_index.md
+```markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 # Syntax
 
 ## Basic Clause Structure
@@ -89,7 +89,7 @@ I don't think we would have a strict word order, but maybe we can work that in w
 
 Ah, that's a good point! Looking at the examples and cultural context, a more fluid word order system that interacts with voice/TAM marking makes sense. Let me revise the proposal:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 # Syntax
 
 ## Clause Structure and Word Order
@@ -179,7 +179,7 @@ Ah, you're absolutely right - I made an incorrect connection there. Looking at t
 
 Let me revise that section to remove the confusion between agentive nominalization and voice:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Clause Structure and Word Order
 
 1. Basic Patterns
@@ -236,7 +236,7 @@ yes please
 
 I'll revise to better separate these concepts and show how they interact in clauses:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Core Grammar
 
 ### Agentive Marking
@@ -322,7 +322,7 @@ you mark the ?er verbalizer as making active verbs, but you seem to be ignoring 
 
 Ah, you're absolutely right! Looking at examples like `thral-ʔer` "to be sacred", these are clearly stative verbs, not active ones. Let me revise to better reflect this:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbal System
 
 1. Verbalizer
@@ -393,7 +393,7 @@ Would you like me to draft a section on adjectivals to explore these patterns?
 
 Ah, I see - let me propose a section on adjectival morphology that ties together what we're seeing with property concepts and the -ʔer verbalizer:
 
-````markdown:site/content/languages/hick/early-hick/_index.md
+````markdown:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Adjectival Morphology
 
 1. Basic Properties
@@ -498,7 +498,7 @@ I don't see the adjectival morphology section in the provided code snippets from
 
 1. Verbalizer section:
 
-```794:801:site/content/languages/hick/early-hick/_index.md
+```794:801:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Verbal Morphology
 
 ### Verbalizer
@@ -512,7 +512,7 @@ I don't see the adjectival morphology section in the provided code snippets from
 
 2. Derivational morphology section (which includes some relevant affixes):
 
-```825:861:site/content/languages/hick/early-hick/_index.md
+```825:861:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Derivational Morphology
 - Basic Pattern: modifier-head
 ### Similarity Prefix
@@ -567,7 +567,7 @@ currently starts at line 567
 I see - let me check the provided code for the adjectival morphology section. Looking at the line numbers:
 
 
-```567:588:site/content/languages/hick/early-hick/_index.md
+```567:588:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Adjectival Morphology
 
 Early Hick has no true adjective class. Quality concepts are expressed through:
@@ -608,7 +608,7 @@ Looking at the code, I notice several inconsistencies that need to be addressed.
 
 1. The verbalizer -ʔer is described inconsistently:
 
-```331:338:site/content/languages/hick/early-hick/_index.md
+```331:338:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbal System
 
 1. Verbalizer
@@ -621,7 +621,7 @@ Looking at the code, I notice several inconsistencies that need to be addressed.
 
 and again at:
 
-```796:801:site/content/languages/hick/early-hick/_index.md
+```796:801:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
    - materokel rismaterimris "the boatman exits the reed boat"
 - -ʔer [ʔer]: creates active verbs Examples:
@@ -633,7 +633,7 @@ and again at:
 
 Both sections describe it as creating "active verbs", but we see examples of stative usage in the lexicon:
 
-```661:669:site/content/languages/hick/early-hick/lexicon.md
+```661:669:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. ai-es ter-ʔer  
    water-ABS flow-ACT  
    "Water flows"
@@ -931,7 +931,7 @@ Looking at the code, I see several sections that need adjustment to maintain con
 
 1. Verbal System section appears three times with slightly different content:
 
-```331:374:site/content/languages/hick/early-hick/_index.md
+```331:374:site/@/languages/hickic/seneran/early-hick/_index.md
 contact, leading to the occupational/active distinction between -ok/-er in Late Hick]
 
 ### Tense and Aspect Marking
@@ -979,7 +979,7 @@ contact, leading to the occupational/active distinction between -ok/-er in Late 
 ```
 
 
-```447:453:site/content/languages/hick/early-hick/_index.md
+```447:453:site/@/languages/hickic/seneran/early-hick/_index.md
    - Examples:
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
@@ -990,7 +990,7 @@ contact, leading to the occupational/active distinction between -ok/-er in Late 
 ```
 
 
-```867:922:site/content/languages/hick/early-hick/_index.md
+```867:922:site/@/languages/hickic/seneran/early-hick/_index.md
 6. Eyes as reality
 1. Outer Prefixes (first position)
    - mo- (NEG): negation
@@ -1052,7 +1052,7 @@ contact, leading to the occupational/active distinction between -ok/-er in Late 
 
 2. The Adjectival Morphology section needs cross-references to the Verbal System:
 
-````640:681:site/content/languages/hick/early-hick/_index.md
+````640:681:site/@/languages/hickic/seneran/early-hick/_index.md
 ```plaintext
 (NEG)-(SIZE)-(SIM)-ROOT-(AGENT)-(CASE)
 4. Bones as structure
@@ -1100,7 +1100,7 @@ Examples:
 
 3. The Affix Order section needs to include -ʔer in its template:
 
-```720:755:site/content/languages/hick/early-hick/_index.md
+```720:755:site/@/languages/hickic/seneran/early-hick/_index.md
    - Interacts with case marking: ma-tor-el (PL-height-ERG)
 2. Augmentative (tor-)
 ### Similarity Marking
@@ -1142,7 +1142,7 @@ Examples:
 
 4. The Suffix Classes section needs to clarify the relationship between -ʔer and -er:
 
-```756:768:site/content/languages/hick/early-hick/_index.md
+```756:768:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Spatial Demonstratives
    - istel-ʔal "this.place-person" (speaker's location)
    - ethtel-ʔal "that.place-person" (addressee's location)
@@ -1174,7 +1174,7 @@ Looking at the code, here are the sections that need adjustment, in order of pri
 
 1. Duplicate Verbal System sections appear at:
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -1223,7 +1223,7 @@ Looking at the code, here are the sections that need adjustment, in order of pri
 
 and again at:
 
-```447:453:site/content/languages/hick/early-hick/_index.md
+```447:453:site/@/languages/hickic/seneran/early-hick/_index.md
    - Examples:
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
@@ -1236,7 +1236,7 @@ and again at:
 
 2. The Suffix Classes section needs to clarify the relationship between -ʔer and -er:
 
-```758:761:site/content/languages/hick/early-hick/_index.md
+```758:761:site/@/languages/hickic/seneran/early-hick/_index.md
    - ethtel-ʔal "that.place-person" (addressee's location)
    - umtel-ʔal "far.place-person" (third party location)
 1. Visible/Known
@@ -1246,7 +1246,7 @@ and again at:
 
 3. The Affix Order section needs to include -ʔer in its template:
 
-```746:754:site/content/languages/hick/early-hick/_index.md
+```746:754:site/@/languages/hickic/seneran/early-hick/_index.md
    - -tan [tan] "that" (animate)
 2. Hidden but Sensed
    - -eth [eθ] "this/that" (inanimate)
@@ -1274,7 +1274,7 @@ Looking at the code, there are three main sections that need to be consolidated 
 
 1. Verbal System appears three times:
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -1322,7 +1322,7 @@ Looking at the code, there are three main sections that need to be consolidated 
 
 
 
-```447:453:site/content/languages/hick/early-hick/_index.md
+```447:453:site/@/languages/hickic/seneran/early-hick/_index.md
    - Examples:
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
@@ -1334,7 +1334,7 @@ Looking at the code, there are three main sections that need to be consolidated 
 
 
 
-```867:922:site/content/languages/hick/early-hick/_index.md
+```867:922:site/@/languages/hickic/seneran/early-hick/_index.md
 6. Eyes as reality
 1. Outer Prefixes (first position)
    - mo- (NEG): negation
@@ -1449,7 +1449,7 @@ yes please
 Looking at the code, I'll propose revisions for each section to maintain consistency and eliminate duplication. Let's start with the Verbal System sections that appear in multiple places:
 
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -1497,7 +1497,7 @@ Looking at the code, I'll propose revisions for each section to maintain consist
 
 
 
-```447:453:site/content/languages/hick/early-hick/_index.md
+```447:453:site/@/languages/hickic/seneran/early-hick/_index.md
    - Examples:
      - tornes [tor.nes] "great fish, whale"
      - topel [to.pel] "great bear" (tor-pel → topel, liquid deletion)
@@ -1509,7 +1509,7 @@ Looking at the code, I'll propose revisions for each section to maintain consist
 
 
 
-````561:642:site/content/languages/hick/early-hick/_index.md
+````561:642:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Change of State
    - Directional cases imply motion verbs
    1. Translative (-sim):  
@@ -1666,7 +1666,7 @@ next please
 Looking at the code, I notice we need to revise the Tense and Aspect Marking section to align with the syntax examples shown in:
 
 
-````1047:1117:site/content/languages/hick/early-hick/_index.md
+````1047:1117:site/@/languages/hickic/seneran/early-hick/_index.md
      branum materok-el ward-ʔer  # Frame-setting
 # Syntax
      "In the past, the handler guided"
@@ -1885,7 +1885,7 @@ continue please
 Looking at the code, I see we need to revise the Directional System section next, which appears in multiple places. Let's consolidate the information from:
 
 
-```310:317:site/content/languages/hick/early-hick/_index.md
+```310:317:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Spatial Cases (See: [Spatial Case System](#spatial-case-system))
    - Spatial cases mark the goal of the motion verb, supplanting the use of the
      ergative case in those contexts.
@@ -1900,7 +1900,7 @@ Looking at the code, I see we need to revise the Directional System section next
 and
 
 
-````940:960:site/content/languages/hick/early-hick/_index.md
+````940:960:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Directional System
 ```
 1. Basic Directionals
@@ -1983,7 +1983,7 @@ Yes, I notice several duplicated sections under Morphology. Here are the main du
 
 1. Verbal System appears three times:
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -2031,7 +2031,7 @@ Yes, I notice several duplicated sections under Morphology. Here are the main du
 
 
 
-```460:467:site/content/languages/hick/early-hick/_index.md
+```460:467:site/@/languages/hickic/seneran/early-hick/_index.md
      - mator [ma.tor] "peaks, heights"
      - makel [ma.kel] "skies"
    - Interacts with case marking: ma-tor-el (PL-height-ERG)
@@ -2044,7 +2044,7 @@ Yes, I notice several duplicated sections under Morphology. Here are the main du
 
 
 
-````901:956:site/content/languages/hick/early-hick/_index.md
+````901:956:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Phonological Interactions
    - Prefix ka- always reduces to [kə-]
    - Liquid deletion applies across morpheme boundaries
@@ -2106,7 +2106,7 @@ Examples:
 
 2. Directional System appears three times:
 
-```470:484:site/content/languages/hick/early-hick/_index.md
+```470:484:site/@/languages/hickic/seneran/early-hick/_index.md
      - ka-tor [kə.tor] "hill-like" (smaller than a mountain)
      - ka-mal [kə.mal] "pond-like" (smaller than a lake)
      - ka-bram [kə.bram] "tide-like" (rhythmic movement)
@@ -2126,7 +2126,7 @@ Examples:
 
 
 
-````635:672:site/content/languages/hick/early-hick/_index.md
+````635:672:site/@/languages/hickic/seneran/early-hick/_index.md
    - (PREFIX*) + ROOT + (SUFFIX*)
    - Maximum of three prefixes and two suffixes
 ### Body Metaphors
@@ -2169,7 +2169,7 @@ Examples:
 
 
 
-```958:984:site/content/languages/hick/early-hick/_index.md
+```958:984:site/@/languages/hickic/seneran/early-hick/_index.md
    - ka- (SIM): similarity
    - is- (PROX): proximate
    - eth- (MED): medial
@@ -2202,7 +2202,7 @@ Examples:
 
 3. Spatial Reference/Case System appears twice:
 
-```432:445:site/content/languages/hick/early-hick/_index.md
+```432:445:site/@/languages/hickic/seneran/early-hick/_index.md
 Early Hick's directional system marks the goal of the motion verb, supplanting
 ## Nominal Morphology
    - ter-ʔer "to flow" (flow-ACT)
@@ -2221,7 +2221,7 @@ Early Hick's directional system marks the goal of the motion verb, supplanting
 
 
 
-```468:484:site/content/languages/hick/early-hick/_index.md
+```468:484:site/@/languages/hickic/seneran/early-hick/_index.md
    - Always surfaces as [kə-] due to regular vowel reduction
    - Examples:
      - ka-tor [kə.tor] "hill-like" (smaller than a mountain)
@@ -2257,7 +2257,7 @@ I'll analyze the duplicate sections in Morphology and note any differences in co
 
 1. Verbal System appears in two places:
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -2305,7 +2305,7 @@ I'll analyze the duplicate sections in Morphology and note any differences in co
 
 and
 
-````901:956:site/content/languages/hick/early-hick/_index.md
+````901:956:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Phonological Interactions
    - Prefix ka- always reduces to [kə-]
    - Liquid deletion applies across morpheme boundaries
@@ -2374,7 +2374,7 @@ sky-ABS red-VERB
 
 2. Directional System appears in two places:
 
-````635:672:site/content/languages/hick/early-hick/_index.md
+````635:672:site/@/languages/hickic/seneran/early-hick/_index.md
    - (PREFIX*) + ROOT + (SUFFIX*)
    - Maximum of three prefixes and two suffixes
 ### Body Metaphors
@@ -2417,7 +2417,7 @@ Examples:
 
 and
 
-```958:995:site/content/languages/hick/early-hick/_index.md
+```958:995:site/@/languages/hickic/seneran/early-hick/_index.md
    - ka- (SIM): similarity
    - is- (PROX): proximate
    - eth- (MED): medial
@@ -2463,7 +2463,7 @@ These sections are identical with no content differences.
 
 3. Derivational Morphology (including Similarity Prefix, Negation System, Compound Formation, and Body Metaphors) appears in two places:
 
-```719:752:site/content/languages/hick/early-hick/_index.md
+```719:752:site/@/languages/hickic/seneran/early-hick/_index.md
      - makel [ma.kel] "skies"
    - Interacts with case marking: ma-tor-el (PL-height-ERG)
 2. Augmentative (tor-)
@@ -2502,7 +2502,7 @@ These sections are identical with no content differences.
 
 and
 
-````997:1032:site/content/languages/hick/early-hick/_index.md
+````997:1032:site/@/languages/hickic/seneran/early-hick/_index.md
    - Absolutive (-es) marks patient of transitive & sole argument of
      intransitive
    - Word order signals pragmatic functions rather than grammatical roles
@@ -2546,7 +2546,7 @@ These sections are identical with no content differences.
 
 4. Affix Order appears in two places:
 
-```754:814:site/content/languages/hick/early-hick/_index.md
+```754:814:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Personal Reference
    - Plant Growth: kəthir "grass-like", kəbel "vine-like"
 1. Spatial Demonstratives
@@ -2612,7 +2612,7 @@ These sections are identical with no content differences.
 
 and
 
-````1034:1083:site/content/languages/hick/early-hick/_index.md
+````1034:1083:site/@/languages/hickic/seneran/early-hick/_index.md
      sea-ILL  handler-ERG reed.boat-ABS
      "To sea the handler (takes) the reed boat"
      ```
@@ -2682,7 +2682,7 @@ removed duplicate subsections in @_index.md  now. shall we continue consolidatio
 Yes, let's consolidate the verbal marker sections. Looking at the code, I see verbal morphology appears in several places:
 
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -2730,7 +2730,7 @@ Yes, let's consolidate the verbal marker sections. Looking at the code, I see ve
 
 
 
-```460:467:site/content/languages/hick/early-hick/_index.md
+```460:467:site/@/languages/hickic/seneran/early-hick/_index.md
      - mator [ma.tor] "peaks, heights"
      - makel [ma.kel] "skies"
    - Interacts with case marking: ma-tor-el (PL-height-ERG)
@@ -2743,7 +2743,7 @@ Yes, let's consolidate the verbal marker sections. Looking at the code, I see ve
 
 
 
-```574:633:site/content/languages/hick/early-hick/_index.md
+```574:633:site/@/languages/hickic/seneran/early-hick/_index.md
    - Takes absolutive argument Examples:
    2. Directional Cases (-aes/-imris):  
       kamar keles kakelaes  
@@ -2949,7 +2949,7 @@ yes please
 I'll continue consolidating the verbal morphology sections while maintaining cross-references. Looking at the code blocks, I can see the relevant sections are spread across these line ranges:
 
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -2997,7 +2997,7 @@ I'll continue consolidating the verbal morphology sections while maintaining cro
 
 
 
-```376:431:site/content/languages/hick/early-hick/_index.md
+```376:431:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
    - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
 1. Basic Spatial Markers
@@ -3058,7 +3058,7 @@ the use of the ergative case in those contexts.
 
 
 
-```460:467:site/content/languages/hick/early-hick/_index.md
+```460:467:site/@/languages/hickic/seneran/early-hick/_index.md
      - mator [ma.tor] "peaks, heights"
      - makel [ma.kel] "skies"
    - Interacts with case marking: ma-tor-el (PL-height-ERG)
@@ -3158,7 +3158,7 @@ Instead, this section should reference:
 I suggest removing the Weight Distribution reference and adding these more relevant cross-references. Here's where the relevant sections appear:
 
 
-```408:430:site/content/languages/hick/early-hick/_index.md
+```408:430:site/@/languages/hickic/seneran/early-hick/_index.md
    - ter-ʔer "to flow" (flow-ACT)
    - thral-ʔer "to be sacred" (sacred-ACT)
    - thren-ʔer "to watch" (watch-ACT)
@@ -3259,7 +3259,7 @@ Yes, let's continue consolidating the verbal morphology sections. I notice there
 
 1. The Verbal System appears twice:
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -3308,7 +3308,7 @@ Yes, let's continue consolidating the verbal morphology sections. I notice there
 
 and again at:
 
-```478:485:site/content/languages/hick/early-hick/_index.md
+```478:485:site/@/languages/hickic/seneran/early-hick/_index.md
    - Water Movement: kəran "stream-like", kəthrim "wave-like"
    - Plant Growth: kəthir "grass-like", kəbel "vine-like"
    - Sounds: kəmer "bird-like (sound)", kəsak "wolf-like (howl)"
@@ -3322,7 +3322,7 @@ and again at:
 
 2. The Tense and Aspect Marking appears twice:
 
-```376:449:site/content/languages/hick/early-hick/_index.md
+```376:449:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
    - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
 1. Basic Spatial Markers
@@ -3402,7 +3402,7 @@ Early Hick's directional system marks the goal of the motion verb, supplanting
 
 and again at:
 
-````631:649:site/content/languages/hick/early-hick/_index.md
+````631:649:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Basic Template
   - Nasal deletion: bram-mal → bramal Examples:
 1. Root Structure
@@ -3472,7 +3472,7 @@ Looking at the code, I see several duplicated sections of verbal morphology that
 
 1. The main Verbal System section appears in:
 
-```332:374:site/content/languages/hick/early-hick/_index.md
+```332:374:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -3521,7 +3521,7 @@ Looking at the code, I see several duplicated sections of verbal morphology that
 
 2. A duplicate appears in:
 
-```478:485:site/content/languages/hick/early-hick/_index.md
+```478:485:site/@/languages/hickic/seneran/early-hick/_index.md
    - Water Movement: kəran "stream-like", kəthrim "wave-like"
    - Plant Growth: kəthir "grass-like", kəbel "vine-like"
    - Sounds: kəmer "bird-like (sound)", kəsak "wolf-like (howl)"
@@ -3535,7 +3535,7 @@ Looking at the code, I see several duplicated sections of verbal morphology that
 
 3. The main Tense and Aspect section appears in:
 
-```376:448:site/content/languages/hick/early-hick/_index.md
+```376:448:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Reference System
    - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
 1. Basic Spatial Markers
@@ -3614,7 +3614,7 @@ Early Hick's directional system marks the goal of the motion verb, supplanting
 
 4. A duplicate appears in:
 
-````631:649:site/content/languages/hick/early-hick/_index.md
+````631:649:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Basic Template
   - Nasal deletion: bram-mal → bramal Examples:
 1. Root Structure
@@ -3842,7 +3842,7 @@ Specifically, these sections are relevant:
 And:
 
 
-```328:329:site/content/languages/hick/early-hick/_index.md
+```328:329:site/@/languages/hickic/seneran/early-hick/_index.md
 [Note: The -er suffix appears in Middle Hick through Old Iutlandish
 contact, leading to the occupational/active distinction between -ok/-er in Late Hick]
 ```
@@ -3926,7 +3926,7 @@ lect's continue
 Looking at the code blocks, I see we need to consolidate the verbal morphology sections. There are two main instances of the verbalizer section:
 
 
-```332:377:site/content/languages/hick/early-hick/_index.md
+```332:377:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Tense and Aspect Marking
    - -ʔer [ʔer]: creates active verbs
@@ -3977,7 +3977,7 @@ Looking at the code blocks, I see we need to consolidate the verbal morphology s
 
 and
 
-```602:627:site/content/languages/hick/early-hick/_index.md
+```602:627:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Negation System
       red sky.ABS blue.ILL  
 - mo- [mo]: general negation prefix Examples:
@@ -4107,14 +4107,14 @@ This revision:
 
 The relevant sections I referenced are:
 
-```91:92:site/content/languages/hick/early-hick/_index.md
+```91:92:site/@/languages/hickic/seneran/early-hick/_index.md
 Note: The glottal stop is written as <'> in phonemic transcription and [ʔ] in
 phonetic transcription.
 ```
 
 Which establishes the orthographic convention, and:
 
-```334:376:site/content/languages/hick/early-hick/_index.md
+```334:376:site/@/languages/hickic/seneran/early-hick/_index.md
    - -ʔer [ʔer]: creates active verbs
 1. Basic Temporal Markers
    - ter-ʔer "to flow" (flow-ACT)
@@ -4177,7 +4177,7 @@ Yes, you're right. Looking at the code blocks, we have duplicate verbal morpholo
 
 1. Under Core Grammar:
 
-```483:489:site/content/languages/hick/early-hick/_index.md
+```483:489:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Plural Prefix (ma-)
 1. Visible/Known
    - -is [is] "this" (inanimate)
@@ -4190,7 +4190,7 @@ Yes, you're right. Looking at the code blocks, we have duplicate verbal morpholo
 
 2. The main Verbal Morphology section:
 
-````597:682:site/content/languages/hick/early-hick/_index.md
+````597:682:site/@/languages/hickic/seneran/early-hick/_index.md
 - Always surfaces as [kə-] due to regular vowel reduction Examples:
 - ka-tor [kə.tor] "hill-like" (smaller than a mountain)
 - ka-mal [kə.mal] "pond-like" (smaller than a lake)
@@ -4336,7 +4336,7 @@ For Proto-Hick origins:
 
 For lexical roots:
 
-```36:66:site/content/languages/hick/early-hick/lexicon.md
+```36:66:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Natural World
 1. Elements
 1. Elements
@@ -4373,7 +4373,7 @@ For lexical roots:
 
 For sacred terms:
 
-```265:291:site/content/languages/hick/early-hick/lexicon.md
+```265:291:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - dorren [dor.ren] "pack deer" < dor-ren "back-deer" → dorren
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
@@ -4462,7 +4462,7 @@ Yes, looking at the content, the Spatial Case System should be part of Verbal Mo
 
 Core Grammar's Spatial Cases section:
 
-```310:317:site/content/languages/hick/early-hick/_index.md
+```310:317:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Spatial Cases (See: [Spatial Case System](#spatial-case-system))
    - Spatial cases mark the goal of the motion verb, supplanting the use of the
      ergative case in those contexts.
@@ -4476,7 +4476,7 @@ Core Grammar's Spatial Cases section:
 
 Current Spatial Case System section:
 
-```336:355:site/content/languages/hick/early-hick/_index.md
+```336:355:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Case System
    - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
 Early Hick's directional system marks the goal of the motion verb, supplanting
@@ -4502,7 +4502,7 @@ the use of the ergative case in those contexts.
 
 And the more detailed Directional System under Verbal Morphology:
 
-````527:566:site/content/languages/hick/early-hick/_index.md
+````527:566:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Directional System
    - -tan [tan] "that" (animate)
 1. Basic Directionals
@@ -4633,7 +4633,7 @@ let's reference the Adjectival System to the Change of State feature in this sec
 Yes, good idea. Looking at the code blocks, I see the relevant sections are:
 
 
-````599:640:site/content/languages/hick/early-hick/_index.md
+````599:640:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Adjectival Morphology
 - ka-bram [kə.bram] "tide-like" (rhythmic movement)
 Early Hick has no true adjective class. Quality concepts are expressed through:
@@ -4682,7 +4682,7 @@ Early Hick has no true adjective class. Quality concepts are expressed through:
 for the Adjectival System, and:
 
 
-````618:634:site/content/languages/hick/early-hick/_index.md
+````618:634:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Change of State
 ### Body Metaphors
    1. Translative (-sim):
@@ -4832,7 +4832,7 @@ would tense and aspect marking actually be better in the Syntax section entirely
 Yes, you're right. Looking at the code blocks, I see that tense/aspect marking is more syntactic in nature. The relevant sections are:
 
 
-````729:780:site/content/languages/hick/early-hick/_index.md
+````729:780:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
      - ka-bram [kə.bram] "tide-like" (rhythmic movement)
    - Core arguments marked by case, allowing flexible word order
@@ -4891,7 +4891,7 @@ Yes, you're right. Looking at the code blocks, I see that tense/aspect marking i
 for the current syntax section, and:
 
 
-```173:187:site/content/languages/hick/early-hick/lexicon.md
+```173:187:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - mur [mur] "night, darkness" < Proto-Hick \*muru → mur
      ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Bird Terms](#bird-terms-nocturnal)
@@ -4992,7 +4992,7 @@ See: [Clause Structure and Word Order](#clause-structure-and-word-order) for det
 
 The Verbal Morphology section should focus on:
 
-````431:481:site/content/languages/hick/early-hick/_index.md
+````431:481:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Verbal Morphology
 Early Hick's directional system marks the goal of the motion verb, supplanting
 ### Verbalizer
@@ -5049,7 +5049,7 @@ Note: Interpretation depends on base word semantics:
 (Verbalizer section)
 
 
-````509:530:site/content/languages/hick/early-hick/_index.md
+````509:530:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Case System Interaction
 3. Distant/Out of Sight
 1. Active Verbs:
@@ -5077,7 +5077,7 @@ Note: Interpretation depends on base word semantics:
 (Case System Interaction)
 
 
-````532:581:site/content/languages/hick/early-hick/_index.md
+````532:581:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Spatial Case System
    - -itar: superlative "upward"
 Early Hick's spatial case system interacts closely with verbal semantics,
@@ -5134,7 +5134,7 @@ causation.
 
 And move the Tense/Aspect content to Syntax, expanding it as part of:
 
-````753:779:site/content/languages/hick/early-hick/_index.md
+````753:779:site/@/languages/hickic/seneran/early-hick/_index.md
 3. Verb Position and Aspect
 ### Personal Reference
    - Verbs can occur in different positions based on aspect:
@@ -5237,7 +5237,7 @@ See: [Clause Structure and Word Order](#clause-structure-and-word-order) for det
 3. Expand the Syntax section with temporal/aspectual content:
 
 
-````736:780:site/content/languages/hick/early-hick/_index.md
+````736:780:site/@/languages/hickic/seneran/early-hick/_index.md
 # Syntax
    - Plant Growth: kəthir "grass-like", kəbel "vine-like"
 ## Clause Structure and Word Order
@@ -5305,7 +5305,7 @@ Looking through the code blocks, I notice several features currently labeled as 
 
 3. From Spatial Case System (lines 494-543), some syntactic properties should move:
 
-```539:543:site/content/languages/hick/early-hick/_index.md
+```539:543:site/@/languages/hickic/seneran/early-hick/_index.md
    - materokel rismaterimris "the boatman exits the reed boat"
    - materokel rismateritar "the boatman climbs onto the reed boat"
    - materokel rismaterasam "the boatman climbs down from the reed boat"
@@ -5316,7 +5316,7 @@ Looking through the code blocks, I notice several features currently labeled as 
 
 4. From Adjectival Morphology (lines 545-586), these syntactic properties should move:
 
-```582:586:site/content/languages/hick/early-hick/_index.md
+```582:586:site/@/languages/hickic/seneran/early-hick/_index.md
       blue sky.ABS red.ELL  
       "blue sky turns back red"  
       (return to state)
@@ -5359,7 +5359,7 @@ Yes, looking at the code blocks, we already moved the tense and aspect content t
 We should consolidate these into a single section under Syntax, combining:
 
 
-````734:755:site/content/languages/hick/early-hick/_index.md
+````734:755:site/@/languages/hickic/seneran/early-hick/_index.md
    - Body Parts: kəbel "mouth-like", kəven "wing-like"
 4. Temporal Reference
    - Water Movement: kəran "stream-like", kəthrim "wave-like"
@@ -5388,7 +5388,7 @@ We should consolidate these into a single section under Syntax, combining:
 with:
 
 
-````757:804:site/content/languages/hick/early-hick/_index.md
+````757:804:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Tense and Aspect
    - ethtel-ʔal "that.place-person" (addressee's location)
 1. Past Reference
@@ -5528,7 +5528,7 @@ Yes, that's a good approach. Looking at the code blocks, I see the Core Grammar 
 The key sections that should be referenced from Core Grammar are:
 
 
-````288:344:site/content/languages/hick/early-hick/_index.md
+````288:344:site/@/languages/hickic/seneran/early-hick/_index.md
 relations are marked through suffixes, while derivational processes primarily
 ## Core Grammar
 
@@ -5598,7 +5598,7 @@ This includes references to:
 The Temporal System reference is particularly well structured as it points to the relevant sections in Syntax:
 
 
-````334:342:site/content/languages/hick/early-hick/_index.md
+````334:342:site/@/languages/hickic/seneran/early-hick/_index.md
    - -ʔer [ʔer]: creates active verbs
    Examples:
    - ter-ʔer "to flow" (flow-ACT)
@@ -5629,7 +5629,7 @@ this person is watching
 Yes, looking at the Personal Reference section (lines 418-423), it should be moved to Syntax since it deals with how spatial demonstratives are used to form personal reference in clauses.
 
 
-```418:423:site/content/languages/hick/early-hick/_index.md
+```418:423:site/@/languages/hickic/seneran/early-hick/_index.md
    - ishis [is.his] "and then"
    - ethis [eθ.is] "while"
    - umis [um.is] "or else"
@@ -5665,7 +5665,7 @@ You're right. Looking at the code blocks, we're missing conjugation patterns. Th
 From the examples scattered throughout the text, we can see conjugation patterns in:
 
 
-```717:725:site/content/languages/hick/early-hick/_index.md
+```717:725:site/@/languages/hickic/seneran/early-hick/_index.md
      - limal [li.mal] "small pool, pond"
      - liren [li.ren] "small deer, fawn"
      - lines [li.nes] "small fish, minnow"
@@ -5681,7 +5681,7 @@ From the examples scattered throughout the text, we can see conjugation patterns
 and:
 
 
-```767:787:site/content/languages/hick/early-hick/_index.md
+```767:787:site/@/languages/hickic/seneran/early-hick/_index.md
    - -thir [θir] "this/that" (animate)
 3. Distant/Out of Sight
    - -um [um] "that" (inanimate)

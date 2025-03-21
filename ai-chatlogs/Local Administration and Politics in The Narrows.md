@@ -129,7 +129,7 @@ You're right! Looking at the phonological patterns in Middle Hick, we should exa
 
 From `middle-hick.md`:
 
-```16:25:site/content/languages/hick/middle-hick.md
+```16:25:site/@/languages/hickic/seneran/middle-hick.md
 # Phonological System
 
 ## Core Rules Maintained
@@ -157,7 +157,7 @@ need to look at sonority patterns. Let's analyze this borrowing:
    - [l] - lateral approximant (higher sonority)
    - This creates a *falling* sonority in the coda, matching the rule:
 
-```23:23:site/content/languages/hick/middle-hick.md
+```23:23:site/@/languages/hickic/seneran/middle-hick.md
 - Falling sonority in codas
 ```
 
@@ -225,7 +225,7 @@ The conditions that allowed this syncope in [segl]:
 
 1. The resulting consonant cluster [gl] was permissible because:
 
-```20:24:site/content/languages/hick/middle-hick.md
+```20:24:site/@/languages/hickic/seneran/middle-hick.md
 - (C)(C)V(C)(C) syllable structure
 - Initial stress
 - Rising sonority in onsets
@@ -497,7 +497,7 @@ Let me trace the development of "belok" [be.lok] (speaker) from Early Hick to Mo
 
 Looking at:
 
-```33:58:site/content/languages/hick/early-hick.md
+```33:58:site/@/languages/hickic/seneran/early-hick.md
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 - Kalassarian settlement period begins
@@ -551,7 +551,7 @@ Therefore, the Modern Seneran form would be [be.lek] "speaker"
 
 This follows similar patterns we see in other words, like:
 
-```48:49:site/content/languages/hick/early-hick.md
+```48:49:site/@/languages/hickic/seneran/early-hick.md
   - Stress-related vowel lengthening
 - Example: [in.nes.bel] → [i.ne.spel]
 ```
@@ -649,7 +649,7 @@ The dialect shows particular richness in terminology related to:
 This section draws from several key patterns documented in the source files:
 
 
-```82:96:site/content/languages/hick/early-hick.md
+```82:96:site/@/languages/hickic/seneran/early-hick.md
 ### Basic Pattern
 - (C)(C)V(C)(C)
 - (C)(C)VV on certain permitted two-vowel sequences
@@ -670,7 +670,7 @@ This section draws from several key patterns documented in the source files:
 
 For compound formation patterns:
 
-```552:557:site/content/languages/hick/early-hick.md
+```552:557:site/@/languages/hickic/seneran/early-hick.md
 ###### Liquid Deletion
 
 <dl>
@@ -682,7 +682,7 @@ For compound formation patterns:
 
 And for color/darkness terminology:
 
-```1174:1192:site/content/languages/hick/early-hick.md
+```1174:1192:site/@/languages/hickic/seneran/early-hick.md
 
 <dl>
 <dt><dfn>gra</dfn> [gra]</dt>
@@ -747,7 +747,7 @@ From Iutlandish "fesk" (fish) + Hick "mal" (pool)
 ### The Murmals
 From Early Hick "mur" (night/darkness) + "mal" (pool)
 
-```1339:1340:site/content/languages/hick/early-hick.md
+```1339:1340:site/@/languages/hickic/seneran/early-hick.md
 <dl>
 <dt><dfn>mur</dfn> [mur]</dt>
 ```
@@ -763,7 +763,7 @@ From Early Hick "mur" (night/darkness) + "mal" (pool)
 ### The Bramward
 From Early Hick "bram" (tide) + "ward" (path)
 
-```193:226:site/content/languages/hick/middle-hick.md
+```193:226:site/@/languages/hickic/seneran/middle-hick.md
 ## Northeastern Place Names
 
 ### Coastal Settlements
@@ -930,7 +930,7 @@ The dialect maintains complex compounds that have simplified elsewhere:
 This draws from several key patterns documented in:
 
 
-```296:306:site/content/languages/hick/early-hick.md
+```296:306:site/@/languages/hickic/seneran/early-hick.md
 
 <dl>
 <dt><dfn>-eth</dfn> [eθ]</dt>
@@ -948,7 +948,7 @@ Examples:
 And the demonstrative system from:
 
 
-```276:313:site/content/languages/hick/early-hick.md
+```276:313:site/@/languages/hickic/seneran/early-hick.md
 
 These patterns fossilized differently in demonstratives:
 
@@ -1073,7 +1073,7 @@ From Iutlandish "havel" (harbor) + "bek" (stream)
 This draws from several key linguistic sources:
 
 
-```591:631:site/content/languages/hick/early-hick.md
+```591:631:site/@/languages/hickic/seneran/early-hick.md
 
 <dl>
 <dt><dfn>ai</dfn> [ai]</dt>

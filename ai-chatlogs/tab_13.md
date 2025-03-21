@@ -27,7 +27,7 @@ Let me help you develop dependent clauses for Early Hick based on the provided d
 
 Key relevant sections from the documentation:
 
-````307:338:site/content/languages/hick/early-hick/_index.md
+````307:338:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ## Ergative-Absolutive Alignment
 
@@ -65,7 +65,7 @@ absolutive case marker -es is used to mark the referent.
 This shows the basic ergative-absolutive alignment.
 
 
-```1161:1166:site/content/languages/hick/early-hick/lexicon.md
+```1161:1166:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
@@ -120,7 +120,7 @@ I was thinking that the word for before was 'atelbran WHEN.dawn
 Looking at the lexicon and grammar documentation, I can help refine the dependent clause structure. Let's analyze the components:
 
 
-````819:834:site/content/languages/hick/early-hick/_index.md
+````819:834:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Information Structure
 
@@ -144,7 +144,7 @@ This shows us that Early Hick uses initial position for temporal frames.
 For "before", your suggestion of 'atelbran (WHEN.dawn) is interesting, but looking at the temporal system:
 
 
-````422:456:site/content/languages/hick/early-hick/_index.md
+````422:456:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Temporal System
 
 ### Tense Marking
@@ -199,7 +199,7 @@ Key features:
 5. Verb gras'er from the pastoral vocabulary:
 
 
-```1161:1166:site/content/languages/hick/early-hick/lexicon.md
+```1161:1166:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
@@ -223,7 +223,7 @@ I haven't wrote it yet, but I was thinking that the coordinator would be used as
 Looking at the code, I see the coordinator ru is defined here:
 
 
-```174:175:site/content/languages/hick/early-hick/lexicon.md
+```174:175:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ru [ru] "and" < Proto-Hick \*storu → ru Note: Grammaticalized from "grow"
   sense through semantic bleaching See: [Basic Terms](#basic-terms)
 ```
@@ -243,7 +243,7 @@ The particle o could work well here since:
 3. The information structure rules shown here:
 
 
-````820:834:site/content/languages/hick/early-hick/_index.md
+````820:834:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Information Structure
 
    - Initial position: topic/focus or temporal frame
@@ -286,7 +286,7 @@ so from that, how do we add
 Looking at the code, I see several relevant sections that help us construct this dependent clause:
 
 
-````820:834:site/content/languages/hick/early-hick/_index.md
+````820:834:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Information Structure
 
    - Initial position: topic/focus or temporal frame
@@ -307,7 +307,7 @@ Looking at the code, I see several relevant sections that help us construct this
 Shows that temporal frames go in initial position.
 
 
-```780:784:site/content/languages/hick/early-hick/lexicon.md
+```780:784:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'atelbran [ʔa.tel.bran] "before (when-dawn)" < 'aka-tel-bran → 'akatelbran →
   'atelbran
   ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
@@ -318,7 +318,7 @@ Shows that temporal frames go in initial position.
 Gives us 'atelbran for "before" (when-dawn).
 
 
-```1161:1166:site/content/languages/hick/early-hick/lexicon.md
+```1161:1166:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
@@ -365,7 +365,7 @@ after eating, person-PROX.ANIM-ABS dwelling-ELL PAST
 Looking at the code, I see several relevant sections that help us understand how to structure dependent clauses:
 
 
-````819:834:site/content/languages/hick/early-hick/_index.md
+````819:834:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Information Structure
 
@@ -387,7 +387,7 @@ Looking at the code, I see several relevant sections that help us understand how
 Shows that temporal frames go in initial position.
 
 
-```616:628:site/content/languages/hick/early-hick/_index.md
+```616:628:site/@/languages/hickic/seneran/early-hick/_index.md
 
 Early Hick's spatial case system interacts closely with verbal semantics,
 marking not only physical direction but also abstrac
@@ -448,7 +448,7 @@ AND-ERG [cow  PART horse PART] AFTER grazing-ABS. PLURAL-person-PROX.ANIM-ERG he
 Looking at the code, I see several relevant sections that help us analyze and refine this construction:
 
 
-````819:834:site/content/languages/hick/early-hick/_index.md
+````819:834:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Information Structure
 
@@ -470,7 +470,7 @@ Looking at the code, I see several relevant sections that help us analyze and re
 Shows that temporal frames go in initial position.
 
 
-```391:395:site/content/languages/hick/early-hick/_index.md
+```391:395:site/@/languages/hickic/seneran/early-hick/_index.md
 - -aes (ILL): "inward, into"
 - -imris,-iter (ELL): "outward, from"
 - -itar (SUPE): "upward, upon"
@@ -520,7 +520,7 @@ like I mentioned, o is like japanese mo, which is used to mark elements being co
 Thanks for the clarification. Looking at the information structure rules:
 
 
-````820:834:site/content/languages/hick/early-hick/_index.md
+````820:834:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Information Structure
 
    - Initial position: topic/focus or temporal frame
@@ -542,7 +542,7 @@ Thanks for the clarification. Looking at the information structure rules:
 And the temporal positioning rules:
 
 
-````859:877:site/content/languages/hick/early-hick/_index.md
+````859:877:site/@/languages/hickic/seneran/early-hick/_index.md
    - Time words can float freely but tend toward:
      - Initial: setting temporal frame for discourse
      - Pre-verbal: marking temporal contrast
@@ -603,7 +603,7 @@ I still like having ru to mean additive coordination. I still haven't constructe
 Thanks for the clarification. Looking at the code:
 
 
-````819:834:site/content/languages/hick/early-hick/_index.md
+````819:834:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Information Structure
 
@@ -626,7 +626,7 @@ Thanks for the clarification. Looking at the code:
 Shows that temporal frames can go in initial position.
 
 
-````859:877:site/content/languages/hick/early-hick/_index.md
+````859:877:site/@/languages/hickic/seneran/early-hick/_index.md
    - Time words can float freely but tend toward:
      - Initial: setting temporal frame for discourse
      - Pre-verbal: marking temporal contrast
@@ -691,7 +691,7 @@ would it be terrible if the coordination word ru holds the ergative marker inste
 Looking at the ergative-absolutive alignment rules and case marking patterns:
 
 
-````308:337:site/content/languages/hick/early-hick/_index.md
+````308:337:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -728,7 +728,7 @@ absolutive case marker -es is used to mark the referent.
 And the conjunction ru's etymology:
 
 
-```174:175:site/content/languages/hick/early-hick/lexicon.md
+```174:175:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ru [ru] "and" < Proto-Hick \*storu → ru Note: Grammaticalized from "grow"
   sense through semantic bleaching See: [Basic Terms](#basic-terms)
 ```
@@ -775,7 +775,7 @@ Looking at the code, particularly the information structure patterns:
 
 
 
-````819:834:site/content/languages/hick/early-hick/_index.md
+````819:834:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Information Structure
 
@@ -798,7 +798,7 @@ Looking at the code, particularly the information structure patterns:
 And the etymology of ru:
 
 
-```174:175:site/content/languages/hick/early-hick/lexicon.md
+```174:175:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ru [ru] "and" < Proto-Hick \*storu → ru Note: Grammaticalized from "grow"
   sense through semantic bleaching See: [Basic Terms](#basic-terms)
 ```
@@ -841,7 +841,7 @@ I'll explore how ru in post-position might interact with other case markers.
 Looking at the case system and morphological rules:
 
 
-```389:395:site/content/languages/hick/early-hick/_index.md
+```389:395:site/@/languages/hickic/seneran/early-hick/_index.md
 The spatial cases are:
 
 - -aes (ILL): "inward, into"
@@ -855,7 +855,7 @@ The spatial cases are:
 And the suffix ordering rules:
 
 
-```784:794:site/content/languages/hick/early-hick/_index.md
+```784:794:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Inner Suffixes (closer to root)
 
    - -ok (AGENT): agentive
@@ -919,7 +919,7 @@ would ru be able to conjoin two independent clauses?
 Yes, looking at the information structure and clause patterns:
 
 
-````819:834:site/content/languages/hick/early-hick/_index.md
+````819:834:site/@/languages/hickic/seneran/early-hick/_index.md
 
 2. Information Structure
 
@@ -942,7 +942,7 @@ Yes, looking at the information structure and clause patterns:
 And the temporal positioning rules:
 
 
-````859:877:site/content/languages/hick/early-hick/_index.md
+````859:877:site/@/languages/hickic/seneran/early-hick/_index.md
    - Time words can float freely but tend toward:
      - Initial: setting temporal frame for discourse
      - Pre-verbal: marking temporal contrast
@@ -1009,7 +1009,7 @@ where, in both clauses, the erg argument is shared
 Looking at the ergative-absolutive alignment rules:
 
 
-````314:338:site/content/languages/hick/early-hick/_index.md
+````314:338:site/@/languages/hickic/seneran/early-hick/_index.md
 Languages with this alignment treat the "subject" of an intransitive verb like
 the "object" of a transitive verb. This "object" or "patient" referent is marked
 with the _absolutive_ case marker -es. The "subject" or "agent" referent is
@@ -1041,7 +1041,7 @@ absolutive case marker -es is used to mark the referent.
 And the case system:
 
 
-````631:638:site/content/languages/hick/early-hick/_index.md
+````631:638:site/@/languages/hickic/seneran/early-hick/_index.md
    ```plaintext
    materok-el rismater-aes
    handler-ERG reed.boat-ILL
@@ -1090,7 +1090,7 @@ kor'es gras'er 'al'isel ru-es gras-aes wen'altarel
 Looking at the ergative-absolutive alignment rules:
 
 
-````308:337:site/content/languages/hick/early-hick/_index.md
+````308:337:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -1127,7 +1127,7 @@ absolutive case marker -es is used to mark the referent.
 And the verb formation patterns:
 
 
-````359:380:site/content/languages/hick/early-hick/_index.md
+````359:380:site/@/languages/hickic/seneran/early-hick/_index.md
 Early Hick has no true verb class. Verbs are formed from nouns and property
 concepts and are marked with the verbalizer affix _-'er_.
 Early Hick has no true verb class. Verbs are formed from nouns and property
@@ -1188,7 +1188,7 @@ Yes! Looking at the relevant sections about ru and case marking:
 
 
 
-````308:337:site/content/languages/hick/early-hick/_index.md
+````308:337:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Ergative-Absolutive Alignment
 
 - -el [el] (ERG): marks agent of transitive verbs
@@ -1226,7 +1226,7 @@ Shows the ergative-absolutive alignment.
 
 
 
-```174:175:site/content/languages/hick/early-hick/lexicon.md
+```174:175:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ru [ru] "and" < Proto-Hick \*storu → ru Note: Grammaticalized from "grow"
   sense through semantic bleaching See: [Basic Terms](#basic-terms)
 ```
@@ -1279,7 +1279,7 @@ firm woman-MED.VIS.ANIM-ABS stand-VERB hill DEM.MED
 Looking at the ergative-absolutive alignment and case marking patterns:
 
 
-````311:338:site/content/languages/hick/early-hick/_index.md
+````311:338:site/@/languages/hickic/seneran/early-hick/_index.md
 - -es [es] (ABS): marks patient of transitive & sole argument of intransitive
 - -el [el] (ERG): marks agent of transitive verbs
 Early Hick can be described as a language with an ergative-absolutive alignment.
@@ -1314,7 +1314,7 @@ the action, but because Early Hick is an ergative-absolutive language, the
 And the spatial case system:
 
 
-```622:629:site/content/languages/hick/early-hick/_index.md
+```622:629:site/@/languages/hickic/seneran/early-hick/_index.md
 - Action/motion roots → active verbs (ter "flow", ward "guide")
    - -aes (ILL): "inward, into"
    - -imris (ELL): "outward, from"
@@ -1364,7 +1364,7 @@ no no, stand and firm should be different senses of that word.
 Ah, I see - so we want to treat 'irek as having both meanings "stand" and "firm", and use them separately. Looking at the compound rules:
 
 
-```237:246:site/content/languages/hick/early-hick/_index.md
+```237:246:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Compound Types
 
 1. Element + Element
@@ -1381,7 +1381,7 @@ Ah, I see - so we want to treat 'irek as having both meanings "stand" and "firm"
 And the verb formation patterns:
 
 
-````359:380:site/content/languages/hick/early-hick/_index.md
+````359:380:site/@/languages/hickic/seneran/early-hick/_index.md
 Early Hick has no true verb class. Verbs are formed from nouns and property
 concepts and are marked with the verbalizer affix _-'er_.
 Early Hick has no true verb class. Verbs are formed from nouns and property
@@ -1439,7 +1439,7 @@ Would you like me to explore:
 Looking at the information structure rules:
 
 
-````820:834:site/content/languages/hick/early-hick/_index.md
+````820:834:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Information Structure
 ## Clause Structure and Word Order
    - Initial position: topic/focus or temporal frame
@@ -1461,7 +1461,7 @@ Looking at the information structure rules:
 And the verb position patterns:
 
 
-````836:855:site/content/languages/hick/early-hick/_index.md
+````836:855:site/@/languages/hickic/seneran/early-hick/_index.md
 3. Verb Position and Aspect
      ```plaintext
    - Verbs can occur in different positions based on aspect:
@@ -1532,7 +1532,7 @@ I suppose firm has to modify to stand as an adverbial phrase. would 'irek be aft
 Looking at the stative verb and property concept patterns:
 
 
-````590:613:site/content/languages/hick/early-hick/_index.md
+````590:613:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Stative verbs (from property concepts):
    ```
    ```plaintext
@@ -1563,7 +1563,7 @@ Note: Interpretation depends on base word semantics:
 And the word order rules for pragmatic functions:
 
 
-````812:834:site/content/languages/hick/early-hick/_index.md
+````812:834:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
 
    - Core arguments marked by case, allowing flexible word order
@@ -1625,7 +1625,7 @@ could it be "stands firm-like" 'irek'er ka'irek?
 Yes! Looking at the similarity prefix rules:
 
 
-````711:717:site/content/languages/hick/early-hick/_index.md
+````711:717:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Similarity Prefix
       ```
 - ka- [kə]: prefix meaning "like, similar to"
@@ -1639,7 +1639,7 @@ Yes! Looking at the similarity prefix rules:
 And the verb modification patterns:
 
 
-````590:613:site/content/languages/hick/early-hick/_index.md
+````590:613:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Stative verbs (from property concepts):
    ```
    ```plaintext
@@ -1698,7 +1698,7 @@ so when we're using a property to modify a noun, would you suggest it go after t
 Looking at the compound formation rules:
 
 
-```728:734:site/content/languages/hick/early-hick/_index.md
+```728:734:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: modifier-head
 - Sound changes:
   - Liquid deletion: tor-mal → tomal
@@ -1712,7 +1712,7 @@ Looking at the compound formation rules:
 And the basic patterns:
 
 
-```812:818:site/content/languages/hick/early-hick/_index.md
+```812:818:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
 
    - Core arguments marked by case, allowing flexible word order
@@ -1813,7 +1813,7 @@ could these be put in terms that typical english speakers understand? perhaps as
 Yes, we can make it more accessible by framing it in familiar grammatical terms. Looking at the relevant sections:
 
 
-```12:25:site/content/languages/hick/early-hick/_index.md
+```12:25:site/@/languages/hickic/seneran/early-hick/_index.md
 The Hick language was the primary tongue of pre-Kalassarian Senera. While no
 longer spoken, it survives in place names, maritime terminology, and religious
 traditions throughout modern Senera.
@@ -1834,7 +1834,7 @@ use prefixes.
 And the lexicon introduction:
 
 
-```12:15:site/content/languages/hick/early-hick/lexicon.md
+```12:15:site/@/languages/hickic/seneran/early-hick/lexicon.md
 The Early Hick lexicon, as attested, consists of mostly noun forms. These nouns
 can represent a wide range of meanings, including actions, properties, or
 relationships, which are traditionally the domain of verbs, adjectives, and
@@ -1900,14 +1900,14 @@ evil's taste floating under the air
 Let me analyze this based on the grammar rules. Looking at:
 
 
-```311:338:site/content/languages/hick/early-hick/_index.md
+```311:338:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 ```
 
 For ergative-absolutive alignment, and:
 
 
-```622:629:site/content/languages/hick/early-hick/_index.md
+```622:629:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Late Hick/Early Seneran (105 AI to 400 AI)
 ```
 
@@ -1950,7 +1950,7 @@ I was trying to evoke a sense of the evil subtlely lying beneath the air. and si
 Ah, I understand the poetic intent now. Looking at the relevant sections:
 
 
-```390:397:site/content/languages/hick/early-hick/_index.md
+```390:397:site/@/languages/hickic/seneran/early-hick/_index.md
 
 The spatial cases are:
 
@@ -1964,7 +1964,7 @@ The spatial cases are:
 For spatial cases, and:
 
 
-```525:533:site/content/languages/hick/early-hick/lexicon.md
+```525:533:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 #### Basic Terms
 
@@ -2009,7 +2009,7 @@ the subessive is marked on the verb, which marks the direction of the action of 
 Looking at the spatial case system and verb marking:
 
 
-```390:396:site/content/languages/hick/early-hick/_index.md
+```390:396:site/@/languages/hickic/seneran/early-hick/_index.md
 
 The spatial cases are:
 
@@ -2023,7 +2023,7 @@ The spatial cases are:
 And the ergative-absolutive alignment:
 
 
-````314:338:site/content/languages/hick/early-hick/_index.md
+````314:338:site/@/languages/hickic/seneran/early-hick/_index.md
 
 Early Hick can be described as a language with an ergative-absolutive alignment.
 Languages with this alignment treat the "subject" of an intransitive verb like

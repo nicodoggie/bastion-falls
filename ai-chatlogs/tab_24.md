@@ -55,7 +55,7 @@ this is not a germanic term, this is early hick @early-hick .
 I apologize for my mistake in assuming it was Germanic. You're right - looking at the Early Hick lexicon, "stor" appears in:
 
 
-```51:53:site/content/languages/hick/early-hick/lexicon.md
+```51:53:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - stor [stor] "grow" < Proto-Hick *storu → stor
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
   See: [Sacred Terms](#sacred--ritual)
@@ -71,7 +71,7 @@ concrete meanings often extend to more abstract domains.
 
 Here's how we could add this sense to the existing entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - stor [stor] "grow; add, increment" < Proto-Hick *storu → stor
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
   Note: Mathematical sense developed from basic meaning "grow"
@@ -93,7 +93,7 @@ can we add kost to mean foot, and tag to mean hand in @lexicon.md ?
 Yes, we can add these body part terms. Looking at the existing lexicon patterns and 
 structure (particularly the Body Parts section), here's how we can add these terms:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Body Parts
 
 #### Basic Terms
@@ -241,7 +241,7 @@ Ah yes, you're absolutely right - looking at the language structure in the lexic
 grammar:
 
 
-```356:364:site/content/languages/hick/early-hick/_index.md
+```356:364:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Verbal System
 
 See: [Verbal Morphology](#verbal-morphology) for details on:
@@ -257,7 +257,7 @@ See: [Verbal Morphology](#verbal-morphology) for details on:
 And:
 
 
-````495:550:site/content/languages/hick/early-hick/_index.md
+````495:550:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
@@ -320,7 +320,7 @@ Note: Interpretation depends on base word semantics:
 Early Hick uses the verbalizer -'er to create verbal meanings from nouns. Let me revise 
 the entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - stor [stor] "growth, increase" < Proto-Hick *storu → stor
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
   Note: Mathematical sense "addition, increment" developed from basic meaning "growth"
@@ -389,7 +389,7 @@ add gnar as correct
 
 I'll add "gnar" as "correct" to the Basic Terms section, following the established format:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - gnar [gnar] "correct" < Proto-Hick *gnaru → gnar
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -404,7 +404,7 @@ the established patterns:
 
 The word fits with Early Hick phonotactics, as we can see from the lexicon that:
 
-```146:151:site/content/languages/hick/early-hick/_index.md
+```146:151:site/@/languages/hickic/seneran/early-hick/_index.md
 | Type    | Clusters                            | Examples         |
 | ------- | ----------------------------------- | ---------------- |
 | Common  | /br-, dr-, tr-, kr-, fl-, pl-, kl-/ | bram, dren, tral |
@@ -490,7 +490,7 @@ Looking at the patterns of compound formation and simplification in Early Hick, 
 add "takuter". The relevant patterns can be seen in:
 
 
-```71:73:site/content/languages/hick/early-hick/lexicon.md
+```71:73:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Abstract Concepts
 #### Vision & Perception
 #### Vision & Perception
@@ -502,7 +502,7 @@ Where we see the base form "takutak" meaning "rhythm" with onomatopoeic reduplic
 And compound simplification patterns in:
 
 
-```435:438:site/content/languages/hick/early-hick/lexicon.md
+```435:438:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - ketnes [ket.nes] "sea fish" < keth-nes "sea-fish" → ketnes
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
@@ -512,7 +512,7 @@ And compound simplification patterns in:
 
 Here's how we should add the new entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - takuter [ta.ku.ter] "harmony, attunement" < takutak-ter "rhythm-flow" → takuter
   ([compound simplification](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: Shows reduction of reduplicated base through compound simplification
@@ -566,7 +566,7 @@ can we add the sense of right (direction) to "tak" meaning strike
 Yes, we can add the directional sense to "tak". Looking at the lexicon patterns 
 (lines 41-54 in lexicon.md), we should modify the entry to include both senses:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tak [tak] "strike, impact; right (direction)" < Proto-Hick *taku → tak
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin; directional sense developed from striking motion
@@ -628,7 +628,7 @@ the sense of tak meaning right is a cultural sense where the dominant hand is th
 Ah, I understand - the cultural connection between "strike" and "right (direction)" comes 
 from the dominant hand being the striking hand. Let me update the entries to reflect this:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tak [tak] "strike, impact; right (direction)" < Proto-Hick *taku → tak
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin; directional sense from cultural association with dominant striking hand
@@ -690,7 +690,7 @@ let's add kul as a word for magic, sorcery
 
 I'll add "kul" as a word for magic/sorcery. Looking at the Basic Terms section in lexicon.md:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - kul [kul] "magic, sorcery" < Proto-Hick *kulu → kul
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -755,7 +755,7 @@ lets's add a new semantic fierd for kulu, magical terms
 I'll add a new semantic field for magical terms. Looking at how other semantic fields are 
 structured in the lexicon (lines 34-71), we should add:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Magical Terms
 
 #### Basic Terms
@@ -834,7 +834,7 @@ let's add malthrenok as pool-watcher;diviner as well
 Looking at the compound formation patterns and agentive derivation with -ok, I'll add 
 malthrenok to the Magical Terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - malthrenok [mal.θre.nok] "pool-watcher, diviner" < mal-thren-ok "pool-watch-AGENT" → malthrenok
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   Note: One who divines through watching pools/water
@@ -892,7 +892,7 @@ imurkulok as a necromancer
 
 Looking at the compound formation patterns and the existing "imur" prefix for "evil/forbidden", I'll add imurkulok to the Magical Terms section:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - imurkulok [i.mur.ku.lok] "necromancer" < imur-kul-ok "evil-magic-AGENT" → imurkulok
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   Note: Literally "evil magic worker"
@@ -933,7 +933,7 @@ And in lexicon.jsonld:
 
 This follows the established patterns for compound formation with imur- prefix seen in:
 
-```762:768:site/content/languages/hick/early-hick/lexicon.md
+```762:768:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - torbao [tor.ba.o] "ancestor (paternal)" < tor-bao "great-father" → torbao
   ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - tornai [tor.nai] "ancestor (maternal)" < tor-nai "great-mother" → tornai
@@ -956,7 +956,7 @@ let's add 'imer from proto hick hi animacy marker and hime exist as a word for l
 Looking at the patterns in the lexicon (particularly lines 737-744 for Spirit Terms 
 and lines 860-865 for basic terms with Proto-Hick etymology), I'll add these entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'imer [ʔi.mer] "life" < Proto-Hick *hi-mer → 'imer
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
   See: [Spirit Terms](#spirit-terms)
@@ -1026,7 +1026,7 @@ And in lexicon.jsonld:
 
 These entries follow the patterns seen in:
 
-```737:744:site/content/languages/hick/early-hick/lexicon.md
+```737:744:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - imer [i.mer] "breath, soul" < Proto-Hick \*imeru → imer
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
@@ -1053,7 +1053,7 @@ etil meaning thing, 'etil living thing
 Looking at the patterns of animacy marking with 'i- and basic terms, I'll add these entries 
 following the format seen in lines 57-63 of lexicon.md:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick *etilu → etil
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
@@ -1120,7 +1120,7 @@ And in lexicon.jsonld:
 
 This follows the patterns seen in:
 
-```57:63:site/content/languages/hick/early-hick/lexicon.md
+```57:63:site/@/languages/hickic/seneran/early-hick/lexicon.md
   See: [Sacred Terms](#sacred--ritual)
   See: [Sacred Terms](#sacred--ritual)
 ### Conjunctions
@@ -1146,7 +1146,7 @@ that animacy marking is actually archaic hi from protohick. it's common but not 
 Looking at the Proto-Hick animacy marking patterns (lines 57-76 in lexicon.md), we should 
 revise the entries to show this is an archaic feature:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'imer [ʔi.mer] "life" < Proto-Hick *hi-mer → 'imer
   ([archaic animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
   Note: Shows preserved Proto-Hick animacy marking
@@ -1214,7 +1214,7 @@ Applied <romanizer>: ʔil -> 'il
 Looking at the sound change patterns and the existing entries in the Basic Terms section, 
 I'll add these entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thil [θil] "good" < Proto-Hick *halu → thil
   ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
@@ -1282,7 +1282,7 @@ And in lexicon.jsonld:
 
 This follows the patterns seen in:
 
-```57:76:site/content/languages/hick/early-hick/lexicon.md
+```57:76:site/@/languages/hickic/seneran/early-hick/lexicon.md
   ([initial sibilant loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
   See: [Sacred Terms](#sacred--ritual)
   See: [Sacred Terms](#sacred--ritual)
@@ -1321,7 +1321,7 @@ sorry, thil should be virtue, moral and 'il should mean good, kind
 I'll revise the entries with the updated meanings. Looking at the patterns in the Basic 
 Terms section (lines 41-75) and Sacred Terms:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - thil [θil] "virtue, moral" < Proto-Hick *halu → thil
   ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Abstract sense developed from basic meaning
@@ -1410,7 +1410,7 @@ Concepts.
 
 Here's how we should categorize them:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Abstract Concepts
 
 #### Moral & Ethical Terms
@@ -1441,7 +1441,7 @@ The categorization mirrors how other abstract/concrete pairs are handled in the 
 like the pattern seen in:
 
 
-```103:114:site/content/languages/hick/early-hick/lexicon.md
+```103:114:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
@@ -1475,7 +1475,7 @@ can you help me add these to the relevant sections with appropriate cross refere
 Looking at the lexicon structure (lines 37-88 for Basic Terms and Abstract Concepts), I'll 
 organize these entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Abstract Concepts
 
 #### Moral & Ethical Terms
@@ -1557,7 +1557,7 @@ And in lexicon.jsonld:
 This follows the patterns seen in:
 
 
-```41:75:site/content/languages/hick/early-hick/lexicon.md
+```41:75:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
@@ -1599,7 +1599,7 @@ This follows the patterns seen in:
 for Basic Terms organization and:
 
 
-```88:97:site/content/languages/hick/early-hick/lexicon.md
+```88:97:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Abstract Concepts
 - his [his] "sight" < Proto-Hick \*hi-lisu → his
 #### Vision & Perception
@@ -1627,7 +1627,7 @@ let's add bris for heat and 'ibris for fire
 Looking at the patterns in the Basic Terms and Spirit Terms sections (lines 41-75), 
 I'll add these entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - bris [bris] "heat" < Proto-Hick *brisu → bris
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Natural Elements](#natural-world), [Basic Terms](#basic-terms)
@@ -1695,7 +1695,7 @@ And in lexicon.jsonld:
 
 This follows the patterns seen in:
 
-```56:75:site/content/languages/hick/early-hick/lexicon.md
+```56:75:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
@@ -1732,7 +1732,7 @@ let's add ven to mean 'yoke, burden', venitar which is the superessive case of v
 Looking at the patterns in the Basic Terms section (lines 37-75) and Verbal 
 Morphology (lines 493-499), I'll add:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ven [ven] "yoke, burden" < Proto-Hick *venu → ven
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
@@ -1800,7 +1800,7 @@ And in lexicon.jsonld:
 This follows the patterns seen in:
 
 
-```41:75:site/content/languages/hick/early-hick/lexicon.md
+```41:75:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
@@ -1842,7 +1842,7 @@ This follows the patterns seen in:
 for basic term structure and:
 
 
-```493:499:site/content/languages/hick/early-hick/_index.md
+```493:499:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Verbal Morphology
 ## Verbal Morphology
 ### Verbalizer
@@ -1867,7 +1867,7 @@ usually it would have a verbalizer right? ven'eritar, I was thinking that the ac
 You're right! Looking at the verbalizer patterns (lines 495-545) and common verb 
 formations, let's revise the entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - ven [ven] "yoke, burden" < Proto-Hick *venu → ven
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
@@ -1954,7 +1954,7 @@ let's add a word vinu to mean pregnancy from proto hick venu "burden" sedu "seed
 Looking at the compound formation patterns (lines 927-946) and basic terms structure 
 (lines 10-20), I'll add:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - vinu [vi.nu] "pregnancy" < Proto-Hick *venu-sedu → vinu
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: From "burden-seed"; shows vowel harmony in compound reduction
@@ -2013,7 +2013,7 @@ let's add it into body terms and basic terms I guess?
 
 Yes, let's add it to both sections. Looking at the organization patterns in the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
 #### Basic Terms
@@ -2034,7 +2034,7 @@ Yes, let's add it to both sections. Looking at the organization patterns in the 
 This follows the cross-referencing patterns seen in:
 
 
-```974:977:site/content/languages/hick/early-hick/lexicon.md
+```974:977:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - tor-mur-mer → tomur "great owl"
 - thur-mur-mer → thurmur "dusk owl"
 - li-mur-mer → limur "small owl" See:
@@ -2056,7 +2056,7 @@ let's add vinuitar as "to give birth" as the ellative case of vinu
 
 Looking at the case patterns and derived terms structure (lines 88-93), let's add:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Derived Terms
 
 - vinuitar [vi.nu.i.tar] "to give birth" < vinu-itar "pregnancy-ELL" → vinuitar
@@ -2097,7 +2097,7 @@ And in lexicon.jsonld:
 
 This follows the patterns seen in:
 
-```88:93:site/content/languages/hick/early-hick/lexicon.md
+```88:93:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Derived Terms
 - his [his] "sight" < Proto-Hick \*hi-lisu → his
 - venitar [ve.ni.tar] "to carry" < ven-itar "yoke-SUPER" → venitar
@@ -2123,7 +2123,7 @@ grammatical markers).
 
 Let's revise the entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Derived Terms
 
 - venitar [ve.ni.tar] "to carry" < ven-itar "yoke-SUPER" → venitar
@@ -2140,7 +2140,7 @@ Let's revise the entries:
 This better reflects the pattern seen in:
 
 
-```927:932:site/content/languages/hick/early-hick/lexicon.md
+```927:932:site/@/languages/hickic/seneran/early-hick/lexicon.md
 #### Usage Examples
 1. ai-es ter-ʔer  
 - imur-thir-es thral-ʔer evil-KNOWN.ANIM-ABS sacred-ACT "The known evil one is

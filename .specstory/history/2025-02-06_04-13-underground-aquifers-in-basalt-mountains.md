@@ -8184,7 +8184,7 @@ _**Assistant**_
 
 Ah yes! Looking at `kasger` in the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kasger [kas.ger]
   : mirror (esp. polished stone mirror)
   : kasu-garu "reflection-stone" → kasger
@@ -8195,7 +8195,7 @@ kasger [kas.ger]
 
 This could be expanded to include obsidian and glass:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 kasger [kas.ger]
   : mirror, obsidian, glass
   : kasu-garu "reflection-stone" → kasger

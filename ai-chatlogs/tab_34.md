@@ -12,7 +12,7 @@ in the ontolex-lemon file @lexicon.jsonld , we have lexical items that are marke
 Based on the provided documentation, I can see that Early Hick indeed uses a nominal-based system with the -'er verbalizer suffix rather than true verbs. This is evident in several places:
 
 
-```709:716:site/content/languages/hick/early-hick/_index.md
+```709:716:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Patterns
 
    - Core arguments marked by case, allowing flexible word order
@@ -29,7 +29,7 @@ This section shows how the language uses case marking and nominal forms as its p
 The verbalizer -'er is demonstrated in examples like:
 
 
-```788:789:site/content/languages/hick/early-hick/lexicon.md
+```788:789:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
      ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
@@ -50,7 +50,7 @@ This better reflects the actual grammatical structure of Early Hick where verbal
 The same pattern appears in examples throughout the documentation:
 
 
-```763:769:site/content/languages/hick/early-hick/_index.md
+```763:769:site/@/languages/hickic/seneran/early-hick/_index.md
      branum materok-el ward-ʔer  # Frame-setting
      past    handler-ERG guide-ACT
      "In the past, the handler guided"
@@ -79,7 +79,7 @@ Based on the provided documentation, I'll help update the lexicon entries. Here'
 1. For basic entries marked as verbs, we should restructure them as nominal roots that can take the -'er verbalizer. Looking at examples from the documentation:
 
 
-```788:789:site/content/languages/hick/early-hick/lexicon.md
+```788:789:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
      ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
@@ -104,7 +104,7 @@ Here are some key entries that need updating:
 This pattern is supported by examples in the text:
 
 
-```671:674:site/content/languages/hick/early-hick/_index.md
+```671:674:site/@/languages/hickic/seneran/early-hick/_index.md
    - tor- (AUG): augmentative
    - li- (DIM): diminutive
 3. Inner Prefixes (closest to root)
@@ -128,7 +128,7 @@ yes please
 Based on the documentation, I'll help structure the lexicon entries to properly reflect Early Hick's nominal-based system. Looking at the examples from the text:
 
 
-````787:789:site/content/languages/hick/early-hick/_index.md
+````787:789:site/@/languages/hickic/seneran/early-hick/_index.md
    ```plaintext
    branum materok-el ward-'er
    past   handler-ERG guide-VERB
@@ -188,7 +188,7 @@ This shows the pattern for verbal derivation. Here's how we should update key en
 This pattern is supported by examples in the text showing how the -'er verbalizer works with both action concepts and property concepts:
 
 
-```671:674:site/content/languages/hick/early-hick/_index.md
+```671:674:site/@/languages/hickic/seneran/early-hick/_index.md
    - tor- (AUG): augmentative
    - li- (DIM): diminutive
 3. Inner Prefixes (closest to root)
@@ -210,7 +210,7 @@ can you ensure to keep @id etc in @lexicon.jsonld ?
 Yes, I'll help update the entries while maintaining the existing JSON-LD structure. Looking at the examples from the documentation:
 
 
-````287:304:site/content/languages/hick/early-hick/_index.md
+````287:304:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Case System
 
 1. Primary Cases
@@ -289,7 +289,7 @@ yes please
 Based on the documentation, I'll help update more entries in the lexicon.jsonld while maintaining the JSON-LD structure. Looking at the examples from:
 
 
-````467:477:site/content/languages/hick/early-hick/_index.md
+````467:477:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Active verbs (from action/motion concepts):
 
    ```plaintext
@@ -373,7 +373,7 @@ Here are the updated entries:
 Would you like me to provide more entries following this pattern? I can also help with property concepts that form stative verbs, as shown in:
 
 
-````487:497:site/content/languages/hick/early-hick/_index.md
+````487:497:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Stative verbs (from property concepts):
 
    ```plaintext
@@ -400,7 +400,7 @@ please continue
 I'll continue providing updated entries for the lexicon.jsonld file, maintaining the JSON-LD structure. Looking at the examples from:
 
 
-```671:674:site/content/languages/hick/early-hick/_index.md
+```671:674:site/@/languages/hickic/seneran/early-hick/_index.md
    - tor- (AUG): augmentative
    - li- (DIM): diminutive
 3. Inner Prefixes (closest to root)
@@ -490,7 +490,7 @@ yes pleasee
 Based on the documentation, I'll continue updating entries in lexicon.jsonld. Looking at the examples from:
 
 
-````487:504:site/content/languages/hick/early-hick/_index.md
+````487:504:site/@/languages/hickic/seneran/early-hick/_index.md
 2. Stative verbs (from property concepts):
 
    ```plaintext
@@ -581,7 +581,7 @@ Here are more entries with proper JSON-LD structure:
 Would you like me to continue with more entries? I can also help update entries for other semantic fields or specific morphological patterns shown in:
 
 
-````645:679:site/content/languages/hick/early-hick/_index.md
+````645:679:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Basic Template
 
 1. Root Structure
@@ -634,7 +634,7 @@ yes please
 Based on the documentation, I'll continue with more entries focusing on the spatial and directional terms, which show interesting interactions with the verbalizer. From:
 
 
-````518:544:site/content/languages/hick/early-hick/_index.md
+````518:544:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Spatial Cases
 
    - -aes (ILL): "inward, into"

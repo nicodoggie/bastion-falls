@@ -12296,7 +12296,7 @@ I agree with all 3 rules. let's integrate them into the @early-hick.md document 
 I'll help integrate these rules into the document. Let's add them to the 
 Compound Formation section (around line 188):
 
-```markdown:site/content/languages/hick/early-hick.md
+```markdown:site/@/languages/hickic/seneran/early-hick.md
 ### Compound Formation
 
 #### Basic Rules

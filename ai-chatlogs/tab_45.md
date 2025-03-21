@@ -15,14 +15,14 @@ The relevant sections are:
 
 1. Early Hick agentive marking:
 
-```327:331:site/content/languages/hick/early-hick/_index.md
+```327:331:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Overview
 ```
 
 
 2. Proto-Hick reconstructions appear throughout the lexicon:
 
-```89:104:site/content/languages/hick/early-hick/lexicon.md
+```89:104:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
 
    - ris [ris] "reed" < Proto-Hick \*risu → ris
@@ -44,7 +44,7 @@ The relevant sections are:
 
 3. Sound changes and compound formation:
 
-```194:223:site/content/languages/hick/early-hick/_index.md
+```194:223:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Overview
 ```
 
@@ -66,7 +66,7 @@ in particular, we were discussing the strangely regular simplification of -u, an
 ## AI (claude-3.5-sonnet):
 
 Yes, exactly! Looking at the evidence from the lexicon (particularly lines 89-104 in 
-`site/content/languages/hick/early-hick/lexicon.md`), we saw an extremely regular pattern of 
+`site/@/languages/hickic/seneran/early-hick/lexicon.md`), we saw an extremely regular pattern of
 final -u loss.
 
 This led us to hypothesize that Proto-Hick had a strict syllable structure where:
@@ -268,7 +268,7 @@ Yes, looking at the evidence, we do have consonant clusters in Proto-Hick. Here 
 
 From Early Hick lexicon:
 
-```108:117:site/content/languages/hick/early-hick/lexicon.md
+```108:117:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
    - gransed [gran.sed] "grain" < gras-sed "grass-seed" → gransed
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
@@ -285,7 +285,7 @@ Shows compounds with clusters like gran-, mal-, ran-, thir- that must have exist
 
 From Early Hick phonotactics:
 
-```120:133:site/content/languages/hick/early-hick/_index.md
+```120:133:site/@/languages/hickic/seneran/early-hick/_index.md
 
 #### Initial Clusters
 
@@ -357,7 +357,7 @@ Looking at the evidence, I agree with your proposal. Here's why:
 
 2. Initial glottal stops are only documented word-initially:
 
-```96:98:site/content/languages/hick/early-hick/_index.md
+```96:98:site/@/languages/hickic/seneran/early-hick/_index.md
 
 - /'al/ [ʔal] "person"
 - /'el/ [ʔel] "speaker"
@@ -489,7 +489,7 @@ it's weird to me since stone is "gar" in early hick. and rock is "al". I don't s
 You're absolutely right! Looking at the Early Hick lexicon:
 
 
-```40:42:site/content/languages/hick/early-hick/lexicon.md
+```40:42:site/@/languages/hickic/seneran/early-hick/lexicon.md
      [Colors](#colors)
    - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
      ([initial fricative loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
@@ -503,7 +503,7 @@ We see:
 There's no evidence of *stenalu or *stenu in Early Hick. Similarly, for "red":
 
 
-```182:184:site/content/languages/hick/early-hick/lexicon.md
+```182:184:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - mar [mar] "rust, red metal" < Proto-Hick \*maru → mar
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -561,7 +561,7 @@ Shows the vowel coalescence rule: *ahi → ai "water"
 And from Early Hick lexicon:
 
 
-```28:30:site/content/languages/hick/early-hick/lexicon.md
+```28:30:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Elements
    - ai [ai] "water" < Proto-Hick \*ahi → ai
      ([vowel sequences](@/languages/hickic/seneran/early-hickck/_index.md#vowel-sequences))
@@ -594,7 +594,7 @@ Proto-Hick *ʔahimu > Early Hick ai
 This parallels other /h/ developments we see:
 
 
-```481:483:site/content/languages/hick/early-hick/lexicon.md
+```481:483:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
    - bao [ba.o] "father" < Proto-Hick \*bawu → bao
      ([vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -780,7 +780,7 @@ Ah yes, looking at vowel coalescence:
 And the examples in Early Hick lexicon:
 
 
-```481:484:site/content/languages/hick/early-hick/lexicon.md
+```481:484:site/@/languages/hickic/seneran/early-hick/lexicon.md
 
    - bao [ba.o] "father" < Proto-Hick \*bawu → bao
      ([vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -841,7 +841,7 @@ It shows a straightforward development:
 And in Early Hick lexicon:
 
 
-```28:30:site/content/languages/hick/early-hick/lexicon.md
+```28:30:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Elements
    - ai [ai] "water" < Proto-Hick \*ahi → ai
      ([vowel sequences](@/languages/hickic/seneran/early-hickck/_index.md#vowel-sequences))
@@ -891,7 +891,7 @@ The change is simply:
 And from the lexicon:
 
 
-```28:30:site/content/languages/hick/early-hick/lexicon.md
+```28:30:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Elements
    - ai [ai] "water" < Proto-Hick \*ahi → ai
      ([vowel sequences](@/languages/hickic/seneran/early-hickck/_index.md#vowel-sequences))
@@ -949,7 +949,7 @@ If we posit a breathy voice stage (*ahi > *aʱi > ai), a sister language could h
 This would align with the language's maritime focus, as seen in:
 
 
-```20:24:site/content/languages/hick/middle-hick.md
+```20:24:site/@/languages/hickic/seneran/middle-hick.md
 - (C)(C)V(C)(C) syllable structure
 - Initial stress
 - Rising sonority in onsets
@@ -1155,7 +1155,7 @@ Early Hick: imur [i.mur]
 
 This matches the pattern we see in:
 
-```632:635:site/content/languages/hick/early-hick/lexicon.md
+```632:635:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - imur [i.mur] "evil, negative force" < Proto-Hick \*imuru → imur
 1. Basic Terms
    - imur [i.mur] "evil, negative force" < Proto-Hick \*imuru → imur
@@ -1227,7 +1227,7 @@ This would give us three related forms:
 This aligns with Early Hick's phonotactic constraints:
 
 
-```112:117:site/content/languages/hick/early-hick/_index.md
+```112:117:site/@/languages/hickic/seneran/early-hick/_index.md
 
 ### Syllable Structure
 - Special Pattern: (C)(C)VV for permitted diphthongs
@@ -1269,7 +1269,7 @@ Yes! Let's document this development. First, let's add the liquid deletion to Pr
 
 Now let's add the new entry to Early Hick lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 
 1. Basic Terms
@@ -1341,7 +1341,7 @@ maybe imthral could be an evil deity or spirit, as contrast to imurthral meaning
 Yes! Let's explore these compound forms. Looking at sacred terminology patterns:
 
 
-```147:171:site/content/languages/hick/early-hick/lexicon.md
+```147:171:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
@@ -1373,7 +1373,7 @@ Yes! Let's explore these compound forms. Looking at sacred terminology patterns:
 And compound formation rules:
 
 
-```156:168:site/content/languages/hick/early-hick/_index.md
+```156:168:site/@/languages/hickic/seneran/early-hick/_index.md
    - In compounds:
    - Primary stress falls on first syllable of simple words
    - In compounds:
@@ -1392,7 +1392,7 @@ And compound formation rules:
 
 We can add these compounds:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual Terms
 
 - imthral [im.θral] "evil deity" < im-thral "evil-sacred" → imthral
@@ -1461,7 +1461,7 @@ lis means eye, right? could we get the proto reconstruction?
 Yes! Looking at the relevant entries:
 
 
-```357:360:site/content/languages/hick/early-hick/lexicon.md
+```357:360:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
 2. Face Terms
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
@@ -1474,7 +1474,7 @@ Shows lis "eye" with Proto-Hick *lisu.
 And we can see it has semantic extensions:
 
 
-```489:492:site/content/languages/hick/early-hick/lexicon.md
+```489:492:site/@/languages/hickic/seneran/early-hick/lexicon.md
      "bird")
    - thir [θir] "elder" < Proto-Hick \*thiru → thir (metaphorical extension from
      "air/white")
@@ -1596,7 +1596,7 @@ We can reconstruct Proto-Hick *muruhilisu "dream" (lit. "night-see"):
 
 And the Early Hick entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Sacred & Ritual Terms
 
 - mulis [mu.lis] "dream, vision" < Proto-Hick *muruhilisu → mulis
@@ -1625,7 +1625,7 @@ perhaps also make a section for bodily functions and abstract concepts, and add 
 
 Yes! Let's add these sections and cross-references. First, let's add to the Early Hick lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 1. Basic Terms
@@ -1656,7 +1656,7 @@ Yes! Let's add these sections and cross-references. First, let's add to the Earl
 This connects to existing entries:
 
 
-```630:661:site/content/languages/hick/early-hick/lexicon.md
+```630:661:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Negation and Opposition
 1. Basic Terms
    - im [im] "evil, abstract negativity" < Proto-Hick \*ʔimru → im
@@ -1774,7 +1774,7 @@ So yes, hilis would be the correct Early Hick form. The compound stays intact be
 This aligns with other preserved hi- prefix forms:
 
 
-```631:636:site/content/languages/hick/early-hick/lexicon.md
+```631:636:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - im [im] "evil, abstract negativity" < Proto-Hick \*ʔimru → im
      ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
@@ -1856,7 +1856,7 @@ update the lexicon please, then also add the new words in @lexicon.jsonld ontole
 
 I'll update both the lexicon and add the ontolex-lemon entries. First, let's update the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Vision & Perception Terms
 
 1. Basic Terms
@@ -2003,7 +2003,7 @@ instead of "to see", it should be "sight" because our verbs are mostly statives 
 Ah yes, you're right! Looking at the verbal system:
 
 
-```748:754:site/content/languages/hick/early-hick/_index.md
+```748:754:site/@/languages/hickic/seneran/early-hick/_index.md
 ### Verbalizer
 ### Verbalizer
 - -ʔer [ʔer]: creates active verbs Examples:
@@ -2016,7 +2016,7 @@ Ah yes, you're right! Looking at the verbal system:
 
 Shows verbs are formed with the -ʔer suffix. Let's update the lexicon entries:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Vision & Perception Terms
 
 1. Basic Terms
@@ -2105,7 +2105,7 @@ Yes! Looking at the illative development:
 
 Shows Proto-Hick *lawes "consume/take in" developed into the illative suffix, but we can reconstruct the original root for Early Hick. Let's add:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Consumption & Nourishment
 
 1. Basic Terms
@@ -2195,7 +2195,7 @@ Proto-Hick *sedu-lawes would develop to Early Hick sedlawes through:
 
 Let's update the lexicon entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Consumption & Nourishment
 
 1. Basic Terms
@@ -2213,7 +2213,7 @@ Let's update the lexicon entry:
 This aligns with other agricultural compounds:
 
 
-```120:129:site/content/languages/hick/early-hick/lexicon.md
+```120:129:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
@@ -2244,7 +2244,7 @@ liquid deletion too
 Ah yes! Looking at the liquid deletion patterns:
 
 
-```583:587:site/content/languages/hick/early-hick/lexicon.md
+```583:587:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Liquid Deletion
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
@@ -2260,7 +2260,7 @@ Proto-Hick *sedu-lawes would develop to Early Hick selawes through:
 
 Let's update the lexicon entry:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Consumption & Nourishment
 
 1. Basic Terms
@@ -2278,7 +2278,7 @@ Let's update the lexicon entry:
 This aligns with other compounds showing liquid deletion:
 
 
-```584:586:site/content/languages/hick/early-hick/lexicon.md
+```584:586:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
    - thral-gral → thragral "sacred earth" See:
@@ -2320,7 +2320,7 @@ The liquid deletion rule only affects liquids (l, r) at morpheme boundaries, not
 This follows the same pattern as other sed- compounds:
 
 
-```120:126:site/content/languages/hick/early-hick/lexicon.md
+```120:126:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
@@ -2434,7 +2434,7 @@ So Proto-Hick *sedu-lawes would develop to Early Hick sedlawes through:
 This follows the same pattern as other sed- compounds:
 
 
-```120:126:site/content/languages/hick/early-hick/lexicon.md
+```120:126:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
@@ -2501,7 +2501,7 @@ The syncope rule still wouldn't apply because *lawesu doesn't begin with a vowel
 This matches the pattern of other sed- compounds:
 
 
-```120:126:site/content/languages/hick/early-hick/lexicon.md
+```120:126:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
@@ -2529,7 +2529,7 @@ also , I'd think our syllable structure for sedu.lawesu is se.du.la.we.su ?
 Yes, you're right! Looking at the syllable structure rules:
 
 
-```113:115:site/content/languages/hick/early-hick/_index.md
+```113:115:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: (C)(C)V(C)(C)
 - Special Pattern: (C)(C)VV for permitted diphthongs
 - Stress: Initial syllable unless marked
@@ -2596,7 +2596,7 @@ Let me check each proposed step against the rules:
 2. sedu.awesu (liquid deletion)
    - This step isn't valid - liquid deletion only occurs at morpheme boundaries and affects l/r
 
-```196:200:site/content/languages/hick/early-hick/_index.md
+```196:200:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Liquid Deletion
 1. Liquid Deletion
    - tor-mal → tomal "lake"
@@ -2621,7 +2621,7 @@ Let me check each proposed step against the rules:
    - No rule exists for sibilant deletion in this context
    - Initial clusters like /sd-/ aren't mentioned in the permitted clusters
 
-```119:125:site/content/languages/hick/early-hick/_index.md
+```119:125:site/@/languages/hickic/seneran/early-hick/_index.md
 #### Initial Clusters
 #### Initial Clusters
 | Type    | Clusters                            | Examples         |
@@ -2635,7 +2635,7 @@ Let me check each proposed step against the rules:
 5. du.wesu (vowel coalescence)
    - Vowel coalescence only applies to specific sequences
 
-```138:144:site/content/languages/hick/early-hick/_index.md
+```138:144:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Permitted Diphthongs:
 1. Permitted Diphthongs:
    - Within morphemes: /ai/, /ei/, /ae/
@@ -2664,7 +2664,7 @@ Instead, I think it would just be:
 
 Following the pattern of other sed- compounds:
 
-```120:126:site/content/languages/hick/early-hick/lexicon.md
+```120:126:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
@@ -2703,7 +2703,7 @@ Shows that Element + Element compounds were preserved from Proto-Hick, and we ca
 
 
 
-```96:97:site/content/languages/hick/early-hick/lexicon.md
+```96:97:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sed [sed] "seed" < Proto-Hick \*sedu → sed
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
@@ -2729,7 +2729,7 @@ This follows the same pattern as other Element + Element compounds in Early Hick
 
 
 
-```213:216:site/content/languages/hick/early-hick/_index.md
+```213:216:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Element + Element
 1. Element + Element
    - kur-tin → kurtin "bronze" (copper-tin)
@@ -2789,7 +2789,7 @@ But lawesu begins with a consonant, not a vowel, so syncope wouldn't apply.
 - Vowel coalescence only applies to specific sequences:
 
 
-```138:144:site/content/languages/hick/early-hick/_index.md
+```138:144:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Permitted Diphthongs:
 1. Permitted Diphthongs:
    - Within morphemes: /ai/, /ei/, /ae/
@@ -2821,7 +2821,7 @@ Instead, the development would be:
 This follows the pattern of other sed- compounds:
 
 
-```120:126:site/content/languages/hick/early-hick/lexicon.md
+```120:126:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
@@ -2910,7 +2910,7 @@ However, duwes is different because:
 
 
 
-```137:138:site/content/languages/hick/early-hick/lexicon.md
+```137:138:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - kelwud [kel.wud] "orchard" < kel-wud "leaf-wood" → kelwud
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 ```
@@ -2922,7 +2922,7 @@ Shows compounds like murwud preserve their glides.
 
 
 
-```113:114:site/content/languages/hick/early-hick/_index.md
+```113:114:site/@/languages/hickic/seneran/early-hick/_index.md
 - Basic Pattern: (C)(C)V(C)(C)
 - Special Pattern: (C)(C)VV for permitted diphthongs
 ```
@@ -2968,7 +2968,7 @@ Let's add entries to both Proto-Hick and Early Hick documents:
      - \*lawesu "consume"
 ```
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ## Basic Verbs
 
    - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
@@ -3001,7 +3001,7 @@ perhaps it's good to add this in the bodily functions terms?
 Yes, good idea! Let's add duwes under Bodily Functions & States in the Early Hick lexicon. Looking at the structure of that section:
 
 
-```681:691:site/content/languages/hick/early-hick/lexicon.md
+```681:691:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 1. Basic Terms
@@ -3018,7 +3018,7 @@ Yes, good idea! Let's add duwes under Bodily Functions & States in the Early Hic
 
 We can add duwes here:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Bodily Functions & States
 
 1. Basic Terms
@@ -3053,7 +3053,7 @@ Let's add duwes to the ontolex document and create some derived compounds.
 
 For duwes compounds, we can follow patterns similar to other Early Hick compounds:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Food & Consumption Terms
 
 1. Basic Terms
@@ -3198,7 +3198,7 @@ should we maybe canonize the use of ter as a temporal term?
 Yes, looking at the lexicon entries, we can see that -ter is already used in temporal compounds:
 
 
-```122:123:site/content/languages/hick/early-hick/lexicon.md
+```122:123:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 ```
@@ -3219,7 +3219,7 @@ Shows *ster > 'ter "flow", suggesting a semantic development from "flow" to temp
 
 We could add duwester "meal time" following the same pattern as sedter. This would fit with other temporal compounds and the general semantic extension of -ter. Let's add it:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Time & Celestial
 
 1. Basic Terms
@@ -3246,7 +3246,7 @@ I suppose it might be time to derive time divisions as well. I don't think early
 Looking at the existing time-related vocabulary:
 
 
-```146:156:site/content/languages/hick/early-hick/lexicon.md
+```146:156:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -3266,7 +3266,7 @@ Shows thral meaning "sacred, ritual; day" and mur meaning "night, darkness".
 Looking at the temporal system:
 
 
-```333:341:site/content/languages/hick/early-hick/_index.md
+```333:341:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Temporal Markers
    - branum [bra.num] "past" (lit. "swift-that.DIST.INAN")
      - From bran "swift/passing" + -um "distal inanimate"
@@ -3288,7 +3288,7 @@ We could derive:
 
 Let's add these to the lexicon:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Time & Celestial
 
 1. Basic Divisions
@@ -3317,7 +3317,7 @@ wow we actually defined bran multiple times in the lexicon...
 Yes, you're right! Looking at the duplicated entries:
 
 
-```161:162:site/content/languages/hick/early-hick/lexicon.md
+```161:162:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - bran [bran] "dawn" < Proto-Hick \*branu → bran
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
@@ -3325,7 +3325,7 @@ Yes, you're right! Looking at the duplicated entries:
 Shows bran "dawn" as a basic term, and then it appears again in compounds like:
 
 
-```169:170:site/content/languages/hick/early-hick/lexicon.md
+```169:170:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - brakel [bra.kel] "morning sky" < bran-kel "dawn-sky" → brakel
      ([nasal deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
 ```
@@ -3366,7 +3366,7 @@ Yes, we have multiple meanings for bran across different sections:
 
 1. "dawn" (Time & Light):
 
-```161:162:site/content/languages/hick/early-hick/lexicon.md
+```161:162:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - bran [bran] "dawn" < Proto-Hick \*branu → bran
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
@@ -3374,7 +3374,7 @@ Yes, we have multiple meanings for bran across different sections:
 
 2. "branch" (Flora & Agriculture):
 
-```100:101:site/content/languages/hick/early-hick/lexicon.md
+```100:101:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - bran [bran] "branch" < Proto-Hick \*branu → bran
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
@@ -3382,7 +3382,7 @@ Yes, we have multiple meanings for bran across different sections:
 
 3. "swift/passing" (Temporal Markers):
 
-```334:336:site/content/languages/hick/early-hick/_index.md
+```334:336:site/@/languages/hickic/seneran/early-hick/_index.md
    - branum [bra.num] "past" (lit. "swift-that.DIST.INAN")
      - From bran "swift/passing" + -um "distal inanimate"
      - Conceptualizes past as distant/unseen time
@@ -3399,7 +3399,7 @@ This suggests two distinct Proto-Hick roots:
 
 Let's revise the entries to make this clear:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Flora & Agriculture
 1. Basic Plant Terms
    - bran₂ [bran] "branch" < Proto-Hick \*branu₂ → bran
@@ -3575,7 +3575,7 @@ why did bawu go to bao for father?
 Looking at the relevant entries:
 
 
-```481:482:site/content/languages/hick/early-hick/lexicon.md
+```481:482:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - bao [ba.o] "father" < Proto-Hick \*bawu → bao
    - bao [ba.o] "father" < Proto-Hick \*bawu → bao
 ```
@@ -3592,7 +3592,7 @@ The pattern seems inconsistent with other Proto-Hick to Early Hick changes, wher
 We don't see other examples of *-wu- becoming -o- through vowel coalescence. In fact, looking at other w-containing words:
 
 
-```93:94:site/content/languages/hick/early-hick/lexicon.md
+```93:94:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - wud [wud] "wood, tree" < Proto-Hick \*wudu → wud
 ```
@@ -3608,7 +3608,7 @@ I think this might be an error in the reconstruction. We should either:
 Given the pattern of other kinship terms, option 1 (*bau → bao) seems more likely, as it would parallel:
 
 
-```483:484:site/content/languages/hick/early-hick/lexicon.md
+```483:484:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
    - nai [nai] "mother" < Proto-Hick \*nahi → nai
 ```
@@ -3787,7 +3787,7 @@ Shows liquid deletion in compounds, particularly at boundaries.
 And looking at the compound formation patterns:
 
 
-```583:587:site/content/languages/hick/early-hick/lexicon.md
+```583:587:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Liquid Deletion
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
@@ -3900,7 +3900,7 @@ would it be fine if early hick lost an ablative case?
 Yes! Looking at the case system development:
 
 
-```830:834:site/content/languages/hick/early-hick/_index.md
+```830:834:site/@/languages/hickic/seneran/early-hick/_index.md
 Examples:
 Examples:
 - mo-tor-el (NEG-height-ERG) "not the height (as agent)"
@@ -3963,7 +3963,7 @@ let's document these first in the lexicon, including haranu to early hick for sp
 
 I'll help document these entries in the lexicon. Let's add them in the appropriate sections:
 
-```markdown:site/content/languages/hick/early-hick/lexicon.md
+```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Basic Terms
 
    - haranu [ha.ra.nu] "split, divide" < Proto-Hick *haranu → haranu
@@ -3981,7 +3981,7 @@ I'll help document these entries in the lexicon. Let's add them in the appropria
 
 This follows the patterns we see in other entries:
 
-```479:491:site/content/languages/hick/early-hick/lexicon.md
+```479:491:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Terms
    - bao [ba.o] "father" < Proto-Hick *bahu → bao
      ([vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -4000,7 +4000,7 @@ This follows the patterns we see in other entries:
 
 And matches the compound formation and sound change patterns:
 
-```583:587:site/content/languages/hick/early-hick/lexicon.md
+```583:587:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Liquid Deletion
    - tor-mal → tomal "lake"
    - val-mal → vamal "spirit pool"
@@ -4104,7 +4104,7 @@ Shows that final *-u is lost, but doesn't mention what happens to final *-u in t
 And looking at the basic plant terms:
 
 
-```89:103:site/content/languages/hick/early-hick/lexicon.md
+```89:103:site/@/languages/hickic/seneran/early-hick/lexicon.md
 1. Basic Plant Terms
    - ris [ris] "reed" < Proto-Hick \*risu → ris
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -4149,7 +4149,7 @@ Would you like me to:
 Looking at the three-syllable word patterns:
 
 
-```260:262:site/content/languages/hick/early-hick/_index.md
+```260:262:site/@/languages/hickic/seneran/early-hick/_index.md
 3. In Three-syllable Words:
    - Primary stress blocks reduction: 'ka-ra-nal → ['ka.rə.nəl]
    - Secondary stress partially blocks: ˌka-'ra-nal → [ˌka.'ra.nəl]
@@ -4276,7 +4276,7 @@ would haran be in number terms?
 Looking at the semantic organization in the lexicon:
 
 
-```524:526:site/content/languages/hick/early-hick/lexicon.md
+```524:526:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Number System
 ### Number System
 1. Basic Numbers
@@ -4346,7 +4346,7 @@ can we also add bran meaning branch in kinship terms as well?
 Yes! Looking at the kinship terms section:
 
 
-```486:526:site/content/languages/hick/early-hick/lexicon.md
+```486:526:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Kinship Terms
    - mer [mer] "parent" < Proto-Hick \*meru → mer (metaphorical extension from
 1. Basic Terms
@@ -4640,7 +4640,7 @@ This follows the pattern shown in the existing lexicon entries (referencing line
 And includes the semantic fields we discussed from:
 
 
-```24:30:site/content/languages/hick/early-hick/lexicon.md
+```24:30:site/@/languages/hickic/seneran/early-hick/lexicon.md
 ### Natural World
 ### Natural World
 1. Elements
@@ -4760,7 +4760,7 @@ are there extant irl languages that does use eye to extend to child?
 Looking at the lexicon entries, I notice that "lis" appears in compounds like:
 
 
-```251:252:site/content/languages/hick/early-hick/lexicon.md
+```251:252:site/@/languages/hickic/seneran/early-hick/lexicon.md
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
 ```
@@ -4792,7 +4792,7 @@ could it be a cultural extension? like if there were stories that the metaphor a
 Yes! Looking at the cultural patterns in the lexicon, we can see several metaphorical extensions based on cultural beliefs and stories:
 
 
-```142:147:site/content/languages/hick/early-hick/lexicon.md
+```142:147:site/@/languages/hickic/seneran/early-hick/lexicon.md
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
    - sedthral [sed.θral] "planting day" < sed-thral "seed-sacred" → sedthral
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
@@ -4840,7 +4840,7 @@ Shows that Proto-Hick had a sophisticated system for marking animate vs inanimat
 We could develop a cultural story where "lis" comes from a different Proto-Hick root meaning "to watch/observe/learn" - similar to how "thren" developed:
 
 
-```161:162:site/content/languages/hick/early-hick/lexicon.md
+```161:162:site/@/languages/hickic/seneran/early-hick/lexicon.md
    - thur [θur] "dusk" < Proto-Hick \*thuru → thur
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
@@ -4974,7 +4974,7 @@ it could be swift by deriving it from split time/flow? bran.ter? then ter was dr
 Looking at the existing patterns, we can trace the development of "bran" meaning "swift" from "split time/flow":
 
 
-```334:342:site/content/languages/hick/early-hick/_index.md
+```334:342:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Basic Temporal Markers
    - branum [bra.num] "past" (lit. "swift-that.DIST.INAN")
      - From bran "swift/passing" + -um "distal inanimate"
@@ -4991,7 +4991,7 @@ Shows temporal markers using "bran" in compounds like "branum" (past) and "branr
 And:
 
 
-```44:50:site/content/languages/hick/early-hick/lexicon.md
+```44:50:site/@/languages/hickic/seneran/early-hick/lexicon.md
 2. Water Features
    - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
@@ -5051,7 +5051,7 @@ hmmm honestly it still doesn't fit, I think branum formed from bran meaning dauw
 Yes, that makes more sense! Looking at the demonstrative system:
 
 
-```466:477:site/content/languages/hick/early-hick/_index.md
+```466:477:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Visible/Known
    - -is [is] "this" (inanimate)
    - -ʔis [ʔis] "this" (animate)
@@ -5072,7 +5072,7 @@ Shows that -um marks "distant/out of sight (inanimate)", which fits perfectly wi
 And looking at the compound formation patterns:
 
 
-```214:221:site/content/languages/hick/early-hick/_index.md
+```214:221:site/@/languages/hickic/seneran/early-hick/_index.md
 1. Element + Element
 1. Element + Element
    - kur-tin → kurtin "bronze" (copper-tin)
