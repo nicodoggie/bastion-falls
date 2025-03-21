@@ -1319,7 +1319,7 @@ I realize we haven't added these new words into @lexicon.jsonld as ontolex lemon
 
 To add the new words "tir'er" (fermentation) and "imurai" (stinky) into the `lexicon.jsonld` as OntoLex Lemon entries, you can follow the structure of existing entries. Here's how you can add these entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tir'er",
   "@type": "ontolex:LexicalEntry",
@@ -1393,7 +1393,7 @@ we should also add 'irur and murduwes
 
 To add the words "'irur" and "murduwes" to the `lexicon.jsonld` file, you can follow the structure of existing entries. Here's how you can add these entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'irur",
   "@type": "ontolex:LexicalEntry",
@@ -1482,7 +1482,7 @@ You can update the entry for "tir'er" to include both senses and cross-reference
 
 You can update the JSON-LD entry to include both senses:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tir'er",
   "@type": "ontolex:LexicalEntry",

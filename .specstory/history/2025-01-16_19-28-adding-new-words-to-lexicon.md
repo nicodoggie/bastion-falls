@@ -26,7 +26,7 @@ For lexicon.md, it should go in the Animals section (around line 1035):
 
 For lexicon.jsonld, it should be added to the @graph array:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:rok",
   "@type": "ontolex:LexicalEntry",
@@ -90,7 +90,7 @@ I'll help add the compound word "sinthir" in both formats. Based on the existing
 
 And for the JSON-LD:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:sinthir",
   "@type": "ontolex:LexicalEntry",
@@ -165,7 +165,7 @@ I'll help add the word "ul" in both formats. Since it's a basic term that's also
 
 And for the JSON-LD:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ul",
   "@type": "ontolex:LexicalEntry",
@@ -257,7 +257,7 @@ I'll help add "hisimris" in both formats, following the pattern of other case-de
 
 And for the JSON-LD:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:hisimris",
   "@type": "ontolex:LexicalEntry",

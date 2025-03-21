@@ -21,14 +21,14 @@ I'll help you add this entry to the lexicon. Based on the existing entries, we s
 tenwa [ten.wa]
   : writing; spellcraft
   : Eldrim tengwa "letter" → tenwa
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows semantic extension from basic writing to magical inscription. See:
   [Communication Terms](#communication-terms), [Sacred Terms](#sacred--ritual)
 
 tenwa'er [ten.wa.ʔer]
   : to write; to make spells
   : tenwa + -'er → tenwa'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickck/_index.md#verbal-morphology))
   : Note: Maintains dual meaning of base noun in verbal form. See:
   [Communication Terms](#communication-terms), [Sacred Terms](#sacred--ritual)
 
@@ -37,7 +37,7 @@ tenwa'er [ten.wa.ʔer]
 
 And for the JSON-LD representation:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tenwa",
   "@type": "ontolex:LexicalEntry",
@@ -124,7 +124,7 @@ Here's a suggested entry:
 storbran [stor.bran]
   : marriage, family union
   : stor-bran "join-lineage" → storbran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows formalization of marriage as union between family lines during 
   Early Hick period. Forms verb storbran'er "to marry". See: 
   [Family Terms](#family-terms), [Social Terms](#social-terms)
@@ -132,7 +132,7 @@ storbran [stor.bran]
 
 And the corresponding JSON-LD:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:storbran",
   "@type": "ontolex:LexicalEntry",
@@ -207,7 +207,7 @@ Yes! Let's develop some informal/intimate bond terms that would coexist with the
 mesmer [mes.mer]
   : life-partner, beloved
   : mes-mer "heart-parent" → mesmer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of parental bond to intimate partnership.
   Predates formal storbran. See: [Family Terms](#family-terms),
   [Social Terms](#social-terms)
@@ -215,21 +215,21 @@ mesmer [mes.mer]
 mesbran [mes.bran]
   : love-bond, intimate partnership
   : mes-bran "heart-lineage" → mesbran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Informal term for romantic bonds, contrasts with formal storbran. See:
   [Family Terms](#family-terms), [Love Terms](#love-terms)
 
 sibrismer [si.bris.mer]
   : passionate lover
   : sibris-mer "romantic.love-parent" → sibrismer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows extension of parental metaphor to passionate relationships. See:
   [Love Terms](#love-terms), [Person Terms](#person-terms)
 ```
 
 And the JSON-LD entries:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:mesmer",
   "@type": "ontolex:LexicalEntry",
@@ -382,7 +382,7 @@ Let's revise the entry:
 brismer [bris.mer]
   : passionate lover
   : bris-mer "fire-parent/heart" → brismer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows ambiguous compound analysis between "passionate-parent" and 
   "fire-heart", typical of Early Hick love poetry. See: [Love Terms](#love-terms),
   [Person Terms](#person-terms)
@@ -390,7 +390,7 @@ brismer [bris.mer]
 
 And the JSON-LD:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:brismer",
   "@type": "ontolex:LexicalEntry",
@@ -461,13 +461,13 @@ For Early Hick, we could create entries like:
 lis [lis]
   : finger
   : Proto-Hick *lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: General term for fingers excluding thumb. See: [Body Parts](#body-parts)
 
 merlis [mer.lis]
   : thumb
   : mer-lis "parent-finger" → merlis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of parent/authority to body parts. Compare
   Japanese oyayubi. See: [Body Parts](#body-parts)
 ```
@@ -499,13 +499,13 @@ Let's create a distinct root for fingers. Perhaps something like:
 sul [sul]
   : finger
   : Proto-Hick *sulu → sul
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: General term for fingers excluding thumb. See: [Body Parts](#body-parts)
 
 mersul [mer.sul]
   : thumb
   : mer-sul "parent-finger" → mersul
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of parent/authority to body parts. See:
   [Body Parts](#body-parts)
 ```
@@ -532,14 +532,14 @@ Ah, that's a clever connection! Using the number "one" as a basis for "finger" m
 sin [sin]
   : finger; one
   : Proto-Hick *sinu → sin
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic counting unit, shows semantic extension from body part to numeral.
   See: [Body Parts](#body-parts), [Numbers](#numbers)
 
 mersin [mer.sin]
   : thumb
   : mer-sin "parent-finger" → mersin
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of parent/authority to body parts. Forms
   compounds like mersintak "thumb-strike" (approval gesture). See:
   [Body Parts](#body-parts)
@@ -586,14 +586,14 @@ For Early Hick, perhaps we could create something more functionally motivated:
 sin [sin]
   : finger; one
   : Proto-Hick *sinu → sin
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic counting unit, shows semantic extension from body part to numeral.
   See: [Body Parts](#body-parts), [Numbers](#numbers)
 
 ulsin [ul.sin]
   : thumb
   : ul-sin "grasp-finger" → ulsin
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows functional naming based on grasping role. See: [Body Parts](#body-parts)
 ```
 
@@ -631,14 +631,14 @@ Early Hick:
 sin [sin]
   : finger (excluding thumb)
   : Proto-Hick *sinu → sin
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic counting unit, shows semantic extension from body part to numeral.
   See: [Body Parts](#body-parts), [Numbers](#numbers)
 
 ul [ul]
   : thumb
   : Proto-Hick *ulu → ul
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Distinct from sin "finger", shows common thumb/finger lexical split.
   Related to ul'er "to grasp". See: [Body Parts](#body-parts)
 ```
@@ -667,7 +667,7 @@ Let's revise the entry:
 ul [ul]
   : thumb; grasp
   : Proto-Hick *ʔulu → ul
-  : ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial glottal loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of possessive suffix -ul through grammaticalization. Forms verb
   ul'er "to grasp, to own". Shows semantic link between thumb and grasping action.
   See: [Basic Terms](#basic-terms), [Body Parts](#body-parts)
@@ -675,7 +675,7 @@ ul [ul]
 sin [sin]
   : finger (excluding thumb); one
   : Proto-Hick *sinu → sin
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic counting unit, shows semantic extension from body part to numeral.
   See: [Body Parts](#body-parts), [Numbers](#numbers)
 ```
@@ -706,7 +706,7 @@ Yes, exactly! The case system could help disambiguate different types of graspin
 ul [ul]
   : thumb; grasp
   : Proto-Hick *ʔulu → ul
-  : ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial glottal loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of possessive suffix -ul through grammaticalization. Forms verb
   ul'er with case-specified meanings:
   : - ul'er + LAT: "to grab (reaching for)"
@@ -748,14 +748,14 @@ locative specification is quite naturalistic. Let's revise the etymology:
 ul [ul]
   : thumb
   : Proto-Hick *ʔulu → ul
-  : ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial glottal loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of possessive suffix -ul through grammaticalization. See:
   [Body Parts](#body-parts), [Grammatical Terms](#grammatical-terms)
 
 us [us]
   : grasp, possession
   : Proto-Hick *ʔulu-isu → ulisu → us
-  : ([locative suffix, vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([locative suffix, vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows semantic specification through locative case. Forms verb us'er "to
   grasp, to own". See: [Basic Terms](#basic-terms)
 ```
@@ -803,7 +803,7 @@ Yes, this is a very naturalistic semantic development path! Let me formalize thi
 ul [ul]
   : thumb
   : Proto-Hick *ʔulu → ul
-  : ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial glottal loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Original root *ʔulu (~800 PF) had meanings "thumb/grasp/possession". By
   Late Proto-Hick (~400 PF), bare form ulu specialized to "thumb/possession",
   while locative form ulisu took on "grasp" meaning. Early Hick ul preserves
@@ -813,7 +813,7 @@ ul [ul]
 us [us]
   : grasp, possession
   : Proto-Hick *ʔulu-isu → ulisu → us
-  : ([locative suffix, vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([locative suffix, vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Developed from locative form of *ʔulu (~400 PF) specializing in
   "grasp" meaning. By Early Hick (~100 PF), us maintains both concrete "grasp"
   and abstract "possession" meanings. Forms verb us'er "to grasp, to own". See:
@@ -899,7 +899,7 @@ _**Assistant**_
 
 Yes, let's add these entries to reflect the etymological development we discussed:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ul",
   "@type": "ontolex:LexicalEntry",
@@ -1121,7 +1121,7 @@ Let's develop this:
 uran [u.rən]
   : inch (unit of length, approximately thumb-width)
   : Proto-Hick *ulu-haranu → uran
-  : ([compound fusion, unstressed vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([compound fusion, unstressed vowel reduction](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows development of measurement system from body parts. Compound of
   *ulu "thumb" + *haranu "length". Compare ul "thumb". See: [Measurement Terms](#measurement-terms),
   [Body Parts](#body-parts)
@@ -1130,7 +1130,7 @@ uran [u.rən]
 
 And the JSON-LD:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:uran",
   "@type": "ontolex:LexicalEntry",
@@ -1197,7 +1197,7 @@ Yes! This shows a nice pattern where `-ran` has been reanalyzed from *haranu int
 brastran [bras.tran]
   : foot (unit of length, approximately arm-length)
   : brast-ran "arm-length" → brastran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows development of -ran as measurement suffix from *haranu "length".
   Compare uran "inch". See: [Measurement Terms](#measurement-terms),
   [Body Parts](#body-parts)
@@ -1206,7 +1206,7 @@ brastran [bras.tran]
 
 And the JSON-LD:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:brastran",
   "@type": "ontolex:LexicalEntry",
@@ -1272,7 +1272,7 @@ _**Assistant**_
 
 Yes, good idea! Let's add this entry but keep longer distances distinct (perhaps based on landmarks, walking time, or other cultural references).
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:vinuram",
   "@type": "ontolex:LexicalEntry",
@@ -1340,7 +1340,7 @@ A typical person walking at a comfortable pace on relatively flat ground can cov
 
 For Early Hick, we could create something like:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:barak'ir",
   "@type": "ontolex:LexicalEntry",
@@ -1410,7 +1410,7 @@ _**Assistant**_
 Yes, that's better! Using the temporal suffix `-ter` is more precise for a 
 time-based measurement, and the colloquial shortening feels very natural:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:barakter",
   "@type": "ontolex:LexicalEntry",
@@ -1494,7 +1494,7 @@ _**Assistant**_
 
 Yes! Using `tirran-` for "half" gives us a nice intermediate distance measure:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tirranbarakter",
   "@type": "ontolex:LexicalEntry",
@@ -1578,7 +1578,7 @@ _**Assistant**_
 Ah yes! That's a much better analysis of the morphology. Let's revise to show 
 this pattern:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tirranrakter",
   "@type": "ontolex:LexicalEntry",
@@ -1806,7 +1806,7 @@ Here's the lexicon entry for `barakter`:
 barakter [ba.rak.ter]
   : league (distance walkable in one hour, roughly 3-4 miles)
   : barak-ter "walk-time" → barakter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Distance measure based on one hour's walking time. Shows temporal suffix
   used for distance measurement. Often shortened to rakter in colloquial speech.
   See: [Measurement Terms](#measurement-terms), [Distance Terms](#distance-terms),
@@ -1846,14 +1846,14 @@ Here are the entries in both formats:
 maetil [ma.e.til]
   : many things; everything
   : ma-etil "PLURAL-thing" → maetil
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows semantic extension from plural marker to universal quantifier.
   Forms compounds like maetiltak "all-strike" (complete action). See:
   [Basic Terms](#basic-terms), [Quantifiers](#quantifiers)
 ````
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:maetil",
   "@type": "ontolex:LexicalEntry",
@@ -1973,7 +1973,7 @@ Yes! That's a great parallel construction. If `kapal` represents strength
 kaimpal [ka.im.pal]
   : weak, feeble (lit. "ill-bellied")
   : ka-im-pal "like-ill-belly" → kaimpal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of belly/gut health to general strength.
   Contrasts with kapal "strong" (lit. "healthy-bellied"). See:
   [Body Terms](#body-terms), [Basic Terms](#basic-terms)
@@ -1981,7 +1981,7 @@ kaimpal [ka.im.pal]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kaimpal",
   "@type": "ontolex:LexicalEntry",
@@ -2060,7 +2060,7 @@ Yes! That's a nice derivation - the compound becomes lexicalized as a noun:
 impal [im.pal]
   : weakness, frailty (lit. "ill-belly")
   : im-pal "ill-belly" → impal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Source of adjective kaimpal "weak". Shows metaphorical extension of
   belly/gut health to general strength. See: [Body Terms](#body-terms),
   [Basic Terms](#basic-terms)
@@ -2069,7 +2069,7 @@ impal [im.pal]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:impal",
   "@type": "ontolex:LexicalEntry",
@@ -2149,7 +2149,7 @@ Yes, let's document the positive term in this metaphorical pair:
 kapal [ka.pal]
   : strong, vigorous (lit. "healthy-bellied")
   : ka-pal "like-belly" → kapal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of belly/gut health to general strength.
   Contrasts with kaimpal "weak". Forms compounds like kapaltak "strong-strike"
   (forceful action). See: [Body Terms](#body-terms), [Basic Terms](#basic-terms)
@@ -2159,7 +2159,7 @@ kapal [ka.pal]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kapal",
   "@type": "ontolex:LexicalEntry",
@@ -2238,7 +2238,7 @@ _**Assistant**_
 Ah yes, you're absolutely right! Let me fix those entries to properly show their 
 adjectival nature:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kapal",
   "@type": "ontolex:LexicalEntry",
@@ -2315,7 +2315,7 @@ _**Assistant**_
 
 Here are both entries properly marked as adjectives:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kapal",
   "@type": "ontolex:LexicalEntry",
@@ -2484,7 +2484,7 @@ _**Assistant**_
 
 Yes! This creates a nice semantic family around burning/heat metaphors. Let's document them:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ibris'er",
   "@type": "ontolex:LexicalEntry",
@@ -2610,7 +2610,7 @@ _**Assistant**_
 
 Ah yes, sorry! Let me fix those entries to properly show the glottal stops:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ibris'er",
   "@type": "ontolex:LexicalEntry",
@@ -2742,21 +2742,21 @@ Here are the markdown entries:
 'ibris'er [ʔi.bris.ʔer]
   : to burn
   : 'ibris-'er "burn-VERB" → 'ibris'er
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Base form for metaphorical extensions to passion and anger. See:
   [Basic Terms](#basic-terms), [Fire Terms](#fire-terms)
 
 'ilibris [ʔi.li.bris]
   : passion; inspire fervor
   : 'il-'ibris "good-burn" → 'ilibris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows positive metaphorical extension of burning sensation. See:
   [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
 
 'imibris [ʔi.mi.bris]
   : rage, anger; wrath
   : 'im-'ibris "ill-burn" → 'imibris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows negative metaphorical extension of burning sensation. See:
   [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
 ````
@@ -2804,21 +2804,21 @@ prefix `'il-` have glottal stops. Let me fix those entries:
 'ibris'er [ʔi.bris.ʔer]
   : to burn
   : 'ibris-'er "burn-VERB" → 'ibris'er
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Base form for metaphorical extensions to passion and anger. See:
   [Basic Terms](#basic-terms), [Fire Terms](#fire-terms)
 
 'ilibris [ʔi.li.bris]
   : passion; inspire fervor
   : 'il-'ibris "good-burn" → 'ilibris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows positive metaphorical extension of burning sensation. See:
   [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
 
 imibris [i.mi.bris]
   : rage, anger; wrath
   : im-'ibris "ill-burn" → imibris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows negative metaphorical extension of burning sensation. See:
   [Emotion Terms](#emotion-terms), [Sacred Terms](#sacred--ritual)
 ````
@@ -2861,7 +2861,7 @@ Yes! This is a nice derivation from a verbal phrase. Let's document it:
 eltek [el.tek]
   : compacted, condensed (esp. of soil); shaped from loose material
   : Proto-Hick *ʔelu-taku → eltek
-  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([compound fusion, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From phrase "grale 'elu taku" (soil together hit). Shows semantic
   development from physical action to resultant state. See:
   [Basic Terms](#basic-terms), [Earth Terms](#earth-terms)
@@ -2870,7 +2870,7 @@ eltek [el.tek]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:eltek",
   "@type": "ontolex:LexicalEntry",
@@ -2964,7 +2964,7 @@ Ah, that's a lovely compound with phonological simplification! Let's document it
 bramulis [bra.mu.lis]
   : vortex, whirlpool
   : bram-ul-lis "tide-POSS-eye" → bramulis
-  : ([compound fusion, coda simplification](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, coda simplification](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Literally "tide's eye". Shows coda simplification where final -l of
   bramul merges with initial l- of lis. See: [Maritime Terms](#maritime-terms),
   [Water Features](#water-features)
@@ -2974,7 +2974,7 @@ bramulis [bra.mu.lis]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:bramulis",
   "@type": "ontolex:LexicalEntry",
@@ -3067,7 +3067,7 @@ Yes! A negated bird becomes a flightless bird - that's a clever derivation:
 momer [mo.mer]
   : chicken
   : mo-mer "NEG-bird" → momer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows semantic development where negated "bird" specifies flightless
   bird. See: [Animal Terms](#animal-terms), [Basic Terms](#basic-terms)
 ````
@@ -3077,7 +3077,7 @@ momer [mo.mer]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:momer",
   "@type": "ontolex:LexicalEntry",
@@ -3165,7 +3165,7 @@ term for animal. Let's document it:
 aniko [a.ni.ko]
   : animal (general term)
   : Proto-Hick *xani-kostu → aniko
-  : ([initial fricative loss, compound fusion, final syllable reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, compound fusion, final syllable reduction](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Literally "four-legged". Shows semantic extension from descriptive
   compound to general term. See: [Animal Terms](#animal-terms),
   [Basic Terms](#basic-terms)
@@ -3176,7 +3176,7 @@ aniko [a.ni.ko]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:aniko",
   "@type": "ontolex:LexicalEntry",
@@ -3349,7 +3349,7 @@ Ah! Of course - "death-bringer"! That's a much more elegant etymology. Let's doc
 temerok [te.me.rok]
   : predator
   : temer-ok "death-AGENT" → temerok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Literally "death-bringer". Shows common metaphorical pattern for
   predator terms. See: [Animal Terms](#animal-terms), [Basic Terms](#basic-terms)
 ````
@@ -3359,7 +3359,7 @@ temerok [te.me.rok]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:temerok",
   "@type": "ontolex:LexicalEntry",
@@ -3440,7 +3440,7 @@ general. Let's update the entries:
 temerok [te.me.rok]
   : killer, murderer; predator
   : temer-ok "death-AGENT" → temerok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Literally "death-bringer". Primary sense of killer/murderer extends to
   predatory animals. See: [Basic Terms](#basic-terms),
   [Animal Terms](#animal-terms)
@@ -3452,7 +3452,7 @@ temerok [te.me.rok]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:temerok",
   "@type": "ontolex:LexicalEntry",
@@ -3625,7 +3625,7 @@ Let's document it:
 krantak [kran.tak]
   : to pierce, stab
   : kran-tak "spike-strike" → krantak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows instrumental compound formation - striking with a spike. See:
   [Basic Actions](#basic-actions), [Weapon Terms](#weapon-terms)
 ````
@@ -3636,7 +3636,7 @@ krantak [kran.tak]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:krantak",
   "@type": "ontolex:LexicalEntry",
@@ -3726,7 +3726,7 @@ simplification. Let's document it:
 krakrak [kra.krak]
   : fang
   : kran-krak "horn-tooth" → krakrak
-  : ([nasal deletion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([nasal deletion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows nasal deletion in compound. Contrasts with general term krak
   "tooth". See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
 ````
@@ -3738,7 +3738,7 @@ krakrak [kra.krak]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:krakrak",
   "@type": "ontolex:LexicalEntry",
@@ -4299,7 +4299,7 @@ history. Let's document it:
 kasger [kas.ger]
   : mirror (esp. polished stone mirror)
   : kasu-garu "reflection-stone" → kasger
-  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows technological origin in polished stone mirrors. See:
   [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
 ````
@@ -4311,7 +4311,7 @@ kasger [kas.ger]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kasger",
   "@type": "ontolex:LexicalEntry",
@@ -4407,7 +4407,7 @@ reflection/meditation. Let's document it:
 kasai [kas.əi]
   : introspection, self-reflection
   : kasu-ai "reflection-water" → kasai
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: From ancient practice of water-gazing meditation. Shows metaphorical
   extension from physical reflection to mental contemplation. See:
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
@@ -4421,7 +4421,7 @@ kasai [kas.əi]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kasai",
   "@type": "ontolex:LexicalEntry",
@@ -4515,7 +4515,7 @@ Ah yes! A beautiful example of folk etymology/reanalysis. Let's document it:
 sai [sai]
   : sense of self; inner voice
   : Back-formation from kasai, reanalyzed as ka-sai "ADJ-self"
-  : ([reanalysis](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([reanalysis](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Originally part of kasai "introspection", reanalyzed as adjectival
   compound leading to extraction of sai as independent term. See:
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
@@ -4529,7 +4529,7 @@ sai [sai]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:sai",
   "@type": "ontolex:LexicalEntry",
@@ -4626,7 +4626,7 @@ fermentation". Let's document it:
 imtir [im.tir]
   : rot, decay
   : im-tir "NEG-ferment" → imtir
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of fermentation process to negative
   outcome. Forms verb imtir'er "to rot". See: [Process Terms](#process-terms),
   [Food Terms](#food--consumption-terms)
@@ -4641,7 +4641,7 @@ imtir [im.tir]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtir",
   "@type": "ontolex:LexicalEntry",
@@ -4742,7 +4742,7 @@ Let's document it:
 imtirlis [im.tir.lis]
   : mushroom
   : imtir-lis "rot-fruit" → imtirlis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows cultural understanding of mushrooms as fruits of decay. Forms
     compounds for edible vs poisonous varieties. See: [Flora Terms](#flora-terms),
     [Food Terms](#food--consumption-terms)
@@ -4758,7 +4758,7 @@ imtirlis [im.tir.lis]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtirlis",
   "@type": "ontolex:LexicalEntry",
@@ -4859,7 +4859,7 @@ Yes! A compound for decaying flesh/cadaver. Let's document it:
 imtirdu [im.tir.du]
   : rotting meat; cadaver
   : imtir-du "rot-meat" → imtirdu
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows semantic extension from rotting meat to cadaver. Contrasts with
     du for fresh meat. See: [Body Terms](#body-terms), [Death Terms](#death-terms)
 ````
@@ -4874,7 +4874,7 @@ imtirdu [im.tir.du]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtirdu",
   "@type": "ontolex:LexicalEntry",
@@ -4987,7 +4987,7 @@ Perfect! A literal "cadaver-eater" for scavenger. Let's document it:
 imtirduok [im.tir.du.ok]
   : scavenger
   : imtirdu-ok "cadaver-AGENT" → imtirduok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows formation pattern of "carrion-eater" common across languages.
     Applies to both animals and birds. See: [Animal Terms](#animal-terms)
 ````
@@ -5003,7 +5003,7 @@ imtirduok [im.tir.du.ok]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtirduok",
   "@type": "ontolex:LexicalEntry",
@@ -5107,7 +5107,7 @@ motion. Let's document it:
 par [par]
   : crawl
   : Proto-Hick *paru-heru "belly-motion" → par
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   : Note: Shows semantic development from "belly-motion" to general "crawl".
     Forms compounds like parlis "crawler" (child/baby). See:
     [Motion Terms](#motion-terms), [Body Terms](#body-terms)
@@ -5125,7 +5125,7 @@ par [par]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:par",
   "@type": "ontolex:LexicalEntry",
@@ -5225,7 +5225,7 @@ document it:
 grapar [gra.par]
   : earthworm
   : gral-par "earth-crawl" → grapar
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows descriptive compound formation based on movement. Contrasts with
     other crawling creatures. See: [Animal Terms](#animal-terms),
     [Earth Terms](#earth-terms)
@@ -5244,7 +5244,7 @@ grapar [gra.par]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:grapar",
   "@type": "ontolex:LexicalEntry",
@@ -5359,7 +5359,7 @@ beats! Let's document both:
 takutakal [ta.ku.ta.kal]
   : language
   : takutak-'al "rhythm-person" → takutakal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows conceptual link between rhythm and language. Forms basis for
     word formation takal. See: [Language Terms](#language-terms),
     [Sound Terms](#sound-terms)
@@ -5367,7 +5367,7 @@ takutakal [ta.ku.ta.kal]
 takal [ta.kal]
   : word
   : tak-'al "strike-person" → takal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Metaphorical extension from takutakal, conceptualizing word as single
     unit of language rhythm. See: [Language Terms](#language-terms)
 ````
@@ -5386,7 +5386,7 @@ takal [ta.kal]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:takutakal",
   "@type": "ontolex:LexicalEntry",
@@ -5441,7 +5441,7 @@ takal [ta.kal]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:takal",
   "@type": "ontolex:LexicalEntry",
@@ -5746,7 +5746,7 @@ Yes! Let's document this euphemism:
 'ilibris'er [ʔi.li.bris.ʔer]
   : (euphemistic) to make love, have sexual intercourse
   : 'ilibris-'er "passion-VERB" → 'ilibris'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickck/_index.md#verbal-morphology))
   : Note: Euphemistic term derived from 'ilibris "passion". Shows cultural 
     preference for metaphors of warmth/fire in intimate contexts. Contrasts with
     more direct terms. See: [Body Terms](#body-terms), 
@@ -5766,7 +5766,7 @@ Yes! Let's document this euphemism:
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ilibris'er",
   "@type": "ontolex:LexicalEntry",
@@ -5865,7 +5865,7 @@ splits. Let's document it:
 harabran [ha.ra.bran]
   : conflict, grievance (especially between families/clans)
   : haran-bran "divide-lineage" → harabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows cultural conceptualization of conflict as family/clan division.
     Forms verb harabran'er "to feud". See: [Social Terms](#social-terms),
     [Conflict Terms](#conflict-terms)
@@ -5885,7 +5885,7 @@ harabran [ha.ra.bran]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:harabran",
   "@type": "ontolex:LexicalEntry",
@@ -5989,7 +5989,7 @@ Yes, let's document these important verbs formed with case suffixes:
 taglas [tag.las]
   : take, receive
   : tag-las "hand-ILL" → taglas
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickck/_index.md#case-system))
   : Note: Shows common pattern of illative case marking motion into hand.
     Contrasts with tagimris "give". See: [Motion Terms](#motion-terms),
     [Body Terms](#body-terms)
@@ -5997,7 +5997,7 @@ taglas [tag.las]
 tagimris [tag.im.ris]
   : give
   : tag-imris "hand-ELL" → tagimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickck/_index.md#case-system))
   : Note: Shows common pattern of ellative case marking motion from hand.
     Contrasts with taglas "take". See: [Motion Terms](#motion-terms),
     [Body Terms](#body-terms)
@@ -6018,7 +6018,7 @@ tagimris [tag.im.ris]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:taglas",
   "@type": "ontolex:LexicalEntry",
@@ -6073,7 +6073,7 @@ tagimris [tag.im.ris]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tagimris",
   "@type": "ontolex:LexicalEntry",
@@ -6175,7 +6175,7 @@ it:
 'iltakutak [ʔil.ta.ku.tak]
   : peace, harmony
   : 'il-takutak "good-rhythm" → 'iltakutak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows cultural conceptualization of peace as harmonious rhythm. Often
     used in diplomatic contexts. Forms verb 'iltakutak'er "to make peace". See:
     [Social Terms](#social-terms), [Sacred Terms](#sacred--ritual)
@@ -6196,7 +6196,7 @@ it:
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:iltakutak",
   "@type": "ontolex:LexicalEntry",
@@ -6305,21 +6305,21 @@ Excellent set of temporal/ordering terms! Let's document them:
 terlas [ter.las]
   : previous
   : ter-las "flow-ILL" → terlas
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickck/_index.md#case-system))
   : Note: Shows conceptualization of past as flow inward. Contrasts with terimris.
     See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
 
 terimris [te.rim.ris]
   : next
   : ter-imris "flow-ELL" → terimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickck/_index.md#case-system))
   : Note: Shows conceptualization of future as flow outward. Contrasts with
     terlas. See: [Time Terms](#time--celestial), [Motion Terms](#motion-terms)
 
 eter [e.ter]
   : flow of things; correct ordering, sorting
   : etil-ter "things-flow" → eter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of flow to proper arrangement. Forms verb
     eter'er "to sort, arrange". See: [Abstract Terms](#abstract-concepts),
     [Motion Terms](#motion-terms)
@@ -6562,7 +6562,7 @@ Let's document this maritime motion term:
 matir [ma.tir]
   : (of vessels) to move through water, travel by water
   : mater-'ir "vessel-motion" → matir
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: General term for water vessel movement, neutral regarding means of
     propulsion. Contrasts with specific terms for sailing, rowing, etc. Forms
     basis for maritime motion compounds. See: [Maritime Terms](#maritime-terms),
@@ -6585,7 +6585,7 @@ matir [ma.tir]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:matir",
   "@type": "ontolex:LexicalEntry",
@@ -6696,7 +6696,7 @@ Ah yes! Using the liver as a seat of emotions is a very attested pattern cross-l
 'ilsul [ʔil.sul]
   : happiness, joy
   : 'il-sul "good-liver" → 'ilsul
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows cultural conceptualization of liver as seat of emotions,
     particularly positive ones. Forms verb 'ilsul'er "to be happy". Often appears
     in well-wishing expressions. See: [Body Terms](#body-terms),
@@ -6729,7 +6729,7 @@ _**Assistant**_
 
 I'll help add the 'ilsul entry to the lexicon.jsonld file:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ilsul",
   "@type": "ontolex:LexicalEntry",
@@ -6811,7 +6811,7 @@ Let's document this psychological term:
 'imsai [ʔim.sai]
   : self-doubt, anxiety
   : 'im-sai "negative-introspection" → 'imsai
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows cultural understanding of anxiety as negative self-reflection.
     Forms verb 'imsai'er "to doubt oneself, be anxious". See: 
     [Mental Terms](#mental-terms), [Emotional Terms](#emotional-terms)
@@ -6833,7 +6833,7 @@ Let's document this psychological term:
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'imsai",
   "@type": "ontolex:LexicalEntry",
@@ -6914,7 +6914,7 @@ Let's document this basic emotion verb:
 mes'er [mes.ʔer]
   : to feel (emotion), experience emotion
   : mes-'er "heart-VERB" → mes'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickck/_index.md#verbal-morphology))
   : Note: Basic emotion verb showing heart as seat of feelings. Often used in 
     compounds to form specific emotion terms. Contrasts with sul- (liver) terms
     for deeper emotions. See: [Body Terms](#body-terms), 
@@ -6937,7 +6937,7 @@ mes'er [mes.ʔer]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:mes'er",
   "@type": "ontolex:LexicalEntry",
@@ -7049,7 +7049,7 @@ Excellent compound! Let's document both terms:
 rantirduok [ran.tir.du.ok]
   : pirate, maritime raider
   : ran-imtirduok "river-scavenger" → rantirduok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Originally "river raider", extended to all maritime thieves. Shows
     compound reduction of imtirduok. See: [Maritime Terms](#maritime-terms),
     [Professional Terms](#professional-terms)
@@ -7057,7 +7057,7 @@ rantirduok [ran.tir.du.ok]
 rantirdu [ran.tir.du]
   : piracy, maritime raiding
   : Reanalyzed from rantirduok without agentive -ok
-  : ([back formation](@/languages/hick/early-hick/_index.md#derivational-morphology))
+  : ([back formation](@/languages/hickic/seneran/early-hickck/_index.md#derivational-morphology))
   : Note: Shows productive back-formation pattern creating abstract nouns from
     agent terms. Forms verb rantirdu'er "to engage in piracy". See:
     [Maritime Terms](#maritime-terms), [Criminal Terms](#criminal-terms)
@@ -7087,7 +7087,7 @@ _**Assistant**_
 
 I'll help add the pirate terms to the lexicon.jsonld file:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:rantirduok",
   "@type": "ontolex:LexicalEntry",
@@ -7199,7 +7199,7 @@ Let's document these pain terms that show the physical/emotional distinction:
 merkran [mer.kran]
   : emotional pain, heartache
   : mer-krantak "heart-pierce" → merkran
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   : Note: Shows metaphorical conceptualization of emotional pain as heart-piercing.
     Forms verb merkran'er "to feel emotional pain". See: [Body Terms](#body-terms),
     [Emotional Terms](#emotional-terms)
@@ -7207,7 +7207,7 @@ merkran [mer.kran]
 siltak [sil.tak]
   : physical pain
   : sil-tak "skin-hit" → siltak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Basic term for physical pain/hurt. Shows cultural distinction between
     physical and emotional pain. Forms verb siltak'er "to feel physical pain".
     See: [Body Terms](#body-terms), [Physical States](#physical-states)
@@ -7230,7 +7230,7 @@ siltak [sil.tak]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:merkran",
   "@type": "ontolex:LexicalEntry",
@@ -7439,7 +7439,7 @@ document:
 litak [li.tak]
   : touch, gentle contact
   : li-tak "DIM-strike" → litak
-  : ([diminutive prefix](@/languages/hick/early-hick/_index.md#derivational-morphology))
+  : ([diminutive prefix](@/languages/hickic/seneran/early-hickck/_index.md#derivational-morphology))
   : Note: Shows diminutive formation from tak "strike". Forms verb litak'er "to
     touch". Contrasts with base tak for forceful contact. See: 
     [Basic Terms](#basic-terms), [Action Terms](#action-terms)
@@ -7462,7 +7462,7 @@ litak [li.tak]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:litak",
   "@type": "ontolex:LexicalEntry",
@@ -7553,7 +7553,7 @@ Let's document this:
 ris [ris]
   1. reed, water plant
      : < Proto-Hick *risu
-     : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+     : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes))
      : See: [Plant Terms](#plant-terms), [Maritime Terms](#maritime-terms)
   
   2. to touch lightly, brush against
@@ -7881,7 +7881,7 @@ Here are the entries for siltak:
 siltak [sil.tak]
   : touch, tactile sensation
   : sil-tak "skin-contact" → siltak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows development of tactile terms from body part compounds. Contrasts
     with plain tak'er for forceful contact. See: [Body Terms](#body-terms),
     [Sensation Terms](#sensation-terms)
@@ -7889,7 +7889,7 @@ siltak [sil.tak]
 siltak'er [sil.tak.ʔer]
   : to touch, to feel
   : siltak-'er "skin.contact-VERB" → siltak'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickck/_index.md#verbal-morphology))
   : Note: Primary verb for tactile sensation. Developed to disambiguate from tak'er
     "to hit" after sound merger of *taku and *tahaku. See: [Body Terms](#body-terms),
     [Sensation Terms](#sensation-terms)
@@ -7913,7 +7913,7 @@ siltak'er [sil.tak.ʔer]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:siltak",
   "@type": "ontolex:LexicalEntry",
@@ -7998,7 +7998,7 @@ Nice compound! Let's document this honorific term:
 sibar [si.bar]
   : distinguished one, unique person
   : sin-bar "one-name" → sibar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows liquid deletion in compounds. Used as respectful term for notable
     individuals. Implies someone whose name stands alone. See: 
     [Person Terms](#person-terms), [Honor Terms](#honor-terms)
@@ -8022,7 +8022,7 @@ sibar [si.bar]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:sibar",
   "@type": "ontolex:LexicalEntry",
@@ -8107,7 +8107,7 @@ aggressive meaning. Let's document it:
 takimris [ta.kim.ris]
   : to attack, to oppose
   : tak-imris "strike-ELL" → takimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickck/_index.md#case-system))
   : Note: Shows productive use of ellative case for outward-directed aggressive
     action. Contrasts with tak'er for simple striking. Forms compounds like
     takimrisok "attacker". See: [Action Terms](#action-terms),
@@ -8132,7 +8132,7 @@ takimris [ta.kim.ris]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:takimris",
   "@type": "ontolex:LexicalEntry",
@@ -8218,7 +8218,7 @@ Excellent etymology showing technological development! Let's document this:
 krakesi [kra.ke.si]
   : sword, long bladed weapon
   : krak-kasigaru "tooth-obsidian" → krakesi
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Originally referred to wooden paddle with obsidian teeth inserts.
     Extended to any long bladed weapon. Shows technological development from
     Proto-Hick period. See: [Weapon Terms](#weapon-terms),
@@ -8244,7 +8244,7 @@ krakesi [kra.ke.si]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:krakesi",
   "@type": "ontolex:LexicalEntry",
@@ -8331,7 +8331,7 @@ Nice compound! Let's document this collective term for weapons:
 brastak [bras.tak]
   : weapons, armaments
   : brast-tak "arm-strike" → brastak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: General term for weapons, literally "arm-strike". Shows metonymic
     extension from action to implements. Often used collectively for military
     equipment. See: [Weapon Terms](#weapon-terms), [Military Terms](#military-terms)
@@ -8356,7 +8356,7 @@ brastak [bras.tak]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:brastak",
   "@type": "ontolex:LexicalEntry",
@@ -8444,7 +8444,7 @@ Let's document this borrowed mythological term:
 lik [lik]
   : dragon
   : < Eldrim lyg "dragon, snake, drake"
-  : ([loanword](@/languages/hick/early-hick/_index.md#loanwords))
+  : ([loanword](@/languages/hickic/seneran/early-hickck/_index.md#loanwords))
   : Note: Early borrowing from Eldrim, showing cultural contact and mythological
     influence. Narrowed from general serpentine being to specific dragon concept.
     See: [Mythological Terms](#mythological-terms), 
@@ -8470,7 +8470,7 @@ lik [lik]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:lik",
   "@type": "ontolex:LexicalEntry",
@@ -8555,7 +8555,7 @@ Excellent compounds showing landscape terms! Let's document these:
 asamgral [a.sam.gral]
   : flatlands, plains
   : asam-gral "lie-land" → asamgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension from "lying" position to flat terrain.
     Contrasts with torgral "highlands". See: [Landscape Terms](#landscape-terms),
     [Geographic Terms](#geographic-terms)
@@ -8563,7 +8563,7 @@ asamgral [a.sam.gral]
 'ibrigral [ʔib.ri.gral]
   : farmlands, cultivated fields
   : 'ibri-gral "manure-land" → 'ibrigral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   : Note: Shows development from fertilization practice to general agricultural
     land. Contrasts with wild gral. See: [Agricultural Terms](#agricultural-terms),
     [Landscape Terms](#landscape-terms)
@@ -8589,7 +8589,7 @@ asamgral [a.sam.gral]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:asamgral",
   "@type": "ontolex:LexicalEntry",
@@ -8720,7 +8720,7 @@ Perfect set of cardinal directions derived from winds! Let's document these:
 eldul [el.dul]
   : north
   : eldalulbres "north wind" → eldul
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   : Note: Shortened from "elven wind", shows historical Eldrim influence on
     directional system. See: [Directional Terms](#directional-terms),
     [Wind Terms](#wind-terms)
@@ -8728,14 +8728,14 @@ eldul [el.dul]
 kethul [ke.θul]
   : east
   : kethulbres "east wind" → kethul
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   : Note: Shortened from "sea wind", shows maritime influence on eastern regions.
     See: [Directional Terms](#directional-terms), [Maritime Terms](#maritime-terms)
 
 thilul [θi.lul]
   : south
   : thilulbres "sacred wind" → thilul
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   : Note: Shortened from "sacred wind", shows cultural association of south with
     favorable omens. See: [Directional Terms](#directional-terms),
     [Sacred Terms](#sacred--ritual)
@@ -8743,7 +8743,7 @@ thilul [θi.lul]
 tarul [ta.rul]
   : west
   : aitarulbres "rainy wind" → tarul
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   : Note: Shortened from "rainy wind", shows climatic influence on directional
     terms. See: [Directional Terms](#directional-terms),
     [Weather Terms](#weather-terms)
@@ -8783,7 +8783,7 @@ _**Assistant**_
 
 I'll help add the cardinal direction terms to both the markdown and JSON-LD. Let me format the JSON-LD entries for the cardinal directions:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:eldul",
   "@type": "ontolex:LexicalEntry",
@@ -8953,7 +8953,7 @@ Let's document these magical practitioner terms:
 'imwen [ʔim.wen]
   : witch, evil woman
   : 'im-wen'al "evil-woman" → 'imwen
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-reduction))
   : Note: Pejorative term for female magic user. Shows gender bias in magical
     terminology. Contrasts with wenkulok. See: [Magic Terms](#magic-terms),
     [Gender Terms](#gender-terms)
@@ -8961,7 +8961,7 @@ Let's document these magical practitioner terms:
 wenkulok [wen.ku.lok]
   : sorceress
   : wen'al-kulok "woman-sorcerer" → wenkulok
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-reduction))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-reduction))
   : Note: Neutral/respectful term for female magic user. Shows regularization of
     gender marking in professional terms. See: [Magic Terms](#magic-terms),
     [Professional Terms](#professional-terms)
@@ -8987,7 +8987,7 @@ wenkulok [wen.ku.lok]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'imwen",
   "@type": "ontolex:LexicalEntry",
@@ -9118,7 +9118,7 @@ Let's document this disjunctive coordinator:
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 'a [ʔa]
   : or, either/or
-  : ([coordinator](@/languages/hick/early-hick/_index.md#conjunctions))
+  : ([coordinator](@/languages/hickic/seneran/early-hickck/_index.md#conjunctions))
   : Note: Disjunctive coordinator used with particle o, parallel to additive ru.
     Takes case marking to show role of coordinated phrase. See: 
     [Conjunctions](#conjunctions), [Coordination](#coordination)
@@ -9155,7 +9155,7 @@ Examples:
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'a",
   "@type": "ontolex:LexicalEntry",
@@ -9326,7 +9326,7 @@ Let's document this interesting semantic development:
 arak [a.rak]
   : color
   : < Proto-Hick *ʔaraku "light (animate)"
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes))
   : Note: Shows semantic shift from animate light to color. Forms compounds for
     specific colors. See: [Color Terms](#color-terms), 
     [Visual Terms](#visual-terms)
@@ -9351,7 +9351,7 @@ arak [a.rak]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:arak",
   "@type": "ontolex:LexicalEntry",
@@ -9438,7 +9438,7 @@ Let's document this cultural borrowing:
 parma [par.ma]
   : book, written record
   : < Eldrim parma "book"
-  : ([loanword](@/languages/hick/early-hick/_index.md#loanwords))
+  : ([loanword](@/languages/hickic/seneran/early-hickck/_index.md#loanwords))
   : Note: Direct borrowing showing Eldrim influence on literacy and written
     culture. Forms compounds for various text types. See: 
     [Writing Terms](#writing-terms), [Borrowed Terms](#borrowed-terms)
@@ -9464,7 +9464,7 @@ parma [par.ma]
 
 
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:parma",
   "@type": "ontolex:LexicalEntry",

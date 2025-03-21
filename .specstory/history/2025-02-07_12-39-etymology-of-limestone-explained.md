@@ -581,7 +581,7 @@ _**Assistant**_
 Yes! Let's add the recently coined words for snow, ice, and flint into the lexicon.jsonld format. I'll 
 format them following the existing patterns:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@graph": [
     // ... existing entries ...
@@ -711,7 +711,7 @@ _**Assistant**_
 
 Yes! Let's add some of the compounds we discussed using _ken_ "snow" and _mirik_ "ice":
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@graph": [
     {
@@ -886,7 +886,7 @@ _**Assistant**_
 
 Ah yes, you're absolutely right! Let me correct that with the proper compounds:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@graph": [
     {
@@ -991,7 +991,7 @@ _**Assistant**_
 Ah, that's a great semantic distinction! _aimirik_ as a water-ice mixture makes perfect sense for 
 "slush". Let me revise that entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@graph": [
     {

@@ -99,11 +99,11 @@ Common sources for interrogative roots include:
 ```140:146:site/content/languages/hick/early-hick/lexicon.md
 
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 - his [his] "sight" < Proto-Hick \*hi-lisu → his
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
-  [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds),
+  [vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 'lis/his' ("eye/sight") could be a source
@@ -115,7 +115,7 @@ Common sources for interrogative roots include:
 ```231:233:site/content/languages/hick/early-hick/lexicon.md
 
 - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 
@@ -143,7 +143,7 @@ This uses the existing similarity prefix *ka-* shown in:
 
 With context, the word itself would be enough to mean the color, however to
 disambiguate from other meanings, the
-[Similarity Prefix](@/languages/hick/early-hick#similarity-marking) _ka-_ is
+[Similarity Prefix](@/languages/hickic/seneran/early-hickck#similarity-marking) _ka-_ is
 ```
 
 
@@ -187,7 +187,7 @@ For Early Hick, we could adapt these patterns while maintaining consistency with
 #### Water Features
 
 - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms)
 ```
 
@@ -261,42 +261,42 @@ Looking at Early Hick's lexicon, relevant semantic fields include:
 
 
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact; right (direction)" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin; directional sense from cultural association with
   dominant striking hand See: [Directional Terms](#directional-system)
 - stor [stor] "grow; add, increment" < Proto-Hick \*storu → stor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) Note:
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick)) Note:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: Literally "end of life" See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - istor [is.tor] "growth (living)" < Proto-Hick \*hi-storu → istor
-  ([initial sibilant loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([initial sibilant loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
   See: [Sacred Terms](#sacred--ritual)
 - gnar [gnar] "correct" < Proto-Hick \*gnaru → gnar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
   animacy marking through glottal prefix See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - 'il [ʔil] "good, kind" < Proto-Hick \*hi-halu → 'il
-  ([initial fricative change, vowel coalescence](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change, vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Shows archaic animacy marking through glottal prefix See:
 ```
 
@@ -414,7 +414,7 @@ The vowel /a/ surfaces as [ə]:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -450,7 +450,7 @@ The vowel /a/ surfaces as [ə]:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickck/morphology.md#prefixes)
 ```
 
 
@@ -462,7 +462,7 @@ The vowel /a/ surfaces as [ə]:
 - tor-mur-mer → tomur "great owl"
 - thur-mur-mer → thurmur "dusk owl"
 - li-mur-mer → limur "small owl" See:
-  [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+  [Compound Simplification](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification)
 ```
 
 
@@ -485,7 +485,7 @@ derivations:
 
 ```69:71:site/content/languages/hick/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 ```
 
@@ -496,7 +496,7 @@ derivations:
 
 ```795:797:site/content/languages/hick/early-hick/lexicon.md
 - 'al [ʔal] "person" < Proto-Hick \*ʔalu → 'al
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick)) See:
   [Political Terms](#political-terms)
 ```
 
@@ -507,7 +507,7 @@ derivations:
 
 ```345:347:site/content/languages/hick/early-hick/lexicon.md
 - wad [wad] "path, way" < Proto-Hick \*wadu → wad
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms)
 ```
 
@@ -518,7 +518,7 @@ derivations:
 
 ```339:341:site/content/languages/hick/early-hick/lexicon.md
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 ```
 
@@ -548,7 +548,7 @@ The vowel /a/ surfaces as [ə]:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickck/morphology.md#prefixes)
    - /ma-/ → [mə-] (plural prefix) See:
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -565,7 +565,7 @@ And the compound simplification patterns shown in:
 - tor-mur-mer → tomur "great owl"
 - thur-mur-mer → thurmur "dusk owl"
 - li-mur-mer → limur "small owl" See:
-  [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+  [Compound Simplification](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification)
 ```
 
 
@@ -845,7 +845,7 @@ The vowel /a/ surfaces as [ə]:
    - /ma-/ → [mə-] (plural prefix) See:
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/seneran/early-hickck/morphology.md#prefixes)
    - /malam/ → [məlam] "pooled"
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -1201,7 +1201,7 @@ I'll help add the interrogative words to both files. Let's start with the markdo
 
 #### Basic Forms
 - 'aka [ʔa.ka] "what" < Proto-Hick *haka → 'aka 
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Basic question root, shows archaic animacy marking
 
 #### Proximal Forms
@@ -1228,7 +1228,7 @@ I'll help add the interrogative words to both files. Let's start with the markdo
 
 And for the JSON-LD lexicon:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:aka",
   "@type": "ontolex:LexicalEntry",
@@ -1304,7 +1304,7 @@ Yes, you're absolutely right! Early Hick does have glottal stop minimal pairs, a
 
 ```69:73:site/content/languages/hick/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
@@ -1317,7 +1317,7 @@ Where we see the minimal pair:
 
 Let's modify the JSON-LD entries to preserve the glottal stops in the IDs:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'aka",
   "@type": "ontolex:LexicalEntry",
@@ -1395,7 +1395,7 @@ Looking at the lexicon entries:
 
 ```69:76:site/content/languages/hick/early-hick/lexicon.md
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
@@ -1442,9 +1442,9 @@ Let's proceed with using the glottal stops in the IDs. If we need to change it l
 
 ```114:140:site/content/languages/hick/early-hick/lexicon.md
 - 'aka [ʔa.ka] "what" < Proto-Hick \*haka → 'aka
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Basic question root, shows archaic animacy marking
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
 #### Proximal Forms
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM) Note: Used for
@@ -1460,7 +1460,7 @@ Let's proceed with using the glottal stops in the IDs. If we need to change it l
 - 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
 - 'eteleth [ʔe.te.leθ] < 'aka-tel-eth "when" (sensed time)
 - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
 #### Distal Forms
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person) Note: Default form for
@@ -1554,7 +1554,7 @@ I'll continue with the JSON-LD entries for the interrogatives, following the pat
 
 Here's the expanded JSON-LD:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@graph": [
     {
@@ -1651,7 +1651,7 @@ yes please
 
 I'll continue with the JSON-LD entries for all interrogatives, following the patterns shown in lines 872-916 of _index.md. Here's the complete set:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@graph": [
     {
@@ -1762,7 +1762,7 @@ I'll continue with the JSON-LD entries for the interrogatives sequentially. Let'
 
 Here are the remaining proximal form entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'atel",
   "@type": "ontolex:LexicalEntry",
@@ -1845,7 +1845,7 @@ I'll continue with the medial forms, following the pattern shown in:
 
 Here are the medial form entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'aleth",
   "@type": "ontolex:LexicalEntry",
@@ -1924,7 +1924,7 @@ I'll continue with the remaining medial forms, following the pattern shown in:
 
 Here are the remaining medial form entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'eteleth",
   "@type": "ontolex:LexicalEntry",
@@ -2005,7 +2005,7 @@ I'll continue with the distal forms, following the pattern shown in:
 
 Here are the distal form entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'alum",
   "@type": "ontolex:LexicalEntry",
@@ -2085,7 +2085,7 @@ I'll continue with the remaining medial forms ('eteleth and 'akereth), following
 
 Here are the remaining medial form entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'eteleth",
   "@type": "ontolex:LexicalEntry",
@@ -2167,7 +2167,7 @@ You're absolutely right - let's continue with the distal forms, following the pa
 
 Here are the distal form entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'etelum",
   "@type": "ontolex:LexicalEntry",
@@ -2288,7 +2288,7 @@ We need these interrogative forms:
 Looking at the lexicon.jsonld file, I can see we have:
 
 
-```3268:3420:data/languages/hick/early-hick/lexicon.jsonld
+```3268:3420:data/languages/hickic/seneran/early-hick/lexicon.jsonld
         }
       ],
       "etymology": {
@@ -2502,7 +2502,7 @@ The distal form should be:
 
 Here's the missing proximal form entry:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'atal",
   "@type": "ontolex:LexicalEntry",
@@ -2554,7 +2554,7 @@ Looking at the documentation, I'll update the entries for 'ateleth and 'atelum t
 
 Here are the corrected entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ateleth",
   "@type": "ontolex:LexicalEntry",
@@ -2740,7 +2740,7 @@ Let me check the interrogatives we need against the documentation in:
 
 Let me provide the missing entries and fix the naming inconsistencies:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'alis",
   "@type": "ontolex:LexicalEntry",
@@ -2838,7 +2838,7 @@ Looking at the interrogative forms in:
 
 Let me provide the remaining JSON-LD entries for the interrogatives:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'atel",
   "@type": "ontolex:LexicalEntry",
@@ -2936,7 +2936,7 @@ I'll continue with the remaining interrogative entries, referencing the document
 
 Here are the remaining JSON-LD entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'akereth",
   "@type": "ontolex:LexicalEntry",
@@ -3056,7 +3056,7 @@ Let me verify all interrogative forms from the documentation. Here's what we nee
 
 Here's the JSON-LD entry for the basic root:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'aka",
   "@type": "ontolex:LexicalEntry",
@@ -3095,9 +3095,9 @@ Thanks for the clarification! Based on our review of the interrogatives in:
 ### Abstract Concepts
 
 #### Moral & Ethical Terms
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
 - thil [θil] "virtue, moral" < Proto-Hick \*halu → thil
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Abstract sense developed from basic meaning See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - 'alis [ʔa.lis] < 'aka-'al-is "who" (what-person-PROX.ANIM) Note: Used for
@@ -3108,19 +3108,19 @@ Thanks for the clarification! Based on our review of the interrogatives in:
 - mulisthral [mu.lis.θral] "prophetic dream" < mulis-thral → mulisthral
   (compound fusion, maintains second element due to sacred term)
 - mulisim [mu.li.sim] "nightmare" < mulis-im → mulisim
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   heard/sensed but not seen referents
 #### Emotional Terms
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
 - sibris [si.bris] "love" < Proto-Hick \*hibrisu "fire" → sibris
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Metaphorical extension from "fire" to "passion/love" See:
   [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - 'alum [ʔa.lum] < 'aka-'al-um "who" (unknown person) Note: Default form for
 ### Sensory Terms
 - 'atum [ʔa.tum] < 'aka-tal-um "where" (unknown location)
 #### Visual Perception
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
 ```
 
@@ -3530,70 +3530,70 @@ Yes, we can add "dak" following the pattern of other body part terms shown in:
 #### Basic Terms
   See: [Movement Terms](#movement-terms)
 - bel [bel] "mouth, opening" < Proto-Hick \*belu → bel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
 - kan [kan] "head" < Proto-Hick \*kanu → kan
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
 - tel [tel] "tail, end" < Proto-Hick \*telu → tel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Landscape Terms](#landforms)
 - gar [gar] "bone" < Proto-Hick \*garu → gar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Landscape Terms](#landforms), [Sacred Terms](#sacred--ritual)
 - sil [sil] "skin, hide" < Proto-Hick \*silu → sil
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Material Culture](#material-culture)
 - ven [ven] "wing, fin" < Proto-Hick \*venu → ven
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms), [Bird Terms](#bird-terms-nocturnal)
 - kran [kran] "horn, spike" < Proto-Hick \*kranu → kran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Landscape Terms](#landforms)
 - mar [mar] "blood, life-fluid" < Proto-Hick \*maru → mar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Colors](#colors), [Sacred Terms](#sacred--ritual)
 - ter [ter] "flow, fluid" < Proto-Hick \*teru → ter
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Water Features](#water-features), [Maritime Terms](#maritime-terms)
 - kost [kost] "foot" < Proto-Hick \*kostu → kost
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Movement Terms](#movement-terms)
 - tag [tag] "hand" < Proto-Hick \*tagu → tag
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Tool Terms](#tool-terms)
 - mes [mes] "heart" < Proto-Hick \*mesu → mes
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings See:
   [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 #### Internal
 #### Face Terms
 - mar [mar] "blood, life-fluid" < Proto-Hick \*maru → mar
 - lis [lis] "eye" < Proto-Hick \*lisu → lis
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual), [Bird Terms](#bird-terms-nocturnal)
 - thir [θir] "hair, fur" < Proto-Hick \*thiru → thir
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Colors](#colors), [Animal Terms](#flora--fauna)
 - sim [sim] "fine hair, lash" < Proto-Hick \*simu → sim
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Plant Terms](#flora--fauna)
 - bran [bran] "brow, ridge" < Proto-Hick \*branu → bran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 #### Trunk Terms
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
 - kir [kir] "chest, front" < Proto-Hick \*esgiru → kir
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual), [Person Terms](#person-terms)
 - dor [dor] "back, behind" < Proto-Hick \*doru → dor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Landscape Terms](#landforms), [Maritime Terms](#maritime-terms)
 - pal [pal] "belly, center" < Proto-Hick \*palu → pal
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual), [Landscape Terms](#landforms)
 - thal [θal] "side, flank" < Proto-Hick \*thalu → thal
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Landscape Terms](#landforms)
 ```
 
@@ -3602,8 +3602,8 @@ Here's the entry to add in the "Body Parts > Basic Terms" section:
 
 ```markdown
 - dak [dak] "stomach, gut" < Proto-Hick *daluku → dak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
   See: [Food & Consumption Terms](#food--consumption-terms)
 ```
 
@@ -3626,7 +3626,7 @@ Looking at the reduplication pattern in:
 
 ```106:108:site/content/languages/hick/early-hick/lexicon.md
 - takutak [ˈta.ku.tək] "rhythm" < Proto-Hick \*takutaku → takutak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication
 ```
 
@@ -3638,12 +3638,12 @@ And the compound formation patterns in:
 ### Compound Formation
 ## Sound Changes in Compounds
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
   brammater
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 ```
 
 
@@ -3651,11 +3651,11 @@ I'll add the entries following the same format:
 
 ```markdown
 - pak [pak] "poke" < Proto-Hick *paku → pak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Tool Terms](#tool-terms)
 
 - pakupak [ˈpa.ku.pək] "tickle" < Proto-Hick *pakupaku → pakupak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
 ```
 
@@ -3683,9 +3683,9 @@ Looking at the lexicon structure, we have several relevant sections:
 #### Basic Terms
 - mulisaes [mu.li.saes] "dream-state" < mulis-aes → mulisaes
 - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
-  [Directional System](@/languages/hick/early-hick/_index.md#directional-system)
+  [Directional System](@/languages/hickic/seneran/early-hickck/_index.md#directional-system)
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -3701,60 +3701,60 @@ Shows "Bodily Functions & States" section, and:
 
 ```41:108:site/content/languages/hick/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - tak [tak] "strike, impact; right (direction)" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Onomatopoeic origin; directional sense from cultural association with
   dominant striking hand See: [Directional Terms](#directional-system)
 - stor [stor] "grow; add, increment" < Proto-Hick \*storu → stor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) Note:
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick)) Note:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: Literally "end of life" See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - istor [is.tor] "growth (living)" < Proto-Hick \*hi-storu → istor
-  ([initial sibilant loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([initial sibilant loss, final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
   See: [Sacred Terms](#sacred--ritual)
 - gnar [gnar] "correct" < Proto-Hick \*gnaru → gnar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 - etil [e.til] "thing" < Proto-Hick \*etilu → etil
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
   animacy marking through glottal prefix See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - 'il [ʔil] "good, kind" < Proto-Hick \*hi-halu → 'il
-  ([initial fricative change, vowel coalescence](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change, vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   Note: Shows archaic animacy marking through glottal prefix See:
   [Sacred Terms](#sacred--ritual), [Basic Terms](#basic-terms)
 - ven [ven] "yoke, burden" < Proto-Hick \*venu → ven
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
 - vinu [vi.nu] "pregnancy" < Proto-Hick \*venu-sedu → vinu
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: From "burden-seed"; shows vowel harmony in compound reduction See:
   [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
   Note: From "burden-seed"; shows vowel harmony in compound reduction See:
 #### Derived Terms
 
 - venitar [ve.ni.tar] "to carry" < ven-itar "yoke-SUPER" → venitar
-  ([superessive case](@/languages/hick/early-hick/_index.md#case-system)) Note:
+  ([superessive case](@/languages/hickic/seneran/early-hickck/_index.md#case-system)) Note:
   Lexicalized from superessive case of "yoke" See: [Verbal Terms](#verbal-terms)
-  ([superessive case](@/languages/hick/early-hick/_index.md#case-system)) Note:
+  ([superessive case](@/languages/hickic/seneran/early-hickck/_index.md#case-system)) Note:
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu-itar "pregnancy-ELL" → vinuiter
-  ([ellative case](@/languages/hick/early-hick/_index.md#case-system)) Note:
+  ([ellative case](@/languages/hickic/seneran/early-hickck/_index.md#case-system)) Note:
   Lexicalized from ellative case of "pregnancy" See:
   [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
   Lexicalized from ellative case of "pregnancy" See:
@@ -3766,7 +3766,7 @@ Shows "Bodily Functions & States" section, and:
 #### Derived Terms
 
 - takutak [ˈta.ku.tək] "rhythm" < Proto-Hick \*takutaku → takutak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication
 ```
 
@@ -3778,14 +3778,14 @@ I'd suggest adding pak and pakupak in two places:
 1. Under "Basic Terms" (around line 41):
 ```markdown
 - pak [pak] "poke" < Proto-Hick *paku → pak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Tool Terms](#tool-terms)
 ```
 
 2. Under "Bodily Functions & States > Basic Terms" (around line 728):
 ```markdown
 - pakupak [ˈpa.ku.pək] "tickle" < Proto-Hick *pakupaku → pakupak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
   See: [Basic Terms](#basic-terms)
 ```
@@ -3806,7 +3806,7 @@ Looking at the pattern of animacy marking and compound reduction shown in lines 
 ```markdown
 - 'isa [ʔi.sa] "snake" < Proto-Hick *hi-hasa → 'isa
   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: Shows archaic animacy marking through glottal prefix; derived from "animate vine"
   See: [Sacred Terms](#sacred--ritual)
 ```
@@ -3832,25 +3832,25 @@ Yes, looking at the patterns in:
 
 
 ```308:327:site/content/languages/hick/early-hick/lexicon.md
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - ris [ris] "reed" < Proto-Hick \*risu → ris
 #### Agricultural Terms
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - granmal [gran.mal] "grain storage" < gran-mal "grain-pool" → granmal
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - sedok [se.dok] "planter, farmer" < sed-ok "seed-AGENT" → sedok
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - graswad [gras.wad] "pasture path" < gras-wad "grass-path" → graswad
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
 #### Garden Terms
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
 - thragral [θra.gral] "garden" < thral-gral "sacred-earth" → thragral
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
   See: [Landforms](#landforms) Note: The dual meaning reflects the sacred nature
 ```
 
@@ -3868,7 +3868,7 @@ I would add this entry under "Basic Plant Terms":
 
 ```markdown
 - asa [a.sa] "vine" < Proto-Hick *hasa → asa
-  ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([initial fricative loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick))
   See: [Flora & Agriculture](#flora--agriculture)
 ```
 
@@ -3931,8 +3931,8 @@ I would suggest adding:
 
 ```markdown
 - dakisa [da.ki.sa] "infatuation" < Proto-Hick *daluku-isa-hihasa → dakisa
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: Literally "snake in the gut"; metaphorical extension for intense desire
   See: [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 ```
@@ -3947,20 +3947,20 @@ This would fit best in the Bodily Functions & States section, as shown in:
 
 
 ```724:738:site/content/languages/hick/early-hick/lexicon.md
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death See:
   [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 - mulisaes [mu.li.saes] "dream-state" < mulis-aes → mulisaes
-  ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
+  ([directional suffix](@/languages/hickic/seneran/early-hickck/_index.md#directional-system))
 - mulisimris [mu.li.sim.ris] "awakening" < mulis-imris → mulisimris
-  ([directional suffix](@/languages/hick/early-hick/_index.md#directional-system))
+  ([directional suffix](@/languages/hickic/seneran/early-hickck/_index.md#directional-system))
 - hilis [hi.lis] "sight" < Proto-Hick \*hi-lisu → hilis
 ### Architecture
   [Body Parts](#body-parts)
 #### Basic Terms
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - iskel [is.kel] "window" < is-kel "out-sky" → iskel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
 - iskelai [is.ke.lai] "window condensation" < iskel-ai "window-water" → iskelai
 ```
 

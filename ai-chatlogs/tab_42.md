@@ -617,7 +617,7 @@ additions:
   Note: Implies social cohesion rather than simple plurality
 ```
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 // ... after eh:al entry ...
 {
   "@id": "eh:maal",
@@ -713,7 +713,7 @@ organization. Here's the revised entry:
      See: [Person Terms](#person-terms)
 ```
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:maal",
   "@type": "ontolex:LexicalEntry",

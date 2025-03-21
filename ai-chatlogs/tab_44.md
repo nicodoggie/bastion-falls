@@ -469,7 +469,7 @@ Should become:
 For the JSON-LD, we should enhance the phoneticRep field to include stress and syllable boundaries. Looking at:
 
 
-```182:196:data/languages/hick/early-hick/lexicon.jsonld
+```182:196:data/languages/hickic/seneran/early-hick/lexicon.jsonld
         "@type": "ontolex:Form",
         "writtenRep": "thrakel",
         "phoneticRep": "θra.kel"

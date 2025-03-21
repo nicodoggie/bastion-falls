@@ -37,7 +37,7 @@ tenwa'er [ten.wa.ʔer]
 
 And for the JSON-LD representation:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tenwa",
   "@type": "ontolex:LexicalEntry",
@@ -135,7 +135,7 @@ storbran [stor.bran]
 
 And the corresponding JSON-LD:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:storbran",
   "@type": "ontolex:LexicalEntry",
@@ -232,7 +232,7 @@ sibrismer [si.bris.mer]
 
 And the JSON-LD entries:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:mesmer",
   "@type": "ontolex:LexicalEntry",
@@ -392,7 +392,7 @@ brismer [bris.mer]
 
 And the JSON-LD:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:brismer",
   "@type": "ontolex:LexicalEntry",
@@ -887,7 +887,7 @@ _**Assistant**_
 
 Yes, let's add these entries to reflect the etymological development we discussed:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ul",
   "@type": "ontolex:LexicalEntry",
@@ -1109,7 +1109,7 @@ uran [u.rən]
 
 And the JSON-LD:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:uran",
   "@type": "ontolex:LexicalEntry",
@@ -1180,7 +1180,7 @@ brastran [bras.tran]
 
 And the JSON-LD:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:brastran",
   "@type": "ontolex:LexicalEntry",
@@ -1239,7 +1239,7 @@ _**Assistant**_
 
 Yes, good idea! Let's add this entry but keep longer distances distinct (perhaps based on landmarks, walking time, or other cultural references).
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:vinuram",
   "@type": "ontolex:LexicalEntry",
@@ -1303,7 +1303,7 @@ A typical person walking at a comfortable pace on relatively flat ground can cov
 
 For Early Hick, we could create something like:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:barak'ir",
   "@type": "ontolex:LexicalEntry",
@@ -1367,7 +1367,7 @@ _**Assistant**_
 Yes, that's better! Using the temporal suffix `-ter` is more precise for a
 time-based measurement, and the colloquial shortening feels very natural:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:barakter",
   "@type": "ontolex:LexicalEntry",
@@ -1442,7 +1442,7 @@ _**Assistant**_
 
 Yes! Using `tirran-` for "half" gives us a nice intermediate distance measure:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tirranbarakter",
   "@type": "ontolex:LexicalEntry",
@@ -1522,7 +1522,7 @@ _**Assistant**_
 Ah yes! That's a much better analysis of the morphology. Let's revise to show
 this pattern:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tirranrakter",
   "@type": "ontolex:LexicalEntry",
@@ -1772,7 +1772,7 @@ maetil [ma.e.til]
   [Basic Terms](#basic-terms), [Quantifiers](#quantifiers)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:maetil",
   "@type": "ontolex:LexicalEntry",
@@ -1888,7 +1888,7 @@ kaimpal [ka.im.pal]
   [Body Terms](#body-terms), [Basic Terms](#basic-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kaimpal",
   "@type": "ontolex:LexicalEntry",
@@ -1964,7 +1964,7 @@ impal [im.pal]
   [Basic Terms](#basic-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:impal",
   "@type": "ontolex:LexicalEntry",
@@ -2038,7 +2038,7 @@ kapal [ka.pal]
   (forceful action). See: [Body Terms](#body-terms), [Basic Terms](#basic-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kapal",
   "@type": "ontolex:LexicalEntry",
@@ -2104,7 +2104,7 @@ _**Assistant**_
 Ah yes, you're absolutely right! Let me fix those entries to properly show their
 adjectival nature:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kapal",
   "@type": "ontolex:LexicalEntry",
@@ -2168,7 +2168,7 @@ _**Assistant**_
 
 Here are both entries properly marked as adjectives:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kapal",
   "@type": "ontolex:LexicalEntry",
@@ -2320,7 +2320,7 @@ _**Assistant**_
 
 Yes! This creates a nice semantic family around burning/heat metaphors. Let's document them:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ibris'er",
   "@type": "ontolex:LexicalEntry",
@@ -2432,7 +2432,7 @@ _**Assistant**_
 
 Ah yes, sorry! Let me fix those entries to properly show the glottal stops:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ibris'er",
   "@type": "ontolex:LexicalEntry",
@@ -2637,7 +2637,7 @@ eltek [el.tek]
   [Basic Terms](#basic-terms), [Earth Terms](#earth-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:eltek",
   "@type": "ontolex:LexicalEntry",
@@ -2718,7 +2718,7 @@ bramulis [bra.mu.lis]
   [Water Features](#water-features)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:bramulis",
   "@type": "ontolex:LexicalEntry",
@@ -2796,7 +2796,7 @@ momer [mo.mer]
   bird. See: [Animal Terms](#animal-terms), [Basic Terms](#basic-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:momer",
   "@type": "ontolex:LexicalEntry",
@@ -2867,7 +2867,7 @@ aniko [a.ni.ko]
   [Basic Terms](#basic-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:aniko",
   "@type": "ontolex:LexicalEntry",
@@ -3018,7 +3018,7 @@ temerok [te.me.rok]
   predator terms. See: [Animal Terms](#animal-terms), [Basic Terms](#basic-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:temerok",
   "@type": "ontolex:LexicalEntry",
@@ -3086,7 +3086,7 @@ temerok [te.me.rok]
   [Animal Terms](#animal-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:temerok",
   "@type": "ontolex:LexicalEntry",
@@ -3239,7 +3239,7 @@ krantak [kran.tak]
   [Basic Actions](#basic-actions), [Weapon Terms](#weapon-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:krantak",
   "@type": "ontolex:LexicalEntry",
@@ -3310,7 +3310,7 @@ krakrak [kra.krak]
   "tooth". See: [Body Terms](#body-terms), [Animal Terms](#animal-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:krakrak",
   "@type": "ontolex:LexicalEntry",
@@ -3862,7 +3862,7 @@ kasger [kas.ger]
   [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kasger",
   "@type": "ontolex:LexicalEntry",
@@ -3939,7 +3939,7 @@ kasai [kas.əi]
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:kasai",
   "@type": "ontolex:LexicalEntry",
@@ -4012,7 +4012,7 @@ sai [sai]
   [Mental Terms](#mental-terms), [Sacred Terms](#sacred--ritual)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:sai",
   "@type": "ontolex:LexicalEntry",
@@ -4088,7 +4088,7 @@ imtir [im.tir]
   [Food Terms](#food--consumption-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtir",
   "@type": "ontolex:LexicalEntry",
@@ -4166,7 +4166,7 @@ imtirlis [im.tir.lis]
     [Food Terms](#food--consumption-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtirlis",
   "@type": "ontolex:LexicalEntry",
@@ -4242,7 +4242,7 @@ imtirdu [im.tir.du]
     du for fresh meat. See: [Body Terms](#body-terms), [Death Terms](#death-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtirdu",
   "@type": "ontolex:LexicalEntry",
@@ -4328,7 +4328,7 @@ imtirduok [im.tir.du.ok]
     Applies to both animals and birds. See: [Animal Terms](#animal-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:imtirduok",
   "@type": "ontolex:LexicalEntry",
@@ -4405,7 +4405,7 @@ par [par]
     [Motion Terms](#motion-terms), [Body Terms](#body-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:par",
   "@type": "ontolex:LexicalEntry",
@@ -4475,7 +4475,7 @@ grapar [gra.par]
     [Earth Terms](#earth-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:grapar",
   "@type": "ontolex:LexicalEntry",
@@ -4564,7 +4564,7 @@ takal [ta.kal]
     unit of language rhythm. See: [Language Terms](#language-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:takutakal",
   "@type": "ontolex:LexicalEntry",
@@ -4605,7 +4605,7 @@ takal [ta.kal]
 }
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:takal",
   "@type": "ontolex:LexicalEntry",
@@ -4857,7 +4857,7 @@ Yes! Let's document this euphemism:
     [Sacred Terms](#sacred--ritual)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ilibris'er",
   "@type": "ontolex:LexicalEntry",
@@ -4934,7 +4934,7 @@ harabran [ha.ra.bran]
     [Conflict Terms](#conflict-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:harabran",
   "@type": "ontolex:LexicalEntry",
@@ -5022,7 +5022,7 @@ tagimris [tag.im.ris]
     [Body Terms](#body-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:taglas",
   "@type": "ontolex:LexicalEntry",
@@ -5062,7 +5062,7 @@ tagimris [tag.im.ris]
 }
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tagimris",
   "@type": "ontolex:LexicalEntry",
@@ -5139,7 +5139,7 @@ it:
     [Social Terms](#social-terms), [Sacred Terms](#sacred--ritual)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:iltakutak",
   "@type": "ontolex:LexicalEntry",
@@ -5450,7 +5450,7 @@ matir [ma.tir]
     [Motion Terms](#motion-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:matir",
   "@type": "ontolex:LexicalEntry",
@@ -5602,7 +5602,7 @@ _**Assistant**_
 
 I'll help add the 'ilsul entry to the lexicon.jsonld file:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ilsul",
   "@type": "ontolex:LexicalEntry",
@@ -5690,7 +5690,7 @@ Let's document this psychological term:
     [Mental Terms](#mental-terms), [Emotional Terms](#emotional-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'imsai",
   "@type": "ontolex:LexicalEntry",
@@ -5777,7 +5777,7 @@ mes'er [mes.ʔer]
     [Emotional Terms](#emotional-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:mes'er",
   "@type": "ontolex:LexicalEntry",
@@ -5929,7 +5929,7 @@ _**Assistant**_
 
 I'll help add the pirate terms to the lexicon.jsonld file:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:rantirduok",
   "@type": "ontolex:LexicalEntry",
@@ -6055,7 +6055,7 @@ siltak [sil.tak]
     See: [Body Terms](#body-terms), [Physical States](#physical-states)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:merkran",
   "@type": "ontolex:LexicalEntry",
@@ -6266,7 +6266,7 @@ litak [li.tak]
     [Basic Terms](#basic-terms), [Action Terms](#action-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:litak",
   "@type": "ontolex:LexicalEntry",
@@ -6706,7 +6706,7 @@ siltak'er [sil.tak.ʔer]
     [Sensation Terms](#sensation-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:siltak",
   "@type": "ontolex:LexicalEntry",
@@ -6792,7 +6792,7 @@ sibar [si.bar]
     [Person Terms](#person-terms), [Honor Terms](#honor-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:sibar",
   "@type": "ontolex:LexicalEntry",
@@ -6879,7 +6879,7 @@ takimris [ta.kim.ris]
     [Conflict Terms](#conflict-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:takimris",
   "@type": "ontolex:LexicalEntry",
@@ -6965,7 +6965,7 @@ krakesi [kra.ke.si]
     [Tool Terms](#tool-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:krakesi",
   "@type": "ontolex:LexicalEntry",
@@ -7050,7 +7050,7 @@ brastak [bras.tak]
     equipment. See: [Weapon Terms](#weapon-terms), [Military Terms](#military-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:brastak",
   "@type": "ontolex:LexicalEntry",
@@ -7135,7 +7135,7 @@ lik [lik]
     [Borrowed Terms](#borrowed-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:lik",
   "@type": "ontolex:LexicalEntry",
@@ -7223,7 +7223,7 @@ asamgral [a.sam.gral]
     [Landscape Terms](#landscape-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:asamgral",
   "@type": "ontolex:LexicalEntry",
@@ -7408,7 +7408,7 @@ _**Assistant**_
 
 I'll help add the cardinal direction terms to both the markdown and JSON-LD. Let me format the JSON-LD entries for the cardinal directions:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:eldul",
   "@type": "ontolex:LexicalEntry",
@@ -7582,7 +7582,7 @@ wenkulok [wen.ku.lok]
     [Professional Terms](#professional-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'imwen",
   "@type": "ontolex:LexicalEntry",
@@ -7717,7 +7717,7 @@ Examples:
    ```
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'a",
   "@type": "ontolex:LexicalEntry",
@@ -7869,7 +7869,7 @@ arak [a.rak]
     [Visual Terms](#visual-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:arak",
   "@type": "ontolex:LexicalEntry",
@@ -7946,7 +7946,7 @@ parma [par.ma]
     [Writing Terms](#writing-terms), [Borrowed Terms](#borrowed-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:parma",
   "@type": "ontolex:LexicalEntry",
@@ -8036,7 +8036,7 @@ parmatal [par.ma.tal]
     [Writing Terms](#writing-terms), [Building Terms](#building-terms)
 ````
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tal",
   "@type": "ontolex:LexicalEntry",

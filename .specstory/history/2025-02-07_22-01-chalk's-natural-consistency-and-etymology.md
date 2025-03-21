@@ -405,7 +405,7 @@ asatogar [a.sa.to.gar]
 // ... existing code ...
 ```
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 // ... existing code ...
 {
   "@id": "eh:asatogar",

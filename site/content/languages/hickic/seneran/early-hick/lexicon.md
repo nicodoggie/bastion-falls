@@ -33,5 +33,5 @@ For stress-related vowel changes,
 4. Example sentences show full morphological analysis
 5. Apostrophes (') are used to transcribe glottal stops in phonemic transcriptions
 
-{{ lexicon(path="content/languages/hick/early-hick/earlyhick-alphabetical.json",
+{{ lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick-alphabetical.json",
 format="json") }}

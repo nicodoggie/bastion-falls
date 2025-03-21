@@ -486,7 +486,7 @@ Examples of harmony breakdown:
 
 For lexicon.jsonld, we need to update the etymology fields. Here's an example pattern:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:haran",
   "@type": "ontolex:LexicalEntry",
@@ -597,7 +597,7 @@ changes. For example:
 
 For the JSON-LD version, we'll update the etymology fields:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:haran",
   "@type": "ontolex:LexicalEntry",
@@ -690,7 +690,7 @@ the Basic Terms section, referencing the stress patterns and sound changes:
 For the JSON-LD version, we'll update the etymology fields to include references to 
 both Proto-Hick and Early Hick changes:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:haran",
   "@type": "ontolex:LexicalEntry",
@@ -808,7 +808,7 @@ important stress and reduction patterns:
 
 For the JSON-LD, let's update these entries with detailed sound change references:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:thral",
   "@type": "ontolex:LexicalEntry",
@@ -934,7 +934,7 @@ since it shows interesting patterns of compound formation and stress effects:
 
 For the JSON-LD version:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tornes",
   "@type": "ontolex:LexicalEntry",
@@ -1068,7 +1068,7 @@ And the exceptions for sacred/maritime terms shown in:
 
 For the JSON-LD version:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:tor",
   "@type": "ontolex:LexicalEntry",

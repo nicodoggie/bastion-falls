@@ -123,106 +123,106 @@ I'll help you analyze the semantic fields in the lexicon to identify any that mi
 | `file:///home/ensu/Projects/bastion-falls/tools/bf-repo-tools/src/commands/import-lexicon.ts` | L154 | `const semanticField = isArray(ontoSense["lexinfo:semanticField"])` |
 | `file:///home/ensu/Projects/bastion-falls/tools/bf-repo-tools/src/commands/import-lexicon.ts` | L155 | `? ontoSense["lexinfo:semanticField"]` |
 | `file:///home/ensu/Projects/bastion-falls/tools/bf-repo-tools/src/commands/import-lexicon.ts` | L156 | `: [ontoSense["lexinfo:semanticField"]];` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L49 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L78 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L106 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L139 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L167 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L175 | `"lexinfo:semanticField": "Colors"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L208 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L244 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L272 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L308 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L344 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L372 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L397 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L431 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L465 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L490 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L518 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L546 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L574 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L603 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L640 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L668 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L705 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L742 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L779 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L817 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L846 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L874 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L907 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L935 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L943 | `"lexinfo:semanticField": "Colors"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L976 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1012 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1040 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1076 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1112 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1140 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1165 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1199 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1233 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1258 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1286 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1314 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1342 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1371 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1408 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1436 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1473 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1510 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1547 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1585 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1614 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1642 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1675 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1703 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1711 | `"lexinfo:semanticField": "Colors"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1744 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1780 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1808 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1844 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1880 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1908 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1933 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L1967 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2001 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2026 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2054 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2082 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2110 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2139 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2176 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2204 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2241 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2278 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2315 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2353 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2382 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2410 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2443 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2471 | `"lexinfo:semanticField": "Natural World"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2479 | `"lexinfo:semanticField": "Colors"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2512 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2548 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2576 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2612 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2648 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2676 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2701 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2735 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2769 | `"lexinfo:semanticField": "Kinship Terms"` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2794 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2822 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2850 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2878 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2907 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2944 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L2972 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L3009 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L3046 | `"lexinfo:semanticField": [` |
-| `file:///home/ensu/Projects/bastion-falls/data/languages/hick/early-hick/lexicon.jsonld` | L3083 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L49 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L78 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L106 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L139 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L167 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L175 | `"lexinfo:semanticField": "Colors"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L208 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L244 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L272 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L308 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L344 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L372 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L397 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L431 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L465 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L490 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L518 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L546 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L574 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L603 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L640 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L668 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L705 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L742 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L779 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L817 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L846 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L874 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L907 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L935 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L943 | `"lexinfo:semanticField": "Colors"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L976 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1012 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1040 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1076 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1112 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1140 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1165 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1199 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1233 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1258 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1286 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1314 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1342 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1371 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1408 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1436 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1473 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1510 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1547 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1585 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1614 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1642 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1675 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1703 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1711 | `"lexinfo:semanticField": "Colors"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1744 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1780 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1808 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1844 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1880 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1908 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1933 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L1967 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2001 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2026 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2054 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2082 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2110 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2139 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2176 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2204 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2241 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2278 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2315 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2353 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2382 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2410 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2443 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2471 | `"lexinfo:semanticField": "Natural World"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2479 | `"lexinfo:semanticField": "Colors"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2512 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2548 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2576 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2612 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2648 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2676 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2701 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2735 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2769 | `"lexinfo:semanticField": "Kinship Terms"` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2794 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2822 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2850 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2878 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2907 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2944 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L2972 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L3009 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L3046 | `"lexinfo:semanticField": [` |
+| `file:///home/ensu/Projects/bastion-falls/data/languages/hickic/seneran/early-hick/lexicon.jsonld` | L3083 | `"lexinfo:semanticField": [` |
 
 </details>
 

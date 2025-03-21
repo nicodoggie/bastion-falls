@@ -513,7 +513,7 @@ let's add these to @lexicon.jsonld
 
 I'll help add the entries for "mes" (heart) and "sibris" (love) to the lexicon.jsonld file. Here's how they should be structured:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:mes",
   "@type": "ontolex:LexicalEntry",
@@ -582,7 +582,7 @@ These entries should be added to the `@graph` array in the lexicon.jsonld file, 
 pattern shown in:
 
 
-```25:290:data/languages/hick/early-hick/lexicon.jsonld
+```25:290:data/languages/hickic/seneran/early-hick/lexicon.jsonld
   "@graph": [
     {
       "@id": "eh:ai",
@@ -1091,7 +1091,7 @@ let's also add it to the ontolex-lemon doc
 
 I'll help add the entries for murvinu and murvinuiter to the lexicon.jsonld file, following the patterns shown in the code:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:murvinu",
   "@type": "ontolex:LexicalEntry",

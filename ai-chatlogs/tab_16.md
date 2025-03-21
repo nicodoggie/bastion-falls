@@ -529,7 +529,7 @@ ok so can we add it to the lexicon? also as ontolex-lemon in @lexicon.jsonld
 I'll help create the lexicon entry for "asad" in ontolex-lemon format. Based on the Proto-Hick 
 documentation and sound changes:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:asad",
   "@type": "ontolex:LexicalEntry",
@@ -577,7 +577,7 @@ documentation and sound changes:
 
 This follows the same pattern as other compound entries in the lexicon (see lines 
 
-```4000:4050:data/languages/hick/early-hick/lexicon.jsonld
+```4000:4050:data/languages/hickic/seneran/early-hick/lexicon.jsonld
           "lexinfo:semanticField": "Animal Terms"
         }
       ]
@@ -1255,7 +1255,7 @@ Yes, I'll add the entry following the ontolex-lemon format. Based on the pattern
 And the existing lexical entries in:
 
 
-```1:85:data/languages/hick/early-hick/lexicon.jsonld
+```1:85:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@context": {
     "@vocab": "http://www.w3.org/ns/lemon/ontolex#",

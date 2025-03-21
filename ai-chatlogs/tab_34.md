@@ -234,7 +234,7 @@ Yes, I'll help update the entries while maintaining the existing JSON-LD structu
 
 This shows the ergative-absolutive pattern and verbal derivation. Here's how we should update the "ward" entry while keeping the @id structure:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ward",
   "@type": "ontolex:LexicalEntry",
@@ -306,7 +306,7 @@ Based on the documentation, I'll help update more entries in the lexicon.jsonld 
 
 Here are the updated entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:ter",
   "@type": "ontolex:LexicalEntry",
@@ -410,7 +410,7 @@ I'll continue providing updated entries for the lexicon.jsonld file, maintaining
 
 Here are more entries that need updating:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:thral",
   "@type": "ontolex:LexicalEntry",
@@ -514,7 +514,7 @@ Based on the documentation, I'll continue updating entries in lexicon.jsonld. Lo
 
 Here are more entries with proper JSON-LD structure:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:thral",
   "@type": "ontolex:LexicalEntry",
@@ -667,7 +667,7 @@ Based on the documentation, I'll continue with more entries focusing on the spat
 
 Here are more entries in the proper JSON-LD format:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:aes",
   "@type": "ontolex:LexicalEntry",

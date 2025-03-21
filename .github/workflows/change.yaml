@@ -39,7 +39,7 @@ jobs:
     - name: Build Lexicon Pages
       run: |
         pnpm bf import-lexicon \
-          data/languages/hick/early-hick/lexicon.jsonld \
+          data/languages/hickic/seneran/early-hick/lexicon.jsonld \
           site/content/languages/hick/early-hick/
     - name: Upload changelog as artifact
       uses: actions/upload-artifact@v4

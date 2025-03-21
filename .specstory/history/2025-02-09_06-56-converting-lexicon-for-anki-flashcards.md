@@ -197,7 +197,7 @@ _**Assistant**_
 
 I'll help you create a CSV file for Early Hick vocabulary. Based on the lexicon entries shown, I'll format it with just the word and definition for Anki usage.
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 Word;Definition
 'ir;action, movement, motion
 tag'er;to make, to craft
@@ -263,7 +263,7 @@ _**Assistant**_
 
 I'll continue converting more entries from the lexicon into the simple Word;Definition format:
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 Word;Definition
 ba;father
 nai;mother
@@ -330,7 +330,7 @@ _**Assistant**_
 
 Continuing with more entries from the lexicon:
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 Word;Definition
 'is;this (animate)
 is;this (inanimate)
@@ -385,7 +385,7 @@ _**Assistant**_
 
 I notice that some entries are duplicates from earlier in the file (like 'imwes' and 'storbran'). I'll continue adding new entries while avoiding duplicates:
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 Word;Definition
 'al-el 'ilitar venuiter-es;congratulations on your birth/happy birthday
 'irurlises duwesimris;gift-giving
@@ -440,7 +440,7 @@ _**Assistant**_
 
 I'll continue adding new entries, avoiding any duplicates:
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 Word;Definition
 'ilisimris'er;to teach
 'ilisok;teacher
@@ -483,7 +483,8 @@ _**Assistant**_
 I'll analyze the content:
 
 1. MISSING UNIQUE ENTRIES (from lexicon):
-```csv:data/languages/hick/early-hick/early-hick.csv
+
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 venuiter;to give birth (inland dialect, formal)
 murvinuiter;to abort
 gras'er;to graze
@@ -553,7 +554,7 @@ _**Assistant**_
 
 I'll update the demonstratives section based on the lexicon:
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 // ... existing code ...
 -'is;this (animate)
 -en;that (inanimate)
@@ -585,7 +586,7 @@ _**Assistant**_
 
 Ah yes, you're right. Let me update the demonstratives section with all forms and their complete definitions from the lexicon:
 
-```csv:data/languages/hick/early-hick/early-hick.csv
+```csv:data/languages/hickic/seneran/early-hick/early-hick.csv
 -'is;this; proximal-visible-animate
 -is;this; proximal-visible-inanimate
 -tan;that; medial-visible-animate

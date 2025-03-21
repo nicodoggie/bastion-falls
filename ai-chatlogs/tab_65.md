@@ -176,7 +176,7 @@ actually, can you generate a json file that conforms with this schema from @lexi
 I'll help create a JSON file that captures the lexical data from the Early Hick lexicon. 
 Here's a structured version:
 
-```json:data/languages/hick/early-hick/lexicon.json
+```json:data/languages/hickic/seneran/early-hick/lexicon.json
 {
   "language": "Early Hick",
   "period": "Prehistory to 300 PF",
@@ -258,7 +258,7 @@ I mean conforming with OntoLex-Lemon
 Ah, I apologize for the confusion! Yes, let's convert the lexicon to OntoLex-Lemon format. Here's a 
 sample in JSON-LD:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@context": {
     "@language": "eh",
@@ -361,7 +361,7 @@ looks great! please continue with the entries first
 
 I'll continue adding more entries, focusing on some key semantic domains:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@context": {
     "@language": "eh",
@@ -543,7 +543,7 @@ Ah yes, we should add proper language identification! In OntoLex-Lemon, we can u
 ontology to properly identify languages. Here's how we should modify the context and add language 
 metadata:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@context": {
     "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
@@ -620,7 +620,7 @@ It's particularly useful for linguistic data because it provides standard ways t
 
 Let's continue with more lexical entries, focusing on kinship terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -738,7 +738,7 @@ let's go through all of them. we don't want to miss a single word. thanks!
 I'll continue systematically through all entries, following the semantic domains from the lexicon. 
 Let's continue with the Natural World section:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -868,7 +868,7 @@ continue
 
 Continuing with more landform terms and compounds:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1016,7 +1016,7 @@ Shall I continue with:
 
 Continuing with the remaining landform terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1095,7 +1095,7 @@ yes please
 
 Continuing with Precipitation terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1203,7 +1203,7 @@ let's do it sequentially please
 
 Starting with Basic Plant Terms from Flora & Agriculture:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1376,7 +1376,7 @@ continue
 
 Continuing with Cultivated Plants:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1535,7 +1535,7 @@ continue please
 
 Continuing with Agricultural Terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1695,7 +1695,7 @@ yes please
 
 Continuing with Garden Terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1831,7 +1831,7 @@ yes please
 
 Continuing with Sacred & Ritual Basic Terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -1953,7 +1953,7 @@ yes. the additional semantic info is much appreciated
 
 Continuing with Sacred Compounds:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -2115,7 +2115,7 @@ let's continue
 
 Continuing with the remaining Sacred Compounds:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -2179,7 +2179,7 @@ Continuing with the remaining Sacred Compounds:
 
 Now let's add the Negation and Opposition terms:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous entries ...
   "@graph": [
@@ -2236,7 +2236,7 @@ continue please
 
 Continuing with the imur- compounds:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -2381,7 +2381,7 @@ Now we should add the example sentences with their morphological analysis. Would
 
 Adding example sentences with morphological analysis to relevant entries:
 
-```json:data/languages/hick/early-hick/lexicon.jsonld
+```json:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   // ... previous context and metadata ...
   "@graph": [
@@ -2507,7 +2507,7 @@ Yes! For describing the language itself, we can use the GOLD (General Ontology f
 Description) ontology alongside OntoLex-Lemon. Here's how we might structure the language 
 description:
 
-```json:data/languages/hick/early-hick/language.jsonld
+```json:data/languages/hickic/seneran/early-hick/language.jsonld
 {
   "@context": {
     "@vocab": "http://linguistics-ontology.org/gold/",

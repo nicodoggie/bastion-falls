@@ -26,7 +26,7 @@ I'll help craft an entry for 'ilisal that follows the established patterns in th
 
 And here's the corresponding JSON-LD entry that would go in the lexicon.jsonld file:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ilisal",
   "@type": "ontolex:LexicalEntry",
@@ -136,7 +136,7 @@ aiesp [ai.esp]
 
 And here's the corresponding JSON-LD entry:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:aiesp",
   "@type": "ontolex:LexicalEntry",
@@ -238,7 +238,7 @@ I'll help create entries for this compound that follows Early Hick's patterns fo
 
 And here's the corresponding JSON-LD entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'irai",
   "@type": "ontolex:LexicalEntry",
@@ -527,7 +527,7 @@ _**Assistant**_
 Here's the JSON-LD entry for parduwes, incorporating the mythological aspect and 
 folk etymology:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:parduwes",
   "@type": "ontolex:LexicalEntry",
@@ -622,7 +622,7 @@ meltek [mel.tek]
 
 And here's the corresponding JSON-LD entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:meltek",
   "@type": "ontolex:LexicalEntry",
@@ -731,7 +731,7 @@ vinusak [vi.nu.sak]
 
 And here's the corresponding JSON-LD entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:vinusak",
   "@type": "ontolex:LexicalEntry",
@@ -841,7 +841,7 @@ rek [rek]
 
 And here's the corresponding JSON-LD entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:rek",
   "@type": "ontolex:LexicalEntry",
@@ -944,7 +944,7 @@ Let me help create an entry for this compound meaning "place of knowledge":
 
 And here's the corresponding JSON-LD entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:'ilistal",
   "@type": "ontolex:LexicalEntry",
@@ -1333,7 +1333,7 @@ asamwen [a.sam.wen]
 
 And here's the corresponding JSON-LD entry:
 
-```jsonld:data/languages/hick/early-hick/lexicon.jsonld
+```jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:asamwen",
   "@type": "ontolex:LexicalEntry",
@@ -2645,7 +2645,8 @@ lambe [lam.be]
 
 
 And the JSON-LD entry:
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:lambe",
   "@type": "ontolex:LexicalEntry",
@@ -2877,7 +2878,7 @@ _**Assistant**_
 
 Here are the JSON-LD entries for the Elven language terms:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:torlambe",
   "@type": "ontolex:LexicalEntry",
@@ -3077,7 +3078,7 @@ _**Assistant**_
 
 Here's the JSON-LD entry for matakulambe:
 
-````jsonld:data/languages/hick/early-hick/lexicon.jsonld
+````jsonld:data/languages/hickic/seneran/early-hick/lexicon.jsonld
 {
   "@id": "eh:matakulambe",
   "@type": "ontolex:LexicalEntry",
