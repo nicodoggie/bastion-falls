@@ -12,7 +12,7 @@ _**Assistant**_
 
 I'll help you extract the Proto-Hick roots from the Early Hick lexicon and format them for the Proto-Hick lexicon. Here's how we should structure the edits:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Basic Vocabulary
@@ -207,7 +207,7 @@ yes please
 
 _**Assistant**_
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Numbers and Counting
@@ -441,7 +441,7 @@ _**Assistant**_
 
 Looking at the Early Hick lexicon, I'll extract additional Proto-Hick roots that haven't been added yet. Here's the next set:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Action Terms
@@ -582,7 +582,7 @@ _**Assistant**_
 
 I'll carefully review the Early Hick lexicon again and only extract Proto-Hick roots that are explicitly mentioned. Here are additional entries I found:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Action Terms
@@ -646,7 +646,7 @@ _**Assistant**_
 
 Looking through the Early Hick lexicon again for explicitly attested Proto-Hick forms:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Action Terms
@@ -718,7 +718,7 @@ _**Assistant**_
 
 Looking through the Early Hick lexicon again for any remaining explicitly attested Proto-Hick forms:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Person Terms
@@ -800,7 +800,7 @@ _**Assistant**_
 
 Looking through the Early Hick lexicon one more time for any remaining explicitly attested Proto-Hick forms:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 // ... existing code ...
 
 ## Compound Terms

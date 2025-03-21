@@ -74,7 +74,7 @@ This led us to hypothesize that Proto-Hick had a strict syllable structure where
 2. Final syllables had to be CV
 3. Initial C was filled by /ʔ/ if no other consonant was present
 
-We documented this in `site/content/languages/hick/proto-hick.md` (lines 17-39), along with 
+We documented this in `site/content/languages/hickic/proto-hick.md` (lines 17-39), along with 
 repair strategies for roots that didn't fit this pattern.
 
 Would you like to:
@@ -96,7 +96,7 @@ show non-final syllables with codas. Let's examine the evidence:
 
 From the lexicon and reconstructions:
 
-```24:29:site/content/languages/hick/proto-hick.md
+```24:29:site/content/languages/hickic/proto-hick.md
 2. Evidence:
    - *ʔahi.mu "water"
    - *ʔi.mu.ru "evil"
@@ -117,7 +117,7 @@ The only potential counterexample might be compounds, but those appear to be lat
 developments. Even borrowed words get repaired:
 
 
-```31:34:site/content/languages/hick/proto-hick.md
+```31:34:site/content/languages/hickic/proto-hick.md
 3. Repair Strategies:
    - Vowelless roots add -u: *mal > *ma.lu "pool"
    - Foreign codas repaired with -u: *kran > *kra.nu "red"
@@ -166,7 +166,7 @@ Looking at the Proto-Hick syllable structure rules and examples, there seems to 
 inconsistency. The rules state:
 
 
-```19:22:site/content/languages/hick/proto-hick.md
+```19:22:site/content/languages/hickic/proto-hick.md
 1. Basic Template:
    - Non-final syllables: (C)CV
    - Final syllable: CV
@@ -177,7 +177,7 @@ inconsistency. The rules state:
 But we have examples that violate this, showing V-only non-final syllables:
 
 
-```24:29:site/content/languages/hick/proto-hick.md
+```24:29:site/content/languages/hickic/proto-hick.md
 2. Evidence:
    - *ʔahi.mu "water"
    - *ʔi.mu.ru "evil"
@@ -227,7 +227,7 @@ how is hi V only? there's an initial glottal fricative there
 Ah, you're absolutely right! Looking at the Proto-Hick evidence:
 
 
-```45:50:site/content/languages/hick/proto-hick.md
+```45:50:site/content/languages/hickic/proto-hick.md
 1. Initial *h Development a. Animacy marker *hi-:
 
    - \*hi- > i- / \_i (before /i/)
@@ -306,7 +306,7 @@ Shows a systematic set of initial and final clusters that were inherited from Pr
 
 From Proto-Hick sound changes:
 
-```31:34:site/content/languages/hick/proto-hick.md
+```31:34:site/content/languages/hickic/proto-hick.md
 3. Repair Strategies:
    - Vowelless roots add -u: *mal > *ma.lu "pool"
    - Foreign codas repaired with -u: *kran > *kra.nu "red"
@@ -345,7 +345,7 @@ Looking at the evidence, I agree with your proposal. Here's why:
 
 1. Proto-Hick examples show (C)CV(C) non-final syllables:
 
-```24:29:site/content/languages/hick/proto-hick.md
+```24:29:site/content/languages/hickic/proto-hick.md
 2. Evidence:
    - *ʔahi.mu "water"
    - *ʔi.mu.ru "evil"
@@ -366,7 +366,7 @@ Looking at the evidence, I agree with your proposal. Here's why:
 
 3. We see evidence of medial consonant clusters in compounds:
 
-```86:89:site/content/languages/hick/proto-hick.md
+```86:89:site/content/languages/hickic/proto-hick.md
 
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
@@ -412,7 +412,7 @@ let's discuss those examples for red and stone. how were those reconstructed?
 Looking at the examples in question:
 
 
-```31:34:site/content/languages/hick/proto-hick.md
+```31:34:site/content/languages/hickic/proto-hick.md
 3. Repair Strategies:
    - Vowelless roots add -u: *mal > *ma.lu "pool"
    - Foreign codas repaired with -u: *kran > *kra.nu "red"
@@ -427,7 +427,7 @@ We have:
 And for stone:
 
 
-```25:29:site/content/languages/hick/proto-hick.md
+```25:29:site/content/languages/hickic/proto-hick.md
 2. Examples:
    - *ʔa.hi.mu "water"
    - *thra.lu "sacred"
@@ -446,7 +446,7 @@ direct Proto-Hick form *ste.na.lu.
 Looking at compound evidence:
 
 
-```86:89:site/content/languages/hick/proto-hick.md
+```86:89:site/content/languages/hickic/proto-hick.md
 
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
@@ -548,7 +548,7 @@ a.hi > ai vowel coalescing. though I do want this part explained. not sure how v
 You're right! Let's trace this development carefully. Looking at the evidence:
 
 
-```78:81:site/content/languages/hick/proto-hick.md
+```78:81:site/content/languages/hickic/proto-hick.md
 4. Vowel Coalescence (Pre-Early Hick)
 
    - \*ahi → ai "water"
@@ -623,7 +623,7 @@ how does a vowel become aspirated? didn't know that could happen
 You raise a good point about vowel aspiration. Looking at the relevant section:
 
 
-```64:69:site/content/languages/hick/proto-hick.md
+```64:69:site/content/languages/hickic/proto-hick.md
    b. Before high vowels - aspiration path:
 
    - Vt.hH > t.hH > thH > tʰH > tH (where H = high vowel, aspiration
@@ -670,7 +670,7 @@ no no, t in that instance is the alveolar stop
 Ah, I understand now! Looking at the dental fricative development:
 
 
-```58:69:site/content/languages/hick/proto-hick.md
+```58:69:site/content/languages/hickic/proto-hick.md
 2. Dental Fricative Development a. Before non-high vowels - fusion path:
 
    - Vt.hV > t.hV > thV > θV Examples:
@@ -719,7 +719,7 @@ this is where I was asking about vowel aspiration
 Ah yes, looking at the dental fricative development:
 
 
-```64:69:site/content/languages/hick/proto-hick.md
+```64:69:site/content/languages/hickic/proto-hick.md
    b. Before high vowels - aspiration path:
 
    - Vt.hH > t.hH > thH > tʰH > tH (where H = high vowel, aspiration
@@ -769,7 +769,7 @@ this is where I was asking about. vowel coalescense with H loss
 Ah yes, looking at vowel coalescence:
 
 
-```78:81:site/content/languages/hick/proto-hick.md
+```78:81:site/content/languages/hickic/proto-hick.md
 4. Vowel Coalescence (Pre-Early Hick)
 
    - \*ahi → ai "water"
@@ -830,7 +830,7 @@ I mean you mentioned that ah became a aspirated
 I don't see anywhere in the code blocks where I mentioned /ah/ becoming aspirated. Looking at the vowel coalescence rule:
 
 
-```78:81:site/content/languages/hick/proto-hick.md
+```78:81:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -853,7 +853,7 @@ Shows the same: ai [ai] "water" < Proto-Hick *ahi → ai
 The only aspiration-related development I see is with dental fricatives:
 
 
-```64:69:site/content/languages/hick/proto-hick.md
+```64:69:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -880,7 +880,7 @@ Ah yes, you're right - I apologize for suggesting that intermediate stage with b
 
 
 
-```78:81:site/content/languages/hick/proto-hick.md
+```78:81:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -925,7 +925,7 @@ Yes! A breathy voice intermediate stage in the *ahi > ai development could have 
 Looking at the relevant sections:
 
 
-```78:81:site/content/languages/hick/proto-hick.md
+```78:81:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -977,7 +977,7 @@ for now let's document this intermediate sound change, and perhaps we can explor
 I'll add the intermediate stage to the sound changes section. Looking at:
 
 
-```106:109:site/content/languages/hick/proto-hick.md
+```106:109:site/content/languages/hickic/proto-hick.md
 4. Vowel Coalescence (Pre-Early Hick)
      - tor-mur-mer → tomur "great owl"
    - \*ahi → ai "water"
@@ -987,7 +987,7 @@ I'll add the intermediate stage to the sound changes section. Looking at:
 
 Let's expand this to document the intermediate stage:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 4. Vowel Coalescence (Pre-Early Hick)
 
    - \*ahi → *aʱi → ai "water" (through breathy voice intermediate)
@@ -1000,7 +1000,7 @@ Let's expand this to document the intermediate stage:
 This aligns with the chronology section:
 
 
-```195:198:site/content/languages/hick/proto-hick.md
+```195:198:site/content/languages/hickic/proto-hick.md
 1. Pre-Early Hick
    - \*toru "height" → tor- augmentative prefix
    - Final vowel loss (\*-u > ∅)
@@ -1011,7 +1011,7 @@ This aligns with the chronology section:
 And leaves room for future exploration of dialectal variations, especially given:
 
 
-```9:13:site/content/languages/hick/proto-hick.md
+```9:13:site/content/languages/hickic/proto-hick.md
 The current state of its reconstruction is highly speculative, as all evidence
 are from only one line of descent: Early Hick. There are plans to document more
 Seneran dialects to increase the robustness of the reconstruction. There may be
@@ -1042,7 +1042,7 @@ now let's explore that  imru. we already have an attested word for evil, but per
 Let's explore this! Looking at the relevant attestations:
 
 
-```52:56:site/content/languages/hick/proto-hick.md
+```52:56:site/content/languages/hickic/proto-hick.md
 ### Stress Pattern
 - Fixed initial stress
 - No vowel reduction
@@ -1054,7 +1054,7 @@ Shows Proto-Hick *ʔimru "evil"
 
 And from the animacy marking section:
 
-```191:192:site/content/languages/hick/proto-hick.md
+```191:192:site/content/languages/hickic/proto-hick.md
    - \*skel > skel "opening" (physical)
 1. Core Vocabulary
 ```
@@ -1086,7 +1086,7 @@ The semantic split makes sense:
 
 This aligns with Early Hick's treatment of abstract vs. animate concepts, as seen in:
 
-```201:204:site/content/languages/hick/proto-hick.md
+```201:204:site/content/languages/hickic/proto-hick.md
 1. Illative (-aes)
    - From Proto-Hick \*lawes "consume/take in"
    - Sound changes:
@@ -1112,7 +1112,7 @@ Looking at the relevant patterns:
 
 1. From Proto-Hick syllable structure:
 
-```46:56:site/content/languages/hick/proto-hick.md
+```46:56:site/content/languages/hickic/proto-hick.md
 2. Examples:
    - *ʔahi "water"
    - *muru "night"
@@ -1131,7 +1131,7 @@ Shows *ʔimru as a valid Proto-Hick form.
 
 2. Looking at final vowel loss:
 
-```170:177:site/content/languages/hick/proto-hick.md
+```170:177:site/content/languages/hickic/proto-hick.md
 1. Proto-Hick \*hi- prefix
    - Final vowel loss (\*-u > ∅)
    - Vowel coalescence (\*ahi > ai)
@@ -1182,7 +1182,7 @@ wouldn't the glide potentially drop? so we might get im?
 Looking at the relevant patterns, particularly liquid deletion in unstressed positions:
 
 
-```267:270:site/content/languages/hick/proto-hick.md
+```267:270:site/content/languages/hickic/proto-hick.md
    - \*mur ter "not flow" (lit. "absence flow")
 3. Late Proto-Hick:
    - Unstressed position leads to reduction:
@@ -1195,7 +1195,7 @@ Shows that *mur > *mu in unstressed positions.
 And looking at compound formation:
 
 
-```126:134:site/content/languages/hick/proto-hick.md
+```126:134:site/content/languages/hickic/proto-hick.md
    b. \*x > h / #\_
      - kur-tin → kurtin "bronze"
    - \*xalu > halu > al "rock"
@@ -1253,7 +1253,7 @@ perhaps we might document liquid deletion in proto hick, then add the new word i
 
 Yes! Let's document this development. First, let's add the liquid deletion to Proto-Hick:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ### Phonological Processes
 
 1. Liquid Deletion in Unstressed Position
@@ -1277,7 +1277,7 @@ Now let's add the new entry to Early Hick lexicon:
      ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
      See: [Sacred Terms](#sacred--ritual)
    - imur [i.mur] "evil force" < Proto-Hick *hi-mur → imur
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 ```
 
 And finally, let's add the ontolex-lemon entry:
@@ -1487,7 +1487,7 @@ Shows metaphorical extension to "child".
 Based on Early Hick phonological patterns and Proto-Hick reconstruction principles, 
 we can reconstruct:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ### Proto-Hick *lisu
 
 1. Form: *lisu [li.su]
@@ -1526,7 +1526,7 @@ let's say that hi.lisu is to see, then we could have dream be muruhilisu in prot
 Yes! Looking at the negation pattern and compound formation rules:
 
 
-```261:282:site/content/languages/hick/proto-hick.md
+```261:282:site/content/languages/hickic/proto-hick.md
 
 1. Proto-Hick Stage:
    - \*mur "darkness, absence" (full lexical word)
@@ -1555,7 +1555,7 @@ Yes! Looking at the negation pattern and compound formation rules:
 And compound formation patterns:
 
 
-```135:148:site/content/languages/hick/proto-hick.md
+```135:148:site/content/languages/hickic/proto-hick.md
      - \*malu → mal "pool"
      - \*toru → tor "height"
      - \*wadu → wad "path"
@@ -1575,7 +1575,7 @@ And compound formation patterns:
 
 We can reconstruct Proto-Hick *muruhilisu "dream" (lit. "night-see"):
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ### Proto-Hick *muruhilisu
 
 1. Etymology: Compound of *muru "night" + *hi-lisu "see" (animate prefix + "eye")
@@ -1630,10 +1630,10 @@ Yes! Let's add these sections and cross-references. First, let's add to the Earl
 
 1. Basic Terms
    - mulis [mu.lis] "dream, vision" < Proto-Hick *muruhilisu → mulis
-     ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+     ([compound reduction](@/languages/hickic/proto-hick.md#compound-specific-changes))
      See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
    - hilis [hi.lis] "to see" < Proto-Hick *hi-lisu → hilis
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      See: [Body Parts](#body-parts)
 
 2. Compound Terms
@@ -1663,7 +1663,7 @@ This connects to existing entries:
      ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
      See: [Sacred Terms](#sacred--ritual)
    - imur [i.mur] "evil force" < Proto-Hick \*hi-mur → imur
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 2. Compound Terms with imur-
    - imurmal [i.mur.mal] "evil pool, cursed waters" < imur-mal → imurmal
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
@@ -1695,7 +1695,7 @@ This connects to existing entries:
 And references the Proto-Hick reconstruction:
 
 
-```285:301:site/content/languages/hick/proto-hick.md
+```285:301:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick \*muruhilisu
 
 1. Etymology: Compound of *muru "night" + *hi-lisu "see" (animate prefix +
@@ -1733,7 +1733,7 @@ would hilis stay hilis after sound changes?
 Looking at the sound changes and patterns:
 
 
-```3:9:site/content/languages/hick/proto-hick.md
+```3:9:site/content/languages/hickic/proto-hick.md
 weight = 0
 +++
 +++
@@ -1746,7 +1746,7 @@ The current state of its reconstruction is highly speculative, as all evidence
 Shows final vowel loss is regular: *-u > ∅
 
 
-```134:143:site/content/languages/hick/proto-hick.md
+```134:143:site/content/languages/hickic/proto-hick.md
 6. Early Hick Compound Formation Patterns
      - \*malu → mal "pool"
    - Regular compounding with no changes:
@@ -1780,7 +1780,7 @@ This aligns with other preserved hi- prefix forms:
      ([liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
      See: [Sacred Terms](#sacred--ritual)
    - imur [i.mur] "evil force" < Proto-Hick \*hi-mur → imur
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 ```
 
 
@@ -1803,7 +1803,7 @@ but it's hi.lisu right? wouldn't that onset l on the second syllable be a liquid
 Ah, you make an excellent point! Looking at the compound formation patterns:
 
 
-```140:143:site/content/languages/hick/proto-hick.md
+```140:143:site/content/languages/hickic/proto-hick.md
    - Liquid/Nasal Deletion in Early Hick compounds:
      - thral-gral → thragral "sacred earth"
      - bram-mal → bramal "tidal pool"
@@ -1816,7 +1816,7 @@ Shows liquid deletion at morpheme boundaries is a regular process.
 And looking at the animacy prefix rules:
 
 
-```182:186:site/content/languages/hick/proto-hick.md
+```182:186:site/content/languages/hickic/proto-hick.md
 1. Proto-Hick \*hi- prefix
    - New patterns developed:
    - Marked animate/personified entities
@@ -1951,7 +1951,7 @@ And now the ontolex-lemon entries:
 This reflects the sound changes we discussed and maintains consistency with:
 
 
-```125:143:site/content/languages/hick/proto-hick.md
+```125:143:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -1977,7 +1977,7 @@ This reflects the sound changes we discussed and maintains consistency with:
 And the animacy marking patterns:
 
 
-```182:186:site/content/languages/hick/proto-hick.md
+```182:186:site/content/languages/hickic/proto-hick.md
 1. Proto-Hick \*hi- prefix
    - New patterns developed:
    - Marked animate/personified entities
@@ -2091,7 +2091,7 @@ we need an early hick word for "eat/consume". perhaps lawes may be a root? sedla
 Yes! Looking at the illative development:
 
 
-```239:246:site/content/languages/hick/proto-hick.md
+```239:246:site/content/languages/hickic/proto-hick.md
 1. Illative (-aes)
    - From Proto-Hick \*lawes "consume/take in"
    - Sound changes:
@@ -2173,7 +2173,7 @@ hmm in protohick it would be something like sedulawes right?
 Yes! Looking at the compound formation patterns:
 
 
-```125:133:site/content/languages/hick/proto-hick.md
+```125:133:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -2205,7 +2205,7 @@ Let's update the lexicon entry:
 
 2. Compound Terms
    - sedlawes [sed.la.wes] "consume seeds/grain" < Proto-Hick *sedu-lawes → sedlawes
-     ([syncope](@/languages/hick/proto-hick.md#compound-specific-changes),
+     ([syncope](@/languages/hickic/proto-hick.md#compound-specific-changes),
      [compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
      See: [Agricultural Terms](#agricultural-terms)
 ```
@@ -2270,7 +2270,7 @@ Let's update the lexicon entry:
 
 2. Compound Terms
    - selawes [se.la.wes] "consume seeds/grain" < Proto-Hick *sedu-lawes → selawes
-     ([syncope](@/languages/hick/proto-hick.md#compound-specific-changes),
+     ([syncope](@/languages/hickic/proto-hick.md#compound-specific-changes),
      [liquid deletion](@/languages/hickic/seneran/early-hickck/_index.md#sound-changes-in-compounds))
      See: [Agricultural Terms](#agricultural-terms)
 ```
@@ -2304,7 +2304,7 @@ sedlawes > sedawes right? d isn't the liquid here
 No, looking at the liquid deletion patterns:
 
 
-```140:143:site/content/languages/hick/proto-hick.md
+```140:143:site/content/languages/hickic/proto-hick.md
    - Liquid/Nasal Deletion in Early Hick compounds:
      - thral-gral → thragral "sacred earth"
      - bram-mal → bramal "tidal pool"
@@ -2350,7 +2350,7 @@ can you explain to me step by step how the syncope rule works in this case?
 Let's look at the syncope rule from Proto-Hick:
 
 
-```125:128:site/content/languages/hick/proto-hick.md
+```125:128:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -2404,7 +2404,7 @@ lawes = CVCC (la.wes)
 So *sedu-lawes doesn't actually match the syncope rule pattern:
 
 
-```125:128:site/content/languages/hick/proto-hick.md
+```125:128:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -2419,7 +2419,7 @@ The rule requires:
 Since lawes begins with a consonant, not a vowel, the syncope rule wouldn't apply. Instead, this would follow the regular compound formation pattern:
 
 
-```136:139:site/content/languages/hick/proto-hick.md
+```136:139:site/content/languages/hickic/proto-hick.md
    - Regular compounding with no changes:
      - mur-mer → murmer "night-bird"
      - mur-kel → murkel "night sky"
@@ -2464,7 +2464,7 @@ hmmm actually lawes might be lawesu for one, because we can't have a non vowel f
 Ah yes! Looking at Proto-Hick final vowel loss rule:
 
 
-```108:114:site/content/languages/hick/proto-hick.md
+```108:114:site/content/languages/hickic/proto-hick.md
 3. Final Vowel Loss (Pre-Early Hick)
      - li-mur-mer → limur "small owl"
    - \*-u > ∅ / \_# Examples:
@@ -2482,7 +2482,7 @@ Proto-Hick *lawesu > Early Hick lawes
 And looking at the syncope rule:
 
 
-```125:128:site/content/languages/hick/proto-hick.md
+```125:128:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -2550,7 +2550,7 @@ Each syllable follows CV pattern:
 This aligns with other Proto-Hick words showing similar syllable structure:
 
 
-```285:301:site/content/languages/hick/proto-hick.md
+```285:301:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick \*muruhilisu
 
 1. Etymology: Compound of *muru "night" + *hi-lisu "see" (animate prefix +
@@ -2608,7 +2608,7 @@ Let me check each proposed step against the rules:
 3. sdu.awesu (syncope)
    - The syncope rule requires CVCV-VCV pattern
 
-```125:128:site/content/languages/hick/proto-hick.md
+```125:128:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -2649,7 +2649,7 @@ Let me check each proposed step against the rules:
 6. du.wes (final vowel loss)
    - This part is correct - final -u is lost
 
-```110:113:site/content/languages/hick/proto-hick.md
+```110:113:site/content/languages/hickic/proto-hick.md
    - \*-u > ∅ / \_# Examples:
    - \*thralu → thral "sacred"
    - \*malu → mal "pool"
@@ -2690,7 +2690,7 @@ Yes, the morpheme boundary would be at sedu.lawesu. Looking at the Proto-Hick co
 
 
 
-```219:223:site/content/languages/hick/proto-hick.md
+```219:223:site/content/languages/hickic/proto-hick.md
 1. Compound Formation Patterns
    - Element + Element preserved from Proto-Hick
    - New patterns developed:
@@ -2713,7 +2713,7 @@ And lawes (< Proto-Hick *lawesu) as another independent morpheme:
 
 
 
-```239:242:site/content/languages/hick/proto-hick.md
+```239:242:site/content/languages/hickic/proto-hick.md
 1. Illative (-aes)
    - From Proto-Hick \*lawes "consume/take in"
    - Sound changes:
@@ -2760,7 +2760,7 @@ Looking at the proposed steps:
 - This is incorrect. Liquid deletion only occurs at morpheme boundaries:
 
 
-```140:143:site/content/languages/hick/proto-hick.md
+```140:143:site/content/languages/hickic/proto-hick.md
    - Liquid/Nasal Deletion in Early Hick compounds:
      - thral-gral → thragral "sacred earth"
      - bram-mal → bramal "tidal pool"
@@ -2772,7 +2772,7 @@ Looking at the proposed steps:
 - The syncope rule requires CVCV-VCV pattern:
 
 
-```125:128:site/content/languages/hick/proto-hick.md
+```125:128:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -2804,7 +2804,7 @@ But lawesu begins with a consonant, not a vowel, so syncope wouldn't apply.
 - This part is correct - final -u is lost:
 
 
-```110:113:site/content/languages/hick/proto-hick.md
+```110:113:site/content/languages/hickic/proto-hick.md
    - \*-u > ∅ / \_# Examples:
    - \*thralu → thral "sacred"
    - \*malu → mal "pool"
@@ -2848,7 +2848,7 @@ You're absolutely right - I apologize for missing this crucial point repeatedly.
 At the morpheme boundary sedu-lawesu, the l in lawesu is indeed a liquid at a morpheme boundary. Looking at the liquid deletion rule:
 
 
-```140:143:site/content/languages/hick/proto-hick.md
+```140:143:site/content/languages/hickic/proto-hick.md
    - Liquid/Nasal Deletion in Early Hick compounds:
      - thral-gral → thragral "sacred earth"
      - bram-mal → bramal "tidal pool"
@@ -2892,7 +2892,7 @@ Looking at the development of lawes > aes:
 
 
 
-```239:242:site/content/languages/hick/proto-hick.md
+```239:242:site/content/languages/hickic/proto-hick.md
 1. Illative (-aes)
    - From Proto-Hick \*lawes "consume/take in"
    - Sound changes:
@@ -2952,7 +2952,7 @@ sedu-lawesu > sedu-awesu (liquid deletion) > sdu-awesu (syncope) > du-awesu (ini
 
 Let's add entries to both Proto-Hick and Early Hick documents:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Semantic Development
 
 1. Core Vocabulary
@@ -3006,10 +3006,10 @@ Yes, good idea! Let's add duwes under Bodily Functions & States in the Early Hic
 
 1. Basic Terms
    - mulis [mu.lis] "dream, vision" < Proto-Hick *muruhilisu → mulis
-     ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+     ([compound reduction](@/languages/hickic/proto-hick.md#compound-specific-changes))
      See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
    - hilis [hi.lis] "sight" < Proto-Hick *hi-lisu → hilis
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      See: [Body Parts](#body-parts)
 
 2. Compound Terms
@@ -3026,10 +3026,10 @@ We can add duwes here:
      ([compound fusion](@/languages/hickic/seneran/early-hickck/_index.md#compound-formation))
      See: [Directional System](#directional-system)
    - mulis [mu.lis] "dream, vision" < Proto-Hick *muruhilisu → mulis
-     ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+     ([compound reduction](@/languages/hickic/proto-hick.md#compound-specific-changes))
      See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
    - hilis [hi.lis] "sight" < Proto-Hick *hi-lisu → hilis
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      See: [Body Parts](#body-parts)
 ```
 
@@ -3164,7 +3164,7 @@ I'll help add duwes to the lexicon.jsonld file. Based on the structure shown in 
 This follows the same pattern as other entries in the lexicon.jsonld file, referencing:
 
 
-```230:242:site/content/languages/hick/proto-hick.md
+```230:242:site/content/languages/hickic/proto-hick.md
 1. Core Vocabulary
    - \*thralu "sacred" → thral "sacred; day"
    - \*kelu "sky" kel "sky; blue"
@@ -3209,7 +3209,7 @@ Shows sedter "planting time" using -ter for temporal meaning.
 And looking at the Proto-Hick etymology:
 
 
-```151:152:site/content/languages/hick/proto-hick.md
+```151:152:site/content/languages/hickic/proto-hick.md
    - \*skel > 'kel "opening"
    - \*ster > 'ter "flow"
 ```
@@ -3433,7 +3433,7 @@ Yes! Looking at the Proto-Hick sound changes and patterns, we can reconstruct at
 
 1. *branu₁ "swift, dawn" (seen in temporal terms)
 
-```208:216:site/content/languages/hick/proto-hick.md
+```208:216:site/content/languages/hickic/proto-hick.md
      - Grammaticalized to directional marker -aes
 2. Ellative (-imris)
    - From compound: *imer "breath" + *is "out"
@@ -3449,7 +3449,7 @@ Shows regular final vowel loss pattern
 
 2. *baranu₂ "branch" (seen in flora terms)
 
-```125:129:site/content/languages/hick/proto-hick.md
+```125:129:site/content/languages/hickic/proto-hick.md
    - Regular compou
    b. \*x > h / #\_
      - mur-kel → murkel "night sky"
@@ -3461,7 +3461,7 @@ Shows syncope in compounds, which could have lexicalized
 
 3. *bramnu₃ "ridge" (seen in architecture)
 
-```141:144:site/content/languages/hick/proto-hick.md
+```141:144:site/content/languages/hickic/proto-hick.md
    - \*ster > 'ter "flow"
 ### Animacy Marking
    b. Medial clusters resyllabified:
@@ -3504,7 +3504,7 @@ not sure how baranu gets syncope exactly with ba.ra.nu
 You're right - looking at the Proto-Hick phonotactics and stress rules:
 
 
-```46:62:site/content/languages/hick/proto-hick.md
+```46:62:site/content/languages/hickic/proto-hick.md
 1. Initial *h Development a. Animacy marker *hi-:
 2. Examples:
    - \*hi- > i- / \_i (before /i/)
@@ -3534,7 +3534,7 @@ The syllable structure is (C)CV(C) with fixed initial stress and no vowel reduct
 Looking at compound-specific changes:
 
 
-```124:134:site/content/languages/hick/proto-hick.md
+```124:134:site/content/languages/hickic/proto-hick.md
    - \*ʃter > ster > 'ter "stream"
    - Regular compou
    b. \*x > h / #\_
@@ -3633,7 +3633,7 @@ I wanted the word bao to mean father, how could that look like in proto hick?
 Looking at the Proto-Hick sound changes and phonotactics:
 
 
-```46:62:site/content/languages/hick/proto-hick.md
+```46:62:site/content/languages/hickic/proto-hick.md
 1. Basic Pattern: (C)CV(C)
 2. Examples:
    - Initial C required (ʔ if no other consonant)
@@ -3659,7 +3659,7 @@ Shows (C)CV(C) structure with fixed initial stress.
 And the vowel coalescence rules:
 
 
-```115:121:site/content/languages/hick/proto-hick.md
+```115:121:site/content/languages/hickic/proto-hick.md
 4. Vowel Coalescence (Pre-Early Hick)
    b. Medial clusters resyllabified:
    - \*ahi → \*aʱi → ai "water" (through breathy voice intermediate)
@@ -3706,7 +3706,7 @@ reduce to bran?
 Looking at the Proto-Hick sound changes and compound rules:
 
 
-```123:133:site/content/languages/hick/proto-hick.md
+```123:133:site/content/languages/hickic/proto-hick.md
 5. Compound-Specific Changes (Early Proto-Hick)
    - \*ʃter > ster > 'ter "stream"
    - Syncope in compounds:
@@ -3724,7 +3724,7 @@ Looking at the Proto-Hick sound changes and compound rules:
 Shows compound-specific changes including syncope and /r/ dissimilation.
 
 
-```134:148:site/content/languages/hick/proto-hick.md
+```134:148:site/content/languages/hickic/proto-hick.md
 6. Early Hick Compound Formation Patterns
      - \*malu → mal "pool"
    - Regular compounding with no changes:
@@ -3774,7 +3774,7 @@ how about liquid deletion at luranu (note the liquid at the boundary)
 Ah, looking at the liquid deletion rules:
 
 
-```140:143:site/content/languages/hick/proto-hick.md
+```140:143:site/content/languages/hickic/proto-hick.md
    - Liquid/Nasal Deletion in Early Hick compounds:
      - thral-gral → thragral "sacred earth"
      - bram-mal → bramal "tidal pool"
@@ -3820,7 +3820,7 @@ hmm what if it were bahu luharanu?
 Ah, interesting! Looking at the Proto-Hick sound changes:
 
 
-```95:106:site/content/languages/hick/proto-hick.md
+```95:106:site/content/languages/hickic/proto-hick.md
 2. Dental Fricative Development a. Before non-high vowels - fusion path:
 6. Early Hick Compound Formation Patterns
    - Vt.hV > t.hV > thV > θV Examples:
@@ -3841,7 +3841,7 @@ Shows how dental fricatives develop, particularly the h-sequences.
 And looking at compound changes:
 
 
-```123:133:site/content/languages/hick/proto-hick.md
+```123:133:site/content/languages/hickic/proto-hick.md
 5. Compound-Specific Changes (Early Proto-Hick)
    - \*ʃter > ster > 'ter "stream"
    - Syncope in compounds:
@@ -3914,7 +3914,7 @@ Shows that Early Hick had a simplified case system with mainly ergative (-el) an
 And looking at how other grammatical elements developed:
 
 
-```248:266:site/content/languages/hick/proto-hick.md
+```248:266:site/content/languages/hickic/proto-hick.md
      - Grammaticalized to directional marker -aes
 1. Illative (-aes)
    - From Proto-Hick \*lawes "consume/take in"
@@ -4026,7 +4026,7 @@ i mean we should get haranu through sound changes first
 You're right - let's establish haranu through regular sound changes from Proto-Hick first. Looking at the patterns:
 
 
-```169:176:site/content/languages/hick/proto-hick.md
+```169:176:site/content/languages/hickic/proto-hick.md
 9. Final Vowel Loss
    - \*-u > ∅ / \_#
    - Extremely regular:
@@ -4043,7 +4043,7 @@ Shows final vowel loss is extremely regular with *-u.
 And looking at the vowel patterns:
 
 
-```207:210:site/content/languages/hick/proto-hick.md
+```207:210:site/content/languages/hickic/proto-hick.md
 1. Pre-Early Hick
      - Grammaticalized to directional marker -aes
    - Final vowel loss (\*-u > ∅)
@@ -4087,7 +4087,7 @@ would it not be at least haran or hara?
 You're right! Looking at the final vowel loss rule:
 
 
-```169:176:site/content/languages/hick/proto-hick.md
+```169:176:site/content/languages/hickic/proto-hick.md
 9. Final Vowel Loss
    - \*-u > ∅ / \_#
    - Extremely regular:
@@ -4161,7 +4161,7 @@ Shows that three-syllable words undergo reduction in unstressed syllables.
 And looking at compound formation:
 
 
-```125:132:site/content/languages/hick/proto-hick.md
+```125:132:site/content/languages/hickic/proto-hick.md
    - Syncope in compounds:
      - \*CVCV-VCV → CCV-VCV
      - \*stenu-alu → stenal → snal
@@ -4225,7 +4225,7 @@ kinship term metaphor for tree branch
 Ah yes! Looking at the case system:
 
 
-```759:762:site/content/languages/hick/proto-hick.md
+```759:762:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -4288,7 +4288,7 @@ Shows "Number System" as a major section.
 And looking at the semantic shifts:
 
 
-```228:246:site/content/languages/hick/proto-hick.md
+```228:246:site/content/languages/hickic/proto-hick.md
 ## Semantic Shifts
    - Unstressed position leads to reduction:
 1. Core Vocabulary
@@ -4668,7 +4668,7 @@ hmm lis as child lists it as a metaphorical extension of eye. not sure how thac 
 Looking at the semantic development, I see a few relevant patterns:
 
 
-```181:205:site/content/languages/hick/proto-hick.md
+```181:205:site/content/languages/hickic/proto-hick.md
 
 ### Animacy Marking
 
@@ -4702,7 +4702,7 @@ Shows that Proto-Hick had an animacy marker *hi- that marked animate/personified
 And:
 
 
-```296:312:site/content/languages/hick/proto-hick.md
+```296:312:site/content/languages/hickic/proto-hick.md
    - Literal: "night-seeing"
    - Extended: "dream, vision"
    - Related forms:
@@ -4737,7 +4737,7 @@ Let's update the lexicon entry to show this semantic development:
 ```markdown
    - lis [lis] "child" < Proto-Hick *hi-lisu → ilis → lis 
      (lit. "one who sees/perceives")
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Note: Developed from animate form of *lisu "eye", showing semantic shift from
      physical perception to conscious learning/development
@@ -4807,7 +4807,7 @@ Shows how gardens were seen as sacred spaces in Hick culture, leading to dual me
 And looking at the animacy marking system:
 
 
-```181:204:site/content/languages/hick/proto-hick.md
+```181:204:site/content/languages/hickic/proto-hick.md
 
 ### Animacy Marking
 
@@ -4851,7 +4851,7 @@ Let's revise the etymology:
 ```markdown
    - lis [lis] "child" < Proto-Hick *hi-lisu "one who watches/learns" 
      (from *lisu "to observe") 
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Note: Cultural metaphor from Proto-Hick stories where children were seen as 
      sacred observers and learners of ritual and tradition. Compare thren "watch, 
@@ -4884,7 +4884,7 @@ Looking at the code blocks, we can trace the mechanics of the animacy marker's d
 
 1. From Proto-Hick phonological rules:
 
-```82:88:site/content/languages/hick/proto-hick.md
+```82:88:site/content/languages/hickic/proto-hick.md
 1. Initial *h Development a. Animacy marker *hi-:
 1. Initial *h Development a. Animacy marker *hi-:
    - \*hi- > i- / \_i (before /i/)
@@ -4900,7 +4900,7 @@ Shows that *hi- split into two development paths:
 
 2. The system's productivity started breaking down due to:
 
-```189:204:site/content/languages/hick/proto-hick.md
+```189:204:site/content/languages/hickic/proto-hick.md
 
 2. Examples of \*hi- > i-:
    - \*hi-mur > imur "evil force"
@@ -4923,7 +4923,7 @@ Shows that some animate forms became lexicalized (like "imer" for soul), while t
 
 3. Sound changes further obscured the system:
 
-```109:123:site/content/languages/hick/proto-hick.md
+```109:123:site/content/languages/hickic/proto-hick.md
 
 3. Final Vowel Loss (Pre-Early Hick)
    - \*thralu → thral "sacred"
@@ -5017,7 +5017,7 @@ So we can reconstruct the development:
 This follows similar patterns of grammaticalization seen in:
 
 
-```1:12:site/content/languages/hick/proto-hick.md
+```1:12:site/content/languages/hickic/proto-hick.md
 +++
 title = "Proto-Hick"
 weight = 0

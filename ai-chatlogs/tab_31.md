@@ -307,7 +307,7 @@ Here's the next section:
   ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   See: [Sacred Terms](#sacred--ritual)
 - hilis [hi.lis] "to see (animate)" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual),
@@ -1441,7 +1441,7 @@ Here's the Bodily Functions & States section, converting numbered lists to level
   ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual)
 - hilis [hi.lis] "see (animate)" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   See: [Sacred Terms](#sacred--ritual)
 
 #### States
@@ -1483,10 +1483,10 @@ You're right - let me show the complete Bodily Functions & States section, prese
   ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-formation))
   See: [Directional System](#directional-system)
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
-  ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+  ([compound reduction](@/languages/hickic/proto-hick.md#compound-specific-changes))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - hilis [hi.lis] "sight" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   See: [Body Parts](#body-parts)
 
 #### Compound Terms

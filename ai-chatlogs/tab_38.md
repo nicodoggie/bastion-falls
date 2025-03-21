@@ -40,7 +40,7 @@ The verbalizer -'er appears to be a grammaticalized element, as shown in:
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 
 ```
 
@@ -87,7 +87,7 @@ Yes, even with Early Hick's NOUN-'er pattern, there's strong evidence for an ear
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 
 1. Active verbs (from action/motion concepts):
 
@@ -175,7 +175,7 @@ The form 'heru' would fit Proto-Hick phonotactics, with a simple CV.CV structure
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 
 1. Active verbs (from action/motion concepts):
 
@@ -238,7 +238,7 @@ can we document that development in the @proto-hick.md document
 
 Yes, we can document the development of *heru > -'er in the Proto-Hick document. Based on the patterns shown in the code, I'll suggest adding this under the "Morphological Evolution" section:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Morphological Evolution
 
 ### Verbalizer Development
@@ -274,7 +274,7 @@ Yes, we can document the development of *heru > -'er in the Proto-Hick document.
 This development is supported by several patterns in the code:
 
 
-```1:9:site/content/languages/hick/proto-hick.md
+```1:9:site/content/languages/hickic/proto-hick.md
 +++
 title = "Proto-Hick"
 weight = 0
@@ -294,7 +294,7 @@ Shows Proto-Hick as the ancestor language.
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 
 1. Active verbs (from action/motion concepts):
 
@@ -313,7 +313,7 @@ Shows Proto-Hick as the ancestor language.
 Shows the fully grammaticalized -'er verbalizer in Early Hick.
 
 
-```40:60:site/content/languages/hick/proto-hick.md
+```40:60:site/content/languages/hickic/proto-hick.md
 | Low  |       | a       |      |
 
 ## Phonotactics
@@ -351,7 +351,7 @@ can we document heru as a post positional verbalizer particle in proto-hick?
 
 Yes, we can document *heru as a postpositional verbalizer particle in Proto-Hick. Based on the patterns shown in the code, I'll suggest adding this to the Proto-Hick document under the Morphological Evolution section:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ### Verbalizer Development
 
 1. Proto-Hick Stage:
@@ -408,7 +408,7 @@ Shows the fully grammaticalized verbalizer in Early Hick.
 Shows the verbalizer creating both active and stative verbs.
 
 
-```40:60:site/content/languages/hick/proto-hick.md
+```40:60:site/content/languages/hickic/proto-hick.md
 | Low  |       | a       |      |
 
 ## Phonotactics

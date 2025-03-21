@@ -3100,7 +3100,7 @@ Here's the consolidated version with cross-references:
 
 2. Completive Marking
    - tel [tel] "complete, finished"
-     (See: [Proto-Hick](@/languages/hick/proto-hick.md))
+     (See: [Proto-Hick](@/languages/hickic/proto-hick.md))
      - Follows clause for past perfect meaning
      - Derives from Proto-Hick \*telu "place/position"
      - Metaphorical extension: reaching a place → completion
@@ -3822,7 +3822,7 @@ Yes, looking at the code blocks, I see that the verbalizer -ʔer has important h
 Specifically, these sections are relevant:
 
 
-```165:177:site/content/languages/hick/proto-hick.md
+```165:177:site/content/languages/hickic/proto-hick.md
 
    b. \*x > h / #\_
 
@@ -3849,7 +3849,7 @@ contact, leading to the occupational/active distinction between -ok/-er in Late 
 
 
 I suggest updating the verbalizer section's cross-reference to:
-`(See: [Proto-Hick](@/languages/hick/proto-hick.md#proto-hick-features))`
+`(See: [Proto-Hick](@/languages/hickic/proto-hick.md#proto-hick-features))`
 
 This would better document the historical development of the -ʔer verbalizer from Proto-Hick *hi-er through Old Iutlandish contact.
 
@@ -3869,7 +3869,7 @@ You're right - we should focus on Early Hick's -ʔer verbalizer and its Proto-Hi
 Looking at the Proto-Hick document, the relevant sections are:
 
 
-```328:342:site/content/languages/hick/proto-hick.md
+```328:342:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -3880,7 +3880,7 @@ Here's my revised verbalizer section:
 ### Verbalizer
 
 - -ʔer [ʔer]: creates verbs from nouns and property concepts
-  (See: [Proto-Hick](@/languages/hick/proto-hick.md#animacy-marking))
+  (See: [Proto-Hick](@/languages/hickic/proto-hick.md#animacy-marking))
 
 1. Active verbs:
    ```plaintext
@@ -4012,7 +4012,7 @@ Here's my proposed consolidated version:
 ### Verbalizer
 
 - -ʔer [ʔer]: creates verbs from nouns and property concepts
-  (See: [Proto-Hick](@/languages/hick/proto-hick.md#animacy-marking))
+  (See: [Proto-Hick](@/languages/hickic/proto-hick.md#animacy-marking))
 
 1. Active verbs (from action/motion concepts):
 
@@ -4071,7 +4071,7 @@ Let's revise the verbalizer section with this convention:
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts
-  (See: [Proto-Hick](@/languages/hick/proto-hick.md#animacy-marking))
+  (See: [Proto-Hick](@/languages/hickic/proto-hick.md#animacy-marking))
 
 1. Active verbs:
    ```plaintext
@@ -4313,7 +4313,7 @@ Yes, looking at the code blocks, I need to update the cross-references in the Ve
 
 For Proto-Hick origins:
 
-```76:92:site/content/languages/hick/proto-hick.md
+```76:92:site/content/languages/hickic/proto-hick.md
    - Most commonly _-u, _-a
    - Rare \*-i in some forms
 
@@ -4412,7 +4412,7 @@ Here's the revised Verbal Morphology section with proper cross-references:
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts
-  (See: [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  (See: [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 
 1. Active verbs (from action/motion concepts):
    ```plaintext
@@ -4998,7 +4998,7 @@ Early Hick's directional system marks the goal of the motion verb, supplanting
 ### Verbalizer
    - ter-ʔer "to flow" (flow-ACT)
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 1. Diminutive (li-)
 1. Active verbs (from action/motion concepts):
    - Prefix meaning "small, lesser"
@@ -5198,7 +5198,7 @@ See: [Clause Structure and Word Order](#clause-structure-and-word-order) for det
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts
-  (See: [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  (See: [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 
 1. Active verbs (from action/motion concepts):
    ```plaintext

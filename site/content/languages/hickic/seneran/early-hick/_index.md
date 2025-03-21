@@ -33,7 +33,7 @@ relations are marked through prefixes and suffixes, and these interact with its
 derivational morphology to form complex compounds.
 
 A reconstruction of a hypothetical
-[Proto-Hick](@/languages/hick/proto-hick/_index.md) exists, in an incomplete
+[Proto-Hick](@/languages/hickic/proto-hick/_index.md) exists, in an incomplete
 state.
 
 # Historical Development
@@ -47,7 +47,7 @@ phenomena, but rather that they are interrelated by common ancestry.
 
 ## Proto-Hick Period
 
-(See: [Proto-Hick](@/languages/hick/proto-hick/_index.md))
+(See: [Proto-Hick](@/languages/hickic/proto-hick/_index.md))
 
 It is still highly contested where the Hickic language family diverges from the
 rest of the pre-Kalassarian languages of the region. The Proto-Hick period is
@@ -291,7 +291,7 @@ Senera::
 
 # Proto-Hick Reconstruction
 
-See: [Proto-Hick](@/languages/hick/proto-hick/_index.md)
+See: [Proto-Hick](@/languages/hickic/proto-hick/_index.md)
 
 ## Overview
 

@@ -49,7 +49,7 @@ Based on the grammar:
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 - If -'er is preceded by a plosive, it surfaces as [er]
 
 ```plaintext

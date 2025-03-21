@@ -261,7 +261,7 @@ And:
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 - If -'er is preceded by a plosive, it surfaces as [er]
 
 ```plaintext
@@ -958,7 +958,7 @@ and lines 860-865 for basic terms with Proto-Hick etymology), I'll add these ent
 
 ```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'imer [ʔi.mer] "life" < Proto-Hick *hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   See: [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick *telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
@@ -1058,7 +1058,7 @@ following the format seen in lines 57-63 of lexicon.md:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick *hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   Note: Shows animacy marking through glottal prefix
   See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -1148,7 +1148,7 @@ revise the entries to show this is an archaic feature:
 
 ```markdown:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'imer [ʔi.mer] "life" < Proto-Hick *hi-mer → 'imer
-  ([archaic animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([archaic animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   Note: Shows preserved Proto-Hick animacy marking
   See: [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick *telu-himeru → temer
@@ -1450,7 +1450,7 @@ like the pattern seen in:
   [vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - hilis [hi.lis] "to see (animate)" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -1561,7 +1561,7 @@ This follows the patterns seen in:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -1574,7 +1574,7 @@ This follows the patterns seen in:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
@@ -1590,7 +1590,7 @@ This follows the patterns seen in:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick *hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   Note: Shows animacy marking through glottal prefix
   See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -1632,7 +1632,7 @@ I'll add these entries:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Natural Elements](#natural-world), [Basic Terms](#basic-terms)
 - 'ibris [ʔi.bris] "fire" < Proto-Hick *hi-brisu → 'ibris
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   Note: Shows archaic animacy marking; fire considered animate in Early Hick
   See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -1697,7 +1697,7 @@ This follows the patterns seen in:
 
 ```56:75:site/@/languages/hickic/seneran/early-hick/lexicon.md
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
@@ -1713,7 +1713,7 @@ This follows the patterns seen in:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick *hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   Note: Shows animacy marking through glottal prefix
   See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -1804,7 +1804,7 @@ This follows the patterns seen in:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -1817,7 +1817,7 @@ This follows the patterns seen in:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
@@ -1833,7 +1833,7 @@ This follows the patterns seen in:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick *hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   Note: Shows animacy marking through glottal prefix
   See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -1848,7 +1848,7 @@ for basic term structure and:
 ### Verbalizer
 ### Verbalizer
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 - If -'er is preceded by a plosive, it surfaces as [er]
 ```
 

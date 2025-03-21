@@ -71,7 +71,7 @@ I think this is good. perhaps we can update this in the @### Phonological Proces
 Here's how we could update the Phonological Processes section to include the vowel 
 harmony repair strategy:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ### Phonological Processes
 
 1. Obligatory Onset:
@@ -120,7 +120,7 @@ patterning with back vowels.
 
 We could revise the system to:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ### Phonological Processes
 
 1. Obligatory Onset:
@@ -527,7 +527,7 @@ etymological notes to be more concise:
 ## Historical Sound Changes
 
 For Proto-Hick vowel harmony and its development into Early Hick, see: 
-[Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+[Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 ```
 
 This keeps the documentation DRY (Don't Repeat Yourself) and ensures consistency by 
@@ -577,7 +577,7 @@ Historical Sound Changes section in lexicon.md:
 ## Historical Sound Changes
 
 For Proto-Hick vowel harmony and its development into Early Hick, see:
-[Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+[Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 
 For stress-related vowel changes, see:
 [Vowel Allophony](@/languages/hickic/early-hick/_index.md#vowel-allophony)
@@ -614,7 +614,7 @@ For the JSON-LD version, we'll update the etymology fields:
       "stress shift to initial syllable",
       "unstressed vowel reduction"
     ],
-    "etymon:reference": "@/languages/hick/proto-hick.md#phonological-processes"
+    "etymon:reference": "@/languages/hickic/proto-hick.md#phonological-processes"
   }
 }
 ```
@@ -676,7 +676,7 @@ the Basic Terms section, referencing the stress patterns and sound changes:
 
 - haran [ha.ran] "split, divide" < Proto-Hick *haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/early-hick/_index.md#historical-development))
-  See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  See: [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 
 - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
   ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
@@ -708,7 +708,7 @@ both Proto-Hick and Early Hick changes:
       "unstressed vowel reduction"
     ],
     "etymon:reference": [
-      "@/languages/hick/proto-hick.md#phonological-processes",
+      "@/languages/hickic/proto-hick.md#phonological-processes",
       "@/languages/hickic/early-hick/_index.md#vowel-allophony"
     ]
   }
@@ -826,7 +826,7 @@ For the JSON-LD, let's update these entries with detailed sound change reference
       "resistance to reduction (sacred term)"
     ],
     "etymon:reference": [
-      "@/languages/hick/proto-hick.md#phonological-processes",
+      "@/languages/hickic/proto-hick.md#phonological-processes",
       "@/languages/hickic/early-hick/_index.md#exceptions"
     ]
   }
@@ -1345,7 +1345,7 @@ This also aligns with the Middle Hick period showing:
 
 ```75:82:site/@/languages/hickic/seneran/early-hick/_index.md
 ## Middle Seneran (400 AI to 900 AI)
-See: [Proto-Hick](@/languages/hick/proto-hick.md)
+See: [Proto-Hick](@/languages/hickic/proto-hick.md)
 - Major sound changes:
   - Full unstressed vowel reduction
   - Resyllabification for CV preference

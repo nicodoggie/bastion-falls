@@ -1,5 +1,5 @@
 +++
-title = "Hick"
+title = "Hickic"
 sort_by = "weight"
 +++
 
@@ -33,14 +33,14 @@ Some proposed sound changes from Proto-Hick to Proto-Maritime Hick are:
 
 1. Deletion of a liquid in proximity to a glottal fricative:
 
-   ```plaintext
+   ```txt
    h [liquid] => h \*/ \_
    - [liquid] h => \* h /\_
    ```
 
 2. Reanalysis of initial ha to match changes with sacred terminology:
 
-   ```plaintext
+   ```txt
    ha => θə / $ _ {[stop !glottal], [fricative], [liquid], [glide]}  
    ```
 

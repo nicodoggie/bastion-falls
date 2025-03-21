@@ -3548,7 +3548,7 @@ _**Assistant**_
 
 Ah yes! Looking at the sound changes in the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 final-vowel-centralization:
   [+high +back] => [-high +mid -back +central] / _ $
   [+mid +front] => [-low -front +central] / _ $
@@ -3602,7 +3602,7 @@ Looking at sound changes:
 
 From LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 final-vowel-centralization:
   [+mid +front] => [-low -front +central] / _ $
 ````
@@ -3650,7 +3650,7 @@ Proto-Hick *newe development:
 
 This fits with Early Hick phonotactics from the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 Class diphthong {ai, ei}
 ````
 
@@ -3920,7 +3920,7 @@ _**Assistant**_
 
 Let's check the sound changes in the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 # Stage 1: Proto-Maritime Hick
 ...
 compound-vowel-deletion:
@@ -3974,7 +3974,7 @@ _**Assistant**_
 
 Yes, that makes sense! Let's add it to Stage 3 (Pre-Hick) in the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 # Stage 3: Pre-Hick
 ...
 stage-3:
@@ -4031,7 +4031,7 @@ position. Common linguistic terms for this would be:
 
 Let's add it to the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 # Stage 3: Pre-Hick
 ...
 stage-3:

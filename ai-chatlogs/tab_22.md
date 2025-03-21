@@ -263,7 +263,7 @@ Looking at Early Hick's lexicon, relevant semantic fields include:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -276,7 +276,7 @@ Looking at Early Hick's lexicon, relevant semantic fields include:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
@@ -292,7 +292,7 @@ Looking at Early Hick's lexicon, relevant semantic fields include:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) Note: Shows
   animacy marking through glottal prefix See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - 'il [ʔil] "good, kind" < Proto-Hick \*hi-halu → 'il
@@ -1307,7 +1307,7 @@ Yes, you're absolutely right! Early Hick does have glottal stop minimal pairs, a
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) Note: Shows
 ```
 
 
@@ -1398,7 +1398,7 @@ Looking at the lexicon entries:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) Note: Shows
   animacy marking through glottal prefix See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - 'il [ʔil] "good, kind" < Proto-Hick \*hi-halu → 'il
@@ -3687,10 +3687,10 @@ Looking at the lexicon structure, we have several relevant sections:
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
   [Directional System](@/languages/hickic/seneran/early-hickck/_index.md#directional-system)
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
-  ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+  ([compound reduction](@/languages/hickic/proto-hick.md#compound-specific-changes))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 - hilis [hi.lis] "sight" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Body Parts](#body-parts)
 - vinu [vi.nu] "pregnancy" < Proto-Hick \*venu-sedu → vinu
 ```
@@ -3703,7 +3703,7 @@ Shows "Bodily Functions & States" section, and:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -3716,7 +3716,7 @@ Shows "Bodily Functions & States" section, and:
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
@@ -3732,7 +3732,7 @@ Shows "Bodily Functions & States" section, and:
   ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#historical-development))
   See: [Basic Terms](#basic-terms)
 - 'etil [ʔe.til] "living thing" < Proto-Hick \*hi-etilu → 'etil
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) Note: Shows
   animacy marking through glottal prefix See: [Spirit Terms](#spirit-terms),
   [Sacred Terms](#sacred--ritual)
 - 'il [ʔil] "good, kind" < Proto-Hick \*hi-halu → 'il
@@ -3805,7 +3805,7 @@ Looking at the pattern of animacy marking and compound reduction shown in lines 
 
 ```markdown
 - 'isa [ʔi.sa] "snake" < Proto-Hick *hi-hasa → 'isa
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   ([compound reduction](@/languages/hickic/seneran/early-hickck/_index.md#compound-simplification))
   Note: Shows archaic animacy marking through glottal prefix; derived from "animate vine"
   See: [Sacred Terms](#sacred--ritual)

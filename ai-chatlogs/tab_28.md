@@ -11,7 +11,7 @@ can we list known proto hick roots in @proto-hick.md ? check @hick for content
 
 I'll help analyze the Proto-Hick roots from the provided content. Based on the documentation, here are the known Proto-Hick roots that should be listed in proto-hick.md:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 # Known Proto-Hick Roots
 
 ## Basic Roots
@@ -82,7 +82,7 @@ I'll help analyze the Proto-Hick roots from the provided content. Based on the d
 This reconstruction is based on evidence from:
 
 
-```6:13:site/content/languages/hick/proto-hick.md
+```6:13:site/content/languages/hickic/proto-hick.md
 _Proto-Hick_ is a hypothetical reconstructed language that represents the
 ancestral language of the Hickic languages.
 
@@ -97,7 +97,7 @@ more research is needed to confirm this.
 And the sound changes are documented in:
 
 
-```92:175:site/content/languages/hick/proto-hick.md
+```92:175:site/content/languages/hickic/proto-hick.md
      - *tup → *tupu
 ```
 
@@ -115,7 +115,7 @@ I think we have to restructure our systematic sound changes so we can track and 
 
 You're right. Let's systematically organize the sound changes from Proto-Hick to Early Hick based on the documentation. I'll reference the relevant sections and propose a structured format.
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 # Sound Changes from Proto-Hick to Early Hick
 
 ## Chronological Stages

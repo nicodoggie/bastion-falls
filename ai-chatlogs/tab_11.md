@@ -145,7 +145,7 @@ This follows the verbal formation patterns shown in:
 ### Verbalizer
 
 - -'er ['er]: creates verbs from nouns and property concepts (See:
-  [Proto-Hick](@/languages/hick/proto-hick.md#segmental-inventory))
+  [Proto-Hick](@/languages/hickic/proto-hick.md#segmental-inventory))
 - If -'er is preceded by a plosive, it surfaces as [er]
 
 ```plaintext
@@ -1184,7 +1184,7 @@ and
   Mathematical sense developed from basic meaning "grow" See:
   [Sacred Terms](#sacred--ritual)
 - 'imer [ʔi.mer] "life" < Proto-Hick \*hi-mer → 'imer
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
   [Spirit Terms](#spirit-terms)
 - temer [te.mer] "death" < Proto-Hick \*telu-himeru → temer
   ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))

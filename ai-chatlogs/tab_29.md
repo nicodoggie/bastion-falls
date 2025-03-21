@@ -356,7 +356,7 @@ For "hameru", let's apply the Proto-Hick to Early Hick sound changes in order:
 
 1. Initial *h Development:
 
-```82:95:site/content/languages/hick/proto-hick.md
+```82:95:site/content/languages/hickic/proto-hick.md
 1. Initial *h Development a. Animacy marker *hi-:
 
    - \*hi- > i- / \_i (before /i/)
@@ -381,7 +381,7 @@ So: hameru > θumeru
 
 2. Final Vowel Loss:
 
-```169:177:site/content/languages/hick/proto-hick.md
+```169:177:site/content/languages/hickic/proto-hick.md
    - \*xalu > halu > al "rock"
    - \*xiru > hiru > ir "iron"
 
@@ -401,7 +401,7 @@ Therefore, Proto-Hick *hameru would develop into Early Hick "θumer" [θu.mer].
 
 This follows the same patterns we see in other examples like:
 
-```89:91:site/content/languages/hick/proto-hick.md
+```89:91:site/content/languages/hickic/proto-hick.md
 
    b. Sacred marker \*ha-:
 
@@ -430,7 +430,7 @@ Let me analyze "hihameru" using Proto-Hick to Early Hick sound changes.
 From Proto-Hick documentation:
 
 
-```82:95:site/content/languages/hick/proto-hick.md
+```82:95:site/content/languages/hickic/proto-hick.md
 1. Initial *h Development a. Animacy marker *hi-:
 
    - \*hi- > i- / \_i (before /i/)
@@ -467,7 +467,7 @@ Since /ha/ is followed by consonant /m/, this applies:
 
 3. Final vowel loss:
 
-```169:177:site/content/languages/hick/proto-hick.md
+```169:177:site/content/languages/hickic/proto-hick.md
    - \*xalu > halu > al "rock"
    - \*xiru > hiru > ir "iron"
 
@@ -1327,7 +1327,7 @@ let's document the changes to the mechanism for vowel loss in the proto hick doc
 
 Based on the Early Hick documentation and sound changes we discussed, let's revise the Final Vowel Loss section in Proto-Hick. Here's how I would document it:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 3. Final Vowel Loss (Pre-Early Hick)
 
    a. Final *-u is lost:
@@ -1365,7 +1365,7 @@ The examples are drawn from attested forms in Early Hick, as seen in:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -1529,7 +1529,7 @@ And from the lexicon:
   [vowel coalescence](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
 - hilis [hi.lis] "to see (animate)" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
   ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#compound-simplification))
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -1642,7 +1642,7 @@ This matches the attested forms we see in:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -1690,7 +1690,7 @@ This is supported by the lexical evidence:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
@@ -1829,7 +1829,7 @@ The lexical entries show this limitation:
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
   ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See:
-  [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
   ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickck/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)

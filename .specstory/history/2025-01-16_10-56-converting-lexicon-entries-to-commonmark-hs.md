@@ -973,8 +973,8 @@ Let's continue with the Core Semantic Fields section:
     : Proto-Hick \*haranu → haran
     : ([final vowel loss, stress shift](@/languages/hickic/early-hick/_index.md#historical-development))
 -   : See:
--   [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
-+   : See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+-   [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
++   : See: [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
   
 - - ward [ward]
 + ward [ward]
@@ -1008,9 +1008,9 @@ Let's continue with the Core Semantic Fields section:
 + 'imer [ʔi.mer]
     : life
     : Proto-Hick \*hi-mer → 'imer
--   : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+-   : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
 -   [Spirit Terms](#spirit-terms)
-+   : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
++   : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 +   : See: [Spirit Terms](#spirit-terms)
   
 - - temer [te.mer]
@@ -1058,10 +1058,10 @@ Let's continue with more entries:
 + 'etil [ʔe.til]
     : living thing
     : Proto-Hick \*hi-etilu → 'etil
--   : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
+-   : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) Note: Shows
 -   animacy marking through glottal prefix See: [Spirit Terms](#spirit-terms),
 -   [Sacred Terms](#sacred--ritual)
-+   : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
++   : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 +   : Note: Shows animacy marking through glottal prefix
 +   : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
   
@@ -3213,7 +3213,7 @@ Yes, let me convert the Derived Terms section under Natural World:
   #### Derived Terms
   
 - - 'ibris [ʔi.bris] "fire" < Proto-Hick \*hi-brisu → 'ibris
--   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) Note: Shows
+-   ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) Note: Shows
 -   archaic animacy marking through glottal prefix, reflecting cultural view of
 -   fire as animate force. See: [Sacred Terms](#sacred--ritual),
 -   [Elements](#elements)
@@ -3224,7 +3224,7 @@ Yes, let me convert the Derived Terms section under Natural World:
 + 'ibris [ʔi.bris]
 +   : fire
 +   : Proto-Hick \*hi-brisu → 'ibris
-+   : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
++   : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 +   : Note: Shows archaic animacy marking through glottal prefix, reflecting cultural view of fire as animate force
 +   : See: [Sacred Terms](#sacred--ritual), [Elements](#elements)
 + 
@@ -4713,11 +4713,11 @@ I'll help convert the Negative Terms section to the colon-based format:
 +   : ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
   
 - - 'imur [ʔi.mur] "evil force" < Proto-Hick \*hi-muru → 'imur
--   ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+-   ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 + 'imur [ʔi.mur]
 +   : evil force
 +   : Proto-Hick \*hi-muru → 'imur
-+   : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
++   : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
     : ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 -   Note: Basic pastoral term. Forms two verbs:
 -   - gras'er "to graze" (animal eating grass)

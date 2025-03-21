@@ -12,7 +12,7 @@ can we generate more 4 letter roots in @proto-hick not yet in @roots.wli please?
 I'll help generate new 4-letter Proto-Hick roots following the patterns seen in the existing roots file. Looking at the existing roots and phonological rules from the documentation:
 
 
-```54:83:site/content/languages/hick/proto-hick/roots.wli
+```54:83:site/content/languages/hickic/proto-hick/roots.wli
 karu
 melu
 tanu
@@ -91,7 +91,7 @@ can you generate that list without those comments, also generate more with a dif
 I'll analyze the patterns from the provided code blocks and generate new Proto-Hick roots. Looking at the patterns in:
 
 
-```54:83:site/content/languages/hick/proto-hick/roots.wli
+```54:83:site/content/languages/hickic/proto-hick/roots.wli
 karu
 melu
 tanu

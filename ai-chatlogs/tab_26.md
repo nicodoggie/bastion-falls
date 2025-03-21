@@ -31,7 +31,7 @@ Looking at the relevant sections:
 We see that kinship and branching concepts are connected through `bran` meaning both "lineage, family branch" and "tree branch", derived from Proto-Hick *bahu lu-haranu (literally "split from father").
 
 
-```527:532:site/content/languages/hick/proto-hick.md
+```527:532:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -121,7 +121,7 @@ Common etymologies for "family" across languages often come from:
 Looking at Proto-Hick phonology and compounds:
 
 
-```34:55:site/content/languages/hick/proto-hick.md
+```34:55:site/content/languages/hickic/proto-hick.md
 ### Vowels
 
 |      | Front | Central | Back |
@@ -288,7 +288,7 @@ Looking at the kinship terminology and compound patterns:
      "air/white")
    - lis [lis] "child" < Proto-Hick *hi-lisu → ilis → lis (lit. "one who
      sees/perceives")
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Note: Developed from animate form of *lisu "eye", showing semantic shift
      from physical perception to conscious learning/development
@@ -515,7 +515,7 @@ And in the kinship terms:
      "air/white")
    - lis [lis] "child" < Proto-Hick *hi-lisu → ilis → lis (lit. "one who
      sees/perceives")
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
      ([final vowel loss](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
      Note: Developed from animate form of *lisu "eye", showing semantic shift
      from physical perception to conscious learning/development
@@ -893,7 +893,7 @@ can we format it to fit @proto-hick.md
 
 Yes! Here's how we could document this in Proto-Hick style:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick *meru
 
 1. Basic Forms:
@@ -937,7 +937,7 @@ Yes! Here's how we could document this in Proto-Hick style:
 This follows the format seen in Proto-Hick reconstructions, particularly matching:
 
 
-```392:421:site/content/languages/hick/proto-hick.md
+```392:421:site/content/languages/hickic/proto-hick.md
    - Post-nominal position
    - Often used with topical or previously mentioned referents
    - Shows agreement with animacy in early stages
@@ -960,7 +960,7 @@ This follows the format seen in Proto-Hick reconstructions, particularly matchin
 And the semantic development patterns shown in:
 
 
-```289:315:site/content/languages/hick/proto-hick.md
+```289:315:site/content/languages/hickic/proto-hick.md
      - Grammaticalized to directional marker -aes
 2. Ellative (-imris)
    - From compound: *imer "breath" + *is "out"
@@ -1726,7 +1726,7 @@ sounds good, so by early hick, the counting numbers also became the general numb
 
 Yes, let's document this evolution. First, let's add the Proto-Hick counting system to proto-hick.md:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick Number System
 
 1. Basic Numbers:
@@ -1931,7 +1931,7 @@ I'll help update all three locations. For the JSON-LD entries, I'll reference:
 
 Here's the updated proto-hick.md section:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick Number System
 
 1. Basic Numbers:
@@ -2192,7 +2192,7 @@ remnant vocabulary suggests several possible sound changes:
   [vowel coalescence](@/languages/hickic/seneran/early-hickck/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
 - hilis [hi.lis] "to see (animate)" < Proto-Hick \*hi-lisu → hilis
-  ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
 - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
 ```
 

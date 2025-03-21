@@ -23,7 +23,7 @@ Let's convert one of the entries from your lexicon as an example:
   : movement, motion
   : action
   : Proto-Hick \*heru → 'ir
-  : ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative change, final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of verbalizer suffix -'er through grammaticalization. Forms basic verb 'ir'er "to do"
 ```
 
@@ -33,7 +33,7 @@ Let's convert one of the entries from your lexicon as an example:
   movement, motion
   action
   Proto-Hick \*heru → 'ir
-  ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Source of verbalizer suffix -'er through grammaticalization. Forms basic verb 'ir'er "to do"
 ```
 
@@ -62,7 +62,7 @@ To convert the lexicon entries into a format similar to the example you provided
 ### Example Format
 ```markdown
 - thren [θren] "watch, observe" < Proto-Hick \*threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic perception verb
 ```
 
@@ -80,7 +80,7 @@ Let's convert the entry for `'ir`:
   : movement, motion
   : action
   : Proto-Hick \*heru → 'ir
-  : ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative change, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of verbalizer suffix -'er through grammaticalization. Forms basic verb 'ir'er "to do"
 ```
 
@@ -90,7 +90,7 @@ Let's convert the entry for `'ir`:
   movement, motion
   action
   Proto-Hick \*heru → 'ir
-  ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Source of verbalizer suffix -'er through grammaticalization. Forms basic verb 'ir'er "to do"
 ```
 
@@ -133,13 +133,13 @@ _**Assistant**_
   movement, motion
   action
   Proto-Hick \*heru → 'ir
-  ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Source of verbalizer suffix -'er through grammaticalization. Forms basic verb 'ir'er "to do"
 
 - tag'er [tag.ʔer]
   to make, to craft
   tag-'er "hand-VERB" → tag'er
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows concrete development from manual action to general creation. Contrasts with abstract 'ir'er "to do". See: [Body Parts](#body-parts)
 
 ### Physical Actions
@@ -147,12 +147,12 @@ _**Assistant**_
 - tak [tak]
   strike, impact
   Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 
 - krak'er [krak.ʔer]
   to bite < krak-'er "tooth-VERB" → krak'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 // ... existing code ...
 ```
 
@@ -183,13 +183,13 @@ _**Assistant**_
 thren [θren]
   : watch, observe
   : Proto-Hick \*threnu → thren
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic perception verb
 
 hilis [hi.lis]
   : sight, active vision
   : Proto-Hick \*hilisu → hilis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms two contrasting verbs:
   : - hilis'er "to look" (active/intentional seeing)
   : - his'er "to see" (passive/unintentional perception)
@@ -197,7 +197,7 @@ hilis [hi.lis]
 pir'er [pir.ʔer]
   : to listen
   : pir-'er "ear-VERB" → pir'er
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Active perception verb. See: [Body Parts](#body-parts)
 
 pirlas'er [pir.las.ʔer]
@@ -237,7 +237,7 @@ _**Assistant**_
 thren [θren]
   : watch, observe
   : Proto-Hick \*threnu → thren
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic perception verb
 // ... existing code ...
 ```
@@ -286,13 +286,13 @@ _**Assistant**_
 thren [θren]
   : watch, observe
   : Proto-Hick \*threnu → thren
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic perception verb
 
 hilis [hi.lis]
   : sight, active vision
   : Proto-Hick \*hilisu → hilis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms two contrasting verbs:
   : - hilis'er "to look" (active/intentional seeing)
   : - his'er "to see" (passive/unintentional perception)
@@ -300,13 +300,13 @@ hilis [hi.lis]
 pir'er [pir.ʔer]
   : to listen
   : pir-'er "ear-VERB" → pir'er
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Active perception verb. See: [Body Parts](#body-parts)
 
 pirlas'er [pir.las.ʔer]
   : to hear
   : pir-las-'er "ear-ILL-VERB" → pirlas'er
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Passive perception verb using illative to mark reception of sound. Contrasts with active pir'er "listen". See: [Body Parts](#body-parts)
 // ... existing code ...
 ```
@@ -327,26 +327,26 @@ _**Assistant**_
 kar'er [kar.ʔer]
   : to smell
   : kar-'er "nose-VERB" → kar'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 
 ### Motion Actions
 
 'ir [ʔir]
   : movement, motion;action
   : Proto-Hick \*heru → 'ir
-  : ([initial fricative change, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative change, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of verbalizer suffix -'er through grammaticalization
 
 'irur [ʔi.rur]
   : repetition, again
   : Proto-Hick *heru-heru → 'irur
-  : ([initial fricative change, compound reduction](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([initial fricative change, compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From reduplicated form of*heru "action". Forms grammaticalized iterative marker -rur/-ur through phonological reduction
 
 sinas [si.nas]
   : play; drift, passage
   : Proto-Hick \*senu-asa-u → sinas
-  : ([final vowel loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss, compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From \*senu "float" + \*asa (PERL) + \*u (NOM), literally "floating through"
   : Primary meaning: "play", connected to free movement
   : Secondary meaning: "drift", related to play
@@ -373,31 +373,31 @@ _**Assistant**_
 barak [ba.rak]
   : walking, gait
   : Proto-Hick \*baraku → barak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb barak'er "to walk" with -'er suffix
 
 mabarak [ma.ba.rak]
   : march, collective walking
   : ma-barak → mabarak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From plural marker + "walk", forms verb mabarak'er "to march". See also barak "walk"
 
 sin [sin]
   : floating
   : Proto-Hick \*senu → sin
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb sin'er "to float". See also [Maritime Terms](#maritime-terms)
 
 dak [dak]
   : snake
   : Proto-Hick \*daluku → dak
-  : ([medial liquid loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([medial liquid loss, vowel reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From root meaning "slither", forms verb dak'er "to slither"
 
 norath [no.raθ]
   : to ride (a mount)
   : Eldrim nortʰa "to make run" → norath
-  : ([borrowed term](@/languages/hick/early-hick/_index.md#elder-borrowings))
+  : ([borrowed term](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#elder-borrowings))
   : Note: Early borrowing from Eldrim, shows cultural contact predating widespread horse domestication. See: [Animal Terms](#animals), [Motion Actions](#motion-actions)
 // ... existing code ...
 ```
@@ -418,7 +418,7 @@ _**Assistant**_
 barak [ba.rak]
   : walking, gait
   : Proto-Hick \*baraku → barak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb barak'er "to walk" with -'er suffix
 // ... existing code ...
 ```
@@ -443,13 +443,13 @@ _**Assistant**_
 mabarak [ma.ba.rak]
   : march, collective walking
   : ma-barak → mabarak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From plural marker + "walk", forms verb mabarak'er "to march". See also barak "walk"
 
 sin [sin]
   : floating
   : Proto-Hick \*senu → sin
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb sin'er "to float". See also [Maritime Terms](#maritime-terms)
 // ... existing code ...
 ```
@@ -474,13 +474,13 @@ _**Assistant**_
 dak [dak]
   : snake
   : Proto-Hick \*daluku → dak
-  : ([medial liquid loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([medial liquid loss, vowel reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From root meaning "slither", forms verb dak'er "to slither"
 
 norath [no.raθ]
   : to ride (a mount)
   : Eldrim nortʰa "to make run" → norath
-  : ([borrowed term](@/languages/hick/early-hick/_index.md#elder-borrowings))
+  : ([borrowed term](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#elder-borrowings))
   : Note: Early borrowing from Eldrim, shows cultural contact predating widespread horse domestication. See: [Animal Terms](#animals), [Motion Actions](#motion-actions)
 // ... existing code ...
 ```
@@ -505,13 +505,13 @@ _**Assistant**_
 trask'er [tras.kʔer]
   : to run
   : trask-'er "leg-VERB" → trask'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows typical body part → action semantic extension. Forms common compounds: istrask'er "run out", lastrask'er "run in". See: [Motion Actions](#motion-actions), [Body Parts](#body-parts)
 
 sinthir [sin.θir]
   : fly
   : sin-thir "float-air" → sinthir
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of floating motion to aerial movement. See: [Motion Actions](#motion-actions), [Basic Terms](#basic-terms)
 // ... existing code ...
 ```
@@ -542,19 +542,19 @@ _**Assistant**_
 vinuimris [vi.nu.im.ris]
   : to give birth
   : vinu + imris (ELL) → vinuimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 venuiter [ve.nu.i.ter]
   : to give birth
   : venu-iter "burden-ELL.DIAL"
-  : ([dialectal case](@/languages/hick/early-hick/_index.md#case-variations-in-dialects))
+  : ([dialectal case](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-variations-in-dialects))
   : Note: Inland dialect form preserved in formal greetings, showing retention of older forms away from maritime influence
   : Note: Sacred term for childbirth
 
 murvinuiter [mur.vi.nu.i.ter]
   : to abort
   : mur + vinuiter → murvinuiter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Literally "from night-birth"
 // ... existing code ...
 ```
@@ -585,19 +585,19 @@ _**Assistant**_
 gras [gras]
   : grass
   : Proto-Hick \*grasu → gras
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb gras'er "to graze", typically of animals feeding
 
 ter [ter]
   : flow, fluid motion
   : Proto-Hick \*teru → ter
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb ter'er "to drink". Flow meanings use directional affixes instead
 
 sinibel [si.ni.bel]
   : taste
   : sin-ibel "float-tongue" → sinibel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of floating motion to sensory perception See: [Taste Terms](#taste-terms), [Body Parts](#body-parts)
 // ... existing code ...
 ```
@@ -628,19 +628,19 @@ _**Assistant**_
 'irek [ʔi.rek]
   : stand; firmness
   : Proto-Hick \*hi-reku → 'irek
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows archaic animacy prefix, forms verb 'irek'er "to stand"
 
 asamitar [a.sa.mi.tar]
   : to sit, rest upon
   : asam-itar "rest-SUPER" → asamitar
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: From asam "rest, resting place" with superessive case, literally "rest upon". Shows common pattern of case suffixes becoming lexicalized into verbs. See: [Position/Stance Actions](#positionstance-actions), [Basic Terms](#basic-terms)
 
 asamasam [a.sa.ma.sam]
   : to lie down
   : asam-asam "rest-SUBE" → asamasam
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: From asam "rest" with subessive case -asam, literally "rest downward". Shows parallel formation to asamitar "sit". See: [Position/Stance Actions](#positionstance-actions)
 // ... existing code ...
 ```
@@ -675,7 +675,7 @@ _**Assistant**_
 kul'er [kul.ʔer]
   : to perform magic
   : kul + -'er → kul'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Used in ritual contexts
 
 ### Emotional/Mental Actions
@@ -683,13 +683,13 @@ kul'er [kul.ʔer]
 sibris [si.bris]
   : romantic love
   : Proto-Hick \*silu-hibrisu →
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From "skin-fire", metaphorical extension to passionate but potentially fleeting emotion. Contrasts with meris "enduring love". See: [Abstract Concepts](#abstract-concepts)
 
 meris [me.ris]
   : unconditional love
   : Proto-Hick \*meru-risu → meris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From "heart-towards", metaphorical extension to deep, lasting emotional bond. Shows archaic lative case usage. See: [Abstract Concepts](#abstract-concepts), [Case System](#case-system)
 // ... existing code ...
 ```
@@ -718,7 +718,7 @@ _**Assistant**_
 gnater [gna.ter]
   : desire
   : gnar-ter "correct-flow" → gnater
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Forms grammaticalized desiderative suffix -nat through phonological reduction
   : See: [Basic Terms](#basic-terms), [Grammatical Terms](#grammatical-terms)
 
@@ -731,41 +731,41 @@ gnater [gna.ter]
 'ilisimris'er [ʔi.li.sim.ris.ʔer]
   : to teach
   : 'ilis-imris "knowledge-ELL" → 'ilisimris'er
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Literally "to cause knowledge to go out from", showing productive use of ellative for causative meanings. Forms agent noun 'ilisimrisok "teacher"
 
 imlis [im.lis]
   : fear, dread
   : im-lis "evil-see" → imlis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows semantic development from "seeing evil" to general fear. Forms verb imlis'er "to fear". Contrasts with hilis "sight" and 'ilis "knowledge"
   : See: [Emotional Terms](#emotional-terms), [Perception Terms](#perception-terms)
 
 imasam [i.ma.sam]
   : to cower, hide from fear
   : im-asam "evil-rest" → imasam
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of "resting under" to fearful hiding. Forms agent noun imasamok "coward"
   : See: [Emotional Terms](#emotional-terms), [Position Terms](#position-terms)
 
 imlisrur [im.lis.rur]
   : anxiety, constant fear
   : imlis-rur "fear-ITER" → imlisrur
-  : ([iterative suffix](@/languages/hick/early-hick/_index.md#iterative-aspect))
+  : ([iterative suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#iterative-aspect))
   : Note: Shows semantic extension of iterative aspect to ongoing mental state. Forms verb imlisrur'er "to be anxious". Contrasts with acute imlis "fear"
   : See: [Mental States](#mental-states), [Emotional Terms](#emotional-terms)
 
 imlis'er [im.li.sʔer]
   : to flee, run from fear
   : imlis-'er "fear-VERB" → imlis'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows development of fear emotion to motion verb. Contrasts with neutral trask'er "run (neutral)"
   : See: [Motion Verbs](#motion-verbs)
 
 imlisitar [im.li.si.tar]
   : to flinch, startle
   : imlis-itar "fear-SUPE" → imlisitar
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows development of superessive case to indicate sudden upward motion
   : See: [Motion Verbs](#motion-verbs), [Case System](#case-system)
 // ... existing code ...
@@ -801,28 +801,28 @@ _**Assistant**_
 tag'er [tag.ʔer]
   : to build, construct
   : tag-'er "hand-VERB" → tag'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows concrete development from manual action to construction. Forms compounds: istag'er "build out", lastag'er "build in"
   : See: [Motion Actions](#motion-actions), [Body Parts](#body-parts)
 
 bel'er [bel.ʔer]
   : to open
   : bel-'er "mouth-VERB" → bel'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows typical body part → action semantic extension
   : See: [Body Parts](#body-parts)
 
 belitar [be.li.tar]
   : to enter
   : bel-itar "mouth-SUPER" → belitar
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows development of superessive case to indicate motion through an opening
   : See: [Motion Verbs](#motion-verbs), [Case System](#case-system)
 
 belasam [be.la.sam]
   : to exit
   : bel-asam "mouth-SUBE" → belasam
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows parallel formation to belitar "enter" using subessive case
   : See: [Motion Verbs](#motion-verbs), [Case System](#case-system)
 // ... existing code ...
@@ -858,28 +858,28 @@ _**Assistant**_
 tag'er [tag.ʔer]
   : to craft, make
   : tag-'er "hand-VERB" → tag'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows concrete development from manual action to creation. Forms compounds: istag'er "craft out", lastag'er "craft in"
   : See: [Motion Actions](#motion-actions), [Body Parts](#body-parts)
 
 kur'er [kur.ʔer]
   : to forge, work metal
   : kur-'er "copper-VERB" → kur'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows development from material to action. Forms compounds: iskur'er "forge out", laskur'er "forge in"
   : See: [Metal Terms](#metals), [Craft Terms](#crafts)
 
 tin'er [tin.ʔer]
   : to alloy, mix metals
   : tin-'er "tin-VERB" → tin'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows parallel formation to kur'er. Forms compounds: istin'er "alloy out", lastin'er "alloy in"
   : See: [Metal Terms](#metals), [Craft Terms](#crafts)
 
 gral'er [gral.ʔer]
   : to shape clay
   : gral-'er "clay-VERB" → gral'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows development from material to action. Forms compounds: isgral'er "shape out", lasgral'er "shape in"
   : See: [Material Terms](#materials), [Craft Terms](#crafts)
 // ... existing code ...
@@ -917,21 +917,21 @@ _**Assistant**_
 ar [ar]
   : cut, cutting action
   : Proto-Hick \*xaru → ar
-  : ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb ar'er "to cut". Shows typical development of basic action root
   : See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
 
 arasud [a.ra.sud]
   : plank, cut timber
   : Proto-Hick \*xarasa-wudu → arasud
-  : ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From \*xaru "cut" + \*asa (PERL) + \*wudu "wood", literally "cut-through wood"
   : See: [Material Terms](#materials), [Tool Terms](#tool-terms)
 
 'it [ʔit]
   : knot (in wood); falsehood
   : Proto-Hick \*xitu → 'it
-  : ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Primary meaning refers to natural knots in wood/lumber. Abstract meaning "falsehood" derives from concept of deviation in wood grain
   : See: [Construction Terms](#construction--dwelling), [Abstract Concepts](#abstract-concepts)
 // ... existing code ...
@@ -961,7 +961,7 @@ _**Assistant**_
 arasud [a.ra.sud]
   : plank, cut timber
   : Proto-Hick \*xarasa-wudu → arasud
-  : ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From \*xaru "cut" + \*asa (PERL) + \*wudu "wood", literally "cut-through wood"
   : See: [Material Terms](#materials), [Tool Terms](#tool-terms)
 // ... existing code ...
@@ -1053,7 +1053,7 @@ _**Assistant**_
 vinud [vi.nud]
   : building, dwelling
   : Proto-Hick \*venu-wudu → vinud
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From 'burden' + 'wood', forms verb vinud'er "to build, to dwell"
 
 ### Tool/Craft Actions
@@ -1061,25 +1061,25 @@ vinud [vi.nud]
 ar [ar]
   : cut, cutting action
   : Proto-Hick \*xaru → ar
-  : ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Forms verb ar'er "to cut"
 
 arum [a.rum]
   : sketch; draw
   : Proto-Hick \*xaru-uma → arum
-  : ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From "cut" with archaic allative case, showing semantic extension from physical cutting to artistic marking
 
 'irur [ʔi.rur]
   : hollow
   : Proto-Hick \*heru-lumuru → 'irur
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Derived from "act of emptying," reflecting the concept of hollowness
 
 'ihir [ʔi.hir]
   : to mine (for ore)
   : Proto-Hick \*heru lu xiru → 'ihir
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Literally "move through ore", shows development of specialized mining terminology
 
 ### Conflict Actions
@@ -1087,7 +1087,7 @@ arum [a.rum]
 imwes [im.wes]
   : invade, encroach upon
   : im-wes "evil-enclose" → imwes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows productive use of im- prefix for harmful actions. Forms verb imwes'er
   : See: [Action Terms](#action-terms), [Conflict Terms](#conflict-terms)
 // ... existing code ...
@@ -1113,33 +1113,33 @@ _**Assistant**_
 haran [ha.ran]
   : split, divide
   : Proto-Hick \*haranu → haran
-  : ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
-  : See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+  : ([final vowel loss, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
+  : See: [Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 
 ward [ward]
   : direct, guide; travel with
   : Proto-Hick \*wardu → ward
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : See: [Sacred Terms](#sacred--ritual)
 
 tak [tak]
   : strike, impact; right (direction)
   : Proto-Hick \*taku → tak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Onomatopoeic origin; directional sense from cultural association with dominant striking hand
   : See: [Directional Terms](#directional-system)
 
 stor [stor]
   : grow; add, increment
   : Proto-Hick \*storu → stor
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   : Note: Mathematical sense developed from basic meaning "grow"
   : See: [Sacred Terms](#sacred--ritual)
 
 'imer [ʔi.mer]
   : life
   : Proto-Hick \*hi-mer → 'imer
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   : See: [Spirit Terms](#spirit-terms)
 // ... existing code ...
 ```
@@ -1164,32 +1164,32 @@ _**Assistant**_
 temer [te.mer]
   : death
   : Proto-Hick \*telu-himeru → temer
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Literally "end of life"
   : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 
 istor [is.tor]
   : growth (living)
   : Proto-Hick \*hi-storu → istor
-  : ([initial sibilant loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([initial sibilant loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   : See: [Sacred Terms](#sacred--ritual)
 
 gnar [gnar]
   : correct
   : Proto-Hick \*gnaru → gnar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : See: [Sacred Terms](#sacred--ritual)
 
 etil [e.til]
   : thing
   : Proto-Hick \*etilu → etil
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : See: [Basic Terms](#basic-terms)
 
 'etil [ʔe.til]
   : living thing
   : Proto-Hick \*hi-etilu → 'etil
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   : Note: Shows animacy marking through glottal prefix
   : See: [Spirit Terms](#spirit-terms), [Sacred Terms](#sacred--ritual)
 // ... existing code ...
@@ -1219,27 +1219,27 @@ _**Assistant**_
 'il [ʔil]
   : good, kind
   : Proto-Hick \*hi-halu → 'il
-  : ([initial fricative change, vowel coalescence](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([initial fricative change, vowel coalescence](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Shows archaic animacy marking through glottal prefix
   : See: [Sacred Terms](#sacred--ritual), [Basic Terms](#basic-terms)
 
 ven [ven]
   : yoke, burden
   : Proto-Hick \*venu → ven
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
 
 vin [vin]
   : pregnancy
   : Proto-Hick \*venu "yoke" → vinu
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: From "burden-seed"; shows vowel harmony in compound reduction
   : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
 pak [pak]
   : poke
   : Proto-Hick \*paku → pak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Tool Terms](#tool-terms)
 
 asam [a.səm]
@@ -1278,7 +1278,7 @@ _**Assistant**_
 wes [wes]
   : cover, enclose
   : Proto-Hick \*wesu → wes
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for enclosure/covering. Forms compounds for containers
   : Examples:
   : - wes'er "to cover, enclose" (with verbalizer -'er)
@@ -1287,7 +1287,7 @@ wes [wes]
 ewes [e.wes]
   : together with; together
   : Proto-Hick *ʔelu-lawes → ewes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From instrumental *ʔelu "by means of" + *lawes "consume", showing semantic development from "consuming with" to general accompaniment
   : Functions both as pre-absolutive adverbial marker and independent lexical item
   : See: [Basic Terms](#basic-terms), [Grammatical Terms](#grammatical-terms)
@@ -1295,14 +1295,14 @@ ewes [e.wes]
 'ibri ['ib.ri]
   : excrement, manure
   : Proto-Hick *'ibari → 'ibri
-  : ([vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Basic term for excrement. Forms compounds for agricultural uses
   : See: [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
 
 ul [ul]
   : grasp; possess, own
   : Proto-Hick *ʔulu → ul
-  : ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial glottal loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Source of possessive suffix -ul through grammaticalization. Forms verb ul'er "to grasp, to own"
   : See: [Basic Terms](#basic-terms), [Grammatical Terms](#grammatical-terms)
 // ... existing code ...
@@ -1342,14 +1342,14 @@ _**Assistant**_
 kator [ka.tor]
   : massive, heavy
   : ka-tor "peak-like" → kator
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension from height to mass/weight
   : See: [Basic Properties](#basic-properties), [Landforms](#landforms)
 
 kali [ka.li]
   : light, small
   : ka-li "small-like" → kali
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows reanalysis of diminutive prefix as independent root
   : See: [Basic Properties](#basic-properties), [Augmentative/Diminutive](#augmentativediminutive)
 
@@ -1358,12 +1358,12 @@ kali [ka.li]
 ven'er [ven.ʔer]
   : to carry
   : ven-'er "yoke-VERB" → ven'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 
 venitar [ve.ni.tar]
   : to lift
   : ven-itar "yoke-SUPER" → venitar
-  : ([superessive case](@/languages/hick/early-hick/_index.md#case-system))
+  : ([superessive case](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Lexicalized from superessive case of "yoke"
   : See: [Verbal Terms](#verbal-terms)
 // ... existing code ...
@@ -1401,35 +1401,35 @@ _**Assistant**_
 venuiter [vi.nu.i.ter]
   : to give birth
   : venu-itar "pregnancy-ELL" → venuiter
-  : ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
+  : ([ellative case](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Lexicalized from ellative case of "pregnancy"
   : See: [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
 
 kabrast [ka.brast]
   : skilled with hands
   : ka-brast "like-dominant.arm" → kabrast
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Specifically for craft skills requiring hand coordination; does not extend to martial or athletic dexterity
   : See: [Body Parts](#body-parts)
 
 brastok [bras.tok]
   : craftsman
   : brast-ok "dominant.arm-AGENT" → brastok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: General term for skilled artisans. Shows cultural link between dominant hand and craft skills
   : See: [Body Parts](#body-parts)
 
 asamitar [a.sa.mi.tar]
   : to sit, rest upon
   : asam-itar "rest-SUPER" → asamitar
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: From asam "rest, resting place" with superessive case, literally "rest upon". Shows common pattern of case suffixes becoming lexicalized into verbs
   : See: [Position/Stance Actions](#positionstance-actions), [Basic Terms](#basic-terms)
 
 litil [li.til]
   : small thing
   : li-etil "DIM-thing" → litil
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows productive use of diminutive prefix with basic noun
   : See: [Basic Terms](#basic-terms), [Augmentative/Diminutive](#augmentativediminutive)
 // ... existing code ...
@@ -1481,7 +1481,7 @@ ru [ru]
 takutak [ˈta.ku.tək]
   : rhythm
   : Proto-Hick \*takutaku → takutak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Preserves onomatopoeic reduplication
 
 ### Interrogatives
@@ -1491,7 +1491,7 @@ takutak [ˈta.ku.tək]
 'aka [ʔa.ka]
   : what
   : Proto-Hick \*haka → 'aka
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Basic question root, shows archaic animacy marking
 
 #### Proximal Forms
@@ -1632,7 +1632,7 @@ _**Assistant**_
 thil [θil]
   : virtue, moral
   : Proto-Hick \*halu → thil
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Abstract sense developed from basic meaning
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 // ... existing code ...
@@ -1678,27 +1678,27 @@ _**Assistant**_
 thid [θid]
   : truth
   : Proto-Hick \*hawadu "sacred way" → thid
-  : ([initial fricativization, medial glide loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricativization, medial glide loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows semantic development from "sacred path" to abstract "truth"
 
 imurud [i.mu.rud]
   : falsehood
   : imur-wudu "evil-path" → imurud
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows semantic extension from physical to abstract meaning
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 im'ir [im.ʔir]
   : ill intent, malice
   : im-'ir "evil-action" → im'ir
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of negative prefix with action root
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 torthil [tor.θil]
   : arrogance, haughtiness
   : tor-thil "great-virtue" → torthil
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows ironic compound formation - excessive virtue becoming a flaw. Forms verb torthil'er "to be arrogant"
   : See: [Abstract Concepts](#abstract-concepts), [Emotional Terms](#emotional-terms)
 // ... existing code ...
@@ -1726,14 +1726,14 @@ _**Assistant**_
 'irek [ʔi.rek]
   : stand; firmness; truth
   : Proto-Hick \*hi-reku → 'irek
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows archaic animacy prefix. Semantic extension from physical firmness to abstract truth
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 'it [ʔit]
   : knot (in wood); falsehood
   : Proto-Hick \*xitu → 'it
-  : ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Primary meaning refers to natural knots in wood/lumber. Abstract meaning "falsehood" derives from concept of deviation in wood grain
   : See: [Construction Terms](#construction--dwelling), [Abstract Concepts](#abstract-concepts)
 
@@ -1752,7 +1752,7 @@ mulisthral [mu.lis.θral]
 mulisim [mu.li.sim]
   : nightmare
   : mulis-im → mulisim
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 // ... existing code ...
 ```
 
@@ -1802,15 +1802,15 @@ _**Assistant**_
 sibris [si.bris]
   : romantic love
   : Proto-Hick \*hibrisu "fire" → sibris
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Metaphorical extension from "fire" to "passion/love"
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 dakisa [da.ki.sa]
   : infatuation
   : Proto-Hick \*daluku-isa-hihasa → dakisa
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Literally "snake in the gut"; metaphorical extension for intense desire
   : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 
@@ -1821,7 +1821,7 @@ dakisa [da.ki.sa]
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 his [his]
@@ -1850,15 +1850,15 @@ _**Assistant**_
 sibris [si.bris]
   : romantic love
   : Proto-Hick \*hibrisu "fire" → sibris
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Metaphorical extension from "fire" to "passion/love"
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 dakisa [da.ki.sa]
   : infatuation
   : Proto-Hick \*daluku-isa-hihasa → dakisa
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Literally "snake in the gut"; metaphorical extension for intense desire
   : See: [Body Parts](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 // ... existing code ...
@@ -1884,7 +1884,7 @@ _**Assistant**_
 sibris [si.bris]
   : romantic love
   : Proto-Hick \*hibrisu "fire" → sibris
-  : ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([initial fricative change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Metaphorical extension from "fire" to "passion/love"
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 // ... existing code ...
@@ -1930,40 +1930,40 @@ _**Assistant**_
 murmer [mur.mer]
   : night-bird, owl
   : Proto-Hick \*muru-meru "night-bird" → mur-mer
-  : ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  : ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
 
 tomur [to.mur]
   : great owl, eagle owl
   : Proto-Hick \*toru-muru-meru "great-night-bird" → tor-mur-mer
-  : ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  : ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
   : → tor-mur
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : → tomur
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 thurmur [θur.mur]
   : dusk owl
   : Proto-Hick \*thuru-muru-meru "dusk-night-bird" → thur-mur-mer
-  : ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  : ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
   : → thurmur
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
 
 limur [li.mur]
   : small night-bird, small owl
   : Proto-Hick \*li-muru-meru "small-night-bird" → li-mur-mer
-  : ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  : ([vowel loss in compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#phonotactic-constraints))
   : → limur
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
 
 murlis [mur.lis]
   : night-eye
   : mur-lis "night-eye" → murlis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 murkran [mur.kran]
   : night-horn
   : mur-kran "night-horn" → murkran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 // ... existing code ...
 ```
 
@@ -2000,7 +2000,7 @@ _**Assistant**_
 
 With context, the word itself would be enough to mean the color, however to
 disambiguate from other meanings, the
-[Similarity Prefix](@/languages/hick/early-hick#similarity-marking) *ka-* is
+[Similarity Prefix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck#similarity-marking) *ka-* is
 used.
 
 Some color terms do not have other semantic categories, for example 'gra' lost
@@ -2009,39 +2009,39 @@ other meanings by Early Hick, this *ka-* is unnecessary.
 gra [gra]
   : grey
   : Proto-Hick \*grau → gra
-  : ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
+  : ([vowel sequences](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#vowel-sequences))
   : See: [Metals](#metals)
 
 mar [mar]
   : red
   : Proto-Hick \*maru → mar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Metals](#metals)
 
 kel [kel]
   : blue
   : Proto-Hick \*kelu → kel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Same as "sky"
   : See: [Elements](#elements)
 
 thir [θir]
   : white
   : Proto-Hick \*thiru → thir
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Same as "air"
   : See: [Elements](#elements)
 
 nal [nal]
   : black
   : Proto-Hick \*nalu → nal
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Same as "river"
 
 sar [sar]
   : leaf
   : Proto-Hick \*saru → sar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Also means "green" from leaf association
 // ... existing code ...
 ```
@@ -2086,7 +2086,7 @@ _**Assistant**_
 kul [kul]
   : magic, sorcery
   : Proto-Hick \*kulu → kul
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : See: [Sacred Terms](#sacred--ritual)
 
 #### Derived Terms
@@ -2094,19 +2094,19 @@ kul [kul]
 kulok [ku.lok]
   : sorcerer
   : kul-ok "magic-AGENT" → kulok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 malthrenok [mal.θre.nok]
   : pool-watcher, diviner
   : mal-thren-ok "pool-watch-AGENT" → malthrenok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: One who divines through watching pools/water
   : See: [Water Features](#water-features), [Sacred Terms](#sacred--ritual)
 
 imurkulok [i.mur.ku.lok]
   : necromancer
   : imur-kul-ok "evil-magic-AGENT" → imurkulok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Literally "evil magic worker"
   : See: [Sacred Terms](#sacred--ritual), [Magical Terms](#magical-terms)
 // ... existing code ...
@@ -2156,41 +2156,41 @@ _**Assistant**_
 thral [θral]
   : sacred, ritual; day
   : Proto-Hick \*thralu → thral
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Sacred Terms](#sacred--ritual)
 
 ter [ter]
   : flow, time
   : Proto-Hick \*teru → ter
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 mur [mur]
   : night, darkness
   : Proto-Hick \*muru → mur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Bird Terms](#bird-terms-nocturnal)
 
 thur [θur]
   : dusk
   : Proto-Hick \*thuru → thur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 bran [bran]
   : dawn
   : Proto-Hick \*branu → bran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 takuter [ta.ku.ter]
   : harmony, attunement
   : 3-ter "rhythm-flow" → takuter
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Shows reduction of reduplicated base through compound simplification
   : See: [Basic Terms](#basic-terms), [Sacred Terms](#sacred--ritual)
 
 'atelbran [ʔa.tel.bran]
   : before (when-dawn)
   : 'aka-tel-bran → 'akatelbran → 'atelbran
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Shows temporal metaphor of dawn/past, derived from interrogative
   : See: [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
 // ... existing code ...
@@ -2214,49 +2214,49 @@ _**Assistant**_
 kel [kel]
   : sky, blue
   : Proto-Hick \*kelu → kel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Colors](#colors)
 
 thir [θir]
   : air, white
   : Proto-Hick \*thiru → thir
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Colors](#colors)
 
 'ilis [ʔi.lis]
   : sun
   : Proto-Hick \*ʔilisu → 'ilis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 'ilisim [ʔi.li.sim]
   : moon
   : Proto-Hick \*ʔilisimu → 'ilisim
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Derived from 'ilis "sun" with diminutive suffix -im
 
 'ilisimlis [ʔi.li.sim.lis]
   : moonlight
   : 'ilisim-lis → 'ilisimlis
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ilisim "moon" + lis "eye, light"
 
 'ilislis [ʔi.lis.lis]
   : sunlight
   : 'ilis-lis → 'ilislis
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ilis "sun" + lis "eye, light"
 
 'ilisimthral [ʔi.li.sim.θral]
   : moon-day, ritual day
   : 'ilisim-thral → 'ilisimthral
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ilisim "moon" + thral "sacred, day"
   : See: [Sacred Terms](#sacred--ritual)
 
 'ilisthral [ʔi.lis.θral]
   : sun-day, holy day
   : 'ilis-thral → 'ilisthral
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ilis "sun" + thral "sacred, day"
   : See: [Sacred Terms](#sacred--ritual)
 // ... existing code ...
@@ -2282,41 +2282,41 @@ _**Assistant**_
 lis [lis]
   : eye, light
   : Proto-Hick \*lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Vision & Perception](#vision--perception)
 
 bras [bras]
   : hand
   : Proto-Hick \*brasu → bras
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Basic Properties](#basic-properties)
 
 kran [kran]
   : horn, antler
   : Proto-Hick \*kranu → kran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 'ek [ʔek]
   : head
   : Proto-Hick \*ʔeku → 'ek
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 'eklis [ʔek.lis]
   : face (head-eye)
   : 'ek-lis → 'eklis
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ek "head" + lis "eye"
 
 'ekbras [ʔek.bras]
   : arm (head-hand)
   : 'ek-bras → 'ekbras
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ek "head" + bras "hand"
 
 'ekkran [ʔek.kran]
   : crown (head-horn)
   : 'ek-kran → 'ekkran
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ek "head" + kran "horn"
 // ... existing code ...
 ```
@@ -2337,31 +2337,31 @@ _**Assistant**_
 bel [bel]
   : mouth, opening
   : Proto-Hick \*belu → bel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 'ekbel [ʔek.bel]
   : throat (head-mouth)
   : 'ek-bel → 'ekbel
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ek "head" + bel "mouth"
 
 'ekbellis [ʔek.bel.lis]
   : voice (throat-light)
   : 'ekbel-lis → 'ekbellis
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbel "throat" + lis "light"
   : See: [Sound Terms](#sound--hearing)
 
 'ekbelbras [ʔek.bel.bras]
   : tongue (throat-hand)
   : 'ekbel-bras → 'ekbelbras
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbel "throat" + bras "hand"
 
 'ekbelkran [ʔek.bel.kran]
   : tooth (throat-horn)
   : 'ekbel-kran → 'ekbelkran
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbel "throat" + kran "horn"
 // ... existing code ...
 ```
@@ -2382,32 +2382,32 @@ _**Assistant**_
 nal [nal]
   : blood, river
   : Proto-Hick \*nalu → nal
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Colors](#colors)
 
 'eknal [ʔek.nal]
   : heart (head-blood)
   : 'ek-nal → 'eknal
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ek "head" + nal "blood"
 
 'eknallis [ʔek.nal.lis]
   : life-force (heart-light)
   : 'eknal-lis → 'eknallis
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'eknal "heart" + lis "light"
   : See: [Sacred Terms](#sacred--ritual)
 
 'eknalbras [ʔek.nal.bras]
   : pulse (heart-hand)
   : 'eknal-bras → 'eknalbras
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'eknal "heart" + bras "hand"
 
 'eknalkran [ʔek.nal.kran]
   : bone (heart-horn)
   : 'eknal-kran → 'eknalkran
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'eknal "heart" + kran "horn"
 // ... existing code ...
 ```
@@ -2434,31 +2434,31 @@ _**Assistant**_
 'ekbraslis [ʔek.bras.lis]
   : palm (hand-eye)
   : 'ekbras-lis → 'ekbraslis
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbras "arm" + lis "eye"
 
 'ekbraskran [ʔek.bras.kran]
   : finger (hand-horn)
   : 'ekbras-kran → 'ekbraskran
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbras "arm" + kran "horn"
 
 'ekbrasbel [ʔek.bras.bel]
   : wrist (hand-mouth)
   : 'ekbras-bel → 'ekbrasbel
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbras "arm" + bel "mouth"
 
 'ekbrasnal [ʔek.bras.nal]
   : vein (hand-blood)
   : 'ekbras-nal → 'ekbrasnal
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbras "arm" + nal "blood"
 
 'ekbras'ek [ʔek.bras.ʔek]
   : shoulder (hand-head)
   : 'ekbras-'ek → 'ekbras'ek
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Compound of 'ekbras "arm" + 'ek "head"
 // ... existing code ...
 ```
@@ -2551,7 +2551,7 @@ _**Assistant**_
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 his [his]
@@ -2569,13 +2569,13 @@ his [his]
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 hisimris [hi.sim.ris]
   : show
   : his-imris "sight-ELL" → hisimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows productive use of ellative case for causative meanings. Forms verb hisimris'er "to show". Contrasts with hilis'er "to look"
   : See: [Perception Terms](#perception-terms), [Action Terms](#action-terms)
 
@@ -2584,7 +2584,7 @@ hisimris [hi.sim.ris]
 kamer [ka.mer]
   : bird-like sound
   : ka-mer "like-bird" → kamer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 // ... existing code ...
 ```
 
@@ -2608,25 +2608,25 @@ _**Assistant**_
 kasak [ka.sak]
   : wolf-like howl
   : ka-sak "like-wolf" → kasak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 pir [pir]
   : ear
   : Proto-Hick \*piru → pir
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts)
 
 pirlas [pir.las]
   : hearing
   : pir-las "ear-ILL" → pirlas
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows productive use of illative case for reception of sound
   : See: [Body Parts](#body-parts), [Case System](#case-system)
 
 pirimris [pi.rim.ris]
   : speak
   : pir-imris "ear-ELL" → pirimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows productive use of ellative case for production of sound
   : See: [Body Parts](#body-parts), [Case System](#case-system)
 
@@ -2635,20 +2635,20 @@ pirimris [pi.rim.ris]
 kar [kar]
   : nose
   : Proto-Hick \*karu → kar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts)
 
 karlas [kar.las]
   : smell (reception)
   : kar-las "nose-ILL" → karlas
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows productive use of illative case for reception of scent
   : See: [Body Parts](#body-parts), [Case System](#case-system)
 
 karimris [ka.rim.ris]
   : smell (emission)
   : kar-imris "nose-ELL" → karimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Shows productive use of ellative case for emission of scent
   : See: [Body Parts](#body-parts), [Case System](#case-system)
 // ... existing code ...
@@ -2716,21 +2716,21 @@ _**Assistant**_
 tak [tak]
   : strike, impact; sound
   : Proto-Hick \*taku → tak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
   : See: [Physical Actions](#physical-actions)
 
 takutak [ˈta.ku.tək]
   : rhythm
   : Proto-Hick \*takutaku → takutak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Preserves onomatopoeic reduplication
   : See: [Derived Terms](#derived-terms)
 
 takimer [ˈta.ki.mɛr]
   : echo; sound spirit
   : taku "rhythm" + imer "spirit" → takimer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Reflects early animistic understanding of sound phenomena
   : See: [Spirit Terms](#spirit-terms)
 // ... existing code ...
@@ -2754,14 +2754,14 @@ _**Assistant**_
 tak [tak]
   : strike, impact; sound
   : Proto-Hick \*taku → tak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
   : See: [Physical Actions](#physical-actions)
 
 takutak [ˈta.ku.tək]
   : rhythm
   : Proto-Hick \*takutaku → takutak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Preserves onomatopoeic reduplication
   : See: [Derived Terms](#derived-terms)
 // ... existing code ...
@@ -2785,7 +2785,7 @@ _**Assistant**_
 tak [tak]
   : strike, impact; sound
   : Proto-Hick \*taku → tak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
   : See: [Physical Actions](#physical-actions)
 // ... existing code ...
@@ -2821,21 +2821,21 @@ _**Assistant**_
 tak [tak]
   : strike, impact; sound
   : Proto-Hick \*taku → tak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin
   : See: [Physical Actions](#physical-actions)
 
 takutak [ˈta.ku.tək]
   : rhythm
   : Proto-Hick \*takutaku → takutak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Preserves onomatopoeic reduplication
   : See: [Derived Terms](#derived-terms)
 
 takimer [ˈta.ki.mɛr]
   : echo; sound spirit
   : taku "rhythm" + imer "spirit" → takimer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Reflects early animistic understanding of sound phenomena
   : See: [Spirit Terms](#spirit-terms)
 // ... existing code ...
@@ -2861,19 +2861,19 @@ _**Assistant**_
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 his [his]
   : sight
   : Proto-Hick \*hi-lisu → his
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds), [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hick@/languages/hickic/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickhick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Sacred Terms](#sacred--ritual)
 
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : See: [Sacred Terms](#sacred--ritual)
 
 #### Derived Terms
@@ -2881,7 +2881,7 @@ mulis [mu.lis]
 his'er [his.ʔer]
   : to see
   : his-'er "sight-ACT" → his'er
-  : ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 // ... existing code ...
 ```
 
@@ -2909,19 +2909,19 @@ _**Assistant**_
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 
 his [his]
   : sight
   : Proto-Hick \*hi-lisu → his
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds), [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hick@/languages/hickic/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickc/seneran/early-hickhick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Sacred Terms](#sacred--ritual)
 
 mulis [mu.lis]
   : dream, vision
   : Proto-Hick \*muruhilisu → mulis
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : See: [Sacred Terms](#sacred--ritual)
 // ... existing code ...
 ```
@@ -2950,7 +2950,7 @@ _**Assistant**_
 lis [lis]
   : eye
   : Proto-Hick \*lisu → lis
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
 // ... existing code ...
 ```
@@ -3019,19 +3019,19 @@ _**Assistant**_
 melter [mel.ter]
   : honey
   : mel-ter "sweet-flow" → melter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Literally "sweet flow", primary sweetener in Early Hick culture
 
 krasim [kra.sim]
   : poison
   : kras-im "bitter-evil" → krasim
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows connection between bitter taste and danger
 
 kakethmal [ka.keθ.mal]
   : brine pool
   : kaketh-mal "salty-pool" → kakethmal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : See: [Water Features](#water-features)
 
 #### Intensity Terms
@@ -3039,29 +3039,29 @@ kakethmal [ka.keθ.mal]
 tormel [tor.mel]
   : very sweet
   : tor-mel "great-sweet" → tormel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 limel [li.mel]
   : slightly sweet
   : li-mel "small-sweet" → limel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 #### Usage Examples
 
 mel'er [mel.ʔer]
   : to sweeten
   : mel-'er "sweet-VERB" → mel'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 
 kras'er [kras.ʔer]
   : to embitter
   : kras-'er "bitter-VERB" → kras'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
 
 tir'er [tir.ʔer]
   : to wince; fermentation
   : tir-'er "sour/wince-VERB" → tir'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows connection between taste sensation and involuntary response, as well as the process of fermentation
   : See: [Taste Terms](#taste-terms), [Bodily Functions](#bodily-functions--states), [Process Terms](#process-terms)
 // ... existing code ...
@@ -3089,19 +3089,19 @@ _**Assistant**_
 melter [mel.ter]
   : honey
   : mel-ter "sweet-flow" → melter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Literally "sweet flow", primary sweetener in Early Hick culture
 
 krasim [kra.sim]
   : poison
   : kras-im "bitter-evil" → krasim
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows connection between bitter taste and danger
 
 kakethmal [ka.keθ.mal]
   : brine pool
   : kaketh-mal "salty-pool" → kakethmal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : See: [Water Features](#water-features)
 // ... existing code ...
 ```
@@ -3132,7 +3132,7 @@ _**Assistant**_
 melter [mel.ter]
   : honey
   : mel-ter "sweet-flow" → melter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Literally "sweet flow", primary sweetener in Early Hick culture
 // ... existing code ...
 ```
@@ -3175,14 +3175,14 @@ _**Assistant**_
 du [du]
   : meat
   : Proto-Hick \*duha → du
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for animal flesh as food. Forms compounds with other food terms
   : See: [Body Parts](#body-parts) for muscle/flesh meanings
 
 duwes [du.wes]
   : food, nourishment
   : Proto-Hick \*duha-wesu → duwes
-  : ([compound fusion, vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From \*duha-wesu "meat-cover", showing development:
   : 1. Compound: \*duha-wesu "meat-cover"
   : 2. Fusion: \*duhawesu > \*duwesu
@@ -3219,14 +3219,14 @@ _**Assistant**_
 tirai [ti.rai]
   : fermented drink
   : tir-ai "sour-water" → tirai
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows cultural knowledge of fermentation process
   : See: [Taste Terms](#taste-terms)
 
 melterai [mel.te.rai]
   : mead
   : melter-ai "honey-water" → melterai
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Fermented honey drink
   : See: [Food Terms](#food--consumption-terms)
 // ... existing code ...
@@ -3304,51 +3304,51 @@ milai [mi.lai]
 terok [te.rok]
   : drinker; drunkard
   : ter-ok "flow-AGENT" → terok
-  : ([agentive suffix](@/languages/hick/early-hick/_index.md#agentive-suffix))
+  : ([agentive suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#agentive-suffix))
   : Note: One who drinks (professionally or habitually)
 
 duwesok [du.we.sok]
   : eater, consumer
   : duwes-ok "eat-AGENT" → duwesok
-  : ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+  : ([agentive marking](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#agentive-marking))
 
 torduwes [tor.du.wes]
   : feast, great eating
   : tor-duwes "great-eat" → torduwes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 duwester [du.wes.ter]
   : meal time
   : duwes-ter "eat-flow" → duwester
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 duwesthral [du.wes.θral]
   : ritual feast
   : duwes-thral "eat-sacred" → duwesthral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 duwesimris [du.we.sim.ris]
   : feed
   : duwes-imris "food-ELL" → duwesimris
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Derived from "duwes" (food) with the ellative case, indicating the act of providing food
 
 murduwes [mur.du.wes]
   : leftovers
   : mur-duwes "night-eat" → murduwes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Refers to food set aside for fermentation or preservation, metaphorically described as "night-eat," reflecting the practice of using surplus for future consumption
 
 kaduwes [ka.du.wes]
   : edible
   : ka-duwes "like-food" → kaduwes
-  : ([similarity prefix](@/languages/hick/early-hick/_index.md#similarity-prefix))
+  : ([similarity prefix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#similarity-prefix))
   : Note: General term for anything that can be eaten. Shows productive use of ka- prefix for potential/capability
 
 tir'er [tir.ʔer]
   : to wince; fermentation
   : tir-'er "sour/wince-VERB" → tir'er
-  : ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  : ([verbalizer suffix](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#verbal-morphology))
   : Note: Shows connection between taste sensation and involuntary response, as well as the process of fermentation
   : See: [Taste Terms](#taste-terms), [Bodily Functions](#bodily-functions--states), [Process Terms](#process-terms)
 // ... existing code ...
@@ -3384,31 +3384,31 @@ _**Assistant**_
 ai [ai]
   : water
   : Proto-Hick \*ahi → ai
-  : ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
+  : ([vowel sequences](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#vowel-sequences))
   : See: [Maritime Terms](#maritime-terms), [Water Features](#water-features)
 
 gral [gral]
   : earth, soil
   : Proto-Hick \*gralu → gral
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   : See: [Landscape Terms](#landscape-terms)
 
 kel [kel]
   : sky
   : Proto-Hick \*kelu → kel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   : See: [Time Terms](#time--celestial), [Colors](#colors)
 
 thir [θir]
   : air, wind
   : Proto-Hick \*thiru → thir
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   : See: [Colors](#colors)
 
 al [al]
   : natural rock
   : Proto-Hick \*xalu → halu → al
-  : ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([initial fricative loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
 // ... existing code ...
 ```
 
@@ -3428,32 +3428,32 @@ _**Assistant**_
 gar [gar]
   : stone, hardness
   : Proto-Hick \*garu → gar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 #### Derived Terms
 
 aigar [ai.gar]
   : ice
   : ai-gar "water-stone" → aigar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical understanding of ice as "stone-like water"
 
 gralgar [gral.gar]
   : clay
   : gral-gar "earth-stone" → gralgar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows understanding of clay as intermediate between earth and stone
 
 kelgar [kel.gar]
   : mountain
   : kel-gar "sky-stone" → kelgar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical understanding of mountains as "stones reaching to sky"
 
 thirgar [θir.gar]
   : pumice
   : thir-gar "air-stone" → thirgar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows understanding of pumice as "stone filled with air"
 // ... existing code ...
 ```
@@ -3496,21 +3496,21 @@ _**Assistant**_
 bris [bris]
   : heat
   : Proto-Hick \*brisu → bris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for heat/warmth
   : See: [Elements](#elements)
 
 brises [bri.ses]
   : light, illumination
   : Proto-Hick *brisu-wesu "heat-enclose" → brises
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of "embraced heat" to light/illumination. Forms verb brises'er "to shine"
   : See: [Natural Terms](#natural-terms), [Sacred Terms](#sacred-terms)
 
 dup [dup]
   : pearl; lump, mass
   : Proto-Hick *dupu "pearl" → dup
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass"
   : See: [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 
@@ -3519,14 +3519,14 @@ dup [dup]
 'ibris [ʔi.bris]
   : fire
   : Proto-Hick \*hi-brisu → 'ibris
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   : Note: Shows archaic animacy marking through glottal prefix, reflecting cultural view of fire as animate force
   : See: [Sacred Terms](#sacred--ritual), [Elements](#elements)
 
 kagar [ka.gar]
   : hard
   : ka-gar "stone-like" → kagar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Adjectival form using productive ka- prefix
   : See: [Material Terms](#material-terms)
 // ... existing code ...
@@ -3558,24 +3558,24 @@ _**Assistant**_
 keth [keθ]
   : sea
   : Proto-Hick \*keθu → keθ
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
 
 mal [mal]
   : pool, standing water
   : Proto-Hick \*malu → mal
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
 
 ran [ran]
   : stream, flowing water
   : Proto-Hick \*ranu → ran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 toran [to.ran]
   : river, flowing water
   : Proto-Hick \*ranu → ran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 // ... existing code ...
 ```
 
@@ -3601,13 +3601,13 @@ _**Assistant**_
 keth [keθ]
   : sea
   : Proto-Hick \*keθu → keθ
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
 
 mal [mal]
   : pool, standing water
   : Proto-Hick \*malu → mal
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
 // ... existing code ...
 ```
@@ -3638,28 +3638,28 @@ _**Assistant**_
 gar [gar]
   : stone, hardness
   : Proto-Hick \*garu → gar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for stone extends to abstract hardness. Forms gal "man" through metaphorical extension ("hard person")
   : See: [Landscape Terms](#landforms), [Person Terms](#person-terms)
 
 bris [bris]
   : heat
   : Proto-Hick \*brisu → bris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for heat/warmth
   : See: [Elements](#elements)
 
 brises [bri.ses]
   : light, illumination
   : Proto-Hick *brisu-wesu "heat-enclose" → brises
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of "embraced heat" to light/illumination. Forms verb brises'er "to shine"
   : See: [Natural Terms](#natural-terms), [Sacred Terms](#sacred-terms)
 
 dup [dup]
   : pearl; lump, mass
   : Proto-Hick *dupu "pearl" → dup
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass"
   : See: [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 // ... existing code ...
@@ -3711,14 +3711,14 @@ _**Assistant**_
 gar [gar]
   : stone, hardness
   : Proto-Hick \*garu → gar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for stone extends to abstract hardness. Forms gal "man" through metaphorical extension ("hard person")
   : See: [Landscape Terms](#landforms), [Person Terms](#person-terms)
 
 gral [gral]
   : earth, soil
   : Proto-Hick \*gralu → gral
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 // ... existing code ...
 ```
 
@@ -3746,13 +3746,13 @@ _**Assistant**_
 gar [gar]
   : stone, hardness
   : Proto-Hick \*garu → gar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for stone extends to abstract hardness. Forms gal "man" through metaphorical extension ("hard person")
   : See: [Landscape Terms](#landforms), [Person Terms](#person-terms)
 
 - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral ([final vowel loss])
 - bris [bris] "heat" < Proto-Hick \*brisu → bris
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic term for heat/warmth. See: [Elements](#elements)
 // ... existing code ...
 ```
@@ -3785,12 +3785,12 @@ _**Assistant**_
 bris [bris]
   : heat
   : Proto-Hick \*brisu → bris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for heat/warmth
   : See: [Elements](#elements)
 
 - brises [bri.ses] "light, illumination" < Proto-Hick *brisu-wesu "heat-enclose"
-  → brises ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  → brises ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   Note: Shows metaphorical extension of "embraced heat" to light/illumination.
   Forms verb brises'er "to shine". See: [Natural Terms](#natural-terms),
   [Sacred Terms](#sacred-terms)
@@ -3821,12 +3821,12 @@ _**Assistant**_
 brises [bri.ses]
   : light, illumination
   : Proto-Hick *brisu-wesu "heat-enclose" → brises
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of "embraced heat" to light/illumination. Forms verb brises'er "to shine"
   : See: [Natural Terms](#natural-terms), [Sacred Terms](#sacred-terms)
 
 - dup [dup] "pearl; lump, mass" < Proto-Hick *dupu "pearl" → dup
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   Note: Shows semantic extension from "pearl" to general "rounded mass". See:
   [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 // ... existing code ...
@@ -3860,7 +3860,7 @@ _**Assistant**_
 dup [dup]
   : pearl; lump, mass
   : Proto-Hick *dupu "pearl" → dup
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass"
   : See: [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 
@@ -3886,14 +3886,14 @@ _**Assistant**_
 'ibris [ʔi.bris]
   : fire
   : Proto-Hick \*hi-brisu → 'ibris
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   : Note: Shows archaic animacy marking through glottal prefix, reflecting cultural view of fire as animate force
   : See: [Sacred Terms](#sacred--ritual), [Elements](#elements)
 
 kagar [ka.gar]
   : hard
   : ka-gar "stone-like" → kagar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Adjectival form using productive ka- prefix
   : See: [Material Terms](#material-terms)
 
@@ -3931,54 +3931,54 @@ _**Assistant**_
 tor [tor]
   : height, peak
   : Proto-Hick \*toru → tor
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Augmentative Prefix](#augmentativediminutive)
 
 thrantor [θran.tor]
   : mountain range
   : thran-tor "thousand peaks" → thrantor
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 val [val]
   : valley, water-cut lowland
   : Proto-Hick \*valu → val
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 nagral [na.gral]
   : black earth
   : nal-gral "black-earth" → nagral
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 thragral [θra.gral]
   : sacred earth
   : thral-gral "sacred-earth" → thragral
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   : See: [Garden Terms](#garden-terms)
 
 kirtor [kir.tor]
   : cliff face
   : kir-tor "chest-height" → kirtor
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 dortor [dor.tor]
   : back slope
   : dor-tor "back-height" → dortor
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 palmal [pal.mal]
   : deep pool
   : pal-mal "belly-pool" → palmal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 thalgral [θal.gral]
   : hillside
   : thal-gral "side-earth" → thalgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 grasgral [gras.gral]
   : meadow, grassland
   : gras-gral "grass-earth" → grasgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows productive compound formation pattern of flora + landform
   : See: [Flora & Agriculture](#flora--agriculture), [Agricultural Terms](#agricultural-terms)
 // ... existing code ...
@@ -4006,17 +4006,17 @@ _**Assistant**_
 aitar [ai.tar]
   : rain
   : ai-tar "water-fall" → aitar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 bramis [bra.mis]
   : sea mist, coastal fog
   : bram-mis "tide-mist" → bramis
-  : ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 miraitar [mi.rai.tar]
   : cold rain
   : mir-aitar "cold-rain" → miraitar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 // ... existing code ...
 ```
 
@@ -4048,26 +4048,26 @@ _**Assistant**_
 gral [gral]
   : earth, soil
   : Proto-Hick \*gralu → gral
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 bris [bris]
   : heat
   : Proto-Hick \*brisu → bris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for heat/warmth
   : See: [Elements](#elements)
 
 brises [bri.ses]
   : light, illumination
   : Proto-Hick *brisu-wesu "heat-enclose" → brises
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension of "embraced heat" to light/illumination. Forms verb brises'er "to shine"
   : See: [Natural Terms](#natural-terms), [Sacred Terms](#sacred-terms)
 
 dup [dup]
   : pearl; lump, mass
   : Proto-Hick *dupu "pearl" → dup
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Shows semantic extension from "pearl" to general "rounded mass"
   : See: [Body Terms](#body-terms), [Medical Terms](#medical-terms)
 // ... existing code ...
@@ -4103,14 +4103,14 @@ _**Assistant**_
 'ibris [ʔi.bris]
   : fire
   : Proto-Hick \*hi-brisu → 'ibris
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+  : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
   : Note: Shows archaic animacy marking through glottal prefix, reflecting cultural view of fire as animate force
   : See: [Sacred Terms](#sacred--ritual), [Elements](#elements)
 
 kagar [ka.gar]
   : hard
   : ka-gar "stone-like" → kagar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Adjectival form using productive ka- prefix
   : See: [Material Terms](#material-terms)
 
@@ -4150,63 +4150,63 @@ _**Assistant**_
 ris [ris]
   : reed
   : Proto-Hick \*risu → ris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 wud [wud]
   : wood, tree
   : Proto-Hick \*wudu → wud
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 gras [gras]
   : grass
   : Proto-Hick \*grasu → gras
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 sed [sed]
   : seed
   : Proto-Hick \*sedu → sed
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 sar [sar]
   : leaf
   : Proto-Hick \*saru → sar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Also means "green" from leaf association
 
 bran [bran]
   : branch
   : Proto-Hick \*bahu lu-haranu → bran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   : Note: Preserved compound with ablative lu- marking
 
 wen [wen]
   : flower
   : Proto-Hick \*venu -> wenu → wen
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 asa [a.sa]
   : vine
   : Proto-Hick \*hasa → asa
-  : ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+  : ([initial fricative loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick))
   : See: [Flora & Agriculture](#flora--agriculture)
 
 branlis [bran.lis]
   : tree berries; fruit
   : bran-lis "branch-child" → branlis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Metaphorical extension of "child" to "berries" and "fruit," reflecting cultural view of trees as nurturing figures
 
 'irurlis [ʔi.rur.lis]
   : gourd; container
   : 'irur-lis "hollow-fruit" → 'irurlis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Combines the concepts of hollowness and fruit, reflecting the physical characteristics of gourds
 
 saresp [sa.resp]
   : sprout
   : sar-esp "leaf-under" → saresp
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Metaphorical extension of hidden leaf beneath; reflects cultural view of growth as emergence from concealment. Forms verb saresp'er "to sprout"
   : See: [Flora & Agriculture](#flora--agriculture)
 // ... existing code ...
@@ -4240,22 +4240,22 @@ _**Assistant**_
 ris [ris]
   : reed
   : Proto-Hick \*risu → ris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 wud [wud]
   : wood, tree
   : Proto-Hick \*wudu → wud
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 gras [gras]
   : grass
   : Proto-Hick \*grasu → gras
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 sed [sed]
   : seed
   : Proto-Hick \*sedu → sed
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 // ... existing code ...
 ```
 
@@ -4291,7 +4291,7 @@ _**Assistant**_
 ris [ris]
   : reed
   : Proto-Hick \*risu → ris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 // ... existing code ...
 ```
 
@@ -4339,27 +4339,27 @@ _**Assistant**_
 grased [ˈgra.sed]
   : grain
   : gras-sed "grass-seed" → grased
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 malris [ˈmal.ris]
   : water reed
   : mal-ris "pool-reed" → malris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 ranris [ˈran.ris]
   : river reed
   : ran-ris "stream-reed" → ranris
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 thirwud [ˈθir.wud]
   : white wood
   : thir-wud "white-wood" → thirwud
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 marwud [mar.wud]
   : red wood
   : mar-wud "red-wood" → marwud
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 // ... existing code ...
 ```
@@ -4382,32 +4382,32 @@ _**Assistant**_
 sedgral [sed.gral]
   : field
   : sed-gral "seed-earth" → sedgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 sedter [sed.ter]
   : planting time
   : sed-ter "seed-flow" → sedter
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 granmal [gran.mal]
   : grain storage
   : gran-mal "grain-pool" → granmal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 sedok [se.dok]
   : planter, farmer
   : sed-ok "seed-AGENT" → sedok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 graswad [gras.wad]
   : pasture path
   : gras-wad "grass-path" → graswad
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 'ibri ['ib.ri]
   : excrement, manure
   : Proto-Hick *'ibari → 'ibri
-  : ([vowel loss](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Basic term for excrement. Forms compounds for agricultural uses. See:
   : [Basic Terms](#basic-terms), [Agricultural Terms](#agricultural-terms)
 
@@ -4432,24 +4432,24 @@ _**Assistant**_
 thragral [θra.gral]
   : garden
   : thral-gral "sacred-earth" → thragral
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   : See: [Landforms](#landforms)
   : Note: The dual meaning reflects the sacred nature of cultivated land in Hick culture, where gardens were seen as sanctified spaces
 
 kelwud [kel.wud]
   : orchard
   : kel-wud "leaf-wood" → kelwud
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 riswad [ris.wad]
   : garden path
   : ris-wad "reed-path" → riswad
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 sedthral [sed.θral]
   : planting day
   : sed-thral "seed-sacred" → sedthral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 // ... existing code ...
 ```
@@ -4476,7 +4476,7 @@ _**Assistant**_
 wudgral [wud.gral]
   : orchard
   : wud-thragral "wood-garden" → compound simplification → wudgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows connection between sacred garden and orchard
 
 // ... existing code ...
@@ -4504,7 +4504,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 // ... existing code ...
@@ -4528,7 +4528,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4568,7 +4568,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4598,7 +4598,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4646,7 +4646,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4702,7 +4702,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4712,7 +4712,7 @@ kabran [ka.bran]
 tharala [θa.ra.la]
   : deity
   : Proto-Hick *harala "deity" → tharala
-  : ([partial sound change](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([partial sound change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Religious term showing resistance to regular sound changes (only ha- → tha-). Preserved in formal/sacred register. See: [Sacred Terms](#sacred-terms), [Religious Terms](#religious-terms)
 
 // ... existing code ...
@@ -4744,7 +4744,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4792,7 +4792,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4826,7 +4826,7 @@ _**Assistant**_
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4870,7 +4870,7 @@ _**Assistant**_
 wudgral [wud.gral]
   : orchard
   : wud-thragral "wood-garden" → compound simplification → wudgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows connection between sacred garden and orchard
 
 #### Derived Terms
@@ -4878,7 +4878,7 @@ wudgral [wud.gral]
 kabran [ka.bran]
   : crooked, leaning
   : ka-bran "branch-like" → kabran
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of branch growth patterns. Forms common expression kabran 'irek'er "to lean" (lit. "stand crookedly"). See: [Position/Stance Actions](#positionstance-actions)
 
 ### Sacred & Ritual
@@ -4904,44 +4904,44 @@ _**Assistant**_
 tharala [θa.ra.la]
   : deity
   : Proto-Hick *harala "deity" → tharala
-  : ([partial sound change](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([partial sound change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Religious term showing resistance to regular sound changes (only ha- → tha-). Preserved in formal/sacred register. See: [Sacred Terms](#sacred-terms), [Religious Terms](#religious-terms)
 
 thral [θral]
   : day; sacred, ritual
   : Proto-Hick \*harala → thral
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 
 thren [θren]
   : watch, observe (ritual)
   : Proto-Hick \*threnu → thren
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Maintains [e] in unstressed positions
 
 wad [wad]
   : path, way
   : Proto-Hick \*wadu → wad
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
 
 ward [ward]
   : direct, guide
   : Proto-Hick \*wardu → ward
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms)
 
 thimer [θi.mer]
   : spiritual nurturing
   : Proto-Hick \*ha-meru → thimer
-  : ([vowel reduction, stress shift](@/languages/hick/early-hick/_index.md#vowel-allophony))
+  : ([vowel reduction, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#vowel-allophony))
   : See: [Bird Terms](#bird-terms-nocturnal), [Kinship Terms](#kinship-terms)
   : Note: Preserves original nurturing sense in sacred context
 
 mer [mer]
   : bird; parent
   : Proto-Hick \*meru "nurture, bird" → mer
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Dual meaning reflects cultural connection between birds and parenting
   : See: [Bird Terms](#bird-terms-nocturnal), [Kinship Terms](#kinship-terms)
 
@@ -4984,19 +4984,19 @@ _**Assistant**_
 tharala [θa.ra.la]
   : deity
   : Proto-Hick *harala "deity" → tharala
-  : ([partial sound change](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([partial sound change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Religious term showing resistance to regular sound changes (only ha- → tha-). Preserved in formal/sacred register. See: [Sacred Terms](#sacred-terms), [Religious Terms](#religious-terms)
 
 thral [θral]
   : day; sacred, ritual
   : Proto-Hick \*harala → thral
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 
 thren [θren]
   : watch, observe (ritual)
   : Proto-Hick \*threnu → thren
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Maintains [e] in unstressed positions
 
 // ... existing code ...
@@ -5024,7 +5024,7 @@ _**Assistant**_
 tharala [θa.ra.la]
   : deity
   : Proto-Hick *harala "deity" → tharala
-  : ([partial sound change](@/languages/hick/early-hick/_index.md#sound-changes))
+  : ([partial sound change](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes))
   : Note: Religious term showing resistance to regular sound changes (only ha- → tha-). Preserved in formal/sacred register. See: [Sacred Terms](#sacred-terms), [Religious Terms](#religious-terms)
 
 // ... existing code ...
@@ -5070,38 +5070,38 @@ _**Assistant**_
 mur [mur]
   : night, darkness
   : Proto-Hick \*muru → mur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Bird Terms](#bird-terms-nocturnal)
 
 thur [θur]
   : dusk
   : Proto-Hick \*thuru → thur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 bran [bran]
   : dawn
   : Proto-Hick \*branu → bran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 thrakel [θra.kel]
   : sun
   : thral-kel "sacred-sky" → thrakel
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 murkel [mur.kel]
   : night sky
   : mur-kel "night-sky" → murkel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 thurkel [θur.kel]
   : evening sky
   : thur-kel "dusk-sky" → thurkel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 brakel [bra.kel]
   : morning sky
   : bran-kel "dawn-sky" → brakel
-  : ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 // ... existing code ...
 ```
@@ -5132,18 +5132,18 @@ _**Assistant**_
 mur [mur]
   : night, darkness
   : Proto-Hick \*muru → mur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Bird Terms](#bird-terms-nocturnal)
 
 thur [θur]
   : dusk
   : Proto-Hick \*thuru → thur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 bran [bran]
   : dawn
   : Proto-Hick \*branu → bran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 // ... existing code ...
 ```
@@ -5174,7 +5174,7 @@ _**Assistant**_
 mur [mur]
   : night, darkness
   : Proto-Hick \*muru → mur
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Bird Terms](#bird-terms-nocturnal)
 
 // ... existing code ...
@@ -5220,7 +5220,7 @@ _**Assistant**_
 kathrakel [ka.θra.kel]
   : radiant, beautiful; color
   : ka-thrakel "sun-like" → kathrakel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of thrakel "sun". Shows cultural association between beauty and radiance. See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 ### Material Culture
@@ -5246,19 +5246,19 @@ _**Assistant**_
 ger [ger]
   : metal
   : Early Hick kurger "moss-stone" < Proto-Hick \*kuru-garu
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Generalized from copper compound after kur specialized. Shows semantic shift from natural observation (green patina on stones) to material category
 
 kur [kur]
   : copper
   : Early Hick kurger "moss-stone" < Proto-Hick \*kuru-garu
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Specialized from first element of copper compound. Original meaning "moss" preserved in inland dialects
 
 ir [ir]
   : iron
   : Proto-Hick \*xiru "mined ore" → ir
-  : ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial fricative loss, final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Basic term for iron, shows early mining culture
 
 // ... existing code ...
@@ -5312,34 +5312,34 @@ _**Assistant**_
 mater [ma.ter]
   : vessel, boat
   : Proto-Hick \*mataru-heru → mater
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From "vehicle-action", specialized for water transport. Unrelated to tre/matre despite similar form. See: [Maritime Terms](#maritime-terms)
 
 materok [ma.te.rok]
   : vessel-guide, boatman
   : mater-ok "vessel-AGENT" → materok
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : See: [Agentive Suffix](#agentive-suffix)
 
 rismater [ris.ma.ter]
   : reed-vessel
   : ris-mater "reed-vessel" → rismater
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 wudmater [wud.ma.ter]
   : wood-vessel
   : wud-mater "wood-vessel" → wudmater
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 brammater [bram.ma.ter]
   : river-vessel
   : bram-mater "tide-vessel" → brammater
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kethmater [keθ.ma.ter]
   : sea-vessel
   : keth-mater "sea-vessel" → kethmater
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 // ... existing code ...
 ```
@@ -5376,34 +5376,34 @@ _**Assistant**_
 ris [ris]
   : reed
   : Proto-Hick \*risu → ris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 wud [wud]
   : wood, tree
   : Proto-Hick \*wudu → wud
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 gras [gras]
   : grass
   : Proto-Hick \*grasu → gras
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 sed [sed]
   : seed
   : Proto-Hick \*sedu → sed
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 kel [kel]
   : leaf
   : Proto-Hick \*kelu → kel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 bran [bran]
   : branch
   : Proto-Hick \*bahu lu-haranu → bran
   : (lit. "split from father")
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   : Note: Preserved compound with ablative lu- marking
 
 // ... existing code ...
@@ -5457,68 +5457,68 @@ _**Assistant**_
 nes [nes]
   : fish
   : Proto-Hick \*nesu → nes
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : See: [Maritime Terms](#maritime-terms)
 
 mer [mer]
   : bird
   : Proto-Hick \*meru → mer
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Cultural connection between birds and parenting roles
   : See: [Sacred Terms](#sacred--ritual), [Kinship Terms](#kinship-terms)
 
 pel [pel]
   : bear
   : Proto-Hick \*pelu → pel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Maintains [e] in compounds
 
 sak [sak]
   : wolf
   : Proto-Hick \*saku → sak
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 ren [ren]
   : deer
   : Proto-Hick \*renu → ren
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 toren [to.ren]
   : horse
   : tor-ren "great-deer" → toren
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows semantic extension through size metaphor
   : See: [Animal Terms](#animal-terms)
 
 belnes [bel.nes]
   : mouthed fish
   : bel-nes "mouth-fish" → belnes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kranren [kran.ren]
   : horned deer
   : kran-ren "horn-deer" → kranren
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 venmer [ven.mer]
   : wing bird
   : ven-mer "wing-bird" → venmer
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 silpel [sil.pel]
   : hide bear
   : sil-pel "hide-bear" → silpel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 thirpel [θir.pel]
   : fur-bear
   : thir-pel "fur-bear" → thirpel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 lisbel [lis.bel]
   : face
   : lis-bel "eye-mouth" → lisbel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 // ... existing code ...
 ```
@@ -5539,44 +5539,44 @@ _**Assistant**_
 thirren [θir.ren]
   : winter coat deer
   : thir-ren "fur-deer" → thirren
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kirpel [kir.pel]
   : rearing bear
   : kir-pel "chest-bear" → kirpel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 dorren [dor.ren]
   : pack deer
   : dor-ren "back-deer" → dorren
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 tornes ['tor.nes]
   : whale
   : tor-nes "great-fish" → tornes
-  : ([compound fusion, stress shift](@/languages/hick/early-hick/_index.md#stress-dependent-reduction))
+  : ([compound fusion, stress shift](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#stress-dependent-reduction))
   : Note: Resists reduction due to sacred associations
 
 tomur ['to.mur]
   : great owl
   : tor-mur-mer → tomur
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Shows liquid deletion and vowel reduction
 
 ketnes [ket.nes]
   : sea fish
   : keth-nes "sea-fish" → ketnes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 ranes [ra.nes]
   : river fish
   : ran-nes "stream-fish" → ranes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 malnes [mal.nes]
   : pool fish
   : mal-nes "pool-fish" → malnes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kor [kor]
   : cow
@@ -5587,20 +5587,20 @@ kor [kor]
 sumerok [su.me.rok]
   : goat
   : gras-'imer-ok "grass-life-AGENT" → sumerok
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Shows compound reduction and metaphorical extension through agentive marking
   : See: [Animal Terms](#animal-terms), [Consumption Terms](#consumption-actions)
 
 dak [dak]
   : snake
   : Proto-Hick \*daluku → dak
-  : ([medial liquid loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([medial liquid loss, vowel reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : Note: From root meaning "slither", forms verb dak'er "to slither"
 
 torba [tor.ba]
   : goat
   : tor-ba "mountain-father" → torba
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows metaphorical extension linking goats to mountains and paternal authority
   : See: [Landforms](#landforms), [Kinship Terms](#kinship-terms), [Pastoral Terms](#pastoral-terms)
 
@@ -5645,27 +5645,27 @@ _**Assistant**_
 thrakel [θra.kel]
   : sun
   : thral-kel "sacred-sky" → thrakel
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 murkel [mur.kel]
   : night sky
   : mur-kel "night-sky" → murkel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 thurkel [θur.kel]
   : evening sky
   : thur-kel "dusk-sky" → thurkel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 brakel [bra.kel]
   : morning sky
   : bran-kel "dawn-sky" → brakel
-  : ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([nasal deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 lithar [li.θar]
   : star
   : li-tharala "DIM-deity" → lithar
-  : ([compound simplification](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows loss of -ala in compound. Stars conceptualized as lesser deities
   : See: [Celestial Terms](#time--celestial), [Sacred Terms](#sacred-terms), [Diminutive Formation](#diminutive-formation)
 
@@ -5710,31 +5710,31 @@ _**Assistant**_
 bel [bel]
   : mouth, opening
   : Proto-Hick \*belu → bel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
 
 kan [kan]
   : head
   : Proto-Hick \*kanu → kan
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Sacred Terms](#sacred--ritual)
 
 tel [tel]
   : tail, end
   : Proto-Hick \*telu → tel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Landscape Terms](#landforms)
 
 gar [gar]
   : bone
   : Proto-Hick \*garu → gar
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Landscape Terms](#landforms), [Sacred Terms](#sacred--ritual)
 
 sil [sil]
   : skin, hide
   : Proto-Hick \*silu → sil
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 // ... existing code ...
 ```
@@ -5757,19 +5757,19 @@ _**Assistant**_
 bel [bel]
   : mouth, opening
   : Proto-Hick \*belu → bel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
 
 kan [kan]
   : head
   : Proto-Hick \*kanu → kan
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Sacred Terms](#sacred--ritual)
 
 tel [tel]
   : tail, end
   : Proto-Hick \*telu → tel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Landscape Terms](#landforms)
 
 // ... existing code ...
@@ -5793,7 +5793,7 @@ _**Assistant**_
 bel [bel]
   : mouth, opening
   : Proto-Hick \*belu → bel
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
 
 // ... existing code ...
@@ -5849,27 +5849,27 @@ _**Assistant**_
 makres [ma.kres]
   : many
   : ma-kres "PL-eight" → makres
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 masin [ma.sin]
   : everyone
   : ma-sin "PL-one" → masin
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 mathal [ma.θal]
   : group (of people)
   : ma-thal "PL-three" → mathal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 haran [ha.ran]
   : divide (numbers)
   : Proto-Hick \*haranu → haran
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 -eth [-eθ]
   : inanimate ordinal suffix
   : Proto-Hick \*-ethu → -eth
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 // ... existing code ...
 ```
@@ -5912,40 +5912,40 @@ _**Assistant**_
 im [im]
   : evil, abstract negativity
   : Proto-Hick \*ʔimru → im
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
 
 'imur [ʔi.mur]
   : evil force
   : Proto-Hick \*hi-muru → 'imur
-  : ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 imurmal [i.mur.mal]
   : evil pool, cursed waters; swamp
   : imur-mal → imurmal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 imurtor [i.mur.tor]
   : evil peak, forbidden mountain
   : imur-tor → imurtor
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 imurwad [i.mur.wad]
   : evil path, dangerous route
   : imur-wad → imurwad
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 imurthral [i.mur.θral]
   : cursed day/time
   : imur-thral → imurthral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Maintains second element due to sacred term
   : See: [Time Terms](#time--celestial)
 
 imurai [i.mu.rai]
   : stinky
   : imur-ai "bad-air" → imurai
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Describes an unpleasant smell, metaphorically derived from the concept of bad air
 
 // ... existing code ...
@@ -5994,7 +5994,7 @@ _**Assistant**_
 'eldegral [ʔel.də.gral]
   : Feywild
   : 'eldal "elf" + -gral "earth" → 'eldegral
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification))
   : Note: Shows vowel reduction in middle syllable and sacred earth metaphor
   : See: [Sacred Terms](#sacred--ritual), [Landforms](#landforms)
 
@@ -6003,23 +6003,23 @@ _**Assistant**_
 'is [ʔis]
   : this (animate)
   : Proto-Hick \*'isa → 'is
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 toreldal [to.rel.dal]
   : High Elf
   : tor-eldal "AUG-elf" → toreldal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 edel [e.del]
   : Wood Elf
   : Sindarin eðel + pre-Early Hick ʔal → edel
-  : ([dental fricative stopping, suffix integration](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([dental fricative stopping, suffix integration](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 ithiril [i.θi.ril]
   : Dark Elf
   : Drow Ilythiiri + pre-Early Hick ʔal → ithiril
-  : ([initial syllable loss, vowel reduction, suffix integration](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([initial syllable loss, vowel reduction, suffix integration](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
 
 // ... existing code ...
 ```
@@ -6163,27 +6163,27 @@ _**Assistant**_
 kagar [ka.gar]
   : hard
   : ka-gar "stone-like" → kagar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: From metaphorical extension of stone
   : See: [Material Terms](#material-terms)
 
 kawak [ka.wak]
   : soft
   : ka-wak "breast-like" → kawak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Shows cultural association between softness and nurturing
   : See: [Body Parts](#body-parts)
 
 bris [bris]
   : heat
   : Proto-Hick \*brisu → bris
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Elements](#elements)
 
 mir [mir]
   : cold
   : Proto-Hick \*miru → mir
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Water Features](#water-features)
 
 // ... existing code ...
@@ -6261,34 +6261,34 @@ _**Assistant**_
 'is [ʔis]
   : this (animate)
   : Proto-Hick \*'isa → 'is
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 is [is]
   : this (inanimate)
   : Proto-Hick \*isa → is
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 tan [tan]
   : that (animate)
   : Proto-Hick \*tana → tan
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 en [en]
   : that (inanimate)
   : Proto-Hick \*ena → en
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 #### Examples
 
 tal-en [ˈta.len]
   : that place
   : tal-en "place-that" → talen
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 mal-en [ˈma.len]
   : that pool
   : mal-en "pool-that" → malen
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 // ... existing code ...
 ```
@@ -6340,35 +6340,35 @@ _**Assistant**_
 tor- [tor]
   : augmentative prefix "great"
   : Proto-Hick \*toru → tor
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 #### Examples
 tornes [ˈtor.nes]
   : whale
   : tor-nes "great-fish" → tornes
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 tomal [ˈto.məl]
   : lake
   : tor-mal "great-pool" → tomal
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds))
   : Note: Shows liquid deletion and vowel reduction in unstressed syllables
 
 li- [li]
   : diminutive prefix "small"
   : Proto-Hick \*lisu → li
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
 
 #### Examples
 limal [ˈli.məl]
   : pond
   : li-mal "small-pool" → limal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 limur [ˈli.mur]
   : small owl
   : li-mur "small-owl" → limur
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
   : Note: Triggers reduction in following syllables
 
 ### Adjectival Suffix
@@ -6376,34 +6376,34 @@ limur [ˈli.mur]
 ka- [ka]
   : similative prefix "like, having quality of"
   : Proto-Hick \*kasa → ka
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  : ([final vowel loss](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#historical-development))
   : Note: Developing from similarity marker to general adjectivizer
 
 #### Examples
 kasul [ka.sul]
   : energetic
   : ka-sul "liver-like" → kasul
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kames [ka.mes]
   : emotional
   : ka-mes "heart-like" → kames
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kamar [ka.mar]
   : red, ruddy
   : ka-mar "blood-like" → kamar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kagral [ka.gral]
   : earthy
   : ka-gral "earth-like" → kagral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 kalis [ka.lis]
   : clear, obvious
   : ka-lis "eye-like" → kalis
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-formation))
 
 // ... existing code ...
 ```
@@ -6441,12 +6441,12 @@ _**Assistant**_
   : congratulations on your birth/happy birthday
   : lit. "person-ERG good-upon birth-ABS"
   : Note: Formal congratulatory expression using superessive case
-  : See: [Case System](@/languages/hick/early-hick/_index.md#case-system)
+  : See: [Case System](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system)
 
 'imeritares [ʔi.me.ri.ta.res] ~ imeritares [i.me.ri.ta.res] ~ imritares [im.ri.ta.res]
   : welcome; raised spirits
   : 'imer "life" + -itar (SUPE) + -es (ABS) → ('i)meritares
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#case-system))
   : Note: Formal greeting. Dialectal loss of initial glottal stop allows semantic extension from "upon life" to "raised breath/soul" through reanalysis with imer "breath/soul" + superessive -itar. Common usage leads to simplified form imritares
   : See: [Spirit Terms](#spirit-terms), [Common Phrases](#common-phrases--expressions)
 
@@ -6512,20 +6512,20 @@ _**Assistant**_
 
 tor-mal → tomal "lake"
 thral-gral → thragral "sacred earth"
-See: [Late Hick Sound Changes](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
+See: [Late Hick Sound Changes](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#late-hickearly-seneran-105-ai-to-400-ai)
 
 ### Nasal Deletion
 
 bram-mal → bramal "tidal pool"
 bran-kel → brakel "morning sky"
-See: [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+See: [Sound Changes in Compounds](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#sound-changes-in-compounds)
 
 ### Compound Simplification
 
 tor-mur-mer → tomur "great owl"
 thur-mur-mer → thurmur "dusk owl"
 li-mur-mer → limur "small owl"
-See: [Compound Simplification](@/languages/hick/early-hick/_index.md#compound-simplification)
+See: [Compound Simplification](@/languages/hickic/seneran/early-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickearly-hickck/_index.md#compound-simplification)
 
 ## Cross-Reference Index
 

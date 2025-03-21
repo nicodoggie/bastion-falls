@@ -3897,7 +3897,7 @@ _**Assistant**_
 
 Ah yes! Looking at the sound changes in the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 final-vowel-centralization:
   [+high +back] => [-high +mid -back +central] / _ $
   [+mid +front] => [-low -front +central] / _ $
@@ -3966,18 +3966,21 @@ Looking at sound changes:
 3. /w/ + schwa sequence in unstressed syllable
 
 From LSC file:
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 final-vowel-centralization:
   [+mid +front] => [-low -front +central] / _ $
 ````
 
 So development would be:
+
 1. PH *newe
 2. Stress shift *ˈnewe
 3. Final centralization *ˈnewə
 4. Final deletion *ne
 
 Giving us:
+
 ````markdown
 ne [ne]
   : shake head (in negation); disagree
@@ -3987,7 +3990,7 @@ ne [ne]
     motion. See: [Gesture Terms](#gesture-terms), [Negation Terms](#negation-terms)
 ````
 
-This follows the regular sound changes and maintains our original Proto-Hick 
+This follows the regular sound changes and maintains our original Proto-Hick
 form! The /we/ sequence naturally reduces through centralization and deletion.
 
 ---
@@ -4000,29 +4003,10 @@ I suppose once schwa is deleted, it would basically be [neu] first right? but si
 
 _**Assistant**_
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ah yes! Let's trace this more carefully:
 
 Proto-Hick *newe development:
+
 1. *newe [ne.we]
 2. Stress shift *ˈnewe [ˈne.we]
 3. Final centralization *ˈnewə [ˈne.wə]
@@ -4030,7 +4014,8 @@ Proto-Hick *newe development:
 5. Non-attested diphthong reduction *ne [ne]
 
 This fits with Early Hick phonotactics from the LSC file:
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 Class diphthong {ai, ei}
 ````
 
@@ -4404,7 +4389,7 @@ _**Assistant**_
 
 Let's check the sound changes in the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 # Stage 1: Proto-Maritime Hick
 ...
 compound-vowel-deletion:
@@ -4478,7 +4463,7 @@ _**Assistant**_
 
 Yes, that makes sense! Let's add it to Stage 3 (Pre-Hick) in the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 # Stage 3: Pre-Hick
 ...
 stage-3:
@@ -4551,7 +4536,7 @@ position. Common linguistic terms for this would be:
 
 Let's add it to the LSC file:
 
-````language:site/content/languages/hick/proto-hick/early-hick.lsc
+````language:site/content/languages/hickic/proto-hick/early-hick.lsc
 # Stage 3: Pre-Hick
 ...
 stage-3:

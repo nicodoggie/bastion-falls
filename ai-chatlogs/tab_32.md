@@ -24,7 +24,7 @@ Here's a proposed new section for the lexicon:
      ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
      See: [Sacred Terms](#sacred--ritual)
    - hilis [hi.lis] "to see (animate)" < Proto-Hick *hi-lisu → hilis
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking))
    - mulis [mu.lis] "dream, vision" < Proto-Hick *muruhilisu → mulis
      ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
      See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
@@ -70,11 +70,11 @@ The following terms should be cross-referenced from their existing locations in 
      ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
      See: [Directional System](#directional-system)
    - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
-     ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
+     ([compound reduction](@/languages/hickic/proto-hick.md#compound-specific-changes))
      See: [Sacred Terms](#sacred--ritual),
      [Abstract Concepts](#abstract-concepts)
    - hilis [hi.lis] "sight" < Proto-Hick \*hi-lisu → hilis
-     ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking)) See:
+     ([animacy prefix](@/languages/hickic/proto-hick.md#animacy-marking)) See:
      [Body Parts](#body-parts)
 
 ```

@@ -46,7 +46,7 @@ let's document the old latives in @proto-hick.md first. I'd like to derive from 
 
 Yes! Let's add the Proto-Hick lative system to the documentation. Based on the chat logs, we can add this section to proto-hick.md:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick Case System
 
 ### Original Spatial/Directional Cases
@@ -100,7 +100,7 @@ could ulais become a definite article?
 Yes! Looking at the Proto-Hick material, we can trace a plausible grammaticalization path for *ulais to become a definite article. From the code:
 
 
-```392:423:site/content/languages/hick/proto-hick.md
+```392:423:site/content/languages/hickic/proto-hick.md
 
 ```
 
@@ -253,7 +253,7 @@ let's document only *mela in proto-hick as a definite article, then add the etym
 
 Let me add documentation for the Proto-Hick definite article and Early Hick ergative marker:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 ## Proto-Hick Definite Article
 
 Proto-Hick had a definite article *mela, likely derived from an earlier 

@@ -511,7 +511,7 @@ For grammatical information and language overview, see
 ## Historical Sound Changes
 
 For Proto-Hick vowel harmony and its development into Early Hick, see:
-[Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
+[Proto-Hick Phonological Processes](@/languages/hickic/proto-hick.md#phonological-processes)
 
 For stress-related vowel changes, see:
 [Vowel Allophony](@/languages/hickic/early-hick/_index.md#vowel-allophony)

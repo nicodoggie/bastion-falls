@@ -4601,7 +4601,7 @@
           "unstressed vowel reduction"
         ],
         "etymon:reference": [
-          "@/languages/hick/proto-hick.md#phonological-processes",
+          "@/languages/hickic/proto-hick.md#phonological-processes",
           "@/languages/hickic/seneran/early-hick/_index.md#vowel-allophony"
         ]
       }

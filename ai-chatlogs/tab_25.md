@@ -12,7 +12,7 @@ can you generate 30 4 letter roots for @proto-hick and append it into @roots.wli
 I'll help generate 30 4-letter Proto-Hick roots following the phonological rules from the documentation. Based on:
 
 
-```19:52:site/content/languages/hick/proto-hick/_index.md
+```19:52:site/content/languages/hickic/proto-hick/_index.md
 Proto-Hick shows a simpler phonological system than Early Hick, with strict
 (C)CV(C) syllable structure and obligatory onsets (filled by glottal stop if no
 other consonant).
@@ -52,7 +52,7 @@ other consonant).
 
 Here are 30 new 4-letter roots following Proto-Hick phonotactics (CVCV structure, with appropriate consonants and vowels) to append to roots.wli:
 
-```site/content/languages/hick/proto-hick/roots.wli
+```site/content/languages/hickic/proto-hick/roots.wli
 karu
 melu
 tanu
@@ -106,7 +106,7 @@ now please generate 5 letter roots and then 6 letter roots too
 I'll help generate 5 and 6 letter Proto-Hick roots following the phonological patterns shown in:
 
 
-```19:51:site/content/languages/hick/proto-hick/_index.md
+```19:51:site/content/languages/hickic/proto-hick/_index.md
 Proto-Hick shows a simpler phonological system than Early Hick, with strict
 (C)CV(C) syllable structure and obligatory onsets (filled by glottal stop if no
 other consonant).
@@ -145,7 +145,7 @@ other consonant).
 
 Here are the new roots to append to roots.wli, first 30 5-letter roots (CVCVC-u pattern) and then 30 6-letter roots (CVCCVC-u pattern):
 
-```site/content/languages/hick/proto-hick/roots.wli
+```site/content/languages/hickic/proto-hick/roots.wli
 # 5-letter roots
 karanu
 melisu
@@ -241,7 +241,7 @@ Applied <romanizer>: ʔil -> 'il
 I'll help add these two roots to the Proto-Hick roots file. Looking at the existing patterns and sound changes:
 
 
-```1:144:site/content/languages/hick/proto-hick/roots.wli
+```1:144:site/content/languages/hickic/proto-hick/roots.wli
 ʔahi
 gralu
 kelu
@@ -391,21 +391,21 @@ hihalu
 
 Let's append these two new roots to roots.wli:
 
-```site/content/languages/hick/proto-hick/roots.wli
+```site/content/languages/hickic/proto-hick/roots.wli
 halu
 hihalu
 ```
 
 And we'll need to add their Early Hick forms to roots_ev.wli:
 
-```site/content/languages/hick/proto-hick/roots_ev.wli
+```site/content/languages/hickic/proto-hick/roots_ev.wli
 thil
 'il
 ```
 
 And add the mapping to roots_ev.wlm:
 
-```site/content/languages/hick/proto-hick/roots_ev.wlm
+```site/content/languages/hickic/proto-hick/roots_ev.wlm
 halu           => thil
 hihalu         => 'il
 ```
@@ -429,7 +429,7 @@ These additions follow the documented sound changes:
 The changes follow the phonological rules documented in:
 
 
-```72:81:site/content/languages/hick/proto-hick/early-hick.lsc
+```72:81:site/content/languages/hickic/proto-hick/early-hick.lsc
   ha => θə / $ _ {[stop !glottal], [fricative], [liquid]}
   Else: (
     haʔ  => θ / $ _ @vowel <syl> <syl>
@@ -446,7 +446,7 @@ The changes follow the phonological rules documented in:
 for the sacred prefix transformation (ha- → θ-), and:
 
 
-```119:125:site/content/languages/hick/proto-hick/early-hick.lsc
+```119:125:site/content/languages/hickic/proto-hick/early-hick.lsc
   # Else: hi => ʔi / $ _ 
   hi => ʔi / $ _ {[+high], [fricative], [liquid], [nasal]}
   Else: hi => ʔ / $ _

@@ -609,7 +609,7 @@ Looking through proto-hick.md, I don't see any documentation of a *-ru causative
 
 Looking at the Proto-Hick documentation, we can see the actual pattern for 'wad':
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 startLine: 165
 endLine: 169
 9. Final Vowel Loss
@@ -625,7 +625,7 @@ patterns in Proto-Hick for deriving directional/motion terms.
 
 Looking at the directional system development:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 startLine: 279
 endLine: 289
 1. Illative (-aes)

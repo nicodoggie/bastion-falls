@@ -312,7 +312,7 @@ development based on the Proto-Hick documentation.
 
 From the roots file:
 
-```170:171:site/content/languages/hick/proto-hick/roots_ev.wlm
+```170:171:site/content/languages/hickic/proto-hick/roots_ev.wlm
 pahiku daluku       => pa.ku.dak
 ```
 
@@ -363,7 +363,7 @@ Looking at the Proto-Hick documentation and sound changes, let's analyze how
 
 From the roots file:
 
-```647:666:site/content/languages/hick/proto-hick/_index.md
+```647:666:site/content/languages/hickic/proto-hick/_index.md
 
 ## Basic Roots
 
@@ -391,7 +391,7 @@ We can see that *wadu "path" is a basic root that becomes wad in Early Hick.
 
 The compound formation follows these patterns:
 
-```287:312:site/content/languages/hick/proto-hick/_index.md
+```287:312:site/content/languages/hickic/proto-hick/_index.md
 
 5. Compound-Specific Changes (Early Proto-Hick)
 
@@ -442,7 +442,7 @@ The semantic development is transparent:
 
 This follows regular Proto-Hick compound patterns and sound changes, particularly:
 
-```279:286:site/content/languages/hick/proto-hick/_index.md
+```279:286:site/content/languages/hickic/proto-hick/_index.md
 
 4. Vowel Coalescence (Pre-Early Hick)
 
@@ -473,7 +473,7 @@ wadu > asad.
 
 From the documentation:
 
-```71:81:site/content/languages/hick/proto-hick/_index.md
+```71:81:site/content/languages/hickic/proto-hick/_index.md
 
 ```
 
@@ -481,7 +481,7 @@ From the documentation:
 We can see that *ha- only becomes θ- in sacred contexts. For non-sacred terms, 
 initial *h- is simply lost, as shown in:
 
-```113:117:site/content/languages/hick/proto-hick/_index.md
+```113:117:site/content/languages/hickic/proto-hick/_index.md
    - \*wardu > [ˈwar.du̥]
    - \*taku > [ˈta.ku̥]
 
@@ -655,7 +655,7 @@ also into the markdown lexicon, I suppose under the Architecture semantic field
 Yes, let's add an entry for *hasa wadu > asad in the markdown lexicon. Based on the 
 documentation:
 
-```markdown:site/content/languages/hick/proto-hick/lexicon.md
+```markdown:site/content/languages/hickic/proto-hick/lexicon.md
 ## Architecture and Construction
 
 ### asad
@@ -685,7 +685,7 @@ concepts
 This follows the established patterns shown in:
 
 
-```287:311:site/content/languages/hick/proto-hick/_index.md
+```287:311:site/content/languages/hickic/proto-hick/_index.md
 
 5. Compound-Specific Changes (Early Proto-Hick)
 
@@ -717,7 +717,7 @@ This follows the established patterns shown in:
 And the sound changes documented in:
 
 
-```98:129:site/content/languages/hick/proto-hick/_index.md
+```98:129:site/content/languages/hickic/proto-hick/_index.md
 
 ## Chronological Stages
 
@@ -874,7 +874,7 @@ Cultural notes:
 This follows the documented sound changes from:
 
 
-```287:311:site/content/languages/hick/proto-hick/_index.md
+```287:311:site/content/languages/hickic/proto-hick/_index.md
 
 5. Compound-Specific Changes (Early Proto-Hick)
 
@@ -906,7 +906,7 @@ This follows the documented sound changes from:
 And the basic root patterns shown in:
 
 
-```647:668:site/content/languages/hick/proto-hick/_index.md
+```647:668:site/content/languages/hickic/proto-hick/_index.md
 
 ## Basic Roots
 
@@ -949,7 +949,7 @@ Yes, "'eldegralen asadimris" would be correct for "The Elven Bridge" in Early Hi
 
 1. From the case system documentation:
 
-```490:520:site/content/languages/hick/proto-hick/_index.md
+```490:520:site/content/languages/hickic/proto-hick/_index.md
 ### Original Spatial/Directional Cases
 
 1. Basic Lative Cases:
@@ -987,7 +987,7 @@ We can see that -imris is the elative case marker, appropriate for describing pa
 
 2. The medial visible inanimate marker -en is used with 'eldegral because:
 
-```182:184:site/content/languages/hick/proto-hick/_index.md
+```182:184:site/content/languages/hickic/proto-hick/_index.md
    - Stressed syllables maintain [a]
    - Sacred/formal terms resist reduction
    - Recent compounds preserve original forms
@@ -1015,7 +1015,7 @@ can we add that into the Place Names section of the markdown lexicon document?
 Yes, let's add "'eldegralen asadimris" to the Place Names section. Based on the patterns shown in:
 
 
-```542:567:site/content/languages/hick/proto-hick/_index.md
+```542:567:site/content/languages/hickic/proto-hick/_index.md
 ## Proto-Hick Definite Article
 
 Proto-Hick had a definite article \*mela, likely derived from an earlier
@@ -1110,7 +1110,7 @@ Related terms:
 This follows the documented patterns for compound formation and case marking shown in:
 
 
-```490:520:site/content/languages/hick/proto-hick/_index.md
+```490:520:site/content/languages/hickic/proto-hick/_index.md
 ### Original Spatial/Directional Cases
 
 1. Basic Lative Cases:
@@ -1217,7 +1217,7 @@ should be ontolex-lemon for @lexicon.jsonld
 Yes, I'll add the entry following the ontolex-lemon format. Based on the patterns shown in:
 
 
-```490:520:site/content/languages/hick/proto-hick/_index.md
+```490:520:site/content/languages/hickic/proto-hick/_index.md
 ### Original Spatial/Directional Cases
 
 1. Basic Lative Cases:

@@ -2772,7 +2772,7 @@ can we format the phonology section similar to @_index.md ?
 
 Yes! Looking at the structure in _index.md (lines 1-150), we can reorganize the Proto-Hick phonology section similarly:
 
-```markdown:site/content/languages/hick/proto-hick.md
+```markdown:site/content/languages/hickic/proto-hick.md
 # Proto-Hick Phonology
 
 ## Overview

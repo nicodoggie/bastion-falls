@@ -19,7 +19,7 @@ For grammatical information and language overview, see
 
 For Proto-Hick vowel harmony and its development into Early Hick,
   : see:
-[Proto-Hick Phonological Processes](@/languages/hick/proto-hick/_index.md#phonological-processes)
+[Proto-Hick Phonological Processes](@/languages/hickic/proto-hick/_index.md#phonological-processes)
 
 For stress-related vowel changes,
   : see:
