@@ -100,12 +100,12 @@ importLexicon
       } else {
         const jsonAlpha = jsonAlphabetical(id, title, lexicon);
         const name = id.replace("lexicon:", "").toLocaleLowerCase();
-        fs.writeFileSync(path.join(output, `${name}-alphabetical.json`), jsonAlpha);
+        fs.writeFileSync(path.join(output, `lexicon-${name}-alphabetical.json`), jsonAlpha);
         const jsonField = jsonByField(id, title, lexicon);
-        fs.writeFileSync(path.join(output, `${name}-by-field.json`), jsonField);
+        fs.writeFileSync(path.join(output, `lexicon-${name}-by-field.json`), jsonField);
+        const csv = csvAlphabetical(title, lexicon);
+        fs.writeFileSync(path.join(output, `lexicon-${name}-alphabetical.csv`), csv);
       }
-
-
     } catch (error) {
       console.error('Error importing lexicon:', error);
       process.exit(1);
@@ -227,6 +227,19 @@ function jsonByField(id: string, title: string, lexicon: Map<string, LexicalEntr
     lexicon: Object.fromEntries([...fields.entries()].sort())
   }, null, 2);
   return sortedLexicon;
+}
+
+function csvAlphabetical(title: string, lexicon: Map<string, LexicalEntry>) {
+  const sortedLexicon = [...lexicon.entries()].sort((a, b) => a[1].writtenForm.localeCompare(b[1].writtenForm));
+  const csv = [
+    ...sortedLexicon.map(
+      ([_, entry]) => [
+        `"${entry.writtenForm} /${entry.phoneticForm}/ (${getLexicalCategory(entry.lexicalCategory)})"`,
+        `"${entry.senses.map((sense) => sense.definition).join(";")}"`,
+      ]
+    )
+  ];
+  return csv.join("\n");
 }
 
 function termOutAlphabetical(title: string, lexicon: Map<string, LexicalEntry>) {

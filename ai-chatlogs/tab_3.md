@@ -865,7 +865,7 @@ Here's a simple example of how you might document this in your lexicon:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - lis [lis] "child; fruit" < Proto-Hick *li-su → lis
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Metaphorical extension from "child" to "fruit," reflecting cultural views
   of plants as nurturing figures.
 ```
@@ -899,7 +899,7 @@ Here's how you might document this in your lexicon:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - branlis [bran.lis] "tree berries" < bran-lis "branch-child" → branlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries," reflecting cultural view
   of trees as nurturing figures.
 ```
@@ -923,7 +923,7 @@ For "tree berries," we can use the compound "branlis," combining "bran" (lineage
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - branlis [bran.lis] "tree berries" < bran-lis "branch-child" → branlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries," reflecting cultural view
   of trees as nurturing figures.
 ```
@@ -934,7 +934,7 @@ For "fruits," you might want to use a more general term that reflects the outcom
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - storlis [stor.lis] "fruits" < stor-lis "grow-child" → storlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "fruits," emphasizing the result of
   growth.
 ```
@@ -954,7 +954,7 @@ To add the sense of "fruit" to the word "branlis" in your conlang, you can updat
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - branlis [bran.lis] "tree berries; fruit" < bran-lis "branch-child" → branlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "child" to "berries" and "fruit," reflecting
   cultural view of trees as nurturing figures.
 ```
@@ -1006,7 +1006,7 @@ Here's an example of how you might document a word for "gourd" using a metaphori
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - asathir [a.sa.θir] "gourd" < asa-thir "vine-elder" → asathir
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension of "elder" to "gourd," reflecting the cultural
   view of gourds as ancient and wise containers.
 ```
@@ -1040,11 +1040,11 @@ Here's how you might document this:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - gor [gor] "gourd" < Proto-Hick \*gordu → gor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used for storage and as a metaphor for containment.
 
 - gorter [gor.ter] "container" < gor-ter "gourd-flow" → gorter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Derived from "gourd," emphasizing its use as a storage vessel.
 ```
 
@@ -1077,11 +1077,11 @@ Here's how you might document this:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - kor [kor] "gourd" < Proto-Hick \*kordu → kor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used for storage and as a metaphor for containment.
 
 - kornal [kor.nal] "container" < kor-nal "gourd-hold" → kornal
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Derived from "gourd," emphasizing its use as a storage vessel.
 ```
 
@@ -1115,7 +1115,7 @@ Here's how you might document this in your lexicon:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - 'irur [ʔi.rur] "hollow" < Proto-Hick \*heru-lumuru → 'irur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Derived from "act of emptying," reflecting the concept of hollowness.
 ```
 
@@ -1134,7 +1134,7 @@ To create a word for "gourd" using the concept of "hollow fruit" in your conlang
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - 'irurlis [ʔi.rur.lis] "gourd" < 'irur-lis "hollow-fruit" → 'irurlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Combines the concepts of hollowness and fruit, reflecting the physical
   characteristics of gourds.
 ```
@@ -1154,7 +1154,7 @@ To create the word "duwesimris" meaning "feed" from "duwes" with the ellative su
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - duwesimris [du.we.sim.ris] "feed" < duwes-imris "food-ELL" → duwesimris
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Derived from "duwes" (food) with the ellative case, indicating the act
   of providing food.
 ```
@@ -1222,7 +1222,7 @@ Here's how you might document this in your lexicon:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - murduwes [mur.du.wes] "leftovers" < mur-duwes "night-eat" → murduwes
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Refers to food set aside for fermentation or preservation, metaphorically
   described as "night-eat," reflecting the practice of using surplus for future
   consumption.
@@ -1281,7 +1281,7 @@ To create the word "murai" meaning "stinky" from "bad" + "air," you can document
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - murai [mu.rai] "stinky" < mur-ai "bad-air" → murai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Describes an unpleasant smell, metaphorically derived from the concept
   of bad air.
 ```
@@ -1301,7 +1301,7 @@ To document the word "imurai" meaning "stinky" in your lexicon, you can update t
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - imurai [i.mu.rai] "stinky" < imur-ai "bad-air" → imurai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Describes an unpleasant smell, metaphorically derived from the concept
   of bad air.
 ```
@@ -1472,7 +1472,7 @@ You can update the entry for "tir'er" to include both senses and cross-reference
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - tir'er [tir.ʔer] "to wince; fermentation" < tir-'er "sour/wince-VERB" → tir'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#verbal-morphology))
   Note: Shows connection between taste sensation and involuntary response, as
   well as the process of fermentation. See: [Taste Terms](#taste-terms),
   [Bodily Functions](#bodily-functions--states), [Process Terms](#process-terms)

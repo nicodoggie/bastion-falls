@@ -16,7 +16,7 @@ I'll help add the "al" entry from the markdown file to the JSON-LD file followin
 
 ```markdown
 - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
-  ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([initial fricative loss](@/languages/hickic/early-hick/_index.md#early-hick))
 ```
 
 Here's the corresponding JSON-LD entry to add to the `@graph` array:

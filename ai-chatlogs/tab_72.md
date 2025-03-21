@@ -20,51 +20,51 @@ maintain consistency with the established phonological and morphological pattern
 
 1. Basic Plant Terms
    - ris [ris] "reed" < Proto-Hick *risu → ris
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - wud [wud] "wood, tree" < Proto-Hick *wudu → wud
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - gras [gras] "grass" < Proto-Hick *grasu → gras
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - sed [sed] "seed" < Proto-Hick *sedu → sed
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kel [kel] "leaf" < Proto-Hick *kelu → kel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - bran [bran] "branch" < Proto-Hick *branu → bran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 2. Cultivated Plants
    - gransed [gran.sed] "grain" < gras-sed "grass-seed" → gransed
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - malris [mal.ris] "water reed" < mal-ris "pool-reed" → malris
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - ranris [ran.ris] "river reed" < ran-ris "stream-reed" → ranris
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thirwud [θir.wud] "white wood" < thir-wud "white-wood" → thirwud
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - marwud [mar.wud] "red wood" < mar-wud "red-wood" → marwud
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 3. Agricultural Terms
    - sedgral [sed.gral] "field" < sed-gral "seed-earth" → sedgral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - sedter [sed.ter] "planting time" < sed-ter "seed-flow" → sedter
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - granmal [gran.mal] "grain storage" < gran-mal "grain-pool" → granmal
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - sedok [se.dok] "planter, farmer" < sed-ok "seed-AGENT" → sedok
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - graswad [gras.wad] "pasture path" < gras-wad "grass-path" → graswad
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 4. Garden Terms
    - thragral [θra.gral] "garden" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
    - kelwud [kel.wud] "orchard" < kel-wud "leaf-wood" → kelwud
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - riswad [ris.wad] "garden path" < ris-wad "reed-path" → riswad
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - sedthral [sed.θral] "planting day" < sed-thral "seed-sacred" → sedthral
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 This expansion maintains consistency with the existing lexicon's patterns, including:
@@ -93,14 +93,14 @@ Yes, we can create cross-references between the religious and agricultural meani
 
 ```63:64:site/content/languages/hick/early-hick/lexicon.md
    - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ```
 
 and
 
 ```123:124:site/content/languages/hick/early-hick/lexicon.md
    - thragral [θra.gral] "garden" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ```
 
 
@@ -109,12 +109,12 @@ Here's how we could expand these entries to cross-reference each other:
 ```markdown
 3. Landforms
    - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
      See: [Garden Terms](#garden-terms)
 
 4. Garden Terms
    - thragral [θra.gral] "garden" < thral-gral "sacred-earth" → thragral
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
      See: [Landforms](#landforms)
      Note: The dual meaning reflects the sacred nature of cultivated land in Hick 
      culture, where gardens were seen as sanctified spaces

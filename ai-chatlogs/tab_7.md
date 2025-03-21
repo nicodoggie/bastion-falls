@@ -374,7 +374,7 @@ This follows the established pattern of:
 ```markdown
 
 - takutak [ˈta.ku.tək] "rhythm" < Proto-Hick \*takutaku → takutak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication
 ```
 [text]  
@@ -391,35 +391,35 @@ Ah yes, you're right! Here's the Action Terms section formatted to match the exi
 ## Action Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak 
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 
 - thren [θren] "watch, observe" < Proto-Hick *threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms agent nouns like malthrenok "diviner"
 
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred term for childbirth
 
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
 
 - kul'er [kul.ʔer] "to perform magic" < kul + -'er → kul'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used in ritual contexts
 
 - materok [ma.te.rok] "vessel-guide" < mater + -ok → materok
-  ([agentive suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([agentive suffix](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Maritime occupation term
 
 - malthrenok [mal.θre.nok] "pool-watcher, diviner" < mal + thren + -ok → malthrenok
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred occupation term
 
 - imurkulok [i.mur.ku.lok] "necromancer" < imur + kul + -ok → imurkulok
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "evil-magic-worker"
 ```
 
@@ -444,15 +444,15 @@ through the JSON-LD data:
 
 ```markdown
 - 'aker [ʔa.ker] "how (visible/known manner)" < 'aka + 'er + is → 'aker
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Shows verbal interrogative with -'er suffix
 
 - 'akereth [ʔa.ke.reθ] "how (sensed manner)" < 'aka + 'er + eth → 'akereth
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Medial distance verbal interrogative
 
 - 'akerum [ʔa.ke.rum] "how (unknown manner)" < 'aka + 'er + um → 'akerum
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Distal verbal interrogative
 ```
 
@@ -482,23 +482,23 @@ nouns and focusing only on true action words:
 ## Action Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak 
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 
 - thren [θren] "watch, observe" < Proto-Hick *threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic perception verb
 
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred term for childbirth
 
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
 
 - kul'er [kul.ʔer] "to perform magic" < kul + -'er → kul'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used in ritual contexts
 ```
 
@@ -555,33 +555,33 @@ Let me do a careful analysis through the lexicon data for all three categories:
 1. Explicit verbs (morphologically marked):
 ```markdown
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred term for childbirth
 
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
 
 - kul'er [kul.ʔer] "to perform magic" < kul + -'er → kul'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used in ritual contexts
 ```
 
 2. Words denoting actions (even if not morphologically verbal):
 ```markdown
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak 
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 
 - thren [θren] "watch, observe" < Proto-Hick *threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic perception verb
 ```
 
 3. Words with primary action sense:
 ```markdown
 - sibris [si.bris] "love" < Proto-Hick *hibrisu → sibris
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Metaphorical extension from 'fire' to emotional action
 ```
 
@@ -611,31 +611,31 @@ Looking at the full lexicon data, here's what I found organized by type:
 
 ### Physical Actions
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak 
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 
 ### Perceptual Actions
 - thren [θren] "watch, observe" < Proto-Hick *threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic perception verb
 
 ### Bodily/Life Actions
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu + itar (ELL) → vinuiter
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Sacred term for childbirth
 
 - murvinuiter [mur.vi.nu.i.ter] "to abort" < mur + vinuiter → murvinuiter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "from night-birth"
 
 ### Magical/Sacred Actions  
 - kul'er [kul.ʔer] "to perform magic" < kul + -'er → kul'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Used in ritual contexts
 
 ### Emotional/Mental Actions
 - sibris [si.bris] "love" < Proto-Hick *hibrisu → sibris
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Metaphorical extension from 'fire' to emotional action
 ```
 
@@ -704,7 +704,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Motion Actions
 - barak [ba.rak] "to walk" < Proto-Hick *baraku → barak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic motion verb
 ```
 
@@ -776,7 +776,7 @@ And in the markdown:
 ```markdown
 ### Motion Actions
 - barak [ba.rak] "walking, gait" < Proto-Hick *baraku → barak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb barak'er "to walk" with -'er suffix
 ```
 
@@ -857,7 +857,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Construction/Dwelling Actions
 - vinud [vi.nud] "building, dwelling" < Proto-Hick *venu-wudu → vinud
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From 'burden' + 'wood', forms verb vinud'er "to build, to dwell"
 ```
 
@@ -1068,7 +1068,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Position/Stance Actions
 - 'irek [ʔi.rek] "stand, firmness" < Proto-Hick *hi-reku → 'irek
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Shows archaic animacy prefix, forms verb 'irek'er "to stand"
 ```
 
@@ -1159,7 +1159,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Mental Actions
 - 'ilis [ʔi.lis] "knowledge" < Proto-Hick *hi-lisu → 'ilis
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Shows archaic animacy prefix, forms verb 'ilis'er "to know"
 ```
 
@@ -1255,7 +1255,7 @@ And in the markdown:
 ```markdown
 ### Mental/Perceptual Actions
 - 'ilis [ʔi.lis] "knowledge" < Proto-Hick *hi-lisu → 'ilis
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From root meaning 'sight', forms verb 'ilis'er "to know"
 ```
 
@@ -1343,7 +1343,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Consumption Actions
 - gras [gras] "grass" < Proto-Hick *grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb gras'er "to graze", typically of animals feeding
 ```
 
@@ -1539,7 +1539,7 @@ Here's the new Pastoral Terms section for the markdown document:
 ## Pastoral Terms
 
 - gras [gras] "grass" < Proto-Hick *grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term, forms verb gras'er "to graze". See also [Action Terms](#action-terms)
 ```
 
@@ -1608,7 +1608,7 @@ And in the markdown:
 ## Pastoral Terms
 
 - gras [gras] "grass" < Proto-Hick *grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasiter "to herd, lead to pasture" (person leading animals)
@@ -1687,7 +1687,7 @@ And in the markdown:
 ## Pastoral Terms
 
 - gras [gras] "grass" < Proto-Hick *grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasaes "to herd, take to graze" (from illative: 'into grazing')
@@ -1781,7 +1781,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Consumption Actions
 - ter [ter] "drink" < Proto-Hick *teru → ter
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ter'er "to drink", basic consumption term
 ```
 
@@ -1889,7 +1889,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Motion/Flow Actions
 - ter [ter] "flow, fluid motion" < Proto-Hick *teru → ter
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ter'er "to flow; to drink". Shows semantic extension to consumption
 ```
 
@@ -1988,7 +1988,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Consumption Actions
 - ter [ter] "flow, fluid motion" < Proto-Hick *teru → ter
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ter'er "to drink". Flow meanings use directional affixes instead
 ```
 
@@ -2096,7 +2096,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Motion Actions
 - mabarak [ma.ba.rak] "march, collective walking" < ma-barak → mabarak
-  ([compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From plural marker + "walk", forms verb mabarak'er "to march". See also barak "walk"
 ```
 
@@ -2199,7 +2199,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Motion Actions
 - sin [sin] "floating" < Proto-Hick *senu → sin
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb sin'er "to float". See also [Maritime Terms](#maritime-terms)
 ```
 
@@ -2354,12 +2354,12 @@ And in the markdown:
 ```markdown
 ### Motion Actions
 - dak [dak] "snake" < Proto-Hick *daluku → dak
-  ([medial liquid loss, vowel reduction](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([medial liquid loss, vowel reduction](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From root meaning "slither", forms verb dak'er "to slither"
 
 ### Body Terms
 - bedek [be.dek] "tongue" < be-dak → bedek
-  ([vowel harmony](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([vowel harmony](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Literally "mouth-snake", metaphorical compound
 ```
 
@@ -2661,7 +2661,7 @@ And in the markdown Body Terms section:
 ```markdown
 ### Body Terms
 - bedak [be.dak] "mouth" < Proto-Hick *belu-deluku → bedak
-  ([compound reduction, vowel harmony](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([compound reduction, vowel harmony](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From 'opening' + 'speech', forms verb bedak'er "to speak"
 ```
 
@@ -2769,7 +2769,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Perception Actions
 - hilis [hi.lis] "sight, active vision" < Proto-Hick *hilisu → hilis
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms two contrasting verbs:
   - hilis'er "to look" (active/intentional seeing)
   - his'er "to see" (passive/unintentional perception)
@@ -2889,7 +2889,7 @@ And in the markdown:
 ```markdown
 ### Natural World Terms
 - kel [kel] "sky; leaf" < Proto-Hick *kelu → kel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Also means "blue" (from sky) and "green" (from leaf)
 
 ### Color Terms
@@ -3036,10 +3036,10 @@ And in the markdown:
 ```markdown
 ### Natural World Terms
 - kel [kel] "sky" < Proto-Hick *kelu → kel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Also means "blue" from sky association
 - sar [sar] "leaf" < Proto-Hick *saru → sar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Also means "green" from leaf association
 
 ### Color Terms
@@ -3255,7 +3255,7 @@ And in the markdown Action Terms section:
 ```markdown
 ### Tool/Craft Actions
 - ar [ar] "cut, cutting action" < Proto-Hick *xaru → ar
-  ([initial fricative loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative loss, final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb ar'er "to cut"
 ```
 
@@ -3371,7 +3371,7 @@ And in the markdown:
 ```markdown
 ### Construction Terms
 - arasad [a.ra.sad] "plank, cut timber" < Proto-Hick *xarasa-wudu → arasad
-  ([initial fricative loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial fricative loss, compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From *xaru "cut" + *asa (PERL) + *wudu "wood", literally "cut-through wood"
 ```
 
@@ -3592,7 +3592,7 @@ And in the markdown:
 ```markdown
 ### Motion Terms
 - sinas [si.nas] "drift, passage" < Proto-Hick *senu-asa-u → sinas
-  ([final vowel loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss, compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From *senu "float" + *asa (PERL) + *u (NOM), literally "floating through"
 ```
 
@@ -3718,7 +3718,7 @@ And in the markdown:
 ```markdown
 ### Recreation Terms
 - sinas [si.nas] "play; drift, passage" < Proto-Hick *senu-asa-u → sinas
-  ([final vowel loss, compound fusion](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss, compound fusion](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: From *senu "float" + *asa (PERL) + *u (NOM), literally "floating through"
   - Primary meaning: "play", connected to free movement
   - Secondary meaning: "drift", related to play

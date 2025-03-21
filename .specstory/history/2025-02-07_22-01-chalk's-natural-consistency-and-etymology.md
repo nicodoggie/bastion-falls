@@ -398,7 +398,7 @@ Yes, I'll help add asatogar "travertine" to both files. Here are the edits:
 asatogar [a.sa.to.gar]
   : travertine (lit. "vine limestone")
   : asa-togar "vine-limestone" → asatogar
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Named for its flowing, vine-like mineral formations. See: 
     [Material Terms](#material-terms), [Natural World](#natural-world)
 

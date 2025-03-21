@@ -157,7 +157,7 @@ the lexicon file:
 - 'al-el 'ilitar vinuitar-es "congratulations on your birth/happy birthday"
   (lit. "person-ERG good-upon birth-ABS")
   Note: Formal congratulatory expression using superessive case
-  See: [Case System](@/languages/hick/early-hick/_index.md#case-system)
+  See: [Case System](@/languages/hickic/early-hick/_index.md#case-system)
 
 Example:
 ```plaintext
@@ -260,7 +260,7 @@ Looking at the lexicon entry:
 
 ```95:98:site/content/languages/hick/early-hick/lexicon.md
 - vinuiter [vi.nu.i.ter] "to give birth" < vinu-itar "pregnancy-ELL" → vinuiter
-  ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
+  ([ellative case](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Lexicalized from ellative case of "pregnancy"
   See: [Verbal Terms](#verbal-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -433,7 +433,7 @@ I'll help add "mes" (heart) to the lexicon. Based on the structure shown in the 
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - mes [mes] "heart" < Proto-Hick *mesu → mes 
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings
   See: [Body Metaphors](#body-metaphors)
 ```
@@ -475,7 +475,7 @@ I'll help add both terms to the lexicon. Based on the structure shown in the Bas
 #### Basic Terms
 
 - mes [mes] "heart" < Proto-Hick *mesu → mes 
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Core term for emotional center, used in compounds for feelings
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 
@@ -484,7 +484,7 @@ I'll help add both terms to the lexicon. Based on the structure shown in the Bas
 #### Emotional Terms
 
 - sibris [si.bris] "love" < Proto-Hick *hibrisu "fire" → sibris
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Metaphorical extension from "fire" to "passion/love"
   See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 ```
@@ -879,12 +879,12 @@ entries following similar patterns:
 #### Birth & Death Terms
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Metaphorical extension using "night/darkness" to indicate death
   See: [Sacred Terms](#sacred--ritual), [Body Terms](#bodily-functions--states)
 
 - muivinuiter [mu.i.vi.nu.i.ter] "abortion" < mur-vinuiter "night-birth" → muivinuiter
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
   Note: Shows regular sound change of liquid deletion in sacred terms
   See: [Sacred Terms](#sacred--ritual), [Body Terms](#bodily-functions--states)
 ```
@@ -916,12 +916,12 @@ You're right - these terms would fit better under Bodily Functions & States. Loo
 ### Bodily Functions & States
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 
 - muivinuiter [mu.i.vi.nu.i.ter] "abortion" < mur-vinuiter "night-birth" → muivinuiter
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
   Note: Shows regular liquid deletion in compounds with mur-
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -930,10 +930,10 @@ This follows the patterns shown in:
 
 ```82:87:site/content/languages/hick/early-hick/lexicon.md
 - ven [ven] "yoke, burden" < Proto-Hick \*venu → ven
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
 - vinu [vi.nu] "pregnancy" < Proto-Hick \*venu-sedu → vinu
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   Note: From "burden-seed"; shows vowel harmony in compound reduction See:
 ```
 
@@ -942,17 +942,17 @@ And uses the established sound changes for mur- compounds shown in:
 
 ```371:385:site/content/languages/hick/early-hick/lexicon.md
 - thur [θur] "dusk" < Proto-Hick \*thuru → thur
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - bran [bran] "dawn" < Proto-Hick \*branu → bran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - thrakel [θra.kel] "sun" < thral-kel "sacred-sky" → thrakel
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 - murkel [mur.kel] "night sky" < mur-kel "night-sky" → murkel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - thurkel [θur.kel] "evening sky" < thur-kel "dusk-sky" → thurkel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - brakel [bra.kel] "morning sky" < bran-kel "dawn-sky" → brakel
-  ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([nasal deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 - murkel [mur.kel] "night sky" < mur-kel "night-sky" → murkel
 ### Material Culture
 - thurkel [θur.kel] "evening sky" < thur-kel "dusk-sky" → thurkel
@@ -983,12 +983,12 @@ lines 81-87 and 371-375, here's how they should be structured:
 ### Bodily Functions & States
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 
 - murvinuiter [mur.vi.nu.i.ter] "abortion" < mur-vinuiter "night-birth" → murvinuiter
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Compound with mur- "darkness" and vinuiter "to give birth"
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -998,10 +998,10 @@ This follows established patterns from:
 ```81:87:site/content/languages/hick/early-hick/lexicon.md
   [Sacred Terms](#sacred--ritual), [Basic Terms](#basic-terms)
 - ven [ven] "yoke, burden" < Proto-Hick \*venu → ven
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Basic Terms](#basic-terms), [Tool Terms](#tool-terms)
 - vinu [vi.nu] "pregnancy" < Proto-Hick \*venu-sedu → vinu
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   Note: From "burden-seed"; shows vowel harmony in compound reduction See:
 ```
 
@@ -1010,9 +1010,9 @@ And uses the mur- prefix pattern shown in:
 
 ```371:375:site/content/languages/hick/early-hick/lexicon.md
 - thur [θur] "dusk" < Proto-Hick \*thuru → thur
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - bran [bran] "dawn" < Proto-Hick \*branu → bran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - thrakel [θra.kel] "sun" < thral-kel "sacred-sky" → thrakel
 ```
 
@@ -1039,12 +1039,12 @@ the gloss for murvinuiter:
 ### Bodily Functions & States
 
 - murvinu [mur.vi.nu] "stillbirth" < mur-vinu "night-pregnancy" → murvinu
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Uses mur- "darkness" metaphorically for death
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 
 - murvinuiter [mur.vi.nu.i.ter] "abortion" < murvinu-imris "stillbirth-ELL" → murvinuiter
-  ([ellative case](@/languages/hick/early-hick/_index.md#case-system))
+  ([ellative case](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Uses ellative case to indicate "from/out of stillbirth"
   See: [Body Terms](#body-terms), [Sacred Terms](#sacred--ritual)
 ```

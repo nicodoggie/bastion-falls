@@ -364,18 +364,18 @@ This fits Early Hick's existing patterns because:
 #### Basic Terms
 
 - bao [ba.o] "father" < Proto-Hick \*bahu → bao
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([vowel coalescence](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - nai [nai] "mother" < Proto-Hick \*nahi → nai
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([vowel coalescence](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - mer [mer] "parent" < Proto-Hick \*meru → mer
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Bird Terms](#bird-terms-nocturnal), [Sacred Terms](#sacred--ritual),
   [Animals](#animals) Note: Metaphorical extension from bird terminology
   reflecting cultural values
 - thir [θir] "elder" < Proto-Hick \*thiru → thir (metaphorical extension from
   "air/white")
 - lis [lis] "child" < Proto-Hick \*li-su → lis (lit. "little one")
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Semantic development parallels diminutive formations (see lines 627-630)
   See: [Kinship Terms](#kinship-terms),
   [Diminutive Formation](#augmentativediminutive)
@@ -383,32 +383,32 @@ This fits Early Hick's existing patterns because:
 #### Compound Terms
 
 - merlis [mer.lis] "offspring" < mer-lis "parent-child" → merlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - bran [bran] "lineage, family branch" < Proto-Hick \*bahu lu-haranu → bran
   (lit. "split from father")
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
   Note: Same term used for tree branch; see [Flora Terms](#flora--agriculture)
 - thirmer [θir.mer] "grandparent" < thir-mer "elder-parent" → thirmer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - thirlis [θir.lis] "grandchild" < thir-lis "elder-child" → thirlis
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - tormer [tor.mer] "ancestor" < tor-mer "great-parent" → tormer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - limer [li.mer] "younger parent/aunt/uncle" < li-mer "small-parent" → limer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - thirbao [θir.ba.o] "grandfather" < thir-bao "elder-father" → thirbao
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - thirnai [θir.nai] "grandmother" < thir-nai "elder-mother" → thirnai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - torbao [tor.ba.o] "ancestor (paternal)" < tor-bao "great-father" → torbao
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - tornai [tor.nai] "ancestor (maternal)" < tor-nai "great-mother" → tornai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - libao [li.ba.o] "uncle (paternal)" < li-bao "lesser-father" → libao
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - linai [li.nai] "aunt (maternal)" < li-nai "lesser-mother" → linai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 ```
 
@@ -506,7 +506,7 @@ relationships, which are traditionally the domain of verbs, adjectives, and
 adverbs in other languages.
 
 For grammatical information and language overview, see
-[Early Hick](@/languages/hick/early-hick/_index.md).
+[Early Hick](@/languages/hickic/early-hick/_index.md).
 
 ## Historical Sound Changes
 
@@ -514,7 +514,7 @@ For Proto-Hick vowel harmony and its development into Early Hick, see:
 [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 
 For stress-related vowel changes, see:
-[Vowel Allophony](@/languages/hick/early-hick/_index.md#vowel-allophony)
+[Vowel Allophony](@/languages/hickic/early-hick/_index.md#vowel-allophony)
 
 ## Usage Notes
 
@@ -533,35 +533,35 @@ Here's the new entry to add:
 ### Name & Identity Terms
 
 - bar [bar] "name, mark of identity" < Proto-Hick *baru → bar
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Core term for personal and social identity
 
 #### Derived Terms
 
 - baraes [ba.ra.es] "personal name" < bar-aes "name-ILL" → baraes
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Used for intimate/personal names
 
 - barimris [ba.rim.ris] "reputation, public name" < bar-imris "name-ELL" → barimris
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Used for social standing and public identity
 
 - bar'er [bar.ʔer] "to name, to call" < bar-'er "name-VERB" → bar'er
-  ([verbalizer suffix](@/languages/hick/early-hick/_index.md#verbal-morphology))
+  ([verbalizer suffix](@/languages/hickic/early-hick/_index.md#verbal-morphology))
   Note: Basic verb for naming/calling
 
 #### Compound Terms
 
 - thralbar [θral.bar] "sacred name" < thral-bar "sacred-name" → thralbar
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Used in ritual contexts
 
 - barul [ba.rul] "name-keeper" < bar-ul "name-POSS" → barul
-  ([possessive suffix](@/languages/hick/early-hick/_index.md#possession-marking))
+  ([possessive suffix](@/languages/hickic/early-hick/_index.md#possession-marking))
   Note: One who maintains genealogical records
 
 - mobar [mo.bar] "unnamed, nameless" < mo-bar "NEG-name" → mobar
-  ([negation prefix](@/languages/hick/early-hick/_index.md#negation-system))
+  ([negation prefix](@/languages/hickic/early-hick/_index.md#negation-system))
   Note: Used for both literal namelessness and social outcasts
 ```
 

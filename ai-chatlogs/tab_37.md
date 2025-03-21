@@ -99,13 +99,13 @@ From the lexicon, we see consistent patterns of final vowel loss:
 1. Basic Plant Terms
 
    - ris [ris] "reed" < Proto-Hick \*risu → ris
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - wud [wud] "wood, tree" < Proto-Hick \*wudu → wud
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - gras [gras] "grass" < Proto-Hick \*grasu → gras
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - s [sed] "seed" < Proto-Hick \*sedu → sed
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kel [kel] "leaf" < Proto-Hick \*kelu → kel
 ```
 
@@ -165,10 +165,10 @@ Early Hick:
 
 1. Basic Terms
    - 'al [ʔal] "person" < Proto-Hick *ʔalu → 'al
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
      See: [Political Terms](#political-terms)
    - kir [kir] "body, physical form" < Proto-Hick \*kiru → kir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
    - sekir [se.kir] "foreigner, stranger" < Proto-Hick \*se-kiru → sekir
 ```

@@ -196,15 +196,15 @@ implications for several areas:
 
 ```33:43:site/content/languages/hick/early-hick/lexicon.md
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
   [Compound Formation](#compound-formation)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual) Note: Used for both physical guidance and
   metaphorical direction/instruction
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 ```
 
@@ -216,12 +216,12 @@ Words like "haran" and "ward" would have been repaired differently based on thei
 
 ```823:829:site/content/languages/hick/early-hick/lexicon.md
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
   brammater
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 The harmony would affect how compounds were formed when final vowels were lost:
@@ -290,12 +290,12 @@ Proto-Hick's vowel harmony might weaken or partially disappear:
 
 ```823:829:site/content/languages/hick/early-hick/lexicon.md
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
   brammater
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 The extensive compound system would create many situations where vowels from 
@@ -403,12 +403,12 @@ This shift would naturally weaken vowel harmony because:
 
 ```823:829:site/content/languages/hick/early-hick/lexicon.md
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
   brammater
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 
@@ -431,7 +431,7 @@ The compounds show stress-based vowel reduction rather than harmony:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/early-hick/morphology.md#prefixes)
 
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -540,15 +540,15 @@ The relevant sections we need to modify in lexicon.md are:
 #### Basic Terms
 
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
   [Compound Formation](#compound-formation)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual) Note: Used for both physical guidance and
   metaphorical direction/instruction
 - tak [tak] "strike, impact" < Proto-Hick \*taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 ```
 
@@ -580,7 +580,7 @@ For Proto-Hick vowel harmony and its development into Early Hick, see:
 [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 
 For stress-related vowel changes, see:
-[Vowel Allophony](@/languages/hick/early-hick/_index.md#vowel-allophony)
+[Vowel Allophony](@/languages/hickic/early-hick/_index.md#vowel-allophony)
 ```
 
 For the lexical entries, we should update etymologies to reference both sound 
@@ -590,7 +590,7 @@ changes. For example:
 ### Basic Terms
 
 - haran [ha.ran] "split, divide" < Proto-Hick *haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Number System](#number-system),
   [Compound Formation](#compound-formation)
 ```
@@ -675,15 +675,15 @@ the Basic Terms section, referencing the stress patterns and sound changes:
 ### Basic Terms
 
 - haran [ha.ran] "split, divide" < Proto-Hick *haranu → haran
-  ([final vowel loss, stress shift](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss, stress shift](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Proto-Hick Phonological Processes](@/languages/hick/proto-hick.md#phonological-processes)
 
 - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Sacred Terms](#sacred--ritual)
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Onomatopoeic origin
 ```
 
@@ -709,7 +709,7 @@ both Proto-Hick and Early Hick changes:
     ],
     "etymon:reference": [
       "@/languages/hick/proto-hick.md#phonological-processes",
-      "@/languages/hick/early-hick/_index.md#vowel-allophony"
+      "@/languages/hickic/early-hick/_index.md#vowel-allophony"
     ]
   }
 }
@@ -759,7 +759,7 @@ And the vowel reduction patterns shown in:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/early-hick/morphology.md#prefixes)
 
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -793,16 +793,16 @@ important stress and reduction patterns:
 #### Basic Terms
 
 - thral [θral] "sacred, ritual; day" < Proto-Hick *thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Resists vowel reduction in compounds
   See: [Time Terms](#time--celestial)
 
 - thren [θren] "watch, observe (ritual)" < Proto-Hick *threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Maintains [e] in unstressed positions
 
 - thimer [θi.mer] "spiritual nurturing" < Proto-Hick *ha-meru → thimer
-  ([vowel reduction, stress shift](@/languages/hick/early-hick/_index.md#vowel-allophony))
+  ([vowel reduction, stress shift](@/languages/hickic/early-hick/_index.md#vowel-allophony))
   See: [Bird Terms](#bird-terms-nocturnal)
 ```
 
@@ -827,7 +827,7 @@ For the JSON-LD, let's update these entries with detailed sound change reference
     ],
     "etymon:reference": [
       "@/languages/hick/proto-hick.md#phonological-processes",
-      "@/languages/hick/early-hick/_index.md#exceptions"
+      "@/languages/hickic/early-hick/_index.md#exceptions"
     ]
   }
 }
@@ -879,7 +879,7 @@ And the exceptions for sacred terms shown in:
 
    - /ka-/ → [kə-] (similarity prefix)
    - /ma-/ → [mə-] (plural prefix) See:
-     [Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)
+     [Morphological Prefixes](@/languages/hickic/early-hick/morphology.md#prefixes)
 
 4. Between identical consonants:
    - /malam/ → [məlam] "pooled"
@@ -906,29 +906,29 @@ since it shows interesting patterns of compound formation and stress effects:
 ### Animals
 
 - nes [nes] "fish" < Proto-Hick *nesu → nes
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   See: [Maritime Terms](#maritime-terms)
 
 - mer [mer] "bird" < Proto-Hick *meru → mer
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Cultural connection between birds and parenting roles
   See: [Sacred Terms](#sacred--ritual), [Kinship Terms](#kinship-terms)
 
 - pel [pel] "bear" < Proto-Hick *pelu → pel
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Maintains [e] in compounds
 
 #### Compound Animal Terms
 
 - tornes ['tor.nes] "whale" < tor-nes "great-fish" → tornes
-  ([compound fusion, stress shift](@/languages/hick/early-hick/_index.md#stress-dependent-reduction))
+  ([compound fusion, stress shift](@/languages/hickic/early-hick/_index.md#stress-dependent-reduction))
 
 - venmer ['ven.mer] "wing bird" < ven-mer "wing-bird" → venmer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Resists reduction due to sacred associations
 
 - tomur ['to.mur] "great owl" < tor-mur-mer → tomur
-  ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
   Note: Shows liquid deletion and vowel reduction
 ```
 
@@ -952,8 +952,8 @@ For the JSON-LD version:
       "resistance to vowel reduction (maritime term)"
     ],
     "etymon:reference": [
-      "@/languages/hick/early-hick/_index.md#stress-dependent-reduction",
-      "@/languages/hick/early-hick/_index.md#exceptions"
+      "@/languages/hickic/early-hick/_index.md#stress-dependent-reduction",
+      "@/languages/hickic/early-hick/_index.md#exceptions"
     ]
   }
 }
@@ -987,7 +987,7 @@ And the exceptions for sacred/maritime terms shown in:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/early-hick/lexicon.md#sacred--ritual)
 ```
 
 
@@ -1011,14 +1011,14 @@ patterns of stress and reduction:
 #### Augmentative/Diminutive
 
 - tor- [tor] "great" < Proto-Hick *toru → tor
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Examples:
   - tornes [ˈtor.nes] "whale" < tor-nes "great-fish"
   - tomal [ˈto.məl] "lake" < tor-mal "great-pool"
   Note: Shows liquid deletion and vowel reduction in unstressed syllables
 
 - li- [li] "small" < Proto-Hick *lisu → li
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Examples:
   - limal [ˈli.məl] "pond" < li-mal "small-pool"
   - limur [ˈli.mur] "small owl" < li-mur "small-owl"
@@ -1027,7 +1027,7 @@ patterns of stress and reduction:
 #### Agentive Suffix
 
 - -ok [-ok] "agent" < Proto-Hick *-oku → -ok
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Examples:
   - materok [ˈma.te.ˌrok] "boatman" < mater-ok "vessel-AGENT"
   - wardok [ˈwar.dok] "guide" < ward-ok "direct-AGENT"
@@ -1062,7 +1062,7 @@ And the exceptions for sacred/maritime terms shown in:
   - Stressed syllables
   - Sacred/formal terms
   - Recent compounds See:
-    [Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
+    [Sacred Terminology](@/languages/hickic/early-hick/lexicon.md#sacred--ritual)
 ```
 
 
@@ -1086,8 +1086,8 @@ For the JSON-LD version:
       "triggers reduction in following syllables"
     ],
     "etymon:reference": [
-      "@/languages/hick/early-hick/_index.md#stress-dependent-reduction",
-      "@/languages/hick/early-hick/_index.md#vowel-allophony"
+      "@/languages/hickic/early-hick/_index.md#stress-dependent-reduction",
+      "@/languages/hickic/early-hick/_index.md#vowel-allophony"
     ]
   }
 }
@@ -1164,14 +1164,14 @@ vowels, as seen in:
 
 
 ```834:841:site/content/languages/hick/early-hick/lexicon.md
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
   brammater
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 
@@ -1316,21 +1316,21 @@ This explains several patterns in the data:
 
 
 ```272:289:site/content/languages/hick/early-hick/lexicon.md
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Maintains [e] in unstressed positions
 - wad [wad] "path, way" < Proto-Hick \*wadu → wad
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms)
 - ward [ward] "direct, guide" < Proto-Hick \*wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Maritime Terms](#maritime-terms)
 - thimer [θi.mer] "spiritual nurturing" < Proto-Hick \*ha-meru → thimer
-  ([vowel reduction, stress shift](@/languages/hick/early-hick/_index.md#vowel-allophony))
+  ([vowel reduction, stress shift](@/languages/hickic/early-hick/_index.md#vowel-allophony))
   fusion, maintains second element due to sacred term) See:
   See: [Bird Terms](#bird-terms-nocturnal), [Kinship Terms](#kinship-terms)
   Note: Preserves original nurturing sense in sacred context

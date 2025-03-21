@@ -370,7 +370,7 @@ Here's the proposed lexicon entry for 'ward' in the markdown format:
 
 ```markdown
 - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual), [Maritime Terms](#maritime-terms)
   Note: Used for both physical guidance and metaphorical direction/instruction
 ```
@@ -381,12 +381,12 @@ This should be added to the Basic Terms section of the lexicon, near:
 ```156:164:site/content/languages/hick/early-hick/lexicon.md
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
    - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - wad [wad] "path, way" < Proto-Hick \*wadu → wad
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
 ```
 
@@ -419,7 +419,7 @@ You're right on both counts. Looking at the structure:
 ### Basic Terms
 ### Basic Terms
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
   [Compound Formation](#compound-formation)
 ```
@@ -432,13 +432,13 @@ Shows the Basic Terms section where 'ward' should go, with 'haran'.
 ```203:211:site/content/languages/hick/early-hick/lexicon.md
 2. Maritime Terms
    - mater [ma.ter] "vessel" < mal-ter "pool-flow" → mater
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#late-hickearly-seneran-105-ai-to-400-ai))
    - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT" →
      materok
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
      See: [Agentive Suffix](#agentive-suffix)
    - rismater [ris.ma.ter] "reed-vessel" < ris-mater "reed-vessel" → rismater
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 
@@ -448,7 +448,7 @@ Let's revise the entry to be in Basic Terms and update the cross-references:
 
 ```markdown
 - ward [ward] "direct, guide" < Proto-Hick *wardu → ward
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Sacred Terms](#sacred--ritual)
   Note: Used for both physical guidance and metaphorical direction/instruction
 ```
@@ -480,7 +480,7 @@ showing "ward-ter" meaning "contain/direct-to", and:
 1. Basic Terms
    - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
      See: [Person Terms](#person-terms)
-     ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([vowel coalescence](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ### Kinship Terms
 ```
 
@@ -562,13 +562,13 @@ Looking at the lexicon, we can see 'wad' is from Proto-Hick *wadu:
 
 
 ```156:164:site/content/languages/hick/early-hick/lexicon.md
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
 ### Sacred & Ritual
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
 1. Basic Terms
    - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Time Terms](#time--celestial)
    - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
 ```

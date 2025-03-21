@@ -31,7 +31,7 @@ The verbalizer -'er is demonstrated in examples like:
 
 ```788:789:site/content/languages/hick/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
 
 
@@ -81,7 +81,7 @@ Based on the provided documentation, I'll help update the lexicon entries. Here'
 
 ```788:789:site/content/languages/hick/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
 
 
@@ -506,9 +506,9 @@ Based on the documentation, I'll continue updating entries in lexicon.jsonld. Lo
    Examples:
 
    - thral-'er "to be sacred" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
    - mar-'er "to be red" (See:
-     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+     [Colors](@/languages/hickic/early-hick/lexicon.md#colors))
 ````
 
 

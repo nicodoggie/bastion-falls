@@ -172,6 +172,37 @@ The position is considered both the most desirable and the most dangerous in the
 Narrows, as it is often a matter of life and death for the harbor master. It can
 bring great wealth, but also makes one a target during faction disputes.
 
+## Smugglers' Guild
+
+Current Councilmembers:
+
+- Jonny Jonjon
+- Jonesy
+- Martina
+- Margaret
+
+Official authority as decreed by the King ends where the Murmals begin, and the
+Murmals wipe the King's ass with the town charter, or so they say. But so often
+in these "lawless" districts, power structures naturally arise that provide some
+semblance of order. In the Murmals, the natural authority is the Smugglers'
+Guild. The Guild first formed as a loose cooperation between various criminal
+enterprises during various Royal Navy crackdowns on illicit trade. They provided
+each other with information on Navy patrols and raids, tips on potential
+investment opportunities and collaborative logistics across Senera and beyond.
+
+The current iteration of the Guild's leadership fought tooth and nail to get to
+their positions of power. As things had developed, each of them gravitated
+towards a portfolio of activities that tended not to overlap with each other:
+
+- Martina traded in vice and money-lending.
+- Margaret garnered leadership of most of the mercenary companies and
+  consolidated them under her banner.
+- Jonesy has hunters at his disposal to capture, move and  exotic animals,
+  as well as slaves.
+- Johnny Jonjon handles traditional smuggling of goods throughout, and beyond,
+  Senera. He has extensive connections with smugglers and pirates in the
+  Sarmatian to move items.
+
 # Economic Activity
 
 The Narrows maintains a diverse but modest economic base, centered primarily
@@ -401,8 +432,14 @@ the anti-royalist group, Hickland for the Hicks.
 #### The Balsawood Boat
 
 Its name is taken from a famous shanty about a shoddy boat made from the softest
-of woods, the Balsawood Boat is a notorious tavern that serves as the home of
-the Murmals' smugglers' guild.
+of woods, the Balsawood Boat at first glance looks to be an out-of-place looking
+café. The place serves trendy food items and drinks that belong in upscale
+bistros in cosmopolitan city centers, than in a rickety boat in the middle of a
+seedy portion of a backwater town. But the owner, Martina, is a prominent member
+of the Smuggler's Guild, and is able to stock her shop with whatever strikes her
+fancy. Martina also secretly runs
+[Dirt Cheap Apartments](#dirt-cheap-apartments) and let's Mr. Shabby manage it
+for her.
 
 #### Brams Reavers
 
@@ -416,12 +453,18 @@ of skills that range from larceny, to piracy, to murder.
 #### Dirt Cheap Apartments
 
 As the name suggests, the Dirt Cheap Apartments are a series of small, cramped
-rooms that are rented out at rates affordable to even the poorest vagrant. The
-apartments are owned by the notorious landlord, Mr. Shabby, who is as cheap as
-his apartments are small.
+rooms that are rented out at rates affordable to even the poorest vagrant.
+People believe that the apartments are owned by the notorious Mr. Shabby, a
+miserly old man who would treat even his mother poorly if she owes him money. In
+reality though, the apartment row is owned by Martina, the proprietress of
+[The Balsawood Boat](#the-balsawood-boat).
 
-It's said that those that couldn't pay their rent on time disappeared
-mysteriously.
+Ironically, there are some portions of the Dirt Cheap Apartments that are
+actually quite upscale, despite its ragged facade. These apartments are rented
+out to wealthier clients who wish to remain incognito as they travel through the
+Murmals. Often, these clients avail of the Apartments' other well-known
+service--prostitution. Those that are actually desperate enough to live in the
+worst portions of Dirt Cheap Apartments are often the true "product".
 
 #### The Lost and Found (Warehouse Row)
 

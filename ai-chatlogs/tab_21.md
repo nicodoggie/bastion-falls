@@ -24,8 +24,8 @@ From the lexicon and grammar files, I can see several relevant entries:
 
 ```169:173:site/content/languages/hick/early-hick/lexicon.md
 - dakisa [da.ki.sa] "infatuation" < Proto-Hick \*daluku-isa-hihasa → dakisa
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
+  ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   Note: Literally "snake in the gut"; metaphorical extension for intense desire
   See: [Body Terms](#bodily-functions--states), [Sacred Terms](#sacred--ritual)
 ```
@@ -35,7 +35,7 @@ Shows "dakisa" means "infatuation" (literally "snake in the gut")
 
 ```766:769:site/content/languages/hick/early-hick/lexicon.md
 - pakupak [ˈpa.ku.pək] "tickle" < Proto-Hick \*pakupaku → pakupak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication, shows unstressed vowel reduction
   See: [Basic Terms](#basic-terms)
 ```
@@ -94,7 +94,7 @@ Yes, I can help construct this sentence more accurately. Let me analyze the rele
 ```857:859:site/content/languages/hick/early-hick/lexicon.md
 - gal [gal] "man" < karal + ʔalu
 - wen'al [wen.ʔal] "woman" < wen-'al "flower person" → wen'al
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 Shows wen'al means "woman" (literally "flower person")

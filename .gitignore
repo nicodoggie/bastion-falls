@@ -2,4 +2,4 @@
 /static/processed_images
 **/node_modules
 /.pnpm-store
-site/content/languages/hick/early-hick/earlyhick-*.json
+site/content/languages/**/lexicon-*.json

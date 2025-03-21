@@ -205,7 +205,7 @@ For `lexicon.md`, we need to update phonetic transcriptions throughout, particul
 ```26:29:site/content/languages/hick/early-hick/lexicon.md
 
 - haran [ha.ran] "split, divide" < Proto-Hick \*haranu → haran
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   See: [Number System](#number-system),
 ```
 
@@ -426,10 +426,10 @@ Looking at the lexicon entries, we need to update both formats. For the markdown
 
 1. Plants
    - ris [ris] "reed" < Proto-Hick \*risu → ris
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - wud [wud] "wood, tree" < Proto-Hick \*wudu → wud
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - gras [gras] "grass" < Proto-Hick \*grasu → gras
 ```
@@ -447,11 +447,11 @@ For compound terms like:
 ```326:333:site/content/languages/hick/early-hick/lexicon.md
 2. Celestial Bodies
    - thrakel [θra.kel] "sun" < thral-kel "sacred-sky" → thrakel
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
    - murkel [mur.kel] "night sky" < mur-kel "night-sky" → murkel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thurkel [θur.kel] "evening sky" < thur-kel "dusk-sky" → thurkel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - brakel [bra.kel] "morning sky" < bran-kel "dawn-sky" → brakel
 ```
 

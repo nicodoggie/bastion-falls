@@ -92,12 +92,12 @@ This follows Early Hick compound formation patterns shown here:
 3. tor-thir-es thral-ʔer peak-KNOWN.ANIM-ABS sacred-ACT "The known peak is
 1. Compound Formation
    - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
      brammater
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 

@@ -2,8 +2,8 @@
 title = "Treaty of Turain"
 weight = 99
 [extra.evt]
-date_started = "date#1255/07/17"
-date_ended = "date#1255/07/25"
+date_started = "date#1255-07-17"
+date_ended = "date#1255-07-25"
 [taxonomies]
 event_type = ["Conference"]
 
@@ -28,7 +28,7 @@ surrender of the Apgarian Confederacy and its allies, the Freeholds of
 Apgarians were expected to expound on certain concessions for their conditional
 surrender that they delineated in the armistice that led to this conference.
 
-The Apharian declaration of the armistice read as follows:
+The Apgarian declaration of the armistice read as follows:
 
 > We of the Council of the Confederation of Apgarian States, for the good of the
 > peoples of which we have vowed to protect and serve, have agreed to issue a

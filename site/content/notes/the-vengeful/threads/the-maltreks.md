@@ -177,6 +177,8 @@ of Senera for allowing them to settle in their lands, the Elves gave these
 native tribes considered the Eldandili, each an artifact that they deemed to fit
 their natures and temperaments.
 
+### Gems
+
 - Emerald Shield of Spring
   - Given to the tribe whose settlement is based in the Western Lowlands
   - The Emerald Shield was broken into 5 shards, and had been lost for centuries.
@@ -199,3 +201,10 @@ their natures and temperaments.
     [Skelmark County](/../../../locations/skelmark-county.md) area.
   - Given to the tribe whose settlement is based in the
     [Malterford](/../../../locations/malterford.md) area.
+
+### Why were the Elves so easily willing to part with these artefacts?
+
+- Perhaps they did not work as they expected when they crossed over?
+- Perhaps there was some kind of Fey Deal that would unlock some power?
+- Perhaps the artifacts were actually actively harming the elves because of
+  something that either happened, or because of some effect during the crossing?

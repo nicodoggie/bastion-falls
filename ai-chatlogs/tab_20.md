@@ -1140,7 +1140,7 @@ From the lexicon and grammar:
 
 ```1161:1166:site/content/languages/hick/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasaes "to herd, take to graze" (from illative: 'into grazing') See also

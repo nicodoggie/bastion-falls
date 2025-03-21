@@ -125,7 +125,7 @@ We could add an entry to the lexicon like:
 togar [to.gar]
   : limestone, mountain rock
   : tor-gar "mountain-bone/rock" → togar
-  : ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  : ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
   : Note: Shows semantic extension from visual similarity between bone and 
     limestone. The term gar "bone/rock" likely originated in limestone-rich 
     western regions where the material's resemblance to bone was particularly 
@@ -1065,20 +1065,20 @@ under Weather Terms):
 ken [ken]
   : snow
   : < Proto-Hick *kenu
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : See: [Weather Terms](#weather-terms), [Basic Terms](#basic-terms)
 
 mirik [mi.rik]
   : ice
   : < Proto-Hick *mirikrakhar "biting cold" (cold+tooth+action) → *miriku → mirik
-  : ([compound fusion, medial syllable loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, medial syllable loss](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows semantic development from sensation to substance
   : See: [Weather Terms](#weather-terms), [States of Matter](#states-of-matter)
 
 aimirik [ai.mi.rik]
   : slush, partially melted snow/ice
   : < ai-mirik "water-ice"
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Describes mixture state between water and ice
   : See: [Weather Terms](#weather-terms), [States of Matter](#states-of-matter)
 

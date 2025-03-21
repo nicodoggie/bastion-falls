@@ -173,19 +173,19 @@ Let's analyze the poem through Early Hick grammar and lexicon patterns. I'll bre
 dupi [du.pi]
   : shadow-fire
   : du- (obscure) + pi (shadow) + 'ibris (fire)
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Poetic term for hidden passion. See: [Fire Terms](#fire-terms)
 
 thakel [θa.kel]
   : veil, obscurity
   : tha- (third) + kel (sky)
-  : ([numerical metaphor](@/languages/hick/early-hick/_index.md#sacred--ritual))
+  : ([numerical metaphor](@/languages/hickic/early-hick/_index.md#sacred--ritual))
   Note: Sacred term for ritual concealment. See: [Ritual Terms](#sacred--ritual)
 
 'aterter [ʔa.ter.ter]
   : prelude, before-flow
   : 'ater (before) + ter (flow)
-  : ([temporal compound](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([temporal compound](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Used in ritual contexts for preparation phases
 ```
 
@@ -227,7 +227,7 @@ Let me re-analyze the compounds with these corrections:
 - **dup** "pearl; ball" (attested)  
 - **'ibris** "fire" (attested)  
 - **-esp** SUBE case marker  
-- Compound formation follows [liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds):  
+- Compound formation follows [liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds):  
   `dup-'ibris` → *dupibris* (glottal stop deletion per [Compound Phonology](#compound-phonology))  
 - Meaning: "under ball-fire" → poetic "submerged burning"  
 
@@ -235,7 +235,7 @@ Let me re-analyze the compounds with these corrections:
 `thrakeles` → `thrakel-es`  
 - **thrakel** "sun" (attested derived term from *thral-kel* "sacred-sky")  
 - **-es** ABS case  
-- Analysis matches [Sacred Compound Formation](@/languages/hick/early-hick/_index.md#sacred-compounds):  
+- Analysis matches [Sacred Compound Formation](@/languages/hickic/early-hick/_index.md#sacred-compounds):  
   `thral-kel` → *thrakel* via liquid deletion and vowel coalescence  
 
 ---
@@ -250,7 +250,7 @@ Let me re-analyze the compounds with these corrections:
 dupibris [du.pi.bris]
   : ball-fire, submerged fire
   : dup (pearl/ball) + 'ibris (fire)
-  : ([compound formation](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound formation](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Poetic term for hidden passion. Shows regular glottal stop deletion in 
   compounds. Compare: 'ibris → ibris in compounds
   See: [Fire Terms](#fire-terms), [Maritime Terms](#maritime-terms)
@@ -264,7 +264,7 @@ dupibris [du.pi.bris]
 thrakel [θra.kel]
   : sun
   : thral-kel "sacred-sky" → thrakel
-  : ([sacred compound formation](@/languages/hick/early-hick/_index.md#sacred-compounds))
+  : ([sacred compound formation](@/languages/hickic/early-hick/_index.md#sacred-compounds))
   Note: Regular liquid deletion in sacred terms. Compare thral-mer → thramer "priest"
   See: [Celestial Terms](#celestial-terms), [Sacred Terms](#sacred--ritual)
 ```
@@ -370,7 +370,7 @@ The language shows three distinct layers of case usage:
 | 2 | pirlas'er | Semi-lexicalized verb |  
 | 3 | imris (ELL > causal) | Fully grammaticalized |  
 
-This stratification matches [grammaticalization clines](@/languages/hick/early-hick/_index.md#grammaticalization-patterns) observed in other ergative languages.
+This stratification matches [grammaticalization clines](@/languages/hickic/early-hick/_index.md#grammaticalization-patterns) observed in other ergative languages.
 
 **4. Proposed Clarification in Documentation**  
 ````markdown:site/content/languages/hick/early-hick/_index.md

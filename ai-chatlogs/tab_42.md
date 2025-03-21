@@ -612,7 +612,7 @@ additions:
 // ... after 'al entry in Basic Terms section ...
 
 - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   See: [Person Terms](#person-terms), [Social Organization](#social-organization)
   Note: Implies social cohesion rather than simple plurality
 ```
@@ -698,11 +698,11 @@ organization. Here's the revised entry:
 ### Person Terms
 
 - 'al [ʔal] "person" < Proto-Hick *ʔalu → 'al
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
   See: [Political Terms](#political-terms)
 
 - ma'al [ma.ʔal] "community, tribe" < ma-'al "COLL-person" → ma'al
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   See: [Political Terms](#political-terms)
   Note: Collective term implying social/political unity rather than simple plurality
 

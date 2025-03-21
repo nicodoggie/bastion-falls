@@ -9,7 +9,7 @@ The *Maidenfeld* family was the founding dynasty of the
 [Kingdom of Senera](@/locations/senera.md), which took control of the administration
 of the island while the [Kalassarian Empire](@/locations/kalassaria.md) was
 deteriorating. Their patriarch,
-[Antonius I Maidenfeld](@/languages/hick/early-hick/names.md#antonius-i-maidenfeld),
+[Antonius I Maidenfeld](@/languages/hickic/seneran/early-hick/names.md#antonius-i-maidenfeld),
 was a high-ranking administrator in the Kalassarian-held Senerian government,
 who took advantage of the attempt to quell the various Hapgarian rebellions to
 establish himself as the de facto ruler of the island.

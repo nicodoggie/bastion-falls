@@ -19,7 +19,7 @@ related to the [Hickic Languages](@/languages/hick.md).
 
 Current research is being conducted to compare Mundaguk to a recently-unearthed
 Kalassarian work on the
-[Early Hick language](@/languages/hick/early-hick/_index.md). In fact, the
+[Early Hick language](@/languages/hickic/early-hick/_index.md). In fact, the
 researchers purport that Moreaux may not be entirely incorrect, as they believe
 that the work on Early Hick may show that the Apgarian language family and
 Hickic may be more closely related than previously thought.

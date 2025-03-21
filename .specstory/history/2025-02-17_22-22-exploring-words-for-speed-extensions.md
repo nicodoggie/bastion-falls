@@ -30,7 +30,7 @@ To formalize this extension, you could add an entry like:
 ter [ter]
   : flow; quick, fast
   : Proto-Hick *teru → ter
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Shows semantic extension from water flow to general quickness. Forms 
     compounds for various speed-related concepts.
   : See: [Motion Terms](#motion-terms), [Water Features](#water-features)

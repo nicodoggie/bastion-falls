@@ -4602,7 +4602,7 @@
         ],
         "etymon:reference": [
           "@/languages/hick/proto-hick.md#phonological-processes",
-          "@/languages/hick/early-hick/_index.md#vowel-allophony"
+          "@/languages/hickic/seneran/early-hick/_index.md#vowel-allophony"
         ]
       }
     },
@@ -4633,8 +4633,8 @@
           "resistance to vowel reduction (maritime term)"
         ],
         "etymon:reference": [
-          "@/languages/hick/early-hick/_index.md#stress-dependent-reduction",
-          "@/languages/hick/early-hick/_index.md#exceptions"
+          "@/languages/hickic/seneran/early-hick/_index.md#stress-dependent-reduction",
+          "@/languages/hickic/seneran/early-hick/_index.md#exceptions"
         ]
       }
     },

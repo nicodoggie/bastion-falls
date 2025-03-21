@@ -20,12 +20,12 @@ Here are some issues I noticed:
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 // ... existing code ...
 - ai [ai] "water" < Proto-Hick \*ahi → ai
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  ([vowel coalescence](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
   // This seems to reference phonotactic constraints instead of a specific sound change rule
 
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT" →
   materok
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   // Multiple entries reference "compound fusion" but this might need to be more specific
 // ... existing code ...
 ```
@@ -34,7 +34,7 @@ Here are some issues I noticed:
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 // ... existing code ...
 - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
   See: [Colors](#colors)
   // The section reference exists but the anchor link format may need updating
 // ... existing code ...
@@ -73,37 +73,37 @@ Thank you for providing the `_index.md` file. I can now identify several inconsi
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 // Incorrect reference
 - ai [ai] "water" < Proto-Hick \*ahi → ai
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  ([vowel coalescence](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
 
 // Should be
 - ai [ai] "water" < Proto-Hick \*ahi → ai
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#vowel-sequences))
+  ([vowel coalescence](@/languages/hickic/early-hick/_index.md#vowel-sequences))
 
 // Incorrect reference
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT" →
   materok
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 // Should be
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT" →
   materok
-  ([compound types](@/languages/hick/early-hick/_index.md#compound-types))
+  ([compound types](@/languages/hickic/early-hick/_index.md#compound-types))
 ````
 
 2. Multiple Step Derivations:
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 // Incorrect - missing steps
 - tomur [to.mur] "great owl, eagle owl" < Proto-Hick \*toru-muru-meru
-  ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
 
 // Should be
 - tomur [to.mur] "great owl, eagle owl" < Proto-Hick \*toru-muru-meru →
   tor-mur-mer 
-  ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#compound-types)) →
+  ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#compound-types)) →
   tor-mur 
-  ([compound simplification](@/languages/hick/early-hick/_index.md#compound-types)) →
+  ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-types)) →
   tomur 
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ````
 
 3. Section Cross-References:
@@ -118,8 +118,8 @@ See: [Colors](#colors-1)
 4. Missing References:
 Many entries are missing references to relevant morphological sections, such as:
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
-- materok "boatman" should reference [Agentive Marking](@/languages/hick/early-hick/_index.md#agentive-marking)
-- Compounds with ka- should reference [Similarity Marking](@/languages/hick/early-hick/_index.md#similarity-marking)
+- materok "boatman" should reference [Agentive Marking](@/languages/hickic/early-hick/_index.md#agentive-marking)
+- Compounds with ka- should reference [Similarity Marking](@/languages/hickic/early-hick/_index.md#similarity-marking)
 ````
 
 Would you like me to provide specific corrections for any particular section of the lexicon?
@@ -138,8 +138,8 @@ I apologize for my confusion! You're absolutely right. In Zola's CommonMark impl
 
 So these references are actually correct:
 ```markdown
-[Agentive Marking](@/languages/hick/early-hick/_index.md#agentive-marking)
-[Similarity Marking](@/languages/hick/early-hick/_index.md#similarity-marking)
+[Agentive Marking](@/languages/hickic/early-hick/_index.md#agentive-marking)
+[Similarity Marking](@/languages/hickic/early-hick/_index.md#similarity-marking)
 ```
 
 The nesting structure in `_index.md`:
@@ -170,40 +170,40 @@ I'll systematically review the lexicon entries and their references to `_index.m
 1. Sound Changes in Compounds:
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 // Entries with liquid deletion should reference:
-[Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+[Sound Changes in Compounds](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds)
 
 Examples:
 - tomal "lake" < tor-mal 
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 - bramal "tidal pool" < bram-mal 
-  ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([nasal deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ````
 
 2. Morphological Processes:
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 // Agent nouns should reference:
-[Agentive Marking](@/languages/hick/early-hick/_index.md#agentive-marking)
+[Agentive Marking](@/languages/hickic/early-hick/_index.md#agentive-marking)
 
 Examples:
 - materok "boatman" < mater-ok 
-  ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+  ([agentive marking](@/languages/hickic/early-hick/_index.md#agentive-marking))
 
 // Similarity forms should reference:
-[Similarity Marking](@/languages/hick/early-hick/_index.md#similarity-marking)
+[Similarity Marking](@/languages/hickic/early-hick/_index.md#similarity-marking)
 
 Examples:
 - kəmal "pond-like" < ka-mal 
-  ([similarity marking](@/languages/hick/early-hick/_index.md#similarity-marking))
+  ([similarity marking](@/languages/hickic/early-hick/_index.md#similarity-marking))
 ````
 
 3. Vowel Changes:
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 // Vowel reduction should reference:
-[Vowel Allophony](@/languages/hick/early-hick/_index.md#vowel-allophony)
+[Vowel Allophony](@/languages/hickic/early-hick/_index.md#vowel-allophony)
 
 Examples:
 - kəran "stream" < karan 
-  ([vowel reduction](@/languages/hick/early-hick/_index.md#vowel-allophony))
+  ([vowel reduction](@/languages/hickic/early-hick/_index.md#vowel-allophony))
 ````
 
 Would you like me to see the actual lexicon entries to provide specific corrections for each one?
@@ -248,42 +248,42 @@ I'll analyze the references and suggest corrections. Let's go through the main c
 ````markdown:site/content/languages/hick/early-hick/lexicon.md
 // Incorrect references to phonotactic constraints
 - ai [ai] "water" < Proto-Hick \*ahi → ai
-  ([vowel coalescence](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+  ([vowel coalescence](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
 
 // Should be
 - ai [ai] "water" < Proto-Hick \*ahi → ai
-  ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
+  ([vowel sequences](@/languages/hickic/early-hick/_index.md#vowel-sequences))
 
 // Incorrect compound fusion references
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT"
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 // Should be
 - materok [ma.te.rok] "vessel-guide, boatman" < mater-ok "vessel-AGENT"
-  ([agentive marking](@/languages/hick/early-hick/_index.md#agentive-marking))
+  ([agentive marking](@/languages/hickic/early-hick/_index.md#agentive-marking))
 ````
 
 2. Historical Period References:
 ````markdown
 // Incorrect period reference
 - mal [mal] "pool, standing water" < Proto-Hick \*malu → mal
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 
 // Should be
 - mal [mal] "pool, standing water" < Proto-Hick \*malu → mal
-  ([Early Hick](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([Early Hick](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ````
 
 3. Compound Sound Changes:
 ````markdown
 // Missing specific reference
 - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 
 // Should include both references
 - thragral [θra.gral] "sacred earth" < thral-gral "sacred-earth" → thragral
-  ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
-  [compound types](@/languages/hick/early-hick/_index.md#compound-types))
+  ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds),
+  [compound types](@/languages/hickic/early-hick/_index.md#compound-types))
 ````
 
 Would you like me to continue with more specific corrections? I can focus on:

@@ -17,7 +17,7 @@ I'll help craft an entry for 'ilisal that follows the established patterns in th
 'ilisal [ʔi.li.sal]
   : visit (a place); experience personally; confirm via experiment
   : Proto-Hick 'ilis-'al "knowledge-person" → 'ilisal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows semantic development from "knowledge-person" to active 
   experiential learning. Forms verb 'ilisal'er "to visit, to experience 
   firsthand". See: [Mental Terms](#mental-terms), 
@@ -127,7 +127,7 @@ I'll help create entries for this word that follows Early Hick's patterns for ca
 aiesp [ai.esp]
   : bathe, immerse in water
   : ai-esp "water-under" → aiesp
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   : Note: Shows lexicalization of subessive case marking into a basic verb. Forms 
   verb aiesp'er "to bathe". Contrasts with ailas'er "to enter water" (illative) 
   and aiimris'er "to exit water" (ellative). See: [Water Features](#water-features), 
@@ -229,7 +229,7 @@ I'll help create entries for this compound that follows Early Hick's patterns fo
 'irai [ʔi.rai]
   : waterskin; liquid container
   : 'irurlis-ai "container-water" → 'irai
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   : Note: Shows extreme compound reduction preserving initial and final elements. 
     Forms compounds for specific liquid containers. Contrasts with 'irurlis for 
     general containers. See: [Container Terms](#container-terms), 
@@ -355,7 +355,7 @@ patterns, we could use:
 bel'al [bel.ʔal]
   : cave (lit. "mouth-place")
   : bel-'al "mouth-place" → bel'al
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Basic term for cave openings, shows metaphorical extension of body parts 
     to landscape features. See: [Landforms](#landforms), 
     [Body Terms](#body-terms)
@@ -363,7 +363,7 @@ bel'al [bel.ʔal]
 'irurbel [ʔi.rur.bel]
   : cavern (lit. "hollow-mouth")
   : 'irur-bel "hollow-mouth" → 'irurbel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Specialized term for large cave systems, contrasts with bel'al for 
     simple caves. Shows productive use of 'irur- prefix for hollow spaces.
   : See: [Landforms](#landforms), [Container Terms](#container-terms)
@@ -399,7 +399,7 @@ distinction clearer:
 bel'al [bel.ʔal]
   : cave (single chamber)
   : bel-'al "mouth-place" → bel'al
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Basic term for individual cave openings. Shows metaphorical extension 
     of body parts to landscape features. Contrasts with 'irurbel for connected 
     systems. See: [Landforms](#landforms), [Body Terms](#body-terms)
@@ -407,7 +407,7 @@ bel'al [bel.ʔal]
 'irurbel [ʔi.rur.bel]
   : cavern (cave network/system)
   : 'irur-bel "hollow-mouth" → 'irurbel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Term for interconnected cave systems. Shows semantic extension from 
     container terminology to natural formations. Forms compounds for specific 
     types of cave networks.
@@ -446,7 +446,7 @@ revise these entries:
 'irurbel [ʔi.rur.bel]
   : cave, cave entrance
   : 'irur-bel "hollow-mouth" → 'irurbel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Basic term for cave openings. Shows common metaphorical extension of 
     "mouth" to mean entrance/opening. Forms compounds for specific types of caves.
   : See: [Landforms](#landforms), [Body Terms](#body-terms)
@@ -454,7 +454,7 @@ revise these entries:
 parduwes [par.du.wes]
   : cavern, cave network
   : grapar-duwes "worm-consume" → parduwes
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   : Note: Literally "worm-eaten," metaphorically extended to describe complex cave 
     systems. Shows understanding of cave formation through water erosion. 
     Contrasts with 'irurbel for single caves.
@@ -494,7 +494,7 @@ geological knowledge:
 parduwes [par.du.wes]
   : cavern, cave network
   : grapar-duwes "worm-consume" → parduwes
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   : Note: Literally "worm-eaten," reflecting folk belief about cave formation 
     through the action of great worms eating through mountains. Contrasts with 
     'irurbel for single caves.
@@ -613,7 +613,7 @@ reduction from Proto-Hick:
 meltek [mel.tek]
   : song, melodic rhythm
   : Proto-Hick *melu-takutaku "sweet-rhythm" → meltek
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   : Note: Shows extreme reduction of second element while preserving initial 
     syllable. Forms verb meltek'er "to sing". Contrasts with takal for speech 
     rhythm. See: [Music Terms](#music-terms), [Sound Terms](#sound-terms)
@@ -721,7 +721,7 @@ domesticated and wild canines:
 vinusak [vi.nu.sak]
   : dog, domesticated wolf
   : vinud-sak "home-wolf" → vinusak
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows cultural understanding of dogs as domesticated wolves. Forms 
     compounds for specific dog types/roles. Contrasts with sak for wild wolves. 
     See: [Animal Terms](#animal-terms), [Domestic Terms](#domestic-terms)
@@ -833,7 +833,7 @@ Let me help create an entry for this sound-symbolic word:
 rek [rek]
   : bark (of dog/wolf)
   : Proto-Hick *reku → rek
-  : ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  : ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   : Note: Onomatopoeic origin. Forms verb rek'er "to bark". Common in compounds 
     describing different types of barks/calls. See: [Sound Terms](#sound-terms), 
     [Animal Terms](#animal-terms)
@@ -934,7 +934,7 @@ Let me help create an entry for this compound meaning "place of knowledge":
 'ilistal [ʔi.lis.tal]
   : library; school; place of learning
   : 'ilis-tal "knowledge-place" → 'ilistal
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows development of formal learning spaces. Forms compounds for 
     specific types of knowledge centers. Contrasts with 'ilisal for experiential 
     learning. See: [Learning Terms](#learning-terms), 
@@ -1324,7 +1324,7 @@ rather than the Germanic lily comparison. Let me help create entries for this:
 asamwen [a.sam.wen]
   : daffodil
   : asam-wen "rest-flower" → asamwen
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Named for characteristic drooping posture of flower head. Forms 
     compounds for specific varieties and seasonal references. See: 
     [Flora Terms](#flora-terms), [Spring Terms](#spring-terms)
@@ -2341,7 +2341,7 @@ thral [θral]
 thrakel [θra.kel]
   : sun
   : Proto-Hick *harala-kelu "sacred-sky" → thrakel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Specialized from general sacred/day term. Shows development of 
     specific astronomical vocabulary. See: [Sky Terms](#sky-terms)
 ````
@@ -2733,7 +2733,7 @@ terms for the Eldrim's own languages. Let's document this:
 matakulambe [ma.ta.ku.lam.be]
   : Elven languages (collectively)
   : matakutakal-lambe "people's.rhythm-tongue" → matakulambe
-  : ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  : ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   : Note: Early Hick term for Elven languages as a group, using Eldrim 
     borrowing lambe. Shows typical compound reduction pattern. Used in 
     scholarly/diplomatic contexts. See: [Language Terms](#language-terms), 
@@ -2802,7 +2802,7 @@ Perfect! Let's document these specific Elven language terms:
 torlambe [tor.lam.be]
   : High Elven (Quenya)
   : tor-lambe "high-tongue" → torlambe
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Early Hick term for High Elven language. Shows parallel formation to 
     toreldal "High Elf". See: [Language Terms](#language-terms), 
     [Eldrim Terms](#eldrim-terms)
@@ -2810,7 +2810,7 @@ torlambe [tor.lam.be]
 wudlambe [wud.lam.be]
   : Wood Elven (Sindarin)
   : wud-lambe "wood-tongue" → wudlambe
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Early Hick term for Wood Elven language. Parallels edel "Wood Elf". 
     Most common Elven language in Early Hick contact. See: 
     [Language Terms](#language-terms)
@@ -2818,7 +2818,7 @@ wudlambe [wud.lam.be]
 takulambe [ta.ku.lam.be]
   : Common Elven (Sindarin-based lingua franca)
   : taku-lambe "common-tongue" → takulambe
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Early Hick term for simplified Elven trade language. Shows 
     development of inter-cultural communication. See: 
     [Language Terms](#language-terms)
@@ -2826,7 +2826,7 @@ takulambe [ta.ku.lam.be]
 murlambe [mur.lam.be]
   : Dark Elven (Drow)
   : mur-lambe "dark-tongue" → murlambe
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Early Hick term for Dark Elven language. Parallels ithiril "Dark 
     Elf". Rarely encountered in Early Hick period. See: 
     [Language Terms](#language-terms)
@@ -5073,7 +5073,7 @@ Terms section, after 'u'u:
 bresubel [bre.su.bel]
   : shout, yell
   : Proto-Hick *bresu-belu "shout-mouth" → bresubel
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows typical compound formation with body part term. Forms verb 
     bresubel'er "to shout". Contrasts with 'u'u for softer vocalizations. See: 
     [Sound Terms](#sound-terms), [Body Terms](#body-terms)
@@ -5173,7 +5173,7 @@ For lexicon.md (under Landforms section):
 dupgral [dup.gral]
   : hills, hilly terrain
   : dup-gral "lump-land" → dupgral
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows typical landform compound formation. Contrasts with tor "peak" 
     and gral "flat land". See: [Landforms](#landforms), 
     [Geographic Terms](#geographic-terms)
@@ -5277,7 +5277,7 @@ For lexicon.md (under Landforms section):
 airur [ai.rur]
   : karst, water-carved limestone terrain
   : ai-'irur "water-hollow" → airur
-  : ([compound fusion, glottal stop loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, glottal stop loss](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows water-landform compound pattern. Describes regions shaped by 
     water erosion, especially limestone areas with caves and sinkholes. See: 
     [Landforms](#landforms), [Water Features](#water-features)

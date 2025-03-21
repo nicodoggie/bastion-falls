@@ -147,7 +147,7 @@ New compounds like `mabrisaiul` show excellent application of:
 1. Plural prefixation
 2. Element compounding (fire+water)
 3. Possessive marking
-4. Follows [ma- pattern](@/languages/hick/early-hick/_index.md#plural-prefix)
+4. Follows [ma- pattern](@/languages/hickic/early-hick/_index.md#plural-prefix)
 
 Would you like me to propose lexicon entries for the new compounds?
 
@@ -1043,7 +1043,7 @@ Add to poem's footnotes:
 ### Neologism Notice
 - **dup'ibris**: Novel solar metaphor ("fire-sphere"), not attested in extant lexicon  
 - **kabrisimris**: Innovative adverbial form ("like heat's emergence")  
-- All other terms follow [Early Hick grammar v2.1](@/languages/hick/early-hick/_index.md)
+- All other terms follow [Early Hick grammar v2.1](@/languages/hickic/early-hick/_index.md)
 ````
 
 

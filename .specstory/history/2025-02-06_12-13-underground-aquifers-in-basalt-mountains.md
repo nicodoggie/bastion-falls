@@ -11582,7 +11582,7 @@ Ah yes! Looking at `kasger` in the lexicon:
 kasger [kas.ger]
   : mirror (esp. polished stone mirror)
   : kasu-garu "reflection-stone" → kasger
-  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, final vowel loss](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows technological origin in polished stone mirrors. See:
   [Tool Terms](#tool-terms), [Stone Terms](#stone-terms)
 ```
@@ -11593,7 +11593,7 @@ This could be expanded to include obsidian and glass:
 kasger [kas.ger]
   : mirror, obsidian, glass
   : kasu-garu "reflection-stone" → kasger
-  : ([compound fusion, final vowel loss](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion, final vowel loss](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Basic term for reflective stone, especially obsidian. Extended to all 
     glass materials. Shows technological origin in polished stone mirrors and 
     natural volcanic glass. Forms compounds for different types of glass/mirrors.

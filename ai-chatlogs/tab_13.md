@@ -67,7 +67,7 @@ This shows the basic ergative-absolutive alignment.
 
 ```1161:1166:site/content/languages/hick/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasaes "to herd, take to graze" (from illative: 'into grazing') See also
@@ -201,7 +201,7 @@ Key features:
 
 ```1161:1166:site/content/languages/hick/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasaes "to herd, take to graze" (from illative: 'into grazing') See also
@@ -310,7 +310,7 @@ Shows that temporal frames go in initial position.
 ```780:784:site/content/languages/hick/early-hick/lexicon.md
 - 'atelbran [ʔa.tel.bran] "before (when-dawn)" < 'aka-tel-bran → 'akatelbran →
   'atelbran
-  ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+  ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
   Note: Shows temporal metaphor of dawn/past, derived from interrogative See:
   [Time Terms](#time--celestial), [Interrogatives](#interrogatives)
 ```
@@ -320,7 +320,7 @@ Gives us 'atelbran for "before" (when-dawn).
 
 ```1161:1166:site/content/languages/hick/early-hick/lexicon.md
 - gras [gras] "grass" < Proto-Hick \*grasu → gras
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Basic pastoral term. Forms two verbs:
   - gras'er "to graze" (animal eating grass)
   - grasaes "to herd, take to graze" (from illative: 'into grazing') See also
@@ -1539,7 +1539,7 @@ Looking at the stative verb and property concept patterns:
    tor-thir-es thral-'er
    peak-KNOWN.ANIM-ABS sacred-VERB
    "The known peak is sacred"
-     [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
+     [Water Features](@/languages/hickic/early-hick/lexicon.md#water-features))
    kel-es mar-'er
    sky-ABS red-VERB
    "The sky is red"
@@ -1548,15 +1548,15 @@ Looking at the stative verb and property concept patterns:
    Examples:
    ```plaintext
    - thral-'er "to be sacred" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
    - mar-'er "to be red" (See:
-     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+     [Colors](@/languages/hickic/early-hick/lexicon.md#colors))
    kel-es mar-'er
 Note: Interpretation depends on base word semantics:
    "The sky is red"
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred") (See:
-  [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+  [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
 ````
 
 
@@ -1646,7 +1646,7 @@ And the verb modification patterns:
    tor-thir-es thral-'er
    peak-KNOWN.ANIM-ABS sacred-VERB
    "The known peak is sacred"
-     [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
+     [Water Features](@/languages/hickic/early-hick/lexicon.md#water-features))
    kel-es mar-'er
    sky-ABS red-VERB
    "The sky is red"
@@ -1655,15 +1655,15 @@ And the verb modification patterns:
    Examples:
    ```plaintext
    - thral-'er "to be sacred" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
    - mar-'er "to be red" (See:
-     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+     [Colors](@/languages/hickic/early-hick/lexicon.md#colors))
    kel-es mar-'er
 Note: Interpretation depends on base word semantics:
    "The sky is red"
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred") (See:
-  [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+  [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
 ````
 
 
@@ -1969,10 +1969,10 @@ For spatial cases, and:
 #### Basic Terms
 
 - thral [θral] "sacred, ritual; day" < Proto-Hick \*thralu → thral
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Resists vowel reduction in compounds See: [Time Terms](#time--celestial)
 - thren [θren] "watch, observe (ritual)" < Proto-Hick \*threnu → thren
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#historical-development))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Maintains [e] in unstressed positions
 ```
 

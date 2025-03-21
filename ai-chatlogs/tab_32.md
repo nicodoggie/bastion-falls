@@ -18,29 +18,29 @@ Here's a proposed new section for the lexicon:
 
 1. Visual Perception
    - lis [lis] "eye" < Proto-Hick *lisu → lis
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
    - his [his] "sight" < Proto-Hick *hi-lisu → his
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
      See: [Sacred Terms](#sacred--ritual)
    - hilis [hi.lis] "to see (animate)" < Proto-Hick *hi-lisu → hilis
      ([animacy prefix](@/languages/hick/proto-hick.md#animacy-marking))
    - mulis [mu.lis] "dream, vision" < Proto-Hick *muruhilisu → mulis
-     ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
      See: [Sacred Terms](#sacred--ritual), [Abstract Concepts](#abstract-concepts)
 
 2. Auditory Perception
    - kamer [ka.mer] "bird-like sound" < ka-mer "like-bird" → kamer
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - kasak [ka.sak] "wolf-like howl" < ka-sak "like-wolf" → kasak
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 3. Physical Sensation
    - thir [θir] "air, wind" < Proto-Hick *thiru → thir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
      See: [Natural World](#natural-world), [Colors](#colors)
    - mir [mir] "cold" < Proto-Hick *miru → mir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 The following terms should be cross-referenced from their existing locations in the lexicon:
@@ -48,14 +48,14 @@ The following terms should be cross-referenced from their existing locations in 
 
 ```776:785:site/content/languages/hick/early-hick/lexicon.md
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
    - his [his] "sight" < Proto-Hick \*hi-lisu → his
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
-     [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds),
+     [vowel coalescence](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Sacred Terms](#sacred--ritual)
    - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
-     ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
      See: [Sacred Terms](#sacred--ritual)
 ```
 
@@ -67,7 +67,7 @@ The following terms should be cross-referenced from their existing locations in 
 1. Basic Terms
 
    - duwes [du.wes] "eat, consume" < sedu-lawes "seed-consume" → duwes
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
      See: [Directional System](#directional-system)
    - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
      ([compound reduction](@/languages/hick/proto-hick.md#compound-specific-changes))
@@ -103,29 +103,29 @@ Based on analyzing the existing lexicon and common sensory domains in natural la
 
 4. Auditory Perception
    - mer'er [mer.ʔer] "to sing" < mer-'er "bird-VERB" → mer'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
    - bres'er [bres.ʔer] "to whisper" < bres-'er "wind-VERB" → bres'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
    - belter [bel.ter] "voice" < bel-ter "mouth-flow" → belter
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - bel'er [bel.ʔer] "to speak" < bel-'er "mouth-VERB" → bel'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 
 5. Tactile Perception
    - sil'er [sil.ʔer] "to feel, touch" < sil-'er "skin-VERB" → sil'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
    - mir'er [mir.ʔer] "to feel cold" < mir-'er "cold-VERB" → mir'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
    - thir'er [θir.ʔer] "to feel warm" < thir-'er "warm-VERB" → thir'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 
 6. Olfactory/Gustatory Perception
    - duwes'er [du.wes.ʔer] "to taste" < duwes-'er "eat-VERB" → duwes'er
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
    - bel'is [bel.ʔis] "smell, scent" < bel-'is "mouth-in" → bel'is
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - bel'er-is [bel.ʔe.ris] "to smell" < bel'er-is "speak-in" → bel'eris
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 This proposal:
@@ -159,15 +159,15 @@ Currently has:
 
 ```50:61:site/content/languages/hick/early-hick/lexicon.md
    - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
-     ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([initial fricative loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - gar [gar] "stone" < Proto-Hick \*garu → gar ([final vowel loss])
    - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral ([final vowel loss])
 2. Water Features
    - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - mal [mal] "pool, standing water" < Proto-Hick \*malu → mal
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - ran [ran] "stream, flowing water" < Proto-Hick \*ranu → ran
 ```
@@ -182,9 +182,9 @@ Currently has:
 
 ```63:67:site/content/languages/hick/early-hick/lexicon.md
    - toran [to.ran] "river, flowing water" < Proto-Hick \*ranu → ran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 3. Landforms
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - tor [tor] "height, peak" < Proto-Hick \*toru → tor
 ```
 
@@ -201,9 +201,9 @@ Currently has:
      See: [Augmentative Prefix](#augmentativediminutive)
    - thrantor [θran.tor] "mountain range" < thran-tor "thousand peaks" →
      thrantor
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - val [val] "valley, water-cut lowland" < Proto-Hick \*valu → val
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 Missing:
@@ -276,13 +276,13 @@ Based on Early Hick's existing lexicon and patterns, I see relevant entries:
 
 ```597:604:site/content/languages/hick/early-hick/lexicon.md
    - imer [i.mer] "breath, soul" < Proto-Hick \*imeru → imer
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Sacred Terms](#sacred--ritual)
    - imeraes [i.me.raes] "inspiration" < imer-aes "soul-inward" → imeraes
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - imerimris [i.me.rim.ris] "expression" < imer-imris "soul-outward" →
      imerimris
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 
@@ -291,7 +291,7 @@ The word "imer" (breath/soul) could be a good base for sound terminology, given 
 
 ```434:437:site/content/languages/hick/early-hick/lexicon.md
    - bel [bel] "mouth, opening" < Proto-Hick \*belu → bel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms), [Architecture](#architecture)
    - kan [kan] "head" < Proto-Hick \*kanu → kan
 ```
@@ -342,9 +342,9 @@ Looking at Early Hick's existing patterns:
 ```62:66:site/content/languages/hick/early-hick/lexicon.md
 2. Auditory Perception
    - kamer [ka.mer] "bird-like sound" < ka-mer "like-bird" → kamer
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - kasak [ka.sak] "wolf-like howl" < ka-sak "like-wolf" → kasak
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 
@@ -353,10 +353,10 @@ We see animal-sound compounds, and:
 
 ```69:73:site/content/languages/hick/early-hick/lexicon.md
    - thir [θir] "air, wind" < Proto-Hick *thiru → thir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
      See: [Natural World](#natural-world), [Colors](#colors)
    - mir [mir] "cold" < Proto-Hick *miru → mir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 
@@ -402,15 +402,15 @@ For "tak" (strike), here's a suggested entry that fits Early Hick's patterns:
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin from impact sound
   See: [Maritime Terms](#maritime-terms), [Sacred Terms](#sacred--ritual)
 
 Derived Terms:
 - takmer [tak.mer] "thunder" < tak-mer "strike-bird" → takmer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - takbel [tak.bel] "drum" < tak-bel "strike-mouth" → takbel
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 This approach:
@@ -436,15 +436,15 @@ Based on the existing patterns in Early Hick, particularly its nominal base and 
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin, preserved in ritual contexts
   See: [Sacred Terms](#sacred--ritual), [Maritime Terms](#maritime-terms)
 
 Derived Terms:
 - takmer [tak.mer] "thunder" < tak-mer "strike-bird" → takmer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - takbram [tak.bram] "storm surge" < tak-bram "strike-tide" → takbram
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 This entry:
@@ -471,13 +471,13 @@ Yes, let's add a derived compound for rhythm! Looking at the existing patterns f
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin, preserved in ritual contexts
   See: [Sacred Terms](#sacred--ritual)
 
 Derived Terms:
 - takutak [ta.ku.tak] "rhythm" < tak-u-tak "strike-and-strike" → takutak
-  ([compound reduplication](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound reduplication](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Rare example of reduplicative compound with linking vowel -u-
 ```
 
@@ -509,13 +509,13 @@ Ah, I understand - let's correct the entry to reflect the proper sound change pa
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin, preserved in ritual contexts
   See: [Sacred Terms](#sacred--ritual)
 
 Derived Terms:
 - takutak [ta.ku.tak] "rhythm" < Proto-Hick *taku-taku → takutak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Rare example of reduplication preserved from Proto-Hick
 ```
 
@@ -546,13 +546,13 @@ Let's revise the entry to reflect this:
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin, preserved in ritual contexts
   See: [Sacred Terms](#sacred--ritual)
 
 Derived Terms:
 - takutak [ta.ku.tak] "rhythm" < Proto-Hick *takutaku → takutak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication from Proto-Hick, unique among non-ritual terms
 ```
 
@@ -577,12 +577,12 @@ You're right - the onomatopoeic nature alone is sufficient explanation for tak's
 ### Basic Terms
 
 - tak [tak] "strike, impact" < Proto-Hick *taku → tak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Onomatopoeic origin
 
 Derived Terms:
 - takutak [ta.ku.tak] "rhythm" < Proto-Hick *takutaku → takutak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Preserves onomatopoeic reduplication
 ```
 

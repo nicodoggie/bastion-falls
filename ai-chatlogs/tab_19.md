@@ -53,7 +53,7 @@ absolutive case marker -es is used to mark the referent.
 #### Basic Forms
 
 - 'aka [ʔa.ka] "what" < Proto-Hick \*haka → 'aka
-  ([initial fricative change](@/languages/hick/early-hick/_index.md#historical-development))
+  ([initial fricative change](@/languages/hickic/early-hick/_index.md#historical-development))
   Note: Basic question root, shows archaic animacy marking
 
 #### Proximal Forms
@@ -614,7 +614,7 @@ Yes, good point! Looking at the relevant sections about motion verbs and case ma
 ```58:61:site/content/languages/hick/early-hick/lexicon.md
 
 - barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb barak'er "to walk" with -'er suffix
 ```
 
@@ -697,7 +697,7 @@ And:
 ```58:61:site/content/languages/hick/early-hick/lexicon.md
 
 - barak [ba.rak] "walking, gait" < Proto-Hick \*baraku → barak
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Forms verb barak'er "to walk" with -'er suffix
 ```
 

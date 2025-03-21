@@ -108,7 +108,7 @@ This section shows the verbalizer -'er creating both active and stative verbs fr
 
 ```777:778:site/content/languages/hick/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
 
 
@@ -197,19 +197,19 @@ The -'er suffix creates both active and stative verbs, suggesting an earlier gen
 
 ```765:778:site/content/languages/hick/early-hick/lexicon.md
    - lis [lis] "eye" < Proto-Hick \*lisu → lis
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Body Parts](#body-parts), [Sacred Terms](#sacred--ritual)
    - his [his] "sight" < Proto-Hick \*hi-lisu → his
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds),
-     [vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds),
+     [vowel coalescence](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Sacred Terms](#sacred--ritual)
    - mulis [mu.lis] "dream, vision" < Proto-Hick \*muruhilisu → mulis
-     ([compound reduction](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound reduction](@/languages/hickic/early-hick/_index.md#compound-simplification))
      See: [Sacred Terms](#sacred--ritual)
 
 2. Derived Terms
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
 
 
@@ -401,7 +401,7 @@ Shows the fully grammaticalized verbalizer in Early Hick.
 
 ```777:778:site/content/languages/hick/early-hick/lexicon.md
    - his-ʔer [his.ʔer] "to see" < his-ʔer "sight-ACT" → hisʔer
-     ([verbalizer](@/languages/hick/early-hick/_index.md#verbal-morphology))
+     ([verbalizer](@/languages/hickic/early-hick/_index.md#verbal-morphology))
 ```
 
 

@@ -64,24 +64,24 @@ I'll help analyze the cross-references between the files and update them to matc
 
 In lexicon.md, these links need to be updated:
 
-1. `[Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)`
+1. `[Morphological Prefixes](@/languages/hickic/early-hick/morphology.md#prefixes)`
 should be:
-`[Morphological Prefixes](@/languages/hick/early-hick/_index.md#prefix-classes)`
+`[Morphological Prefixes](@/languages/hickic/early-hick/_index.md#prefix-classes)`
 
-2. `[Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md)`
+2. `[Sound Changes in Compounds](@/languages/hickic/early-hick/compounds.md)`
 should be:
-`[Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)`
+`[Sound Changes in Compounds](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds)`
 
 Here's the regex to update these:
 
 ````
-Find: \[Morphological Prefixes\]\(@/languages/hick/early-hick/morphology\.md#prefixes\)
-Replace: [Morphological Prefixes](@/languages/hick/early-hick/_index.md#prefix-classes)
+Find: \[Morphological Prefixes\]\(@/languages/hickic/early-hick/morphology\.md#prefixes\)
+Replace: [Morphological Prefixes](@/languages/hickic/early-hick/_index.md#prefix-classes)
 ````
 
 ````
-Find: \[Sound Changes in Compounds\]\(@/languages/hick/early-hick/compounds\.md\)
-Replace: [Sound Changes in Compounds](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds)
+Find: \[Sound Changes in Compounds\]\(@/languages/hickic/early-hick/compounds\.md\)
+Replace: [Sound Changes in Compounds](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds)
 ````
 
 Would you like me to check for any other cross-references that need updating?
@@ -99,22 +99,22 @@ I don't see any references to those other files. they should still all refer to 
 
 Ah, I see. Looking at the _index.md file, I can see these cross-references that need updating:
 
-1. The reference to `[Sacred Terminology](@/languages/hick/early-hick/lexicon.md#sacred--ritual)`
+1. The reference to `[Sacred Terminology](@/languages/hickic/early-hick/lexicon.md#sacred--ritual)`
 should point to the correct section in _index.md where sacred terminology is discussed.
 
-2. The reference to `[Morphological Prefixes](@/languages/hick/early-hick/morphology.md#prefixes)`
+2. The reference to `[Morphological Prefixes](@/languages/hickic/early-hick/morphology.md#prefixes)`
 should point to the "Prefix Classes" section.
 
 Here are the regex patterns to update these:
 
 ````
-Find: \[Sacred Terminology\]\(@/languages/hick/early-hick/lexicon\.md#sacred--ritual\)
-Replace: [Sacred Terminology](@/languages/hick/early-hick/_index.md#sacred-terminology)
+Find: \[Sacred Terminology\]\(@/languages/hickic/early-hick/lexicon\.md#sacred--ritual\)
+Replace: [Sacred Terminology](@/languages/hickic/early-hick/_index.md#sacred-terminology)
 ````
 
 ````
-Find: \[Morphological Prefixes\]\(@/languages/hick/early-hick/morphology\.md#prefixes\)
-Replace: [Morphological Prefixes](@/languages/hick/early-hick/_index.md#prefix-classes)
+Find: \[Morphological Prefixes\]\(@/languages/hickic/early-hick/morphology\.md#prefixes\)
+Replace: [Morphological Prefixes](@/languages/hickic/early-hick/_index.md#prefix-classes)
 ````
 
 Would you like me to check for any other cross-references that might need updating in the file?

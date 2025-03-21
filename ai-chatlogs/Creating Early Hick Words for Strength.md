@@ -66,17 +66,17 @@ And the existing vocabulary patterns in:
 
 
    - ris [ris] "reed" < Proto-Hick \*risu → ris
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - wud [wud] "wood, tree" < Proto-Hick \*wudu → wud
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - gras [gras] "grass" < Proto-Hick \*grasu → gras
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - sed [sed] "seed" < Proto-Hick \*sedu → sed
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - kel [kel] "leaf" < Proto-Hick \*kelu → kel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - bran [bran] "branch" < Proto-Hick \*branu → bran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 
@@ -868,49 +868,49 @@ clusters. Looking at:
 
 
 ```227:270:site/content/languages/hick/early-hick/lexicon.md
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - ren [ren] "deer" < Proto-Hick \*renu → ren
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - belnes [bel.nes] "mouthed fish" < bel-nes "mouth-fish" → belnes
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - kranren [kran.ren] "horned deer" < kran-ren "horn-deer" → kranren
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - venmer [ven.mer] "wing bird" < ven-mer "wing-bird" → venmer
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - silpel [sil.pel] "hide bear" < sil-pel "hide-bear" → silpel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thirpel [θir.pel] "fur-bear" < thir-pel "fur-bear" → thirpel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - lisbel [lis.bel] "face" < lis-bel "eye-mouth" → lisbel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thirren [θir.ren] "winter coat deer" < thir-ren "fur-deer" → thirren
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - kirpel [kir.pel] "rearing bear" < kir-pel "chest-bear" → kirpel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - dorren [dor.ren] "pack deer" < dor-ren "back-deer" → dorren
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
      mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
    - tomur [to.mur] "great owl, eagle owl" < Proto-Hick \*toru-muru-meru
      "great-night-bird" → tor-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
      → tor-mur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
      → tomur
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
    - thurmur [θur.mur] "dusk owl" < Proto-Hick \*thuru-muru-meru
      "dusk-night-bird" → thur-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
      → thurmur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
    - limur [li.mur] "small night-bird, small owl" < Proto-Hick \*li-muru-meru
      "small-night-bird" → li-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
      → limur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
    - murlis [mur.lis] "night-eye" < mur-lis "night-eye" → murlis
 ```
 
@@ -976,7 +976,7 @@ This pattern would be consistent with:
 
 1. Basic Terms
    - iskel [is.kel] "window" < is-kel "out-sky" → iskel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - iskelai [is.ke.lai] "window condensation" < iskel-ai "window-water" →
 ```
 
@@ -1169,7 +1169,7 @@ lexicon:
 1. Basic Terms
 
    - bao [ba.o] "father" < Proto-Hick \*bawu → bao
-     ([vowel coalescence](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([vowel coalescence](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 ```
 
 
@@ -1243,7 +1243,7 @@ We have *garu > gar for "stone" and:
 ```48:51:site/content/languages/hick/early-hick/lexicon.md
      See: [Maritime Terms](#maritime-terms)
    - ran [ran] "stream, flowing water" < Proto-Hick \*ranu → ran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - toran [to.ran] "river, flowing water" < Proto-Hick \*ranu → ran
 ```
 
@@ -1323,17 +1323,17 @@ For the lexicon updates, I'll reference the existing entries and add new ones:
 
 1. Basic Terms
    - ter [ter] "tail, end" < Proto-Hick *teru → ter
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - is [is] "out" < Proto-Hick *isu → is
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - as [as] "down" < Proto-Hick *asu → as
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
 
 2. Grammaticalized Forms
    - -aes [-aes] "into" < Proto-Hick *lawes → aes
-     ([grammaticalization](@/languages/hick/early-hick/_index.md#directional-system))
+     ([grammaticalization](@/languages/hickic/early-hick/_index.md#directional-system))
    - -imris [-im.ris] "out from" < Proto-Hick *imer-is → imris
-     ([grammaticalization](@/languages/hick/early-hick/_index.md#directional-system))
+     ([grammaticalization](@/languages/hickic/early-hick/_index.md#directional-system))
 ```
 
 Would you like me to:
@@ -1384,17 +1384,17 @@ Let's systematically add these roots and their developments to the lexicon:
 
 1. Basic Terms
    - ter [ter] "flow" < Proto-Hick *teru → ter
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - ran [ran] "stream" < Proto-Hick *ranu → ran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
 
 ### Material Terms
 
 1. Basic Terms
    - gar [gar] "worked stone" < Proto-Hick *garu → gar
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - al [al] "natural rock" < Proto-Hick *xalu → halu → al
-     ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([initial fricative loss](@/languages/hickic/early-hick/_index.md#early-hick))
 ```
 
 Would you like me to:

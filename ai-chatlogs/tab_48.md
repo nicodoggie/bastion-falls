@@ -61,7 +61,7 @@ Starting form: toritar-rises [to.ri.tar.ri.ses]
 
 # See Also
 
-- [Early Hick](@/languages/hick/early-hick.md)
+- [Early Hick](@/languages/hickic/early-hick.md)
 - [Middle Hick](@/languages/hick/middle-hick.md)
 ```
 
@@ -160,12 +160,12 @@ Starting form: tor-itar-rises [tor.i.tar.ri.ses]
 ```563:570:site/content/languages/hick/early-hick/lexicon.md
 1. Compound Formation
    - Element + Element: kurtin "bronze" < kur-tin "copper-tin" → kurtin
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - Descriptor + Element: grakur "grey copper" < gra-kur "grey-copper" → grakur
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - Location + Base: brammater "river-vessel" < bram-mater "tide-vessel" →
      brammater
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 ```
 
 - Follows compound fusion pattern

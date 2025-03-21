@@ -20,7 +20,7 @@ For lexicon.md, it should go in the Animals section (around line 1035):
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - rok [rok] "horse" < Sindarin roch → rok
-  ([borrowed term](@/languages/hick/early-hick/_index.md#eldrim-borrowings))
+  ([borrowed term](@/languages/hickic/early-hick/_index.md#eldrim-borrowings))
   Note: Shows elvish introduction of horses See: [Animal Terms](#animal-terms)
 ```
 
@@ -83,7 +83,7 @@ I'll help add the compound word "sinthir" in both formats. Based on the existing
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - sinthir [sin.θir] "fly" < sin-thir "float-air" → sinthir
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Shows metaphorical extension of floating motion to aerial movement. See: 
   [Motion Actions](#motion-actions), [Basic Terms](#basic-terms)
 ```
@@ -157,7 +157,7 @@ I'll help add the word "ul" in both formats. Since it's a basic term that's also
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - ul [ul] "grasp; possess, own" < Proto-Hick *ʔulu → ul
-  ([initial glottal loss, final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([initial glottal loss, final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
   Note: Source of possessive suffix -ul through grammaticalization. Forms verb 
   ul'er "to grasp, to own". See: [Basic Terms](#basic-terms), 
   [Grammatical Terms](#grammatical-terms)
@@ -248,7 +248,7 @@ I'll help add "hisimris" in both formats, following the pattern of other case-de
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - hisimris [hi.sim.ris] "show" < his-imris "sight-ELL" → hisimris
-  ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Shows productive use of ellative case for causative meanings. Forms verb 
   hisimris'er "to show". Contrasts with hilis'er "to look". See: 
   [Perception Terms](#perception-terms), [Action Terms](#action-terms)
@@ -334,7 +334,7 @@ Let's add this to both files:
 
 ```markdown:site/content/languages/hick/early-hick/lexicon.md
 - telran- [tel.ran] "only" < tel-ran "end-PART" → telran
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: Specialized compound prefix disambiguating "only" meaning from general 
   partitive ran-. Shows productive use of tel- to indicate limitation. See: 
   [Grammatical Terms](#grammatical-terms), [Basic Terms](#basic-terms)

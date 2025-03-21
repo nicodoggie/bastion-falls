@@ -51,12 +51,13 @@ They were subservient to the White Witches of the
 
 ## Kalassarian Possam
 
-When the Kalassarians arrived on the island they called _Mausia_, they were
-allowed to make a settlement themselves across the Sound. The settlement was
-called Eastern Possam, and was established as an outpost and secondary port that
-connected Seneria to the rest of the Beteran continent. This settlement did not
-garner much interest due to the fact that magical transportation was used more
-extensively, and sea travel was not as important as it once was.
+When the Kalassarians arrived on the island they called _Mauricia_ or _Mausia_,
+they were allowed to make a settlement themselves across the Sound. The
+settlement was called Eastern Possam, and was established as an outpost and
+secondary port that connected Seneria to the rest of the Beteran continent. This
+settlement did not garner much interest due to the fact that magical
+transportation was used more extensively, and sea travel was not as important as
+it once was.
 
 Eventually, by the
 [Fall of the Kalassarian Empire](@/events/fall-of-the-kalassarian-empire.md),

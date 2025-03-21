@@ -785,7 +785,7 @@ Based on the format shown in the Early Hick Lexicon markdown file, here's how we
 ### Construction/Dwelling Actions
 
 - asad [a.sad] "bridge" < Proto-Hick *hasa-wadu → asad
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   Note: From 'vine' + 'path', shows typical development of infrastructure terms from 
   natural materials
   See: [Construction Terms](#construction--dwelling), [Path Terms](#motion--paths)
@@ -795,23 +795,23 @@ This follows the established patterns shown in:
 
 
 ```1090:1120:site/content/languages/hick/early-hick/lexicon.md
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - tormer [tor.mer] "ancestor" < tor-mer "great-parent" → tormer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - limer [li.mer] "younger parent/aunt/uncle" < li-mer "small-parent" → limer
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - thirbao [θir.ba.o] "grandfather" < thir-bao "elder-father" → thirbao
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - thirnai [θir.nai] "grandmother" < thir-nai "elder-mother" → thirnai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - torbao [tor.ba.o] "ancestor (paternal)" < tor-bao "great-father" → torbao
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - tornai [tor.nai] "ancestor (maternal)" < tor-nai "great-mother" → tornai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - libao [li.ba.o] "uncle (paternal)" < li-bao "lesser-father" → libao
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 - linai [li.nai] "aunt (maternal)" < li-nai "lesser-mother" → linai
-  ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
 
 #### Usage Examples
 
@@ -824,7 +824,7 @@ This follows the established patterns shown in:
 #### Basic Numbers
 
 - sin [sin] "one" < Proto-Hick \*su-inu → sin (counting form)
-  ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+  ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 - tir [tir] "two" < Proto-Hick \*tiru → tir (basic form)
 ```
 
@@ -1098,7 +1098,7 @@ Here's the entry for the Place Names section:
 ## Place Names
 
 - 'eldegralen asadimris [ʔel.də.gra.len a.sa.dim.ris] "The Elven Bridge" < 'eldegral-en asad-imris
-  ([compound with case marking](@/languages/hick/early-hick/_index.md#case-system))
+  ([compound with case marking](@/languages/hickic/early-hick/_index.md#case-system))
   Note: Formal construction using medial visible inanimate marker -en and elative case -imris
   See: [Sacred Terms](#sacred--ritual), [Construction Terms](#construction--dwelling)
 

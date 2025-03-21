@@ -63,7 +63,7 @@ That's a clever and linguistically sound derivation! Let me help flesh this out 
 bressim [bres.sim]
   : weather (conditions)
   : bres-sim "wind-TRANS" → bressim
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Shows conceptual link between wind and changing conditions. Forms verb 
     bressim'er "to change (of weather)". See: [Wind Terms](#wind-terms), 
     [Climate Terms](#climate--weather)
@@ -105,7 +105,7 @@ express "becoming/changing like wind". Let me revise the entry:
 bressim [bres.sim]
   : weather (conditions)
   : bres-sim "wind-TRANS" → bressim
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   : Note: Shows lexicalization of translative case marking, conceptualizing weather 
     as "becoming like wind". Forms verb bressim'er "to change (of weather)". See: 
     [Wind Terms](#wind-terms), [Climate Terms](#climate--weather)
@@ -251,7 +251,7 @@ And for the markdown lexicon:
 etilsim [e.til.sim]
   : whatever the change; no matter
   : etil-sim "thing-TRANS" → etilsim
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   : Note: Shows semantic extension of translative case into concessive marker. See:
     [Abstract Concepts](#abstract-concepts), [Grammar Terms](#grammar-terms)
 
@@ -334,7 +334,7 @@ rather than a concessive marker. Let me revise those entries:
 etilsim [e.til.sim]
   : everything changes; (it's) all transformation
   : etil-sim "thing-TRANS" → etilsim
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   : Note: Shows lexicalization of translative case into philosophical statement 
     about change. Often used as exclamation.
   : Example: imeresp-es etilsim "sleep changes everything"
@@ -414,7 +414,7 @@ me revise again:
 etilsim [e.til.sim]
   : everything changes/transforms (with resignation)
   : etil-sim "thing-TRANS" → etilsim
-  : ([case lexicalization](@/languages/hick/early-hick/_index.md#case-system))
+  : ([case lexicalization](@/languages/hickic/early-hick/_index.md#case-system))
   : Note: Expresses both inevitable transformation and resignation to it. Often 
     used as response to change or loss.
   : Example: imerespes etilsim "sleep changes everything, whatever"

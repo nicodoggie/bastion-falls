@@ -28,7 +28,7 @@ each with 30 days.
 | 70 AI   | Kureran Genocide at the hands of the Kalassar                          |
 | 102 AI  | Kalassar conquers Hapgaria                                             |
 | 105 AI  | Seneria founded, present-day Port Surrey their first settlement        |
-| 111 AI  | Kalassarians claim Tochoma as Mauricia                                 |
+| 111 AI  | Kalassarians land at present-day Raibon, names it Mauricia             |
 | 111 AI  | Tochoma settlement founded; White Witches recognized                   |
 | 111 AI  | Governor of Seneria dies; family cursed                                |
 | 112 AI  | Joint council formed; [Halorin](@/characters/hama.md) leads Witches    |

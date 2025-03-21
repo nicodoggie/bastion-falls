@@ -124,25 +124,25 @@ Here’s a proposed set of terms for the grinding process, based on the structur
 gasam [ga.sam]
   : grinding
   : gar "rock" + SUBE -asam "under" → gasam
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Literally "under rock," referring to the action of grinding. Forms the base for specialized grinding terms.
 
 asamgasam [a.sam.ga.sam]
   : flattening (initial grinding)
   : asamitar "rest" + gasam "grinding" → asamgasam
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Literally "rest grinding," referring to the initial flattening process. See: [Tool Terms](#tool-terms)
 
 aigasam [ai.ga.sam]
   : wet grinding
   : ai "water" + gasam "grinding" → aigasam
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Literally "water grinding," referring to the use of water in the smoothing process. See: [Tool Terms](#tool-terms)
 
 kasgasam [kas.ga.sam]
   : lapping (final polishing)
   : kasger "mirror" + gasam "grinding" → kasgasam
-  : ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+  : ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
   : Note: Literally "mirror grinding," referring to the final polishing stage to achieve a reflective surface. See: [Tool Terms](#tool-terms)
 
 // ... existing code ...

@@ -2888,7 +2888,7 @@ Here's how we can consolidate the verbal sections while maintaining and adding c
 ### Verbalizer
 
 - -ʔer [ʔer]: creates verbs from nouns and property concepts 
-  (See: [Sound Changes in Compounds](@/languages/hick/early-hick/compounds.md))
+  (See: [Sound Changes in Compounds](@/languages/hickic/early-hick/compounds.md))
 
 1. Active verbs (from action/motion concepts):
    - ter-ʔer "to flow" (See: [Water Features](#water-features), line 370)
@@ -2912,7 +2912,7 @@ Note: The interpretation depends on the base word:
 - Action roots → active verbs (ter "flow", thren "watch")
 - Property roots → stative verbs (thral "sacred", mar "red")
 - Some roots can function both ways depending on context
-(See: [Lexical Categories](@/languages/hick/early-hick/lexicon.md))
+(See: [Lexical Categories](@/languages/hickic/early-hick/lexicon.md))
 
 ### Tense and Aspect Marking
 
@@ -3077,7 +3077,7 @@ Here's the consolidated version with cross-references:
 
 1. Basic Temporal Markers
    - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
-     (See: [Time Terms](@/languages/hick/early-hick/lexicon.md#time--celestial))
+     (See: [Time Terms](@/languages/hickic/early-hick/lexicon.md#time--celestial))
      - From bran "dawn" + -um "distal inanimate" 
        (See: [Demonstrative System](#demonstrative-system))
      - Conceptualizes past as distant dawn-time, reflecting Hick cultural view
@@ -3085,13 +3085,13 @@ Here's the consolidated version with cross-references:
      - Used for general past reference and historical narratives
 
    - branrum [bran.rum] "ancestral time" (lit. "dawn-that.DIST.ANIM")
-     (See: [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     (See: [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
      - Uses animate distal marker -rum to personify ancestral time
      - Specifically used for sacred histories and ancestral stories
      - Contrasts with branum by marking time as animate/sacred
 
    - mulsum [mul.sum] "future" (lit. "night-change-DIST")
-     (See: [Time Terms](@/languages/hick/early-hick/lexicon.md#time--celestial))
+     (See: [Time Terms](@/languages/hickic/early-hick/lexicon.md#time--celestial))
      - From mulsimrum "changes to a distant night"
      - Grammaticalized through reduction: mulsimrum → mulsum 
        (See: [Historical Development](#historical-development))
@@ -3448,11 +3448,11 @@ The key changes would be:
 1. Remove the duplicate Verbal System section (lines 478-485)
 2. Remove the duplicate Tense/Aspect section (lines 631-649)
 3. Keep cross-references to:
-   - [Lexical Categories](@/languages/hick/early-hick/lexicon.md)
-   - [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
-   - [Time Terms](@/languages/hick/early-hick/lexicon.md#time--celestial)
-   - [Water Features](@/languages/hick/early-hick/lexicon.md#water-features)
-   - [Colors](@/languages/hick/early-hick/lexicon.md#colors)
+   - [Lexical Categories](@/languages/hickic/early-hick/lexicon.md)
+   - [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual)
+   - [Time Terms](@/languages/hickic/early-hick/lexicon.md#time--celestial)
+   - [Water Features](@/languages/hickic/early-hick/lexicon.md#water-features)
+   - [Colors](@/languages/hickic/early-hick/lexicon.md#colors)
    - [Clause Structure and Word Order](#clause-structure-and-word-order)
    - [Information Structure](#information-structure)
    - [Verb Position and Aspect](#verb-position-and-aspect)
@@ -3659,11 +3659,11 @@ The key changes would be:
 1. Remove the duplicate Verbal System section (478-485)
 2. Remove the duplicate Tense/Aspect section (631-649)
 3. Keep all cross-references to:
-   - [Lexical Categories](@/languages/hick/early-hick/lexicon.md)
-   - [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual)
-   - [Time Terms](@/languages/hick/early-hick/lexicon.md#time--celestial)
-   - [Water Features](@/languages/hick/early-hick/lexicon.md#water-features)
-   - [Colors](@/languages/hick/early-hick/lexicon.md#colors)
+   - [Lexical Categories](@/languages/hickic/early-hick/lexicon.md)
+   - [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual)
+   - [Time Terms](@/languages/hickic/early-hick/lexicon.md#time--celestial)
+   - [Water Features](@/languages/hickic/early-hick/lexicon.md#water-features)
+   - [Colors](@/languages/hickic/early-hick/lexicon.md#colors)
    - [Clause Structure and Word Order](#clause-structure-and-word-order)
    - [Information Structure](#information-structure)
    - [Verb Position and Aspect](#verb-position-and-aspect)
@@ -3752,12 +3752,12 @@ I'll proceed with implementing the consolidated Verbal Morphology section, using
    peak-KNOWN.ANIM-ABS sacred-VERB
    "The known peak is sacred"
    ```
-   (See: [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+   (See: [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
 
 Note: Interpretation depends on base word semantics:
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred")
-(See: [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms), lines 24-34)
+(See: [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms), lines 24-34)
 
 ### Tense and Aspect Marking
 
@@ -3903,7 +3903,8 @@ Here's my revised verbalizer section:
 Note: Interpretation depends on base word semantics:
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred")
-(See: [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+(See: [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
+
 ```
 
 This revision:
@@ -3974,9 +3975,7 @@ Looking at the code blocks, I see we need to consolidate the verbal morphology s
    - branum [bra.num] "past" (lit. "dawn-that.DIST.INAN")
 ```
 
-
 and
-
 
 ```602:627:site/content/languages/hick/early-hick/_index.md
 ### Negation System
@@ -4007,7 +4006,6 @@ and
 7. Skin as appearance
 ```
 
-
 Here's my proposed consolidated version:
 
 ```markdown
@@ -4029,9 +4027,10 @@ Here's my proposed consolidated version:
    ```
 
    Examples:
-   - ter-ʔer "to flow" (See: [Water Features](#water-features))
-   - thren-ʔer "to watch" (See: [Sacred Terms](#sacred--ritual))
-   - ward-ʔer "to guide"
+
+- ter-ʔer "to flow" (See: [Water Features](#water-features))
+- thren-ʔer "to watch" (See: [Sacred Terms](#sacred--ritual))
+- ward-ʔer "to guide"
 
 2. Stative verbs (from property concepts):
 
@@ -4046,9 +4045,11 @@ Here's my proposed consolidated version:
    - mar-ʔer "to be red" (See: [Colors](#colors))
 
 Note: Interpretation depends on base word semantics:
+
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred")
-(See: [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+(See: [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
+
 ```
 
 Would you like me to continue with consolidating the other verbal morphology sections?
@@ -4084,6 +4085,7 @@ Let's revise the verbalizer section with this convention:
    ```
 
 2. Stative verbs:
+
    ```plaintext
    tor-thir-es thral-'er
    peak-KNOWN.ANIM-ABS sacred-VERB
@@ -4091,9 +4093,11 @@ Let's revise the verbalizer section with this convention:
    ```
 
 Note: Interpretation depends on base word semantics:
+
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred")
-(See: [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+(See: [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
+
 ```
 
 This revision:
@@ -4337,32 +4341,32 @@ For lexical roots:
 1. Elements
 1. Elements
    - ai [ai] "water" < Proto-Hick \*ahi → ai
-     ([vowel sequences](@/languages/hick/early-hick/_index.md#vowel-sequences))
+     ([vowel sequences](@/languages/hickic/early-hick/_index.md#vowel-sequences))
      See: [Maritime Terms](#maritime-terms), [Water Features](#water-features)
    - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick)) See:
      [Landscape Terms](#landscape-terms)
    - kel [kel] "sky" < Proto-Hick \*kelu → kel
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick)) See:
      [Time Terms](#time--celestial), [Colors](#colors)
    - thir [θir] "air, wind" < Proto-Hick \*thiru → thir
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick)) See:
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick)) See:
      [Colors](#colors)
    - al [al] "natural rock" < Proto-Hick \*xalu → halu → al
-     ([initial fricative loss](@/languages/hick/early-hick/_index.md#early-hick))
+     ([initial fricative loss](@/languages/hickic/early-hick/_index.md#early-hick))
    - gar [gar] "stone" < Proto-Hick \*garu → gar ([final vowel loss])
    - gral [gral] "earth, soil" < Proto-Hick \*gralu → gral ([final vowel loss])
 2. Water Features
    - keth [keθ] "sea" < Proto-Hick \*keθu → keθ
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - mal [mal] "pool, standing water" < Proto-Hick \*malu → mal
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Maritime Terms](#maritime-terms)
    - ran [ran] "stream, flowing water" < Proto-Hick \*ranu → ran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - toran [to.ran] "river, flowing water" < Proto-Hick \*ranu → ran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
 3. Landforms
 ```
 
@@ -4374,28 +4378,28 @@ For sacred terms:
 3. Bird Terms (Nocturnal)
    - murmer [mur.mer] "night-bird, owl" < Proto-Hick \*muru-meru "night-bird" →
      mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
    - tomur [to.mur] "great owl, eagle owl" < Proto-Hick \*toru-muru-meru
      "great-night-bird" → tor-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
      → tor-mur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
      → tomur
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
    - thurmur [θur.mur] "dusk owl" < Proto-Hick \*thuru-muru-meru
      "dusk-night-bird" → thur-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
      → thurmur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
    - limur [li.mur] "small night-bird, small owl" < Proto-Hick \*li-muru-meru
      "small-night-bird" → li-mur-mer
-     ([vowel loss in compounds](@/languages/hick/early-hick/_index.md#phonotactic-constraints))
+     ([vowel loss in compounds](@/languages/hickic/early-hick/_index.md#phonotactic-constraints))
      → limur
-     ([compound simplification](@/languages/hick/early-hick/_index.md#compound-simplification))
+     ([compound simplification](@/languages/hickic/early-hick/_index.md#compound-simplification))
    - murlis [mur.lis] "night-eye" < mur-lis "night-eye" → murlis
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - murkran [mur.kran] "night-horn" < mur-kran "night-horn" → murkran
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - murkran [mur.kran] "night-horn" < mur-kran "night-horn" → murkran
 ```
 
@@ -4422,8 +4426,8 @@ Here's the revised Verbal Morphology section with proper cross-references:
    ```
 
    Examples:
-   - ter-'er "to flow" (See: [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
-   - thren-'er "to watch" (See: [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+   - ter-'er "to flow" (See: [Water Features](@/languages/hickic/early-hick/lexicon.md#water-features))
+   - thren-'er "to watch" (See: [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
    - ward-'er "to guide"
 
 2. Stative verbs (from property concepts):
@@ -4434,13 +4438,13 @@ Here's the revised Verbal Morphology section with proper cross-references:
    ```
 
    Examples:
-   - thral-'er "to be sacred" (See: [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
-   - mar-'er "to be red" (See: [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+   - thral-'er "to be sacred" (See: [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
+   - mar-'er "to be red" (See: [Colors](@/languages/hickic/early-hick/lexicon.md#colors))
 
 Note: Interpretation depends on base word semantics:
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred")
-(See: [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+(See: [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
 ````
 
 Would you like me to continue with the other sections of Verbal Morphology (Tense/Aspect, Spatial Reference)?
@@ -4889,20 +4893,20 @@ for the current syntax section, and:
 
 ```173:187:site/content/languages/hick/early-hick/lexicon.md
    - mur [mur] "night, darkness" < Proto-Hick \*muru → mur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
      See: [Bird Terms](#bird-terms-nocturnal)
    - thur [θur] "dusk" < Proto-Hick \*thuru → thur
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - bran [bran] "dawn" < Proto-Hick \*branu → bran
-     ([final vowel loss](@/languages/hick/early-hick/_index.md#early-hick-prehistory-to-300-pf))
+     ([final vowel loss](@/languages/hickic/early-hick/_index.md#early-hick-prehistory-to-300-pf))
    - thrakel [θra.kel] "sun" < thral-kel "sacred-sky" → thrakel
-     ([liquid deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([liquid deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
    - murkel [mur.kel] "night sky" < mur-kel "night-sky" → murkel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - thurkel [θur.kel] "evening sky" < thur-kel "dusk-sky" → thurkel
-     ([compound fusion](@/languages/hick/early-hick/_index.md#compound-formation))
+     ([compound fusion](@/languages/hickic/early-hick/_index.md#compound-formation))
    - brakel [bra.kel] "morning sky" < bran-kel "dawn-sky" → brakel
-     ([nasal deletion](@/languages/hick/early-hick/_index.md#sound-changes-in-compounds))
+     ([nasal deletion](@/languages/hickic/early-hick/_index.md#sound-changes-in-compounds))
 ```
 
 
@@ -5011,9 +5015,9 @@ Early Hick's directional system marks the goal of the motion verb, supplanting
    Examples:
 3. Speed Augmentative (tor- -sim)
    - ter-'er "to flow" (See:
-     [Water Features](@/languages/hick/early-hick/lexicon.md#water-features))
+     [Water Features](@/languages/hickic/early-hick/lexicon.md#water-features))
    - thren-'er "to watch" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
    - ward-'er "to guide"
 1. Plural Prefix (ma-)
 2. Sta
@@ -5031,15 +5035,15 @@ Early Hick's directional system marks the goal of the motion verb, supplanting
    Examples:
      - ka-mal [kə.mal] "pond-like" (smaller than a lake)
    - thral-'er "to be sacred" (See:
-     [Sacred Terms](@/languages/hick/early-hick/lexicon.md#sacred--ritual))
+     [Sacred Terms](@/languages/hickic/early-hick/lexicon.md#sacred--ritual))
    - mar-'er "to be red" (See:
-     [Colors](@/languages/hick/early-hick/lexicon.md#colors))
+     [Colors](@/languages/hickic/early-hick/lexicon.md#colors))
    - Body Parts: kəbel "mouth-like", kəven "wing-like"
 Note: Interpretation depends on base word semantics:
    - Water Movement: kəran "stream-like", kəthrim "wave-like"
 - Action/motion roots → active verbs (ter "flow", ward "guide")
 - Property roots → stative verbs (thral "sacred") (See:
-  [Basic Terms](@/languages/hick/early-hick/lexicon.md#basic-terms))
+  [Basic Terms](@/languages/hickic/early-hick/lexicon.md#basic-terms))
 ````
 
 (Verbalizer section)
