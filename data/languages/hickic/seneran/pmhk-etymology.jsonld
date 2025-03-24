@@ -1,0 +1,288 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "pmhk": "https://bastion-falls.thekennel.info/languages/hickic/maritime/lexicon/",
+    "pshk": "https://bastion-falls.thekennel.info/languages/hickic/seneran/lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "pshketym": "https://bastion-falls.thekennel.info/languages/hickic/seneran/etymology/"
+  },
+  "@id": "pshketym:PmhkToPshk",
+  "@type": "baety:EtymologyCollection",
+  "dc:title": "Proto-Maritime Hickic to Proto-Seneran Hickic Etymology",
+  "dc:description": "Documentation of sound changes from Proto-Maritime Hickic to Proto-Seneran Hickic (Stage 3)",
+  "dcterms:created": "1275-05-01",
+  "baety:sourceLanguage": {
+    "@id": "bf:hickic/maritime",
+    "skos:prefLabel": "Proto-Maritime Hickic"
+  },
+  "baety:targetLanguage": {
+    "@id": "bf:hickic/seneran",
+    "skos:prefLabel": "Proto-Seneran Hickic"
+  },
+  "baety:majorSoundChanges": [
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Final schwa dropping",
+      "baety:soundChangeRule": "ə → * / _ $",
+      "baety:example": "ˈhirə → ˈhir, ˈtakə → ˈtak",
+      "baety:notes": "Word-final schwa [ə] was dropped, creating many consonant-final words"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Voicing of intervocalic stops",
+      "baety:soundChangeRule": "[stop, -voice] → [+voice] / @vowel _ @vowel",
+      "baety:example": "ˈhasəmə → ˈhasəm, ˈabəka → ˈabəga",
+      "baety:notes": "Voiceless stops became voiced between vowels"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Medial h-weakening",
+      "baety:soundChangeRule": "h → ʔ / @vowel _ @vowel",
+      "baety:example": "ˈbahə → ˈbaʔ",
+      "baety:notes": "Medial [h] weakened to glottal stop [ʔ] between vowels"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "pshketym:hirə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:hir"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:hirə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈhirə → ˈhir (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:takə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:tak"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:takə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈtakə → ˈtak (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:hasəmə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:hasəm"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:hasəmə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈhasəmə → ˈhasəm (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:bahə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:baʔ"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:bahə"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-weakening: ˈbahə → ˈbaʔə (h → ʔ)",
+        "Final schwa dropping: ˈbaʔə → ˈbaʔ (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:hakə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:hak"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:hakə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈhakə → ˈhak (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:hihalə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:hiʔal"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:hihalə"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-weakening: ˈhihalə → ˈhiʔalə (h → ʔ)",
+        "Final schwa dropping: ˈhiʔalə → ˈhiʔal (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:venə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:ven"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:venə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈvenə → ˈven (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:storə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:stor"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:storə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈstorə → ˈstor (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:bahəharanə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:baʔəʔaran"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:bahəharanə"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-weakening: ˈbahəharanə → ˈbaʔəʔaranə (h → ʔ)",
+        "Final schwa dropping: ˈbaʔəʔaranə → ˈbaʔəʔaran (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:melisə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:melis"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:melisə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈmelisə → ˈmelis (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:dalukə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:dalug"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:dalukə"
+      },
+      "baety:soundChangeApplied": [
+        "Voicing of intervocalic stops: daˈlukə → daˈlugə (k → g)",
+        "Final schwa dropping: daˈlugə → daˈlug (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:ahi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:aʔi"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:ahi"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-weakening: ˈahi → ˈaʔi (h → ʔ)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:θivenə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:θiven"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:θivenə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈθivenə → ˈθiven (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:hau",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:hau"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:hau"
+      },
+      "baety:soundChangeApplied": [
+        "No change: The diphthong [au] remains unchanged"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI",
+      "baety:hasEtymologicalNote": "Diphthongs continued to be preserved in this stage"
+    },
+    {
+      "@id": "pshketym:sinə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:sin"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:sinə"
+      },
+      "baety:soundChangeApplied": [
+        "Final schwa dropping: ˈsinə → ˈsin (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI"
+    },
+    {
+      "@id": "pshketym:hitakə",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pshk:hidag"
+      },
+      "baety:sourceForm": {
+        "@id": "pmhk:hitakə"
+      },
+      "baety:soundChangeApplied": [
+        "Voicing of intervocalic stops: hiˈtakə → hiˈtagə (t → d, k → g)",
+        "Final schwa dropping: hiˈtagə → hiˈtag (ə → *)"
+      ],
+      "baety:hasPeriod": "c. 550-600 AI",
+      "baety:hasEtymologicalNote": "Shows both intervocalic stop voicing and final schwa dropping"
+    }
+  ]
+} 

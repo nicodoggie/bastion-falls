@@ -365,9 +365,9 @@ See: [Vowel Allophony](#vowel-allophony) for positional variants
    - No three-vowel sequences
 
 2. Examples:
-   - /kei-aes/ → [ke.es] "sky flow"
-   - /thrai-aes/ → [thraes] "sacred flow"
-   - /brai-aes/ → [braes] "swift flow"
+   - /kei-las/ → [ke.es] "sky flow"
+   - /thrai-las/ → [thraes] "sacred flow"
+   - /brai-las/ → [braes] "swift flow"
 
 ### Weight Distribution Constraints
 
@@ -426,8 +426,8 @@ See: [Vowel Allophony](#vowel-allophony) for positional variants
    - bran-kel → brakel "morning sky"
 
 3. Vowel Coalescence
-   - kei-aes → kees "sky flow"
-   - thrai-aes → thraes "sacred flow"
+   - kei-las → kees "sky flow"
+   - thrai-las → thraes "sacred flow"
 
 ### Compound Types
 
@@ -604,13 +604,13 @@ another way to express this sentence using the spatial case marker, removing the
 explicit verbal word _bel_ "entrance".
 
 ```txt
-branum gales rismater-aes
+branum gales rismater-las
 PAST man-ABS reed boat-ILL
 The man entered the reed boat.
 ```
 
 Since the man is moving inward, into the reed boat, and there is no reason to
-specify that the man entered through the entrance, the spatial case marker -aes
+specify that the man entered through the entrance, the spatial case marker -las
 may be appended to _rismater_ to indicate that the man entered the boat.
 
 ## Temporal System
@@ -893,12 +893,12 @@ This literary innovation appears primarily in written texts and formal speech.
 2. Visible/Known, Medial
    - -en [en] "that" (inanimate)
    - -tan [tan] "that" (animate)
-3. Hidden but Sensed
-   - -eth [eθ] "this/that" (inanimate)
-   - -thir [θir] "this/that" (animate)
+3. Hidden but Sensed, Medial
+   - -eth [eθ] "that" (inanimate)
+   - -thir [θir] "that" (animate)
 4. Distant/Out of Sight
-   - -um [um] "that" (inanimate)
-   - -rum [rum] "that" (animate)
+   - -um [um] "that over there" (inanimate)
+   - -rum [rum] "that over there" (animate)
 
 ### Personal Reference
 
@@ -1466,7 +1466,7 @@ an adjective (before nouns) or an adverb (after verbs).
    - Directional constructions allow goal prominence:
 
      ```txt
-     keth-aes materok-el rismater-es
+     keth-las materok-el rismater-es
      sea-ILL  handler-ERG reed.boat-ABS
      "To sea the handler (takes) the reed boat"
      ```
@@ -2250,6 +2250,10 @@ subordination.
 
 ## Interrogatives
 
+### Basic Forms
+
+#### 'aka [?a.ka] "what"
+
 1. Basic Forms
 
    - 'aka [ʔa.ka] "what"
@@ -2285,7 +2289,7 @@ subordination.
    who.MED-ERG ritual-ABS watch-VERB
    "Who (that we can hear/sense) watches the ritual?"
 
-   'atum-aes materok-el rismater-es ward-'er?
+   'atum-las materok-el rismater-es ward-'er?
    where.DIST-ILL handler-ERG reed.boat-ABS guide-VERB
    "Where (unknown) does the handler guide the reed boat to?"
    ```

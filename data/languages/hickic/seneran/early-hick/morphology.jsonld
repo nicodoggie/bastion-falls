@@ -1,0 +1,538 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "ehkmorph": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/morphology/",
+    "morph": "https://bastion-falls.thekennel.info/ontology/morphology#"
+  },
+  "@id": "ehkmorph:EarlyHickMorphology",
+  "@type": "morph:MorphologicalSystem",
+  "dc:title": "Early Hick Morphological System",
+  "dc:description": "Documentation of morphological patterns in Early Hick",
+  "dcterms:created": "1275-05-12",
+  "morph:historicalContext": "The Early Hick morphological system (c. 1000 PF onward) shows significant restructuring from Proto-Hick, largely due to phonological changes that obscured older morphological boundaries. The language exhibits an ergative-absolutive alignment with rich derivational morphology and a sophisticated spatial reference system. Core grammatical relations are marked through prefixes and suffixes, with notable ergative (-el) and absolutive (-es) case marking.",
+  "@graph": [
+    {
+      "@id": "ehkmorph:NominalMorphology",
+      "@type": "morph:MorphologicalSubsystem",
+      "dc:title": "Nominal Morphology",
+      "morph:description": "The Early Hick nominal system uses an ergative-absolutive alignment, with distinct markers for size, number, and agentive roles. It has a sophisticated demonstrative system and extensive spatial case marking.",
+      "morph:categories": [
+        {
+          "@id": "ehkmorph:CoreCaseSystem",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Core Case System",
+          "morph:description": "Early Hick shows an ergative-absolutive alignment, with distinct case markers for agents and patients.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Ergative",
+              "morph:marker": "Suffix -el",
+              "morph:examples": [
+                "materok-el (handler-ERG)",
+                "thral-el (ritual-ERG)",
+                "'al-el (person-ERG)"
+              ],
+              "morph:notes": "Marks the agent of transitive verbs. Derived from Proto-Hick *mela through final vowel loss and initial m-loss in unstressed position."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Absolutive",
+              "morph:marker": "Suffix -es",
+              "morph:examples": [
+                "'al-es (person-ABS)",
+                "kel-es (sky-ABS)",
+                "mes-es (heart-ABS)"
+              ],
+              "morph:notes": "Marks the patient of transitive verbs and the sole argument of intransitive verbs."
+            }
+          ],
+          "morph:historicalDevelopment": "The ergative-absolutive system developed from an earlier system where the ergative marker originated as a definite animate marker, then evolved to mark definite agents, before finally becoming a general ergative marker."
+        },
+        {
+          "@id": "ehkmorph:SpatialCaseSystem",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Spatial Case System",
+          "morph:description": "Early Hick has a rich system of spatial cases that indicate direction and location, often used to modify the directional meaning of verbs.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Illative",
+              "morph:marker": "Suffix -las",
+              "morph:examples": [
+                "rismater-las (reed.boat-ILL)",
+                "kakel-las (blue-ILL)"
+              ],
+              "morph:notes": "Indicates movement 'inward' or 'into' something. Also used for change of state."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Elative",
+              "morph:marker": "Suffix -imris",
+              "morph:examples": [
+                "rismater-imris (reed.boat-ELL)",
+                "kakel-imris (blue-ELL)"
+              ],
+              "morph:notes": "Indicates movement 'outward' or 'from' something."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Superlative",
+              "morph:marker": "Suffix -itar",
+              "morph:examples": [
+                "rismater-itar (reed.boat-SUPE)",
+                "ven-itar (yoke-SUPE)"
+              ],
+              "morph:notes": "Indicates movement 'upward' or 'upon' something."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Sublative",
+              "morph:marker": "Suffix -asam",
+              "morph:examples": [
+                "rismater-asam (reed.boat-SUBE)",
+                "ven-asam (yoke-SUBE)"
+              ],
+              "morph:notes": "Indicates movement 'downward' or 'onto' something."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Subessive",
+              "morph:marker": "Suffix -esp",
+              "morph:examples": [
+                "rismater-esp (reed.boat-SUB)",
+                "ven-esp (yoke-SUB)"
+              ],
+              "morph:notes": "Indicates position 'under' or 'below' something."
+            }
+          ],
+          "morph:historicalDevelopment": "The spatial case system developed from independent postpositions that gradually grammaticalized into bound case markers."
+        },
+        {
+          "@id": "ehkmorph:DemonstrativeSystem",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Demonstrative System",
+          "morph:description": "Early Hick has a complex demonstrative system that distinguishes between animate and inanimate referents, as well as visibility and distance.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Proximal Visible/Known (Inanimate)",
+              "morph:marker": "Suffix -is",
+              "morph:examples": [
+                "mater-is (this boat)",
+                "tor-is (this mountain)"
+              ],
+              "morph:notes": "Indicates an inanimate object that is close and visible or known."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Proximal Visible/Known (Animate)",
+              "morph:marker": "Suffix -'is",
+              "morph:examples": [
+                "'al-'is (this person)",
+                "pel-'is (this bear)"
+              ],
+              "morph:notes": "Indicates an animate being that is close and visible or known."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Medial Visible/Known (Inanimate)",
+              "morph:marker": "Suffix -en",
+              "morph:examples": [
+                "mater-en (that boat)",
+                "tor-en (that mountain)"
+              ],
+              "morph:notes": "Indicates an inanimate object at a medium distance that is visible or known."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Medial Visible/Known (Animate)",
+              "morph:marker": "Suffix -tan",
+              "morph:examples": [
+                "'al-tan (that person)",
+                "pel-tan (that bear)"
+              ],
+              "morph:notes": "Indicates an animate being at a medium distance that is visible or known."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Medial Hidden but Sensed (Inanimate)",
+              "morph:marker": "Suffix -eth",
+              "morph:examples": [
+                "mater-eth (that boat)",
+                "tor-eth (that mountain)"
+              ],
+              "morph:notes": "Indicates an inanimate object that is not visible but can be sensed."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Medial Hidden but Sensed (Animate)",
+              "morph:marker": "Suffix -thir",
+              "morph:examples": [
+                "'al-thir (that person)",
+                "pel-thir (that bear)"
+              ],
+              "morph:notes": "Indicates an animate being that is not visible but can be sensed."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Distant/Out of Sight (Inanimate)",
+              "morph:marker": "Suffix -um",
+              "morph:examples": [
+                "mater-um (that boat over there)",
+                "tor-um (that mountain over there)"
+              ],
+              "morph:notes": "Indicates an inanimate object that is distant or out of sight."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Distant/Out of Sight (Animate)",
+              "morph:marker": "Suffix -rum",
+              "morph:examples": [
+                "'al-rum (that person over there)",
+                "pel-rum (that bear over there)"
+              ],
+              "morph:notes": "Indicates an animate being that is distant or out of sight."
+            }
+          ],
+          "morph:historicalDevelopment": "The demonstrative system evolved from a simpler Proto-Hick system that gradually elaborated distinctions in animacy, visibility, and distance."
+        },
+        {
+          "@id": "ehkmorph:NumberMarking",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Number Marking",
+          "morph:description": "Early Hick has several strategies for marking number, including prefixes for general plurality, universality, and partitivity.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Plural",
+              "morph:marker": "Prefix ma-",
+              "morph:examples": [
+                "ma-mater (boats)",
+                "ma-'al (people)",
+                "ma-tor (mountains)"
+              ],
+              "morph:notes": "Indicates general plurality."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Universal",
+              "morph:marker": "Prefix masin-",
+              "morph:examples": [
+                "masin-mater (all boats)",
+                "masin-'al (everyone)",
+                "masin-ter (everything)"
+              ],
+              "morph:notes": "Indicates totality or universality. Derived from Proto-Hick *masinu 'complete'."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Partitive",
+              "morph:marker": "Prefix ran-",
+              "morph:examples": [
+                "ran-mater (some boats)",
+                "ran-'al (some people)",
+                "thal-ran-mater (three boats)"
+              ],
+              "morph:notes": "Indicates 'some of' or 'part of'. Derived from Proto-Hick *haranu 'divide'. Also used with numbers."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Exclusive Partitive",
+              "morph:marker": "Prefix telran-",
+              "morph:examples": [
+                "telran-materok (only the handlers)",
+                "telran-'al (only the people)"
+              ],
+              "morph:notes": "Marks exclusivity, specifically excluding others outside the group."
+            }
+          ],
+          "morph:historicalDevelopment": "The number marking system developed from the grammaticalization of independent words indicating quantity or extent."
+        },
+        {
+          "@id": "ehkmorph:SizeAndIntensityMarkers",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Size and Intensity Markers",
+          "morph:description": "Early Hick has prefixes indicating size and intensity.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Diminutive",
+              "morph:marker": "Prefix li-",
+              "morph:examples": [
+                "li-mal (small pool, pond)",
+                "li-ren (small deer, fawn)",
+                "li-nes (small fish, minnow)"
+              ],
+              "morph:notes": "Indicates smallness or lesser degree."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Augmentative",
+              "morph:marker": "Prefix tor-",
+              "morph:examples": [
+                "tor-nes (great fish, whale)",
+                "to-pel (great bear)",
+                "to-mal (great pool, lake)"
+              ],
+              "morph:notes": "Indicates greatness or largeness. Derived from a word meaning 'height, peak'."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Mentative",
+              "morph:marker": "Circumfix tor- -sim",
+              "morph:examples": [
+                "tor-kala-sim (greatly increase dancing)",
+                "tor-fena-sim (greatly increase traveling)"
+              ],
+              "morph:notes": "Indicates a swift change in speed of the action. Combines the augmentative tor- with the translative -sim."
+            }
+          ],
+          "morph:historicalDevelopment": "Size and intensity markers developed from independent lexical items that became grammaticalized."
+        },
+        {
+          "@id": "ehkmorph:PossessionMarking",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Possession Marking",
+          "morph:description": "Early Hick marks possession with a suffix on the possessor noun.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Possessive",
+              "morph:marker": "Suffix -ul",
+              "morph:examples": [
+                "materok-ul rismater (the handler's boat)",
+                "'al-ul mes (the person's heart)"
+              ],
+              "morph:notes": "Marks ownership and possession relationships. Attaches to the possessor noun, with the possessed noun following directly."
+            }
+          ],
+          "morph:historicalDevelopment": "The possessive marking system developed from the grammaticalization of a relationship marker."
+        }
+      ]
+    },
+    {
+      "@id": "ehkmorph:VerbalMorphology",
+      "@type": "morph:MorphologicalSubsystem",
+      "dc:title": "Verbal Morphology",
+      "morph:description": "Early Hick has no true verb class; verbs are formed from nouns and property concepts using a verbalizer suffix. The language marks various moods through specific suffixes.",
+      "morph:categories": [
+        {
+          "@id": "ehkmorph:Verbalizer",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Verbalizer",
+          "morph:description": "Early Hick forms verbs from nouns and property concepts using a verbalizer suffix.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "General Verbalizer",
+              "morph:marker": "Suffix -'er",
+              "morph:examples": [
+                "ter-'er (to flow)",
+                "thren-'er (to watch)",
+                "ward-'er (to guide)"
+              ],
+              "morph:notes": "Creates verbs from nouns and property concepts. If preceded by a plosive, it surfaces as [er]."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Stative Verbalizer",
+              "morph:marker": "Prefix ka- + Suffix -'er",
+              "morph:examples": [
+                "ka-thral-'er (to be sacred)",
+                "ka-mar-'er (to be red)",
+                "ka-kel-'er (to be blue)"
+              ],
+              "morph:notes": "Forms stative verbs from property concepts. The adjectivizer prefix ka- is often used to disambiguate from active verbs."
+            }
+          ],
+          "morph:historicalDevelopment": "The verbalizer developed from a grammaticalized auxiliary or light verb in Proto-Hick."
+        },
+        {
+          "@id": "ehkmorph:VerbalMood",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Verbal Mood",
+          "morph:description": "Early Hick marks certain modal meanings through verbal suffixes that replace the verbalizer -'er.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Volitional",
+              "morph:marker": "Suffix -'arm",
+              "morph:examples": [
+                "ward-'arm (willing to guide)",
+                "thren-'arm (willing to watch)",
+                "tak-'arm (willing to strike)"
+              ],
+              "morph:notes": "Marks intention or willingness. Derived from Proto-Hick *harmu 'willing'. Often appears in ritual contexts and formal pledges."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Desiderative",
+              "morph:marker": "Suffix -nat",
+              "morph:examples": [
+                "imerespnat (want to sleep)",
+                "hilisnat (want to see)"
+              ],
+              "morph:notes": "Marks desire or intention. Derived from Proto-Hick *gnar-ter 'correct-flow'. Preserves the transitivity of the base verb."
+            }
+          ],
+          "morph:historicalDevelopment": "Mood markers developed from the grammaticalization of independent verbs expressing mental states."
+        },
+        {
+          "@id": "ehkmorph:TenseMarking",
+          "@type": "morph:GrammaticalCategory",
+          "dc:title": "Tense Marking",
+          "morph:description": "Early Hick marks tense through clause-initial temporal markers.",
+          "morph:values": [
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Past",
+              "morph:marker": "Clause-initial branum",
+              "morph:examples": [
+                "branum 'ales venitar (The person lifted)",
+                "branum materok-el rismater-las (The handler entered the reed boat)"
+              ],
+              "morph:notes": "Indicates past tense."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Far Past",
+              "morph:marker": "Clause-initial branrum",
+              "morph:examples": [
+                "branrum 'ales venitar (The person lifted long ago)",
+                "branrum materok-el rismater-las (The handler entered the reed boat long ago)"
+              ],
+              "morph:notes": "Indicates distant past tense."
+            },
+            {
+              "@type": "morph:GrammaticalValue",
+              "dc:title": "Future",
+              "morph:marker": "Clause-initial mulsum",
+              "morph:examples": [
+                "mulsum 'ales venitar (The person will lift)",
+                "mulsum materok-el rismater-las (The handler will enter the reed boat)"
+              ],
+              "morph:notes": "Indicates future tense."
+            }
+          ],
+          "morph:historicalDevelopment": "Tense markers developed from temporal adverbs that grammaticalized into clause-initial tense markers."
+        }
+      ]
+    },
+    {
+      "@id": "ehkmorph:DerivationalMorphology",
+      "@type": "morph:MorphologicalSubsystem",
+      "dc:title": "Derivational Morphology",
+      "morph:description": "Early Hick has several productive derivational processes, including similarity marking, negation, and compound formation.",
+      "morph:categories": [
+        {
+          "@id": "ehkmorph:SimilarityMarking",
+          "@type": "morph:DerivationalProcess",
+          "dc:title": "Similarity Marking",
+          "morph:description": "Early Hick forms adjective-like words through a similarity prefix.",
+          "morph:patterns": [
+            {
+              "@type": "morph:DerivationalPattern",
+              "dc:title": "Similarity Prefix",
+              "morph:marker": "Prefix ka-",
+              "morph:examples": [
+                "ka-tor (hill-like, smaller than a mountain)",
+                "ka-mal (pond-like, smaller than a lake)",
+                "ka-bram (tide-like, rhythmic movement)"
+              ],
+              "morph:notes": "Forms adjective-like words indicating similarity. Always surfaces as [kə-] due to regular vowel reduction. Derived from Proto-Hick *kasu with the sense of reflection upon a mirror-like surface."
+            },
+            {
+              "@type": "morph:DerivationalPattern",
+              "dc:title": "Similarity with Translative",
+              "morph:marker": "Prefix ka- + Suffix -sim",
+              "morph:examples": [
+                "ka-mes-sim (becomes heart-like, becomes emotional)",
+                "ka-sul-sim (becomes liver-like, becomes energetic)"
+              ],
+              "morph:notes": "Indicates becoming like the base noun. Can be used intransitively (spontaneous change) or transitively (caused change)."
+            }
+          ],
+          "morph:historicalDevelopment": "The similarity prefix developed from a word meaning 'reflection' that became grammaticalized."
+        },
+        {
+          "@id": "ehkmorph:NegationSystem",
+          "@type": "morph:DerivationalProcess",
+          "dc:title": "Negation System",
+          "morph:description": "Early Hick forms negative concepts through a negation prefix.",
+          "morph:patterns": [
+            {
+              "@type": "morph:DerivationalPattern",
+              "dc:title": "Negation Prefix",
+              "morph:marker": "Prefix mo-",
+              "morph:examples": [
+                "mo-thral (non-sacred, profane)",
+                "mo-ter (not flowing, stagnant)",
+                "mo-ward (misdirect, lead astray)"
+              ],
+              "morph:notes": "Forms negative concepts. General negation prefix."
+            }
+          ],
+          "morph:historicalDevelopment": "The negation prefix developed from a negative particle that became grammaticalized."
+        },
+        {
+          "@id": "ehkmorph:AgentiveNominalization",
+          "@type": "morph:DerivationalProcess",
+          "dc:title": "Agentive Nominalization",
+          "morph:description": "Early Hick forms agent nouns through a specific suffix.",
+          "morph:patterns": [
+            {
+              "@type": "morph:DerivationalPattern",
+              "dc:title": "Agentive Nominalizer",
+              "morph:marker": "Suffix -ok",
+              "morph:examples": [
+                "mater-ok (boatman, one who works with vessels)",
+                "ward-ok (guide, one who directs)",
+                "thren-ok (watcher, one who watches)"
+              ],
+              "morph:notes": "Forms agent nouns, both occupational and active."
+            }
+          ],
+          "morph:historicalDevelopment": "The agentive nominalizer developed from a noun meaning 'person' that became grammaticalized."
+        },
+        {
+          "@id": "ehkmorph:CompoundFormation",
+          "@type": "morph:DerivationalProcess",
+          "dc:title": "Compound Formation",
+          "morph:description": "Early Hick forms compounds following specific phonological patterns.",
+          "morph:patterns": [
+            {
+              "@type": "morph:DerivationalPattern",
+              "dc:title": "Basic Compound",
+              "morph:marker": "Juxtaposition with sound changes",
+              "morph:examples": [
+                "tor-mal → tomal (great pool, lake - liquid deletion)",
+                "bram-mal → bramal (tidal pool - nasal deletion)",
+                "kur-tin → kurtin (bronze - copper-tin)"
+              ],
+              "morph:notes": "Forms compounds with modifier-head pattern. Various sound changes apply: liquid deletion, nasal deletion, etc."
+            },
+            {
+              "@type": "morph:DerivationalPattern",
+              "dc:title": "Action Nominal Compound",
+              "morph:marker": "Juxtaposition with verbalizer -'er",
+              "morph:examples": [
+                "mater-tag'er (boat-building)",
+                "pel-thren'er (bear-watching)"
+              ],
+              "morph:notes": "Forms action nominal compounds. Unlike regular compounds, these preserve morphological boundaries and resist normal compound phonology."
+            }
+          ],
+          "morph:historicalDevelopment": "Compound formation patterns developed from syntactic constructions that became morphologized."
+        }
+      ]
+    }
+  ]
+}

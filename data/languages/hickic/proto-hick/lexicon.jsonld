@@ -1,0 +1,1397 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "phk": "https://bastion-falls.thekennel.info/languages/hickic/proto-hick/lexicon/",
+    "ehk": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/lexicon/",
+    "vad": "http://www.lexvo.org/page/iso639-3/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#"
+  },
+  "@id": "lexicon:ProtoHick",
+  "@type": "lime:Lexicon",
+  "dc:title": "Proto-Hick Lexicon",
+  "dc:language": {
+    "@id": "bf:hickic/proto-hick",
+    "@type": "lime:Language",
+    "lime:language": "phk",
+    "skos:prefLabel": "Proto-Hick",
+    "dcterms:temporal": "c. 400-600 AI",
+    "dcterms:spatial": "Central Bastion Falls region"
+  },
+  "@graph": [
+    {
+      "@id": "phk:heru",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "heru",
+        "phoneticRep": "he.ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "action",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "note": "Source of Early Hick 'ir and verbalizer suffix -'er"
+    },
+    {
+      "@id": "phk:taku",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "taku",
+        "phoneticRep": "ta.ku"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "strike, impact",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Action Terms"
+        }
+      ],
+      "note": "Onomatopoeic origin. Source of Early Hick tak"
+    },
+    {
+      "@id": "phk:xasamu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun" 
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "xasamu",
+        "phoneticRep": "xa.sa.mu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rest, resting place",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "note": "Source of Early Hick asam and subessive case marker -asam"
+    },
+    {
+      "@id": "phk:baha",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "baha",
+        "phoneticRep": "ba.ha"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rhythmic head motion",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Motion Terms"
+        }
+      ],
+      "note": "Source of Early Hick ba \"nod, agree\""
+    },
+    {
+      "@id": "phk:haka",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Interrogative"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "haka",
+        "phoneticRep": "ha.ka"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "what",
+            "@language": "en" 
+          },
+          "lexinfo:semanticField": "Interrogatives"
+        }
+      ],
+      "note": "Basic question root, shows archaic animacy marking. Source of Early Hick 'aka"
+    },
+    {
+      "@id": "phk:hihalu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hi-halu",
+        "phoneticRep": "hi.ha.lu"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "phk:hi"
+        },
+        {
+          "@id": "phk:halu"
+        }
+      ],
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "good, kind",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "note": "Shows animacy prefix hi-. Source of Early Hick 'il"
+    },
+    {
+      "@id": "phk:venu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "venu",
+        "phoneticRep": "ve.nu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "yoke, burden",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "note": "Source of Early Hick ven and vin \"pregnancy\""
+    },
+    {
+      "@id": "phk:storu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "storu",
+        "phoneticRep": "sto.ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grow; and",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Conjunctions"
+          ]
+        }
+      ],
+      "note": "Source of Early Hick ru \"and\" through grammaticalization"
+    },
+    {
+      "@id": "phk:takutaku",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takutaku",
+        "phoneticRep": "ta.ku.ta.ku"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "phk:taku"
+        },
+        {
+          "@id": "phk:taku"
+        }
+      ],
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rhythm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "note": "Onomatopoeic reduplication. Source of Early Hick takutak"
+    },
+    {
+      "@id": "phk:risu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "risu",
+        "phoneticRep": "ri.su"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "reed",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick ris"
+    },
+    {
+      "@id": "phk:wudu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wudu",
+        "phoneticRep": "wu.du"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wood, tree",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick wud"
+    },
+    {
+      "@id": "phk:grasu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "grasu",
+        "phoneticRep": "gra.su"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grass",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick gras"
+    },
+    {
+      "@id": "phk:sedu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sedu",
+        "phoneticRep": "se.du"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "seed",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick sed"
+    },
+    {
+      "@id": "phk:kelu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kelu",
+        "phoneticRep": "ke.lu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "leaf",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick kel"
+    },
+    {
+      "@id": "phk:bahuluharanu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bahu lu-haranu",
+        "phoneticRep": "ba.hu lu.ha.ra.nu"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "phk:bahu"
+        },
+        {
+          "@id": "phk:lu"
+        },
+        {
+          "@id": "phk:haranu"
+        }
+      ],
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "branch",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Literally \"split from father\". Source of Early Hick bran"
+    },
+    {
+      "@id": "phk:hasa",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hasa",
+        "phoneticRep": "ha.sa"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "vine",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick asa"
+    },
+    {
+      "@id": "phk:wenu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wenu",
+        "phoneticRep": "we.nu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "flower",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora"
+        }
+      ],
+      "note": "Source of Early Hick wen"
+    },
+    {
+      "@id": "phk:tagu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tagu",
+        "phoneticRep": "ta.gu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hand",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick tag"
+    },
+    {
+      "@id": "phk:melisu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "melisu",
+        "phoneticRep": "me.li.su"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "heart",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick mes"
+    },
+    {
+      "@id": "phk:daluku",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "daluku",
+        "phoneticRep": "da.lu.ku"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stomach, gut",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick dak"
+    },
+    {
+      "@id": "phk:piru",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "piru",
+        "phoneticRep": "pi.ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick pir"
+    },
+    {
+      "@id": "phk:ahi",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ahi",
+        "phoneticRep": "a.hi"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Natural Elements"
+        }
+      ],
+      "note": "Source of Early Hick ai"
+    },
+    {
+      "@id": "phk:bahu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bahu",
+        "phoneticRep": "ba.hu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "father",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ],
+      "note": "Source of Early Hick ba"
+    },
+    {
+      "@id": "phk:nahi",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nahi",
+        "phoneticRep": "na.hi"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mother",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ],
+      "note": "Source of Early Hick nai"
+    },
+    {
+      "@id": "phk:xalu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "xalu",
+        "phoneticRep": "xa.lu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "natural rock",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural Elements",
+            "Natural World"
+          ]
+        }
+      ],
+      "note": "Source of Early Hick al"
+    },
+    {
+      "@id": "phk:haranu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "haranu",
+        "phoneticRep": "ha.ra.nu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "part, piece",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick arn"
+    },
+    {
+      "@id": "phk:lu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adposition"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lu",
+        "phoneticRep": "lu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "from, of",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Ablative preposition, source of Early Hick l-"
+    },
+    {
+      "@id": "phk:na",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adposition"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "na",
+        "phoneticRep": "na"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to, towards",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Allative preposition, source of Early Hick n-"
+    },
+    {
+      "@id": "phk:pu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adposition"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "pu",
+        "phoneticRep": "pu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "with, by means of",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Instrumental preposition, source of Early Hick p-"
+    },
+    {
+      "@id": "phk:ki",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ki",
+        "phoneticRep": "ki"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to do, to make",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick ki"
+    },
+    {
+      "@id": "phk:ha",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ha",
+        "phoneticRep": "ha"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to be, to exist",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick a"
+    },
+    {
+      "@id": "phk:ma",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ma",
+        "phoneticRep": "ma"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to go",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick ma"
+    },
+    {
+      "@id": "phk:tala",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tala",
+        "phoneticRep": "ta.la"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to take, to grasp",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick tal"
+    },
+    {
+      "@id": "phk:duxu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "duxu",
+        "phoneticRep": "du.xu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to see, to look",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick du"
+    },
+    {
+      "@id": "phk:ku",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ku",
+        "phoneticRep": "ku"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "I, me (first person singular)",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick ku"
+    },
+    {
+      "@id": "phk:su",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "su",
+        "phoneticRep": "su"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "you (second person singular)",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick su"
+    },
+    {
+      "@id": "phk:nu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nu",
+        "phoneticRep": "nu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "he/she/it (third person singular)",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick nu"
+    },
+    {
+      "@id": "phk:kuma",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kuma",
+        "phoneticRep": "ku.ma"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "we (first person plural)",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick kum"
+    },
+    {
+      "@id": "phk:suma",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "suma",
+        "phoneticRep": "su.ma"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "you all (second person plural)",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick sum"
+    },
+    {
+      "@id": "phk:numa",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "numa",
+        "phoneticRep": "nu.ma"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "they (third person plural)",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick num"
+    },
+    {
+      "@id": "phk:karu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "karu",
+        "phoneticRep": "ka.ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "big, large",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick kar"
+    },
+    {
+      "@id": "phk:miku",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "miku",
+        "phoneticRep": "mi.ku"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "small, little",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick mik"
+    },
+    {
+      "@id": "phk:taru",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "taru",
+        "phoneticRep": "ta.ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "good, well",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick tar"
+    },
+    {
+      "@id": "phk:sini",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sini",
+        "phoneticRep": "si.ni"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bad, evil",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick sin"
+    },
+    {
+      "@id": "phk:hutu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hutu",
+        "phoneticRep": "hu.tu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "head",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick ut"
+    },
+    {
+      "@id": "phk:gada",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gada",
+        "phoneticRep": "ga.da"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "eye",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick gad"
+    },
+    {
+      "@id": "phk:maxi",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "maxi",
+        "phoneticRep": "ma.xi"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mouth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick ma"
+    },
+    {
+      "@id": "phk:lemi",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lemi",
+        "phoneticRep": "le.mi"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "arm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick lem"
+    },
+    {
+      "@id": "phk:hapa",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hapa",
+        "phoneticRep": "ha.pa"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "foot, leg",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ],
+      "note": "Source of Early Hick ap"
+    },
+    {
+      "@id": "phk:saru",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "saru",
+        "phoneticRep": "sa.ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sky, heaven",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Natural World"
+        }
+      ],
+      "note": "Source of Early Hick sar"
+    },
+    {
+      "@id": "phk:delu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "delu",
+        "phoneticRep": "de.lu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earth, ground",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Natural World"
+        }
+      ],
+      "note": "Source of Early Hick del"
+    },
+    {
+      "@id": "phk:hada",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hada",
+        "phoneticRep": "ha.da"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to give",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick ad"
+    },
+    {
+      "@id": "phk:xana",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "xana",
+        "phoneticRep": "xa.na"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to speak, to say",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick an"
+    },
+    {
+      "@id": "phk:madu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "madu",
+        "phoneticRep": "ma.du"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "new, young",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick mad"
+    },
+    {
+      "@id": "phk:palu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "palu",
+        "phoneticRep": "pa.lu"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "old, ancient",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick pal"
+    },
+    {
+      "@id": "phk:kisa",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kisa",
+        "phoneticRep": "ki.sa"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "child, offspring",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ],
+      "note": "Source of Early Hick kis"
+    },
+    {
+      "@id": "phk:tila",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tila",
+        "phoneticRep": "ti.la"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "one",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick til"
+    },
+    {
+      "@id": "phk:duka",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "duka",
+        "phoneticRep": "du.ka"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "two",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick duk"
+    },
+    {
+      "@id": "phk:hesu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hesu",
+        "phoneticRep": "he.su"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "three",
+            "@language": "en"
+          }
+        }
+      ],
+      "note": "Source of Early Hick es"
+    }
+  ]
+}

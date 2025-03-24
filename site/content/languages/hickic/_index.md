@@ -3,7 +3,7 @@ title = "Hickic"
 sort_by = "weight"
 +++
 
-The Hick language family is a group of related languages spoken in Senera. By
+The Hickic language family is a group of related languages spoken in Senera. By
 the time of the Fall of the Kalassarian Empire, the Hick languages were
 supplanted by Classical Kalassarian. However, even during this time, local
 speakers of Hick languages continued to use their languages in everyday life.

@@ -1,0 +1,569 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "prehick": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/pre-lexicon/",
+    "ehk": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "ehketym": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/etymology/"
+  },
+  "@id": "ehketym:PrehickToEhk",
+  "@type": "baety:EtymologyCollection",
+  "dc:title": "Pre-Hick to Early Hick Etymology",
+  "dc:description": "Documentation of sound changes from Pre-Hick to Early Hick (Stage 5)",
+  "dcterms:created": "1275-05-01",
+  "baety:sourceLanguage": {
+    "@id": "bf:hickic/seneran/early-hick/pre",
+    "skos:prefLabel": "Pre-Hick"
+  },
+  "baety:targetLanguage": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "baety:majorSoundChanges": [
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Vowel coalescence",
+      "baety:soundChangeRule": "@vowel {h,l} => @vowel * / _ @vowel",
+      "baety:example": "ˈmaho → ˈmao, ˈʔali → ˈʔai",
+      "baety:notes": "The consonants [h] and [l] were dropped between vowels, causing vowel sequences"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Complex coda simplification",
+      "baety:soundChangeRule": "[sonorant] => * / _ [consonant]$",
+      "baety:example": "ˈkarn → ˈkar, ˈsint → ˈsit",
+      "baety:notes": "Sonorants (nasals, liquids) were dropped before word-final consonants"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Glottal stop dropping",
+      "baety:soundChangeRule": "ʔ => * / @vowel _ @vowel",
+      "baety:example": "ˈbaʔa → ˈbaa → ˈba",
+      "baety:notes": "Glottal stops were dropped between vowels, often resulting in long vowels that later shortened"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ehketym:hir",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:hir"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:hir"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:tak",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tak"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:tak"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:asəm",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:asəm"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:asəm"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:baʔ",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ba"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:baʔ"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping at word end: ˈbaʔ → ˈba (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "While not between vowels, word-final glottal stops were also dropped in this period"
+    },
+    {
+      "@id": "ehketym:ak",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ak"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:ak"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:ʔiʔal",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ʔial"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:ʔiʔal"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈʔiʔal → ˈʔial (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:ven",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ven"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:ven"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:stor",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:stor"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:stor"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:baʔəʔaran",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:baəaran"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:baʔəʔaran"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: baˈʔəʔaran → baˈəaran (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "Both glottal stops were dropped, resulting in vowel sequences"
+    },
+    {
+      "@id": "ehketym:melis",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:melis"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:melis"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:dalug",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:dalug"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:dalug"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:aʔi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ai"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:aʔi"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈaʔi → ˈai (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop drops between vowels, creating the diphthong [ai]"
+    },
+    {
+      "@id": "ehketym:θiven",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:θiven"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:θiven"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:au",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:au"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:au"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:sin",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sin"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:sin"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:ʔidag",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ʔidag"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:ʔidag"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:enga",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:enga"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:enga"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI"
+    },
+    {
+      "@id": "ehketym:malni",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:mani"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:malni"
+      },
+      "baety:soundChangeApplied": [
+        "Vowel coalescence: ˈmalni → ˈmani (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The [l] was dropped between vowels, merging the syllables"
+    },
+    {
+      "@id": "ehketym:kalva",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kava"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:kalva"
+      },
+      "baety:soundChangeApplied": [
+        "Vowel coalescence: ˈkalva → ˈkava (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The [l] was dropped before another consonant, simplifying the syllable structure"
+    },
+    {
+      "@id": "ehketym:holda",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:hoda"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:holda"
+      },
+      "baety:soundChangeApplied": [
+        "Complex coda simplification: ˈholda → ˈhoda (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The [l] was dropped before [d], simplifying the consonant cluster"
+    },
+    {
+      "@id": "ehketym:maʔol",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:maol"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:maʔol"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈmaʔol → ˈmaol (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop drops between vowels, creating a vowel sequence"
+    },
+    {
+      "@id": "ehketym:hiʔu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:hiu"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:hiʔu"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈhiʔu → ˈhiu (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped between high vowels, creating a diphthong"
+    },
+    {
+      "@id": "ehketym:ʔaʔuk",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ʔauk"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:ʔaʔuk"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈʔaʔuk → ˈʔauk (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The medial glottal stop is dropped, creating a diphthong"
+    },
+    {
+      "@id": "ehketym:kaʔna",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kana"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:kaʔna"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈkaʔna → ˈkana (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped, simplifying the syllable structure"
+    },
+    {
+      "@id": "ehketym:tiʔnu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tinu"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:tiʔnu"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈtiʔnu → ˈtinu (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped between vowel and nasal"
+    },
+    {
+      "@id": "ehketym:tahli",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tai"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:tahli"
+      },
+      "baety:soundChangeApplied": [
+        "Vowel coalescence (h-dropping): ˈtahli → ˈtali (h → *)",
+        "Vowel coalescence (l-dropping): ˈtali → ˈtai (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "Shows two-step vowel coalescence: first h is lost, then l is lost between vowels"
+    },
+    {
+      "@id": "ehketym:palmi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:pami"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:palmi"
+      },
+      "baety:soundChangeApplied": [
+        "Complex coda simplification: ˈpalmi → ˈpami (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The liquid [l] is dropped before another consonant, simplifying the complex coda"
+    },
+    {
+      "@id": "ehketym:sanθa",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:saθa"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:sanθa"
+      },
+      "baety:soundChangeApplied": [
+        "Complex coda simplification: ˈsanθa → ˈsaθa (n → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The nasal [n] is dropped before the fricative, simplifying the complex coda"
+    },
+    {
+      "@id": "ehketym:kontir",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kotir"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:kontir"
+      },
+      "baety:soundChangeApplied": [
+        "Complex coda simplification: ˈkontir → ˈkotir (n → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The nasal [n] is dropped before [t], simplifying the consonant cluster"
+    },
+    {
+      "@id": "ehketym:halkam",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:hakam"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:halkam"
+      },
+      "baety:soundChangeApplied": [
+        "Complex coda simplification: ˈhalkam → ˈhakam (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The liquid [l] is dropped before [k], simplifying the consonant cluster"
+    },
+    {
+      "@id": "ehketym:daʔir",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:dair"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:daʔir"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈdaʔir → ˈdair (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped between vowels, creating a diphthong"
+    },
+    {
+      "@id": "ehketym:siʔor",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sior"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:siʔor"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈsiʔor → ˈsior (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped between vowels, creating a vowel sequence"
+    },
+    {
+      "@id": "ehketym:melʔam",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:melam"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:melʔam"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈmelʔam → ˈmelam (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped after a liquid"
+    },
+    {
+      "@id": "ehketym:tamʔu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tamu"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:tamʔu"
+      },
+      "baety:soundChangeApplied": [
+        "Glottal stop dropping: ˈtamʔu → ˈtamu (ʔ → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The glottal stop is dropped after a nasal"
+    },
+    {
+      "@id": "ehketym:velhun",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:vehun"
+      },
+      "baety:sourceForm": {
+        "@id": "prehick:velhun"
+      },
+      "baety:soundChangeApplied": [
+        "Vowel coalescence: ˈvelhun → ˈvehun (l → *)"
+      ],
+      "baety:hasPeriod": "c. 700-800 AI",
+      "baety:hasEtymologicalNote": "The liquid [l] is dropped between a vowel and [h]"
+    }
+  ]
+} 

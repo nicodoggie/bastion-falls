@@ -1,0 +1,521 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "pshk": "https://bastion-falls.thekennel.info/languages/hickic/seneran/lexicon/",
+    "prehick": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/pre-lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "prhketym": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/etymology/"
+  },
+  "@id": "prhketym:PshkToPrehick",
+  "@type": "baety:EtymologyCollection",
+  "dc:title": "Proto-Seneran Hickic to Pre-Hick Etymology",
+  "dc:description": "Documentation of sound changes from Proto-Seneran Hickic to Pre-Hick (Stage 4)",
+  "dcterms:created": "1275-05-01",
+  "baety:sourceLanguage": {
+    "@id": "bf:hickic/seneran",
+    "skos:prefLabel": "Proto-Seneran Hickic"
+  },
+  "baety:targetLanguage": {
+    "@id": "bf:hickic/seneran/early-hick/pre",
+    "skos:prefLabel": "Pre-Hick"
+  },
+  "baety:majorSoundChanges": [
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Initial h-dropping (Low vowels)",
+      "baety:soundChangeRule": "h → * / $ _ @vowel&![+high]",
+      "baety:example": "ˈhak → ˈak, ˈhau → ˈau",
+      "baety:notes": "Word-initial [h] was dropped before non-high vowels"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Animacy prefix reanalysis",
+      "baety:soundChangeRule": "hi → ʔi / $ _ {[+high], @consonant&![glottal stop]}",
+      "baety:example": "hiˈdag → ʔiˈdag, hiʔal → ʔiʔal",
+      "baety:notes": "Initial [hi] became [ʔi] before high vowels or consonants (except glottal stop)"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Post-nasal stop voicing",
+      "baety:soundChangeRule": "[stop, -voice] → [+voice] / [nasal] _",
+      "baety:example": "ˈmenta → ˈmenda, ˈtunka → ˈtunga",
+      "baety:notes": "Voiceless stops became voiced after nasals"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "prhketym:hir",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:hir"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hir"
+      },
+      "baety:soundChangeApplied": [
+        "No change: [h] remains before high vowel [i]"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:tak",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:tak"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:tak"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No initial [h] to drop"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hasəm",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:asəm"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hasəm"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhasəm → ˈasəm (h → *)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:baʔ",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:baʔ"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:baʔ"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No initial [h] to drop"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hak",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ak"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hak"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhak → ˈak (h → *)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hiʔal",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ʔiʔal"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hiʔal"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reanalysis: hiˈʔal → ʔiˈʔal (hi → ʔi)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The morpheme 'hi' became reanalyzed as the animacy prefix 'ʔi-'"
+    },
+    {
+      "@id": "prhketym:ven",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ven"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:ven"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No initial [h] to drop"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:stor",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:stor"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:stor"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:baʔəʔaran",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:baʔəʔaran"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:baʔəʔaran"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:melis",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:melis"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:melis"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:dalug",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:dalug"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:dalug"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:aʔi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:aʔi"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:aʔi"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:θiven",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:θiven"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:θiven"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hau",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:au"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hau"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhau → ˈau (h → *)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The [h] is dropped because [a] is a low vowel"
+    },
+    {
+      "@id": "prhketym:sin",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:sin"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:sin"
+      },
+      "baety:soundChangeApplied": [
+        "No change: No sound changes applying"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hidag",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ʔidag"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hidag"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reanalysis: hiˈdag → ʔiˈdag (hi → ʔi)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The morpheme 'hi' became reanalyzed as the animacy prefix 'ʔi-'"
+    },
+    {
+      "@id": "prhketym:henka",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:enga"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:henka"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhenka → ˈenka (h → *)",
+        "Post-nasal stop voicing: ˈenka → ˈenga (k → g)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "Shows both initial h-dropping and post-nasal stop voicing"
+    },
+    {
+      "@id": "prhketym:hamta",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:amda"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hamta"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhamta → ˈamta (h → *)",
+        "Post-nasal stop voicing: ˈamta → ˈamda (t → d)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "Shows both initial h-dropping and post-nasal stop voicing"
+    },
+    {
+      "@id": "prhketym:helta",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:helta"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:helta"
+      },
+      "baety:soundChangeApplied": [
+        "No change: [h] remains before high vowel [e]"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The [e] was analyzed as a high vowel in this context, preserving the initial [h]"
+    },
+    {
+      "@id": "prhketym:haska",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:aska"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:haska"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhaska → ˈaska (h → *)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:honti",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ondi"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:honti"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhonti → ˈonti (h → *)",
+        "Post-nasal stop voicing: ˈonti → ˈondi (t → d)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:huntu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:huntu"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:huntu"
+      },
+      "baety:soundChangeApplied": [
+        "No change: [h] remains before high vowel [u]"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hinku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ʔinku"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hinku"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reanalysis: ˈhinku → ˈʔinku (hi → ʔi)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The morpheme 'hi' before a consonant was reanalyzed as the animacy prefix 'ʔi-'"
+    },
+    {
+      "@id": "prhketym:kimpa",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:kimba"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:kimpa"
+      },
+      "baety:soundChangeApplied": [
+        "Post-nasal stop voicing: ˈkimpa → ˈkimba (p → b)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "Shows post-nasal stop voicing with a bilabial stop"
+    },
+    {
+      "@id": "prhketym:lanta",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:landa"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:lanta"
+      },
+      "baety:soundChangeApplied": [
+        "Post-nasal stop voicing: ˈlanta → ˈlanda (t → d)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:tunka",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:tunga"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:tunka"
+      },
+      "baety:soundChangeApplied": [
+        "Post-nasal stop voicing: ˈtunka → ˈtunga (k → g)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:himur",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ʔimur"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:himur"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reanalysis: hiˈmur → ʔiˈmur (hi → ʔi)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The initial sequence 'hi' was reanalyzed as the animacy marker 'ʔi-'"
+    },
+    {
+      "@id": "prhketym:hindi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ʔindi"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hindi"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reanalysis: ˈhindi → ˈʔindi (hi → ʔi)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    },
+    {
+      "@id": "prhketym:hita",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ʔita"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hita"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reanalysis: ˈhita → ˈʔita (hi → ʔi)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "Even though 'hita' was not originally an animate term, the 'hi' sequence was reinterpreted as the animacy prefix"
+    },
+    {
+      "@id": "prhketym:havu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:avu"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:havu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhavu → ˈavu (h → *)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "The [a] is a low vowel, triggering h-dropping"
+    },
+    {
+      "@id": "prhketym:hanpal",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:ambal"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:hanpal"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ˈhanpal → ˈanpal (h → *)",
+        "Post-nasal stop voicing: ˈanpal → ˈambal (p → b)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI",
+      "baety:hasEtymologicalNote": "Shows both initial h-dropping and post-nasal voicing with assimilation of the nasal to [m] before [b]"
+    },
+    {
+      "@id": "prhketym:simta",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "prehick:simda"
+      },
+      "baety:sourceForm": {
+        "@id": "pshk:simta"
+      },
+      "baety:soundChangeApplied": [
+        "Post-nasal stop voicing: ˈsimta → ˈsimda (t → d)"
+      ],
+      "baety:hasPeriod": "c. 600-700 AI"
+    }
+  ]
+} 

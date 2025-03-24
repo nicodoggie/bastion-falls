@@ -1,0 +1,249 @@
+{
+  "@context": {
+    "@vocab": "https://bastion-falls.thekennel.info/ontologies/phonology#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "baphon": "https://bastion-falls.thekennel.info/ontologies/phonology#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#"
+  },
+  "@graph": [
+    {
+      "@id": "SoundChange",
+      "@type": "owl:Class",
+      "rdfs:label": "Sound Change",
+      "rdfs:comment": "Base class for phonological processes in diachronic linguistics"
+    },
+    {
+      "@id": "Elision",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Elision",
+      "rdfs:comment": "The deletion of a sound in a specific environment"
+    },
+    {
+      "@id": "Epenthesis",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Epenthesis",
+      "rdfs:comment": "The insertion of a sound in a specific environment"
+    },
+    {
+      "@id": "Metathesis",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Metathesis",
+      "rdfs:comment": "The transposition of sounds or syllables within a word"
+    },
+    {
+      "@id": "Assimilation",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Assimilation",
+      "rdfs:comment": "A sound becoming more similar to a neighboring sound"
+    },
+    {
+      "@id": "Dissimilation",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Dissimilation", 
+      "rdfs:comment": "A sound becoming less similar to a neighboring sound"
+    },
+    {
+      "@id": "Lenition",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Lenition",
+      "rdfs:comment": "Weakening of a sound, typically in intervocalic positions"
+    },
+    {
+      "@id": "Fortition",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Fortition",
+      "rdfs:comment": "Strengthening of a sound, typically in word-initial positions"
+    },
+    {
+      "@id": "Palatalization",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Palatalization",
+      "rdfs:comment": "Shifting of place of articulation toward the palate"
+    },
+    {
+      "@id": "Labialization",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Labialization",
+      "rdfs:comment": "Addition of lip rounding to a sound"
+    },
+    {
+      "@id": "CompensatoryLengthening",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Compensatory Lengthening",
+      "rdfs:comment": "Lengthening of a sound (usually a vowel) to compensate for the loss of another sound"
+    },
+    {
+      "@id": "Vocalic",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Vocalic Change",
+      "rdfs:comment": "Change affecting vowels specifically"
+    },
+    {
+      "@id": "Consonantal",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "SoundChange",
+      "rdfs:label": "Consonantal Change",
+      "rdfs:comment": "Change affecting consonants specifically"
+    },
+    {
+      "@id": "SoundChangeProcess",
+      "@type": "owl:Class",
+      "rdfs:label": "Sound Change Process",
+      "rdfs:comment": "A collection of related sound changes that form a cohesive process"
+    },
+    {
+      "@id": "Formalism",
+      "@type": "owl:Class",
+      "rdfs:label": "Rule Formalism",
+      "rdfs:comment": "A notation system for expressing sound changes"
+    },
+    {
+      "@id": "RuleExpression",
+      "@type": "owl:Class",
+      "rdfs:label": "Rule Expression",
+      "rdfs:comment": "A formal expression of a sound change rule in a specific notation"
+    },
+    {
+      "@id": "SoundChangeExample",
+      "@type": "owl:Class",
+      "rdfs:label": "Sound Change Example",
+      "rdfs:comment": "An example of a sound change showing original and resulting forms"
+    },
+    {
+      "@id": "LexurgyNotation",
+      "@type": "Formalism",
+      "rdfs:label": "Lexurgy Notation",
+      "rdfs:comment": "Sound change notation as used in the Lexurgy SC software"
+    },
+    {
+      "@id": "SPENotation",
+      "@type": "Formalism",
+      "rdfs:label": "SPE Notation",
+      "rdfs:comment": "Sound change notation from Sound Pattern of English (Chomsky & Halle)"
+    },
+    {
+      "@id": "affectsSegment",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:label": "Affects Segment",
+      "rdfs:comment": "The phonological segment affected by the sound change"
+    },
+    {
+      "@id": "yieldsSegment",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:label": "Yields Segment",
+      "rdfs:comment": "The phonological segment resulting from the sound change"
+    },
+    {
+      "@id": "hasEnvironment",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Environment",
+      "rdfs:comment": "The phonological environment in which the sound change occurs"
+    },
+    {
+      "@id": "hasPeriod",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Historical Period",
+      "rdfs:comment": "The historical period during which the sound change occurred"
+    },
+    {
+      "@id": "formalRule",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:range": "RuleExpression",
+      "rdfs:label": "Formal Rule",
+      "rdfs:comment": "Formal representation of the sound change rule"
+    },
+    {
+      "@id": "hasExample",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:range": "SoundChangeExample",
+      "rdfs:label": "Example",
+      "rdfs:comment": "Example showing the sound change in action"
+    },
+    {
+      "@id": "triggersChange",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChange",
+      "rdfs:range": "SoundChange",
+      "rdfs:label": "Triggers Change",
+      "rdfs:comment": "Indicates that this sound change triggers another sound change"
+    },
+    {
+      "@id": "consistsOf",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChangeProcess",
+      "rdfs:range": "SoundChange",
+      "rdfs:label": "Consists Of",
+      "rdfs:comment": "The individual sound changes that make up a process"
+    },
+    {
+      "@id": "usesFormalism",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "RuleExpression",
+      "rdfs:range": "Formalism",
+      "rdfs:label": "Uses Formalism",
+      "rdfs:comment": "The formalism used to express the rule"
+    },
+    {
+      "@id": "expression",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "RuleExpression",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Expression",
+      "rdfs:comment": "The actual rule expression in the chosen formalism"
+    },
+    {
+      "@id": "order",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "RuleExpression",
+      "rdfs:range": "xsd:integer",
+      "rdfs:label": "Order",
+      "rdfs:comment": "The order in which rules should be applied (lower numbers apply first)"
+    },
+    {
+      "@id": "originalForm",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SoundChangeExample",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Original Form",
+      "rdfs:comment": "The form before the sound change"
+    },
+    {
+      "@id": "resultingForm",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SoundChangeExample",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Resulting Form",
+      "rdfs:comment": "The form after the sound change"
+    },
+    {
+      "@id": "gloss",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SoundChangeExample",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Gloss",
+      "rdfs:comment": "The meaning of the example word"
+    }
+  ]
+}

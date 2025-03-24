@@ -1,0 +1,193 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "ehksound": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/sound-symbolism/",
+    "phon": "https://bastion-falls.thekennel.info/ontology/phonology#"
+  },
+  "@id": "ehksound:EarlyHickSoundSymbolism",
+  "@type": "phon:SoundSymbolismCollection",
+  "dc:title": "Early Hick Sound Symbolism Patterns",
+  "dc:description": "Documentation of systematic sound-meaning associations in Early Hick",
+  "dcterms:created": "1275-05-10",
+  "phon:culturalContext": "Early Hick developed systematic associations between certain sounds and semantic domains. These patterns emerged partly from random historical developments and partly from cognitive associations. Sound symbolism influenced word creation, particularly for novel items, and became increasingly productive during the Early Hick period (950-1200 AI).",
+  "@graph": [
+    {
+      "@id": "ehksound:InitialVoicelessStops",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Word-initial voiceless stops [p], [t], [k]",
+      "phon:semanticDomain": "Stability, firmness, permanence",
+      "phon:description": "Words beginning with voiceless stops often denote objects or concepts characterized by stability or permanence. This pattern became increasingly productive for new coinages.",
+      "phon:examples": [
+        "tak (earth)",
+        "por (stone)",
+        "kal (mountain)",
+        "tim (house)",
+        "kus (strong)",
+        "pan (wall)"
+      ],
+      "phon:historicalDevelopment": "This pattern likely originated from the high frequency of stable, concrete nouns that historically began with voiceless stops in Proto-Hick.",
+      "phon:productivity": "Highly productive in word formation by 1000 AI, with new artifacts often deliberately named using this pattern."
+    },
+    {
+      "@id": "ehksound:InitialFricatives",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Word-initial fricatives [s], [f], [θ]",
+      "phon:semanticDomain": "Movement, flow, transience",
+      "phon:description": "Words beginning with fricatives frequently denote concepts involving movement, flow, or changing states. This became a conscious pattern recognized by Early Hick speakers.",
+      "phon:examples": [
+        "sin (child, growing being)",
+        "fal (river)",
+        "sav (wind)",
+        "θur (cloud)",
+        "fen (journey)",
+        "sil (bird)"
+      ],
+      "phon:historicalDevelopment": "This association developed as many motion-related terms coincidentally began with fricatives after the loss of initial [h] in certain environments.",
+      "phon:productivity": "Moderately productive, with observable patterns in nature terminology."
+    },
+    {
+      "@id": "ehksound:InitialGlottalStop",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Word-initial glottal stop [ʔ]",
+      "phon:semanticDomain": "Animacy, life force, sentience",
+      "phon:description": "Words beginning with glottal stops often indicate living beings or concepts associated with animacy. This pattern emerged from the reanalysis of the original 'hi-' prefix.",
+      "phon:examples": [
+        "ʔim (person)",
+        "ʔial (star, believed to be living)",
+        "ʔin (animal)",
+        "ʔid (spirit)",
+        "ʔaf (tree)",
+        "ʔur (deity)"
+      ],
+      "phon:historicalDevelopment": "This pattern emerged directly from the phonological change where [hi] became [ʔi] word-initially. The original 'hi-' prefix marked animacy in Proto-Hick, and the glottal stop inherited this semantic association.",
+      "phon:productivity": "Highly productive, with new animate beings consistently following this pattern."
+    },
+    {
+      "@id": "ehksound:HighVowels",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "High vowels [i], [u]",
+      "phon:semanticDomain": "Smallness, precision, sharpness",
+      "phon:description": "Words containing high vowels [i] and [u] frequently denote small objects, precise actions, or sharp sensations. This pattern influenced diminutive formations.",
+      "phon:examples": [
+        "pik (needle)",
+        "sit (small stone)",
+        "kuli (knife)",
+        "tin (point)",
+        "nur (spark)",
+        "miku (detail)"
+      ],
+      "phon:historicalDevelopment": "This association may have cognitive origins similar to those found cross-linguistically, where high frequency sounds correlate with perceptions of smallness.",
+      "phon:productivity": "Highly productive, particularly in diminutive formations and tool naming."
+    },
+    {
+      "@id": "ehksound:LowVowels",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Low vowels [a], [o]",
+      "phon:semanticDomain": "Largeness, power, breadth",
+      "phon:description": "Words containing the low vowels [a] and [o] often denote large objects, powerful forces, or broad concepts. This pattern became consciously recognized in poetry.",
+      "phon:examples": [
+        "tak (earth)",
+        "au (sun)",
+        "kalo (ocean)",
+        "mat (great)",
+        "aθo (sky)",
+        "vora (forest)"
+      ],
+      "phon:historicalDevelopment": "Like the high vowel pattern, this association has potential cognitive foundations in the correlation between low-frequency sounds and perceptions of size.",
+      "phon:productivity": "Moderately productive, particularly noticeable in augmentative forms."
+    },
+    {
+      "@id": "ehksound:Nasals",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Nasal consonants [m], [n]",
+      "phon:semanticDomain": "Continuity, connection, relationship",
+      "phon:description": "Words containing nasal consonants frequently relate to social connections, kinship, or continuous states. This pattern influenced the development of kinship terminology.",
+      "phon:examples": [
+        "nama (mother)",
+        "ande (father)",
+        "min (bond)",
+        "kama (family)",
+        "nui (friend)",
+        "meno (lineage)"
+      ],
+      "phon:historicalDevelopment": "This association likely developed as many Proto-Hick kinship terms coincidentally contained nasals, creating a pattern that was later generalized.",
+      "phon:productivity": "Highly productive in kinship and relationship terms, with consistent application in new social terminology."
+    },
+    {
+      "@id": "ehksound:VowelSequences",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Vowel sequences (e.g., [ai], [ao], [ui])",
+      "phon:semanticDomain": "Transformation, change, transition",
+      "phon:description": "Words containing vowel sequences, which emerged from consonant loss between vowels, often denote concepts of change or transition. This pattern became significant in ritual language.",
+      "phon:examples": [
+        "tai (mountain, connecting earth and sky)",
+        "maol (threshold)",
+        "bai (dawn/dusk)",
+        "laun (transition rite)",
+        "tuir (growth)",
+        "aika (journey)"
+      ],
+      "phon:historicalDevelopment": "This pattern emerged directly from the sound change of consonant loss between vowels (vowel coalescence), creating many words with vowel sequences that coincidentally related to transitional concepts.",
+      "phon:productivity": "Moderately productive, especially in ritual and ceremonial terminology."
+    },
+    {
+      "@id": "ehksound:LiquidConsonants",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Liquid consonants [l], [r]",
+      "phon:semanticDomain": "Fluidity, smoothness, pleasure",
+      "phon:description": "Words containing liquid consonants often denote concepts related to fluid movement, smooth textures, or pleasurable experiences. This pattern influenced artistic terminology.",
+      "phon:examples": [
+        "laro (song)",
+        "meri (pleasure)",
+        "rul (oil)",
+        "kala (dance)",
+        "felor (beauty)",
+        "rila (harmony)"
+      ],
+      "phon:historicalDevelopment": "This association may have both cognitive origins and historical accidents, as many terms for fluid substances and artistic concepts contained liquids in Proto-Hick.",
+      "phon:productivity": "Highly productive in artistic and aesthetic terminology, with consistent application in new coinages for pleasurable experiences."
+    },
+    {
+      "@id": "ehksound:StopSibilantClusters",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Stop+sibilant clusters ([ts], [ks], [ps])",
+      "phon:semanticDomain": "Sudden change, abruptness, intensity",
+      "phon:description": "Words containing stop+sibilant clusters frequently denote sudden actions, abrupt changes, or intense experiences. This pattern became significant in verbal morphology.",
+      "phon:examples": [
+        "atsa (burst)",
+        "riksa (crack)",
+        "lapsa (fall suddenly)",
+        "etse (lightning)",
+        "naksa (break)",
+        "upsi (startled)"
+      ],
+      "phon:historicalDevelopment": "This pattern likely has onomatopoeic origins, with the acoustic properties of these consonant clusters mimicking sudden sounds in nature.",
+      "phon:productivity": "Moderately productive, particularly in onomatopoeic terms and verbs describing sudden actions."
+    },
+    {
+      "@id": "ehksound:Reduplication",
+      "@type": "phon:SoundSymbolismPattern",
+      "phon:soundPattern": "Full or partial reduplication",
+      "phon:semanticDomain": "Repetition, intensity, distribution",
+      "phon:description": "Reduplicated forms typically indicate repetition, intensity, or distributed action/entities. This pattern became fully grammaticalized for certain semantic domains.",
+      "phon:examples": [
+        "tatak (all earth, world)",
+        "sisin (many children)",
+        "kurku (very dark)",
+        "mamani (ancestors, lit. 'many mothers')",
+        "fafal (network of rivers)",
+        "pipik (needle work)"
+      ],
+      "phon:historicalDevelopment": "Reduplication was a minor morphological process in Proto-Hick that became more productive and systematized in Early Hick, particularly for expressing plurality and intensity.",
+      "phon:productivity": "Highly productive and grammaticalized for plural formation in certain noun classes by 1100 AI."
+    }
+  ]
+} 

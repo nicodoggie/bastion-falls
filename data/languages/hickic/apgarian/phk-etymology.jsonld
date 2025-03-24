@@ -1,0 +1,311 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "phk": "https://bastion-falls.thekennel.info/languages/hickic/proto-hick/lexicon/",
+    "pakh": "https://bastion-falls.thekennel.info/languages/hickic/apgarian/lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "pakhetym": "https://bastion-falls.thekennel.info/languages/hickic/apgarian/etymology/"
+  },
+  "@id": "pakhetym:PhkToPakh",
+  "@type": "baety:EtymologyCollection",
+  "dc:title": "Proto-Hick to Proto-Apgarian Hickic Etymology",
+  "dc:description": "Documentation of sound changes from Proto-Hick to Proto-Apgarian Hickic (Stage 1)",
+  "dcterms:created": "1275-05-01",
+  "baety:sourceLanguage": {
+    "@id": "bf:hickic/proto-hick",
+    "skos:prefLabel": "Proto-Hick"
+  },
+  "baety:targetLanguage": {
+    "@id": "bf:hickic/apgarian",
+    "skos:prefLabel": "Proto-Apgarian Hickic"
+  },
+  "baety:majorSoundChanges": [
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "h-liquid cluster simplification",
+      "baety:soundChangeRule": "h [liquid] → h, [liquid] h → h",
+      "baety:example": "haru → hau, bahu → bau",
+      "baety:notes": "Sequences of h and liquids (l, r) were simplified by dropping the liquid"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Liquid-liquid simplification",
+      "baety:soundChangeRule": "[liquid] l → l",
+      "baety:example": "harlu → halu",
+      "baety:notes": "Clusters of a liquid followed by l were simplified to just l"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Compound vowel deletion",
+      "baety:soundChangeRule": "C V → C / _ $$",
+      "baety:example": "heru-storu → her-stor",
+      "baety:notes": "Vowels at compound boundaries ($$) were deleted"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Compound boundary consonant cluster simplification",
+      "baety:soundChangeRule": "s [fricative/glide] → s, θ [stop] → θ / _ $$",
+      "baety:example": "kis-θalu → kis-alu",
+      "baety:notes": "Certain consonant clusters across compound boundaries were simplified"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Compound nasal/liquid deletion",
+      "baety:soundChangeRule": "[nasal/liquid] → ∅ / C V? $$ _, _ $$ C",
+      "baety:example": "heru-numa → her-uma",
+      "baety:notes": "Nasals and liquids were dropped at compound boundaries in certain environments"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Initial sacred ha- change",
+      "baety:soundChangeRule": "ha → θə / $ _ [stop/fricative/liquid/glide]",
+      "baety:example": "hataru → θətaru",
+      "baety:notes": "Initial ha- was replaced with θə- before certain consonants, marking sacred terms"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Initial glottal devoicing",
+      "baety:soundChangeRule": "[voiced glottal] → [unvoiced glottal] / $ _ V",
+      "baety:example": "xalu → halu",
+      "baety:notes": "Word-initial voiced glottals (x) became unvoiced (h)"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Stress shift to first syllable",
+      "baety:soundChangeRule": "[primary] → [unstressed], [unstressed] → [primary] / $ _",
+      "baety:example": "heˈru → ˈheru",
+      "baety:notes": "The stress pattern changed from penultimate to initial syllable"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "pakhetym:heru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:heru"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:heru"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: heˈru → ˈheru"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:taku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:taku"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:taku"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: taˈku → ˈtaku"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:xasamu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:hasamu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:xasamu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial glottal devoicing: xaˈsamu → haˈsamu",
+        "Stress shift: haˈsamu → ˈhasamu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:baha",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:baha"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:baha"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: baˈha → ˈbaha"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:haka",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:haka"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:haka"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: haˈka → ˈhaka"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:hihalu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:hihalu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hihalu"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: hiˈhalu → ˈhihalu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:venu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:venu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:venu"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: veˈnu → ˈvenu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:storu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:storu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:storu"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: stoˈru → ˈstoru"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:bahuluharanu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:bahuharanu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:bahuluharanu"
+      },
+      "baety:soundChangeApplied": [
+        "Compound boundary simplification: bahuluharanu → bahuharanu",
+        "Stress shift to initial syllable: bahuhaˈranu → ˈbahuharanu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI",
+      "baety:hasEtymologicalNote": "The compound marker 'lu' is deleted as part of compound boundary simplification."
+    },
+    {
+      "@id": "pakhetym:melisu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:melisu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:melisu"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: meˈlisu → ˈmelisu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:daluku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:daluku"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:daluku"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: daˈluku → ˈdaluku"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:ahi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:ahi"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:ahi"
+      },
+      "baety:soundChangeApplied": [
+        "Stress shift: aˈhi → ˈahi"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI"
+    },
+    {
+      "@id": "pakhetym:havenu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:θəvenu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:havenu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial sacred ha- change: havenu → θəvenu",
+        "Stress shift: θəˈvenu → ˈθəvenu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI",
+      "baety:hasEtymologicalNote": "Example of sacred terminology transformation with initial ha- becoming θə-"
+    },
+    {
+      "@id": "pakhetym:haru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:hau"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:haru"
+      },
+      "baety:soundChangeApplied": [
+        "h-liquid simplification: haru → hau",
+        "Stress shift: ˈhau (from haˈru)"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI",
+      "baety:hasEtymologicalNote": "Shows h-liquid cluster simplification, where r is dropped after h"
+    },
+    {
+      "@id": "pakhetym:harlu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pakh:halu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:harlu"
+      },
+      "baety:soundChangeApplied": [
+        "Liquid-liquid cluster simplification: harlu → halu",
+        "Stress shift: haˈlu → ˈhalu"
+      ],
+      "baety:hasPeriod": "c. 400-450 AI",
+      "baety:hasEtymologicalNote": "Shows simplification of r-l cluster to just l"
+    }
+  ]
+} 

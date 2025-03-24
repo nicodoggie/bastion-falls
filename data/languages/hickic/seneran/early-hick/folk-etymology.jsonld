@@ -1,0 +1,269 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "phk": "https://bastion-falls.thekennel.info/languages/hickic/proto-hick/lexicon/",
+    "ehk": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "ehketym": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/etymology/",
+    "folk": "https://bastion-falls.thekennel.info/ontology/folk#"
+  },
+  "@id": "ehkfolk:EarlyHickFolkEtymologies",
+  "@type": "folk:EtymologyCollection",
+  "dc:title": "Early Hick Folk Etymologies",
+  "dc:description": "Documentation of folk etymologies in Early Hick culture",
+  "dcterms:created": "1275-04-15",
+  "folk:culturalContext": "Early Hick folk etymologies emerged as speakers lost awareness of the historical sound changes that transformed Proto-Hick into Early Hick. Many of these etymologies reflect religious beliefs, especially animistic concepts and the significance of natural elements. Some etymologies also reveal social and cultural values of Early Hick society, particularly around concepts of kinship, agriculture, and ritual practice.",
+  "@graph": [
+    {
+      "@id": "ehketym:MesFolkEtymology",
+      "@type": "baety:FolkEtymology",
+      "baety:derivedForm": {
+        "@id": "ehk:mes"
+      },
+      "baety:hasWrittenForm": "me-es",
+      "baety:hasEtymologicalNote": "Believed to be a compound of 'me' (self) and 'es' (three), meaning 'the three-part self'. Early Hick priests taught that the heart ('mes') contained three chambers representing the three aspects of the soul. This folk etymology reinforced religious teachings about the tripartite nature of personhood.",
+      "baety:sourceForm": {
+        "@id": "phk:melisu"
+      },
+      "baety:hasSource": [
+        "Shrine inscriptions at Kalassar (c. 850 AI)",
+        "Early religious texts of the Trine Faith"
+      ]
+    },
+    {
+      "@id": "ehketym:AiFolkEtymology",
+      "@type": "baety:FolkEtymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ai"
+      },
+      "baety:hasWrittenForm": "a-i",
+      "baety:hasEtymologicalNote": "Believed to be a compound of 'a' (being) and 'i' (sacred), meaning 'sacred being'. Water was considered a living entity in Early Hick spiritual beliefs. This folk etymology reinforced the sacred nature of water sources and the taboos around polluting them.",
+      "baety:sourceForm": {
+        "@id": "phk:ahi"
+      },
+      "baety:hasSource": [
+        "Water blessing rituals",
+        "Coastal prayer texts",
+        "The 'Rites of Spring Calling' ceremony"
+      ]
+    },
+    {
+      "@id": "ehketym:BranFolkEtymology",
+      "@type": "baety:FolkEtymology",
+      "baety:derivedForm": {
+        "@id": "ehk:bran"
+      },
+      "baety:hasWrittenForm": "bar-an",
+      "baety:hasEtymologicalNote": "Believed to derive from 'bar' (path) and 'an' (speak), meaning 'the speaking path'. Trees were seen as messengers between the earth and sky. The folk etymology of 'bran' (branch) as 'speaking path' reflects the belief that spiritual messages traveled through tree branches.",
+      "baety:sourceForm": {
+        "@id": "phk:bahuluharanu"
+      },
+      "baety:hasSource": [
+        "Oral tradition of forest-dwellers",
+        "Tree blessing ceremonies",
+        "Divination practices involving branch patterns"
+      ]
+    },
+    {
+      "@id": "ehketym:IlFolkEtymology",
+      "@type": "baety:FolkEtymology",
+      "baety:derivedForm": {
+        "@id": "ehk:il"
+      },
+      "baety:hasWrittenForm": "i-il",
+      "baety:hasEtymologicalNote": "Believed to be a reduplication of 'i' (sacred), meaning 'doubly sacred'. The concept of goodness ('il') was associated with divine favor. This folk etymology supported the belief that goodness was an inherently sacred quality bestowed by the gods.",
+      "baety:sourceForm": {
+        "@id": "phk:hihalu"
+      },
+      "baety:hasSource": [
+        "Early moral teachings",
+        "Temple inscriptions",
+        "Coming-of-age blessings"
+      ]
+    },
+    {
+      "@id": "ehketym:DakFolkEtymology",
+      "@type": "baety:FolkEtymology",
+      "baety:derivedForm": {
+        "@id": "ehk:dak"
+      },
+      "baety:hasWrittenForm": "da-ak",
+      "baety:hasEtymologicalNote": "Believed to be a compound of 'da' (hold) and 'ak' (life), meaning 'holder of life'. The stomach ('dak') was considered the seat of vitality. This folk etymology reinforced cultural practices regarding food, fasting, and medicinal treatments focused on the digestive system.",
+      "baety:sourceForm": {
+        "@id": "phk:daluku"
+      },
+      "baety:hasSource": [
+        "Medical texts",
+        "Dietary guidelines in religious contexts",
+        "Harvest blessing ceremonies"
+      ]
+    },
+    {
+      "@id": "ehketym:RuFolkEtymology",
+      "@type": "baety:FolkEtymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ru"
+      },
+      "baety:hasWrittenForm": "ru",
+      "baety:hasEtymologicalNote": "Believed to be a primordial sound representing the breath of creation. The conjunction 'ru' (and) was given spiritual significance as representing the connectedness of all things. Elders taught that speaking this word properly required a special breath technique that echoed the divine breath.",
+      "baety:sourceForm": {
+        "@id": "phk:storu"
+      },
+      "baety:hasSource": [
+        "Creation myths",
+        "Priestly speech training",
+        "Connective ritual phrases"
+      ]
+    },
+    {
+      "@id": "ehkfolk:takOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tak"
+      },
+      "folk:perceivedSourceForm": "ta-ak",
+      "folk:perceivedSoundChange": "Compound of 'ta' (foundation) and 'ak' (stone)",
+      "folk:culturalContext": "Folk etymology interprets 'tak' (earth) as a compound meaning 'stone foundation', reflecting the Early Hick belief that stones form the foundation of the earth. Priests would place stones in the four corners of new buildings to honor this connection.",
+      "baety:actualSourceForm": {
+        "@id": "phk:taku"
+      },
+      "folk:attestedSource": "Recorded in the 'Sayings of the Elders' collection (c. 1150 AI)"
+    },
+    {
+      "@id": "ehkfolk:hirOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:hir"
+      },
+      "folk:perceivedSourceForm": "hi-ir",
+      "folk:perceivedSoundChange": "Compound of 'hi' (life) and 'ir' (flow)",
+      "folk:culturalContext": "In Early Hick folk tradition, 'hir' (blood) was explained as 'life flow', a sacred substance containing the essence of a being. This etymology reinforced taboos around bloodletting and blood-handling during rituals.",
+      "baety:actualSourceForm": {
+        "@id": "phk:heru"
+      },
+      "folk:attestedSource": "Mentioned in healing texts from coastal settlements (c. 1050 AI)"
+    },
+    {
+      "@id": "ehkfolk:sinOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sin"
+      },
+      "folk:perceivedSourceForm": "si-in",
+      "folk:perceivedSoundChange": "Reduplication of 'si' (small)",
+      "folk:culturalContext": "Early Hick folk etymology considered 'sin' (child) to be a reduplication emphasizing smallness. Children were celebrated with reduplicative names until their naming ceremony around age ten, when they received their adult name.",
+      "baety:actualSourceForm": {
+        "@id": "phk:senu"
+      },
+      "folk:attestedSource": "Found in birth ritual texts from multiple regions (c. 1100 AI)"
+    },
+    {
+      "@id": "ehkfolk:ʔialOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ʔial"
+      },
+      "folk:perceivedSourceForm": "ʔi-al",
+      "folk:perceivedSoundChange": "Compound of 'ʔi' (animate) and 'al' (celestial)",
+      "folk:culturalContext": "The word 'ʔial' (star) was folk-etymologized as 'living celestial being', supporting the belief that stars were animate entities with their own consciousness. Seasonal festivals would honor specific star configurations as ancestral spirits.",
+      "baety:actualSourceForm": {
+        "@id": "phk:hihalu"
+      },
+      "folk:attestedSource": "Documented in astronomical observations from highland communities (c. 1200 AI)"
+    },
+    {
+      "@id": "ehkfolk:vehumOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:vehun"
+      },
+      "folk:perceivedSourceForm": "ve-hun",
+      "folk:perceivedSoundChange": "Compound of 've' (season) and 'hun' (change)",
+      "folk:culturalContext": "Early Hick folk culture interpreted 'vehun' (wind) as 'season-changer', believing that different wind patterns announced and caused seasonal transitions. Weather diviners would interpret wind directions at solstices and equinoxes to predict agricultural outcomes.",
+      "baety:actualSourceForm": {
+        "@id": "phk:velhunu"
+      },
+      "folk:attestedSource": "Preserved in agricultural almanacs (c. 1150 AI)"
+    },
+    {
+      "@id": "ehkfolk:storOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:stor"
+      },
+      "folk:perceivedSourceForm": "si-tor",
+      "folk:perceivedSoundChange": "Compound of 'si' (small) and 'tor' (hard)",
+      "folk:culturalContext": "The word 'stor' (seed) was explained as 'small-hard thing', with folk tales describing how the hardness of seeds protected the life within them. Seeds were often worn as protective amulets, especially by pregnant women.",
+      "baety:actualSourceForm": {
+        "@id": "phk:storu"
+      },
+      "folk:attestedSource": "Referenced in agricultural blessing texts (c. 1100 AI)"
+    },
+    {
+      "@id": "ehkfolk:asəmOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:asəm"
+      },
+      "folk:perceivedSourceForm": "a-səm",
+      "folk:perceivedSoundChange": "Compound of 'a' (force) and 'səm' (breath)",
+      "folk:culturalContext": "The term 'asəm' (smoke) was interpreted as 'force breath', believed to carry messages to ancestral spirits. Ritual smoke-raising ceremonies were performed at important transitions, with the patterns of smoke interpreted by spiritual leaders.",
+      "baety:actualSourceForm": {
+        "@id": "phk:xasamu"
+      },
+      "folk:attestedSource": "Described in funeral practices documentation (c. 1050-1200 AI)"
+    },
+    {
+      "@id": "ehkfolk:auOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:au"
+      },
+      "folk:perceivedSourceForm": "a-u",
+      "folk:perceivedSoundChange": "Compound of 'a' (force) and 'u' (eternity)",
+      "folk:culturalContext": "The word 'au' (sun) was folk-etymologized as 'eternal force', celebrating the sun's constancy. Annual festivals marking solstices and equinoxes would include chanting the word 'au' in extended rhythmic patterns.",
+      "baety:actualSourceForm": {
+        "@id": "phk:haru"
+      },
+      "folk:attestedSource": "Preserved in solar hymns from various communities (c. 1000-1200 AI)"
+    },
+    {
+      "@id": "ehkfolk:taiOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tai"
+      },
+      "folk:perceivedSourceForm": "ta-i",
+      "folk:perceivedSoundChange": "Compound of 'ta' (foundation) and 'i' (sacred)",
+      "folk:culturalContext": "The word 'tai' (mountain) was understood as 'sacred foundation', reflecting the belief that mountains were the first land created by divine forces. Mountain peaks were considered powerful sites for communing with higher powers.",
+      "baety:actualSourceForm": {
+        "@id": "phk:tahli"
+      },
+      "folk:attestedSource": "Documented in highland community sacred texts (c. 1150-1200 AI)"
+    },
+    {
+      "@id": "ehkfolk:dalamOrigin",
+      "@type": "folk:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:dalam"
+      },
+      "folk:perceivedSourceForm": "da-lam",
+      "folk:perceivedSoundChange": "Compound of 'da' (hold) and 'lam' (knowledge)",
+      "folk:culturalContext": "The term 'dalam' (elder) was interpreted as 'knowledge holder', emphasizing the role of elders as repositories of cultural wisdom. Formal knowledge transmission ceremonies marked the recognition of new elders in the community.",
+      "baety:actualSourceForm": {
+        "@id": "phk:dalamu"
+      },
+      "folk:attestedSource": "Mentioned in community governance records (c. 1100-1250 AI)"
+    }
+  ]
+} 

@@ -1,0 +1,948 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "phk": "https://bastion-falls.thekennel.info/languages/hickic/proto-hick/lexicon/",
+    "ehk": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "ehketym": "https://bastion-falls.thekennel.info/languages/hickic/seneran/early-hick/etymology/"
+  },
+  "@id": "ehketym:PhkToEhk",
+  "@type": "baety:EtymologyCollection",
+  "dc:title": "Proto-Hick to Early Hick Etymology",
+  "dc:description": "Documentation of sound changes and relationships between Proto-Hick and Early Hick",
+  "dcterms:created": "1275-04-15",
+  "baety:sourceLanguage": {
+    "@id": "bf:hickic/proto-hick",
+    "skos:prefLabel": "Proto-Hick"
+  },
+  "baety:targetLanguage": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "baety:majorSoundChanges": [
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Final vowel dropping",
+      "baety:soundChangeRule": "V → ∅ / _#",
+      "baety:example": "heru → her → er",
+      "baety:notes": "Most Proto-Hick words ended in vowels, which were systematically lost in Early Hick"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Initial h-dropping",
+      "baety:soundChangeRule": "h → ∅ / #_",
+      "baety:example": "heru → eru → er",
+      "baety:notes": "The Proto-Hick 'h' at the start of words was lost, often replaced with a glottal stop in Early Hick"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Medial consonant cluster simplification",
+      "baety:soundChangeRule": "C₁C₂ → C₁ or C₂ / V_V",
+      "baety:example": "daluku → dalku → dak",
+      "baety:notes": "When consonant clusters formed after vowel loss, they were often simplified"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Animacy prefix retention as glottal stop",
+      "baety:soundChangeRule": "hi- → ʔi- / #_",
+      "baety:example": "hi-halu → ʔihalu → ʔil",
+      "baety:notes": "The Proto-Hick animacy prefix 'hi-' was reduced to a glottal stop followed by 'i'"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Vowel contraction",
+      "baety:soundChangeRule": "VhV → V",
+      "baety:example": "ahi → ai",
+      "baety:notes": "When 'h' occurred between vowels, it was lost and the vowels contracted"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ehketym:heru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:er"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:heru"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: heru → her",
+        "Initial h-dropping: her → er"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:taku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tak"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:taku"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: taku → tak"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:xasamu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:asam"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:xasamu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial fricative loss: xasamu → asamu",
+        "Final vowel dropping: asamu → asam"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Also the source of the subessive case marker -asam"
+    },
+    {
+      "@id": "ehketym:baha",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ba"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:baha"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-loss: baha → baa",
+        "Vowel contraction: baa → ba"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:haka",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:'aka"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:haka"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h becoming glottal stop: haka → ʔaka",
+        "Final vowel dropping: ʔaka → ʔak"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:hihalu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:'il"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hihalu"
+      },
+      "baety:soundChangeApplied": [
+        "Animacy prefix reduction: hihalu → ʔihalu",
+        "Medial h-loss: ʔihalu → ʔialu",
+        "Vowel contraction: ʔialu → ʔilu",
+        "Final vowel dropping: ʔilu → ʔil"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:venu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ven"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:venu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: venu → ven"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Also source of Early Hick vin 'pregnancy' through vowel variation"
+    },
+    {
+      "@id": "ehketym:storu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ru"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:storu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial consonant cluster simplification: storu → toru → oru → ru",
+        "Grammaticalization: meaning shifted from 'grow' to conjunction 'and'"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Shows grammaticalization of a lexical item to a functional word"
+    },
+    {
+      "@id": "ehketym:takutaku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:takutak"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:takutaku"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: takutaku → takutak"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Preserved reduplication pattern from Proto-Hick"
+    },
+    {
+      "@id": "ehketym:risu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ris"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:risu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: risu → ris"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:wudu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:wud"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:wudu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: wudu → wud"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:grasu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:gras"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:grasu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: grasu → gras"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:sedu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sed"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:sedu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: sedu → sed"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:kelu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kel"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:kelu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: kelu → kel"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:bahuluharanu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:bran"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:bahuluharanu"
+      },
+      "baety:soundChangeApplied": [
+        "Compound reduction: bahuluharanu → baharanu",
+        "Vowel syncope: baharanu → bharanu",
+        "Consonant cluster simplification: bharanu → branu",
+        "Final vowel dropping: branu → bran"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Shows dramatic compression of a compound 'split from father'"
+    },
+    {
+      "@id": "ehketym:hasa",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:asa"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hasa"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: hasa → asa"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:wenu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:wen"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:wenu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: wenu → wen"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:tagu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tag"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:tagu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: tagu → tag"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:melisu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:mes"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:melisu"
+      },
+      "baety:soundChangeApplied": [
+        "Intervocalic l → s shift: melisu → mesisu",
+        "Vowel syncope: mesisu → mesu",
+        "Final vowel dropping: mesu → mes"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Shows unusual sound change l → s in certain environments"
+    },
+    {
+      "@id": "ehketym:daluku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:dak"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:daluku"
+      },
+      "baety:soundChangeApplied": [
+        "Vowel syncope: daluku → dalku",
+        "Consonant cluster simplification: dalku → daku → dak"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:piru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:pir"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:piru"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: piru → pir"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:ahi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ai"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:ahi"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-loss: ahi → ai"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "One of the few Early Hick words that does not end in a consonant"
+    },
+    {
+      "@id": "ehketym:bahu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ba"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:bahu"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-loss: bahu → bau",
+        "Vowel contraction: bau → ba"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Kinship term that merged with the similar form from 'baha' (nod, agree)"
+    },
+    {
+      "@id": "ehketym:nahi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:nai"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:nahi"
+      },
+      "baety:soundChangeApplied": [
+        "Medial h-loss: nahi → nai"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Like 'ai', this is one of the few Early Hick words that ends in a vowel"
+    },
+    {
+      "@id": "ehketym:xalu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:al"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:xalu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial fricative loss: xalu → alu",
+        "Final vowel dropping: alu → al"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:haranu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:arn"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:haranu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: haranu → aranu",
+        "Metathesis: aranu → arnu → arn"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Exhibits metathesis (sound position switching) during consonant cluster simplification"
+    },
+    {
+      "@id": "ehketym:lu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:l-"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:lu"
+      },
+      "baety:soundChangeApplied": [
+        "Grammaticalization: independent preposition → prefix"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Changed from independent word to prefix in Early Hick, showing increased grammaticalization"
+    },
+    {
+      "@id": "ehketym:na",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:n-"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:na"
+      },
+      "baety:soundChangeApplied": [
+        "Grammaticalization: independent preposition → prefix"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Followed same grammaticalization pattern as 'lu' → 'l-'"
+    },
+    {
+      "@id": "ehketym:pu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:p-"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:pu"
+      },
+      "baety:soundChangeApplied": [
+        "Grammaticalization: independent preposition → prefix"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Instrumental preposition that became a prefix in Early Hick"
+    },
+    {
+      "@id": "ehketym:hutu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ut"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hutu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: hutu → utu",
+        "Final vowel dropping: utu → ut"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:gada",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:gad"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:gada"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: gada → gad"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:maxi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ma"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:maxi"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: maxi → max",
+        "Final consonant simplification: max → ma"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Merged with the verb 'ma' (to go), creating polysemy in Early Hick"
+    },
+    {
+      "@id": "ehketym:lemi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:lem"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:lemi"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: lemi → lem"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:hapa",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ap"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hapa"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: hapa → apa",
+        "Final vowel dropping: apa → ap"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:saru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sar"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:saru"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: saru → sar"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:delu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:del"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:delu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: delu → del"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:hada",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ad"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hada"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: hada → ada",
+        "Final vowel dropping: ada → ad"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:xana",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:an"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:xana"
+      },
+      "baety:soundChangeApplied": [
+        "Initial fricative loss: xana → ana",
+        "Final vowel dropping: ana → an"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "An important verb in ritualistic contexts"
+    },
+    {
+      "@id": "ehketym:madu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:mad"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:madu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: madu → mad"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:palu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:pal"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:palu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: palu → pal"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:kisa",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kis"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:kisa"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: kisa → kis"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:tila",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:til"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:tila"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: tila → til"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Part of a revised numeral system in Early Hick"
+    },
+    {
+      "@id": "ehketym:duka",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:duk"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:duka"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: duka → duk"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:hesu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:es"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hesu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: hesu → esu",
+        "Final vowel dropping: esu → es"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:karu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kar"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:karu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: karu → kar"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Can refer to both 'big' and 'nose' in Early Hick, showing homonymy from different Proto-Hick sources"
+    },
+    {
+      "@id": "ehketym:miku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:mik"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:miku"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: miku → mik"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:taru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tar"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:taru"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: taru → tar"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:sini",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sin"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:sini"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: sini → sin"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Homonymous with the number 'one' (sin) in Early Hick but from a different Proto-Hick source"
+    },
+    {
+      "@id": "ehketym:ki",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ki"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:ki"
+      },
+      "baety:soundChangeApplied": [
+        "Preservation of short monosyllables: ki → ki"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "One of the few monosyllabic words preserved without change"
+    },
+    {
+      "@id": "ehketym:ha",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:a"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:ha"
+      },
+      "baety:soundChangeApplied": [
+        "Initial h-dropping: ha → a"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "The most basic existential verb in both Proto-Hick and Early Hick"
+    },
+    {
+      "@id": "ehketym:ma",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ma"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:ma"
+      },
+      "baety:soundChangeApplied": [
+        "Preservation of short monosyllables: ma → ma"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Merged with 'maxi' (mouth) in Early Hick, creating polysemy"
+    },
+    {
+      "@id": "ehketym:tala",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:tal"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:tala"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: tala → tal"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:duxu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:du"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:duxu"
+      },
+      "baety:soundChangeApplied": [
+        "Medial fricative loss: duxu → duu",
+        "Vowel contraction: duu → du"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI"
+    },
+    {
+      "@id": "ehketym:ku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:ku"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:ku"
+      },
+      "baety:soundChangeApplied": [
+        "Preservation of short monosyllables: ku → ku"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Personal pronouns show high resistance to sound changes"
+    },
+    {
+      "@id": "ehketym:su",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:su"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:su"
+      },
+      "baety:soundChangeApplied": [
+        "Preservation of short monosyllables: su → su"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Second person pronoun preserved without change"
+    },
+    {
+      "@id": "ehketym:nu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:nu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:nu"
+      },
+      "baety:soundChangeApplied": [
+        "Preservation of short monosyllables: nu → nu"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Third person pronoun preserved without change"
+    },
+    {
+      "@id": "ehketym:kuma",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:kum"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:kuma"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: kuma → kum"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "First person plural pronoun"
+    },
+    {
+      "@id": "ehketym:suma",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:sum"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:suma"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: suma → sum"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Second person plural pronoun"
+    },
+    {
+      "@id": "ehketym:numa",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:num"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:numa"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel dropping: numa → num"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Third person plural pronoun"
+    }
+  ]
+} 

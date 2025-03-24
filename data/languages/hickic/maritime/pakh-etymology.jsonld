@@ -1,0 +1,278 @@
+{
+  "@context": {
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "bf": "https://bastion-falls.thekennel.info/ontology/languages#",
+    "pakh": "https://bastion-falls.thekennel.info/languages/hickic/apgarian/lexicon/",
+    "pmhk": "https://bastion-falls.thekennel.info/languages/hickic/maritime/lexicon/",
+    "lexicon": "https://bastion-falls.thekennel.info/ontology/lexicon#",
+    "baety": "https://bastion-falls.thekennel.info/ontology/etymology#",
+    "pmhketym": "https://bastion-falls.thekennel.info/languages/hickic/maritime/etymology/"
+  },
+  "@id": "pmhketym:PakhToPmhk",
+  "@type": "baety:EtymologyCollection",
+  "dc:title": "Proto-Apgarian Hickic to Proto-Maritime Hickic Etymology",
+  "dc:description": "Documentation of sound changes from Proto-Apgarian Hickic to Proto-Maritime Hickic (Stage 2)",
+  "dcterms:created": "1275-05-01",
+  "baety:sourceLanguage": {
+    "@id": "bf:hickic/apgarian",
+    "skos:prefLabel": "Proto-Apgarian Hickic"
+  },
+  "baety:targetLanguage": {
+    "@id": "bf:hickic/maritime",
+    "skos:prefLabel": "Proto-Maritime Hickic"
+  },
+  "baety:majorSoundChanges": [
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Unstressed vowel reduction",
+      "baety:soundChangeRule": "V → [+reduced] / [unstressed] _",
+      "baety:example": "ˈheru → ˈhiru, ˈtaku → ˈtuku",
+      "baety:notes": "Unstressed vowels were reduced: high vowels remained, low vowels became schwa (ə)"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Initial fricative vowel fronting",
+      "baety:soundChangeRule": "{ə, e} → i / $ [fricative] _",
+      "baety:example": "ˈseti → ˈsiti, ˈθənu → ˈθinu",
+      "baety:notes": "Mid and central vowels became [i] after word-initial fricatives"
+    },
+    {
+      "@type": "baety:RegularSoundChange",
+      "dc:description": "Final vowel centralization",
+      "baety:soundChangeRule": "[+high +back] → [+central], [+mid +front] → [+central] / _ $",
+      "baety:example": "ˈheru → ˈhirə, ˈtaku → ˈtukə",
+      "baety:notes": "Word-final high back vowels [u] and mid front vowels [e] became schwa [ə]"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "pmhketym:heru",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:hirə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:heru"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈheru → ˈhiru (e → i)",
+        "Final vowel centralization: ˈhiru → ˈhirə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:taku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:takə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:taku"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈtaku → ˈtakə (u → ə in unstressed syllable)",
+        "Final vowel centralization: ˈtakə → ˈtakə (already ə, no change)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:hasamu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:hasəmə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:hasamu"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈhasamu → ˈhasəmə (a → ə, u → ə in unstressed syllables)",
+        "Final vowel centralization: ˈhasəmə → ˈhasəmə (already ə, no change)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:baha",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:bahə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:baha"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈbaha → ˈbahə (a → ə in unstressed syllable)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:haka",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:hakə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:haka"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈhaka → ˈhakə (a → ə in unstressed syllable)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:hihalu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:hihalə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:hihalu"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈhihalu → ˈhihalə (u → ə in unstressed syllable)",
+        "Final vowel centralization: ˈhihalə → ˈhihalə (already ə, no change)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:venu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:venə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:venu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel centralization: ˈvenu → ˈvenə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:storu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:storə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:storu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel centralization: ˈstoru → ˈstorə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:bahuharanu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:bahəharanə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:bahuharanu"
+      },
+      "baety:soundChangeApplied": [
+        "Unstressed vowel reduction: ˈbahuharanu → ˈbahəharanə (u → ə, a → a, u → ə)",
+        "Final vowel centralization: ˈbahəharanə → ˈbahəharanə (already ə, no change)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:melisu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:melisə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:melisu"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel centralization: ˈmelisu → ˈmelisə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:daluku",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:dalukə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:daluku"
+      },
+      "baety:soundChangeApplied": [
+        "Final vowel centralization: ˈdaluku → ˈdalukə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI"
+    },
+    {
+      "@id": "pmhketym:ahi",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:ahi"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:ahi"
+      },
+      "baety:soundChangeApplied": [
+        "No change: High front vowel [i] remains [i] in final position"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI",
+      "baety:hasEtymologicalNote": "This word remains unchanged as final -i was not affected by centralization"
+    },
+    {
+      "@id": "pmhketym:θəvenu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:θivenə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:θəvenu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial fricative vowel fronting: ˈθəvenu → ˈθivenu (ə → i after θ)",
+        "Final vowel centralization: ˈθivenu → ˈθivenə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI",
+      "baety:hasEtymologicalNote": "Shows both initial fricative vowel fronting and final vowel centralization"
+    },
+    {
+      "@id": "pmhketym:hau",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:hau"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:hau"
+      },
+      "baety:soundChangeApplied": [
+        "No change: The diphthong [au] remains unchanged"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI",
+      "baety:hasEtymologicalNote": "Diphthongs were generally preserved in this stage"
+    },
+    {
+      "@id": "pmhketym:senu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "pmhk:sinə"
+      },
+      "baety:sourceForm": {
+        "@id": "pakh:senu"
+      },
+      "baety:soundChangeApplied": [
+        "Initial fricative vowel fronting: ˈsenu → ˈsinu (e → i after s)",
+        "Final vowel centralization: ˈsinu → ˈsinə (u → ə)"
+      ],
+      "baety:hasPeriod": "c. 450-500 AI",
+      "baety:hasEtymologicalNote": "Shows both initial fricative vowel fronting and final vowel centralization"
+    }
+  ]
+} 

@@ -6,16 +6,17 @@ import newFile from "./commands/new.js";
 import generateFamily from "./commands/gen-family.js";
 import commitContent from "./commands/commit-content.js";
 import importLexicon from "./commands/import-lexicon.js";
-
+import randomWord from "./commands/random-word.js";
 const app = new Command('repo-tools');
 
 export async function main() {
-  app.addCommand(migrate);
-  app.addCommand(transformFrontmatter);
-  app.addCommand(newFile);
+  app.addCommand(commitContent);
   app.addCommand(generateFamily);
   app.addCommand(importLexicon);
-  app.addCommand(commitContent);
+  app.addCommand(migrate);
+  app.addCommand(newFile);
+  app.addCommand(transformFrontmatter);
+  app.addCommand(randomWord);
   await app.parseAsync();
 }
 

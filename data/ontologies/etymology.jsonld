@@ -1,0 +1,435 @@
+{
+  "@context": {
+    "@vocab": "https://bastion-falls.thekennel.info/ontologies/etymology#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "baety": "https://bastion-falls.thekennel.info/ontologies/etymology#",
+    "baphon": "https://bastion-falls.thekennel.info/ontologies/phonology#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#"
+  },
+  "@graph": [
+    {
+      "@id": "Etymology",
+      "@type": "owl:Class",
+      "rdfs:label": "Etymology",
+      "rdfs:comment": "The origin and historical development of a linguistic form"
+    },
+    {
+      "@id": "Reconstruction",
+      "@type": "owl:Class",
+      "rdfs:label": "Reconstruction",
+      "rdfs:comment": "A hypothetical linguistic form inferred from comparative evidence but not directly attested"
+    },
+    {
+      "@id": "ChronologicalStage",
+      "@type": "owl:Class",
+      "rdfs:label": "Chronological Stage",
+      "rdfs:comment": "A distinct period in the development of a language"
+    },
+    {
+      "@id": "SoundChangeChain",
+      "@type": "owl:Class",
+      "rdfs:label": "Sound Change Chain",
+      "rdfs:comment": "A sequence of related sound changes affecting a word over time"
+    },
+    {
+      "@id": "EtymologicalForm",
+      "@type": "owl:Class",
+      "rdfs:label": "Etymological Form",
+      "rdfs:comment": "A form of a word at a specific point in its historical development"
+    },
+    {
+      "@id": "EtymologicalCognate",
+      "@type": "owl:Class",
+      "rdfs:label": "Etymological Cognate",
+      "rdfs:comment": "A word in a related language that shares a common ancestor with the target word"
+    },
+    {
+      "@id": "BorrowingEvent",
+      "@type": "owl:Class",
+      "rdfs:label": "Borrowing Event",
+      "rdfs:comment": "The process of adopting a word from another language"
+    },
+    {
+      "@id": "SemanticShift",
+      "@type": "owl:Class",
+      "rdfs:label": "Semantic Shift",
+      "rdfs:comment": "A change in the meaning of a word over time"
+    },
+    {
+      "@id": "RegularSoundChange",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "baphon:SoundChange",
+      "rdfs:label": "Regular Sound Change",
+      "rdfs:comment": "A sound change that applies consistently across a language's lexicon"
+    },
+    {
+      "@id": "IrregularSoundChange",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "baphon:SoundChange",
+      "rdfs:label": "Irregular Sound Change",
+      "rdfs:comment": "A sound change that applies to specific words but not consistently across the lexicon"
+    },
+    {
+      "@id": "Analogy",
+      "@type": "owl:Class",
+      "rdfs:label": "Analogy",
+      "rdfs:comment": "Morphological change based on patterns from other forms"
+    },
+    {
+      "@id": "FolkEtymology",
+      "@type": "owl:Class",
+      "rdfs:label": "Folk Etymology",
+      "rdfs:comment": "Reinterpretation of an unfamiliar word in terms of other more familiar words"
+    },
+    {
+      "@id": "Blend",
+      "@type": "owl:Class",
+      "rdfs:label": "Blend",
+      "rdfs:comment": "A word formed by combining parts of other words"
+    },
+    {
+      "@id": "Backformation",
+      "@type": "owl:Class",
+      "rdfs:label": "Backformation",
+      "rdfs:comment": "A word formed by removing what is incorrectly interpreted as an affix"
+    },
+    {
+      "@id": "LanguageContact",
+      "@type": "owl:Class",
+      "rdfs:label": "Language Contact",
+      "rdfs:comment": "Interaction between different languages affecting their development"
+    },
+    {
+      "@id": "Substratum",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "LanguageContact",
+      "rdfs:label": "Substratum",
+      "rdfs:comment": "Influence from a previously spoken language in a region"
+    },
+    {
+      "@id": "Adstratum",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "LanguageContact",
+      "rdfs:label": "Adstratum",
+      "rdfs:comment": "Influence from a neighboring language"
+    },
+    {
+      "@id": "Superstratum",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "LanguageContact",
+      "rdfs:label": "Superstratum",
+      "rdfs:comment": "Influence from a socially dominant language"
+    },
+    {
+      "@id": "Grammaticalization",
+      "@type": "owl:Class",
+      "rdfs:label": "Grammaticalization",
+      "rdfs:comment": "The process by which lexical items become grammatical markers"
+    },
+    {
+      "@id": "EtymologicalSource",
+      "@type": "owl:Class",
+      "rdfs:label": "Etymological Source",
+      "rdfs:comment": "A reference to information supporting an etymological claim"
+    },
+    {
+      "@id": "ConfidenceLevel",
+      "@type": "owl:Class",
+      "rdfs:label": "Confidence Level",
+      "rdfs:comment": "The degree of certainty in an etymological interpretation"
+    },
+    {
+      "@id": "Certain",
+      "@type": "ConfidenceLevel",
+      "rdfs:label": "Certain",
+      "rdfs:comment": "Well-established etymology with strong evidence"
+    },
+    {
+      "@id": "Probable",
+      "@type": "ConfidenceLevel",
+      "rdfs:label": "Probable",
+      "rdfs:comment": "Likely etymology with good supporting evidence"
+    },
+    {
+      "@id": "Speculative",
+      "@type": "ConfidenceLevel",
+      "rdfs:label": "Speculative",
+      "rdfs:comment": "Possible etymology with limited evidence"
+    },
+    {
+      "@id": "Disputed",
+      "@type": "ConfidenceLevel",
+      "rdfs:label": "Disputed",
+      "rdfs:comment": "Multiple competing theories without scholarly consensus"
+    },
+    {
+      "@id": "SemanticShiftType",
+      "@type": "owl:Class",
+      "rdfs:label": "Semantic Shift Type",
+      "rdfs:comment": "The type of meaning change that occurred"
+    },
+    {
+      "@id": "Broadening",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Broadening",
+      "rdfs:comment": "Extension of meaning to include more referents"
+    },
+    {
+      "@id": "Narrowing",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Narrowing",
+      "rdfs:comment": "Restriction of meaning to fewer referents"
+    },
+    {
+      "@id": "Metaphor",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Metaphor",
+      "rdfs:comment": "Extension of meaning based on similarity"
+    },
+    {
+      "@id": "Metonymy",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Metonymy",
+      "rdfs:comment": "Extension of meaning based on close association"
+    },
+    {
+      "@id": "Amelioration",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Amelioration",
+      "rdfs:comment": "Shift to more positive meaning"
+    },
+    {
+      "@id": "Pejoration",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Pejoration",
+      "rdfs:comment": "Shift to more negative meaning"
+    },
+    {
+      "@id": "Taboo",
+      "@type": "SemanticShiftType",
+      "rdfs:label": "Taboo Replacement",
+      "rdfs:comment": "Replacement of a word due to social restrictions"
+    },
+    
+    // Properties
+    {
+      "@id": "hasEtymology",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "ontolex:LexicalEntry",
+      "rdfs:range": "Etymology",
+      "rdfs:label": "Has Etymology",
+      "rdfs:comment": "Links a lexical entry to its etymology"
+    },
+    {
+      "@id": "descendsFrom",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "EtymologicalForm",
+      "rdfs:range": "EtymologicalForm",
+      "rdfs:label": "Descends From",
+      "rdfs:comment": "Indicates direct ancestral relationship between forms"
+    },
+    {
+      "@id": "hasIntermediateForm",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "EtymologicalForm",
+      "rdfs:label": "Has Intermediate Form",
+      "rdfs:comment": "Specifies a form in the developmental chain of a word"
+    },
+    {
+      "@id": "derives",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "EtymologicalForm",
+      "rdfs:label": "Derives",
+      "rdfs:comment": "Indicates the ultimate source of a word"
+    },
+    {
+      "@id": "hasCognate",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "EtymologicalCognate",
+      "rdfs:label": "Has Cognate",
+      "rdfs:comment": "Links a word to its cognates in related languages"
+    },
+    {
+      "@id": "borrowedFrom",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "BorrowingEvent",
+      "rdfs:label": "Borrowed From",
+      "rdfs:comment": "Indicates a word was borrowed from another language"
+    },
+    {
+      "@id": "undergoes",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "EtymologicalForm",
+      "rdfs:range": "baphon:SoundChange",
+      "rdfs:label": "Undergoes",
+      "rdfs:comment": "Indicates a form underwent a specific sound change"
+    },
+    {
+      "@id": "results",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "baphon:SoundChange",
+      "rdfs:range": "EtymologicalForm",
+      "rdfs:label": "Results",
+      "rdfs:comment": "Indicates the resulting form after a sound change"
+    },
+    {
+      "@id": "hasSemanticShift",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "SemanticShift",
+      "rdfs:label": "Has Semantic Shift",
+      "rdfs:comment": "Links to information about meaning changes"
+    },
+    {
+      "@id": "hasConfidenceLevel",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "ConfidenceLevel",
+      "rdfs:label": "Has Confidence Level",
+      "rdfs:comment": "Indicates how certain the etymology is"
+    },
+    {
+      "@id": "hasSource",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "EtymologicalSource",
+      "rdfs:label": "Has Source",
+      "rdfs:comment": "Links to academic sources supporting the etymology"
+    },
+    {
+      "@id": "attestedIn",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "EtymologicalForm",
+      "rdfs:range": "ChronologicalStage",
+      "rdfs:label": "Attested In",
+      "rdfs:comment": "Indicates when a form is historically documented"
+    },
+    {
+      "@id": "reconstructedFor",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Reconstruction",
+      "rdfs:range": "ChronologicalStage",
+      "rdfs:label": "Reconstructed For",
+      "rdfs:comment": "Indicates the historical period for a reconstructed form"
+    },
+    {
+      "@id": "involvesSoundChangeChain",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "SoundChangeChain",
+      "rdfs:label": "Involves Sound Change Chain",
+      "rdfs:comment": "Links to a sequence of sound changes affecting the word"
+    },
+    {
+      "@id": "hasSourceLanguage",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "BorrowingEvent",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Source Language",
+      "rdfs:comment": "The language from which a word was borrowed"
+    },
+    {
+      "@id": "hasSourceWord",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "BorrowingEvent",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Source Word",
+      "rdfs:comment": "The original form of a borrowed word"
+    },
+    {
+      "@id": "hasBorrowingPeriod",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "BorrowingEvent",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Borrowing Period",
+      "rdfs:comment": "When the borrowing occurred"
+    },
+    {
+      "@id": "hasEtymologicalNote",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Etymological Note",
+      "rdfs:comment": "Additional information about the etymology"
+    },
+    {
+      "@id": "hasOriginalMeaning",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SemanticShift",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Original Meaning",
+      "rdfs:comment": "The meaning before semantic change"
+    },
+    {
+      "@id": "hasResultingMeaning",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "SemanticShift",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Resulting Meaning",
+      "rdfs:comment": "The meaning after semantic change"
+    },
+    {
+      "@id": "hasSemanticShiftType",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SemanticShift",
+      "rdfs:range": "SemanticShiftType",
+      "rdfs:label": "Has Semantic Shift Type",
+      "rdfs:comment": "The type of semantic change that occurred"
+    },
+    {
+      "@id": "hasWrittenForm",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "EtymologicalForm",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Written Form",
+      "rdfs:comment": "The written representation of the etymological form"
+    },
+    {
+      "@id": "hasPhoneticForm",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "EtymologicalForm",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Phonetic Form",
+      "rdfs:comment": "The phonetic representation of the etymological form"
+    },
+    {
+      "@id": "hasLanguage",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "EtymologicalForm",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Language",
+      "rdfs:comment": "The language or dialect of the etymological form"
+    },
+    {
+      "@id": "hasPeriod",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "ChronologicalStage",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Period",
+      "rdfs:comment": "The time period of a language stage (e.g., '500-300 PF')"
+    },
+    {
+      "@id": "hasSourceReference",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "EtymologicalSource",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Source Reference",
+      "rdfs:comment": "Bibliographic reference for an etymological source"
+    },
+    {
+      "@id": "hasCertainty",
+      "@type": "owl:DatatypeProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "xsd:string",
+      "rdfs:label": "Has Certainty",
+      "rdfs:comment": "How certain the etymological claim is (certain, probable, speculative)"
+    }
+  ]
+}
