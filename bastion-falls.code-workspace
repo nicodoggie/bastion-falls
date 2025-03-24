@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
+    "terminal.integrated.defaultProfile.linux": "zsh",
     "gitCommitMessageEditor.intelliSense.completion.scopes": [
       {
         "scope": "locations",
@@ -38,6 +39,7 @@
     "md-graph.fileTypes": [
       "md",
       "mdx"
-    ]
+    ],
+    "terminal.integrated.shellIntegration.enabled": false
   }
 }
