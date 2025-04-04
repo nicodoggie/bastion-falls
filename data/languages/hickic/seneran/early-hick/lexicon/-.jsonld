@@ -1,0 +1,295 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_Suffixes",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - Suffix entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:suffixes-en",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-en",
+        "phoneticRep": "-en"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ena",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (inanimate, visible, medial)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-eth",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-eth",
+        "phoneticRep": "-eθ"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *etha",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (medial, inanimate, hidden, sensed)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-is",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-is",
+        "phoneticRep": "-is"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *isa",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "this (inanimate, sensed, proximal)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-nat",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-nat",
+        "phoneticRep": "nat"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:derivedFrom": "gnater",
+        "etymon:soundChange": "grammaticalization with phonological reduction",
+        "etymon:note": "Grammaticalized from full verb 'desire' to desiderative suffix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "want to, desire to (desiderative suffix)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Grammatical Terms",
+            "Verbal Morphology"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-rum",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-rum",
+        "phoneticRep": "-rum"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ruma",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (animate, distant)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-tan",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-tan",
+        "phoneticRep": "-tan"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *tana",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (animate, visible, medial)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-thir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-thir",
+        "phoneticRep": "-θir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *thira",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (medial, animate, sensed)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-um",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-um",
+        "phoneticRep": "-um"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *uma",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "that (inanimate, distant)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-ʔis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "-ʔis",
+        "phoneticRep": "-ʔis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔisa",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "this (animate, sensed, proximal)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Demonstratives",
+            "Grammatical Terms"
+          ]
+        }
+      ]
+    }
+  ]
+}

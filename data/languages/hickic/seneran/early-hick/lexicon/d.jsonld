@@ -1,0 +1,254 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_D",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - D entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:dorgar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dorgar",
+        "phoneticRep": "dor.gər"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:dor"
+        },
+        {
+          "@id": "ehk:gar"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "dor-gar",
+        "etymon:gloss": "back-bone",
+        "etymon:soundChange": [
+          "compound fusion",
+          "unstressed vowel reduction"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "spine",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:dortor",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dortor",
+        "phoneticRep": "dor.tor"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:dor"
+        },
+        {
+          "@id": "ehk:tor"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "dor-tor",
+        "etymon:meaning": "back-height",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "back slope",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Landforms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "dortor'er",
+          "phoneticRep": "dor.tor.ʔer",
+          "decomposition": "dortor + -'er (verbalizer)",
+          "grammaticalMeaning": "to slope"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:du",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "du",
+        "phoneticRep": "du"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *duha",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "meat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Food & Consumption Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:dudup",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dudup",
+        "phoneticRep": "du.dup"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:du"
+        },
+        {
+          "@id": "ehk:dup"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "du-dup",
+        "etymon:gloss": "flesh-lump",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "swollen muscle",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Medical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:dup",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "dup",
+        "phoneticRep": "dup"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *dupu",
+        "etymon:gloss": "pearl",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Shows semantic extension from 'pearl' to general 'rounded mass'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "pearl; lump, mass",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural Terms",
+            "Medical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:duwes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "duwes",
+        "phoneticRep": "du.wes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "duha-wesu",
+        "etymon:gloss": "meat-cover",
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "Semantic extension from 'meat-container' to general 'food'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "food, nourishment",
+            "@language": "en"
+          },
+          "usage": "Basic term for both food and eating",
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "duwes'er",
+          "phoneticRep": "du.wes.ʔer",
+          "decomposition": "duwes + -'er (verbalizer)",
+          "grammaticalMeaning": "to eat"
+        }
+      ]
+    }
+  ]
+}

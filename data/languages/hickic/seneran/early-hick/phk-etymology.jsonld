@@ -29,41 +29,232 @@
     "@id": "bf:hickic/seneran/early-hick",
     "skos:prefLabel": "Early Hick"
   },
-  "baety:majorSoundChanges": [
+  "baety:hasStage": [
     {
-      "@type": "baety:RegularSoundChange",
-      "dc:description": "Final vowel dropping",
-      "baety:soundChangeRule": "V → ∅ / _#",
-      "baety:example": "heru → her → er",
-      "baety:notes": "Most Proto-Hick words ended in vowels, which were systematically lost in Early Hick"
+      "@type": "baety:SoundChangeStage",
+      "rdfs:label": "Proto-Maritime Hick",
+      "baety:hasPeriod": "c. 500-550 AI",
+      "baety:hasSoundChanges": [
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "h-liquid cleanup",
+          "baphon:hasEnvironment": "h [liquid] → h * / _; [liquid] h → * h / _",
+          "baphon:hasExample": {
+            "baphon:originalForm": "heru",
+            "baphon:resultingForm": "heu"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "liquid cluster cleanup",
+          "baphon:hasEnvironment": "[liquid] l → l * / _",
+          "baphon:hasExample": {
+            "baphon:originalForm": "melisu",
+            "baphon:resultingForm": "mesu"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "compound vowel deletion",
+          "baphon:hasEnvironment": "@consonant @vowel => @consonant * / _ $$",
+          "baphon:hasExample": {
+            "baphon:originalForm": "bahuluharanu",
+            "baphon:resultingForm": "bahulharan"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "compound nasal-liquid deletion",
+          "baphon:hasEnvironment": "{[nasal], [liquid]} => * / @consonant @vowel? $$ _",
+          "baphon:hasExample": {
+            "baphon:originalForm": "kisa-nahi",
+            "baphon:resultingForm": "kisahi"
+          }
+        },
+        {
+          "@type": "baphon:Fortition",
+          "rdfs:label": "initial fricative change sacred",
+          "baphon:hasEnvironment": "ha => θə / $ _ {[stop !glottal], [fricative], [liquid], [glide]}",
+          "baphon:hasExample": {
+            "baphon:originalForm": "hasa",
+            "baphon:resultingForm": "θəsa"
+          }
+        },
+        {
+          "@type": "baphon:Lenition",
+          "rdfs:label": "initial glottal devoicing",
+          "baphon:hasEnvironment": "[voiced glottal] => [unvoiced glottal] / $ _ @vowel",
+          "baphon:hasExample": {
+            "baphon:originalForm": "xasa",
+            "baphon:resultingForm": "hasa"
+          }
+        }
+      ]
     },
     {
-      "@type": "baety:RegularSoundChange",
-      "dc:description": "Initial h-dropping",
-      "baety:soundChangeRule": "h → ∅ / #_",
-      "baety:example": "heru → eru → er",
-      "baety:notes": "The Proto-Hick 'h' at the start of words was lost, often replaced with a glottal stop in Early Hick"
+      "@type": "baety:SoundChangeStage",
+      "rdfs:label": "Proto-Seneran Hick",
+      "baety:hasPeriod": "c. 550-600 AI",
+      "baety:hasSoundChanges": [
+        {
+          "@type": "baphon:Vocalic",
+          "rdfs:label": "unstressed vowel reduction",
+          "baphon:hasEnvironment": "[+low] => ə / [unstressed] _",
+          "baphon:hasExample": {
+            "baphon:originalForm": "hasa",
+            "baphon:resultingForm": "həsa"
+          }
+        },
+        {
+          "@type": "baphon:Assimilation",
+          "rdfs:label": "initial fricative vowel fronting",
+          "baphon:hasEnvironment": "{ə, e} => i / $ [fricative] _",
+          "baphon:hasExample": {
+            "baphon:originalForm": "θə7sa",
+            "baphon:resultingForm": "θisa"
+          }
+        },
+        {
+          "@type": "baphon:Vocalic",
+          "rdfs:label": "final vowel centralization",
+          "baphon:hasEnvironment": "[+high +back] => [-high +mid -back +central] / _ $",
+          "baphon:hasExample": {
+            "baphon:originalForm": "haku",
+            "baphon:resultingForm": "hakə"
+          }
+        }
+      ]
     },
     {
-      "@type": "baety:RegularSoundChange",
-      "dc:description": "Medial consonant cluster simplification",
-      "baety:soundChangeRule": "C₁C₂ → C₁ or C₂ / V_V",
-      "baety:example": "daluku → dalku → dak",
-      "baety:notes": "When consonant clusters formed after vowel loss, they were often simplified"
+      "@type": "baety:SoundChangeStage",
+      "rdfs:label": "Pre-Hick",
+      "baety:hasPeriod": "c. 600-650 AI",
+      "baety:hasSoundChanges": [
+        {
+          "@type": "baphon:Vocalic",
+          "rdfs:label": "final glide vocalization",
+          "baphon:hasEnvironment": "w => u / _ $",
+          "baphon:hasExample": {
+            "baphon:originalForm": "saw",
+            "baphon:resultingForm": "sau"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "initial glottal fricative deletion",
+          "baphon:hasEnvironment": "[unvoiced glottal fricative] => * / $ _ @vowel&![+high]",
+          "baphon:hasExample": {
+            "baphon:originalForm": "hasa",
+            "baphon:resultingForm": "asa"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "initial glottal stop deletion",
+          "baphon:hasEnvironment": "[unvoiced glottal stop] => * / $ _ @vowel",
+          "baphon:hasExample": {
+            "baphon:originalForm": "ʔasa",
+            "baphon:resultingForm": "asa"
+          }
+        },
+        {
+          "@type": "baphon:Assimilation",
+          "rdfs:label": "animacy marker change",
+          "baphon:hasEnvironment": "hi => ʔi / $ _ {[+high], @consonant&![glottal stop]}",
+          "baphon:hasExample": {
+            "baphon:originalForm": "hi-halu",
+            "baphon:resultingForm": "ʔihalu"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "dental fricative cluster formation",
+          "baphon:hasEnvironment": "θ @vowel => θ * / $ _ r @vowel",
+          "baphon:hasExample": {
+            "baphon:originalForm": "θəru",
+            "baphon:resultingForm": "θru"
+          }
+        },
+        {
+          "@type": "baphon:Vocalic",
+          "rdfs:label": "vowel coalescence",
+          "baphon:hasEnvironment": "@vowel {h,l} => @vowel * / _ @vowel",
+          "baphon:hasExample": {
+            "baphon:originalForm": "ahi",
+            "baphon:resultingForm": "ai"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "coda simplification",
+          "baphon:hasEnvironment": "[liquid] [nasal] => [liquid] *; [nasal] [liquid] => * [liquid]",
+          "baphon:hasExample": {
+            "baphon:originalForm": "harnu",
+            "baphon:resultingForm": "haru"
+          }
+        },
+        {
+          "@type": "baphon:Metathesis",
+          "rdfs:label": "metathesis complex cluster simplification",
+          "baphon:hasEnvironment": "@vowel$1 @consonant$2 => $2 $1 / $ _ @finalcluster",
+          "baphon:hasExample": {
+            "baphon:originalForm": "aksat",
+            "baphon:resultingForm": "kast"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "first syllable syncope",
+          "baphon:hasEnvironment": "{p,b,k,t,s,θ} @vowel => {p,b,k,t,s,θ} * / $ _ {k,t,n,r} <syl>",
+          "baphon:hasExample": {
+            "baphon:originalForm": "pətak",
+            "baphon:resultingForm": "ptak"
+          }
+        }
+      ]
     },
     {
-      "@type": "baety:RegularSoundChange",
-      "dc:description": "Animacy prefix retention as glottal stop",
-      "baety:soundChangeRule": "hi- → ʔi- / #_",
-      "baety:example": "hi-halu → ʔihalu → ʔil",
-      "baety:notes": "The Proto-Hick animacy prefix 'hi-' was reduced to a glottal stop followed by 'i'"
-    },
-    {
-      "@type": "baety:RegularSoundChange",
-      "dc:description": "Vowel contraction",
-      "baety:soundChangeRule": "VhV → V",
-      "baety:example": "ahi → ai",
-      "baety:notes": "When 'h' occurred between vowels, it was lost and the vowels contracted"
+      "@type": "baety:SoundChangeStage",
+      "rdfs:label": "Early Hick",
+      "baety:hasPeriod": "c. 650-700 AI",
+      "baety:hasSoundChanges": [
+        {
+          "@type": "baphon:Lenition",
+          "rdfs:label": "glottal devoicing",
+          "baphon:hasEnvironment": "[voiced glottal] => [unvoiced glottal] / _ @vowel",
+          "baphon:hasExample": {
+            "baphon:originalForm": "ʔa",
+            "baphon:resultingForm": "ha"
+          }
+        },
+        {
+          "@type": "baphon:Metathesis",
+          "rdfs:label": "cluster resolution",
+          "baphon:hasEnvironment": "{b,t,θ,k}$1 a r => $1 r a / _ {s,t,k}",
+          "baphon:hasExample": {
+            "baphon:originalForm": "bərak",
+            "baphon:resultingForm": "brak"
+          }
+        },
+        {
+          "@type": "baphon:Metathesis",
+          "rdfs:label": "final vowel transposition",
+          "baphon:hasEnvironment": "{p,b,k,t,θ}$1 {r,n,t,k}$2 ə => $1 ə $2 / _ $",
+          "baphon:hasExample": {
+            "baphon:originalForm": "batrə",
+            "baphon:resultingForm": "batər"
+          }
+        },
+        {
+          "@type": "baphon:Elision",
+          "rdfs:label": "final vowel reduction",
+          "baphon:hasEnvironment": "h ə => * ə / _ $; ə => * / _ $",
+          "baphon:hasExample": {
+            "baphon:originalForm": "hakə",
+            "baphon:resultingForm": "hak"
+          }
+        }
+      ]
     }
   ],
   "@graph": [
@@ -76,10 +267,6 @@
       "baety:sourceForm": {
         "@id": "phk:heru"
       },
-      "baety:soundChangeApplied": [
-        "Final vowel dropping: heru → her",
-        "Initial h-dropping: her → er"
-      ],
       "baety:hasPeriod": "c. 500-600 AI"
     },
     {
@@ -91,9 +278,6 @@
       "baety:sourceForm": {
         "@id": "phk:taku"
       },
-      "baety:soundChangeApplied": [
-        "Final vowel dropping: taku → tak"
-      ],
       "baety:hasPeriod": "c. 500-600 AI"
     },
     {
@@ -105,10 +289,10 @@
       "baety:sourceForm": {
         "@id": "phk:xasamu"
       },
-      "baety:soundChangeApplied": [
-        "Initial fricative loss: xasamu → asamu",
-        "Final vowel dropping: asamu → asam"
-      ],
+      "baety:undergoes": {
+        "@type": "baety:RegularSoundChange",
+        "rdfs:comment": "Initial fricative loss: xasamu → asamu"
+      },
       "baety:hasPeriod": "c. 500-600 AI",
       "baety:hasEtymologicalNote": "Also the source of the subessive case marker -asam"
     },
@@ -943,6 +1127,26 @@
       ],
       "baety:hasPeriod": "c. 500-600 AI",
       "baety:hasEtymologicalNote": "Third person plural pronoun"
+    },
+    {
+      "@id": "ehketym:hahu",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:hahu"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:hahu"
+      },
+      "baety:undergoes": {
+        "@type": "baety:IrregularSoundChange",
+        "rdfs:comment": "Preservation of form due to sound symbolic nature",
+        "baety:results": {
+          "@id": "ehk:hahu"
+        }
+      },
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "One of few words to resist regular sound changes, preserving both form and meaning 'laugh' from Proto-Hick. Shows unusual stability possibly due to sound symbolic/onomatopoeic nature and contrast with regular development of *halu 'good'.",
+      "baety:hasConfidenceLevel": "Certain"
     }
   ]
 } 

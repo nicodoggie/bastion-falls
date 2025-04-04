@@ -91,4 +91,33 @@ Timeline of events:
 - On the way to Hamlin, the thespians separated from the tour group, supposedly
   to prepare for a meeting with Mrs. Nise. After which, Lord Pritchett
   confronted the Asset about her true identity. She immediately confessed the
-  truth about her identity, but said that in he capacity 
+  truth about her identity, but said that she was hired to expose the dirt on
+  the island. In fact, if they wanted, she'd arrange for a meeting with her
+  employer.
+- The diplomats were surprised when the Asset brought them to the Kraken, the
+  infamous beached ship of Kincade Enterprises. There they were welcomed very
+  lavishly, with the flamboyant Flancer Kincade talking about having a trade
+  deal with Senera, mentioning that they were expanding the Kincade legitimate
+  business, and "putting and end" to the endeavors that their family was known
+  for. It was during this initial meeting where the diplomats were invited to a
+  party. After which, they were to discuss goings-on in the island.
+- However, at the day of the party, it became increasingly clear that the
+  Kincades wish to broker some kind of trade deal in exchange for information.
+  The diplomats had no authority over the matter of course, but in the spirit of
+  self-preseivation, they acted accommodating, and accepted their hospitality
+- During the party, Lord Pratchett overheard the Asset and Lord Maxwell speaking
+  about a plan, one that would provide a "justification".
+- Lord Pritchett attempted to confront Lord Maxwell about the matter, but he was
+  rebuffed. Lord Maxwell said that he would "bring him into the fold" after the
+  party.
+- The party was uneventful until the fateful moment in the hot tub. Flancer
+  Kincade, a member of the Tressemerian Coin Spinners, the Asset, and the
+  diplomats were engaging in small talk, when a young woman called Maryanne
+  joined. She had goaded the Asset to dispense some of her hallucinogenic
+  mushrooms to help people relax. Indeed, those in the bath were so relaxed that
+  they began engaging in sexual activity.
+- The matter started getting out of hand, as the playfulness turned into
+  aggressive behavior. Lord Pritchett in particular started engorging Lord
+  Maxwell in his entirety, then Paula Abdul's sex organs. It was revealed later
+  that Paula Abdul accidentally mixed a container of Moreaux Mushrooms into the
+  bath, leading to the display of cannibalistic behavior.

@@ -1,0 +1,169 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_L",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - L entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:libres",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "libres",
+        "phoneticRep": "li.bres"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:li"
+        },
+        {
+          "@id": "ehk:bres"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-bres",
+        "etymon:meaning": "DIM-wind",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "gentle wind",
+            "@language": "en"
+          },
+          "usage": "Used primarily inland for weakened western winds after mountain crossing",
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Regional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:lik",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lik",
+        "phoneticRep": "lik"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowing": {
+          "etymon:sourceLanguage": "Eldrim",
+          "etymon:sourceForm": "lyg",
+          "etymon:sourceGloss": "dragon, snake, drake"
+        },
+        "etymon:soundChange": "vowel raising, final devoicing",
+        "etymon:note": "Shows semantic narrowing from general serpentine being to specific dragon concept"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dragon",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mythological Terms",
+            "Borrowed Terms"
+          ],
+          "usage": "Cultural borrowing showing Eldrim mythological influence"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:lis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lis",
+        "phoneticRep": "lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *li-su",
+        "etymon:note": "From diminutive prefix *li- + *su 'one', lit. 'little one'",
+        "etymon:soundChange": "final vowel loss, compound fusion",
+        "etymon:morphology": {
+          "prefix": "li- (DIM)",
+          "root": "*su 'one'"
+        }
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "child",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms",
+          "usage": "See also: Diminutive Formation, Basic Numbers"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:lithar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lithar",
+        "phoneticRep": "li.θar"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:tharala"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-tharala",
+        "etymon:meaning": "DIM-deity",
+        "etymon:soundChange": "compound simplification (loss of -ala)",
+        "etymon:note": "Stars conceptualized as lesser deities"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "star",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -67,8 +67,8 @@ export function parseLexicon(jsonData: OntolexLemon, opts?: ParseLexiconOpts) {
           : [ontoSense['lexinfo:semanticField']];
         senses.push({
           definition: ontoSense.definition['@value'],
-          semanticField: semanticField.map(field => {
-            if (field.trim() == '') {
+          semanticField: !semanticField ? ["Uncategorized"] : semanticField.map(field => {
+            if (!field || field.trim() == '') {
               return 'Unknown';
             }
             return field;
@@ -160,8 +160,9 @@ export function jsonByField(
       title,
       fields: Object.fromEntries(
         [...fields.entries()].sort().map(([key]) => {
+
           const fieldData = {
-            uri: key.replaceAll(' ', '-').toLowerCase(),
+            uri: (key ?? "Uncategorized").replaceAll(' ', '-').toLowerCase(),
             label: key,
           };
           return [key, fieldData];

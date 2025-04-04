@@ -1,0 +1,323 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_N",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - N entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:nagral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nagral",
+        "phoneticRep": "na.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:nal"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "nal-gral",
+        "etymon:meaning": "black-earth",
+        "etymon:soundChange": "liquid deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "black earth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nagral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nagral",
+        "phoneticRep": "na.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:nal"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "nal-gral",
+        "etymon:meaning": "black-earth",
+        "etymon:soundChange": "liquid deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "black earth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nagral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nagral",
+        "phoneticRep": "na.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:nal"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "nal-gral",
+        "etymon:meaning": "black-earth",
+        "etymon:soundChange": "liquid deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "black earth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nagral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nagral",
+        "phoneticRep": "na.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:nal"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "nal-gral",
+        "etymon:meaning": "black-earth",
+        "etymon:soundChange": "liquid deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "black earth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nai",
+        "phoneticRep": "nai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *nahi",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mother",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nai",
+        "phoneticRep": "nai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *nahi",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mother",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nai",
+        "phoneticRep": "nai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *nahi",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mother",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:nai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "nai",
+        "phoneticRep": "nai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *nahi",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mother",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:natlas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "natlas",
+        "phoneticRep": "nat.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gnater-las",
+        "etymon:gloss": "desire-ILL",
+        "etymon:soundChange": [
+          "compound fusion",
+          "cluster simplification"
+        ],
+        "etymon:note": "Shows cluster simplification and case lexicalization. From 'one in a state of desire/affection' to 'friend'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "friend",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    }
+  ]
+}

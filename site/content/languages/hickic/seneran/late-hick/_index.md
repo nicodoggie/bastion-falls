@@ -1,9 +1,7 @@
 +++
 title = "Late Hick / Early Seneran"
 weight = 3
-[taxonomies]
-parent_languages = ["Middle Hick", "Kalassarian"]
-tags = ["languages", "transitional", "senera", "maritime"]
+
 +++
 
 # Overview

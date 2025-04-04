@@ -1,0 +1,634 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_S",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - S entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:sai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sai",
+        "phoneticRep": "sai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:derivation": "Back-formation from kasai",
+        "etymon:reanalysis": "ka-sai interpreted as ADJ-self",
+        "etymon:note": "Shows folk etymology where kasai 'introspection' (< kasu-ai 'reflection-water') was reanalyzed as ka-sai leading to extraction of sai as independent term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sense of self",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "inner voice",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:saw",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "saw",
+        "phoneticRep": "saw"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Eldrim saw",
+        "etymon:gloss": "filth, putrescence",
+        "etymon:soundChange": "direct borrowing"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shit",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Taboo Terms",
+            "Body Terms"
+          ],
+          "lexinfo:register": "lexinfo:vulgarRegister"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sed",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sed",
+        "phoneticRep": "sed"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sed-u",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "seed",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sedgral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sedgral",
+        "phoneticRep": "sed.gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sed-gral",
+        "etymon:meaning": "seed-earth",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "field",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Plant Terms",
+            "Agricultural Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sedok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sedok",
+        "phoneticRep": "se.dok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sed-ok",
+        "etymon:meaning": "seed-AGENT",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "planter, farmer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Agricultural Terms",
+            "Occupations"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sedter",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sedter",
+        "phoneticRep": "sed.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sed-ter",
+        "etymon:meaning": "seed-flow",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "planting time",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms",
+            "Rituals",
+            "Seasonal Terms",
+            "Agricultural Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sibar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sibar",
+        "phoneticRep": "si.bar"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:sin"
+        },
+        {
+          "@id": "ehk:bar"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sin-bar",
+        "etymon:gloss": "one-name",
+        "etymon:soundChange": "compound fusion, liquid deletion",
+        "etymon:note": "Shows development of honorific from concept of unique naming"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "distinguished one, unique person",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Honor Terms",
+            "Social Terms"
+          ],
+          "lexinfo:register": "formal"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sibris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sibris",
+        "phoneticRep": "si.bris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hibrisu",
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Metaphorical extension from 'fire' to 'passion/love'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "love",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Abstract Concepts",
+            "Emotional Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sin_num",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sin",
+        "phoneticRep": "sin"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *su-inu",
+        "etymon:note": "From counting form with *-inu suffix",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "one",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number System"
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:sin_float",
+          "type": "lexinfo:homonym"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sin_float",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sin",
+        "phoneticRep": "sin"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *senu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "floating",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Maritime Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:sin_num",
+          "type": "lexinfo:homonym"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sinas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sinas",
+        "phoneticRep": "si.nas"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *senu-asa-u",
+        "etymon:components": [
+          "senu (float)",
+          "asa (PERL)",
+          "u (NOM)"
+        ],
+        "etymon:soundChange": [
+          "final vowel loss",
+          "compound fusion"
+        ],
+        "etymon:note": "Literally 'floating through', shows typical compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "drift, passage",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Maritime Terms",
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sinibel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sinibel",
+        "phoneticRep": "si.ni.bel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sin-ibel",
+        "etymon:gloss": "float-tongue",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "taste",
+            "@language": "en"
+          },
+          "usage": "Shows metaphorical extension of floating motion to sensory perception",
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Body Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:stor",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "stor",
+        "phoneticRep": "stor"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *storu",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Base form preserved in sacred terms"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "growth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "addition, increment",
+            "@language": "en"
+          },
+          "usage": "Mathematical sense developed from basic meaning 'growth'",
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "stor-'er",
+          "phoneticRep": "stor.ʔer",
+          "decomposition": "stor + -'er (verbalizer)",
+          "grammaticalMeaning": "to grow, to increase"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:storbran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "storbran",
+        "phoneticRep": "stor.bran"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:stor"
+        },
+        {
+          "@id": "ehk:bran"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "stor-bran",
+        "etymon:gloss": "join-lineage",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows formalization of marriage as union between family lines"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "marriage, family union",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Family Terms",
+            "Social Terms",
+            "Sacred Terms"
+          ]
+        }
+      ],
+      "derivation": {
+        "@type": "ontolex:LexicalEntry",
+        "canonicalForm": {
+          "writtenRep": "storbran'er",
+          "phoneticRep": "stor.bran.ʔer"
+        },
+        "definition": "to marry"
+      }
+    },
+    {
+      "@id": "ehk:sul",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sul",
+        "phoneticRep": "sul"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *sulu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "liver",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sulmil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sulmil",
+        "phoneticRep": "sul.mil"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:sul"
+        },
+        {
+          "@id": "ehk:mil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sul-mil",
+        "etymon:gloss": "liver-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "liver fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Preparation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sumerok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sumerok",
+        "phoneticRep": "su.me.rok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-'imer-ok",
+        "etymon:gloss": "grass-life-AGENT",
+        "etymon:soundChange": "compound simplification"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "goat",
+            "@language": "en"
+          },
+          "usage": "Shows compound reduction and metaphorical extension through agentive marking",
+          "lexinfo:semanticField": "Animals"
+        }
+      ]
+    }
+  ]
+}

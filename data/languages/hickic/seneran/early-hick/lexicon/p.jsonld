@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_P",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - P entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:paket",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "paket",
+        "phoneticRep": "pa.ket"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *pakata",
+        "etymon:soundChange": [
+          "final vowel loss",
+          "vowel reduction"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "talk",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Communication Terms",
+            "Basic Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:palmal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "palmal",
+        "phoneticRep": "pal.mal"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:pal"
+        },
+        {
+          "@id": "ehk:mal"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "pal-mal",
+        "etymon:meaning": "belly-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "deep pool",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Landforms",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:palmil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "palmil",
+        "phoneticRep": "pal.mil"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:pal"
+        },
+        {
+          "@id": "ehk:mil"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "pal-mil",
+        "etymon:gloss": "belly-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "belly fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food & Consumption Terms",
+            "Preparation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:par",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "par",
+        "phoneticRep": "par"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "*paru-heru",
+        "etymon:gloss": "belly-motion",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows semantic development from 'belly-motion' to general 'crawl'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "crawl",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Body Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:parduwes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "parduwes",
+        "phoneticRep": "par.du.wes"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:grapar"
+        },
+        {
+          "@id": "ehk:duwes"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "grapar-duwes",
+        "etymon:gloss": "worm-consume",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows compound reduction of grapar-duwes to parduwes"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cavern, cave network",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Mythological Terms"
+          ],
+          "usage": "Originally 'worm-eaten,' extended to mean cave networks"
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:'irurbel",
+          "relationshipType": "contrasts with",
+          "note": "single cave/entrance vs. network"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "parduwes'er",
+          "phoneticRep": "par.du.wes.ʔer",
+          "decomposition": "parduwes + -'er (verbalizer)",
+          "grammaticalMeaning": "to form cave networks, to hollow out (of mountains)"
+        }
+      ],
+      "note": "Reflects folk belief about cave formation through the action of great worms eating through mountains"
+    },
+    {
+      "@id": "ehk:parmatal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "parmatal",
+        "phoneticRep": "par.ma.tal"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:parma"
+        },
+        {
+          "@id": "ehk:tal"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "parma-tal",
+        "etymon:gloss": "book-place",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows productive use of -tal for institutional locations"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "library",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Writing Terms",
+            "Building Terms"
+          ],
+          "usage": "Institutional term for book repository"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:pir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "pir",
+        "phoneticRep": "pir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *piru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Perception Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "pir'er",
+          "phoneticRep": "pir.ʔer",
+          "decomposition": "pir + -'er (verbalizer)",
+          "grammaticalMeaning": "to listen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_R",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - R entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:ran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ran",
+        "phoneticRep": "ran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ranu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stream, flowing water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ran",
+        "phoneticRep": "ran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ranu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stream, flowing water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ran",
+        "phoneticRep": "ran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ranu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stream, flowing water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ran",
+        "phoneticRep": "ran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ranu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stream, flowing water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ranris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ranris",
+        "phoneticRep": "ran.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ran-ris",
+        "etymon:meaning": "stream-reed",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "river reed",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms",
+            "Cultivated Plants"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:rek",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "rek",
+        "phoneticRep": "rek"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *reku",
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Shows onomatopoeic origin from sound of canine bark"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bark (of dog/wolf)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Animal Terms"
+          ],
+          "usage": "Basic term for canine vocalization"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "rek'er",
+          "phoneticRep": "rek.ʔer",
+          "decomposition": "rek + -'er (verbalizer)",
+          "grammaticalMeaning": "to bark"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "rekrek",
+          "phoneticRep": "rek.rek",
+          "decomposition": "rek + rek (reduplication)",
+          "grammaticalMeaning": "repeated barking"
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:vinusak",
+          "relationshipType": "domain",
+          "note": "typical producer of sound"
+        },
+        {
+          "@id": "ehk:sak",
+          "relationshipType": "domain",
+          "note": "typical producer of sound"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ret",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ret",
+        "phoneticRep": "ret"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *retu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "arm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ris",
+        "phoneticRep": "ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ris-u",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "reed",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:rok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "rok",
+        "phoneticRep": "rok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Sindarin roch",
+        "etymon:meaning": "horse",
+        "etymon:period": "Early Hick"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "horse",
+            "@language": "en"
+          },
+          "usage": "Shows elvish introduction of horses",
+          "lexinfo:semanticField": [
+            "Animals",
+            "Pastoral Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:rok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "rok",
+        "phoneticRep": "rok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:borrowedFrom": "Sindarin roch",
+        "etymon:meaning": "horse",
+        "etymon:period": "Early Hick"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "horse",
+            "@language": "en"
+          },
+          "usage": "Shows elvish introduction of horses",
+          "lexinfo:semanticField": [
+            "Animals",
+            "Pastoral Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ru",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Conjunction"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ru",
+        "phoneticRep": "ru"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "and",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Conjunction"
+        }
+      ]
+    }
+  ]
+}

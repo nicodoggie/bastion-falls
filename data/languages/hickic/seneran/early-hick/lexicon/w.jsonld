@@ -1,0 +1,400 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_W",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - W entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:wad",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wad",
+        "phoneticRep": "wad"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *wadu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "path",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "way, manner",
+            "@language": "en"
+          },
+          "usage": "Extended metaphorical meaning",
+          "lexinfo:semanticField": [
+            "Sacred",
+            "Philosophical Terms",
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wak",
+        "phoneticRep": "wak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *waka",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "breast",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wakai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wak'ai",
+        "phoneticRep": "wak.ʔai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "waka-ahi",
+        "etymon:gloss": "breast-water",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "milk",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Food & Drink"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:waketh",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wak'eth",
+        "phoneticRep": "wak.ʔeθ"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "waka-ethe",
+        "etymon:gloss": "breast-ABL",
+        "etymon:soundChange": [
+          "compound formation",
+          "final vowel loss",
+          "glottal stop insertion at morpheme boundary"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to nurse",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Basic Actions"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wakat",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wakat",
+        "phoneticRep": "wa.kət"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "waka-xitu",
+        "etymon:gloss": "breast-knot",
+        "etymon:soundChange": [
+          "compound formation",
+          "unstressed vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "nipple",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ward",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ward",
+        "phoneticRep": "ward"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *wardu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "direction, guidance",
+            "@language": "en"
+          },
+          "usage": "Base nominal form",
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Sacred"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "ward-'er",
+          "phoneticRep": "war.dʔer",
+          "decomposition": "ward + -'er (verbalizer)",
+          "grammaticalMeaning": "to guide/direct (verbal form)"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wen",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wen",
+        "phoneticRep": "wen"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wen-u",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "flower",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wenkulok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wenkulok",
+        "phoneticRep": "wen.ku.lok"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:wen'al"
+        },
+        {
+          "@id": "ehk:kulok"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wen'al-kulok",
+        "etymon:gloss": "woman-sorcerer",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows regularization of gender marking in professional terms"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sorceress",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Magic Terms",
+            "Professional Terms"
+          ],
+          "usage": "Neutral/respectful term for female magic user",
+          "lexinfo:register": "formal"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wes",
+        "phoneticRep": "wes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *wesu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cover, enclose",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wud",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wud",
+        "phoneticRep": "wud"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wud-u",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wood, tree",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Timber Terms",
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wudlambe",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wudlambe",
+        "phoneticRep": "wud.lam.be"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:wud"
+        },
+        {
+          "@id": "ehk:lambe"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wud-lambe",
+        "etymon:gloss": "wood-tongue",
+        "etymon:note": "Parallels edel 'Wood Elf', most common Elven contact language"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Wood Elven (Sindarin)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms",
+            "Eldrim Terms"
+          ],
+          "usage": "Common term for Wood Elven language"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_E",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - E entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:eldalulbres",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "eldalulbres",
+        "phoneticRep": "el.da.lul.bres"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:eldal"
+        },
+        {
+          "@id": "ehk:bres"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "eldal-ul-bres",
+        "etymon:meaning": "elf-POSS-wind",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Emerged after Eldrim conflicts, showing cultural trauma"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "north wind",
+            "@language": "en"
+          },
+          "usage": "Replaced torulbres in most dialects after Eldrim contact",
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Directional Terms",
+            "Cultural Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:eldegralen_asadimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:ProperNoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eldegralen asadimris",
+        "phoneticRep": "ʔel.də.gra.len a.sa.dim.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'eldegral-en asad-imris",
+        "etymon:gloss": "feywild-MED.VIS.INAN bridge-ELL",
+        "etymon:note": "Shows formal preservation of medial marker and elative case"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "The Elven Bridge",
+            "@language": "en"
+          },
+          "literalMeaning": "bridge from/through the feywild",
+          "usage": "Shows formal/sacred term patterns with case marking",
+          "lexinfo:semanticField": [
+            "Place Names",
+            "Infrastructure",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:eldul",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "eldul",
+        "phoneticRep": "el.dul"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "eldalulbres",
+        "etymon:gloss": "elven-wind",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows historical Eldrim influence on directional system"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "north",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Directional Terms",
+            "Wind Terms"
+          ],
+          "usage": "Derived from term for north wind"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:eltek",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "eltek",
+        "phoneticRep": "el.tek"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔelu-taku",
+        "etymon:components": [
+          "*ʔelu (INST)",
+          "*taku (strike)"
+        ],
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "From phrase 'grale ʔelu taku' (soil together hit). Shows development from physical action to resultant state"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "compacted, condensed (especially of soil)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Earth Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shaped from loose material",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Earth Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:-'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Suffix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'er",
+        "phoneticRep": "ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *heru",
+        "etymon:gloss": "motion",
+        "etymon:soundChange": [
+          "initial h > ʔ",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "verbalizer suffix that creates verbs from nouns and property concepts",
+            "@language": "en"
+          },
+          "usage": "Standard realization is always -'er in the standard language, with dialectal -er after plosives",
+          "lexinfo:partOfSpeech": "suffix",
+          "lexinfo:morphosyntacticProperty": "verbalizer"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'eteleth",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Interrogative"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eteleth",
+        "phoneticRep": "ʔe.te.leθ"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *haka-tel-eth",
+        "etymon:gloss": "what-time-MED"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (sensed time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'etelum",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Interrogative"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'etelum",
+        "phoneticRep": "ʔe.te.lum"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *haka-tel-um",
+        "etymon:gloss": "what-time-DIST"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "when (unknown time)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Distal",
+            "Temporal"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:etil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "etil",
+        "phoneticRep": "e.til"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *etilu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "thing",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'etil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'etil",
+        "phoneticRep": "ʔe.til"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-etilu",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "etilu (thing)"
+        ],
+        "etymon:soundChange": "animacy prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "living thing",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:etilsim",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adverb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "etilsim",
+        "phoneticRep": "e.til.sim"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:etil"
+        },
+        {
+          "@id": "ehk:sim"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "etil-sim",
+        "etymon:gloss": "thing-TRANS",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Shows lexicalization of translative case into expression of both transformation and resignation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "everything changes/transforms (with implications of resignation/indifference)",
+            "@language": "en"
+          },
+          "usage": "Often used as resigned response to change or loss",
+          "lexinfo:register": "philosophical-colloquial",
+          "lexinfo:semanticField": [
+            "Abstract Concepts",
+            "Philosophical Terms"
+          ]
+        }
+      ]
+    }
+  ]
+}

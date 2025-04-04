@@ -213,6 +213,29 @@
       "rdfs:label": "Taboo Replacement",
       "rdfs:comment": "Replacement of a word due to social restrictions"
     },
+    {
+      "@id": "SoundChangeStage",
+      "@type": "owl:Class",
+      "rdfs:subClassOf": "ChronologicalStage",
+      "rdfs:label": "Sound Change Stage",
+      "rdfs:comment": "A distinct period of sound changes in a language's development"
+    },
+    {
+      "@id": "hasSoundChanges",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "SoundChangeStage",
+      "rdfs:range": "baphon:SoundChange",
+      "rdfs:label": "Has Sound Changes",
+      "rdfs:comment": "Links a stage to its sound changes"
+    },
+    {
+      "@id": "hasStage",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "EtymologyCollection",
+      "rdfs:range": "SoundChangeStage",
+      "rdfs:label": "Has Stage",
+      "rdfs:comment": "Links an etymology collection to its chronological stages"
+    },
     
     // Properties
     {
@@ -224,28 +247,12 @@
       "rdfs:comment": "Links a lexical entry to its etymology"
     },
     {
-      "@id": "descendsFrom",
-      "@type": "owl:ObjectProperty",
-      "rdfs:domain": "EtymologicalForm",
-      "rdfs:range": "EtymologicalForm",
-      "rdfs:label": "Descends From",
-      "rdfs:comment": "Indicates direct ancestral relationship between forms"
-    },
-    {
       "@id": "hasIntermediateForm",
       "@type": "owl:ObjectProperty",
       "rdfs:domain": "Etymology",
       "rdfs:range": "EtymologicalForm",
       "rdfs:label": "Has Intermediate Form",
       "rdfs:comment": "Specifies a form in the developmental chain of a word"
-    },
-    {
-      "@id": "derives",
-      "@type": "owl:ObjectProperty",
-      "rdfs:domain": "Etymology",
-      "rdfs:range": "EtymologicalForm",
-      "rdfs:label": "Derives",
-      "rdfs:comment": "Indicates the ultimate source of a word"
     },
     {
       "@id": "hasCognate",
@@ -430,6 +437,22 @@
       "rdfs:range": "xsd:string",
       "rdfs:label": "Has Certainty",
       "rdfs:comment": "How certain the etymological claim is (certain, probable, speculative)"
+    },
+    {
+      "@id": "derivedForm",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "EtymologicalForm",
+      "rdfs:label": "Derived Form",
+      "rdfs:comment": "The resulting form after etymological development"
+    },
+    {
+      "@id": "sourceForm",
+      "@type": "owl:ObjectProperty",
+      "rdfs:domain": "Etymology",
+      "rdfs:range": "EtymologicalForm",
+      "rdfs:label": "Source Form",
+      "rdfs:comment": "The original form from which a word develops"
     }
   ]
 }

@@ -2266,9 +2266,9 @@ subordination.
 
 2. Medial Forms (Hidden but Sensed)
 
-   - 'akaleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
-   - 'akateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
-   - 'akatereth [ʔe.te.leθ] < 'aka-ter-eth "when" (sensed time)
+   - 'akaleth, 'aleth [ʔa.leθ] < 'aka-'al-eth "who" (sensed person)
+   - 'akateth, 'ateth [ʔa.teθ] < 'aka-tal-eth "where" (sensed location)
+   - 'akatereth, 'atereth [ʔa.te.reθ], < 'aka-ter-eth "when" (sensed time)
    - 'akereth [ʔa.ke.reθ] < 'aka-'er-eth "how" (sensed manner)
 
 3. Distal Forms (Out of Sight/Unknown)

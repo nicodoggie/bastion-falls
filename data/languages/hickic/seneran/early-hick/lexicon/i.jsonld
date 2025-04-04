@@ -1,0 +1,1660 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_I",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - I entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:'ibri",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ibri",
+        "phoneticRep": "ʔib.ri"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *'ibari",
+        "etymon:soundChange": "vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "manure, fertilizer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Agricultural Terms",
+            "Tool Terms"
+          ],
+          "lexinfo:register": "lexinfo:technicalRegister"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ibrigral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ibrigral",
+        "phoneticRep": "ʔib.ri.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'ibri"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ibri-gral",
+        "etymon:gloss": "manure-land",
+        "etymon:note": "Shows development from fertilization practice to agricultural land"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "farmlands, cultivated fields",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Agricultural Terms",
+            "Landscape Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ibris'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ibris'er",
+        "phoneticRep": "ʔi.bris.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ibris-'er",
+        "etymon:gloss": "burn-VERB",
+        "etymon:note": "Base form for metaphorical extensions to passion and anger"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to burn",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Elemental Terms",
+            "Fire Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'il",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'il",
+        "phoneticRep": "ʔil"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-halu",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "halu (good)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative change",
+          "vowel coalescence"
+        ],
+        "etymon:note": "Shows archaic animacy marking through glottal prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "good, kind",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilibris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilibris",
+        "phoneticRep": "ʔi.li.bris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'il-'ibris",
+        "etymon:gloss": "good-burn",
+        "etymon:note": "Shows positive metaphorical extension of burning sensation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "passion; inspire fervor",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotion Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ilibris'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilibris'er",
+        "phoneticRep": "ʔi.li.bris.ʔer"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:ilibris"
+        },
+        {
+          "@id": "ehk:er"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilibris-'er",
+        "etymon:gloss": "passion-VERB",
+        "etymon:note": "Euphemistic term showing cultural preference for warmth/fire metaphors in intimate contexts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "(euphemistic) to make love, have sexual intercourse",
+            "@language": "en"
+          },
+          "lexinfo:register": "euphemistic",
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilis",
+        "phoneticRep": "ʔi.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-lisu",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "lisu (sight)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Semantic extension from 'sight' to 'knowledge'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "knowledge",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Perception Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilis'er",
+          "phoneticRep": "ʔi.lis.ʔer",
+          "decomposition": "'ilis + -'er (verbalizer)",
+          "grammaticalMeaning": "to know"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilisal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisal",
+        "phoneticRep": "ʔi.li.sal"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'ilis"
+        },
+        {
+          "@id": "ehk:'al"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-'al",
+        "etymon:gloss": "knowledge-person",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic development from 'knowledge-person' to active experiential learning"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "visit (a place)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Action Terms",
+            "Motion Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "experience personally",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Action Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "confirm via experiment",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilisal'er",
+          "phoneticRep": "ʔi.li.sal.ʔer",
+          "decomposition": "'ilisal + -'er (verbalizer)",
+          "grammaticalMeaning": "to visit, to experience firsthand"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilisimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisimris",
+        "phoneticRep": "ʔi.li.sim.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-imris",
+        "etymon:gloss": "knowledge-ELL",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Shows productive use of ellative for causative meanings"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to teach",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Social Terms",
+            "Action Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilisok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisok",
+        "phoneticRep": "ʔi.li.sok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-ok",
+        "etymon:gloss": "knowledge-AGENT",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "teacher",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Social Terms",
+            "Occupations"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilistal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilistal",
+        "phoneticRep": "ʔi.lis.tal"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'ilis"
+        },
+        {
+          "@id": "ehk:tal"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-tal",
+        "etymon:gloss": "knowledge-place",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows development of dedicated learning spaces"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "library",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Learning Terms",
+            "Building Terms"
+          ],
+          "usage": "Place for storing and accessing knowledge"
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "school",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Learning Terms",
+            "Building Terms"
+          ],
+          "usage": "Place for formal instruction"
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:'ilisal",
+          "relationshipType": "contrasts with",
+          "note": "formal vs. experiential learning"
+        },
+        {
+          "@id": "ehk:'ilis",
+          "relationshipType": "semantic domain",
+          "note": "knowledge terminology"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilistal'er",
+          "phoneticRep": "ʔi.lis.tal.ʔer",
+          "decomposition": "'ilistal + -'er (verbalizer)",
+          "grammaticalMeaning": "to study formally, to attend school"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ilitar_sarespes",
+      "@type": [
+        "ontolex:MultiwordExpression",
+        "lexinfo:MultiwordExpression"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilitar sarespes",
+        "phoneticRep": "ʔi.li.tar sa.res.pes"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:il"
+        },
+        {
+          "@id": "ehk:saresp"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'il-itar saresp-es",
+        "etymon:gloss": "good-SUPE sprout-ABS"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Happy New Year (greeting)",
+            "@language": "en"
+          },
+          "usage": "Traditional greeting exchanged on New Year's Day",
+          "lexinfo:semanticField": [
+            "Common Phrases",
+            "Sacred Terms",
+            "Time Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilsul",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilsul",
+        "phoneticRep": "ʔil.sul"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'il"
+        },
+        {
+          "@id": "ehk:sul"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'il-sul",
+        "etymon:gloss": "good-liver",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural conceptualization of liver as seat of emotions, particularly positive ones"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "happiness, joy",
+            "@language": "en"
+          },
+          "usage": "Often appears in well-wishing expressions",
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Body Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'ilsul'er",
+          "phoneticRep": "ʔil.sul.ʔer",
+          "decomposition": "'ilsul + -'er (verbalizer)",
+          "grammaticalMeaning": "to be happy"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:iltakutak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'iltakutak",
+        "phoneticRep": "ʔil.ta.ku.tak"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:il"
+        },
+        {
+          "@id": "ehk:takutak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'il-takutak",
+        "etymon:gloss": "good-rhythm",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural conceptualization of peace as harmonious rhythm"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "peace, harmony",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Social Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:im",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "im",
+        "phoneticRep": "im"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔimru",
+        "etymon:soundChange": [
+          "liquid deletion in unstressed position",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil, abstract negativity",
+            "@language": "en"
+          },
+          "usage": "Used for abstract concepts of evil/negativity",
+          "lexinfo:semanticField": [
+            "Sacred",
+            "Negation",
+            "Abstract Concepts"
+          ],
+          "lexinfo:register": "lexinfo:religiousRegister"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imasam",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imasam",
+        "phoneticRep": "i.ma.sam"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-asam",
+        "etymon:gloss": "evil-rest",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension of 'resting under' to fearful hiding"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to cower, hide from fear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Position Terms",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imasamok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imasamok",
+        "phoneticRep": "i.ma.sa.mok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imasam-ok",
+        "etymon:gloss": "cower-AGENT",
+        "etymon:soundChange": "agentive suffix",
+        "etymon:note": "Shows productive use of agentive suffix with compound base"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "coward",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Character Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imbel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imbel",
+        "phoneticRep": "im.bel"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:im"
+        },
+        {
+          "@id": "ehk:bel"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-bel",
+        "etymon:gloss": "evil-tongue",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bad language, swear words",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Speech Terms",
+            "Body Terms",
+            "Taboo Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'imer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imer",
+        "phoneticRep": "ʔi.mer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-mer",
+        "etymon:components": [
+          "hi (animacy marker)"
+        ],
+        "etymon:soundChange": "animacy prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "life",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imeresp",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imeresp",
+        "phoneticRep": "i.me.resp"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imer-esp",
+        "etymon:gloss": "breath-under",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sleep",
+            "@language": "en"
+          },
+          "usage": "Shows metaphorical extension of breath/spirit sinking",
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Body Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "imeresp'er",
+          "phoneticRep": "i.me.res.pʔer",
+          "decomposition": "imeresp + -'er (verbalizer)",
+          "grammaticalMeaning": "to sleep"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'imeritares",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imeritares",
+        "phoneticRep": "ʔi.me.ri.ta.res",
+        "variantForms": [
+          {
+            "writtenRep": "imeritares",
+            "phoneticRep": "i.me.ri.ta.res"
+          },
+          {
+            "writtenRep": "imritares",
+            "phoneticRep": "im.ri.ta.res"
+          }
+        ]
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'imer-itar-es",
+        "etymon:gloss": "life-SUPE-ABS",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Dialectal loss of initial glottal allows reanalysis with imer 'breath/soul'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "welcome; raised spirits",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Common Phrases",
+            "Spirit Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imibris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imibris",
+        "phoneticRep": "im.i.bris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-'ibris",
+        "etymon:gloss": "ill-burn",
+        "etymon:note": "Shows negative metaphorical extension of burning sensation"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rage, anger; wrath",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotion Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlis",
+        "phoneticRep": "im.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-lis",
+        "etymon:gloss": "evil-see",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic development from 'seeing evil' to general fear"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fear, dread",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Mental Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imlis'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlis'er",
+        "phoneticRep": "im.li.sʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imlis-'er",
+        "etymon:gloss": "fear-VERB",
+        "etymon:soundChange": "verbalizer suffix",
+        "etymon:note": "Shows natural development from fear to flight response"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to flee, run from fear",
+            "@language": "en"
+          },
+          "usage": "Contrasts with trask'er 'run (neutral)'",
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imlisitar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlisitar",
+        "phoneticRep": "im.li.si.tar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imlis-itar",
+        "etymon:gloss": "fear-SUPE",
+        "etymon:soundChange": "case lexicalization",
+        "etymon:note": "Uses superlative case to indicate sudden upward movement"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to flinch, startle",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Body Actions",
+            "Emotional Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imlisrur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imlisrur",
+        "phoneticRep": "im.lis.rur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imlis-rur",
+        "etymon:gloss": "fear-ITER",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows extension of iterative aspect to ongoing mental state"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "anxiety, constant fear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Mental Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'imsai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imsai",
+        "phoneticRep": "ʔim.sai"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'im"
+        },
+        {
+          "@id": "ehk:sai"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'im-sai",
+        "etymon:gloss": "negative-introspection",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural conceptualization of anxiety as negative self-reflection"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "self-doubt, anxiety",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Emotional Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'imsai'er",
+          "phoneticRep": "ʔim.sai.ʔer",
+          "decomposition": "'imsai + -'er (verbalizer)",
+          "grammaticalMeaning": "to doubt oneself, be anxious"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imtir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtir",
+        "phoneticRep": "im.tir"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:im"
+        },
+        {
+          "@id": "ehk:tir"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-tir",
+        "etymon:gloss": "NEG-ferment",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension of fermentation process to negative outcome"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rot, decay",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Process Terms",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imtirdu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtirdu",
+        "phoneticRep": "im.tir.du"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:imtir"
+        },
+        {
+          "@id": "ehk:du"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imtir-du",
+        "etymon:gloss": "rot-meat",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows semantic extension from rotting meat to cadaver. Contrasts with du for fresh meat"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rotting meat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Death Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cadaver",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Death Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imtirlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtirlis",
+        "phoneticRep": "im.tir.lis"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:imtir"
+        },
+        {
+          "@id": "ehk:branlis"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imtir-lis",
+        "etymon:gloss": "rot-fruit",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural understanding of mushrooms as fruits of decay"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mushroom",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imur",
+        "phoneticRep": "i.mur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *imuru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil, negative force",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred",
+            "Negation"
+          ],
+          "lexinfo:register": "lexinfo:religiousRegister"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurai",
+        "phoneticRep": "i.mu.rai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *imur-ai",
+        "etymon:components": [
+          "imur (bad)",
+          "ai (air)"
+        ],
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stinky",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Sensory Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurkulok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurkulok",
+        "phoneticRep": "i.mur.ku.lok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-kul-ok",
+        "etymon:components": [
+          "imur (evil)",
+          "kul (magic)",
+          "-ok (AGENT)"
+        ],
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "necromancer",
+            "@language": "en"
+          },
+          "usage": "Literally 'evil magic worker'",
+          "lexinfo:semanticField": [
+            "Magical Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'imwen",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imwen",
+        "phoneticRep": "ʔim.wen"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'im"
+        },
+        {
+          "@id": "ehk:wen'al"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'im-wen'al",
+        "etymon:gloss": "evil-woman",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows pejorative development in magical terminology"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "witch, evil woman",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Magic Terms",
+            "Gender Terms"
+          ],
+          "usage": "Pejorative term for female magic user",
+          "lexinfo:register": "derogatory"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imwes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imwes",
+        "phoneticRep": "im.wes"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:im"
+        },
+        {
+          "@id": "ehk:wes"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-wes",
+        "etymon:meaning": "evil-enclose",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows productive use of im- prefix for harmful actions"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "invade, encroach upon",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Action Terms",
+            "Conflict Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ir",
+        "phoneticRep": "ʔir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *heru",
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Source of verbalizer suffix -'er through grammaticalization"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "movement, motion",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irek",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irek",
+        "phoneticRep": "ʔi.rek"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-reku",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "reku (firm)"
+        ],
+        "etymon:soundChange": [
+          "initial fricative change",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows archaic animacy marking through glottal prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stand, firmness",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Position Terms",
+            "Action Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "'irek'er",
+          "phoneticRep": "ʔi.rek.ʔer",
+          "decomposition": "'irek + -'er (verbalizer)",
+          "grammaticalMeaning": "to stand"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irur",
+        "phoneticRep": "ʔi.rur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *heru-heru",
+        "etymon:soundChange": [
+          "initial fricative change",
+          "compound reduction"
+        ],
+        "etymon:note": "From reduplicated form of *heru 'action'. Forms grammaticalized iterative marker -rur/-ur"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "repetition, again",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Grammatical Terms",
+            "Motion Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'iruretil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'iruretil",
+        "phoneticRep": "ʔi.ru.re.til"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'irur-etil",
+        "etymon:gloss": "hollow-thing",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural link between containers and proper gifts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "gift",
+            "@language": "en"
+          },
+          "usage": "Always inanimate, reflecting cultural norms",
+          "lexinfo:semanticField": [
+            "Material Culture",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irursibris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irursibris",
+        "phoneticRep": "ʔi.rur.sib.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'irur-sibris",
+        "etymon:gloss": "hollow-love",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Used for ceremonial and marriage gifts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ceremonial gift, dowry",
+            "@language": "en"
+          },
+          "usage": "Used for significant life events and marriage gifts",
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Social Terms",
+            "Marriage Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:istor",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "istor",
+        "phoneticRep": "is.tor"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-storu",
+        "etymon:soundChange": "initial sibilant loss, final vowel loss",
+        "etymon:note": "With animate prefix hi-"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "growth (living)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Sacred Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'it",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'it",
+        "phoneticRep": "ʔit"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xitu",
+        "etymon:intermediateForm": "hitu",
+        "etymon:soundChange": [
+          "initial fricative loss",
+          "final vowel loss"
+        ]
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "knot (in wood)",
+            "@language": "en"
+          },
+          "usage": "Specifically refers to natural knots in wood/lumber",
+          "lexinfo:semanticField": [
+            "Construction Terms",
+            "Natural Features"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "falsehood",
+            "@language": "en"
+          },
+          "usage": "Metaphorical extension from deviation in wood grain",
+          "lexinfo:semanticField": [
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    }
+  ]
+}

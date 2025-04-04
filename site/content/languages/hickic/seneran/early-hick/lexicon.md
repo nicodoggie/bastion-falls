@@ -33,5 +33,116 @@ For stress-related vowel changes,
 4. Example sentences show full morphological analysis
 5. Apostrophes (') are used to transcribe glottal stops in phonemic transcriptions
 
-{{ lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick-alphabetical.json",
+# Lexicon, Sorted Alphabetically
+
+## Suffixes
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_--alphabetical.json", format="json") }}
+
+## A
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_a-alphabetical.json", format="json") }}
+
+## B
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_b-alphabetical.json",
+format="json") }}
+
+## D
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_d-alphabetical.json",
+format="json") }}
+
+## E
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_e-alphabetical.json",
+format="json") }}
+
+## G
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_g-alphabetical.json",
+format="json") }}
+
+## H
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_h-alphabetical.json",
+format="json") }}
+
+## I
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_i-alphabetical.json",
+format="json") }}
+
+## K
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_k-alphabetical.json",
+format="json") }}
+
+## L
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_l-alphabetical.json",
+format="json") }}
+
+## M
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_m-alphabetical.json",
+format="json") }}
+
+## N
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_n-alphabetical.json",
+format="json") }}
+
+## P
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_p-alphabetical.json",
+format="json") }}
+
+## R
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_r-alphabetical.json",
+format="json") }}
+
+## S
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_s-alphabetical.json",
+format="json") }}
+
+## T
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_t-alphabetical.json",
+format="json") }}
+
+## U
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_u-alphabetical.json",
+format="json") }}
+
+## V
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_v-alphabetical.json",
+format="json") }}
+
+## W
+
+{{
+lexicon(path="content/languages/hickic/seneran/early-hick/lexicon-earlyhick_w-alphabetical.json",
 format="json") }}

@@ -1,0 +1,594 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_B",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - B entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:ba",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ba",
+        "phoneticRep": "ba"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bahu",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "father",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ba",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ba",
+        "phoneticRep": "ba"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bahu",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "father",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ba",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ba",
+        "phoneticRep": "ba"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bahu",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "father",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ba",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ba",
+        "phoneticRep": "ba"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bahu",
+        "etymon:soundChange": "vowel coalescence"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "father",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bar",
+        "phoneticRep": "bar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *baru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "name, mark of identity",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Identity Terms",
+            "Social Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "barlass",
+          "phoneticRep": "bar.las",
+          "decomposition": "bar + -las (illative)",
+          "grammaticalMeaning": "personal name"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "barimris",
+          "phoneticRep": "ba.rim.ris",
+          "decomposition": "bar + -imris (elative)",
+          "grammaticalMeaning": "reputation, public name"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "bar'er",
+          "phoneticRep": "bar.ʔer",
+          "decomposition": "bar + -'er (verbalizer)",
+          "grammaticalMeaning": "to name, to call"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "thralbar",
+          "phoneticRep": "θral.bar",
+          "decomposition": "thral + bar",
+          "grammaticalMeaning": "sacred name"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "barul",
+          "phoneticRep": "ba.rul",
+          "decomposition": "bar + -ul (possessive)",
+          "grammaticalMeaning": "name-keeper"
+        },
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "mobar",
+          "phoneticRep": "mo.bar",
+          "decomposition": "mo- + bar (negation)",
+          "grammaticalMeaning": "unnamed, nameless"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:barakter",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "barakter",
+        "phoneticRep": "ba.rak.ter"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:barak"
+        },
+        {
+          "@id": "ehk:ter"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "barak-ter",
+        "etymon:gloss": "walk-time",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Distance measure based on one hour's walking time. Shows temporal suffix used for distance measurement."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "league (distance walkable in one hour, roughly 3-4 miles)",
+            "@language": "en"
+          },
+          "usage": "Often shortened to rakter in colloquial speech",
+          "lexinfo:semanticField": [
+            "Measurement Terms",
+            "Distance Terms",
+            "Time Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "rakter",
+          "phoneticRep": "rak.ter",
+          "decomposition": "shortened form of barakter",
+          "grammaticalMeaning": "colloquial form for league"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bramis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bramis",
+        "phoneticRep": "bra.mis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bram-mis",
+        "etymon:meaning": "tide-mist",
+        "etymon:soundChange": "nasal deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sea mist, coastal fog",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Precipitation",
+            "Maritime Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bran",
+        "phoneticRep": "bran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bran-u",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "branch",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brastak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brastak",
+        "phoneticRep": "bras.tak"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:brast"
+        },
+        {
+          "@id": "ehk:tak"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "brast-tak",
+        "etymon:gloss": "arm-strike",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metonymic extension from action to implements"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "weapons, armaments",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Weapon Terms",
+            "Military Terms"
+          ],
+          "usage": "Often used collectively for military equipment"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brastok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brastok",
+        "phoneticRep": "bras.tok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "brast-ok",
+        "etymon:gloss": "dominant.arm-AGENT",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows cultural importance of manual craft skills"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "craftsman, artisan",
+            "@language": "en"
+          },
+          "usage": "General term for skilled manual craftworkers",
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brastran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brastran",
+        "phoneticRep": "bras.tran"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:brast"
+        },
+        {
+          "@id": "ehk:ran"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "brast-ran",
+        "etymon:gloss": "arm-length",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows development of -ran as measurement suffix from *haranu 'length'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "foot (unit of length, approximately arm-length)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Measurement Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bres",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bres",
+        "phoneticRep": "bres"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bresu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wind",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bresubel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bresubel",
+        "phoneticRep": "bre.su.bel"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:bresu"
+        },
+        {
+          "@id": "ehk:bel"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bresu-bel",
+        "etymon:gloss": "shout-mouth",
+        "etymon:protoform": "Proto-Hick *bresu-belu",
+        "etymon:soundChange": [
+          "compound fusion",
+          "final vowel loss"
+        ],
+        "etymon:note": "Shows typical compound formation with body part term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "shout, yell",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Body Terms",
+            "Communication Terms"
+          ],
+          "usage": "Basic term for loud vocal expression"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "bresubel'er",
+          "phoneticRep": "bre.su.bel.ʔer",
+          "decomposition": "bresubel + -'er (verbalizer)",
+          "grammaticalMeaning": "to shout, to yell"
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:'u'u",
+          "relationshipType": "contrasts with",
+          "note": "loud vs. soft vocal expression"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brismal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brismal",
+        "phoneticRep": "bris.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bris-mal",
+        "etymon:gloss": "heat-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "forge (native term)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Construction Terms",
+            "Tool Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brismer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brismer",
+        "phoneticRep": "bris.mer"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:bris"
+        },
+        {
+          "@id": "ehk:mer"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bris-mer",
+        "etymon:gloss": "fire-parent/heart",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows ambiguous compound analysis between 'passionate-parent' and 'fire-heart'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "passionate lover",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Love Terms",
+            "Person Terms",
+            "Family Terms"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,7 +12,12 @@ speakers of Hick languages continued to use their languages in everyday life.
 
 ## Seneran Hick
 
-Seneran Hick considered the typifying language of the Hick family. The languages
+{% see %}[Seneran Hick](@/languages/hickic/seneran/){% end %}
+
+The Seneran Hick family was one of the first language groups that was described
+by Ronald Ruel, considered the father of the field of Linguistics. The family
+consists of the various languages spoken in and around Senera. Present-day
+The languages
 of the Seneran Hick family are spoken in the main Seneran Island, and are the
 substrates of the modern Seneran language.
 

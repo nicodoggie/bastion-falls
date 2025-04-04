@@ -1,0 +1,646 @@
+{
+  "@context": {
+    "@vocab": "http://www.w3.org/ns/lemon/ontolex#",
+    "ontolex": "http://www.w3.org/ns/lemon/ontolex#",
+    "lexinfo": "http://www.lexinfo.net/ontology/3.0/lexinfo#",
+    "decomp": "http://www.w3.org/ns/lemon/decomp#",
+    "etymon": "http://www.lexinfo.net/lemon/etymon#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "lime": "http://www.w3.org/ns/lemon/lime#",
+    "lexvo": "http://lexvo.org/id/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "bf": "https://bastion-falls.thekennel.info/languages/",
+    "ehk": "#"
+  },
+  "@id": "lexicon:EarlyHick_G",
+  "@type": "lime:Lexicon",
+  "dc:title": "Early Hick Lexicon - G entries",
+  "dc:language": {
+    "@id": "bf:hickic/seneran/early-hick",
+    "skos:prefLabel": "Early Hick"
+  },
+  "@graph": [
+    {
+      "@id": "ehk:gar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gar",
+        "phoneticRep": "gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *garu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stone",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gar",
+        "phoneticRep": "gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *garu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stone",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gar",
+        "phoneticRep": "gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *garu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stone",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gar",
+        "phoneticRep": "gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *garu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "stone",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ger",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ger",
+        "phoneticRep": "ger"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kurger",
+        "etymon:gloss": "moss-stone",
+        "etymon:protoform": "Proto-Hick *kuru-garu",
+        "etymon:soundChange": "compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "metal",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metals",
+            "Material Culture",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gnar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gnar",
+        "phoneticRep": "gnar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *gnaru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "correct",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms"
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "gnar-'er",
+          "phoneticRep": "gnar.ʔer",
+          "decomposition": "gnar + -'er (verbalizer)",
+          "grammaticalMeaning": "to be correct"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gnater",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gnater",
+        "phoneticRep": "gna.ter"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:gnar"
+        },
+        {
+          "@id": "ehk:ter"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gnar-ter",
+        "etymon:meaning": "correct-flow",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "desire",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Emotional Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gral",
+        "phoneticRep": "gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *gralu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earth, soil",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural World",
+            "Elements"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gral",
+        "phoneticRep": "gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *gralu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earth, soil",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Natural World"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gral",
+        "phoneticRep": "gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *gralu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earth, soil",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Natural World"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gral",
+        "phoneticRep": "gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *gralu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earth, soil",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Natural World"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gralimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gralimris",
+        "phoneticRep": "gra.lim.ris"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gral-imris",
+        "etymon:gloss": "soil-ELL",
+        "etymon:soundChange": "case lexicalization"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "excrement",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Medical Terms",
+            "Body Terms"
+          ],
+          "lexinfo:register": "lexinfo:formalRegister"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:granmal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "granmal",
+        "phoneticRep": "gran.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gran-mal",
+        "etymon:meaning": "grain-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grain storage",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Agricultural Terms",
+            "Storage Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gransed",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gransed",
+        "phoneticRep": "gran.sed"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-sed",
+        "etymon:meaning": "grass-seed",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Place Terms",
+            "Cultivated Plants"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:grapar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "grapar",
+        "phoneticRep": "gra.par"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:gral"
+        },
+        {
+          "@id": "ehk:par"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gral-par",
+        "etymon:gloss": "earth-crawl",
+        "etymon:soundChange": "liquid deletion",
+        "etymon:note": "Shows descriptive compound formation based on movement"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earthworm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animals",
+            "Earth Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gras",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gras",
+        "phoneticRep": "gras"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-u",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grass",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gras",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gras",
+        "phoneticRep": "gras"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *grasu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grass",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Plant Terms",
+            "Natural World",
+            "Pastoral Terms",
+            "Basic Terms"
+          ]
+        }
+      ],
+      "derivedForms": [
+        {
+          "@type": "ontolex:Form",
+          "writtenRep": "gras'er",
+          "phoneticRep": "gras.ʔer",
+          "decomposition": "gras + -'er (verbalizer)",
+          "grammaticalMeaning": "to graze"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:grasgral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "grasgral",
+        "phoneticRep": "gras.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:gras"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-gral",
+        "etymon:meaning": "grass-earth",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "meadow, grassland",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora",
+            "Pastoral Terms",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:graswad",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "graswad",
+        "phoneticRep": "gras.wad"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-wad",
+        "etymon:meaning": "grass-path",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "pasture path",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Pasture Terms",
+            "Agricultural Terms"
+          ]
+        }
+      ]
+    }
+  ]
+}
