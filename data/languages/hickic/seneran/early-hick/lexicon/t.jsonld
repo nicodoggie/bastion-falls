@@ -34,7 +34,7 @@
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *tagu",
-        "etymon:soundChange": "final vowel loss"
+        "etymon:note": "Forms verb tag'er 'to make'"
       },
       "sense": [
         {
@@ -43,7 +43,10 @@
             "@value": "hand",
             "@language": "en"
           },
-          "lexinfo:semanticField": "Body Parts"
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Basic Actions"
+          ]
         }
       ]
     },
@@ -61,7 +64,6 @@
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *taku",
-        "etymon:soundChange": "final vowel loss",
         "etymon:note": "Onomatopoeic origin"
       },
       "sense": [
@@ -71,16 +73,19 @@
             "@value": "strike, impact",
             "@language": "en"
           },
-          "lexinfo:semanticField": "Basic Terms"
+          "lexinfo:semanticField": [
+            "Basic Terms"
+          ]
         },
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "right (direction)",
+            "@value": "touch, contact",
             "@language": "en"
           },
-          "usage": "Directional sense from cultural association with dominant striking hand",
-          "lexinfo:semanticField": "Directional Terms"
+          "lexinfo:semanticField": [
+            "Basic Terms"
+          ]
         }
       ]
     },
@@ -93,19 +98,30 @@
       "canonicalForm": {
         "@type": "ontolex:Form",
         "writtenRep": "takimer",
-        "phoneticRep": "ta.ki.mer"
+        "phoneticRep": "ˈta.ki.mɛr"
       },
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "taku-imer",
         "etymon:gloss": "rhythm-spirit",
-        "etymon:soundChange": "compound fusion"
+        "etymon:note": "Reflects early animistic understanding of sound phenomena"
       },
       "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
             "@value": "echo",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Spirit Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sound spirit",
             "@language": "en"
           },
           "lexinfo:semanticField": [
@@ -126,19 +142,10 @@
         "writtenRep": "takimris",
         "phoneticRep": "ta.kim.ris"
       },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:tak"
-        },
-        {
-          "@id": "ehk:imris"
-        }
-      ],
       "etymology": {
         "@type": "etymon:Etymology",
-        "etymon:derivation": "tak-imris",
+        "etymon:compound": "tak-imris",
         "etymon:gloss": "strike-ELL",
-        "etymon:soundChange": "case lexicalization",
         "etymon:note": "Shows development of aggressive meaning through ellative case"
       },
       "sense": [
@@ -166,19 +173,11 @@
         "writtenRep": "takulambe",
         "phoneticRep": "ta.ku.lam.be"
       },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:taku"
-        },
-        {
-          "@id": "ehk:lambe"
-        }
-      ],
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "taku-lambe",
         "etymon:gloss": "common-tongue",
-        "etymon:note": "Shows development of inter-cultural trade language"
+        "etymon:note": "Early Hick term for simplified Elven trade language. Shows development of inter-cultural communication"
       },
       "sense": [
         {
@@ -188,10 +187,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Language Terms",
-            "Trade Terms"
-          ],
-          "usage": "Trade and diplomatic contexts"
+            "Language Terms"
+          ]
         }
       ]
     },
@@ -716,896 +713,6 @@
       ]
     },
     {
-      "@id": "ehk:thimer",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thimer",
-        "phoneticRep": "θi.mer"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *ha-meru",
-        "etymon:intermediateForm": [
-          "*θameru",
-          "*θəmeru"
-        ],
-        "etymon:soundChange": [
-          "sacred prefix spirantization",
-          "unstressed vowel reduction",
-          "final vowel loss"
-        ]
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "spiritual nurturing, penitence",
-            "@language": "en"
-          },
-          "usage": "Used in ritual contexts",
-          "lexinfo:semanticField": [
-            "Sacred",
-            "Abstract Concepts"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirba",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirba",
-        "phoneticRep": "θir.ba"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:ba"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-ba",
-        "etymon:meaning": "elder-father",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandfather",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirba",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirba",
-        "phoneticRep": "θir.ba"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:ba"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-ba",
-        "etymon:meaning": "elder-father",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandfather",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirba",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirba",
-        "phoneticRep": "θir.ba"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:ba"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-ba",
-        "etymon:meaning": "elder-father",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandfather",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirba",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirba",
-        "phoneticRep": "θir.ba"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:ba"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-ba",
-        "etymon:meaning": "elder-father",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandfather",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirnai",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirnai",
-        "phoneticRep": "θir.nai"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:nai"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-nai",
-        "etymon:meaning": "elder-mother",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandmother",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirnai",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirnai",
-        "phoneticRep": "θir.nai"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:nai"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-nai",
-        "etymon:meaning": "elder-mother",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandmother",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirnai",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirnai",
-        "phoneticRep": "θir.nai"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:nai"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-nai",
-        "etymon:meaning": "elder-mother",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandmother",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirnai",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirnai",
-        "phoneticRep": "θir.nai"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thir"
-        },
-        {
-          "@id": "ehk:nai"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-nai",
-        "etymon:meaning": "elder-mother",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "grandmother",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Kinship Terms"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thirwud",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thirwud",
-        "phoneticRep": "θir.wud"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thir-wud",
-        "etymon:meaning": "white-wood",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "white wood",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Flora",
-            "Plant Terms",
-            "Timber Terms",
-            "Cultivated Plants"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thrakel",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thrakel",
-        "phoneticRep": "θra.kel"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thral"
-        },
-        {
-          "@id": "ehk:kel"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thral-kel",
-        "etymon:soundChange": "liquid deletion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "sun",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Celestial Bodies",
-            "Sacred"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thral",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thral",
-        "phoneticRep": "θral"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *harala",
-        "etymon:gloss": "sun deity",
-        "etymon:soundChange": "regular sound changes"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "sun; sacred",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Sacred Terms",
-            "Natural Terms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thralgral",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thralgral",
-        "phoneticRep": "θral.gral"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thral-gral",
-        "etymon:meaning": "sacred-earth",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "sacred earth; Consecrated ground used for rituals or burials",
-            "@language": "en"
-          },
-          "usage": "Consecrated ground used for rituals or burials",
-          "lexinfo:semanticField": [
-            "Sacred",
-            "Sacred Terms",
-            "Landforms"
-          ],
-          "lexinfo:register": "lexinfo:religiousRegister"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thralkel",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thralkel",
-        "phoneticRep": "θral.kel"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thral-kel",
-        "etymon:meaning": "sacred-sky",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "The celestial home of the gods",
-            "@language": "en"
-          },
-          "usage": "The celestial realm in religious context",
-          "lexinfo:semanticField": [
-            "Sacred",
-            "Celestial Terms"
-          ],
-          "lexinfo:register": "lexinfo:religiousRegister"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thralter",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thralter",
-        "phoneticRep": "θral.ter"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thral-ter",
-        "etymon:meaning": "sacred-flow",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "ritual progression",
-            "@language": "en"
-          },
-          "usage": "The proper sequence of ritual actions or ceremonies",
-          "lexinfo:semanticField": [
-            "Sacred",
-            "Sacred Terms",
-            "Time Terms"
-          ],
-          "lexinfo:register": "lexinfo:technicalRegister"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thralthren",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thralthren",
-        "phoneticRep": "θral.θren"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thral-thren",
-        "etymon:meaning": "sacred-watch",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "ritual observation",
-            "@language": "en"
-          },
-          "usage": "The act of watching or performing religious ceremonies",
-          "lexinfo:semanticField": [
-            "Sacred",
-            "Rituals",
-            "Action Terms"
-          ],
-          "lexinfo:register": "lexinfo:religiousRegister"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thralwad",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thralwad",
-        "phoneticRep": "θral.wad"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thral-wad",
-        "etymon:meaning": "sacred-path",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "ritual path",
-            "@language": "en"
-          },
-          "usage": "Both literal processional paths and metaphorical spiritual journeys",
-          "lexinfo:semanticField": [
-            "Sacred",
-            "Spatial Terms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thranal",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thranal",
-        "phoneticRep": "θra.nal"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thran-thral",
-        "etymon:gloss": "thousand-sacred",
-        "etymon:soundChange": "liquid deletion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "seasons",
-            "@language": "en"
-          },
-          "usage": "Shows cyclical time through metaphor of countless sacred days",
-          "lexinfo:semanticField": [
-            "Time Terms",
-            "Sacred Terms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thrantor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thrantor",
-        "phoneticRep": "θran.tor"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thran"
-        },
-        {
-          "@id": "ehk:tor"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thran-tor",
-        "etymon:meaning": "thousand peaks",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "mountain range",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thrantor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thrantor",
-        "phoneticRep": "θran.tor"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thran"
-        },
-        {
-          "@id": "ehk:tor"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thran-tor",
-        "etymon:meaning": "thousand peaks",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "mountain range",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thrantor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thrantor",
-        "phoneticRep": "θran.tor"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thran"
-        },
-        {
-          "@id": "ehk:tor"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thran-tor",
-        "etymon:meaning": "thousand peaks",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "mountain range",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thrantor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thrantor",
-        "phoneticRep": "θran.tor"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:thran"
-        },
-        {
-          "@id": "ehk:tor"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "thran-tor",
-        "etymon:meaning": "thousand peaks",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "mountain range",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:thren",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Verb"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "thren",
-        "phoneticRep": "θren"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *threnu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "observation, watching",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Sacred Terms",
-            "Perception"
-          ]
-        }
-      ],
-      "derivedForms": [
-        {
-          "@type": "ontolex:Form",
-          "writtenRep": "thren-'er",
-          "phoneticRep": "θren.ʔer",
-          "decomposition": "thren + -'er (verbalizer)",
-          "grammaticalMeaning": "to watch/observe (verbal form)"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:tir",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Numeral"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "tir",
-        "phoneticRep": "tir"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *tiru",
-        "etymon:note": "From basic form",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "two",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Number System"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:tir'er",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Verb"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "tir'er",
-        "phoneticRep": "tir.ʔer"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *tir",
-        "etymon:components": [
-          "tir (sour/wince)",
-          "-'er (verbalizer)"
-        ],
-        "etymon:soundChange": "verbalization"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "to wince",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Bodily Functions"
-        },
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "fermentation",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Process Terms"
-        }
-      ]
-    },
-    {
       "@id": "ehk:tor",
       "@type": [
         "ontolex:LexicalEntry",
@@ -1632,189 +739,6 @@
           "lexinfo:semanticField": [
             "Natural World",
             "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:tor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "tor",
-        "phoneticRep": "tor"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *toru",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "height, peak",
-            "@language": "en"
-          },
-          "usage": "See Augmentative Prefix",
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:tor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "tor",
-        "phoneticRep": "tor"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *toru",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "height, peak",
-            "@language": "en"
-          },
-          "usage": "See Augmentative Prefix",
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:tor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "tor",
-        "phoneticRep": "tor"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *toru",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "height, peak",
-            "@language": "en"
-          },
-          "usage": "See Augmentative Prefix",
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:toran",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "toran",
-        "phoneticRep": "to.ran"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *ranu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "river, flowing water",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Water Features"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:toran",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "toran",
-        "phoneticRep": "to.ran"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *ranu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "river, flowing water",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Water Features"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:toran",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "toran",
-        "phoneticRep": "to.ran"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *ranu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "river, flowing water",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Water Features"
           ]
         }
       ]
@@ -2220,6 +1144,1134 @@
             "@language": "en"
           },
           "lexinfo:semanticField": "Vehicle Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tag'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tag'er",
+        "phoneticRep": "tag.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tag-'er",
+        "etymon:gloss": "hand-VERB",
+        "etymon:note": "Shows concrete development from manual action to general creation. Contrasts with abstract 'ir'er 'to do'."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to make, to craft",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Actions",
+            "Body Parts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tagimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tagimris",
+        "phoneticRep": "tag.im.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tag-imris",
+        "etymon:gloss": "hand-ELL",
+        "etymon:note": "Shows common pattern of ellative case marking motion from hand. Contrasts with taglas 'take'."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "give",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Body Parts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:taglas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "taglas",
+        "phoneticRep": "tag.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tag-las",
+        "etymon:gloss": "hand-ILL",
+        "etymon:note": "Shows common pattern of illative case marking motion into hand. Contrasts with tagimris 'give'."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "take, receive",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Body Parts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:takal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takal",
+        "phoneticRep": "ta.kal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tak-'al",
+        "etymon:gloss": "strike-person",
+        "etymon:note": "Metaphorical extension from takutakal, conceptualizing word as single unit of language rhythm."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "word",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Language Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:takutak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takutak",
+        "phoneticRep": "ta.ku.tak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *takutaku",
+        "etymon:note": "Preserves onomatopoeic reduplication"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rhythm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Musical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:takutek",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takutek",
+        "phoneticRep": "ta.ku.tek"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *takutaku",
+        "etymon:note": "Preserves onomatopoeic reduplication"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "rhythm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Musical Terms",
+            "Sound Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:takuter",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "takuter",
+        "phoneticRep": "ta.ku.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "taku-ter",
+        "etymon:gloss": "rhythm-flow",
+        "etymon:note": "Shows reduction of reduplicated base through compound simplification"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "harmony, attunement",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tel",
+        "phoneticRep": "tel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *telu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tail, end",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Landscape Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:terimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "terimris",
+        "phoneticRep": "te.rim.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ter-imris",
+        "etymon:gloss": "flow-ELL",
+        "etymon:note": "Shows conceptualization of future as flow outward. Contrasts with terlas."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "next",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Motion Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:terlas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "terlas",
+        "phoneticRep": "ter.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ter-las",
+        "etymon:gloss": "flow-ILL",
+        "etymon:note": "Shows conceptualization of past as flow inward. Contrasts with terimris."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "previous",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Motion Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:terok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "terok",
+        "phoneticRep": "te.rok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ter-ok",
+        "etymon:gloss": "flow-AGENT",
+        "etymon:note": "One who drinks (professionally or habitually)"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "drinker; drunkard",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thal",
+        "phoneticRep": "θal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *thalu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "side, flank",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Landscape Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thir",
+        "phoneticRep": "θir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *haru",
+        "etymon:soundChange": "initial fricative change"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "air, wind; white",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Elements",
+            "Colors"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thiral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thiral",
+        "phoneticRep": "θi.ral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thir-mal",
+        "etymon:gloss": "warm-pool",
+        "etymon:note": "Shows liquid deletion in compound"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "warm water, summer pool",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thirlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thirlis",
+        "phoneticRep": "θir.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thir-lis",
+        "etymon:gloss": "elder-child"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grandchild",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thirmer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thirmer",
+        "phoneticRep": "θir.mer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thir-mer",
+        "etymon:gloss": "elder-parent"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grandparent",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thirpel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thirpel",
+        "phoneticRep": "θir.pel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thir-pel",
+        "etymon:gloss": "fur-bear"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fur-bear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thirren",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thirren",
+        "phoneticRep": "θir.ren"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thir-ren",
+        "etymon:gloss": "fur-deer"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "winter coat deer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thirthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thirthral",
+        "phoneticRep": "θir.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thir-thral",
+        "etymon:gloss": "warm-day"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "summer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thragral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thragral",
+        "phoneticRep": "θra.gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thral-gral",
+        "etymon:gloss": "sacred-earth"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "garden",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Garden Terms"
+          ],
+          "usage": "The dual meaning reflects the sacred nature of cultivated land in Hick culture, where gardens were seen as sanctified spaces"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thralbar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thralbar",
+        "phoneticRep": "θral.bar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thral-bar",
+        "etymon:gloss": "sacred-name"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sacred name",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Name Terms"
+          ],
+          "usage": "Used in ritual contexts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thran",
+        "phoneticRep": "θran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *thran-inu",
+        "etymon:note": "From counting form"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "thousand",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Number Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thur",
+        "phoneticRep": "θur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *thuru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dusk",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thurkel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thurkel",
+        "phoneticRep": "θur.kel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thur-kel",
+        "etymon:gloss": "dusk-sky"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evening sky",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Celestial Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thurmur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thurmur",
+        "phoneticRep": "θur.mur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *thuru-muru-meru",
+        "etymon:gloss": "dusk-night-bird",
+        "etymon:note": "Shows compound reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dusk owl",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Bird Terms",
+            "Nocturnal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:thurthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "thurthral",
+        "phoneticRep": "θur.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "thur-thral",
+        "etymon:gloss": "dusk-sacred",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sacred dusk",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Sacred Terms"
+          ]
+        },
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "autumn",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Seasonal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tin",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tin",
+        "phoneticRep": "tin"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *tinu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tin",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metal Terms",
+            "Material Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tirai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tirai",
+        "phoneticRep": "ti.rai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tir-ai",
+        "etymon:gloss": "sour-water",
+        "etymon:note": "Shows cultural knowledge of fermentation process"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fermented drink",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Drink Terms",
+            "Taste Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tirkres",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tirkres",
+        "phoneticRep": "tir.kres"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tir-kres",
+        "etymon:gloss": "two-eight",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ten",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:togar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "togar",
+        "phoneticRep": "to.gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-gar",
+        "etymon:gloss": "mountain-rock",
+        "etymon:note": "Shows semantic extension from visual similarity between bone and limestone"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "limestone, mountain rock",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Material Terms",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tomal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tomal",
+        "phoneticRep": "to.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-mal",
+        "etymon:gloss": "peak-pool",
+        "etymon:soundChange": "liquid deletion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "lake",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features",
+            "Landforms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tomur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tomur",
+        "phoneticRep": "to.mur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-mur-mer",
+        "etymon:gloss": "great-night-bird",
+        "etymon:soundChange": "compound reduction",
+        "etymon:note": "Shows liquid deletion and vowel reduction"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "great owl",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Bird Terms",
+            "Nocturnal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:torduwes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "torduwes",
+        "phoneticRep": "tor.du.wes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-duwes",
+        "etymon:gloss": "great-eat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "feast, great eating",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tormel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tormel",
+        "phoneticRep": "tor.mel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-mel",
+        "etymon:gloss": "great-fat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "great fat, tallow",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Material Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tormer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tormer",
+        "phoneticRep": "tor.mer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-mer",
+        "etymon:gloss": "great-parent",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ancestor",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:tornai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "tornai",
+        "phoneticRep": "tor.nai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "tor-nai",
+        "etymon:gloss": "great-mother",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ancestor (maternal)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Kinship Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:trask'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "trask'er",
+        "phoneticRep": "tras.kʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "trask-'er",
+        "etymon:gloss": "leg-VERB",
+        "etymon:note": "Shows semantic extension from body part to motion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to run",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Action Terms"
+          ]
         }
       ]
     }

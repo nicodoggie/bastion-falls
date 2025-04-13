@@ -390,7 +390,8 @@
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:protoform": "Proto-Hick *kelu",
-        "etymon:soundChange": "final vowel loss"
+        "etymon:soundChange": "final vowel loss",
+        "etymon:note": "Shows semantic extension from 'leaf' to 'sky', possibly through metaphor of canopy"
       },
       "sense": [
         {
@@ -402,7 +403,8 @@
           "lexinfo:semanticField": [
             "Celestial Terms",
             "Natural World"
-          ]
+          ],
+          "usage": "Often used in compounds referring to celestial phenomena"
         },
         {
           "@type": "ontolex:LexicalSense",
@@ -410,132 +412,9 @@
             "@value": "blue",
             "@language": "en"
           },
-          "lexinfo:semanticField": "Colors"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:kel",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "kel",
-        "phoneticRep": "kel"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *kelu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "sky",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Natural World"
+          "lexinfo:semanticField": "Colors",
+          "usage": "Derived from association with sky color"
         },
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "blue",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Colors"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:kel",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "kel",
-        "phoneticRep": "kel"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *kelu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "sky",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Natural World"
-        },
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "blue",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Colors"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:kel",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "kel",
-        "phoneticRep": "kel"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:protoform": "Proto-Hick *kelu",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "sky",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Natural World"
-        },
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "blue",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": "Colors"
-        }
-      ]
-    },
-    {
-      "@id": "ehk:kel",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "kel",
-        "phoneticRep": "kel"
-      },
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "kel-u",
-        "etymon:soundChange": "final vowel loss"
-      },
-      "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
@@ -545,6 +424,58 @@
           "lexinfo:semanticField": [
             "Flora",
             "Plant Terms"
+          ],
+          "usage": "Productive in botanical compounds"
+        }
+      ],
+      "related": [
+        {
+          "@id": "ehk:kelwud",
+          "relationshipType": "has compound",
+          "note": "orchard (lit. leaf-wood)"
+        },
+        {
+          "@id": "ehk:thrakel",
+          "relationshipType": "has compound",
+          "note": "sun (lit. sacred-sky)"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kelwud",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kelwud",
+        "phoneticRep": "kel.wud"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:kel"
+        },
+        {
+          "@id": "ehk:wud"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kel-wud",
+        "etymon:meaning": "leaf-wood",
+        "etymon:note": "Shows productive use of kel 'leaf' in botanical compounds"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "orchard",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Garden Terms",
+            "Flora"
           ]
         }
       ]
@@ -883,79 +814,6 @@
         "ontolex:LexicalEntry",
         "lexinfo:Noun"
       ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "kirtor",
-        "phoneticRep": "kir.tor"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:kir"
-        },
-        {
-          "@id": "ehk:tor"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "kir-tor",
-        "etymon:meaning": "chest-height",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "cliff face",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
-      "@id": "ehk:kirtor",
-      "@type": [
-        "ontolex:LexicalEntry",
-        "lexinfo:Noun"
-      ],
-      "canonicalForm": {
-        "@type": "ontolex:Form",
-        "writtenRep": "kirtor",
-        "phoneticRep": "kir.tor"
-      },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:kir"
-        },
-        {
-          "@id": "ehk:tor"
-        }
-      ],
-      "etymology": {
-        "@type": "etymon:Etymology",
-        "etymon:compound": "kir-tor",
-        "etymon:meaning": "chest-height",
-        "etymon:soundChange": "compound fusion"
-      },
-      "sense": [
-        {
-          "@type": "ontolex:LexicalSense",
-          "definition": {
-            "@value": "cliff face",
-            "@language": "en"
-          },
-          "lexinfo:semanticField": [
-            "Natural World",
-            "Landforms"
-          ]
-        }
-      ]
-    },
-    {
       "@id": "ehk:kirtor",
       "@type": [
         "ontolex:LexicalEntry",
@@ -1424,6 +1282,887 @@
           "lexinfo:semanticField": [
             "Metals",
             "Material Culture"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kabran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kabran",
+        "phoneticRep": "ka.bran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-bran",
+        "etymon:gloss": "branch-like",
+        "etymon:note": "From metaphorical extension of branch growth patterns"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "crooked, leaning",
+            "@language": "en"
+          },
+          "usage": "Forms common expression kabran 'irek'er 'to lean' (lit. 'stand crookedly')",
+          "lexinfo:semanticField": [
+            "Position Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kagar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kagar",
+        "phoneticRep": "ka.gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-gar",
+        "etymon:gloss": "stone-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hard",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tactile Properties",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kagral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kagral",
+        "phoneticRep": "ka.gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-gral",
+        "etymon:gloss": "earth-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "earthy, brown",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Colors",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kaimpal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kaimpal",
+        "phoneticRep": "ka.im.pal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-im-pal",
+        "etymon:gloss": "like-ill-belly",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension of belly/gut health to general strength"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "weak, feeble",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Physical States",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kakethmal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kakethmal",
+        "phoneticRep": "ka.keθ.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kaketh-mal",
+        "etymon:gloss": "salty-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "brine pool",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features",
+            "Natural World"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kames",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kames",
+        "phoneticRep": "ka.mes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-mes",
+        "etymon:gloss": "heart-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "emotional",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kan",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kan",
+        "phoneticRep": "kan"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kanu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "head",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kapal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kapal",
+        "phoneticRep": "ka.pal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-pal",
+        "etymon:gloss": "like-belly",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Shows metaphorical extension of belly/gut health to general strength"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "strong, vigorous",
+            "@language": "en"
+          },
+          "usage": "Contrasts with kaimpal 'weak'. Forms compounds like kapaltak 'strong-strike'",
+          "lexinfo:semanticField": [
+            "Physical States",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kasak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kasak",
+        "phoneticRep": "ka.sak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-sak",
+        "etymon:gloss": "like-wolf",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wolf-like howl",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kasgasam",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kasgasam",
+        "phoneticRep": "kas.ga.sam"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kasger-gasam",
+        "etymon:gloss": "mirror-grinding",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Refers to the final lapping stage to achieve a reflective surface"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "polishing, lapping",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool Terms",
+            "Craft Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kasul",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kasul",
+        "phoneticRep": "ka.sul"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-sul",
+        "etymon:gloss": "liver-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "energetic",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Physical States",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kathrakel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kathrakel",
+        "phoneticRep": "ka.θra.kel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-thrakel",
+        "etymon:gloss": "sun-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bright, shining",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Light Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kator",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kator",
+        "phoneticRep": "ka.tor"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ka-tor",
+        "etymon:gloss": "peak-like",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "massive, heavy",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Size Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:keth",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "keth",
+        "phoneticRep": "keθ"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kethu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hundred",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number System"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kethbran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kethbran",
+        "phoneticRep": "keθ.bran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "keth-bran",
+        "etymon:gloss": "hundred-lineage",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "kin, extended family",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kethmater",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kethmater",
+        "phoneticRep": "keθ.ma.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "keth-mater",
+        "etymon:gloss": "sea-vessel",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sea vessel",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Vehicle Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ketnes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ketnes",
+        "phoneticRep": "ket.nes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "keth-nes",
+        "etymon:gloss": "sea-fish",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sea fish",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kir",
+        "phoneticRep": "kir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kiru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "chest, body",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kirmel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kirmel",
+        "phoneticRep": "kir.mel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kir-mel",
+        "etymon:gloss": "chest-sweet",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "chest fat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kirpel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kirpel",
+        "phoneticRep": "kir.pel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kir-pel",
+        "etymon:gloss": "chest-bear",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "chest hair",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:krak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krak",
+        "phoneticRep": "krak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kraku",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tooth",
+            "@language": "en"
+          },
+          "usage": "Forms verb krak'er 'to bite'",
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:krak'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krak'er",
+        "phoneticRep": "krak.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "krak-'er",
+        "etymon:gloss": "tooth-VERB",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to bite",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Action Terms",
+            "Body Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kran",
+        "phoneticRep": "kran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kranu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "horn, spike",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kranren",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kranren",
+        "phoneticRep": "kran.ren"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kran-ren",
+        "etymon:gloss": "horn-deer",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "antlered deer",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animals",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kras'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kras'er",
+        "phoneticRep": "kras.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kras-'er",
+        "etymon:gloss": "bitter-VERB",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to be bitter",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:krasim",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "krasim",
+        "phoneticRep": "kra.sim"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kras-im",
+        "etymon:gloss": "bitter-evil",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hatred",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Abstract Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kres",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kres",
+        "phoneticRep": "kres"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *kresu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "eight",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number System"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kul'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kul'er",
+        "phoneticRep": "kul.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kul-'er",
+        "etymon:gloss": "magic-VERB",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to perform magic",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Magical Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:kurtin",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "kurtin",
+        "phoneticRep": "kur.tin"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "kur-tin",
+        "etymon:gloss": "copper-tin",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "bronze",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metal Terms",
+            "Material Terms"
           ]
         }
       ]

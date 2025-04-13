@@ -375,6 +375,209 @@
           ]
         }
       ]
+    },
+    {
+      "@id": "ehk:edel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "edel",
+        "phoneticRep": "e.del"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Sindarin eðel + pre-Early Hick ʔal",
+        "etymon:note": "Borrowed term for Wood Elves"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Wood Elf",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Borrowed Terms"
+          ],
+          "usage": "Used to refer to Wood Elves, showing early contact with Elvish peoples"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:eter",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "eter",
+        "phoneticRep": "e.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "etil-ter",
+        "etymon:gloss": "things-flow",
+        "etymon:note": "Shows metaphorical extension of flow to proper arrangement"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "flow of things; correct ordering, sorting",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Abstract Terms",
+            "Motion Terms"
+          ],
+          "usage": "Forms verb eter'er \"to sort, arrange\""
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ewes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adposition"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ewes",
+        "phoneticRep": "e.wes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔelu-lawes",
+        "etymon:note": "From instrumental *ʔelu \"by means of\" + *lawes \"consume\", showing semantic development from \"consuming with\" to general accompaniment"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "together with; together",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Basic Terms",
+            "Grammatical Terms"
+          ],
+          "usage": "Functions both as pre-absolutive adverbial marker and independent lexical item"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'eldal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eldal",
+        "phoneticRep": "ʔel.dal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "elda+'al",
+        "etymon:gloss": "elf-person",
+        "etymon:note": "Borrowing from Sindarin eldrim with native person marker"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "elf (individual)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'eldalok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eldalok",
+        "phoneticRep": "ʔel.da.lok"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'eldal"
+        },
+        {
+          "@id": "ehk:ok"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'eldal-ok",
+        "etymon:gloss": "elf-AGENT",
+        "etymon:note": "Collective form using agentive suffix to mark social group"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "elven people",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'eldegral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'eldegral",
+        "phoneticRep": "ʔel.də.gral"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:'eldal"
+        },
+        {
+          "@id": "ehk:gral"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'eldal-gral",
+        "etymon:gloss": "elf-earth",
+        "etymon:note": "Shows vowel reduction in middle syllable and sacred earth metaphor"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Feywild",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Landforms"
+          ]
+        }
+      ]
     }
   ]
 }

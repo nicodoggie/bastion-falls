@@ -61,7 +61,8 @@ export function parseLexicon(jsonData: OntolexLemon, opts?: ParseLexiconOpts) {
   for (const entry of jsonData['@graph']) {
     const senses: Sense[] = [];
     if (entry.sense) {
-      for (const ontoSense of entry.sense) {
+      const senseArray = Array.isArray(entry.sense) ? entry.sense : [entry.sense];
+      for (const ontoSense of senseArray) {
         const semanticField = Array.isArray(ontoSense['lexinfo:semanticField'])
           ? ontoSense['lexinfo:semanticField']
           : [ontoSense['lexinfo:semanticField']];
@@ -186,7 +187,7 @@ export function csvAlphabetical(
   const csv = [
     ...sortedLexicon.map(([_, entry]) => [
       `"${entry.writtenForm} /${entry.phoneticForm}/"`,
-      `"(${getLexicalCategory(entry.writtenForm, entry.types)})\n\n${entry.senses.map(sense => sense.definition).join(';')}"`,
+      `"(${getLexicalCategory(entry.writtenForm, entry.types)}),${entry.senses.map(sense => sense.definition).join(';')}"`,
     ]),
   ];
   return csv.join('\n');

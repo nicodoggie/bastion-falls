@@ -1394,78 +1394,104 @@
       "note": "Source of Early Hick es"
     },
     {
-  "@id": "phk:halu",
-  "@type": [
-    "ontolex:LexicalEntry",
-    "lexinfo:Adjective"
-  ],
-  "canonicalForm": {
-    "@type": "ontolex:Form",
-    "writtenRep": "halu",
-    "phoneticRep": "ha.lu"
-  },
-  "etymology": {
-    "@type": "etymon:Etymology",
-    "etymon:protoform": "Pre-Proto-Hick *halu",
-    "etymon:note": "Original meaning 'laugh' underwent semantic extension to 'good'. Forms animacy-marked hi-halu > Early Hick 'il"
-  },
-  "sense": [
-    {
-      "@type": "ontolex:LexicalSense",
-      "definition": {
-        "@value": "good",
-        "@language": "en"
+      "@id": "phk:halu",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "halu",
+        "phoneticRep": "ha.lu"
       },
-      "lexinfo:semanticField": "Basic Terms",
-      "usage": "Shows semantic development from 'laugh' to positive qualities"
-    }
-  ],
-  "related": [
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Pre-Proto-Hick *halu",
+        "etymon:note": "Original meaning 'laugh' underwent semantic extension to 'good'. Forms animacy-marked hi-halu > Early Hick 'il"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "good",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Basic Terms",
+          "usage": "Shows semantic development from 'laugh' to positive qualities"
+        }
+      ],
+      "related": [
+        {
+          "@id": "phk:hahu",
+          "relationshipType": "has variant",
+          "note": "irregular form preserving original meaning"
+        }
+      ]
+    },
     {
       "@id": "phk:hahu",
-      "relationshipType": "has variant",
-      "note": "irregular form preserving original meaning"
-    }
-  ]
-},
-{
-  "@id": "phk:hahu",
-  "@type": [
-    "ontolex:LexicalEntry",
-    "lexinfo:Noun"
-  ],
-  "canonicalForm": {
-    "@type": "ontolex:Form",
-    "writtenRep": "hahu",
-    "phoneticRep": "ha.hu"
-  },
-  "etymology": {
-    "@type": "etymon:Etymology",
-    "etymon:protoform": "Pre-Proto-Hick *halu",
-    "etymon:soundChange": "irregular l → h change",
-    "etymon:note": "Irregular variant preserving original 'laugh' meaning while regular form developed into 'good'"
-  },
-  "sense": [
-    {
-      "@type": "ontolex:LexicalSense",
-      "definition": {
-        "@value": "laugh, laughter",
-        "@language": "en"
-      },
-      "lexinfo:semanticField": [
-        "Sound Terms",
-        "Emotion Terms"
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
       ],
-      "usage": "Preserves original meaning through irregular development"
-    }
-  ],
-  "related": [
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "hahu",
+        "phoneticRep": "ha.hu"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Pre-Proto-Hick *halu",
+        "etymon:soundChange": "irregular l → h change",
+        "etymon:note": "Irregular variant preserving original 'laugh' meaning while regular form developed into 'good'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "laugh, laughter",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sound Terms",
+            "Emotion Terms"
+          ],
+          "usage": "Preserves original meaning through irregular development"
+        }
+      ],
+      "related": [
+        {
+          "@id": "phk:halu",
+          "relationshipType": "variant of",
+          "note": "regular form that developed into 'good'"
+        }
+      ]
+    },
     {
-      "@id": "phk:halu",
-      "relationshipType": "variant of",
-      "note": "regular form that developed into 'good'"
+      "@id": "phk:harala",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "harala",
+        "phoneticRep": "ha.ra.la"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sun deity",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Religious Terms",
+            "Natural World"
+          ]
+        }
+      ],
+      "note": "Source of Early Hick thral through sacred term sound changes"
     }
-  ]
-}
   ]
 }

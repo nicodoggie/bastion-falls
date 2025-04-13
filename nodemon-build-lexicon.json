@@ -4,5 +4,5 @@
     "data/languages/hickic/seneran/early-hick/lexicon.jsonld"
   ],
   "ext": "jsonld",
-  "exec": "echo 'Building lexicon...'&& pnpm bf import-lexicon data/languages/hickic/seneran/early-hick/lexicon/*.jsonld site/content/languages/hickic/seneran/early-hick/"
+  "exec": "echo 'Building lexicon...'&& pnpm bf import-lexicon site/content/languages/hickic/seneran/early-hick/ data/languages/hickic/seneran/early-hick/lexicon/*.jsonld"
 }

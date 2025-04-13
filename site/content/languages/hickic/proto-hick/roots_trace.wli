@@ -1,0 +1,12 @@
+Tracing harala
+Applied <syllables>/<initial>/1: harala -> ha.ra.la
+Applied penultimate-stress: ha.ra.la -> ha.ˈra.la
+Applied initial-fricative-change-sacred: ha.ˈra.la -> θə.ˈra.la
+Applied <cleanup>/initial-glottal-devoicing/stress-shift: θə.ˈra.la -> ˈθə.ra.la
+Applied unstressed-vowel-reduction: ˈθə.ra.la -> ˈθə.rə.lə
+Applied initial-fricative-vowel-fronting: ˈθə.rə.lə -> ˈθi.rə.lə
+Applied dental-fricative-cluster-formation: ˈθi.rə.lə -> ˈθ.rə.lə
+Applied <syllables>/dental-fricative-cluster-formation/1: ˈθ.rə.lə -> ˈθrə.lə
+Applied final-vowel-reduction: ˈθrə.lə -> ˈθrə.l
+Applied <syllables>/final-vowel-reduction/1: ˈθrə.l -> ˈθrəl
+Applied <romanizer>: ˈθrəl -> ˈthrəl

@@ -462,6 +462,49 @@
         "ontolex:LexicalEntry",
         "lexinfo:Noun"
       ],
+      "@id": "ehk:materok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "materok",
+        "phoneticRep": "ma.te.rok"
+      },
+      "decomp:subterm": [
+        {
+          "@id": "ehk:mater"
+        },
+        {
+          "@id": "ehk:ok"
+        }
+      ],
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mater-ok",
+        "etymon:derivation": "agentive suffix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "vessel-guide, boatman",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Occupations"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:materok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
       "canonicalForm": {
         "@type": "ontolex:Form",
         "writtenRep": "materok",
@@ -1417,6 +1460,253 @@
             "Body Terms",
             "Bodily Functions",
             "Sacred Terms"
+          ]
+        }
+      ]
+    },
+        {
+      "@id": "ehk:mulis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mulis",
+        "phoneticRep": "mu.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *muruhilisu",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dream, vision",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mulisim",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mulisim",
+        "phoneticRep": "mu.li.sim"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mulis-im",
+        "etymon:gloss": "dream-become",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to enter a dream state",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mulisimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mulisimris",
+        "phoneticRep": "mu.li.sim.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mulis-im-ris",
+        "etymon:gloss": "dream-become-from",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to awaken from a dream",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mulislas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mulislas",
+        "phoneticRep": "mu.lis.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mulis-las",
+        "etymon:gloss": "dream-into",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to enter a dream",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mulisthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mulisthral",
+        "phoneticRep": "mu.lis.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mulis-thral",
+        "etymon:gloss": "dream-sacred",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "prophetic dream",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Mental Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:murduwes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "murduwes",
+        "phoneticRep": "mur.du.wes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mur-duwes",
+        "etymon:gloss": "night-eat",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evening meal",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Time Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:murkran",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "murkran",
+        "phoneticRep": "mur.kran"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mur-kran",
+        "etymon:gloss": "night-horn",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "night watch horn",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool Terms",
+            "Time Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:murlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "murlis",
+        "phoneticRep": "mur.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mur-lis",
+        "etymon:gloss": "night-eye",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "night vision",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Time Terms"
           ]
         }
       ]

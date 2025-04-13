@@ -5,44 +5,53 @@
 <dl id="{{ id }}" class="lexical-entry">
   <dt class="lexical-entry-word">
     <span class="lexical-entry-word-written">{{ lexitem.writtenForm }}</span>
+    {% if lexitem.phoneticForm %}
     <span class="lexical-entry-word-phonetic">/{{ lexitem.phoneticForm }}/</span>
-    {% if lexitem.lexicalCategory -%}
-    <span class="lexical-category">&lpar;
-    {%- if lexitem.lexicalCategory == "lexinfo:Noun" -%}
-    noun
-    {%- elif lexitem.lexicalCategory == "lexinfo:Verb" -%}
-    verb
-    {%- elif lexitem.lexicalCategory == "lexinfo:Adjective" -%}
-    adjective
-    {%- elif lexitem.lexicalCategory == "lexinfo:Adverb" -%}
-    adverb
-    {%- elif lexitem.lexicalCategory == "lexinfo:Interjection" -%}
-    interjection
-    {%- elif lexitem.lexicalCategory == "lexinfo:Pronoun" -%}
-    pronoun
-    {%- elif lexitem.lexicalCategory == "lexinfo:Preposition" -%}
-    preposition
-    {%- elif lexitem.lexicalCategory == "lexinfo:Conjunction" -%}
-    conjunction
-    {%- elif lexitem.lexicalCategory == "lexinfo:Determiner" -%}
-    determiner
-    {%- elif lexitem.lexicalCategory == "lexinfo:Particle" -%}
-    particle
-    {%- elif lexitem.lexicalCategory == "lexinfo:Interrogative" -%}
-    interrogative
-    {%- elif lexitem.lexicalCategory == "lexinfo:Numeral" -%}
-    numeral
-    {%- elif lexitem.lexicalCategory == "lexinfo:Suffix" -%}
-    suffix
+    {% endif %}
+    
+    {% set types = [] %}
+    
+    {%- for type in lexitem.types -%}
+    {%- if type == "lexinfo:Noun" -%}
+    {%- set types = types | concat(with="noun") -%}
+    {%- elif type == "lexinfo:Verb" -%}
+    {%- set types = types | concat(with="verb") -%}
+    {%- elif type == "lexinfo:Adjective" -%}
+    {%- set types = types | concat(with="adjective") -%}
+    {%- elif type == "lexinfo:Adverb" -%}
+    {%- set types = types | concat(with="adverb") -%}
+    {%- elif type == "lexinfo:Interjection" -%}
+    {%- set types = types | concat(with="interjection") -%}
+    {%- elif type == "lexinfo:Pronoun" -%}
+    {%- set types = types | concat(with="pronoun") -%}
+    {%- elif type == "lexinfo:Preposition" -%}
+    {%- set types = types | concat(with="preposition") -%}
+    {%- elif type == "lexinfo:Conjunction" -%}
+    {%- set types = types | concat(with="conjunction") -%}
+    {%- elif pe == "lexinfo:Determiner" -%}
+    {%- set types = types | concat(with="determiner") -%}
+    {%- elif type == "lexinfo:Particle" -%}
+    {%- set types = types | concat(with="particle") -%}
+    {%- elif type == "lexinfo:Interrogative" -%}
+    {%- set types = types | concat(with="interrogative") -%}
+    {%- elif type == "lexinfo:Numeral" -%}
+    {%- set types = types | concat(with="numeral") -%}
+    {%- elif type == "lexinfo:Suffix" -%}
+    {%- set types = types | concat(with="suffix") -%}
     {%- endif -%}
-    &rpar;</span>
-    {%- endif -%}
+    {%- endfor -%}
+    
+    <span class="lexical-category">&lpar;{{ types | join(sep=", ") }}&rpar;</span>
 
   </dt>
 
   {% if lexitem.senses %}
   {% for sense in lexitem.senses %}
+  {% if sense.definition %}
   <dd class="sense-definition">{{ sense.definition }}</dd>
+  {% else %}
+  <dd class="sense-definition">No definition provided.</dd>
+  {% endif %}
 
   {% if sense.usage %}
   <dd class="sense-usage">{{ sense.usage }}</dd>

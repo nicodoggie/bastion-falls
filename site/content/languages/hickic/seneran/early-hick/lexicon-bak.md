@@ -3523,7 +3523,7 @@ wen'al [wen.ʔal]
   : woman
   : Proto-Hick wen-'al "flower person" → wen'al
 
-'eldal [ʔl.dal]
+'eldal [ʔel.dal]
   : elf (individual)
   : Proto-Hick elda+'al "elf-person" → 'eldal
   Note: Borrowing from Sindarin eldrim with native person marker

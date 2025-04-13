@@ -3,3 +3,4 @@
 **/node_modules
 /.pnpm-store
 site/content/languages/**/lexicon-*.json
+site/content/languages/**/lexicon-*.csv

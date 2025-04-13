@@ -192,7 +192,7 @@
       ]
     },
     {
-      "@id": "ehk:ilibris'er",
+      "@id": "ehk:'ilibris'er",
       "@type": [
         "ontolex:LexicalEntry",
         "lexinfo:Verb"
@@ -202,19 +202,11 @@
         "writtenRep": "'ilibris'er",
         "phoneticRep": "ʔi.li.bris.ʔer"
       },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:ilibris"
-        },
-        {
-          "@id": "ehk:er"
-        }
-      ],
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "'ilibris-'er",
         "etymon:gloss": "passion-VERB",
-        "etymon:note": "Euphemistic term showing cultural preference for warmth/fire metaphors in intimate contexts"
+        "etymon:note": "Euphemistic term derived from 'ilibris 'passion'. Shows cultural preference for metaphors of warmth/fire in intimate contexts."
       },
       "sense": [
         {
@@ -223,9 +215,8 @@
             "@value": "(euphemistic) to make love, have sexual intercourse",
             "@language": "en"
           },
-          "lexinfo:register": "euphemistic",
           "lexinfo:semanticField": [
-            "Body Terms",
+            "Body Parts",
             "Sacred Terms"
           ]
         }
@@ -581,7 +572,7 @@
       ]
     },
     {
-      "@id": "ehk:iltakutak",
+      "@id": "ehk:'iltakutak",
       "@type": [
         "ontolex:LexicalEntry",
         "lexinfo:Noun"
@@ -591,32 +582,23 @@
         "writtenRep": "'iltakutak",
         "phoneticRep": "ʔil.ta.ku.tak"
       },
-      "decomp:subterm": [
-        {
-          "@id": "ehk:il"
-        },
-        {
-          "@id": "ehk:takutak"
-        }
-      ],
       "etymology": {
         "@type": "etymon:Etymology",
         "etymon:compound": "'il-takutak",
-        "etymon:gloss": "good-rhythm",
-        "etymon:soundChange": "compound fusion",
-        "etymon:note": "Shows cultural conceptualization of peace as harmonious rhythm"
+        "etymon:gloss": "good-rhythm"
       },
       "sense": [
         {
           "@type": "ontolex:LexicalSense",
           "definition": {
-            "@value": "peace, harmony",
+            "@value": "good-rhythm, harmonious relationship",
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Social Terms",
-            "Sacred Terms"
-          ]
+            "Musical Terms",
+            "Diplomatic Terms"
+          ],
+          "usage": "Used in diplomatic contexts. Forms verb 'iltakutak'er 'to make peace'."
         }
       ]
     },
@@ -1380,7 +1362,6 @@
       ],
       "etymology": {
         "@type": "etymon:Etymology",
-        "etymon:compound": "im-wes",
         "etymon:meaning": "evil-enclose",
         "etymon:soundChange": "compound fusion",
         "etymon:note": "Shows productive use of im- prefix for harmful actions"
@@ -1651,6 +1632,821 @@
           },
           "usage": "Metaphorical extension from deviation in wood grain",
           "lexinfo:semanticField": [
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ibris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ibris",
+        "phoneticRep": "ʔib.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'i-bris",
+        "etymon:gloss": "sacred-wind",
+        "etymon:note": "Shows sacred prefix with basic term for wind/breath"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "breath",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Body Terms"
+          ],
+          "usage": "Often used in ritual contexts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ihir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ihir",
+        "phoneticRep": "ʔi.hir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'i-hir",
+        "etymon:gloss": "sacred-sense",
+        "etymon:note": "Shows sacred prefix with sensory root"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hear, listen",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Sensory Terms"
+          ],
+          "usage": "Basic verb of hearing, often with ritual connotations"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irai",
+        "phoneticRep": "ʔi.rai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'i-ai",
+        "etymon:gloss": "sacred-water",
+        "etymon:note": "Shows sacred prefix with basic term for water"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sacred water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Water Terms",
+            "Ritual Terms"
+          ],
+          "usage": "Used in ritual contexts and sacred sites"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irurbel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irurbel",
+        "phoneticRep": "ʔi.rur.bel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'i-'irur-bel",
+        "etymon:gloss": "sacred-hollow-dark",
+        "etymon:note": "Shows sacred prefix with compound for dark hollow"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cave",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Landforms",
+            "Geographic Terms"
+          ],
+          "usage": "Often associated with sacred or ritual sites"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irurlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irurlis",
+        "phoneticRep": "ʔi.rur.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'irur-lis",
+        "etymon:gloss": "cave-person",
+        "etymon:note": "Compound of sacred cave term with person marker"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cave dweller",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Person Terms",
+            "Social Terms"
+          ],
+          "usage": "Often refers to ritual specialists or hermits"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'irurtak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'irurtak",
+        "phoneticRep": "ʔi.rur.tak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'irur-tak",
+        "etymon:gloss": "cave-mark",
+        "etymon:note": "Compound of sacred cave term with marking/impact"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cave art",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Art Terms",
+            "Cultural Terms"
+          ],
+          "usage": "Refers specifically to ritual or sacred cave paintings and markings"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imbris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imbris",
+        "phoneticRep": "im.bris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-bris",
+        "etymon:gloss": "evil-heat",
+        "etymon:note": "Shows productive use of im- prefix for negative conditions"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fever, harmful heat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Medical Terms",
+            "Body States",
+            "Illness Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imer",
+        "phoneticRep": "i.mer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *imeru",
+        "etymon:note": "Basic term for breath/soul"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "breath, soul",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Spirit Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imerimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imerimris",
+        "phoneticRep": "i.me.rim.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imer-imris",
+        "etymon:gloss": "breath-ELL",
+        "etymon:note": "Shows productive use of ellative case for outward expression"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "expression",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Communication Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imerlas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imerlas",
+        "phoneticRep": "i.mer.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imer-las",
+        "etymon:gloss": "breath-ILL",
+        "etymon:note": "Shows productive use of illative case for inward inspiration"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "inspiration",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Spirit Terms",
+            "Mental Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:im'ir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "im'ir",
+        "phoneticRep": "im.ʔir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-'ir",
+        "etymon:gloss": "evil-action",
+        "etymon:note": "Shows metaphorical extension of negative prefix with action root"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "ill intent, malice",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:im'irok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "im'irok",
+        "phoneticRep": "im.ʔi.rok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im'ir-ok",
+        "etymon:gloss": "ill.intent-AGENT",
+        "etymon:note": "Shows productive use of agentive suffix with abstract concepts"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "enemy, adversary",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:impal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "impal",
+        "phoneticRep": "im.pal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-pal",
+        "etymon:gloss": "ill-belly",
+        "etymon:note": "Source of adjective kaimpal \"weak\". Shows metaphorical extension of belly/gut health to general strength"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "weakness, frailty",
+            "@language": "en"
+          },
+          "literalMeaning": "ill-belly",
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imthral",
+        "phoneticRep": "im.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "im-thral",
+        "etymon:gloss": "evil-sacred",
+        "etymon:note": "Compound fusion, maintains second element due to sacred term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil deity",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Religious Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imtirduok",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imtirduok",
+        "phoneticRep": "im.tir.du.ok"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imtirdu-ok",
+        "etymon:gloss": "cadaver-AGENT",
+        "etymon:note": "Shows formation pattern of \"carrion-eater\" common across languages"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "scavenger",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Basic Terms"
+          ],
+          "usage": "Applies to both animals and birds"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurmal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurmal",
+        "phoneticRep": "i.mur.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-mal",
+        "etymon:note": "Shows compound formation with negative prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil pool, cursed waters; swamp",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurthral",
+        "phoneticRep": "i.mur.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-thral",
+        "etymon:gloss": "evil.force-sacred",
+        "etymon:note": "Compound fusion, maintains second element due to sacred term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cursed day/time",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurtor",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurtor",
+        "phoneticRep": "i.mur.tor"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-tor",
+        "etymon:note": "Shows compound formation with negative prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil peak, forbidden mountain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Landforms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurud",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurud",
+        "phoneticRep": "i.mu.rud"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-wudu",
+        "etymon:gloss": "evil-path",
+        "etymon:note": "Shows semantic extension from physical to abstract meaning"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "falsehood",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Abstract Concepts"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:imurwad",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "imurwad",
+        "phoneticRep": "i.mur.wad"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "imur-wad",
+        "etymon:note": "Shows compound formation with negative prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil path, dangerous route",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Path Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ir",
+        "phoneticRep": "ir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xiru",
+        "etymon:meaning": "mined ore",
+        "etymon:note": "Basic term for iron, shows early mining culture"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "iron",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metals",
+            "Material Culture"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:iskel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "iskel",
+        "phoneticRep": "is.kel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "is-kel",
+        "etymon:note": "Basic architectural term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "window",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Architecture",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:iskelai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "iskelai",
+        "phoneticRep": "is.ke.lai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "is-kel-ai",
+        "etymon:note": "Shows compound formation with water term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "window condensation",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Architecture",
+            "Weather Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ithiril",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ithiril",
+        "phoneticRep": "i.θi.ril"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "Drow Ilythiiri + pre-Early Hick ʔal",
+        "etymon:note": "Borrowed term for Dark Elves"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "Dark Elf",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Borrowed Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'ilisimris'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'ilisimris'er",
+        "phoneticRep": "ʔi.li.sim.ris.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "'ilis-imris-'er",
+        "etymon:gloss": "knowledge-ELL-VERB",
+        "etymon:note": "Literally 'to cause knowledge to go out from', showing productive use of ellative for causative meanings"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to teach",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Knowledge Terms",
+            "Action Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'imur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'imur",
+        "phoneticRep": "ʔi.mur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hi-muru",
+        "etymon:components": [
+          "hi (animacy marker)",
+          "muru (night/darkness)"
+        ],
+        "etymon:note": "Shows archaic animacy marking through glottal prefix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "evil force",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
             "Abstract Concepts"
           ]
         }

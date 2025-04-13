@@ -453,9 +453,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora",
-            "Place Terms",
-            "Cultivated Plants"
+            "Plant Terms",
+            "Place Terms"
           ]
         }
       ]
@@ -524,7 +523,6 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora",
             "Plant Terms"
           ]
         }
@@ -604,7 +602,7 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora",
+            "Plant Terms",
             "Pastoral Terms",
             "Landforms"
           ]
@@ -638,6 +636,166 @@
           "lexinfo:semanticField": [
             "Pasture Terms",
             "Agricultural Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gal",
+        "phoneticRep": "gal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gar'el",
+        "etymon:gloss": "hard-person",
+        "etymon:components": [
+          "garu (hard)",
+          "ʔalu (person)"
+        ],
+        "etymon:note": "Shows metaphorical extension of hardness to masculinity"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "man",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Gender Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gasam",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gasam",
+        "phoneticRep": "ga.sam"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gar-asam",
+        "etymon:gloss": "rock-under",
+        "etymon:note": "Literally \"under rock,\" referring to the action of grinding"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grinding",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool Terms",
+            "Basic Terms"
+          ],
+          "usage": "Forms the base for specialized grinding terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:gra",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "gra",
+        "phoneticRep": "gra"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *grau",
+        "etymon:note": "Shows vowel sequence simplification"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grey",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Colors",
+            "Basic Terms"
+          ],
+          "usage": "Lost other meanings by Early Hick, making ka- prefix unnecessary"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:grakur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "grakur",
+        "phoneticRep": "gra.kur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gra-kur",
+        "etymon:gloss": "grey-copper",
+        "etymon:note": "Shows descriptive compound formation for metal types"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grey copper",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Metals",
+            "Colors"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:grased",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "grased",
+        "phoneticRep": "gra.sed"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "gras-sed",
+        "etymon:gloss": "grass-seed",
+        "etymon:note": "Shows typical compound formation for cultivated plants"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "grain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Plant Terms",
+            "Food Terms"
           ]
         }
       ]

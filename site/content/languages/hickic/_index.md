@@ -12,7 +12,7 @@ speakers of Hick languages continued to use their languages in everyday life.
 
 ## Seneran Hick
 
-{% see %}[Seneran Hick](@/languages/hickic/seneran/){% end %}
+{% see %}[Seneran Hick](@/languages/hickic/seneran/){% see %}
 
 The Seneran Hick family was one of the first language groups that was described
 by Ronald Ruel, considered the father of the field of Linguistics. The family

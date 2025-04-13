@@ -460,6 +460,158 @@
           "lexinfo:semanticField": "Body Parts"
         }
       ]
+    },
+    {
+      "@id": "ehk:venuiter",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "venuiter",
+        "phoneticRep": "vi.nu.i.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "venu-itar",
+        "etymon:gloss": "pregnancy-ELL",
+        "etymon:note": "Lexicalized from ellative case of 'pregnancy'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to give birth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Verbal Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:ven'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "ven'er",
+        "phoneticRep": "ven.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ven-'er",
+        "etymon:gloss": "yoke-VERB"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to carry",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Action Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:venitar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "venitar",
+        "phoneticRep": "ve.ni.tar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ven-itar",
+        "etymon:gloss": "yoke-SUPER",
+        "etymon:note": "Lexicalized from superessive case of 'yoke'"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to lift",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Verbal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:venmer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "venmer",
+        "phoneticRep": "ven.mer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ven-mer",
+        "etymon:gloss": "wing-bird"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wing bird",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Bird Terms",
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:vinuimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "vinuimris",
+        "phoneticRep": "vi.nu.im.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "vinu-imris",
+        "etymon:gloss": "pregnancy-ELL",
+        "etymon:note": "Lexicalized from ellative case of pregnancy"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to give birth",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Verbal Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
     }
   ]
 }

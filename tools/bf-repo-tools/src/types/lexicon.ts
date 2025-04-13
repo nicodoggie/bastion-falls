@@ -29,7 +29,7 @@ export interface GraphEntry {
     "etymon:soundChange": string;
     "etymon:note": string;
   };
-  "sense": OntolexSense[];
+  "sense": OntolexSense | OntolexSense[];
   "derivedForms": OntolexDerivedForm[];
 }
 

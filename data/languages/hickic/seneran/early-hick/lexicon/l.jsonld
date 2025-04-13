@@ -164,6 +164,569 @@
           ]
         }
       ]
+    },
+    {
+      "@id": "ehk:liba",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "liba",
+        "phoneticRep": "li.ba"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-ba",
+        "etymon:gloss": "lesser-father",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "uncle (paternal)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms",
+            "Person Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:limal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "limal",
+        "phoneticRep": "li.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-mal",
+        "etymon:gloss": "small-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "pond",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features",
+            "Natural World"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:limel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Adjective"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "limel",
+        "phoneticRep": "li.mel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-mel",
+        "etymon:gloss": "small-sweet",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "slightly sweet",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:limer",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "limer",
+        "phoneticRep": "li.mer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-mer",
+        "etymon:gloss": "small-parent",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "younger parent/aunt/uncle",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms",
+            "Person Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:limur",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "limur",
+        "phoneticRep": "li.mur"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-mur",
+        "etymon:gloss": "small-owl",
+        "etymon:note": "Triggers reduction in following syllables",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "small owl",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Bird Terms",
+            "Animal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:linai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "linai",
+        "phoneticRep": "li.nai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-nai",
+        "etymon:gloss": "lesser-mother",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "aunt (maternal)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms",
+            "Person Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:lisbel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "lisbel",
+        "phoneticRep": "lis.bel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "lis-bel",
+        "etymon:gloss": "eye-mouth",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "face",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:litil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "litil",
+        "phoneticRep": "li.til"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "li-etil",
+        "etymon:gloss": "DIM-thing",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "small thing",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Size Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:li",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Prefix"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "li",
+        "phoneticRep": "li"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *li",
+        "etymon:note": "Ancient diminutive marker, preserved in many compounds",
+        "etymon:soundChange": "stable form, triggers compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "diminutive prefix: small, lesser, young",
+            "@language": "en"
+          },
+          "usage": "Highly productive prefix forming diminutives and terms for smaller/lesser versions",
+          "lexinfo:semanticField": [
+            "Size Terms",
+            "Basic Terms",
+            "Derivational Morphology"
+          ],
+          "examples": [
+            "limal 'pond' < li-mal 'small pool'",
+            "limer 'younger parent' < li-mer 'small parent'",
+            "linai 'aunt' < li-nai 'lesser mother'",
+            "lis 'child' < li-su 'little one'"
+          ]
+        }
+      ]
+    },
+        {
+      "@id": "ehk:mel'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mel'er",
+        "phoneticRep": "mel.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mel-'er",
+        "etymon:gloss": "sweet-VERB",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to be sweet",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Taste Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:melter",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "melter",
+        "phoneticRep": "mel.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mel-ter",
+        "etymon:gloss": "sweet-flow",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "honey",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Natural World"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:melterai",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "melterai",
+        "phoneticRep": "mel.te.rai"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "melter-ai",
+        "etymon:gloss": "honey-water",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mead",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Food Terms",
+            "Drink Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:meris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "meris",
+        "phoneticRep": "me.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *meru-risu",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "enduring love",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Emotional Terms",
+            "Basic Terms"
+          ],
+          "usage": "Contrasts with fleeting emotions"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:merlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "merlis",
+        "phoneticRep": "mer.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mer-lis",
+        "etymon:gloss": "parent-child",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "family line, lineage",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Kinship Terms",
+            "Social Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mir",
+        "phoneticRep": "mir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *miru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cold",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Weather Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:miral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "miral",
+        "phoneticRep": "mi.ral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mir-mal",
+        "etymon:gloss": "cold-pool",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "cold pool, spring",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Water Features",
+            "Natural World"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mirthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mirthral",
+        "phoneticRep": "mir.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mir-thral",
+        "etymon:gloss": "cold-sacred",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "winter solstice",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Sacred Terms",
+            "Time Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:mobar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "mobar",
+        "phoneticRep": "mo.bar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "mo-bar",
+        "etymon:gloss": "NEG-name",
+        "etymon:soundChange": "compound fusion"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "nameless one",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Sacred Terms"
+          ]
+        }
+      ]
     }
   ]
 }

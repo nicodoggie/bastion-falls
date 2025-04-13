@@ -395,6 +395,97 @@
           "usage": "Common term for Wood Elven language"
         }
       ]
+    },
+    {
+      "@id": "ehk:wen'al",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wen'al",
+        "phoneticRep": "wen.ʔal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wen-'al",
+        "etymon:gloss": "flower person"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "woman",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Gender Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wudgral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wudgral",
+        "phoneticRep": "wud.gral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wud-thragral",
+        "etymon:gloss": "wood-garden",
+        "etymon:note": "Shows connection between sacred garden and orchard"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "orchard",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Horticulture Terms",
+            "Garden Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:wudmater",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "wudmater",
+        "phoneticRep": "wud.ma.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "wud-mater",
+        "etymon:gloss": "wood-vessel"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wood-vessel",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Vehicle Terms"
+          ]
+        }
+      ]
     }
   ]
 }

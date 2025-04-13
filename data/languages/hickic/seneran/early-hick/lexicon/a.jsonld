@@ -1243,6 +1243,379 @@
           ]
         }
       ]
+    },
+    {
+      "@id": "ehk:'al",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'al",
+        "phoneticRep": "ʔal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick hi- + *ʔalu",
+        "etymon:note": "From animacy marker + basic person term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "person",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Person Terms",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:'aleth",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Pronoun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "'aleth",
+        "phoneticRep": "ʔa.leθ"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "'aka-'al-eth",
+        "etymon:meaning": "who (sensed person)",
+        "etymon:note": "Used for heard/sensed but not seen referents"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "who (sensed but not seen)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Interrogatives",
+            "Medial Forms"
+          ],
+          "usage": "Used for referents that are heard or sensed but not visually perceived"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:aigasam",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "aigasam",
+        "phoneticRep": "ai.ga.sam"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "ai-gasam",
+        "etymon:gloss": "water-grinding",
+        "etymon:note": "Literally \"water grinding,\" referring to the use of water in the smoothing process"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wet grinding",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool Terms",
+            "Technical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:anin",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "anin",
+        "phoneticRep": "a.nin"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xanu-inu",
+        "etymon:note": "Counting form"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "four",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:arak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "arak",
+        "phoneticRep": "a.rak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *ʔaraku",
+        "etymon:meaning": "light (animate)",
+        "etymon:note": "Shows semantic shift from animate light to color"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "color",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Color Terms",
+            "Visual Terms"
+          ],
+          "usage": "Forms compounds for specific colors"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:arasaditar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "arasaditar",
+        "phoneticRep": "a.ra.sa.di.tar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "arasad-itar",
+        "etymon:gloss": "plank-SUPER",
+        "etymon:note": "Literally \"elevated plank\""
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "table",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Household Terms",
+            "Construction Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:arasud",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "arasud",
+        "phoneticRep": "a.ra.sud"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *xarasa-wudu",
+        "etymon:components": [
+          "*xaru (cut)",
+          "*asa (PERL)",
+          "*wudu (wood)"
+        ],
+        "etymon:note": "Literally \"cut-through wood\""
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "plank, cut timber",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Construction Terms",
+            "Wood Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:asa",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asa",
+        "phoneticRep": "a.sa"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *hasa",
+        "etymon:note": "Shows regular loss of initial h-"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "vine",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Plant Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:asamasam",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asamasam",
+        "phoneticRep": "a.sa.ma.sam"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "asam-asam",
+        "etymon:gloss": "rest-SUBE",
+        "etymon:note": "From asam \"rest\" with subessive case -asam, literally \"rest downward\". Shows parallel formation to asamitar \"sit\""
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to lie down",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Position Terms",
+            "Stance Actions"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:asamgasam",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asamgasam",
+        "phoneticRep": "a.sam.ga.sam"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "asamitar-gasam",
+        "etymon:gloss": "rest-grinding",
+        "etymon:note": "Literally \"rest grinding,\" referring to the initial flattening process"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "flattening (initial grinding)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Tool Terms",
+            "Technical Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:asamitar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asamitar",
+        "phoneticRep": "a.sa.mi.tar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "asam-itar",
+        "etymon:gloss": "rest-SUPER",
+        "etymon:note": "From asam \"rest, resting place\" with superessive case, literally \"rest upon\". Shows common pattern of case suffixes becoming lexicalized into verbs"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to sit, rest upon",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Position Terms",
+            "Stance Actions",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:asatogar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "asatogar",
+        "phoneticRep": "a.sa.to.gar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "asa-togar",
+        "etymon:gloss": "vine-limestone",
+        "etymon:note": "Named for its flowing, vine-like mineral formations"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "travertine",
+            "@language": "en"
+          },
+          "literalMeaning": "vine limestone",
+          "lexinfo:semanticField": [
+            "Material Terms",
+            "Natural World"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -629,6 +629,379 @@
           "lexinfo:semanticField": "Animals"
         }
       ]
+    },
+    {
+      "@id": "ehk:sak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sak",
+        "phoneticRep": "sak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *saku",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "wolf",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Animal Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sar",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sar",
+        "phoneticRep": "sar"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *saru",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "leaf",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Flora Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:saresp",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "saresp",
+        "phoneticRep": "sa.resp"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sar-esp",
+        "etymon:gloss": "leaf-under",
+        "etymon:note": "Metaphorical extension of hidden leaf beneath; reflects cultural view of growth as emergence from concealment"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "sprout",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora Terms",
+            "Agricultural Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sat",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sat",
+        "phoneticRep": "sat"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *satu",
+        "etymon:note": "Basic term for appendages, with anatomical extension. Forms compounds for specific body parts."
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "appendage; penis",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sedthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sedthral",
+        "phoneticRep": "sed.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sed-thral",
+        "etymon:gloss": "seed-day"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "planting day",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Agricultural Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sek",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sek",
+        "phoneticRep": "sek"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *seku",
+        "etymon:note": "Basic form"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "six",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sil",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sil",
+        "phoneticRep": "sil"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *silu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hide, skin",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Material Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:silpel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "silpel",
+        "phoneticRep": "sil.pel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sil-pel",
+        "etymon:gloss": "hide-bear"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "hide bear",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Animal Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:siltak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "siltak",
+        "phoneticRep": "sil.tak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sil-tak",
+        "etymon:gloss": "skin-hit"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "physical pain",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Terms",
+            "Sensation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:siltak'er",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Verb"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "siltak'er",
+        "phoneticRep": "sil.tak.ʔer"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:derivation": {
+          "base": "siltak",
+          "affix": "-'er",
+          "gloss": "physical.pain-VERB"
+        }
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "to touch",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Action Verbs",
+            "Sensation Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sim",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sim",
+        "phoneticRep": "sim"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *simu",
+        "etymon:soundChange": "final vowel loss"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fine hair, lash",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Body Parts"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sinkres",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Numeral"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sinkres",
+        "phoneticRep": "sin.kres"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sin-kres",
+        "etymon:gloss": "one-eight"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "nine",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": "Number Terms"
+        }
+      ]
+    },
+    {
+      "@id": "ehk:sinthir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "sinthir",
+        "phoneticRep": "sin.θir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "sin-thir",
+        "etymon:gloss": "one-hair"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "fly",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Insect Terms"
+          ]
+        }
+      ]
     }
   ]
 }

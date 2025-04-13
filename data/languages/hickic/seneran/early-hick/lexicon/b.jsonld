@@ -309,8 +309,8 @@
             "@language": "en"
           },
           "lexinfo:semanticField": [
-            "Flora",
-            "Plant Terms"
+            "Flora Terms",
+            "Food Terms"
           ]
         }
       ]
@@ -586,6 +586,596 @@
             "Love Terms",
             "Person Terms",
             "Family Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:barak",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "barak",
+        "phoneticRep": "ba.rak"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *baraku",
+        "etymon:note": "Forms verb barak'er \"to walk\" with -'er suffix"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "walking, gait",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Motion Terms",
+            "Movement Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:barlas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "barlas",
+        "phoneticRep": "bar.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bar-las",
+        "etymon:gloss": "name-ILL",
+        "etymon:note": "Used for intimate/personal names"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "personal name",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Name Terms",
+            "Identity Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bedek",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bedek",
+        "phoneticRep": "be.dek"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "be-dak",
+        "etymon:gloss": "mouth-snake",
+        "etymon:note": "Metaphorical compound"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tongue",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bel",
+        "phoneticRep": "bel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *belu",
+        "etymon:note": "Basic term for mouth/opening"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mouth, opening",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Maritime Terms",
+            "Architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:belimris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "belimris",
+        "phoneticRep": "be.lim.ris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bel-imris",
+        "etymon:gloss": "mouth-ELL",
+        "etymon:note": "Shows productive use of ellative case for active tasting"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "taste (active)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Case System",
+            "Sensory Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bellas",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bellas",
+        "phoneticRep": "bel.las"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bel-las",
+        "etymon:gloss": "mouth-ILL",
+        "etymon:note": "Shows productive use of illative case for reception of taste"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "taste (reception)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Case System",
+            "Sensory Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:belnes",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "belnes",
+        "phoneticRep": "bel.nes"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bel-nes",
+        "etymon:gloss": "mouth-fish",
+        "etymon:note": "Descriptive compound based on physical feature"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "mouthed fish",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Animal Terms",
+            "Fish Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brakel",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brakel",
+        "phoneticRep": "bra.kel"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bran-kel",
+        "etymon:gloss": "dawn-sky",
+        "etymon:note": "Shows nasal deletion in compounds"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "morning sky",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Sky Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bram",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bram",
+        "phoneticRep": "bram"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bramu",
+        "etymon:note": "Basic term for tidal phenomena"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tide, tidal water",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Time Terms",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bramal",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bramal",
+        "phoneticRep": "bra.mal"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bram-mal",
+        "etymon:gloss": "tide-pool",
+        "etymon:note": "Shows nasal deletion in compounds"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tidal pool",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brammater",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brammater",
+        "phoneticRep": "bram.ma.ter"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bram-mater",
+        "etymon:gloss": "tide-vessel",
+        "etymon:note": "Shows compound formation pattern for vessel types"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "river-vessel",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Vehicle Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bramulis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bramulis",
+        "phoneticRep": "bra.mu.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bram-ul-lis",
+        "etymon:gloss": "tide-POSS-eye",
+        "etymon:note": "Literally \"tide's eye\". Shows coda simplification where final -l of bramul merges with initial l- of lis"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "vortex, whirlpool",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Maritime Terms",
+            "Water Features"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:branlir",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "branlir",
+        "phoneticRep": "bran.lir"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bran-lir",
+        "etymon:note": "Military architecture term"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "watchtower",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Architecture",
+            "Military"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:branlis",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "branlis",
+        "phoneticRep": "bran.lis"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bran-lis",
+        "etymon:gloss": "branch-child",
+        "etymon:note": "Metaphorical extension of \"child\" to \"berries\" and \"fruit,\" reflecting cultural view of trees as nurturing figures"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "tree berries; fruit",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Flora Terms",
+            "Food Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:branthral",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "branthral",
+        "phoneticRep": "bran.θral"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bran-thral",
+        "etymon:gloss": "dawn-day",
+        "etymon:note": "Shows seasonal terminology pattern"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "spring",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Time Terms",
+            "Seasonal Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brast",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brast",
+        "phoneticRep": "brast"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *bara-satu",
+        "etymon:gloss": "prominent-appendage",
+        "etymon:soundChange": "compound fusion",
+        "etymon:note": "Specifically refers to dominant arm, contrasting with ret \"arm (general)\". Forms verb brast'er \"to reach\". Cultural link to tak \"right (direction)\""
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "dominant arm",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Body Parts",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bressim",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bressim",
+        "phoneticRep": "bres.sim"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:compound": "bres-sim",
+        "etymon:gloss": "wind-TRANS",
+        "etymon:note": "Shows lexicalization of translative case marking, conceptualizing weather as \"becoming like wind\""
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "weather (conditions)",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Wind Terms",
+            "Climate Terms"
+          ],
+          "usage": "Forms verb bressim'er \"to change (of weather)\""
+        }
+      ]
+    },
+    {
+      "@id": "ehk:bris",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "bris",
+        "phoneticRep": "bris"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *brisu",
+        "etymon:note": "Basic term for heat/warmth"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "heat",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Elements",
+            "Basic Terms"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "ehk:brises",
+      "@type": [
+        "ontolex:LexicalEntry",
+        "lexinfo:Noun"
+      ],
+      "canonicalForm": {
+        "@type": "ontolex:Form",
+        "writtenRep": "brises",
+        "phoneticRep": "bri.ses"
+      },
+      "etymology": {
+        "@type": "etymon:Etymology",
+        "etymon:protoform": "Proto-Hick *brisu-wesu",
+        "etymon:gloss": "heat-enclose",
+        "etymon:note": "Shows metaphorical extension of \"embraced heat\" to light/illumination. Forms verb brises'er \"to shine\", further extended of illumination to discovery and exploration"
+      },
+      "sense": [
+        {
+          "@type": "ontolex:LexicalSense",
+          "definition": {
+            "@value": "light, illumination; discover, explore",
+            "@language": "en"
+          },
+          "lexinfo:semanticField": [
+            "Natural Terms",
+            "Sacred Terms"
           ]
         }
       ]

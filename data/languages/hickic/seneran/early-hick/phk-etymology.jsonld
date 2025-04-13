@@ -1147,6 +1147,25 @@
       "baety:hasPeriod": "c. 500-600 AI",
       "baety:hasEtymologicalNote": "One of few words to resist regular sound changes, preserving both form and meaning 'laugh' from Proto-Hick. Shows unusual stability possibly due to sound symbolic/onomatopoeic nature and contrast with regular development of *halu 'good'.",
       "baety:hasConfidenceLevel": "Certain"
+    },
+    {
+      "@id": "ehketym:harala",
+      "@type": "baety:Etymology",
+      "baety:derivedForm": {
+        "@id": "ehk:thral"
+      },
+      "baety:sourceForm": {
+        "@id": "phk:harala"
+      },
+      "baety:soundChangeApplied": [
+        "Initial ha- sequence change: harala → θərala (by initial-fricative-change-sacred rule affecting ha- before stops, fricatives, liquids)",
+        "Unstressed vowel reduction: θərala → θərəla",
+        "Dental fricative cluster formation: θərəla → θrəla (by rule affecting θV before r)",
+        "Final vowel reduction: θrəla → θrəl",
+        "Romanization: θrəl → thral"
+      ],
+      "baety:hasPeriod": "c. 500-600 AI",
+      "baety:hasEtymologicalNote": "Development follows regular sound changes affecting ha- initial sequences and dental fricative clusters. The religious meaning is preserved but does not drive the sound changes."
     }
   ]
 } 
