@@ -28,7 +28,7 @@
     {%- set types = types | concat(with="preposition") -%}
     {%- elif type == "lexinfo:Conjunction" -%}
     {%- set types = types | concat(with="conjunction") -%}
-    {%- elif pe == "lexinfo:Determiner" -%}
+    {%- elif type == "lexinfo:Determiner" -%}
     {%- set types = types | concat(with="determiner") -%}
     {%- elif type == "lexinfo:Particle" -%}
     {%- set types = types | concat(with="particle") -%}
